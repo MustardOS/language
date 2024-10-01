@@ -1,9 +1,9 @@
 {
     "generic": {
-        "Back": "Back",
-        "Confirm": "Confirm",
-        "Directory": "Directory",
-        "Disabled": "Disabled",
+        "Back": "Voltar",
+        "Confirm": "Confirmar",
+        "Directory": "Directório",
+        "Disabled": "Desativado",
         "Enabled": "Enabled",
         "External": "External",
         "Extract": "Extract",
@@ -18,12 +18,12 @@
         "Previous": "Previous",
         "Recursive": "Recursive",
         "Remove": "Remove",
-        "Save": "Save",
-        "Saving Changes": "Saving Changes",
-        "Select": "Select",
-        "True": "True",
-        "Use": "Use",
-        "Visible": "Visible"
+        "Save": "Guardar",
+        "Saving Changes": "Guardar Alterações",
+        "Select": "Selecionar",
+        "True": "Verdadeiro",
+        "Use": "Usar",
+        "Visible": "Visível"
     },
     "muxapp": {
         "APPLICATIONS": "Aplicações",
