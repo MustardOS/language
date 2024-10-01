@@ -126,7 +126,8 @@
     "WI-FI NETWORK": "WI-FI 网络"
   },
   "muxoption": {
-    "Assign Core": "Assign Core"
+    "Assign Core": "Assign Core",
+    "System Governor": "System Governor"
   },
   "muxpass": {
     "PASSCODE": "密码"
