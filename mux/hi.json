@@ -180,8 +180,7 @@
         "Battery Capacity": "बैटरी की क्षमता",
         "Battery Voltage": "बैटरी वोल्टेज",
         "SYSTEM DETAILS": "सिस्टम विवरण",
-        "Device Type": "डिवाइस प्रकार",
-        "Thank you for using muOS!": "muOS का उपयोग करने के लिए धन्यवाद!"
+        "Device Type": "डिवाइस प्रकार"
     },
     "muxtask": {
         "TASK TOOLKIT": "कार्य टूलकिट",
