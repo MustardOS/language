@@ -108,6 +108,7 @@
         "DHCP": "DHCP",
         "DNS Server": "DNS 서버",
         "Device IP": "디바이스 IP",
+        "Disconnect": "Disconnect",
         "Encrypting Password...": "비밀번호 암호화중...",
         "Gateway IP": "게이트웨이 IP",
         "Identifier": "네트워크 식별자",
