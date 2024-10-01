@@ -125,6 +125,9 @@
     "Trying to Connect...": "Trying to Connect…",
     "WI-FI NETWORK": "MẠNG WI-FI"
   },
+  "muxoption": {
+    "Assign Core": "Assign Core"
+  },
   "muxpass": {
     "PASSCODE": "MẬT MÃ"
   },
