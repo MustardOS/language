@@ -51,7 +51,7 @@
     "No Cores Found...": "Keine Kerne gefunden…"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "System wird gestartet - Bitte warten...",
+    "Booting System - Please Wait...": "System wird gestartet - Bitte warten…",
     "Capacity": "Kapazität",
     "Health": "Zustand",
     "Press POWER button to continue booting...": "POWER-Taste gedruckt halten, um hochzufahren…",
@@ -335,7 +335,7 @@
     "Remove ( )": "Entferne ( )",
     "Remove [ ]": "Entferne [ ]",
     "Remove [ ] and ( )": "Entferne [ ] und ( )",
-    "Title Include Root Drive": "Title Include Root Drive",
+    "Title Include Root Drive": "Speicherort im Titel",
     "Top + Behind": "Oben + Hinten",
     "Top + Front": "Oben + Vorne"
   },
