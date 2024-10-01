@@ -108,6 +108,7 @@
         "DHCP": "DHCP",
         "DNS Server": "Server DNS",
         "Device IP": "IP adresa zařízení",
+        "Disconnect": "Disconnect",
         "Encrypting Password...": "Šifrování hesla...",
         "Gateway IP": "Brána IP",
         "Identifier": "SSID",
