@@ -176,8 +176,7 @@
         "Battery Capacity": "電池容量",
         "Battery Voltage": "電池電壓",
         "SYSTEM DETAILS": "系統詳情",
-        "Device Type": "裝置類型",
-        "Thank you for using muOS!": "感謝您使用 muOS！"
+        "Device Type": "裝置類型"
     },
     "muxtask": {
         "TASK TOOLKIT": "任務工具箱",
