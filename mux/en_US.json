@@ -125,6 +125,9 @@
     "Trying to Connect...": "Trying to Connect…",
     "WI-FI NETWORK": "WI-FI NETWORK"
   },
+  "muxoption": {
+    "Assign Core": "Assign Core"
+  },
   "muxpass": {
     "PASSCODE": "PASSCODE"
   },
