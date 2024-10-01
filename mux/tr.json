@@ -70,7 +70,7 @@
         "Activity Tracker": "Etkinlik izleyici",
         "INFORMATION": "BİLGİ",
         "Input Tester": "Tuş testi",
-        "Supporters": "Destekçiler",
+        "Supporters": "Destekleyenler",
         "System Details": "Sistem ayrıntıları"
     },
     "muxlanguage": {
@@ -195,7 +195,7 @@
     "muxtester": {
         "INPUT TESTER": "TUŞ TESTİ",
         "Press POWER to finish testing": "Testi bitirmek için GÜÇ düğmesine basın",
-        "Press any button to start input testing!": "Girdi testini başlatmak için herhangi bir düğmeye basın!"
+        "Press any button to start input testing!": "Tuş testini başlatmak için herhangi bir düğmeye basın!"
     },
     "muxtheme": {
         "Loading Theme": "Tema yükleniyor",
@@ -203,7 +203,7 @@
         "THEME PICKER": "TEMA SEÇİCİ"
     },
     "muxtimezone": {
-        "No Timezones Found...": "Zaman dilimi bulunamadı...",
+        "No Timezones Found...": "Zaman dilimi bulunamadı…",
         "Saving Timezone": "Zaman dilimi kaydediliyor",
         "TIMEZONE": "ZAMAN DİLİMİ"
     },
@@ -212,11 +212,11 @@
         "ADVANCED SETTINGS": "GELİŞMİŞ AYARLAR",
         "Android Debug Bridge": "Android Hata Ayıklama Köprüsü",
         "Battery Offset": "Pil ofseti",
-        "Brightness On Boot": "Açılışta parlaklık",
+        "Brightness On Boot": "Açılış parlaklığı",
         "Device Rumble": "Cihaz titreşimi",
         "HDMI Audio Output": "HDMI ses çıkışı",
         "High": "Yüksek",
-        "Interface Font Type": "Arayüz font tipi",
+        "Interface Font Type": "Arayüz yazı tipi",
         "LED During Play": "Oyun sırasında LED",
         "Language": "Dil",
         "Loud": "Yüksek sesli",
@@ -240,7 +240,7 @@
         "Thermal Zone Control": "Termal bölge kontrolü",
         "USB Function": "USB fonksiyonu",
         "Verbose Messages": "Ayrıntılı mesajlar",
-        "Volume On Boot": "Açılışta ses seviyesi"
+        "Volume On Boot": "Açılış ses seviyesi"
     },
     "muxtweakgen": {
         "1080i + 50hz": "1080i + 50hz",
@@ -286,7 +286,7 @@
         "Idle Input Display Timeout": "Eylemsizlik ekran zaman aşımı",
         "Idle Input Sleep Timeout": "Eylemsizlik uyku modu zaman aşımı",
         "Instant Shutdown": "Anında kapat",
-        "Interface Options": "Arayüz ayarları",
+        "Interface Options": "Arayüz seçenekleri",
         "Last Game": "Son oyun",
         "Low Battery Indicator": "Düşük pil göstergesi",
         "Main Menu": "Ana menü",
@@ -326,7 +326,7 @@
         "Full Name": "Tam isim",
         "Fullscreen + Behind": "Tam ekran + Arka",
         "Fullscreen + Front": "Tam ekran + Ön",
-        "INTERFACE OPTIONS": "ARAYÜZ AYARLARI",
+        "INTERFACE OPTIONS": "ARAYÜZ SEÇENEKLERİ",
         "Menu Counter File": "Menü sayaç dosyası",
         "Menu Counter Folder": "Menü sayaç klasörü",
         "Middle + Behind": "Orta + Arka",
@@ -339,12 +339,12 @@
         "Top + Front": "Üst + Ön"
     },
     "muxwebserv": {
-        "Network Time Sync": "Network Time Sync",
+        "Network Time Sync": "Ağ zaman senkronizasyonu",
         "Resilio": "Resilio",
         "SFTP + Filebrowser": "SFTP + Filebrowser",
         "Secure Shell": "Secure Shell",
         "Syncthing": "Syncthing",
         "Virtual Terminal": "Virtual Terminal",
-        "WEB SERVICES": "AĞ HİZMETLERİ"
+        "WEB SERVICES": "AĞ SERVİSLERİ"
     }
 }
