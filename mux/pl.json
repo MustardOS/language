@@ -58,13 +58,13 @@
         "Voltage": "Napięcie"
     },
     "muxconfig": {
-        "General Settings": "Ustawienia ogólne",
-        "Theme Picker": "Wybór motywu",
-        "Wi-Fi Network": "Sieć Wi-Fi",
-        "Web Services": "Usługi sieciowe",
+        "CONFIGURATION": "KONFIGURACJA",
         "Date and Time": "Data i czas",
+        "General Settings": "Ustawienia ogólne",
         "Language": "Język",
-        "CONFIGURATION": "KONFIGURACJA"
+        "Theme Picker": "Wybór motywu",
+        "Web Services": "Usługi sieciowe",
+        "Wi-Fi Network": "Sieć Wi-Fi"
     },
     "muxinfo": {
         "Activity Tracker": "Monitor aktywności",
@@ -332,8 +332,8 @@
         "Middle + Front": "Środek + Przód",
         "Network": "Sieć",
         "Remove ( )": "Usuń ( )",
-        "Remove [ ] and ( )": "Usuń [ ] i ( )",
         "Remove [ ]": "Usuń [ ]",
+        "Remove [ ] and ( )": "Usuń [ ] i ( )",
         "Top + Behind": "Góra + Tył",
         "Top + Front": "Góra + Przód"
     },
