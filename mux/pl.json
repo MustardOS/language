@@ -14,9 +14,9 @@
     "Launch": "Uruchom",
     "Load": "Wczytaj",
     "Next": "Następny",
-    "No Help Information Found": "No Help Information Found",
+    "No Help Information Found": "Nie znaleziono informacji pomocy",
     "Open": "Otwórz",
-    "Previous": "Poprzednia",
+    "Previous": "Poprzedni",
     "Recursive": "Rekursywny",
     "Remove": "Usuń",
     "Save": "Zapisz",
@@ -52,7 +52,7 @@
     "No Cores Found...": "Nie znaleziono rdzeni…"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "Uruchamianie systemu - Proszę czekać...",
+    "Booting System - Please Wait...": "Uruchamianie systemu - Proszę czekać…",
     "Capacity": "Pojemność",
     "Health": "Zdrowie",
     "Press POWER button to continue booting...": "Wciśnij POWER, aby kontynuować uruchamianie…",
@@ -127,8 +127,8 @@
     "WI-FI NETWORK": "SIEĆ WI-FI"
   },
   "muxoption": {
-    "Assign Core": "Assign Core",
-    "System Governor": "System Governor"
+    "Assign Core": "Przypisz rdzeń",
+    "System Governor": "Regulator systemu"
   },
   "muxpass": {
     "PASSCODE": "HASŁO"
@@ -340,7 +340,7 @@
     "Remove ( )": "Usuń ( )",
     "Remove [ ]": "Usuń [ ]",
     "Remove [ ] and ( )": "Usuń [ ] i ( )",
-    "Title Include Root Drive": "Title Include Root Drive",
+    "Title Include Root Drive": "Lokalizacja w tytule",
     "Top + Behind": "Góra + Tył",
     "Top + Front": "Góra + Przód"
   },
