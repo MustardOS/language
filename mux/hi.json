@@ -125,6 +125,9 @@
     "Trying to Connect...": "कनेक्ट करने का प्रयास कर रहा है...",
     "WI-FI NETWORK": "वाई-फ़ाई नेटवर्क"
   },
+  "muxoption": {
+    "Assign Core": "Assign Core"
+  },
   "muxpass": {
     "PASSCODE": "पासकोड"
   },
