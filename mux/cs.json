@@ -46,8 +46,8 @@
         "No Archives Found": "Nebyly nalezeny žádné archivy"
     },
     "muxassign": {
-        "ASSIGN CORE": "PŘIŘADIT JÁDRO",
         "ASSIGN": "PŘIŘADIT",
+        "ASSIGN CORE": "PŘIŘADIT JÁDRO",
         "No Cores Found...": "Nebyla nalezena žádná jádra..."
     },
     "muxcharge": {
@@ -132,10 +132,10 @@
         "Could not load content - No core is associated": "Nelze načíst obsah - není přidruženo žádné jádro",
         "Could not load content!": "Obsah se nepodařilo načíst!",
         "Directories cannot be added to Favourites": "Adresáře nelze přidat do oblíbených položek",
+        "EXPLORE": "PROZKOUMAT",
         "EXPLORE (SD1)": "PROZKOUMAT (SD1)",
         "EXPLORE (SD2)": "PROZKOUMAT (SD2)",
         "EXPLORE (USB)": "PROZKOUMAT (USB)",
-        "EXPLORE": "PROZKOUMAT",
         "Error adding to Favourites": "Chyba při přidávání do oblíbených",
         "FAVOURITES": "OBLÍBENÉ",
         "Favourite": "Oblíbené",
@@ -234,8 +234,8 @@
         "Startup + Sleep": "Spuštění + Spánek",
         "Storage Preference": "Předvolba úložiště",
         "Suspend Power State": "Pozastavit stav napájení",
-        "Theme Controlled": "Řízené Tématem",
         "Theme": "Téma",
+        "Theme Controlled": "Řízené Tématem",
         "Thermal Zone Control": "Ovládání tepelné zóny",
         "USB Function": "Funkce USB",
         "Verbose Messages": "Podrobné zprávy",
@@ -332,8 +332,8 @@
         "Middle + Front": "Střed + Na popředí",
         "Network": "Síť",
         "Remove ( )": "Odstranit ( )",
-        "Remove [ ] and ( )": "Odstranit [ ] a ( )",
         "Remove [ ]": "Odstranit [ ]",
+        "Remove [ ] and ( )": "Odstranit [ ] a ( )",
         "Top + Behind": "Nahoře + V pozadí",
         "Top + Front": "Nahoře + Na popředí"
     },
