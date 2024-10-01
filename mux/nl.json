@@ -14,7 +14,7 @@
     "Launch": "Starten",
     "Load": "Laden",
     "Next": "Volgende",
-    "No Help Information Found": "No Help Information Found",
+    "No Help Information Found": "Geen Hulp Informatie Gevonden",
     "Open": "Openen",
     "Previous": "Vorige",
     "Recursive": "Recursief",
@@ -127,7 +127,7 @@
     "WI-FI NETWORK": "NETWERK"
   },
   "muxoption": {
-    "Assign Core": "Assign Core",
+    "Assign Core": "Core Toewijzen",
     "System Governor": "System Governor"
   },
   "muxpass": {
