@@ -38,7 +38,7 @@
         "PortMaster": "PortMaster",
         "RetroArch": "RetroArch",
         "Simple Terminal": "Simple Terminal",
-        "Task Toolkit": "Task Toolkit"
+        "Task Toolkit": "Task Toolkitr"
     },
     "muxarchive": {
         "ARCHIVE MANAGER": "ARCHIVE MANAGER",
@@ -122,7 +122,8 @@
         "Status": "Status",
         "Subnet CIDR": "Subnet CIDR",
         "Trying to Connect...": "Trying to Connect…",
-        "WI-FI NETWORK": "WI-FI NETWORK"
+        "WI-FI NETWORK": "WI-FI NETWORK",
+        "Disconnect": "Disconnect"
     },
     "muxpass": {
         "PASSCODE": "PASSCODE"
