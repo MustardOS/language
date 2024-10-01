@@ -2,7 +2,7 @@
     "generic": {
         "Back": "Geri",
         "Confirm": "Onayla",
-        "Directory": "Dizin",
+        "Directory": "Klasör",
         "Disabled": "Devre dışı",
         "Enabled": "Etkin",
         "External": "Harici",
@@ -13,10 +13,10 @@
         "Internal": "Dahili",
         "Launch": "Başlat",
         "Load": "Yükle",
-        "Next": "Sıradaki",
+        "Next": "Sonraki",
         "Open": "Aç",
         "Previous": "Önceki",
-        "Recursive": "Yinelge",
+        "Recursive": "Yinelenmiş",
         "Remove": "Kaldır",
         "Save": "Kaydet",
         "Saving Changes": "Değişiklikler kaydediliyor",
@@ -29,7 +29,7 @@
         "APPLICATIONS": "UYGULAMALAR",
         "Archive Manager": "Arşiv Yöneticisi",
         "Dingux Commander": "Dingux Commander",
-        "Flip Clock": "Çevirmeli Saat",
+        "Flip Clock": "Masa Saati",
         "GMU Music Player": "GMU Müzik Çalar",
         "Loading Application": "Uygulama yükleniyor",
         "Moonlight": "Moonlight",
@@ -42,19 +42,19 @@
     },
     "muxarchive": {
         "ARCHIVE MANAGER": "ARŞİV YÖNETİCİSİ",
-        "INSTALLED": "KURULDU",
+        "INSTALLED": "YÜKLÜ",
         "No Archives Found": "Arşiv bulunamadı"
     },
     "muxassign": {
         "ASSIGN": "ATA",
         "ASSIGN CORE": "ÇEKİRDEK ATA",
-        "No Cores Found...": "Çekirdek bulunamadı..."
+        "No Cores Found...": "Çekirdek bulunamadı…"
     },
     "muxcharge": {
-        "Booting System - Please Wait...": "Sistem önyükleniyor - Lütfen bekleyin...",
+        "Booting System - Please Wait...": "Sistem yükleniyor - Lütfen bekleyin...",
         "Capacity": "Kapasite",
         "Health": "Sağlık",
-        "Press POWER button to continue booting...": "Önyüklemeye devam etmek için GÜÇ düğmesine basın...",
+        "Press POWER button to continue booting...": "Yüklemeye devam etmek için GÜÇ düğmesine basın…",
         "Voltage": "Voltaj"
     },
     "muxconfig": {
@@ -63,19 +63,19 @@
         "General Settings": "Genel ayarlar",
         "Language": "Dil",
         "Theme Picker": "Tema seçici",
-        "Web Services": "Web hizmetleri",
+        "Web Services": "Web servisleri",
         "Wi-Fi Network": "Wi-Fi ağı"
     },
     "muxinfo": {
         "Activity Tracker": "Etkinlik izleyici",
         "INFORMATION": "BİLGİ",
-        "Input Tester": "Input Tester",
+        "Input Tester": "Tuş testi",
         "Supporters": "Destekçiler",
         "System Details": "Sistem ayrıntıları"
     },
     "muxlanguage": {
         "LANGUAGES": "DİLLER",
-        "No Languages Found...": "Dil bulunamadı...",
+        "No Languages Found...": "Dil bulunamadı…",
         "Saving Language": "Dil kaydediliyor"
     },
     "muxlaunch": {
@@ -90,7 +90,7 @@
         "Shutdown": "Kapat"
     },
     "muxnetprofile": {
-        "Loading Network Profiles...": "Ağ profilleri yükleniyor...",
+        "Loading Network Profiles...": "Ağ profilleri yükleniyor…",
         "NETWORK PROFILE": "AĞ PROFİLİ",
         "No Saved Network Profiles Found": "Kayıtlı ağ profili bulunamadı"
     },
@@ -98,7 +98,7 @@
         "NETWORK SCAN": "AĞ TARAMASI",
         "No Wi-Fi Networks Found": "Wi-Fi ağı bulunamadı",
         "Rescan": "Yeniden tara",
-        "Scanning for Wi-Fi Networks...": "Wi-Fi ağları taranıyor..."
+        "Scanning for Wi-Fi Networks...": "Wi-Fi ağları taranıyor…"
     },
     "muxnetwork": {
         "Cannot modify while connected!": "Bağlıyken değiştirilemez!",
@@ -106,10 +106,10 @@
         "Connect": "Bağlan",
         "Connected": "Bağlı",
         "DHCP": "DHCP",
-        "DNS Server": "DNS Sunucusu",
+        "DNS Server": "DNS sunucusu",
         "Device IP": "Cihaz IP'si",
-        "Disconnect": "Disconnect",
-        "Encrypting Password...": "Parola şifreleniyor...",
+        "Disconnect": "Bağlantıyı kes",
+        "Encrypting Password...": "Parola şifreleniyor…",
         "Gateway IP": "IP ağ geçidi",
         "Identifier": "Ağ adı",
         "Network Disabled": "Ağ devre dışı",
@@ -122,17 +122,17 @@
         "Static": "Statik",
         "Status": "Durum",
         "Subnet CIDR": "Alt ağ CIDR",
-        "Trying to Connect...": "Bağlanmaya çalışıyor...",
+        "Trying to Connect...": "Bağlanmaya çalışıyor…",
         "WI-FI NETWORK": "WI-FI AĞI"
     },
     "muxpass": {
         "PASSCODE": "ŞİFRE"
     },
     "muxplore": {
-        "Added to Favourites": "Favorilere ekle",
+        "Added to Favourites": "Favorilere eklendi",
         "Could not load content - No core is associated": "İçerik yüklenemedi - Çekirdek ilişkilendirilmemiş",
         "Could not load content!": "İçerik yüklenemedi!",
-        "Directories cannot be added to Favourites": "Dizinler, Favorilere eklenemez",
+        "Directories cannot be added to Favourites": "Klasörler, Favorilere eklenemez",
         "EXPLORE": "KEŞFET",
         "EXPLORE (SD1)": "KEŞFET (SD1)",
         "EXPLORE (SD2)": "KEŞFET (SD2)",
@@ -142,7 +142,7 @@
         "Favourite": "Favori",
         "HISTORY": "GEÇMİŞ",
         "Info": "Bilgi",
-        "Loading...": "Yükleniyor...",
+        "Loading...": "Yükleniyor…",
         "Refresh": "Yenile"
     },
     "muxrtc": {
@@ -182,7 +182,7 @@
         "Device Type": "Cihaz türü",
         "Linux Kernel": "Linux Kernel",
         "RAM Usage": "RAM kullanımı",
-        "Running Services": "Çalışan hizmetler",
+        "Running Services": "Çalışan servisler",
         "SYSTEM DETAILS": "SİSTEM AYRINTILARI",
         "System Uptime": "Sistem çalışma süresi",
         "Temperature": "Sıcaklık",
@@ -193,7 +193,7 @@
         "TASK TOOLKIT": "TASK TOOLKIT"
     },
     "muxtester": {
-        "INPUT TESTER": "INPUT TESTER",
+        "INPUT TESTER": "TUŞ TESTİ",
         "Press POWER to finish testing": "Testi bitirmek için GÜÇ düğmesine basın",
         "Press any button to start input testing!": "Girdi testini başlatmak için herhangi bir düğmeye basın!"
     },
