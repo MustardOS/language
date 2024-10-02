@@ -147,7 +147,7 @@
     "Favourite": "Favori",
     "HISTORY": "HISTORIQUE",
     "Info": "Information",
-    "Loading...": "Chargement...",
+    "Loading...": "Chargement…",
     "Refresh": "Rafraîchir"
   },
   "muxrtc": {
@@ -216,7 +216,7 @@
     "A+B Button Swap": "Inversion des boutons A+B",
     "ADVANCED SETTINGS": "RÉGLAGES AVANCÉS",
     "Android Debug Bridge": "Android Debug Bridge",
-    "Battery Offset": "Décalage de la batterie",
+    "Battery Offset": "Ajustement de la précision de la batterie",
     "Brightness On Boot": "Luminosité au démarrage",
     "Device Rumble": "Vibration de la console",
     "HDMI Audio Output": "Sortie audio HDMI",
