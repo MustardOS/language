@@ -14,7 +14,7 @@
     "Launch": "起動する",
     "Load": "設定を読み込む",
     "Next": "次へ",
-    "No Help Information Found": "No Help Information Found",
+    "No Help Information Found": "ヘルプ情報が見つかりませんでした",
     "Open": "開く",
     "Previous": "前回の設定を使用",
     "Recursive": "再帰的に指定",
@@ -52,7 +52,7 @@
     "No Cores Found...": "コアが見つかりませんでした"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "システムを起動しています - お待ちください...",
+    "Booting System - Please Wait...": "システムを起動しています - お待ちください…",
     "Capacity": "容量",
     "Health": "状態",
     "Press POWER button to continue booting...": "起動を続けるには電源ボタンを押してください…",
@@ -127,8 +127,8 @@
     "WI-FI NETWORK": "WI-FI ネットワーク"
   },
   "muxoption": {
-    "Assign Core": "Assign Core",
-    "System Governor": "System Governor"
+    "Assign Core": "コアを設定する",
+    "System Governor": "システムガバナー"
   },
   "muxpass": {
     "PASSCODE": "パスコード"
@@ -340,7 +340,7 @@
     "Remove ( )": "( )を省略",
     "Remove [ ]": "[ ]を省略",
     "Remove [ ] and ( )": "[ ] と ( )を省略",
-    "Title Include Root Drive": "Title Include Root Drive",
+    "Title Include Root Drive": "タイトルにスロット名を表示",
     "Top + Behind": "上部 + 背面",
     "Top + Front": "上部 + 前面"
   },
