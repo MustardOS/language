@@ -150,6 +150,9 @@
     "Loading...": "Načítání...",
     "Refresh": "Obnovit"
   },
+  "muxpower": {
+    "POWER SETTINGS": "POWER SETTINGS"
+  },
   "muxrtc": {
     "12 Hour": "12 Hodin",
     "24 Hour": "24 Hodin",
