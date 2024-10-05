@@ -43,15 +43,13 @@
   },
   "muxarchive": {
     "ARCHIVE MANAGER": "아카이브 매니저",
-    "Archive items can be found and installed here. Save games and states, updates, themes etc.": "Archive items can be found and installed here. Save games and states, updates, themes etc.",
     "INSTALLED": "설치됨",
     "No Archives Found": "아카이브 없음"
   },
   "muxassign": {
     "ASSIGN": "할당",
     "ASSIGN CORE": "코어 할당하기",
-    "No Cores Found...": "코어 없음…",
-    "This is where you can assign a core or external emulator to content.": "This is where you can assign a core or external emulator to content."
+    "No Cores Found...": "코어 없음…"
   },
   "muxcharge": {
     "Booting System - Please Wait...": "시스템 부팅중 - 기다려주세요…",
@@ -62,68 +60,46 @@
   },
   "muxconfig": {
     "CONFIGURATION": "구성",
-    "Change your current date, time, and timezone.": "Change your current date, time, and timezone.",
-    "Connect to a Wi-Fi network manually or via a saved profile.": "Connect to a Wi-Fi network manually or via a saved profile.",
     "Date and Time": "날짜와 시간",
-    "Device specific and muOS frontend settings can be found here.": "Device specific and muOS frontend settings can be found here.",
     "General Settings": "일반 설정",
     "Language": "언어",
-    "Select a muOS supported theme.": "Select a muOS supported theme.",
-    "Select your preferred language.": "Select your preferred language.",
     "Theme Picker": "테마 피커",
-    "Toggle a range of configurable services you can access via an active network.": "Toggle a range of configurable services you can access via an active network.",
     "Web Services": "웹 서비스",
     "Wi-Fi Network": "Wi-Fi 네트워크"
   },
   "muxgov": {
-    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance.": "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance.",
     "GOVERNOR": "GOVERNOR",
     "No Governors Found...": "No Governors Found…"
   },
   "muxinfo": {
-    "Access statistics of played content and other activity.": "Access statistics of played content and other activity.",
-    "Access version information and system details.": "Access version information and system details.",
     "Activity Tracker": "액티비티 트래커",
     "INFORMATION": "정보",
     "Input Tester": "인풋 테스트기",
     "Supporters": "후원 감사의 말",
-    "System Details": "시스템 상세정보",
-    "Test the controls of the device.": "Test the controls of the device.",
-    "View all of the current muOS supporters.": "View all of the current muOS supporters."
+    "System Details": "시스템 상세정보"
   },
   "muxlanguage": {
     "LANGUAGES": "언어",
     "No Languages Found...": "언어 설정 없음…",
-    "Saving Language": "언어 저장중",
-    "Select your preferred language.": "Select your preferred language."
+    "Saving Language": "언어 저장중"
   },
   "muxlaunch": {
     "Applications": "어플리케이션",
     "Configuration": "구성",
-    "Content marked as favourite can be found and launched here.": "Content marked as favourite can be found and launched here.",
-    "Content on storage devices (SD1/SD2/USB) can be found and launched here.": "Content on storage devices (SD1/SD2/USB) can be found and launched here.",
-    "Content previously launched can be found and launched here.": "Content previously launched can be found and launched here.",
     "Explore Content": "콘텐츠 탐색",
     "Favourites": "즐겨찾기",
     "History": "최근 실행",
     "Information": "정보",
     "MAIN MENU": "메인 메뉴",
     "Reboot": "재부팅",
-    "Reboot your device safely.": "Reboot your device safely.",
-    "Shut down your device safely.": "Shut down your device safely.",
-    "Shutdown": "시스템 종료",
-    "Various applications can be found and launched here.": "Various applications can be found and launched here.",
-    "Various configurations can be changed here.": "Various configurations can be changed here.",
-    "Various information can be found and launched here.": "Various information can be found and launched here."
+    "Shutdown": "시스템 종료"
   },
   "muxnetprofile": {
     "Loading Network Profiles...": "네트워크 프로필 로드중…",
     "NETWORK PROFILE": "네트워크 프로필",
-    "No Saved Network Profiles Found": "저장된 네트워크 프로필을 찾을 수 없음",
-    "Quickly switch between different Wi-Fi configurations based on your location or network preferences.": "Quickly switch between different Wi-Fi configurations based on your location or network preferences."
+    "No Saved Network Profiles Found": "저장된 네트워크 프로필을 찾을 수 없음"
   },
   "muxnetscan": {
-    "Detect, display and connect to available Wi-Fi networks.": "Detect, display and connect to available Wi-Fi networks.",
     "NETWORK SCAN": "네트워크 스캔",
     "No Wi-Fi Networks Found": "Wi-Fi 네트워크를 찾을 수 없음",
     "Rescan": "재스캔",
@@ -133,24 +109,12 @@
     "Cannot modify while connected!": "연결된 상태에서는 변경이 불가!",
     "Changes Saved": "변경 저장됨",
     "Connect": "연결",
-    "Connect to the network using options entered above.": "Connect to the network using options entered above.",
     "Connected": "연결됨",
     "DHCP": "DHCP 방식",
     "DNS Server": "DNS 서버",
     "Device IP": "디바이스 IP",
     "Disconnect": "연결 해제",
     "Encrypting Password...": "비밀번호 암호화중…",
-    "Enter the device IP address here": {
-      " (Static only)": "Enter the device IP address here. (Static only)"
-    },
-    "Enter the device Subnet (CIDR) number here": {
-      " (Static only)": "Enter the device Subnet (CIDR) number here. (Static only)"
-    },
-    "Enter the network gateway address here": {
-      " (Static only)": "Enter the network gateway address here. (Static only)"
-    },
-    "Enter the network identifier (SSID) here.": "Enter the network identifier (SSID) here.",
-    "Enter the network password here.": "Enter the network password here.",
     "Gateway IP": "게이트웨이 IP",
     "Identifier": "네트워크 식별자",
     "Network Disabled": "네트워크 비활성화",
@@ -163,15 +127,11 @@
     "Static": "Static 방식",
     "Status": "연결 상태",
     "Subnet CIDR": "서브넷 CIDR",
-    "Toggle between DHCP and Static network types.": "Toggle between DHCP and Static network types.",
-    "Toggle the Wi-Fi network on and off.": "Toggle the Wi-Fi network on and off.",
     "Trying to Connect...": "연결 시도중…",
     "WI-FI NETWORK": "WI-FI 네트워크"
   },
   "muxoption": {
     "Assign Core": "코어 할당",
-    "Set the CPU governor for the selected content or directory.": "Set the CPU governor for the selected content or directory.",
-    "Set the system core or external emulator for the selected content or directory.": "Set the system core or external emulator for the selected content or directory.",
     "System Governor": "시스템 거버너"
   },
   "muxpass": {
@@ -203,10 +163,6 @@
     "30s": "30초",
     "5m": "5분",
     "60s": "60초",
-    "Configure how the power button functions on long press (2 seconds).": "Configure how the power button functions on long press (2 seconds).",
-    "Configure the time the device will sleep when no input is detected.": "Configure the time the device will sleep when no input is detected.",
-    "Configure the time the screen will dim when no input is detected.": "Configure the time the screen will dim when no input is detected.",
-    "Configure when the red LED will display based on the current capacity percentage.": "Configure when the red LED will display based on the current capacity percentage.",
     "Idle Input Display Timeout": "화면 보호기 대기 시간",
     "Idle Input Sleep Timeout": "슬립 모드 대기 시간",
     "Instant Shutdown": "즉시 시스템 종료",
@@ -226,7 +182,6 @@
   "muxrtc": {
     "12 Hour": "12 시간제",
     "24 Hour": "24 시간제",
-    "Change your current date, time, and timezone.": "Change your current date, time, and timezone.",
     "DATE AND TIME": "날짜와 시간",
     "Day": "일",
     "Hour": "시",
@@ -239,19 +194,8 @@
   "muxstorage": {
     "AUTO": "자동",
     "Background Music": "배경 음악",
-    "Change where muOS looks for Language files.": "Change where muOS looks for Language files.",
-    "Change where muOS looks for Network Profiles.": "Change where muOS looks for Network Profiles.",
-    "Change where muOS looks for RetroArch BIOS.": "Change where muOS looks for RetroArch BIOS.",
-    "Change where muOS looks for RetroArch Configurations.": "Change where muOS looks for RetroArch Configurations.",
-    "Change where muOS looks for background music.": "Change where muOS looks for background music.",
-    "Change where muOS looks for content images and text.": "Change where muOS looks for content images and text.",
-    "Change where muOS looks for favourites, history, and assigned content.": "Change where muOS looks for favourites, history, and assigned content.",
-    "Change where muOS looks for save states and files.": "Change where muOS looks for save states and files.",
-    "Change where muOS looks for themes.": "Change where muOS looks for themes.",
-    "Change where muOS saves screenshots.": "Change where muOS saves screenshots.",
     "Content Management": "콘텐츠 관리",
     "Languages": "언어",
-    "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "메타데이터 카탈로그",
     "Network Profiles": "네트워크 프로필",
     "RetroArch BIOS": "레트로아크 바이오스",
@@ -276,18 +220,6 @@
     "SYSTEM DETAILS": "시스템 상세정보",
     "System Uptime": "시스템 업타임",
     "Temperature": "온도",
-    "The current CPU frequency of the device.": "The current CPU frequency of the device.",
-    "The current Linux kernel.": "The current Linux kernel.",
-    "The current detected battery capacity.": "The current detected battery capacity.",
-    "The current detected battery voltage.": "The current detected battery voltage.",
-    "The current detected temperature of the device.": "The current detected temperature of the device.",
-    "The current device type detected and configured.": "The current device type detected and configured.",
-    "The current running governor of the device.": "The current running governor of the device.",
-    "The current running time of the system.": "The current running time of the system.",
-    "The current version of muOS running on the device.": "The current version of muOS running on the device.",
-    "The current, and total, memory usage of the device.": "The current, and total, memory usage of the device.",
-    "The detected CPU type of the device.": "The detected CPU type of the device.",
-    "The number of processes currently running on the system.": "The number of processes currently running on the system.",
     "muOS Version": "muOS 버전"
   },
   "muxtask": {
@@ -307,22 +239,14 @@
   "muxtimezone": {
     "No Timezones Found...": "타임존 발견되지 않음…",
     "Saving Timezone": "타임존 저장중",
-    "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "타임존"
   },
   "muxtweakadv": {
     "A+B Button Swap": "A+B 버튼 교체",
     "ADVANCED SETTINGS": "고급 설정",
-    "Adjust the rate of speed when holding navigation keys down.": "Adjust the rate of speed when holding navigation keys down.",
     "Android Debug Bridge": "안드로이드 디버그 브릿지",
     "Battery Offset": "배터리 오프셋",
     "Brightness On Boot": "부팅시 밝기",
-    "Change how the device buttons work globally.": "Change how the device buttons work globally.",
-    "Change how the font type works in the frontend. 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts. 'Language' will specifically use language based font.": "Change how the font type works in the frontend. 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts. 'Language' will specifically use language based font.",
-    "Change the default audio level that the device will use each time it starts up.": "Change the default audio level that the device will use each time it starts up.",
-    "Change the default brightness level that the device will use each time it starts up.": "Change the default brightness level that the device will use each time it starts up.",
-    "Change the default theme used for the next device launch.": "Change the default theme used for the next device launch.",
-    "Change the displayed battery percentage to improve accuracy based on calibration or known deviations in the battery capacity reading.": "Change the displayed battery percentage to improve accuracy based on calibration or known deviations in the battery capacity reading.",
     "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!": "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!",
     "Device Rumble": "디바이스 진동",
     "HDMI Audio Output": "HDMI 오디오 출력",
@@ -346,18 +270,9 @@
     "Startup + Sleep": "시작할 때와 슬립시",
     "Storage Preference": "저장소 선호",
     "Suspend Power State": "절전 상태",
-    "Switch between device speaker or external monitor audio via HDMI connection.": "Switch between device speaker or external monitor audio via HDMI connection.",
-    "Switch between system sleep suspend states.": "Switch between system sleep suspend states.",
     "Theme": "테마",
     "Theme Controlled": "테마가 조절",
     "Thermal Zone Control": "써멀 존 컨트롤",
-    "Toggle a delayed start of RetroArch until a network connection is established.": "Toggle a delayed start of RetroArch until a network connection is established.",
-    "Toggle between ADB and MTP USB functionality.": "Toggle between ADB and MTP USB functionality.",
-    "Toggle startup and shutdown verbose messages used for debugging faults.": "Toggle startup and shutdown verbose messages used for debugging faults.",
-    "Toggle the passcode lock - More information can be found on the muOS website.": "Toggle the passcode lock - More information can be found on the muOS website.",
-    "Toggle the power LED during content launch.": "Toggle the power LED during content launch.",
-    "Toggle the system ability to automatically shut the device down due high temperature.": "Toggle the system ability to automatically shut the device down due high temperature.",
-    "Toggle vibration for device startup, sleep, and shutdown.": "Toggle vibration for device startup, sleep, and shutdown.",
     "USB Function": "USB 기능",
     "Verbose Messages": "메시지 출력",
     "Volume On Boot": "부팅시 볼륨"
@@ -381,9 +296,6 @@
     "Background Music": "배경 음악",
     "Brightness": "밝기",
     "Candlelight Yellow (128)": "촛불 노란색 (128)",
-    "Change the brightness of the device to a specific level.": "Change the brightness of the device to a specific level.",
-    "Change the colour temperature of the display if the device supports it.": "Change the colour temperature of the display if the device supports it.",
-    "Change where the device will start up into.": "Change where the device will start up into.",
     "Colour Temperature": "색 온도",
     "Content Explorer": "콘텐츠 탐색기",
     "Cool Glacier (-160)": "시원한 빙하 (-160)",
@@ -405,15 +317,9 @@
     "Neutral White (0)": "Neutral White (0)",
     "Resume Game": "게임 재개",
     "Settings that should only be changed by those who know what they are doing!": "Settings that should only be changed by those who know what they are doing!",
-    "Settings to change the power features of the device.": "Settings to change the power features of the device.",
-    "Settings to change the visual aspects of the frontend.": "Settings to change the visual aspects of the frontend.",
     "Show Hidden Content": "숨긴 콘텐츠 보기",
     "Soft Ivory (96)": "Soft Ivory (96)",
     "Sunset Orange (192)": "Sunset Orange (192)",
-    "Toggle hidden content displayed in Explore Content. Place a '.' or '_' character at the start of a file or folder name to hide it.": "Toggle hidden content displayed in Explore Content. Place a '.' or '_' character at the start of a file or folder name to hide it.",
-    "Toggle the HDMI output to a specific resolution and frequency.": "Toggle the HDMI output to a specific resolution and frequency.",
-    "Toggle the background music of the frontend - This will stop if content is launched.": "Toggle the background music of the frontend - This will stop if content is launched.",
-    "Toggle the navigation sound of the frontend if the current theme supports it.": "Toggle the navigation sound of the frontend if the current theme supports it.",
     "Warm Glow (160)": "Warm Glow (160)",
     "Warm White (64)": "Warm White (64)",
     "Winter Sky (-96)": "Winter Sky (-96)"
@@ -424,9 +330,6 @@
     "Bluetooth": "블루투스",
     "Bottom + Behind": "하단 + 뒤에",
     "Bottom + Front": "하단 + 앞에",
-    "Change the display priority of the content images.": "Change the display priority of the content images.",
-    "Change the screen alignment of the content images.": "Change the screen alignment of the content images.",
-    "Changes the top title label in Explore Content to show current storage device along with folder name.": "Changes the top title label in Explore Content to show current storage device along with folder name.",
     "Clock": "시계",
     "Content Box Art": "콘텐츠 박스 아트",
     "Content Dash Replacement": "콘텐츠 대시 교체",
@@ -443,22 +346,10 @@
     "Middle + Behind": "가운데 + 뒤에",
     "Middle + Front": "가운데 + 앞에",
     "Network": "네트워크",
-    "Rearranges the label of content to move the 'The' label to the front. For example, 'Batman and Robin, The' to 'The Batman and Robin'.": "Rearranges the label of content to move the 'The' label to the front. For example, 'Batman and Robin, The' to 'The Batman and Robin'.",
     "Remove ( )": "( ) 제거",
     "Remove [ ]": "[ ] 제거",
     "Remove [ ] and ( )": "[ ] ( ) 모두 제거",
-    "Remove extra information from content labels. This does NOT rename your files it only changes how it is displayed.": "Remove extra information from content labels. This does NOT rename your files it only changes how it is displayed.",
-    "Replaces the dash (-) with a colon (:) for content labels.": "Replaces the dash (-) with a colon (:) for content labels.",
-    "Replaces the label of shortened content folders to more appropriately named labels.": "Replaces the label of shortened content folders to more appropriately named labels.",
     "Title Include Root Drive": "제목에 드라이브 표시",
-    "Toggle the background animation of the current selected theme.": "Toggle the background animation of the current selected theme.",
-    "Toggle the visibility of currently selected file along with total in Explore Content.": "Toggle the visibility of currently selected file along with total in Explore Content.",
-    "Toggle the visibility of currently selected folder along with total in Explore Content.": "Toggle the visibility of currently selected folder along with total in Explore Content.",
-    "Toggle the visibility of the battery glyph.": "Toggle the visibility of the battery glyph.",
-    "Toggle the visibility of the bluetooth glyph.": "Toggle the visibility of the bluetooth glyph.",
-    "Toggle the visibility of the clock.": "Toggle the visibility of the clock.",
-    "Toggle the visibility of the item count within folders in Explore Content.": "Toggle the visibility of the item count within folders in Explore Content.",
-    "Toggle the visibility of the network glyph.": "Toggle the visibility of the network glyph.",
     "Top + Behind": "상단 + 뒤에",
     "Top + Front": "상단 + 앞에"
   },
@@ -468,12 +359,6 @@
     "SFTP + Filebrowser": "SFTP + 파일브라우저",
     "Secure Shell": "시큐어 셸",
     "Syncthing": "싱크띵",
-    "Toggle Resilio - WebUI can be found on port 6060.": "Toggle Resilio - WebUI can be found on port 6060.",
-    "Toggle SFTP support - WebUI can be found on port 9090.": "Toggle SFTP support - WebUI can be found on port 9090.",
-    "Toggle SSH support - Access via port 22.": "Toggle SSH support - Access via port 22.",
-    "Toggle Syncthing - WebUI can be found on port 7070.": "Toggle Syncthing - WebUI can be found on port 7070.",
-    "Toggle network time protocol for active network connections.": "Toggle network time protocol for active network connections.",
-    "Toggle virtual terminal - WebUI can be found on port 8080.": "Toggle virtual terminal - WebUI can be found on port 8080.",
     "Virtual Terminal": "버추얼 터미널",
     "WEB SERVICES": "웹 서비스"
   }

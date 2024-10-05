@@ -43,15 +43,13 @@
   },
   "muxarchive": {
     "ARCHIVE MANAGER": "アーカイブマネージャー",
-    "Archive items can be found and installed here. Save games and states, updates, themes etc.": "Archive items can be found and installed here. Save games and states, updates, themes etc.",
     "INSTALLED": "インストール済み",
     "No Archives Found": "アーカイブが見つかりませんでした"
   },
   "muxassign": {
     "ASSIGN": "指定する",
     "ASSIGN CORE": "コアを指定する",
-    "No Cores Found...": "コアが見つかりませんでした",
-    "This is where you can assign a core or external emulator to content.": "This is where you can assign a core or external emulator to content."
+    "No Cores Found...": "コアが見つかりませんでした"
   },
   "muxcharge": {
     "Booting System - Please Wait...": "システムを起動しています - お待ちください…",
@@ -62,68 +60,46 @@
   },
   "muxconfig": {
     "CONFIGURATION": "設定",
-    "Change your current date, time, and timezone.": "Change your current date, time, and timezone.",
-    "Connect to a Wi-Fi network manually or via a saved profile.": "Connect to a Wi-Fi network manually or via a saved profile.",
     "Date and Time": "日付と時刻",
-    "Device specific and muOS frontend settings can be found here.": "Device specific and muOS frontend settings can be found here.",
     "General Settings": "一般設定",
     "Language": "言語",
-    "Select a muOS supported theme.": "Select a muOS supported theme.",
-    "Select your preferred language.": "Select your preferred language.",
     "Theme Picker": "テーマ選択",
-    "Toggle a range of configurable services you can access via an active network.": "Toggle a range of configurable services you can access via an active network.",
     "Web Services": "ウェブサービス",
     "Wi-Fi Network": "Wi-Fi ネットワーク"
   },
   "muxgov": {
-    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance.": "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance.",
     "GOVERNOR": "GOVERNOR",
     "No Governors Found...": "No Governors Found…"
   },
   "muxinfo": {
-    "Access statistics of played content and other activity.": "Access statistics of played content and other activity.",
-    "Access version information and system details.": "Access version information and system details.",
     "Activity Tracker": "アクティビティ確認",
     "INFORMATION": "情報",
     "Input Tester": "入力テスト",
     "Supporters": "サポーター",
-    "System Details": "システム詳細",
-    "Test the controls of the device.": "Test the controls of the device.",
-    "View all of the current muOS supporters.": "View all of the current muOS supporters."
+    "System Details": "システム詳細"
   },
   "muxlanguage": {
     "LANGUAGES": "言語",
     "No Languages Found...": "言語が見つかりませんでした…",
-    "Saving Language": "言語を設定しています",
-    "Select your preferred language.": "Select your preferred language."
+    "Saving Language": "言語を設定しています"
   },
   "muxlaunch": {
     "Applications": "アプリケーション",
     "Configuration": "設定",
-    "Content marked as favourite can be found and launched here.": "Content marked as favourite can be found and launched here.",
-    "Content on storage devices (SD1/SD2/USB) can be found and launched here.": "Content on storage devices (SD1/SD2/USB) can be found and launched here.",
-    "Content previously launched can be found and launched here.": "Content previously launched can be found and launched here.",
     "Explore Content": "コンテンツ一覧",
     "Favourites": "お気に入り",
     "History": "履歴",
     "Information": "情報",
     "MAIN MENU": "メインメニュー",
     "Reboot": "再起動",
-    "Reboot your device safely.": "Reboot your device safely.",
-    "Shut down your device safely.": "Shut down your device safely.",
-    "Shutdown": "電源を切る",
-    "Various applications can be found and launched here.": "Various applications can be found and launched here.",
-    "Various configurations can be changed here.": "Various configurations can be changed here.",
-    "Various information can be found and launched here.": "Various information can be found and launched here."
+    "Shutdown": "電源を切る"
   },
   "muxnetprofile": {
     "Loading Network Profiles...": "ネットワーク設定を読み込み中…",
     "NETWORK PROFILE": "ネットワーク設定",
-    "No Saved Network Profiles Found": "保存されているネットワーク設定が見つかりませんでした",
-    "Quickly switch between different Wi-Fi configurations based on your location or network preferences.": "Quickly switch between different Wi-Fi configurations based on your location or network preferences."
+    "No Saved Network Profiles Found": "保存されているネットワーク設定が見つかりませんでした"
   },
   "muxnetscan": {
-    "Detect, display and connect to available Wi-Fi networks.": "Detect, display and connect to available Wi-Fi networks.",
     "NETWORK SCAN": "ネットワーク検索",
     "No Wi-Fi Networks Found": "Wi-Fi ネットワークが見つかりませんでした",
     "Rescan": "再検索",
@@ -133,24 +109,12 @@
     "Cannot modify while connected!": "接続中は変更出来ません!",
     "Changes Saved": "変更を保存しました",
     "Connect": "接続する",
-    "Connect to the network using options entered above.": "Connect to the network using options entered above.",
     "Connected": "接続済み",
     "DHCP": "DHCP",
     "DNS Server": "DNS サーバー",
     "Device IP": "デバイス IP",
     "Disconnect": "接続を切る",
     "Encrypting Password...": "パスワードを暗号化しています…",
-    "Enter the device IP address here": {
-      " (Static only)": "Enter the device IP address here. (Static only)"
-    },
-    "Enter the device Subnet (CIDR) number here": {
-      " (Static only)": "Enter the device Subnet (CIDR) number here. (Static only)"
-    },
-    "Enter the network gateway address here": {
-      " (Static only)": "Enter the network gateway address here. (Static only)"
-    },
-    "Enter the network identifier (SSID) here.": "Enter the network identifier (SSID) here.",
-    "Enter the network password here.": "Enter the network password here.",
     "Gateway IP": "ゲートウェイ IP",
     "Identifier": "ネットワーク名",
     "Network Disabled": "ネットワークを無効にする",
@@ -163,15 +127,11 @@
     "Static": "静的",
     "Status": "状態",
     "Subnet CIDR": "サブネット CIDR",
-    "Toggle between DHCP and Static network types.": "Toggle between DHCP and Static network types.",
-    "Toggle the Wi-Fi network on and off.": "Toggle the Wi-Fi network on and off.",
     "Trying to Connect...": "接続しています…",
     "WI-FI NETWORK": "WI-FI ネットワーク"
   },
   "muxoption": {
     "Assign Core": "コアを設定する",
-    "Set the CPU governor for the selected content or directory.": "Set the CPU governor for the selected content or directory.",
-    "Set the system core or external emulator for the selected content or directory.": "Set the system core or external emulator for the selected content or directory.",
     "System Governor": "システムガバナー"
   },
   "muxpass": {
@@ -203,10 +163,6 @@
     "30s": "30s",
     "5m": "5m",
     "60s": "60s",
-    "Configure how the power button functions on long press (2 seconds).": "Configure how the power button functions on long press (2 seconds).",
-    "Configure the time the device will sleep when no input is detected.": "Configure the time the device will sleep when no input is detected.",
-    "Configure the time the screen will dim when no input is detected.": "Configure the time the screen will dim when no input is detected.",
-    "Configure when the red LED will display based on the current capacity percentage.": "Configure when the red LED will display based on the current capacity percentage.",
     "Idle Input Display Timeout": "Idle Input Display Timeout",
     "Idle Input Sleep Timeout": "Idle Input Sleep Timeout",
     "Instant Shutdown": "Instant Shutdown",
@@ -226,7 +182,6 @@
   "muxrtc": {
     "12 Hour": "12時間",
     "24 Hour": "24時間",
-    "Change your current date, time, and timezone.": "Change your current date, time, and timezone.",
     "DATE AND TIME": "日付と時刻",
     "Day": "日",
     "Hour": "時",
@@ -239,19 +194,8 @@
   "muxstorage": {
     "AUTO": "自動",
     "Background Music": "背景音楽",
-    "Change where muOS looks for Language files.": "Change where muOS looks for Language files.",
-    "Change where muOS looks for Network Profiles.": "Change where muOS looks for Network Profiles.",
-    "Change where muOS looks for RetroArch BIOS.": "Change where muOS looks for RetroArch BIOS.",
-    "Change where muOS looks for RetroArch Configurations.": "Change where muOS looks for RetroArch Configurations.",
-    "Change where muOS looks for background music.": "Change where muOS looks for background music.",
-    "Change where muOS looks for content images and text.": "Change where muOS looks for content images and text.",
-    "Change where muOS looks for favourites, history, and assigned content.": "Change where muOS looks for favourites, history, and assigned content.",
-    "Change where muOS looks for save states and files.": "Change where muOS looks for save states and files.",
-    "Change where muOS looks for themes.": "Change where muOS looks for themes.",
-    "Change where muOS saves screenshots.": "Change where muOS saves screenshots.",
     "Content Management": "コンテンツ管理",
     "Languages": "言語",
-    "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "カタログデータ",
     "Network Profiles": "ネットワーク設定",
     "RetroArch BIOS": "RetroArch BIOS",
@@ -276,18 +220,6 @@
     "SYSTEM DETAILS": "システム詳細",
     "System Uptime": "システム稼働期間",
     "Temperature": "温度",
-    "The current CPU frequency of the device.": "The current CPU frequency of the device.",
-    "The current Linux kernel.": "The current Linux kernel.",
-    "The current detected battery capacity.": "The current detected battery capacity.",
-    "The current detected battery voltage.": "The current detected battery voltage.",
-    "The current detected temperature of the device.": "The current detected temperature of the device.",
-    "The current device type detected and configured.": "The current device type detected and configured.",
-    "The current running governor of the device.": "The current running governor of the device.",
-    "The current running time of the system.": "The current running time of the system.",
-    "The current version of muOS running on the device.": "The current version of muOS running on the device.",
-    "The current, and total, memory usage of the device.": "The current, and total, memory usage of the device.",
-    "The detected CPU type of the device.": "The detected CPU type of the device.",
-    "The number of processes currently running on the system.": "The number of processes currently running on the system.",
     "muOS Version": "muOS バージョン"
   },
   "muxtask": {
@@ -307,22 +239,14 @@
   "muxtimezone": {
     "No Timezones Found...": "タイムゾーンが見つかりませんでした…",
     "Saving Timezone": "タイムゾーンを保存しています",
-    "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "タイムゾーン"
   },
   "muxtweakadv": {
     "A+B Button Swap": "A+Bボタンを入れ替える",
     "ADVANCED SETTINGS": "詳細設定",
-    "Adjust the rate of speed when holding navigation keys down.": "Adjust the rate of speed when holding navigation keys down.",
     "Android Debug Bridge": "Android デバッグブリッジ",
     "Battery Offset": "バッテリー誤差修正",
     "Brightness On Boot": "起動時の画面の明るさ",
-    "Change how the device buttons work globally.": "Change how the device buttons work globally.",
-    "Change how the font type works in the frontend. 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts. 'Language' will specifically use language based font.": "Change how the font type works in the frontend. 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts. 'Language' will specifically use language based font.",
-    "Change the default audio level that the device will use each time it starts up.": "Change the default audio level that the device will use each time it starts up.",
-    "Change the default brightness level that the device will use each time it starts up.": "Change the default brightness level that the device will use each time it starts up.",
-    "Change the default theme used for the next device launch.": "Change the default theme used for the next device launch.",
-    "Change the displayed battery percentage to improve accuracy based on calibration or known deviations in the battery capacity reading.": "Change the displayed battery percentage to improve accuracy based on calibration or known deviations in the battery capacity reading.",
     "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!": "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!",
     "Device Rumble": "デバイスを振動",
     "HDMI Audio Output": "HDMI 音声出力",
@@ -346,18 +270,9 @@
     "Startup + Sleep": "起動時 + スリープ時",
     "Storage Preference": "ストレージ管理",
     "Suspend Power State": "スタンバイ時の設定",
-    "Switch between device speaker or external monitor audio via HDMI connection.": "Switch between device speaker or external monitor audio via HDMI connection.",
-    "Switch between system sleep suspend states.": "Switch between system sleep suspend states.",
     "Theme": "テーマ",
     "Theme Controlled": "テーマの指定を使用",
     "Thermal Zone Control": "サーマルゾーン制御",
-    "Toggle a delayed start of RetroArch until a network connection is established.": "Toggle a delayed start of RetroArch until a network connection is established.",
-    "Toggle between ADB and MTP USB functionality.": "Toggle between ADB and MTP USB functionality.",
-    "Toggle startup and shutdown verbose messages used for debugging faults.": "Toggle startup and shutdown verbose messages used for debugging faults.",
-    "Toggle the passcode lock - More information can be found on the muOS website.": "Toggle the passcode lock - More information can be found on the muOS website.",
-    "Toggle the power LED during content launch.": "Toggle the power LED during content launch.",
-    "Toggle the system ability to automatically shut the device down due high temperature.": "Toggle the system ability to automatically shut the device down due high temperature.",
-    "Toggle vibration for device startup, sleep, and shutdown.": "Toggle vibration for device startup, sleep, and shutdown.",
     "USB Function": "USBの挙動切り替え",
     "Verbose Messages": "詳細メッセージ",
     "Volume On Boot": "起動時の音量"
@@ -381,9 +296,6 @@
     "Background Music": "背景音楽",
     "Brightness": "明るさ",
     "Candlelight Yellow (128)": "Candlelight Yellow (128)",
-    "Change the brightness of the device to a specific level.": "Change the brightness of the device to a specific level.",
-    "Change the colour temperature of the display if the device supports it.": "Change the colour temperature of the display if the device supports it.",
-    "Change where the device will start up into.": "Change where the device will start up into.",
     "Colour Temperature": "色温度",
     "Content Explorer": "コンテンツ一覧",
     "Cool Glacier (-160)": "Cool Glacier (-160)",
@@ -405,15 +317,9 @@
     "Neutral White (0)": "Neutral White (0)",
     "Resume Game": "中断しているゲームを再開",
     "Settings that should only be changed by those who know what they are doing!": "Settings that should only be changed by those who know what they are doing!",
-    "Settings to change the power features of the device.": "Settings to change the power features of the device.",
-    "Settings to change the visual aspects of the frontend.": "Settings to change the visual aspects of the frontend.",
     "Show Hidden Content": "非表示のコンテンツを表示する",
     "Soft Ivory (96)": "Soft Ivory (96)",
     "Sunset Orange (192)": "Sunset Orange (192)",
-    "Toggle hidden content displayed in Explore Content. Place a '.' or '_' character at the start of a file or folder name to hide it.": "Toggle hidden content displayed in Explore Content. Place a '.' or '_' character at the start of a file or folder name to hide it.",
-    "Toggle the HDMI output to a specific resolution and frequency.": "Toggle the HDMI output to a specific resolution and frequency.",
-    "Toggle the background music of the frontend - This will stop if content is launched.": "Toggle the background music of the frontend - This will stop if content is launched.",
-    "Toggle the navigation sound of the frontend if the current theme supports it.": "Toggle the navigation sound of the frontend if the current theme supports it.",
     "Warm Glow (160)": "Warm Glow (160)",
     "Warm White (64)": "Warm White (64)",
     "Winter Sky (-96)": "Winter Sky (-96)"
@@ -424,9 +330,6 @@
     "Bluetooth": "Bluetooth",
     "Bottom + Behind": "下部 + 背面",
     "Bottom + Front": "下部 + 前面",
-    "Change the display priority of the content images.": "Change the display priority of the content images.",
-    "Change the screen alignment of the content images.": "Change the screen alignment of the content images.",
-    "Changes the top title label in Explore Content to show current storage device along with folder name.": "Changes the top title label in Explore Content to show current storage device along with folder name.",
     "Clock": "時刻",
     "Content Box Art": "ボックスアート表示",
     "Content Dash Replacement": "コンテンツ名のダッシュ(-)を置き換える",
@@ -443,22 +346,10 @@
     "Middle + Behind": "中央 + 背面",
     "Middle + Front": "中央 + 前面",
     "Network": "ネットワーク",
-    "Rearranges the label of content to move the 'The' label to the front. For example, 'Batman and Robin, The' to 'The Batman and Robin'.": "Rearranges the label of content to move the 'The' label to the front. For example, 'Batman and Robin, The' to 'The Batman and Robin'.",
     "Remove ( )": "( )を省略",
     "Remove [ ]": "[ ]を省略",
     "Remove [ ] and ( )": "[ ] と ( )を省略",
-    "Remove extra information from content labels. This does NOT rename your files it only changes how it is displayed.": "Remove extra information from content labels. This does NOT rename your files it only changes how it is displayed.",
-    "Replaces the dash (-) with a colon (:) for content labels.": "Replaces the dash (-) with a colon (:) for content labels.",
-    "Replaces the label of shortened content folders to more appropriately named labels.": "Replaces the label of shortened content folders to more appropriately named labels.",
     "Title Include Root Drive": "タイトルにスロット名を表示",
-    "Toggle the background animation of the current selected theme.": "Toggle the background animation of the current selected theme.",
-    "Toggle the visibility of currently selected file along with total in Explore Content.": "Toggle the visibility of currently selected file along with total in Explore Content.",
-    "Toggle the visibility of currently selected folder along with total in Explore Content.": "Toggle the visibility of currently selected folder along with total in Explore Content.",
-    "Toggle the visibility of the battery glyph.": "Toggle the visibility of the battery glyph.",
-    "Toggle the visibility of the bluetooth glyph.": "Toggle the visibility of the bluetooth glyph.",
-    "Toggle the visibility of the clock.": "Toggle the visibility of the clock.",
-    "Toggle the visibility of the item count within folders in Explore Content.": "Toggle the visibility of the item count within folders in Explore Content.",
-    "Toggle the visibility of the network glyph.": "Toggle the visibility of the network glyph.",
     "Top + Behind": "上部 + 背面",
     "Top + Front": "上部 + 前面"
   },
@@ -468,12 +359,6 @@
     "SFTP + Filebrowser": "SFTP + ファイルブラウザ",
     "Secure Shell": "Secure Shell (SSH)",
     "Syncthing": "Syncthing",
-    "Toggle Resilio - WebUI can be found on port 6060.": "Toggle Resilio - WebUI can be found on port 6060.",
-    "Toggle SFTP support - WebUI can be found on port 9090.": "Toggle SFTP support - WebUI can be found on port 9090.",
-    "Toggle SSH support - Access via port 22.": "Toggle SSH support - Access via port 22.",
-    "Toggle Syncthing - WebUI can be found on port 7070.": "Toggle Syncthing - WebUI can be found on port 7070.",
-    "Toggle network time protocol for active network connections.": "Toggle network time protocol for active network connections.",
-    "Toggle virtual terminal - WebUI can be found on port 8080.": "Toggle virtual terminal - WebUI can be found on port 8080.",
     "Virtual Terminal": "仮想ターミナル",
     "WEB SERVICES": "ウェブサービス"
   }
