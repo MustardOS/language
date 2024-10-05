@@ -150,6 +150,9 @@
     "Loading...": "Wczytywanie…",
     "Refresh": "Odśwież"
   },
+  "muxpower": {
+    "POWER SETTINGS": "POWER SETTINGS"
+  },
   "muxrtc": {
     "12 Hour": "12-godzinny",
     "24 Hour": "24-godzinny",
