@@ -67,6 +67,9 @@
     "Web Services": "Web servisleri",
     "Wi-Fi Network": "Wi-Fi ağı"
   },
+  "muxgov": {
+    "GOVERNOR": "GOVERNOR"
+  },
   "muxinfo": {
     "Activity Tracker": "Etkinlik izleyici",
     "INFORMATION": "BİLGİ",
@@ -111,6 +114,15 @@
     "Device IP": "Cihaz IP'si",
     "Disconnect": "Bağlantıyı kes",
     "Encrypting Password...": "Parola şifreleniyor…",
+    "Enter the device IP address here": {
+      " (Static only)": "Enter the device IP address here. (Static only)"
+    },
+    "Enter the device Subnet (CIDR) number here": {
+      " (Static only)": "Enter the device Subnet (CIDR) number here. (Static only)"
+    },
+    "Enter the network gateway address here": {
+      " (Static only)": "Enter the network gateway address here. (Static only)"
+    },
     "Gateway IP": "IP ağ geçidi",
     "Identifier": "Ağ adı",
     "Network Disabled": "Ağ devre dışı",
@@ -243,6 +255,7 @@
     "Android Debug Bridge": "Android Hata Ayıklama Köprüsü",
     "Battery Offset": "Pil ofseti",
     "Brightness On Boot": "Açılış parlaklığı",
+    "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!": "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!",
     "Device Rumble": "Cihaz titreşimi",
     "HDMI Audio Output": "HDMI ses çıkışı",
     "High": "Yüksek",
@@ -311,6 +324,7 @@
     "Navigation Sound": "Navigasyon sesi",
     "Neutral White (0)": "Nötr beyaz (0)",
     "Resume Game": "Oyuna devam et",
+    "Settings that should only be changed by those who know what they are doing!": "Settings that should only be changed by those who know what they are doing!",
     "Show Hidden Content": "Gizli içeriği göster",
     "Soft Ivory (96)": "Yumuşak fildişi (96)",
     "Sunset Orange (192)": "Gün batımı turuncusu (192)",
