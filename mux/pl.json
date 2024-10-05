@@ -81,21 +81,21 @@
     "No Governors Found...": "Nie znaleziono regulatorów…"
   },
   "muxinfo": {
-    "Access statistics of played content and other activity": "Access statistics of played content and other activity",
-    "Access version information and system details": "Access version information and system details",
+    "Access statistics of played content and other activity": "Zobacz statystyki zawartości i innych aktywności.",
+    "Access version information and system details": "Zobacz informacje o wersji i szczegóły systemu.",
     "Activity Tracker": "Monitor aktywności",
     "INFORMATION": "INFORMACJE",
     "Input Tester": "Tester przycisków",
     "Supporters": "Wspierający",
     "System Details": "Szczegóły systemu",
-    "Test the controls of the device": "Test the controls of the device",
-    "View all of the current muOS supporters": "View all of the current muOS supporters"
+    "Test the controls of the device": "Sprawdź przyciski urządzenia.",
+    "View all of the current muOS supporters": "Zobacz wszystkich aktualnie wspierających muOS."
   },
   "muxlanguage": {
     "LANGUAGES": "JĘZYKI",
     "No Languages Found...": "Nie znaleziono języków…",
     "Saving Language": "Zapisywanie języka",
-    "Select your preferred language": "Select your preferred language"
+    "Select your preferred language": "Wybierz swój preferowany język."
   },
   "muxlaunch": {
     "Applications": "Aplikacje",
