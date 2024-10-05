@@ -62,43 +62,68 @@
   },
   "muxconfig": {
     "CONFIGURATION": "KONFIGURACIJA",
+    "Change your current date, time, and timezone": "Promijenite trenutačni datum, vrijeme i vremensku zonu.",
+    "Connect to a Wi-Fi network manually or via a saved profile": "Spojite se na Wi-Fi mrežu ručno ili preko spremljenog profila.",
     "Date and Time": "Datum i Vrijeme",
     "Device specific and muOS frontend settings can be found here": "Specifično za uređaj i muOS sučeljne postavkese nalaze ovdje.",
     "General Settings": "Opće Postavke",
     "Language": "Jezik",
+    "Select a muOS supported theme": "Odaberite muOS podržanu temu.",
+    "Select your preferred language": "Odaberite svoj preferiran jezik.",
     "Theme Picker": "Picker Teme",
+    "Toggle a range of configurable services you can access via an active network": "Odaberite niz od konfigurabilne servise koje možete pristupiti s aktivnom mrežom.",
     "Web Services": "Web Usluge",
     "Wi-Fi Network": "Wi-Fi Mreža"
   },
+  "muxgov": {
+    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Konfigurirajte CPU upravitelje da dinamično prilagodi CPU frekvenciju da pomaže balancirati učinkovitost baterije i performanse.",
+    "GOVERNOR": "UPRAVITELJ",
+    "No Governors Found...": "Upravitelji Nisu Pronađeni…"
+  },
   "muxinfo": {
+    "Access statistics of played content and other activity": "Pristupite statistice igranog sadržaja i drugih aktivnosti.",
+    "Access version information and system details": "Pristupite informacije o verziji i detalje o sistemu.",
     "Activity Tracker": "Tracker Aktivnosti",
     "INFORMATION": "INFORMACIJE",
-    "Input Tester": "Input Tester",
+    "Input Tester": "Input Ispitivač",
     "Supporters": "Supporteri",
-    "System Details": "Detalji Sistema"
+    "System Details": "Detalji Sistema",
+    "Test the controls of the device": "Testirajte kontrole Uređaja.",
+    "View all of the current muOS supporters": "Pogledajte sve trenutačne muOS podrživače."
   },
   "muxlanguage": {
     "LANGUAGES": "JEZICI",
     "No Languages Found...": "Jezici Nisu Pronađeni…",
-    "Saving Language": "Spremanje Jezika"
+    "Saving Language": "Spremanje Jezika",
+    "Select your preferred language": "Odaberite svoj preferirani jezik."
   },
   "muxlaunch": {
     "Applications": "Aplikacije",
     "Configuration": "Konfiguracija",
+    "Content marked as favourite can be found and launched here": "Sadržaj označen kao favorit se može pronaći i pokrenuti ovdje.",
+    "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Sadržaj na uređajima za pohranu (SD1/SD2/USB) se mogu pronaći i pokrenuti ovdje.",
+    "Content previously launched can be found and launched here": "Sadržaj prije pokrenut se može pronaći i pokrenut ovdje.",
     "Explore Content": "Istraži Sadržaj",
     "Favourites": "Favoriti",
     "History": "Povijest",
     "Information": "Informacije",
     "MAIN MENU": "MAIN MENU",
     "Reboot": "Ponovno pokreni",
-    "Shutdown": "Isključi"
+    "Reboot your device safely": "Sigurno ponovno pokrenite svoj uređaj.",
+    "Shut down your device safely": "Sigurno isključite svoj uređaj.",
+    "Shutdown": "Isključi",
+    "Various applications can be found and launched here": "Razne aplikacije se mogu pronaći i pokrenuti ovdje.",
+    "Various configurations can be changed here": "Razne koniguracije se mogu promijeniti ovdje.",
+    "Various information can be found and launched here": "Razne informacije se mogu pronaći i pokrenuti ovdje."
   },
   "muxnetprofile": {
     "Loading Network Profiles...": "Učitavanje Mrežnih Profila…",
     "NETWORK PROFILE": "MREŽNI PROFIL",
-    "No Saved Network Profiles Found": "Spremljeni Mrežni Profili Nisu Pronađeni"
+    "No Saved Network Profiles Found": "Spremljeni Mrežni Profili Nisu Pronađeni",
+    "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Brzo prebacite se između drugačijih Wi-Fi konfiguracija na temelju vaše lokacije ili mrežnih preferenca."
   },
   "muxnetscan": {
+    "Detect, display and connect to available Wi-Fi networks": "Detektirajte, prikažite i spojite se slobodnim Wi-Fi mrežama.",
     "NETWORK SCAN": "SKENIRANJE MREŽE",
     "No Wi-Fi Networks Found": "Wi-Fi Mreže Nisu Pronađene",
     "Rescan": "Ponovno Skeniraj",
@@ -108,12 +133,18 @@
     "Cannot modify while connected!": "Nije moguće mijenjati dok ste povezani!",
     "Changes Saved": "Promijene Spremljene",
     "Connect": "Poveži",
+    "Connect to the network using options entered above": "Spojite se na mrežu koristeći upisane opcije iznad.",
     "Connected": "Povezano",
     "DHCP": "DHCP",
     "DNS Server": "DNS Server",
     "Device IP": "Uređaj IP",
     "Disconnect": "Odspoji",
     "Encrypting Password...": "Šifriranje lozinke…",
+    "Enter the device IP address here (Static only)": "Upišite IP adresu uređaja ovdje. (samo statično)",
+    "Enter the device Subnet (CIDR) number here (Static only)": "Upišite Podmrežu (CIDR) uređaja ovdje. (samo statično)",
+    "Enter the network gateway address here (Static only)": "Upiši mrežni gateway adresu ovdje. (samo statično)",
+    "Enter the network identifier (SSID) here": "Upišite mrežni identifikator (SSID) ovdje.",
+    "Enter the network password here": "Upišite mrežnu lozinku ovdje.",
     "Gateway IP": "Gateway IP",
     "Identifier": "Identifikator",
     "Network Disabled": "Mreža Isključena",
@@ -125,16 +156,20 @@
     "Scan": "Skeniraj",
     "Static": "Statično",
     "Status": "Status",
-    "Subnet CIDR": "Subnet CIDR",
+    "Subnet CIDR": "Podmreža CIDR",
+    "Toggle between DHCP and Static network types": "Odaberite između DHCP i Statičnih vrsta mreža.",
+    "Toggle the Wi-Fi network on and off": "Odaberite Wi-Fi mrežu uključenu ili isključenu.",
     "Trying to Connect...": "Pokušaj za povezivanje…",
     "WI-FI NETWORK": "WI-FI MREŽA"
   },
   "muxoption": {
     "Assign Core": "Odredi Core",
+    "Set the CPU governor for the selected content or directory": "Odredite CPU upravitelja za izabrani sadržaj ili direktorij.",
+    "Set the system core or external emulator for the selected content or directory": "Odredite core sistema ili vanjski emulator za izabrani sadržaj ili direktorij.",
     "System Governor": "Upravitelj Sustava"
   },
   "muxpass": {
-    "PASSCODE": "PASSCODE"
+    "PASSCODE": "LOZINKA"
   },
   "muxplore": {
     "Added to Favourites": "Dodano u Favorite",
@@ -152,6 +187,26 @@
     "Info": "Info",
     "Loading...": "Učitavanje…",
     "Refresh": "Osvježi"
+  },
+  "muxpower": {
+    "10m": "10m",
+    "10s": "10s",
+    "15m": "15m",
+    "2m": "2m",
+    "30m": "30m",
+    "30s": "30s",
+    "5m": "5m",
+    "60s": "60s",
+    "Idle Input Display Timeout": "Istek Vremena Bez Inputa Za Zaslon",
+    "Idle Input Sleep Timeout": "Istek Vremena Bez Inputa Za Spavanje",
+    "Instant Shutdown": "Instant Isključivanje",
+    "Low Battery Indicator": "Indikator Niske Baterije",
+    "POWER SETTINGS": "POSTAVKE NAPAJANJA",
+    "Sleep 10m + Shutdown": "Spavanje 10m + Isključivanje",
+    "Sleep 10s + Shutdown": "Spavanje 10s + Isključivanje",
+    "Sleep 2m + Shutdown": "Spavanje 2m + Isključivanje",
+    "Sleep 30m + Shutdown": "Spavanje 30m + Isključivanje",
+    "Sleep 30s + Shutdown": "Spavanje 30s + Isključivanje"
   },
   "muxrtc": {
     "12 Hour": "12 Sati",
@@ -201,7 +256,7 @@
     "TASK TOOLKIT": "TASK TOOLKIT"
   },
   "muxtester": {
-    "INPUT TESTER": "INPUT TESTER",
+    "INPUT TESTER": "INPUT ISPITIVAČ",
     "Press POWER to finish testing": "Pretisni POWER gumb da završite testiranje",
     "Press any button to start input testing!": "Pretisnite bilo koji gumb da započnete input testing!"
   },
