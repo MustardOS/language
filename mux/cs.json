@@ -43,7 +43,7 @@
   },
   "muxarchive": {
     "ARCHIVE MANAGER": "SPRÁVCE ARCHIVU",
-    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Archive items can be found and installed here - Save games and states, updates, themes etc",
+    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Archivní položky lze nalézt a nainstalovat zde - Ukládání her a stavů, aktualizací, motivů atd",
     "INSTALLED": "NAINSTALOVÁNO",
     "No Archives Found": "Nebyly nalezeny žádné archivy"
   },
@@ -51,7 +51,7 @@
     "ASSIGN": "PŘIŘADIT",
     "ASSIGN CORE": "PŘIŘADIT JÁDRO",
     "No Cores Found...": "Nebyla nalezena žádná jádra…",
-    "This is where you can assign a core or external emulator to content": "This is where you can assign a core or external emulator to content"
+    "This is where you can assign a core or external emulator to content": "Zde můžete přiřadit jádro nebo externí emulátor."
   },
   "muxcharge": {
     "Booting System - Please Wait...": "Zavádění systému - čekejte prosím…",
@@ -62,23 +62,23 @@
   },
   "muxconfig": {
     "CONFIGURATION": "KONFIGURACE",
-    "Change your current date, time, and timezone": "Change your current date, time, and timezone",
-    "Connect to a Wi-Fi network manually or via a saved profile": "Connect to a Wi-Fi network manually or via a saved profile",
+    "Change your current date, time, and timezone": "Změna datumu, času a časového pásma.",
+    "Connect to a Wi-Fi network manually or via a saved profile": "Připojte se k síti Wi-Fi ručně nebo prostřednictvím uloženého profilu.",
     "Date and Time": "Datum a čas",
-    "Device specific and muOS frontend settings can be found here": "Device specific and muOS frontend settings can be found here",
+    "Device specific and muOS frontend settings can be found here": "Specifické nastavení pro zařízení a muOS frontend naleznete zde.",
     "General Settings": "Nastavení",
     "Language": "Jazyk",
-    "Select a muOS supported theme": "Select a muOS supported theme",
-    "Select your preferred language": "Select your preferred language",
+    "Select a muOS supported theme": "Vyberte motiv pro muOS.",
+    "Select your preferred language": "Vyberte preferovaný jazyk.",
     "Theme Picker": "Výběr motivu",
-    "Toggle a range of configurable services you can access via an active network": "Toggle a range of configurable services you can access via an active network",
+    "Toggle a range of configurable services you can access via an active network": "Přepínejte řadu konfigurovatelných služeb, ke kterým máte přístup prostřednictvím aktivní sítě.",
     "Web Services": "Síťové služby",
     "Wi-Fi Network": "Wi-Fi síť"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance",
-    "GOVERNOR": "GOVERNOR",
-    "No Governors Found...": "No Governors Found…"
+    "GOVERNOR": "REGULÁTOR",
+    "No Governors Found...": "Nebyl nalezen žádný regulátor…"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Access statistics of played content and other activity",
