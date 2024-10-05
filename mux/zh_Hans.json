@@ -67,6 +67,9 @@
     "Web Services": "网络服务",
     "Wi-Fi Network": "Wi-Fi 网络"
   },
+  "muxgov": {
+    "GOVERNOR": "GOVERNOR"
+  },
   "muxinfo": {
     "Activity Tracker": "游玩记录",
     "INFORMATION": "信息",
@@ -111,6 +114,15 @@
     "Device IP": "设备 IP",
     "Disconnect": "Disconnect",
     "Encrypting Password...": "Encrypting Password…",
+    "Enter the device IP address here": {
+      " (Static only)": "Enter the device IP address here. (Static only)"
+    },
+    "Enter the device Subnet (CIDR) number here": {
+      " (Static only)": "Enter the device Subnet (CIDR) number here. (Static only)"
+    },
+    "Enter the network gateway address here": {
+      " (Static only)": "Enter the network gateway address here. (Static only)"
+    },
     "Gateway IP": "网关 IP",
     "Identifier": "名称",
     "Network Disabled": "网络已关闭",
@@ -243,6 +255,7 @@
     "Android Debug Bridge": "Android调试桥 (ADB)",
     "Battery Offset": "电池容量计数偏移",
     "Brightness On Boot": "开机亮度",
+    "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!": "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!",
     "Device Rumble": "Device Rumble",
     "HDMI Audio Output": "HDMI Audio Output",
     "High": "高",
@@ -311,6 +324,7 @@
     "Navigation Sound": "导航音效",
     "Neutral White (0)": "自然泛白 (0)",
     "Resume Game": "恢复游戏",
+    "Settings that should only be changed by those who know what they are doing!": "Settings that should only be changed by those who know what they are doing!",
     "Show Hidden Content": "显示隐藏内容",
     "Soft Ivory (96)": "软象牙色 (96)",
     "Sunset Orange (192)": "日落橙黄 (192)",
