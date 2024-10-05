@@ -67,6 +67,9 @@
     "Web Services": "웹 서비스",
     "Wi-Fi Network": "Wi-Fi 네트워크"
   },
+  "muxgov": {
+    "GOVERNOR": "GOVERNOR"
+  },
   "muxinfo": {
     "Activity Tracker": "액티비티 트래커",
     "INFORMATION": "정보",
@@ -111,6 +114,15 @@
     "Device IP": "디바이스 IP",
     "Disconnect": "연결 해제",
     "Encrypting Password...": "비밀번호 암호화중…",
+    "Enter the device IP address here": {
+      " (Static only)": "Enter the device IP address here. (Static only)"
+    },
+    "Enter the device Subnet (CIDR) number here": {
+      " (Static only)": "Enter the device Subnet (CIDR) number here. (Static only)"
+    },
+    "Enter the network gateway address here": {
+      " (Static only)": "Enter the network gateway address here. (Static only)"
+    },
     "Gateway IP": "게이트웨이 IP",
     "Identifier": "네트워크 식별자",
     "Network Disabled": "네트워크 비활성화",
@@ -243,6 +255,7 @@
     "Android Debug Bridge": "안드로이드 디버그 브릿지",
     "Battery Offset": "배터리 오프셋",
     "Brightness On Boot": "부팅시 밝기",
+    "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!": "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!",
     "Device Rumble": "디바이스 진동",
     "HDMI Audio Output": "HDMI 오디오 출력",
     "High": "높음",
@@ -311,6 +324,7 @@
     "Navigation Sound": "이동 효과음",
     "Neutral White (0)": "Neutral White (0)",
     "Resume Game": "게임 재개",
+    "Settings that should only be changed by those who know what they are doing!": "Settings that should only be changed by those who know what they are doing!",
     "Show Hidden Content": "숨긴 콘텐츠 보기",
     "Soft Ivory (96)": "Soft Ivory (96)",
     "Sunset Orange (192)": "Sunset Orange (192)",
