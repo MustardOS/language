@@ -67,6 +67,9 @@
     "Web Services": "Servizi Web",
     "Wi-Fi Network": "Rete Wi-Fi"
   },
+  "muxgov": {
+    "GOVERNOR": "GOVERNOR"
+  },
   "muxinfo": {
     "Activity Tracker": "Registro Attività",
     "INFORMATION": "INFORMAZIONI",
@@ -111,6 +114,15 @@
     "Device IP": "IP Dispositivo",
     "Disconnect": "Disconnect",
     "Encrypting Password...": "Encrypting Password…",
+    "Enter the device IP address here": {
+      " (Static only)": "Enter the device IP address here. (Static only)"
+    },
+    "Enter the device Subnet (CIDR) number here": {
+      " (Static only)": "Enter the device Subnet (CIDR) number here. (Static only)"
+    },
+    "Enter the network gateway address here": {
+      " (Static only)": "Enter the network gateway address here. (Static only)"
+    },
     "Gateway IP": "IP Gateway",
     "Identifier": "Identificatore",
     "Network Disabled": "Rete Disabilitata",
@@ -243,6 +255,7 @@
     "Android Debug Bridge": "Android Debug Bridge",
     "Battery Offset": "Offset della Batteria",
     "Brightness On Boot": "Luminosità all'Avvio",
+    "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!": "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!",
     "Device Rumble": "Device Rumble",
     "HDMI Audio Output": "HDMI Audio Output",
     "High": "Alto",
@@ -311,6 +324,7 @@
     "Navigation Sound": "Suoni di Navigazione",
     "Neutral White (0)": "Bianco Neutro (0)",
     "Resume Game": "Riprendi Gioco",
+    "Settings that should only be changed by those who know what they are doing!": "Settings that should only be changed by those who know what they are doing!",
     "Show Hidden Content": "Mostra Contenuto Nascosto",
     "Soft Ivory (96)": "Avorio Soffice (96)",
     "Sunset Orange (192)": "Arancio Tramonto (192)",
