@@ -77,7 +77,7 @@
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance",
-    "GOVERNOR": "GOVERNOR",
+    "GOVERNOR": "거버너",
     "No Governors Found...": "거버너가 없음…"
   },
   "muxinfo": {
