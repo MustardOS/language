@@ -67,6 +67,9 @@
     "Web Services": "Dịch vụ Web",
     "Wi-Fi Network": "Mạng Wi-Fi"
   },
+  "muxgov": {
+    "GOVERNOR": "GOVERNOR"
+  },
   "muxinfo": {
     "Activity Tracker": "Theo dõi hoạt động",
     "INFORMATION": "THÔNG TIN",
@@ -111,6 +114,15 @@
     "Device IP": "IP thiết bị",
     "Disconnect": "Disconnect",
     "Encrypting Password...": "Encrypting Password…",
+    "Enter the device IP address here": {
+      " (Static only)": "Enter the device IP address here. (Static only)"
+    },
+    "Enter the device Subnet (CIDR) number here": {
+      " (Static only)": "Enter the device Subnet (CIDR) number here. (Static only)"
+    },
+    "Enter the network gateway address here": {
+      " (Static only)": "Enter the network gateway address here. (Static only)"
+    },
     "Gateway IP": "IP cổng",
     "Identifier": "Tên mạng",
     "Network Disabled": "Mạng bị tắt",
@@ -243,6 +255,7 @@
     "Android Debug Bridge": "Android Debug Bridge",
     "Battery Offset": "Hiệu chỉnh hiển thị pin",
     "Brightness On Boot": "Độ sáng khi khởi động",
+    "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!": "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!",
     "Device Rumble": "Device Rumble",
     "HDMI Audio Output": "HDMI Audio Output",
     "High": "Cao",
@@ -311,6 +324,7 @@
     "Navigation Sound": "Âm thanh điều hướng",
     "Neutral White (0)": "Trắng cân bằng (0)",
     "Resume Game": "Tiếp tục trò chơi",
+    "Settings that should only be changed by those who know what they are doing!": "Settings that should only be changed by those who know what they are doing!",
     "Show Hidden Content": "Hiển thị nội dung ẩn",
     "Soft Ivory (96)": "Ngà vàng (96)",
     "Sunset Orange (192)": "Hoàng hôn (192)",
