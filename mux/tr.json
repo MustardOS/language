@@ -150,6 +150,9 @@
     "Loading...": "Yükleniyor…",
     "Refresh": "Yenile"
   },
+  "muxpower": {
+    "POWER SETTINGS": "POWER SETTINGS"
+  },
   "muxrtc": {
     "12 Hour": "12 Saat",
     "24 Hour": "24 Saat",
