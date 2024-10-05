@@ -150,6 +150,9 @@
     "Loading...": "로드 중…",
     "Refresh": "새로고침"
   },
+  "muxpower": {
+    "POWER SETTINGS": "POWER SETTINGS"
+  },
   "muxrtc": {
     "12 Hour": "12 시간제",
     "24 Hour": "24 시간제",
