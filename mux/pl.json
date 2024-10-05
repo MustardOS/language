@@ -51,7 +51,7 @@
     "ASSIGN": "PRZYPISZ",
     "ASSIGN CORE": "PRZYPISZ RDZEŃ",
     "No Cores Found...": "Nie znaleziono rdzeni…",
-    "This is where you can assign a core or external emulator to content": "This is where you can assign a core or external emulator to content"
+    "This is where you can assign a core or external emulator to content": "Tutaj możesz przypisać rdzeń lub zewnętrzny emulator do zawartości."
   },
   "muxcharge": {
     "Booting System - Please Wait...": "Uruchamianie systemu - Proszę czekać…",
@@ -62,23 +62,23 @@
   },
   "muxconfig": {
     "CONFIGURATION": "KONFIGURACJA",
-    "Change your current date, time, and timezone": "Change your current date, time, and timezone",
-    "Connect to a Wi-Fi network manually or via a saved profile": "Connect to a Wi-Fi network manually or via a saved profile",
+    "Change your current date, time, and timezone": "Zmień aktualną datę, czas i strefę czasową.",
+    "Connect to a Wi-Fi network manually or via a saved profile": "Połącz się z siecią Wi-Fi ręcznie lub przez zapisany profil.",
     "Date and Time": "Data i czas",
-    "Device specific and muOS frontend settings can be found here": "Device specific and muOS frontend settings can be found here",
+    "Device specific and muOS frontend settings can be found here": "Znajdziesz tutaj ustawienia specyficzne dla urządzenia i interfejsu muOS.",
     "General Settings": "Ustawienia ogólne",
     "Language": "Język",
-    "Select a muOS supported theme": "Select a muOS supported theme",
-    "Select your preferred language": "Select your preferred language",
+    "Select a muOS supported theme": "Wybierz wspierany przez muOS motyw.",
+    "Select your preferred language": "Wybierz preferowany język.",
     "Theme Picker": "Wybór motywu",
-    "Toggle a range of configurable services you can access via an active network": "Toggle a range of configurable services you can access via an active network",
+    "Toggle a range of configurable services you can access via an active network": "Włącz wiele konfigurowalnych serwisów dostępnych poprzez aktywną sieć.",
     "Web Services": "Usługi sieciowe",
     "Wi-Fi Network": "Sieć Wi-Fi"
   },
   "muxgov": {
-    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance",
+    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Skonfiguruj regulatory CPU, aby dynamicznie dostosować częstotliwość CPU i pomóc zrównoważyć zużycie energii i wydajność.",
     "GOVERNOR": "REGULATOR",
-    "No Governors Found...": "No Governors Found…"
+    "No Governors Found...": "Nie znaleziono regulatorów…"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Access statistics of played content and other activity",
