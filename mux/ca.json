@@ -67,6 +67,9 @@
     "Web Services": "Serveis de xarxa",
     "Wi-Fi Network": "Xarxa Wi-Fi"
   },
+  "muxgov": {
+    "GOVERNOR": "GOVERNOR"
+  },
   "muxinfo": {
     "Activity Tracker": "Monitor d'activitat",
     "INFORMATION": "INFORMACIÓ",
@@ -111,6 +114,15 @@
     "Device IP": "IP del dispositiu",
     "Disconnect": "Desconnectar",
     "Encrypting Password...": "Encriptant contrasenya…",
+    "Enter the device IP address here": {
+      " (Static only)": "Enter the device IP address here. (Static only)"
+    },
+    "Enter the device Subnet (CIDR) number here": {
+      " (Static only)": "Enter the device Subnet (CIDR) number here. (Static only)"
+    },
+    "Enter the network gateway address here": {
+      " (Static only)": "Enter the network gateway address here. (Static only)"
+    },
     "Gateway IP": "IP de porta d'enllaç",
     "Identifier": "Identificador",
     "Network Disabled": "Xarxa deshabilitada",
@@ -243,6 +255,7 @@
     "Android Debug Bridge": "Pont de depuració Android",
     "Battery Offset": "Compensació de la bateria",
     "Brightness On Boot": "Brillantor a l'arrencar",
+    "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!": "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!",
     "Device Rumble": "Vibració del dispositiu",
     "HDMI Audio Output": "Sortida d'àudio HDMI",
     "High": "Alt",
@@ -311,6 +324,7 @@
     "Navigation Sound": "So de navegació",
     "Neutral White (0)": "Blanc neutre (0)",
     "Resume Game": "Continuar joc",
+    "Settings that should only be changed by those who know what they are doing!": "Settings that should only be changed by those who know what they are doing!",
     "Show Hidden Content": "Mostrar contingut amagat",
     "Soft Ivory (96)": "Ivori suau (96)",
     "Sunset Orange (192)": "Taronja ocàs (192)",
