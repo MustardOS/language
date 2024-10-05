@@ -141,7 +141,7 @@
     "Disconnect": "연결 해제",
     "Encrypting Password...": "비밀번호 암호화중…",
     "Enter the device IP address here (Static only)": "여기에 장치 IP 주소를 입력. (Static 전용)",
-    "Enter the device Subnet (CIDR) number here (Static only)": "Enter the device Subnet (CIDR) number here (Static only)",
+    "Enter the device Subnet (CIDR) number here (Static only)": "여기에 장치 서브넷(CIDR) 번호를 입력하세요. (Static 전용)",
     "Enter the network gateway address here (Static only)": "Enter the network gateway address here (Static only)",
     "Enter the network identifier (SSID) here": "여기에 네트워크 식별자(SSID)를 입력.",
     "Enter the network password here": "여기에 네트워크 비밀번호를 입력.",
