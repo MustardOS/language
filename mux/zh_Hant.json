@@ -150,6 +150,9 @@
     "Loading...": "讀取中...",
     "Refresh": "重新整理"
   },
+  "muxpower": {
+    "POWER SETTINGS": "POWER SETTINGS"
+  },
   "muxrtc": {
     "12 Hour": "12 Hour",
     "24 Hour": "24 Hour",
