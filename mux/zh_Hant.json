@@ -151,7 +151,29 @@
     "Refresh": "重新整理"
   },
   "muxpower": {
-    "POWER SETTINGS": "POWER SETTINGS"
+    "10m": "10m",
+    "10s": "10s",
+    "15m": "15m",
+    "2m": "2m",
+    "30m": "30m",
+    "30s": "30s",
+    "5m": "5m",
+    "60s": "60s",
+    "Idle Input Display Timeout": "Idle Input Display Timeout",
+    "Idle Input Sleep Timeout": "Idle Input Sleep Timeout",
+    "Instant Shutdown": "Instant Shutdown",
+    "Low Battery Indicator": "Low Battery Indicator",
+    "POWER SETTINGS": "POWER SETTINGS",
+    "Sleep 10m + Shutdown": "Sleep 10m + Shutdown",
+    "Sleep 10s + Shutdown": "Sleep 10s + Shutdown",
+    "Sleep 2m + Shutdown": "Sleep 2m + Shutdown",
+    "Sleep 30m + Shutdown": "Sleep 30m + Shutdown",
+    "Sleep 30s + Shutdown": "Sleep 30s + Shutdown",
+    "Sleep 5m + Shutdown": "Sleep 5m + Shutdown",
+    "Sleep 60m + Shutdown": "Sleep 60m + Shutdown",
+    "Sleep 60s + Shutdown": "Sleep 60s + Shutdown",
+    "Sleep Function": "Sleep Function",
+    "Sleep Suspend": "Sleep Suspend"
   },
   "muxrtc": {
     "12 Hour": "12 Hour",
