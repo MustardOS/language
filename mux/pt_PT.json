@@ -150,6 +150,9 @@
     "Loading...": "A carregar...",
     "Refresh": "Atualizar"
   },
+  "muxpower": {
+    "POWER SETTINGS": "POWER SETTINGS"
+  },
   "muxrtc": {
     "12 Hour": "12 Horas",
     "24 Hour": "24 Horas",
