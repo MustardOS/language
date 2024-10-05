@@ -67,6 +67,9 @@
     "Web Services": "Servicios web",
     "Wi-Fi Network": "Red Wi-Fi"
   },
+  "muxgov": {
+    "GOVERNOR": "GOVERNOR"
+  },
   "muxinfo": {
     "Activity Tracker": "Monitor de actividad",
     "INFORMATION": "INFORMACIÓN",
@@ -111,6 +114,15 @@
     "Device IP": "IP del dispositivo",
     "Disconnect": "Desconectar",
     "Encrypting Password...": "Encriptando contraseña…",
+    "Enter the device IP address here": {
+      " (Static only)": "Enter the device IP address here. (Static only)"
+    },
+    "Enter the device Subnet (CIDR) number here": {
+      " (Static only)": "Enter the device Subnet (CIDR) number here. (Static only)"
+    },
+    "Enter the network gateway address here": {
+      " (Static only)": "Enter the network gateway address here. (Static only)"
+    },
     "Gateway IP": "IP de puerta de enlace",
     "Identifier": "Identificador",
     "Network Disabled": "Red deshabilitada",
@@ -243,6 +255,7 @@
     "Android Debug Bridge": "Puente de depuración de Android",
     "Battery Offset": "Compensación de la batería",
     "Brightness On Boot": "Brillo al arrancar",
+    "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!": "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!",
     "Device Rumble": "Vibración del dispositivo",
     "HDMI Audio Output": "Salida de audio HDMI",
     "High": "Alto",
@@ -311,6 +324,7 @@
     "Navigation Sound": "Sonido de navegación",
     "Neutral White (0)": "Blanco neutro (0)",
     "Resume Game": "Reanudar juego",
+    "Settings that should only be changed by those who know what they are doing!": "Settings that should only be changed by those who know what they are doing!",
     "Show Hidden Content": "Mostrar contenido oculto",
     "Soft Ivory (96)": "Marfil suave (96)",
     "Sunset Orange (192)": "Naranja ocaso (192)",
