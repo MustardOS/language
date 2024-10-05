@@ -2,11 +2,11 @@
   "generic": {
     "Back": "Nazad",
     "Confirm": "Potvrdi",
-    "Directory": "Directory",
+    "Directory": "Directorija",
     "Disabled": "Isključeno",
     "Enabled": "Uključeno",
     "External": "Vanjsko",
-    "Extract": "Extract",
+    "Extract": "Izvadi",
     "False": "False",
     "Hidden": "Skriveno",
     "Individual": "Pojedinačno",
@@ -29,9 +29,9 @@
   "muxapp": {
     "APPLICATIONS": "APLIKACIJE",
     "Archive Manager": "Upravitelj Arhiva",
-    "Dingux Commander": "Dingux Commander",
-    "Flip Clock": "Flip Clock",
-    "GMU Music Player": "GMU Music Player",
+    "Dingux Commander": "Dingux Komander",
+    "Flip Clock": "Preklopni Sat",
+    "GMU Music Player": "GMU Igrač Glazbe",
     "Loading Application": "Učitavanje Aplikacije",
     "Moonlight": "Moonlight",
     "No Applications Found": "Aplikacije Nisu Pronađene",
@@ -39,17 +39,19 @@
     "PortMaster": "PortMaster",
     "RetroArch": "RetroArch",
     "Simple Terminal": "Jednostavni Terminal",
-    "Task Toolkit": "Task Toolkit"
+    "Task Toolkit": "Alati za Zadatak"
   },
   "muxarchive": {
-    "ARCHIVE MANAGER": "Upravitelj Arhiva",
+    "ARCHIVE MANAGER": "UPRAVITELJ ARHIVA",
+    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Arhivani predmetu se nalazu i instaliraju ovdje - Save games i states, ažuriranja, teme itd.",
     "INSTALLED": "INSTALIRANO",
     "No Archives Found": "Arhive Nisu Pronađene"
   },
   "muxassign": {
     "ASSIGN": "ODREDI",
     "ASSIGN CORE": "ODREDI CORE",
-    "No Cores Found...": "Nisu Pronađeni Cores..."
+    "No Cores Found...": "Nisu Pronađeni Cores…",
+    "This is where you can assign a core or external emulator to content": "Ovdje možete odrediti core ili vanjski emulator za sadržaj."
   },
   "muxcharge": {
     "Booting System - Please Wait...": "Pokretanje Sistema - Molimo Pričekajte…",
@@ -61,6 +63,7 @@
   "muxconfig": {
     "CONFIGURATION": "KONFIGURACIJA",
     "Date and Time": "Datum i Vrijeme",
+    "Device specific and muOS frontend settings can be found here": "Specifično za uređaj i muOS sučeljne postavkese nalaze ovdje.",
     "General Settings": "Opće Postavke",
     "Language": "Jezik",
     "Theme Picker": "Picker Teme",
@@ -75,7 +78,7 @@
     "System Details": "Detalji Sistema"
   },
   "muxlanguage": {
-    "LANGUAGES": "Jezici",
+    "LANGUAGES": "JEZICI",
     "No Languages Found...": "Jezici Nisu Pronađeni…",
     "Saving Language": "Spremanje Jezika"
   },
@@ -91,7 +94,7 @@
     "Shutdown": "Isključi"
   },
   "muxnetprofile": {
-    "Loading Network Profiles...": "Učitavanje Mrežnih Profila",
+    "Loading Network Profiles...": "Učitavanje Mrežnih Profila…",
     "NETWORK PROFILE": "MREŽNI PROFIL",
     "No Saved Network Profiles Found": "Spremljeni Mrežni Profili Nisu Pronađeni"
   },
@@ -218,7 +221,7 @@
     "Android Debug Bridge": "Android Debug Bridge",
     "Battery Offset": "Odstupak Baterije",
     "Brightness On Boot": "Svjetlina na Pokretanje",
-    "Device Rumble": "Device Rumble",
+    "Device Rumble": "Vibracije Uređaja",
     "HDMI Audio Output": "HDMI Audio Output",
     "High": "Visoko",
     "Interface Font Type": "Vrsta Fonta Sučelja",
