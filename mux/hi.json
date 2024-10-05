@@ -67,6 +67,9 @@
     "Web Services": "वेब सेवाएं",
     "Wi-Fi Network": "वाई-फ़ाई नेटवर्क"
   },
+  "muxgov": {
+    "GOVERNOR": "GOVERNOR"
+  },
   "muxinfo": {
     "Activity Tracker": "गतिविधि ट्रैकर",
     "INFORMATION": "जानकारी",
@@ -111,6 +114,15 @@
     "Device IP": "डिवाइस आईपी",
     "Disconnect": "Disconnect",
     "Encrypting Password...": "पासवर्ड एन्क्रिप्ट किया जा रहा है...",
+    "Enter the device IP address here": {
+      " (Static only)": "Enter the device IP address here. (Static only)"
+    },
+    "Enter the device Subnet (CIDR) number here": {
+      " (Static only)": "Enter the device Subnet (CIDR) number here. (Static only)"
+    },
+    "Enter the network gateway address here": {
+      " (Static only)": "Enter the network gateway address here. (Static only)"
+    },
     "Gateway IP": "गेटवे आईपी",
     "Identifier": "पहचानकर्ता",
     "Network Disabled": "नेटवर्क अक्षम",
@@ -243,6 +255,7 @@
     "Android Debug Bridge": "एंड्रॉइड डीबग ब्रिज",
     "Battery Offset": "बैटरी ऑफसेट",
     "Brightness On Boot": "बूट पर चमक",
+    "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!": "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!",
     "Device Rumble": "डिवाइस गड़गड़ाहट",
     "HDMI Audio Output": "HDMI Audio Output",
     "High": "उच्च",
@@ -311,6 +324,7 @@
     "Navigation Sound": "नेविगेशन ध्वनि",
     "Neutral White (0)": "तटस्थ सफेद (0)",
     "Resume Game": "गेम फिर से शुरू करें",
+    "Settings that should only be changed by those who know what they are doing!": "Settings that should only be changed by those who know what they are doing!",
     "Show Hidden Content": "छिपी हुई सामग्री दिखाएँ",
     "Soft Ivory (96)": "सॉफ्ट आइवरी (96)",
     "Sunset Orange (192)": "सनसेट ऑरेंज(192)",
