@@ -197,6 +197,9 @@
     "30s": "30s",
     "5m": "5m",
     "60s": "60s",
+    "Configure how the power button functions on long press (2 seconds)": "Konfiguriraj kako power gumb funkcionira na dugi pritisak (2 sekunde).",
+    "Configure the time the screen will dim when no input is detected": "Konfigurirajte vrijeme odkad će zaslon se smračiti kada input nije detektiran.",
+    "Configure when the red LED will display based on the current capacity percentage": "Konfiguriraj kako crveni LED bude prikazal na temelju trenutnog postotka kapaciteta.",
     "Idle Input Display Timeout": "Istek Vremena Bez Inputa Za Zaslon",
     "Idle Input Sleep Timeout": "Istek Vremena Bez Inputa Za Spavanje",
     "Instant Shutdown": "Instant Isključivanje",
@@ -206,7 +209,12 @@
     "Sleep 10s + Shutdown": "Spavanje 10s + Isključivanje",
     "Sleep 2m + Shutdown": "Spavanje 2m + Isključivanje",
     "Sleep 30m + Shutdown": "Spavanje 30m + Isključivanje",
-    "Sleep 30s + Shutdown": "Spavanje 30s + Isključivanje"
+    "Sleep 30s + Shutdown": "Spavanje 30s + Isključivanje",
+    "Sleep 5m + Shutdown": "Spavanje 5m + Isključivanje",
+    "Sleep 60m + Shutdown": "Spavanje 60m + Isključivanje",
+    "Sleep 60s + Shutdown": "Spavanje 60s + Isključivanje",
+    "Sleep Function": "Funkcija Spavanja",
+    "Sleep Suspend": "Suspendaj Spavanje"
   },
   "muxrtc": {
     "12 Hour": "12 Sati",
