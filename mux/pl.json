@@ -68,7 +68,7 @@
     "Wi-Fi Network": "Sieć Wi-Fi"
   },
   "muxgov": {
-    "GOVERNOR": "GOVERNOR"
+    "GOVERNOR": "REGULATOR"
   },
   "muxinfo": {
     "Activity Tracker": "Monitor aktywności",
@@ -115,10 +115,10 @@
     "Disconnect": "Rozłącz",
     "Encrypting Password...": "Szyfrowanie hasła…",
     "Enter the device IP address here": {
-      " (Static only)": "Enter the device IP address here. (Static only)"
+      " (Static only)": "Wpisz IP urządzenia. (tylko statyczne)"
     },
     "Enter the device Subnet (CIDR) number here": {
-      " (Static only)": "Enter the device Subnet (CIDR) number here. (Static only)"
+      " (Static only)": "Wpisz numer podsieci urządzenia (CIDR). (Tylko statyczne)"
     },
     "Enter the network gateway address here": {
       " (Static only)": "Enter the network gateway address here. (Static only)"
@@ -171,21 +171,21 @@
     "30s": "30s",
     "5m": "5m",
     "60s": "60s",
-    "Idle Input Display Timeout": "Idle Input Display Timeout",
-    "Idle Input Sleep Timeout": "Idle Input Sleep Timeout",
-    "Instant Shutdown": "Instant Shutdown",
-    "Low Battery Indicator": "Low Battery Indicator",
-    "POWER SETTINGS": "POWER SETTINGS",
-    "Sleep 10m + Shutdown": "Sleep 10m + Shutdown",
-    "Sleep 10s + Shutdown": "Sleep 10s + Shutdown",
-    "Sleep 2m + Shutdown": "Sleep 2m + Shutdown",
-    "Sleep 30m + Shutdown": "Sleep 30m + Shutdown",
-    "Sleep 30s + Shutdown": "Sleep 30s + Shutdown",
-    "Sleep 5m + Shutdown": "Sleep 5m + Shutdown",
-    "Sleep 60m + Shutdown": "Sleep 60m + Shutdown",
-    "Sleep 60s + Shutdown": "Sleep 60s + Shutdown",
-    "Sleep Function": "Sleep Function",
-    "Sleep Suspend": "Sleep Suspend"
+    "Idle Input Display Timeout": "Czas wyświetlania podczas bezczynności",
+    "Idle Input Sleep Timeout": "Czas do uśpienia po bezczynności",
+    "Instant Shutdown": "Zamknij od razu",
+    "Low Battery Indicator": "Wskaźnik niskiego poziomu baterii",
+    "POWER SETTINGS": "OPCJE ZASILANIA",
+    "Sleep 10m + Shutdown": "Śpij 10m + Zamknij",
+    "Sleep 10s + Shutdown": "Śpij 10s + Zamknij",
+    "Sleep 2m + Shutdown": "Śpij 2m + Zamknij",
+    "Sleep 30m + Shutdown": "Śpij 30m + Zamknij",
+    "Sleep 30s + Shutdown": "Śpij 10s + Zamknij",
+    "Sleep 5m + Shutdown": "Śpij 5m + Zamknij",
+    "Sleep 60m + Shutdown": "Śpij 60m + Zamknij",
+    "Sleep 60s + Shutdown": "Śpij 60s + Zamknij",
+    "Sleep Function": "Funkcja uśpienia",
+    "Sleep Suspend": "Uśpij"
   },
   "muxrtc": {
     "12 Hour": "12-godzinny",
