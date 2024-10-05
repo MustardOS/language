@@ -43,7 +43,7 @@
   },
   "muxarchive": {
     "ARCHIVE MANAGER": "아카이브 매니저",
-    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Archive items can be found and installed here - Save games and states, updates, themes etc",
+    "Archive items can be found and installed here - Save games and states, updates, themes etc": "아카이브 아이템을 여기서 찾고 설치함 - 게임 세이브, 상태저장, 업데이트, 테마 등.",
     "INSTALLED": "설치됨",
     "No Archives Found": "아카이브 없음"
   },
@@ -51,7 +51,7 @@
     "ASSIGN": "할당",
     "ASSIGN CORE": "코어 할당하기",
     "No Cores Found...": "코어 없음…",
-    "This is where you can assign a core or external emulator to content": "This is where you can assign a core or external emulator to content"
+    "This is where you can assign a core or external emulator to content": "여기서 코어 또는 외부 에뮬레이터를 콘텐츠에 할당함."
   },
   "muxcharge": {
     "Booting System - Please Wait...": "시스템 부팅중 - 기다려주세요…",
@@ -65,10 +65,10 @@
     "Change your current date, time, and timezone": "Change your current date, time, and timezone",
     "Connect to a Wi-Fi network manually or via a saved profile": "Connect to a Wi-Fi network manually or via a saved profile",
     "Date and Time": "날짜와 시간",
-    "Device specific and muOS frontend settings can be found here": "Device specific and muOS frontend settings can be found here",
+    "Device specific and muOS frontend settings can be found here": "여기서 디바이스 특정 설정과 muOS 설정을 찾을 수 있음.",
     "General Settings": "일반 설정",
     "Language": "언어",
-    "Select a muOS supported theme": "Select a muOS supported theme",
+    "Select a muOS supported theme": "muOS 지원 테마를 선택.",
     "Select your preferred language": "Select your preferred language",
     "Theme Picker": "테마 피커",
     "Toggle a range of configurable services you can access via an active network": "Toggle a range of configurable services you can access via an active network",
