@@ -67,6 +67,9 @@
     "Web Services": "Web Services",
     "Wi-Fi Network": "Wi-Fi Network"
   },
+  "muxgov": {
+    "GOVERNOR": "GOVERNOR"
+  },
   "muxinfo": {
     "Activity Tracker": "Activity Tracker",
     "INFORMATION": "INFORMATION",
@@ -111,6 +114,15 @@
     "Device IP": "Device IP",
     "Disconnect": "Disconnect",
     "Encrypting Password...": "Encrypting Password…",
+    "Enter the device IP address here": {
+      " (Static only)": "Enter the device IP address here. (Static only)"
+    },
+    "Enter the device Subnet (CIDR) number here": {
+      " (Static only)": "Enter the device Subnet (CIDR) number here. (Static only)"
+    },
+    "Enter the network gateway address here": {
+      " (Static only)": "Enter the network gateway address here. (Static only)"
+    },
     "Gateway IP": "Gateway IP",
     "Identifier": "Identifier",
     "Network Disabled": "Network Disabled",
@@ -243,6 +255,7 @@
     "Android Debug Bridge": "Android Debug Bridge",
     "Battery Offset": "Battery Offset",
     "Brightness On Boot": "Brightness On Boot",
+    "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!": "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!",
     "Device Rumble": "Device Rumble",
     "HDMI Audio Output": "HDMI Audio Output",
     "High": "High",
@@ -311,6 +324,7 @@
     "Navigation Sound": "Navigation Sound",
     "Neutral White (0)": "Neutral White (0)",
     "Resume Game": "Resume Game",
+    "Settings that should only be changed by those who know what they are doing!": "Settings that should only be changed by those who know what they are doing!",
     "Show Hidden Content": "Show Hidden Content",
     "Soft Ivory (96)": "Soft Ivory (96)",
     "Sunset Orange (192)": "Sunset Orange (192)",
