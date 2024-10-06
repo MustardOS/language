@@ -77,8 +77,8 @@
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance",
-    "GOVERNOR": "GOVERNOR",
-    "No Governors Found...": "No Governors Found…"
+    "GOVERNOR": "GOUVERNEUR",
+    "No Governors Found...": "Aucun gouverneur trouvé…"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Access statistics of played content and other activity",
@@ -95,7 +95,7 @@
     "LANGUAGES": "LANGUES",
     "No Languages Found...": "Aucune langue trouvée…",
     "Saving Language": "Sauvegarde de la langue",
-    "Select your preferred language": "Select your preferred language"
+    "Select your preferred language": "Choisissez votre langue préférée."
   },
   "muxlaunch": {
     "Applications": "Applications",
@@ -205,16 +205,16 @@
     "Idle Input Sleep Timeout": "Idle Input Sleep Timeout",
     "Instant Shutdown": "Instant Shutdown",
     "Low Battery Indicator": "Low Battery Indicator",
-    "POWER SETTINGS": "POWER SETTINGS",
-    "Sleep 10m + Shutdown": "Sleep 10m + Shutdown",
-    "Sleep 10s + Shutdown": "Sleep 10s + Shutdown",
-    "Sleep 2m + Shutdown": "Sleep 2m + Shutdown",
-    "Sleep 30m + Shutdown": "Sleep 30m + Shutdown",
-    "Sleep 30s + Shutdown": "Sleep 30s + Shutdown",
-    "Sleep 5m + Shutdown": "Sleep 5m + Shutdown",
-    "Sleep 60m + Shutdown": "Sleep 60m + Shutdown",
-    "Sleep 60s + Shutdown": "Sleep 60s + Shutdown",
-    "Sleep Function": "Sleep Function",
+    "POWER SETTINGS": "PARAMETRES D'ALIMENTATION",
+    "Sleep 10m + Shutdown": "Veille 10m + Extinction",
+    "Sleep 10s + Shutdown": "Veille 10s + Extinction",
+    "Sleep 2m + Shutdown": "Veille 2m + Extinction",
+    "Sleep 30m + Shutdown": "Veille 30m + Extinction",
+    "Sleep 30s + Shutdown": "Veille 30s + Extinction",
+    "Sleep 5m + Shutdown": "Veille 5m + Extinction",
+    "Sleep 60m + Shutdown": "Veille 60m + Extinction",
+    "Sleep 60s + Shutdown": "Veille 60s + Extinction",
+    "Sleep Function": "Fonction de veille",
     "Sleep Suspend": "Sleep Suspend"
   },
   "muxrtc": {
