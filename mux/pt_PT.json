@@ -43,7 +43,7 @@
   },
   "muxarchive": {
     "ARCHIVE MANAGER": "Gestor de ficheiros",
-    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Archive items can be found and installed here - Save games and states, updates, themes etc",
+    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Os arquivos podem ser encontrados e instalados aqui - Guardar jogos e estados, actualizações, temas etc.",
     "INSTALLED": "INSTALADO",
     "No Archives Found": "Nenhum arquivo encontrado"
   },
@@ -51,7 +51,7 @@
     "ASSIGN": "ATRIBUIR",
     "ASSIGN CORE": "ATRIBUIR CORE",
     "No Cores Found...": "Nenhum core encontrado...",
-    "This is where you can assign a core or external emulator to content": "This is where you can assign a core or external emulator to content"
+    "This is where you can assign a core or external emulator to content": "É aqui que pode atribuir um emulador principal ou externo ao conteúdo."
   },
   "muxcharge": {
     "Booting System - Please Wait...": "A iniciar sistema - Por favor, aguarde…",
@@ -63,12 +63,12 @@
   "muxconfig": {
     "CONFIGURATION": "Configurações",
     "Change your current date, time, and timezone": "Change your current date, time, and timezone",
-    "Connect to a Wi-Fi network manually or via a saved profile": "Connect to a Wi-Fi network manually or via a saved profile",
+    "Connect to a Wi-Fi network manually or via a saved profile": "Ligue-se a uma rede Wi-Fi manualmente ou através de um perfil guardado.",
     "Date and Time": "Data e Hora",
-    "Device specific and muOS frontend settings can be found here": "Device specific and muOS frontend settings can be found here",
+    "Device specific and muOS frontend settings can be found here": "As definições específicas do dispositivo e do front-end do muOS podem ser consultadas aqui.",
     "General Settings": "Configurações Gerais",
     "Language": "Idioma",
-    "Select a muOS supported theme": "Select a muOS supported theme",
+    "Select a muOS supported theme": "Selecione um tema compatível com o muOS.",
     "Select your preferred language": "Select your preferred language",
     "Theme Picker": "Selecionar Tema",
     "Toggle a range of configurable services you can access via an active network": "Toggle a range of configurable services you can access via an active network",
