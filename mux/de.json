@@ -62,7 +62,7 @@
   },
   "muxconfig": {
     "CONFIGURATION": "KONFIGURATION",
-    "Change your current date, time, and timezone": "Ändern des aktuellen Datums, der Uhrzeit und der Zeitzone",
+    "Change your current date, time, and timezone": "Ändern des aktuellen Datums, der Uhrzeit und der Zeitzone.",
     "Connect to a Wi-Fi network manually or via a saved profile": "Verbindung zu einem Wi-Fi-Netzwerk manuell oder über ein gespeichertes Profil herstellen.",
     "Date and Time": "Datum und Uhrzeit",
     "Device specific and muOS frontend settings can be found here": "Gerätespezifische und muOS-Frontend-Einstellungen.",
