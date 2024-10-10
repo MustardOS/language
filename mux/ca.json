@@ -43,7 +43,7 @@
   },
   "muxarchive": {
     "ARCHIVE MANAGER": "GESTOR D'ARXIUS",
-    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Archive items can be found and installed here - Save games and states, updates, themes etc",
+    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Aquí es poden trobar els elements d'arxiu - Partides i estats guardats, actualitzacions, temes, etc.",
     "INSTALLED": "INSTAL·LAT",
     "No Archives Found": "No s'han trobat arxius"
   },
@@ -51,7 +51,7 @@
     "ASSIGN": "ASSIGNAR",
     "ASSIGN CORE": "ASSIGNAR NUCLI",
     "No Cores Found...": "No s'han trobat nuclis...",
-    "This is where you can assign a core or external emulator to content": "This is where you can assign a core or external emulator to content"
+    "This is where you can assign a core or external emulator to content": "Aquí pots assignar un nucli o un emulador extern al contingut."
   },
   "muxcharge": {
     "Booting System - Please Wait...": "Arrencant sistema - Un moment, si us plau...",
@@ -62,68 +62,68 @@
   },
   "muxconfig": {
     "CONFIGURATION": "CONFIGURACIÓ",
-    "Change your current date, time, and timezone": "Change your current date, time, and timezone",
-    "Connect to a Wi-Fi network manually or via a saved profile": "Connect to a Wi-Fi network manually or via a saved profile",
+    "Change your current date, time, and timezone": "Modifica la data actual, l'hora i la zona horària.",
+    "Connect to a Wi-Fi network manually or via a saved profile": "Connecta't a una xarxa Wi-Fi manualment o mitjançant un perfil guardat.",
     "Date and Time": "Data i hora",
-    "Device specific and muOS frontend settings can be found here": "Device specific and muOS frontend settings can be found here",
+    "Device specific and muOS frontend settings can be found here": "Aquí es pot configurar el dispositiu i la interfície de muOS.",
     "General Settings": "Configuració general",
     "Language": "Idioma",
-    "Select a muOS supported theme": "Select a muOS supported theme",
-    "Select your preferred language": "Select your preferred language",
+    "Select a muOS supported theme": "Selecciona un tema compatible amb muOS.",
+    "Select your preferred language": "Tria l'idioma que prefereixes.",
     "Theme Picker": "Selector de temes",
-    "Toggle a range of configurable services you can access via an active network": "Toggle a range of configurable services you can access via an active network",
+    "Toggle a range of configurable services you can access via an active network": "Activa un ventall de serveis configurables als que pots accedir des de la xarxa.",
     "Web Services": "Serveis de xarxa",
     "Wi-Fi Network": "Xarxa Wi-Fi"
   },
   "muxgov": {
-    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance",
-    "GOVERNOR": "GOVERNOR",
-    "No Governors Found...": "No Governors Found…"
+    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configura governadors de CPU per ajustar dinàmicament la freqüència de la CPU i ajudar a equilibrar el consum d'energia i rendiment.",
+    "GOVERNOR": "GOVERNADOR",
+    "No Governors Found...": "No s'han trobat governadors…"
   },
   "muxinfo": {
-    "Access statistics of played content and other activity": "Access statistics of played content and other activity",
-    "Access version information and system details": "Access version information and system details",
+    "Access statistics of played content and other activity": "Accedeix a estadístiques de contingut jugat i altres activitats.",
+    "Access version information and system details": "Accedeix a informació sobre la versió i detalls del sistema.",
     "Activity Tracker": "Monitor d'activitat",
     "INFORMATION": "INFORMACIÓ",
     "Input Tester": "Comprovador d'entrada",
     "Supporters": "Col·laboradors",
     "System Details": "Detalls del sistema",
-    "Test the controls of the device": "Test the controls of the device",
-    "View all of the current muOS supporters": "View all of the current muOS supporters"
+    "Test the controls of the device": "Prova els controls del dispositiu.",
+    "View all of the current muOS supporters": "Veure tots els col·laboradors actuals de muOS."
   },
   "muxlanguage": {
     "LANGUAGES": "IDIOMES",
     "No Languages Found...": "No s'han trobat idiomes...",
     "Saving Language": "Guardant idioma",
-    "Select your preferred language": "Select your preferred language"
+    "Select your preferred language": "Tria l'idioma que prefereixes."
   },
   "muxlaunch": {
     "Applications": "Aplicacions",
     "Configuration": "Configuració",
-    "Content marked as favourite can be found and launched here": "Content marked as favourite can be found and launched here",
-    "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Content on storage devices (SD1/SD2/USB) can be found and launched here",
-    "Content previously launched can be found and launched here": "Content previously launched can be found and launched here",
+    "Content marked as favourite can be found and launched here": "Aquí es pot trobar el contingut marcat com a preferit.",
+    "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Aquí es pot trobar el contingut dels dispositius d'emmagatzematge (SD1/SD2/USB).",
+    "Content previously launched can be found and launched here": "Aquí es pot trobar el contingut jugat anteriorment.",
     "Explore Content": "Explorar contingut",
     "Favourites": "Preferits",
     "History": "Historial",
     "Information": "Informació",
     "MAIN MENU": "MENÚ PRINCIPAL",
     "Reboot": "Reiniciar",
-    "Reboot your device safely": "Reboot your device safely",
-    "Shut down your device safely": "Shut down your device safely",
+    "Reboot your device safely": "Reinicia amb seguretat el teu dispositiu.",
+    "Shut down your device safely": "Apaga amb seguretat el teu dispositiu.",
     "Shutdown": "Apagar",
-    "Various applications can be found and launched here": "Various applications can be found and launched here",
-    "Various configurations can be changed here": "Various configurations can be changed here",
-    "Various information can be found and launched here": "Various information can be found and launched here"
+    "Various applications can be found and launched here": "Aquí es poden trobar aplicacions diverses.",
+    "Various configurations can be changed here": "Aquí es poden modificar configuracions diverses.",
+    "Various information can be found and launched here": "Aquí es pot trobar informació diversa."
   },
   "muxnetprofile": {
     "Loading Network Profiles...": "Carregant perfils de xarxa...",
     "NETWORK PROFILE": "PERFIL DE XARXA",
     "No Saved Network Profiles Found": "No s'han trobat perfils de xarxa guardats",
-    "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Quickly switch between different Wi-Fi configurations based on your location or network preferences"
+    "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Alterna ràpidament entre diferents configuracions Wi-Fi basat en la teva localització o preferències de xarxa."
   },
   "muxnetscan": {
-    "Detect, display and connect to available Wi-Fi networks": "Detect, display and connect to available Wi-Fi networks",
+    "Detect, display and connect to available Wi-Fi networks": "Detecta, mostra i connecta't a xarxes Wi-Fi disponibles.",
     "NETWORK SCAN": "ESCÀNER DE XARXA",
     "No Wi-Fi Networks Found": "No s'han trobat xarxes Wi-Fi",
     "Rescan": "Tornar a escanejar",
@@ -133,18 +133,18 @@
     "Cannot modify while connected!": "No es pot modificar mentre estàs connectat!",
     "Changes Saved": "Canvis guardats",
     "Connect": "Connectar",
-    "Connect to the network using options entered above": "Connect to the network using options entered above",
+    "Connect to the network using options entered above": "Connecta't a la xarxa amb les opcions introduïdes a dalt.",
     "Connected": "Connectat",
     "DHCP": "DHCP",
     "DNS Server": "Servidor DNS",
     "Device IP": "IP del dispositiu",
     "Disconnect": "Desconnectar",
     "Encrypting Password...": "Encriptant contrasenya…",
-    "Enter the device IP address here (Static only)": "Enter the device IP address here (Static only)",
-    "Enter the device Subnet (CIDR) number here (Static only)": "Enter the device Subnet (CIDR) number here (Static only)",
-    "Enter the network gateway address here (Static only)": "Enter the network gateway address here (Static only)",
-    "Enter the network identifier (SSID) here": "Enter the network identifier (SSID) here",
-    "Enter the network password here": "Enter the network password here",
+    "Enter the device IP address here (Static only)": "Introdueix l'adreça IP del dispositiu aquí.",
+    "Enter the device Subnet (CIDR) number here (Static only)": "Introdueix el número de subxarxa (CIDR) del dispositiu aquí.",
+    "Enter the network gateway address here (Static only)": "Introdueix la porta d'enllaç aquí. (Només per Estàtic)",
+    "Enter the network identifier (SSID) here": "Introdueix l'identificador de la xarxa (SSID) aquí.",
+    "Enter the network password here": "Introdueix la contrasenya de la xarxa aquí.",
     "Gateway IP": "IP de porta d'enllaç",
     "Identifier": "Identificador",
     "Network Disabled": "Xarxa deshabilitada",
@@ -157,15 +157,15 @@
     "Static": "Estàtica",
     "Status": "Estat",
     "Subnet CIDR": "CIDR de subxarxa",
-    "Toggle between DHCP and Static network types": "Toggle between DHCP and Static network types",
-    "Toggle the Wi-Fi network on and off": "Toggle the Wi-Fi network on and off",
+    "Toggle between DHCP and Static network types": "Alterna entre tipus de xarxa DHCP i Estàtic.",
+    "Toggle the Wi-Fi network on and off": "Activa o desactiva la xarxa Wi-Fi.",
     "Trying to Connect...": "Intentant connectar…",
     "WI-FI NETWORK": "XARXA WI-FI"
   },
   "muxoption": {
     "Assign Core": "Assignar nucli",
-    "Set the CPU governor for the selected content or directory": "Set the CPU governor for the selected content or directory",
-    "Set the system core or external emulator for the selected content or directory": "Set the system core or external emulator for the selected content or directory",
+    "Set the CPU governor for the selected content or directory": "Assigna el governador de CPU pel contingut o directori seleccionat.",
+    "Set the system core or external emulator for the selected content or directory": "Assigna el nucli de sistema o emulador extern pel contingut o directori seleccionat.",
     "System Governor": "Governador de sistema"
   },
   "muxpass": {
