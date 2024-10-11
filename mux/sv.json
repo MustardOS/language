@@ -17,6 +17,7 @@
     "Previous": "Föregående",
     "Recursive": "Rekursiv",
     "Remove": "Ta bort",
+    "Rescan": "Rescan",
     "Save": "Spara",
     "Saving Changes": "Sparar ändringar",
     "Select": "Välj",
@@ -35,7 +36,9 @@
     "No Applications Found": "Inga applikationer hittades",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
+    "RGB Controller": "RGB Controller",
     "RetroArch": "RetroArch",
+    "ScummVM": "ScummVM",
     "Simple Terminal": "Enkel Terminal",
     "Task Toolkit": "Uppgiftsverktyg"
   },
@@ -113,9 +116,12 @@
     "Various information can be found and launched here": "Olika information kan hittas och startas här."
   },
   "muxnetprofile": {
+    "Invalid Network Settings": "Invalid Network Settings",
+    "Invalid SSID": "Invalid SSID",
     "Loading Network Profiles...": "Laddar nätverksprofiler…",
     "NETWORK PROFILE": "NÄTVERKSPROFIL",
     "No Saved Network Profiles Found": "Inga sparade nätverksprofiler hittades",
+    "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Växla snabbt mellan olika Wi-Fi-konfigurationer baserat på din plats eller dina nätverksinställningar."
   },
   "muxnetscan": {
@@ -159,6 +165,7 @@
   },
   "muxoption": {
     "Assign Core": "Tilldela Kärna",
+    "CONTENT OPTION": "CONTENT OPTION",
     "Set the CPU governor for the selected content or directory": "Ställ in CPU-regleraren för det valda innehållet eller katalogen.",
     "Set the system core or external emulator for the selected content or directory": "Ställ in systemkärnan eller extern emulator för det valda innehållet eller katalogen.",
     "System Governor": "Systemreglerare"
@@ -178,7 +185,8 @@
     "HISTORY": "HISTORIK",
     "Info": "Info",
     "Loading...": "Laddar…",
-    "Refresh": "Uppdatera"
+    "Refresh": "Uppdatera",
+    "Removed from Favourites": "Removed from Favourites"
   },
   "muxpower": {
     "10m": "10m",
@@ -237,6 +245,7 @@
     "Change where muOS saves screenshots": "Ändra var muOS sparar skärmdumpar.",
     "Content Management": "Innehållshantering",
     "Languages": "Språk",
+    "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "Metadata-katalog",
     "Network Profiles": "Nätverksprofiler",
     "RetroArch BIOS": "RetroArch BIOS",
@@ -287,11 +296,13 @@
   "muxtheme": {
     "Loading Theme": "Laddar tema",
     "No Themes Found": "Inga teman hittades",
-    "THEME PICKER": "TEMAVÄLJARE"
+    "THEME PICKER": "TEMAVÄLJARE",
+    "This theme has no attributed credits!": "This theme has no attributed credits!"
   },
   "muxtimezone": {
     "No Timezones Found...": "Inga tidszoner hittades…",
     "Saving Timezone": "Sparar tidszon",
+    "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "TIDSZON"
   },
   "muxtweakadv": {
@@ -299,6 +310,7 @@
     "Adjust the rate of speed when holding navigation keys down": "Justera hastigheten vid hållning av navigationsknappar",
     "Battery Offset": "Batterikompensation",
     "Brightness On Boot": "Ljusstyrka vid start",
+    "Button Swap": "Button Swap",
     "Change how the device buttons work globally": "Ändra hur enhetens knappar fungerar globalt",
     "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font": "Ändra hur typsnittet fungerar i frontend - 'Tema' kommer att se till att frontend använder teckensnitt inom teman med en fallback till språktypsnitt - 'Språk' kommer specifikt att använda språkbaserat typsnitt.",
     "Change the default audio level that the device will use each time it starts up": "Ändra den förvalda ljudnivån som enheten kommer att använda vid varje start.",
@@ -315,9 +327,11 @@
     "Loud": "Högljudd",
     "Low": "Låg",
     "Menu Acceleration": "Menyacceleration",
+    "Modern": "Modern",
     "Passcode Lock": "Lösenkodslås",
     "Quiet": "Tyst",
     "Random Theme on Boot": "Slumpmässigt tema vid start",
+    "Retro": "Retro",
     "RetroArch Network Wait": "RetroArch Nätverksväntan",
     "Shutdown": "Stäng av",
     "Shutdown + Sleep": "Stäng av + Viloläge",
@@ -383,6 +397,7 @@
     "Main Menu": "Huvudmeny",
     "Navigation Sound": "Navigationsljud",
     "Neutral White (0)": "Neutral Vit (0)",
+    "Power Settings": "Power Settings",
     "Resume Game": "Återuppta Spel",
     "Settings that should only be changed by those who know what they are doing!": "Inställningar som endast ska ändras av de som vet vad de gör!",
     "Settings to change the power features of the device": "Inställningar för att ändra enhetens strömfunktioner.",
@@ -401,23 +416,32 @@
   "muxvisual": {
     "Background Animation": "Bakgrundsanimation",
     "Battery": "Batteri",
+    "Behind": "Behind",
     "Bluetooth": "Bluetooth",
+    "Bottom Left": "Bottom Left",
+    "Bottom Middle": "Bottom Middle",
+    "Bottom Right": "Bottom Right",
+    "Center": "Center",
     "Change the display priority of the content images": "Ändra visningsprioriteten för innehållsbilderna.",
     "Change the screen alignment of the content images": "Ändra skärmens justering för innehållsbilderna.",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Ändrar den översta titelns etikett i Utforska Innehåll för att visa aktuell lagringsenhet tillsammans med mappnamn.",
     "Clock": "Klocka",
     "Content Box Art": "Innehålls Boxkonst",
+    "Content Box Art Alignment": "Content Box Art Alignment",
     "Content Dash Replacement": "Innehålls Dash Ersättning",
     "Content Name Scheme": "Innehållsnamnschema",
     "Display Title Reformatting": "Visningstitel Omformatering",
     "Folder Item Count": "Antal Objekt i Mapp",
     "Friendly Folder Names": "Vänliga Mappnamn",
+    "Front": "Front",
     "Full Name": "Fullständigt Namn",
     "Fullscreen + Behind": "Fullskärm + Bakom",
     "Fullscreen + Front": "Fullskärm + Fram",
     "INTERFACE OPTIONS": "GRÄNSSNITTSALTERNATIV",
     "Menu Counter File": "Menyfilräknare",
     "Menu Counter Folder": "Meny mapp räknare",
+    "Middle Left": "Middle Left",
+    "Middle Right": "Middle Right",
     "Network": "Nätverk",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Omordnar etiketten för innehåll för att flytta 'The'-etiketten till framsidan - Till exempel, 'Batman och Robin, The' till 'The Batman och Robin'.",
     "Remove ( )": "Ta bort ( )",
@@ -434,7 +458,10 @@
     "Toggle the visibility of the bluetooth glyph": "Växla bluetoothsymbolens synlighet.",
     "Toggle the visibility of the clock": "Växla klockans synlighet.",
     "Toggle the visibility of the item count within folders in Explore Content": "Växla antalet objekt inom mappar i Utforska Innehåll.",
-    "Toggle the visibility of the network glyph": "Växla nätverkssymbolens synlighet."
+    "Toggle the visibility of the network glyph": "Växla nätverkssymbolens synlighet.",
+    "Top Left": "Top Left",
+    "Top Middle": "Top Middle",
+    "Top Right": "Top Right"
   },
   "muxwebserv": {
     "Network Time Sync": "Nätverkstidssynkronisering",
