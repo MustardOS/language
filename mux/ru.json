@@ -121,6 +121,9 @@
     "Loading Network Profiles...": "Загрузка интернет профилей…",
     "NETWORK PROFILE": "ИНТЕРНЕТ ПРОФИЛЬ",
     "No Saved Network Profiles Found": "Сохраненные сетевые профили не найдены",
+    "Password must be 8": {
+      "63 characters!": "Password must be 8..63 characters!"
+    },
     "Password must be 8..63 characters!": "Пароль должен состоять из 8...63 символов!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Быстрое переключение между различными конфигурациями Wi-Fi в зависимости от вашего местоположения или сетевых настроек."
   },
@@ -245,6 +248,7 @@
     "Change where muOS saves screenshots": "Настройка пути, куда muOS сохраняет скриншоты.",
     "Content Management": "Управление контентом",
     "Languages": "Языки",
+    "Leave on AUTO to look on SD2 first and fall back to SD1": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Leave on AUTO to look on SD2 first and fall back to SD1.": "Установите режим AUTO, чтобы сначала посмотреть SD2, а затем вернуться к SD1.",
     "Metadata Catalogue": "Каталог метаданных",
     "Network Profiles": "Сетевые профили",
@@ -302,6 +306,7 @@
   "muxtimezone": {
     "No Timezones Found...": "Часовые пояса не найдены…",
     "Saving Timezone": "Сохранение часового пояса",
+    "Select your preferred timezone": "Select your preferred timezone.",
     "Select your preferred timezone.": "Выберите предпочтительный часовой пояс.",
     "TIMEZONE": "ЧАСОВОЙ ПОЯС"
   },
