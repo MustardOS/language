@@ -17,6 +17,7 @@
     "Previous": "Předchozí",
     "Recursive": "Rekurzivní",
     "Remove": "Odstranit",
+    "Rescan": "Rescan",
     "Save": "Uložit",
     "Saving Changes": "Ukládání změn",
     "Select": "Vybrat",
@@ -35,7 +36,9 @@
     "No Applications Found": "Nebyly nalezeny žádné aplikace",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
+    "RGB Controller": "RGB Controller",
     "RetroArch": "RetroArch",
+    "ScummVM": "ScummVM",
     "Simple Terminal": "Jednoduchý Terminál",
     "Task Toolkit": "Sada nástrojů"
   },
@@ -113,9 +116,12 @@
     "Various information can be found and launched here": "Zde lze nalézt a spustit různé informace."
   },
   "muxnetprofile": {
+    "Invalid Network Settings": "Invalid Network Settings",
+    "Invalid SSID": "Invalid SSID",
     "Loading Network Profiles...": "Načítání síťových profilů…",
     "NETWORK PROFILE": "SÍŤOVÝ PROFIL",
     "No Saved Network Profiles Found": "Nebyly nalezeny žádné uložené síťové profily",
+    "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Rychle přepínejte mezi různými konfiguracemi Wi-Fi na základě vaší polohy nebo předvoleb sítě."
   },
   "muxnetscan": {
@@ -159,6 +165,7 @@
   },
   "muxoption": {
     "Assign Core": "Přiřadit Core",
+    "CONTENT OPTION": "CONTENT OPTION",
     "Set the CPU governor for the selected content or directory": "Nastavte regulátor CPU pro vybraný obsah nebo adresář.",
     "Set the system core or external emulator for the selected content or directory": "Nastavte jádro systému nebo externí emulátor pro vybraný obsah nebo adresář.",
     "System Governor": "Regulátor systému"
@@ -178,7 +185,8 @@
     "HISTORY": "HISTORIE",
     "Info": "Info",
     "Loading...": "Načítání…",
-    "Refresh": "Obnovit"
+    "Refresh": "Obnovit",
+    "Removed from Favourites": "Removed from Favourites"
   },
   "muxpower": {
     "10m": "10m",
@@ -237,6 +245,7 @@
     "Change where muOS saves screenshots": "Změňte, kde muOS hledá obrázky a soubory uložení.",
     "Content Management": "Správa obsahu",
     "Languages": "Jazyky",
+    "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "Katalog metadat",
     "Network Profiles": "Síťové profily",
     "RetroArch BIOS": "RetroArch - BIOS",
@@ -287,11 +296,13 @@
   "muxtheme": {
     "Loading Theme": "Načítání tématu",
     "No Themes Found": "Nebyla nalezena žádná témata",
-    "THEME PICKER": "VÝBĚR TÉMATU"
+    "THEME PICKER": "VÝBĚR TÉMATU",
+    "This theme has no attributed credits!": "This theme has no attributed credits!"
   },
   "muxtimezone": {
     "No Timezones Found...": "Nebyla nalezena žádná časová pásma…",
     "Saving Timezone": "Ukládání časového pásma",
+    "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "ČASOVÉ PÁSMO"
   },
   "muxtweakadv": {
@@ -299,6 +310,7 @@
     "Adjust the rate of speed when holding navigation keys down": "Upravte rychlost při podržení navigačních kláves",
     "Battery Offset": "Posunutí baterie",
     "Brightness On Boot": "Jas při spuštění",
+    "Button Swap": "Button Swap",
     "Change how the device buttons work globally": "Změňte způsob fungování tlačítek zařízení globálně",
     "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font": "Změňte způsob fungování typu písma v rozhraní frontend. 'Téma' zajistí, že frontend bude používat písma v tématech s přechodem na jazyková písma. 'Jazyk' bude konkrétně používat jazyk založený na písmu.",
     "Change the default audio level that the device will use each time it starts up": "Změňte výchozí úroveň zvuku, kterou zařízení použije při každém spuštění.",
@@ -315,9 +327,11 @@
     "Loud": "Hlasitý",
     "Low": "Nízký",
     "Menu Acceleration": "Nabídka Akcelerace",
+    "Modern": "Modern",
     "Passcode Lock": "Zámek",
     "Quiet": "Klid",
     "Random Theme on Boot": "Náhodné téma při spouštění",
+    "Retro": "Retro",
     "RetroArch Network Wait": "RetroArch počká na Síť",
     "Shutdown": "Vypnutí",
     "Shutdown + Sleep": "Vypnutí + Spánek",
@@ -383,6 +397,7 @@
     "Main Menu": "Hlavní menu",
     "Navigation Sound": "Zvuk navigace",
     "Neutral White (0)": "Neutrální bílá (0)",
+    "Power Settings": "Power Settings",
     "Resume Game": "Pokračovat ve hře",
     "Settings that should only be changed by those who know what they are doing!": "Nastavení, která by měli měnit pouze ti, kteří vědí, co dělají!",
     "Settings to change the power features of the device": "Nastavení pro změnu funkcí napájení zařízení.",
@@ -401,23 +416,32 @@
   "muxvisual": {
     "Background Animation": "Animace pozadí",
     "Battery": "Baterie",
+    "Behind": "Behind",
     "Bluetooth": "Bluetooth",
+    "Bottom Left": "Bottom Left",
+    "Bottom Middle": "Bottom Middle",
+    "Bottom Right": "Bottom Right",
+    "Center": "Center",
     "Change the display priority of the content images": "Změňte prioritu zobrazení obrázků obsahu.",
     "Change the screen alignment of the content images": "Změňte zarovnání obrazovek obsahu.",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Změní štítek horního názvu v Prozkoumat obsah tak, aby zobrazoval aktuální úložné zařízení spolu s názvem složky.",
     "Clock": "Hodiny",
     "Content Box Art": "Obrázek Box Art",
+    "Content Box Art Alignment": "Content Box Art Alignment",
     "Content Dash Replacement": "Výměna pomlčky obsahu",
     "Content Name Scheme": "Schéma názvů obsahu",
     "Display Title Reformatting": "Přeformátování zobrazení titulků",
     "Folder Item Count": "Počet položek ve složce",
     "Friendly Folder Names": "Přátelské názvy složek",
+    "Front": "Front",
     "Full Name": "Celé jméno",
     "Fullscreen + Behind": "Celá obrazovka + V pozadí",
     "Fullscreen + Front": "Celá obrazovka + Na popředí",
     "INTERFACE OPTIONS": "MOŽNOSTI ROZHRANÍ",
     "Menu Counter File": "Počítadlo Souborů",
     "Menu Counter Folder": "Počítadlo Složek",
+    "Middle Left": "Middle Left",
+    "Middle Right": "Middle Right",
     "Network": "Síť",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Změní uspořádání štítku obsahu tak, aby se štítek 'The' se posunul dopředu. Například „Batman a Robin, The“ bude „The Batman and Robin“.",
     "Remove ( )": "Odstranit ( )",
@@ -434,7 +458,10 @@
     "Toggle the visibility of the bluetooth glyph": "Přepnout viditelnost symbolu Bluetooth.",
     "Toggle the visibility of the clock": "Přepnout viditelnost hodin.",
     "Toggle the visibility of the item count within folders in Explore Content": "Přepínání viditelnosti počtu položek ve složkách v Prozkoumat obsah.",
-    "Toggle the visibility of the network glyph": "Přepnout viditelnost symbolu sítě."
+    "Toggle the visibility of the network glyph": "Přepnout viditelnost symbolu sítě.",
+    "Top Left": "Top Left",
+    "Top Middle": "Top Middle",
+    "Top Right": "Top Right"
   },
   "muxwebserv": {
     "Network Time Sync": "Synchronizace času z Internetu",
