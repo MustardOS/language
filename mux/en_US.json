@@ -17,6 +17,7 @@
     "Previous": "Previous",
     "Recursive": "Recursive",
     "Remove": "Remove",
+    "Rescan": "Rescan",
     "Save": "Save",
     "Saving Changes": "Saving Changes",
     "Select": "Select",
@@ -35,7 +36,9 @@
     "No Applications Found": "No Applications Found",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
+    "RGB Controller": "RGB Controller",
     "RetroArch": "RetroArch",
+    "ScummVM": "ScummVM",
     "Simple Terminal": "Simple Terminal",
     "Task Toolkit": "Task Toolkit"
   },
@@ -113,9 +116,12 @@
     "Various information can be found and launched here": "Various information can be found and launched here"
   },
   "muxnetprofile": {
+    "Invalid Network Settings": "Invalid Network Settings",
+    "Invalid SSID": "Invalid SSID",
     "Loading Network Profiles...": "Loading Network Profiles…",
     "NETWORK PROFILE": "NETWORK PROFILE",
     "No Saved Network Profiles Found": "No Saved Network Profiles Found",
+    "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Quickly switch between different Wi-Fi configurations based on your location or network preferences"
   },
   "muxnetscan": {
@@ -159,6 +165,7 @@
   },
   "muxoption": {
     "Assign Core": "Assign Core",
+    "CONTENT OPTION": "CONTENT OPTION",
     "Set the CPU governor for the selected content or directory": "Set the CPU governor for the selected content or directory",
     "Set the system core or external emulator for the selected content or directory": "Set the system core or external emulator for the selected content or directory",
     "System Governor": "System Governor"
@@ -178,7 +185,8 @@
     "HISTORY": "HISTORY",
     "Info": "Info",
     "Loading...": "Loading…",
-    "Refresh": "Refresh"
+    "Refresh": "Refresh",
+    "Removed from Favourites": "Removed from Favourites"
   },
   "muxpower": {
     "10m": "10m",
@@ -237,6 +245,7 @@
     "Change where muOS saves screenshots": "Change where muOS saves screenshots",
     "Content Management": "Content Management",
     "Languages": "Languages",
+    "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "Metadata Catalogue",
     "Network Profiles": "Network Profiles",
     "RetroArch BIOS": "RetroArch BIOS",
@@ -287,11 +296,13 @@
   "muxtheme": {
     "Loading Theme": "Loading Theme",
     "No Themes Found": "No Themes Found",
-    "THEME PICKER": "THEME PICKER"
+    "THEME PICKER": "THEME PICKER",
+    "This theme has no attributed credits!": "This theme has no attributed credits!"
   },
   "muxtimezone": {
     "No Timezones Found...": "No Timezones Found…",
     "Saving Timezone": "Saving Timezone",
+    "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "TIMEZONE"
   },
   "muxtweakadv": {
@@ -299,6 +310,7 @@
     "Adjust the rate of speed when holding navigation keys down": "Adjust the rate of speed when holding navigation keys down",
     "Battery Offset": "Battery Offset",
     "Brightness On Boot": "Brightness On Boot",
+    "Button Swap": "Button Swap",
     "Change how the device buttons work globally": "Change how the device buttons work globally",
     "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font": "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font",
     "Change the default audio level that the device will use each time it starts up": "Change the default audio level that the device will use each time it starts up",
@@ -315,9 +327,11 @@
     "Loud": "Loud",
     "Low": "Low",
     "Menu Acceleration": "Menu Acceleration",
+    "Modern": "Modern",
     "Passcode Lock": "Passcode Lock",
     "Quiet": "Quiet",
     "Random Theme on Boot": "Random Theme on Boot",
+    "Retro": "Retro",
     "RetroArch Network Wait": "RetroArch Network Wait",
     "Shutdown": "Shutdown",
     "Shutdown + Sleep": "Shutdown + Sleep",
@@ -383,6 +397,7 @@
     "Main Menu": "Main Menu",
     "Navigation Sound": "Navigation Sound",
     "Neutral White (0)": "Neutral White (0)",
+    "Power Settings": "Power Settings",
     "Resume Game": "Resume Game",
     "Settings that should only be changed by those who know what they are doing!": "Settings that should only be changed by those who know what they are doing!",
     "Settings to change the power features of the device": "Settings to change the power features of the device",
@@ -401,23 +416,32 @@
   "muxvisual": {
     "Background Animation": "Background Animation",
     "Battery": "Battery",
+    "Behind": "Behind",
     "Bluetooth": "Bluetooth",
+    "Bottom Left": "Bottom Left",
+    "Bottom Middle": "Bottom Middle",
+    "Bottom Right": "Bottom Right",
+    "Center": "Center",
     "Change the display priority of the content images": "Change the display priority of the content images",
     "Change the screen alignment of the content images": "Change the screen alignment of the content images",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Changes the top title label in Explore Content to show current storage device along with folder name",
     "Clock": "Clock",
     "Content Box Art": "Content Box Art",
+    "Content Box Art Alignment": "Content Box Art Alignment",
     "Content Dash Replacement": "Content Dash Replacement",
     "Content Name Scheme": "Content Name Scheme",
     "Display Title Reformatting": "Display Title Reformatting",
     "Folder Item Count": "Folder Item Count",
     "Friendly Folder Names": "Friendly Folder Names",
+    "Front": "Front",
     "Full Name": "Full Name",
     "Fullscreen + Behind": "Fullscreen + Behind",
     "Fullscreen + Front": "Fullscreen + Front",
     "INTERFACE OPTIONS": "INTERFACE OPTIONS",
     "Menu Counter File": "Menu Counter File",
     "Menu Counter Folder": "Menu Counter Folder",
+    "Middle Left": "Middle Left",
+    "Middle Right": "Middle Right",
     "Network": "Network",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'",
     "Remove ( )": "Remove ( )",
@@ -434,7 +458,10 @@
     "Toggle the visibility of the bluetooth glyph": "Toggle the visibility of the bluetooth glyph",
     "Toggle the visibility of the clock": "Toggle the visibility of the clock",
     "Toggle the visibility of the item count within folders in Explore Content": "Toggle the visibility of the item count within folders in Explore Content",
-    "Toggle the visibility of the network glyph": "Toggle the visibility of the network glyph"
+    "Toggle the visibility of the network glyph": "Toggle the visibility of the network glyph",
+    "Top Left": "Top Left",
+    "Top Middle": "Top Middle",
+    "Top Right": "Top Right"
   },
   "muxwebserv": {
     "Network Time Sync": "Network Time Sync",
