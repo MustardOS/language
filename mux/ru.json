@@ -17,7 +17,7 @@
     "Previous": "Предыдущий",
     "Recursive": "Рекурсивный",
     "Remove": "Удалить",
-    "Rescan": "Rescan",
+    "Rescan": "Повторное сканирование",
     "Save": "Сохранить",
     "Saving Changes": "Сохранение изменений",
     "Select": "Выбрать",
@@ -36,7 +36,7 @@
     "No Applications Found": "Приложения не найдены",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
-    "RGB Controller": "RGB Controller",
+    "RGB Controller": "RGB контроллер",
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Simple Terminal": "Терминал",
@@ -116,12 +116,12 @@
     "Various information can be found and launched here": "Различную информацию можно найти и запустить здесь."
   },
   "muxnetprofile": {
-    "Invalid Network Settings": "Invalid Network Settings",
-    "Invalid SSID": "Invalid SSID",
+    "Invalid Network Settings": "Неверные настройки сети",
+    "Invalid SSID": "Неверный SSID",
     "Loading Network Profiles...": "Загрузка интернет профилей…",
     "NETWORK PROFILE": "ИНТЕРНЕТ ПРОФИЛЬ",
     "No Saved Network Profiles Found": "Сохраненные сетевые профили не найдены",
-    "Password must be 8..63 characters!": "Password must be 8..63 characters!",
+    "Password must be 8..63 characters!": "Пароль должен состоять из 8...63 символов!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Быстрое переключение между различными конфигурациями Wi-Fi в зависимости от вашего местоположения или сетевых настроек."
   },
   "muxnetscan": {
@@ -165,7 +165,7 @@
   },
   "muxoption": {
     "Assign Core": "Присвоить ядро",
-    "CONTENT OPTION": "CONTENT OPTION",
+    "CONTENT OPTION": "НАСТРОЙКА КОНТЕНТА",
     "Set the CPU governor for the selected content or directory": "Настройка говернора процессора для выбранного содержимого или директории.",
     "Set the system core or external emulator for the selected content or directory": "Выберите ядро или внешний эмулятор для выбранного содержимого или директории.",
     "System Governor": "Системный говернор"
@@ -186,7 +186,7 @@
     "Info": "Информация",
     "Loading...": "Загрузка…",
     "Refresh": "Обновить",
-    "Removed from Favourites": "Removed from Favourites"
+    "Removed from Favourites": "Удалено из избранного"
   },
   "muxpower": {
     "10m": "10м",
@@ -245,7 +245,7 @@
     "Change where muOS saves screenshots": "Настройка пути, куда muOS сохраняет скриншоты.",
     "Content Management": "Управление контентом",
     "Languages": "Языки",
-    "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
+    "Leave on AUTO to look on SD2 first and fall back to SD1.": "Установите режим AUTO, чтобы сначала посмотреть SD2, а затем вернуться к SD1.",
     "Metadata Catalogue": "Каталог метаданных",
     "Network Profiles": "Сетевые профили",
     "RetroArch BIOS": "RetroArch BIOS",
