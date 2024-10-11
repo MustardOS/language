@@ -1,7 +1,6 @@
 {
   "generic": {
     "Back": "Zpět",
-    "Confirm": "Potvrdit",
     "Directory": "Adresář",
     "Disabled": "Zakázáno",
     "Enabled": "Povoleno",
@@ -13,7 +12,6 @@
     "Internal": "Interní",
     "Launch": "Spustit",
     "Load": "Nahrát",
-    "Next": "Další",
     "No Help Information Found": "Nebyly nalezeny žádné informace nápovědy",
     "Open": "Otevřít",
     "Previous": "Předchozí",
@@ -49,14 +47,12 @@
   },
   "muxassign": {
     "ASSIGN": "PŘIŘADIT",
-    "ASSIGN CORE": "PŘIŘADIT JÁDRO",
     "No Cores Found...": "Nebyla nalezena žádná jádra…",
     "This is where you can assign a core or external emulator to content": "Zde můžete přiřadit jádro nebo externí emulátor."
   },
   "muxcharge": {
     "Booting System - Please Wait...": "Zavádění systému - čekejte prosím…",
     "Capacity": "Kapacita",
-    "Health": "Zdraví",
     "Press POWER button to continue booting...": "Stisknutím tlačítka NAPÁJENÍ pokračujte v bootovaní…",
     "Voltage": "Napětí"
   },
@@ -126,7 +122,6 @@
     "Detect, display and connect to available Wi-Fi networks": "Detekce, zobrazení a připojení k dostupným sítím Wi-Fi.",
     "NETWORK SCAN": "SKENOVÁNÍ SÍŤĚ",
     "No Wi-Fi Networks Found": "Nebyly nalezeny žádné sítě Wi-Fi",
-    "Rescan": "Proskenovat",
     "Scanning for Wi-Fi Networks...": "Vyhledávání sítí Wi-Fi…"
   },
   "muxnetwork": {
@@ -177,9 +172,6 @@
     "Could not load content!": "Obsah se nepodařilo načíst!",
     "Directories cannot be added to Favourites": "Adresáře nelze přidat do oblíbených položek",
     "EXPLORE": "PROZKOUMAT",
-    "EXPLORE (SD1)": "PROZKOUMAT (SD1)",
-    "EXPLORE (SD2)": "PROZKOUMAT (SD2)",
-    "EXPLORE (USB)": "PROZKOUMAT (USB)",
     "Error adding to Favourites": "Chyba při přidávání do oblíbených",
     "FAVOURITES": "OBLÍBENÉ",
     "Favourite": "Oblíbené",
@@ -245,7 +237,6 @@
     "Change where muOS saves screenshots": "Změňte, kde muOS hledá obrázky a soubory uložení.",
     "Content Management": "Správa obsahu",
     "Languages": "Jazyky",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "Nechte na AUTO, chcete-li se nejprve podívat na SD2 a vrátit se zpět na SD1.",
     "Metadata Catalogue": "Katalog metadat",
     "Network Profiles": "Síťové profily",
     "RetroArch BIOS": "RetroArch - BIOS",
@@ -301,14 +292,11 @@
   "muxtimezone": {
     "No Timezones Found...": "Nebyla nalezena žádná časová pásma…",
     "Saving Timezone": "Ukládání časového pásma",
-    "Select your preferred timezone": "Vyberte preferované časové pásmo.",
     "TIMEZONE": "ČASOVÉ PÁSMO"
   },
   "muxtweakadv": {
-    "A+B Button Swap": "Výměna tlačítek A+B",
     "ADVANCED SETTINGS": "POKROČILÉ NASTAVENÍ",
     "Adjust the rate of speed when holding navigation keys down": "Upravte rychlost při podržení navigačních kláves",
-    "Android Debug Bridge": "Android Debug Bridge",
     "Battery Offset": "Posunutí baterie",
     "Brightness On Boot": "Jas při spuštění",
     "Change how the device buttons work globally": "Změňte způsob fungování tlačítek zařízení globálně",
@@ -327,7 +315,6 @@
     "Loud": "Hlasitý",
     "Low": "Nízký",
     "Menu Acceleration": "Nabídka Akcelerace",
-    "Noto Sans": "Noto Sans",
     "Passcode Lock": "Zámek",
     "Quiet": "Klid",
     "Random Theme on Boot": "Náhodné téma při spouštění",
@@ -343,7 +330,6 @@
     "Switch between device speaker or external monitor audio via HDMI connection": "Přepínejte mezi reproduktorem zařízení nebo zvukem externího monitoru prostřednictvím připojení HDMI.",
     "Switch between system sleep suspend states": "Přepínání mezi stavy pozastavení spánku systému.",
     "Theme": "Téma",
-    "Theme Controlled": "Řízené Tématem",
     "Thermal Zone Control": "Ovládání tepelné zóny",
     "Toggle a delayed start of RetroArch until a network connection is established": "Přepněte odložený start RetroArch, dokud nebude navázáno síťové připojení.",
     "Toggle between ADB and MTP USB functionality": "Přepínání mezi funkcí ADB a MTP USB.",
@@ -416,8 +402,6 @@
     "Background Animation": "Animace pozadí",
     "Battery": "Baterie",
     "Bluetooth": "Bluetooth",
-    "Bottom + Behind": "Dole + V pozadí",
-    "Bottom + Front": "Dole + Na popředí",
     "Change the display priority of the content images": "Změňte prioritu zobrazení obrázků obsahu.",
     "Change the screen alignment of the content images": "Změňte zarovnání obrazovek obsahu.",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Změní štítek horního názvu v Prozkoumat obsah tak, aby zobrazoval aktuální úložné zařízení spolu s názvem složky.",
@@ -434,8 +418,6 @@
     "INTERFACE OPTIONS": "MOŽNOSTI ROZHRANÍ",
     "Menu Counter File": "Počítadlo Souborů",
     "Menu Counter Folder": "Počítadlo Složek",
-    "Middle + Behind": "Střed + V pozadí",
-    "Middle + Front": "Střed + Na popředí",
     "Network": "Síť",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Změní uspořádání štítku obsahu tak, aby se štítek 'The' se posunul dopředu. Například „Batman a Robin, The“ bude „The Batman and Robin“.",
     "Remove ( )": "Odstranit ( )",
@@ -452,9 +434,7 @@
     "Toggle the visibility of the bluetooth glyph": "Přepnout viditelnost symbolu Bluetooth.",
     "Toggle the visibility of the clock": "Přepnout viditelnost hodin.",
     "Toggle the visibility of the item count within folders in Explore Content": "Přepínání viditelnosti počtu položek ve složkách v Prozkoumat obsah.",
-    "Toggle the visibility of the network glyph": "Přepnout viditelnost symbolu sítě.",
-    "Top + Behind": "Nahoře + V pozadí",
-    "Top + Front": "Nahoře + Na popředí"
+    "Toggle the visibility of the network glyph": "Přepnout viditelnost symbolu sítě."
   },
   "muxwebserv": {
     "Network Time Sync": "Synchronizace času z Internetu",

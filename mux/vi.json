@@ -1,7 +1,6 @@
 {
   "generic": {
     "Back": "Back",
-    "Confirm": "Confirm",
     "Directory": "Directory",
     "Disabled": "Disabled",
     "Enabled": "Enabled",
@@ -13,7 +12,6 @@
     "Internal": "Internal",
     "Launch": "Launch",
     "Load": "Load",
-    "Next": "Next",
     "No Help Information Found": "No Help Information Found",
     "Open": "Open",
     "Previous": "Previous",
@@ -49,14 +47,12 @@
   },
   "muxassign": {
     "ASSIGN": "GÁN",
-    "ASSIGN CORE": "GÁN LÕI",
     "No Cores Found...": "Không tìm thấy lõi",
     "This is where you can assign a core or external emulator to content": "This is where you can assign a core or external emulator to content"
   },
   "muxcharge": {
     "Booting System - Please Wait...": "Đang khởi động hệ thống...",
     "Capacity": "Dung lượng",
-    "Health": "Tình trạng",
     "Press POWER button to continue booting...": "Press POWER button to continue booting...",
     "Voltage": "Điện áp"
   },
@@ -126,7 +122,6 @@
     "Detect, display and connect to available Wi-Fi networks": "Detect, display and connect to available Wi-Fi networks",
     "NETWORK SCAN": "QUÉT MẠNG",
     "No Wi-Fi Networks Found": "Không tìm thấy mạng Wi-Fi",
-    "Rescan": "Quét lại",
     "Scanning for Wi-Fi Networks...": "Đang quét mạng Wi-Fi..."
   },
   "muxnetwork": {
@@ -177,9 +172,6 @@
     "Could not load content!": "Không thể mở nội dung!",
     "Directories cannot be added to Favourites": "Không thể thêm thư mục vào Yêu thích",
     "EXPLORE": "KHÁM PHÁ",
-    "EXPLORE (SD1)": "KHÁM PHÁ (SD1)",
-    "EXPLORE (SD2)": "KHÁM PHÁ (SD2)",
-    "EXPLORE (USB)": "KHÁM PHÁ (USB)",
     "Error adding to Favourites": "Đã xảy ra lỗi khi thêm vào Yêu thích",
     "FAVOURITES": "YÊU THÍCH",
     "Favourite": "Yêu thích",
@@ -245,7 +237,6 @@
     "Change where muOS saves screenshots": "Change where muOS saves screenshots",
     "Content Management": "Quản lý nội dung",
     "Languages": "Languages",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "Leave on AUTO to look on SD2 first and fall back to SD1",
     "Metadata Catalogue": "Danh mục siêu dữ liệu",
     "Network Profiles": "Network Profiles",
     "RetroArch BIOS": "RetroArch BIOS",
@@ -301,14 +292,11 @@
   "muxtimezone": {
     "No Timezones Found...": "Không tìm thấy múi giờ",
     "Saving Timezone": "Đang lưu múi giờ",
-    "Select your preferred timezone": "Select your preferred timezone",
     "TIMEZONE": "MÚI GIỜ"
   },
   "muxtweakadv": {
-    "A+B Button Swap": "Đảo ngược phím A và B",
     "ADVANCED SETTINGS": "CÀI ĐẶT NÂNG CAO",
     "Adjust the rate of speed when holding navigation keys down": "Adjust the rate of speed when holding navigation keys down",
-    "Android Debug Bridge": "Android Debug Bridge",
     "Battery Offset": "Hiệu chỉnh hiển thị pin",
     "Brightness On Boot": "Độ sáng khi khởi động",
     "Change how the device buttons work globally": "Change how the device buttons work globally",
@@ -327,7 +315,6 @@
     "Loud": "Lớn",
     "Low": "Thấp",
     "Menu Acceleration": "Menu Acceleration",
-    "Noto Sans": "Noto Sans",
     "Passcode Lock": "Khóa mật mã",
     "Quiet": "Im lặng",
     "Random Theme on Boot": "Chủ đề ngẫu nhiên khi khởi động",
@@ -343,7 +330,6 @@
     "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
     "Switch between system sleep suspend states": "Switch between system sleep suspend states",
     "Theme": "Theme",
-    "Theme Controlled": "Theo chủ đề",
     "Thermal Zone Control": "Kiểm soát vùng nhiệt",
     "Toggle a delayed start of RetroArch until a network connection is established": "Toggle a delayed start of RetroArch until a network connection is established",
     "Toggle between ADB and MTP USB functionality": "Toggle between ADB and MTP USB functionality",
@@ -416,8 +402,6 @@
     "Background Animation": "Background Animation",
     "Battery": "Pin",
     "Bluetooth": "Bluetooth",
-    "Bottom + Behind": "Dưới + Sau",
-    "Bottom + Front": "Dưới + Trước",
     "Change the display priority of the content images": "Change the display priority of the content images",
     "Change the screen alignment of the content images": "Change the screen alignment of the content images",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Changes the top title label in Explore Content to show current storage device along with folder name",
@@ -434,8 +418,6 @@
     "INTERFACE OPTIONS": "CÀI ĐẶT GIAO DIỆN",
     "Menu Counter File": "Đếm số tập tin",
     "Menu Counter Folder": "Đếm số thư mục",
-    "Middle + Behind": "Giữa + Sau",
-    "Middle + Front": "Giữa + Trước",
     "Network": "Mạng",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'",
     "Remove ( )": "Loại bỏ ( )",
@@ -452,9 +434,7 @@
     "Toggle the visibility of the bluetooth glyph": "Toggle the visibility of the bluetooth glyph",
     "Toggle the visibility of the clock": "Toggle the visibility of the clock",
     "Toggle the visibility of the item count within folders in Explore Content": "Toggle the visibility of the item count within folders in Explore Content",
-    "Toggle the visibility of the network glyph": "Toggle the visibility of the network glyph",
-    "Top + Behind": "Trên + Sau",
-    "Top + Front": "Trên + Trước"
+    "Toggle the visibility of the network glyph": "Toggle the visibility of the network glyph"
   },
   "muxwebserv": {
     "Network Time Sync": "Đồng bộ thời gian mạng",

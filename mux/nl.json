@@ -1,7 +1,6 @@
 {
   "generic": {
     "Back": "Terug",
-    "Confirm": "Bevestig",
     "Directory": "Map",
     "Disabled": "Uit",
     "Enabled": "Aan",
@@ -13,7 +12,6 @@
     "Internal": "Intern",
     "Launch": "Starten",
     "Load": "Laden",
-    "Next": "Volgende",
     "No Help Information Found": "Geen Hulp Informatie Gevonden",
     "Open": "Openen",
     "Previous": "Vorige",
@@ -49,14 +47,12 @@
   },
   "muxassign": {
     "ASSIGN": "TOEWIJZEN",
-    "ASSIGN CORE": "CORE TOEWIJZEN",
     "No Cores Found...": "Geen cores gevonden…",
     "This is where you can assign a core or external emulator to content": "Hier kun je een core of externe emulator toewijzen aan inhoud"
   },
   "muxcharge": {
     "Booting System - Please Wait...": "Opstarten - Een ogenblik geduld…",
     "Capacity": "Capaciteit",
-    "Health": "Levensduur",
     "Press POWER button to continue booting...": "Druk op de AAN/UIT knop om verder te gaan met opstarten…",
     "Voltage": "Spanning"
   },
@@ -126,7 +122,6 @@
     "Detect, display and connect to available Wi-Fi networks": "Detect, display and connect to available Wi-Fi networks",
     "NETWORK SCAN": "NETWERKSCAN",
     "No Wi-Fi Networks Found": "Geen netwerken gevonden",
-    "Rescan": "Opniew scannen",
     "Scanning for Wi-Fi Networks...": "Netwerken scannen…"
   },
   "muxnetwork": {
@@ -177,9 +172,6 @@
     "Could not load content!": "Kon media niet Laden!",
     "Directories cannot be added to Favourites": "Mappen kunnen niet aan Favorieten toegevoegd worden",
     "EXPLORE": "VERKENNEN",
-    "EXPLORE (SD1)": "VERKENNEN (SD1)",
-    "EXPLORE (SD2)": "VERKENNEN (SD2)",
-    "EXPLORE (USB)": "VERKENNEN (USB)",
     "Error adding to Favourites": "Fout bij toevoegen aan Favorieten",
     "FAVOURITES": "FAVORIETEN",
     "Favourite": "Favoriet",
@@ -245,7 +237,6 @@
     "Change where muOS saves screenshots": "Change where muOS saves screenshots",
     "Content Management": "Mediabeheer",
     "Languages": "Talen",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "Leave on AUTO to look on SD2 first and fall back to SD1",
     "Metadata Catalogue": "Metadatacatalogus",
     "Network Profiles": "Netwerk Profielen",
     "RetroArch BIOS": "RetroArch-BIOS",
@@ -301,14 +292,11 @@
   "muxtimezone": {
     "No Timezones Found...": "Geen tijdzones gevonden…",
     "Saving Timezone": "Tijdzone opslaan",
-    "Select your preferred timezone": "Select your preferred timezone",
     "TIMEZONE": "TIJDZONE"
   },
   "muxtweakadv": {
-    "A+B Button Swap": "A+B Toetsen wisselen",
     "ADVANCED SETTINGS": "GEAVANCEERDE INSTELLINGEN",
     "Adjust the rate of speed when holding navigation keys down": "Adjust the rate of speed when holding navigation keys down",
-    "Android Debug Bridge": "Android Debug Bridge",
     "Battery Offset": "Accucorrectie",
     "Brightness On Boot": "Helderheid bij opstarten",
     "Change how the device buttons work globally": "Change how the device buttons work globally",
@@ -327,7 +315,6 @@
     "Loud": "Hard",
     "Low": "Laag",
     "Menu Acceleration": "Menu scrolsnelheid",
-    "Noto Sans": "Noto Sans",
     "Passcode Lock": "Pincodevergrendeling",
     "Quiet": "Zacht",
     "Random Theme on Boot": "Wilekeurig thema bij opstarten",
@@ -343,7 +330,6 @@
     "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
     "Switch between system sleep suspend states": "Switch between system sleep suspend states",
     "Theme": "Theme",
-    "Theme Controlled": "Themaspecifiek",
     "Thermal Zone Control": "Thermische regeling",
     "Toggle a delayed start of RetroArch until a network connection is established": "Toggle a delayed start of RetroArch until a network connection is established",
     "Toggle between ADB and MTP USB functionality": "Toggle between ADB and MTP USB functionality",
@@ -416,8 +402,6 @@
     "Background Animation": "Achtergrondanimatie",
     "Battery": "Accu",
     "Bluetooth": "Bluetooth",
-    "Bottom + Behind": "Onder en Achter",
-    "Bottom + Front": "Onder en Voor",
     "Change the display priority of the content images": "Change the display priority of the content images",
     "Change the screen alignment of the content images": "Change the screen alignment of the content images",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Changes the top title label in Explore Content to show current storage device along with folder name",
@@ -434,8 +418,6 @@
     "INTERFACE OPTIONS": "INTERFACEOPTIES",
     "Menu Counter File": "Menuteller bestand",
     "Menu Counter Folder": "Menuteller map",
-    "Middle + Behind": "Midden en Achter",
-    "Middle + Front": "Midden en Voor",
     "Network": "Netwerk",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'",
     "Remove ( )": "Verwijder ( )",
@@ -452,9 +434,7 @@
     "Toggle the visibility of the bluetooth glyph": "Toggle the visibility of the bluetooth glyph",
     "Toggle the visibility of the clock": "Toggle the visibility of the clock",
     "Toggle the visibility of the item count within folders in Explore Content": "Toggle the visibility of the item count within folders in Explore Content",
-    "Toggle the visibility of the network glyph": "Toggle the visibility of the network glyph",
-    "Top + Behind": "Boven en Achter",
-    "Top + Front": "Boven en Voor"
+    "Toggle the visibility of the network glyph": "Toggle the visibility of the network glyph"
   },
   "muxwebserv": {
     "Network Time Sync": "Tijdsynchronisatie",

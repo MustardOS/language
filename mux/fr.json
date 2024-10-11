@@ -1,7 +1,6 @@
 {
   "generic": {
     "Back": "Retour",
-    "Confirm": "Confirmer",
     "Directory": "Répertoire",
     "Disabled": "Désactivé",
     "Enabled": "Activé",
@@ -13,7 +12,6 @@
     "Internal": "Interne",
     "Launch": "Lancer",
     "Load": "Charger",
-    "Next": "Suivant",
     "No Help Information Found": "Aucune information d'aide trouvée",
     "Open": "Ouvrir",
     "Previous": "Précédent",
@@ -49,14 +47,12 @@
   },
   "muxassign": {
     "ASSIGN": "ASSIGNER",
-    "ASSIGN CORE": "ASSIGNER UN EMULATEUR",
     "No Cores Found...": "Aucun émulateur trouvé…",
     "This is where you can assign a core or external emulator to content": "C'est ici que vous pouvez attribuer un émulateur principal ou externe au contenu."
   },
   "muxcharge": {
     "Booting System - Please Wait...": "Démarrage du système - Merci de patienter…",
     "Capacity": "Capacité",
-    "Health": "Santé",
     "Press POWER button to continue booting...": "Appuyez sur POWER pour démarrer…",
     "Voltage": "Tension"
   },
@@ -126,7 +122,6 @@
     "Detect, display and connect to available Wi-Fi networks": "Détectez, affichez et connectez-vous aux réseaux Wi-Fi disponibles.",
     "NETWORK SCAN": "SCAN DES RÉSEAUX",
     "No Wi-Fi Networks Found": "Aucun réseau Wi-Fi trouvé",
-    "Rescan": "Rescanner",
     "Scanning for Wi-Fi Networks...": "Scan des réseaux Wi-Fi en cours…"
   },
   "muxnetwork": {
@@ -177,9 +172,6 @@
     "Could not load content!": "Impossible de charger le contenu !",
     "Directories cannot be added to Favourites": "Les répertoires ne peuvent pas être ajoutés aux favoris",
     "EXPLORE": "EXPLORER",
-    "EXPLORE (SD1)": "EXPLORER (SD1)",
-    "EXPLORE (SD2)": "EXPLORER (SD2)",
-    "EXPLORE (USB)": "EXPLORER (USB)",
     "Error adding to Favourites": "Erreur lors de l'ajout aux favoris",
     "FAVOURITES": "FAVORIS",
     "Favourite": "Favori",
@@ -245,7 +237,6 @@
     "Change where muOS saves screenshots": "Modifiez l'endroit où muOS enregistre les captures d'écran.",
     "Content Management": "Gestion du contenu",
     "Languages": "Langues",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "Laissez sur AUTO pour regarder d'abord sur SD2 puis sur SD1.",
     "Metadata Catalogue": "Données du catalogue",
     "Network Profiles": "Profils réseaux",
     "RetroArch BIOS": "BIOS RetroArch",
@@ -301,14 +292,11 @@
   "muxtimezone": {
     "No Timezones Found...": "Aucun fuseau horaire trouvé…",
     "Saving Timezone": "Sauvegarde du fuseau horaire",
-    "Select your preferred timezone": "Choisissez votre fuseau horaire préféré.",
     "TIMEZONE": "FUSEAU HORAIRE"
   },
   "muxtweakadv": {
-    "A+B Button Swap": "Inversion des boutons A+B",
     "ADVANCED SETTINGS": "RÉGLAGES AVANCÉS",
     "Adjust the rate of speed when holding navigation keys down": "Ajustez la vitesse lorsque vous maintenez les touches de navigation enfoncées.",
-    "Android Debug Bridge": "Android Debug Bridge",
     "Battery Offset": "Ajustement de la capacité de la batterie",
     "Brightness On Boot": "Luminosité au démarrage",
     "Change how the device buttons work globally": "Modifiez le fonctionnement global des commandes de la console.",
@@ -327,7 +315,6 @@
     "Loud": "Fort",
     "Low": "Basse",
     "Menu Acceleration": "Accélération du menu",
-    "Noto Sans": "Noto Sans",
     "Passcode Lock": "Verrouillage par mot de passe",
     "Quiet": "Discret",
     "Random Theme on Boot": "Thème aléatoire au démarrage",
@@ -343,7 +330,6 @@
     "Switch between device speaker or external monitor audio via HDMI connection": "Basculez entre le haut-parleur de la console ou l'audio du moniteur externe via une connexion HDMI.",
     "Switch between system sleep suspend states": "Basculez entre les états de suspension du système.",
     "Theme": "Thème",
-    "Theme Controlled": "Contrôlé par le thème",
     "Thermal Zone Control": "Contrôle de la température",
     "Toggle a delayed start of RetroArch until a network connection is established": "Activez/désactivez un démarrage différé de RetroArch jusqu'à ce qu'une connexion réseau soit établie.",
     "Toggle between ADB and MTP USB functionality": "Basculez entre les fonctionnalités USB ADB et MTP.",
@@ -416,8 +402,6 @@
     "Background Animation": "Animation d'arrière-plan",
     "Battery": "Batterie",
     "Bluetooth": "Bluetooth",
-    "Bottom + Behind": "Bas + Derrière",
-    "Bottom + Front": "Bas + Devant",
     "Change the display priority of the content images": "Modifiez la priorité d'affichage des illustrations de contenu.",
     "Change the screen alignment of the content images": "Modifiez l'alignement à l'écran des illustrations de contenu.",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Modifie l'étiquette de titre supérieure dans Explorer le contenu pour afficher le périphérique de stockage actuel ainsi que le nom du dossier.",
@@ -434,8 +418,6 @@
     "INTERFACE OPTIONS": "OPTIONS DE L'INTERFACE",
     "Menu Counter File": "Numéro des fichiers",
     "Menu Counter Folder": "Numéro des répertoires",
-    "Middle + Behind": "Milieu + Derrière",
-    "Middle + Front": "Milieu + Devant",
     "Network": "Réseau",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Réorganise l'étiquette du contenu pour déplacer l'étiquette « The » au début. Par exemple, « Batman and Robin, The » à « The Batman and Robin ».",
     "Remove ( )": "Retirer les ( )",
@@ -452,9 +434,7 @@
     "Toggle the visibility of the bluetooth glyph": "Activez/désactivez l'affichage de l'icone du Bluetooth.",
     "Toggle the visibility of the clock": "Activez/désactivez l'affichage de l'horloge.",
     "Toggle the visibility of the item count within folders in Explore Content": "Activez/désactivez l'affichage du nombre d’éléments dans les dossiers dans Explorer le contenu.",
-    "Toggle the visibility of the network glyph": "Activez/désactivez l'affichage de l'icone du réseau.",
-    "Top + Behind": "Haut + Derrière",
-    "Top + Front": "Haut + Devant"
+    "Toggle the visibility of the network glyph": "Activez/désactivez l'affichage de l'icone du réseau."
   },
   "muxwebserv": {
     "Network Time Sync": "Synchronisation réseau de l'heure",

@@ -1,7 +1,6 @@
 {
   "generic": {
     "Back": "वापस जाएँ",
-    "Confirm": "पुष्टि",
     "Directory": "डायरेक्टरी",
     "Disabled": "अक्षम है",
     "Enabled": "योग्य है",
@@ -13,7 +12,6 @@
     "Internal": "Internal",
     "Launch": "शुरू करना",
     "Load": "लोड",
-    "Next": "अगला",
     "No Help Information Found": "No Help Information Found",
     "Open": "खोलो",
     "Previous": "पिछला",
@@ -49,14 +47,12 @@
   },
   "muxassign": {
     "ASSIGN": "सौंपना",
-    "ASSIGN CORE": "कोर असाइन करें",
     "No Cores Found...": "कोई कोर नहीं मिला...",
     "This is where you can assign a core or external emulator to content": "This is where you can assign a core or external emulator to content"
   },
   "muxcharge": {
     "Booting System - Please Wait...": "बूटिंग सिस्टम - कृपया प्रतीक्षा करें...",
     "Capacity": "क्षमता",
-    "Health": "स्वास्थ्य",
     "Press POWER button to continue booting...": "बूटिंग जारी रखने के लिए पावर बटन दबाएँ...",
     "Voltage": "वोल्टेज"
   },
@@ -126,7 +122,6 @@
     "Detect, display and connect to available Wi-Fi networks": "Detect, display and connect to available Wi-Fi networks",
     "NETWORK SCAN": "नेटवर्क स्कैन",
     "No Wi-Fi Networks Found": "कोई वाई-फ़ाई नेटवर्क नहीं मिला",
-    "Rescan": "पुन: स्कैन",
     "Scanning for Wi-Fi Networks...": "वाई-फाई नेटवर्क के लिए स्कैनिंग..."
   },
   "muxnetwork": {
@@ -177,9 +172,6 @@
     "Could not load content!": "सामग्री लोड नहीं हो सकी!",
     "Directories cannot be added to Favourites": "निर्देशिकाओं को पसंदीदा में नहीं जोड़ा जा सकता",
     "EXPLORE": "एक्सप्लोर",
-    "EXPLORE (SD1)": "एक्सप्लोर (SD1)",
-    "EXPLORE (SD2)": "एक्सप्लोर (SD2)",
-    "EXPLORE (USB)": "एक्सप्लोर (USB)",
     "Error adding to Favourites": "पसंदीदा में जोड़ने में त्रुटि",
     "FAVOURITES": "पसंदीदा",
     "Favourite": "पसंदीदा",
@@ -245,7 +237,6 @@
     "Change where muOS saves screenshots": "Change where muOS saves screenshots",
     "Content Management": "सामग्री प्रबंधन",
     "Languages": "भाषाएँ",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "Leave on AUTO to look on SD2 first and fall back to SD1",
     "Metadata Catalogue": "मेटाडेटा कैटलॉग",
     "Network Profiles": "Network Profiles",
     "RetroArch BIOS": "रेट्रोआर्क BIOS",
@@ -301,14 +292,11 @@
   "muxtimezone": {
     "No Timezones Found...": "कोई समयक्षेत्र नहीं मिला...",
     "Saving Timezone": "समयक्षेत्र सहेजा जा रहा है",
-    "Select your preferred timezone": "Select your preferred timezone",
     "TIMEZONE": "समयक्षेत्र"
   },
   "muxtweakadv": {
-    "A+B Button Swap": "A+B बटन स्वैप",
     "ADVANCED SETTINGS": "एडवांस सेटिंग",
     "Adjust the rate of speed when holding navigation keys down": "Adjust the rate of speed when holding navigation keys down",
-    "Android Debug Bridge": "एंड्रॉइड डीबग ब्रिज",
     "Battery Offset": "बैटरी ऑफसेट",
     "Brightness On Boot": "बूट पर चमक",
     "Change how the device buttons work globally": "Change how the device buttons work globally",
@@ -327,7 +315,6 @@
     "Loud": "ऊँचा स्वर",
     "Low": "कम",
     "Menu Acceleration": "मेनू त्वरण",
-    "Noto Sans": "नोटो संस",
     "Passcode Lock": "पासकोड लौक",
     "Quiet": "शांत",
     "Random Theme on Boot": "बूट पर रैंडम थीम",
@@ -343,7 +330,6 @@
     "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
     "Switch between system sleep suspend states": "Switch between system sleep suspend states",
     "Theme": "थीम",
-    "Theme Controlled": "थीम नियंत्रित",
     "Thermal Zone Control": "थर्मल जोन नियंत्रण",
     "Toggle a delayed start of RetroArch until a network connection is established": "Toggle a delayed start of RetroArch until a network connection is established",
     "Toggle between ADB and MTP USB functionality": "Toggle between ADB and MTP USB functionality",
@@ -416,8 +402,6 @@
     "Background Animation": "Background Animation",
     "Battery": "बैटरी",
     "Bluetooth": "ब्लूटूथ",
-    "Bottom + Behind": "नीचे + पीछे",
-    "Bottom + Front": "नीचे + सामने",
     "Change the display priority of the content images": "Change the display priority of the content images",
     "Change the screen alignment of the content images": "Change the screen alignment of the content images",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Changes the top title label in Explore Content to show current storage device along with folder name",
@@ -434,8 +418,6 @@
     "INTERFACE OPTIONS": "इंटरफ़ेस विकल्प",
     "Menu Counter File": "मेनू काउंटर फ़ाइल",
     "Menu Counter Folder": "मेनू काउंटर फ़ोल्डर",
-    "Middle + Behind": "मध्य + पीछे",
-    "Middle + Front": "मध्य + सामने",
     "Network": "नेटवर्क",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'",
     "Remove ( )": "हटाना ( )",
@@ -452,9 +434,7 @@
     "Toggle the visibility of the bluetooth glyph": "Toggle the visibility of the bluetooth glyph",
     "Toggle the visibility of the clock": "Toggle the visibility of the clock",
     "Toggle the visibility of the item count within folders in Explore Content": "Toggle the visibility of the item count within folders in Explore Content",
-    "Toggle the visibility of the network glyph": "Toggle the visibility of the network glyph",
-    "Top + Behind": "शीर्ष + पीछे",
-    "Top + Front": "शीर्ष + सामने"
+    "Toggle the visibility of the network glyph": "Toggle the visibility of the network glyph"
   },
   "muxwebserv": {
     "Network Time Sync": "नेटवर्क समय सिंक",

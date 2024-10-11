@@ -1,7 +1,6 @@
 {
   "generic": {
     "Back": "이전",
-    "Confirm": "확인",
     "Directory": "디렉터리",
     "Disabled": "비활성화",
     "Enabled": "활성화됨",
@@ -13,7 +12,6 @@
     "Internal": "내부",
     "Launch": "실행",
     "Load": "로드",
-    "Next": "다음",
     "No Help Information Found": "도움말 정보가 없음",
     "Open": "열기",
     "Previous": "이전 상태",
@@ -49,14 +47,12 @@
   },
   "muxassign": {
     "ASSIGN": "할당",
-    "ASSIGN CORE": "코어 할당하기",
     "No Cores Found...": "코어 없음…",
     "This is where you can assign a core or external emulator to content": "여기서 코어 또는 외부 에뮬레이터를 콘텐츠에 할당함."
   },
   "muxcharge": {
     "Booting System - Please Wait...": "시스템 부팅중 - 기다려주세요…",
     "Capacity": "배터리 용량",
-    "Health": "배터리 상태",
     "Press POWER button to continue booting...": "부팅을 계속하려면 전원 버튼을 누르세요…",
     "Voltage": "배터리 전압"
   },
@@ -126,7 +122,6 @@
     "Detect, display and connect to available Wi-Fi networks": "사용 가능한 Wi-Fi 네트워크를 감지, 표시 및 연결.",
     "NETWORK SCAN": "네트워크 스캔",
     "No Wi-Fi Networks Found": "Wi-Fi 네트워크를 찾을 수 없음",
-    "Rescan": "재스캔",
     "Scanning for Wi-Fi Networks...": "Wi-Fi 네트워크 스캔 중…"
   },
   "muxnetwork": {
@@ -177,9 +172,6 @@
     "Could not load content!": "콘텐츠를 로드할 수 없음!",
     "Directories cannot be added to Favourites": "즐겨찾기에 디렉터리를 추가할 수 없음",
     "EXPLORE": "탐색",
-    "EXPLORE (SD1)": "탐색 (SD1)",
-    "EXPLORE (SD2)": "탐색 (SD2)",
-    "EXPLORE (USB)": "탐색 (USB)",
     "Error adding to Favourites": "즐겨찾기 추가에 오류",
     "FAVOURITES": "즐겨찾기",
     "Favourite": "즐겨찾기",
@@ -245,7 +237,6 @@
     "Change where muOS saves screenshots": "muOS가 스크린샷을 저장하는 위치를 변경.",
     "Content Management": "콘텐츠 관리",
     "Languages": "언어",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "자동 으로 설정하면 SD2를 먼저 찾고 다음으로 SD1을 찾음 .",
     "Metadata Catalogue": "메타데이터 카탈로그",
     "Network Profiles": "네트워크 프로필",
     "RetroArch BIOS": "레트로아크 바이오스",
@@ -301,14 +292,11 @@
   "muxtimezone": {
     "No Timezones Found...": "타임존 발견되지 않음…",
     "Saving Timezone": "타임존 저장중",
-    "Select your preferred timezone": "선호하는 타임존을 선택.",
     "TIMEZONE": "타임존"
   },
   "muxtweakadv": {
-    "A+B Button Swap": "A+B 버튼 교체",
     "ADVANCED SETTINGS": "고급 설정",
     "Adjust the rate of speed when holding navigation keys down": "이동 키를 누르고 있을때 속도를 조정",
-    "Android Debug Bridge": "안드로이드 디버그 브릿지",
     "Battery Offset": "배터리 오프셋",
     "Brightness On Boot": "부팅시 밝기",
     "Change how the device buttons work globally": "장치 버튼이 전체적으로 작동하는 방식 변경",
@@ -327,7 +315,6 @@
     "Loud": "크게",
     "Low": "낮음",
     "Menu Acceleration": "메뉴 가속화",
-    "Noto Sans": "노토 산스",
     "Passcode Lock": "패스코드 락",
     "Quiet": "조용히",
     "Random Theme on Boot": "부팅시 랜덤 테마",
@@ -343,7 +330,6 @@
     "Switch between device speaker or external monitor audio via HDMI connection": "HDMI 연결을 통해 장치 스피커 또는 외부 모니터 오디오 간 전환.",
     "Switch between system sleep suspend states": "시스템 절전 상태 방식 전환.",
     "Theme": "테마",
-    "Theme Controlled": "테마가 조절",
     "Thermal Zone Control": "써멀 존 컨트롤",
     "Toggle a delayed start of RetroArch until a network connection is established": "네트워크 연결이 설정될 때까지 RetroArch의 시작 지연 여부 토글.",
     "Toggle between ADB and MTP USB functionality": "ADB와 MTP USB 기능 간 전환 토글.",
@@ -416,8 +402,6 @@
     "Background Animation": "배경 애니메이션",
     "Battery": "배터리",
     "Bluetooth": "블루투스",
-    "Bottom + Behind": "하단 + 뒤에",
-    "Bottom + Front": "하단 + 앞에",
     "Change the display priority of the content images": "콘텐츠 이미지의 표시 우선순위를 변경.",
     "Change the screen alignment of the content images": "콘텐츠 이미지의 화면 정렬을 변경.",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "폴더 이름과 함께 현재 저장 장치를 표시하도록 콘텐츠 탐색에서 상단 제목 라벨을 변경.",
@@ -434,8 +418,6 @@
     "INTERFACE OPTIONS": "인터페이스 옵션",
     "Menu Counter File": "메뉴 카운터 파일",
     "Menu Counter Folder": "메뉴 카운터 폴더",
-    "Middle + Behind": "가운데 + 뒤에",
-    "Middle + Front": "가운데 + 앞에",
     "Network": "네트워크",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "콘텐츠의 라벨을 재정렬하여 'The' 라벨을 앞으로 이동. 예를 들어 'Batman and Robin, The'를 'The Batman and Robin'으로 변경.",
     "Remove ( )": "( ) 제거",
@@ -452,9 +434,7 @@
     "Toggle the visibility of the bluetooth glyph": "블루투스 기호 표시 여부를 토글.",
     "Toggle the visibility of the clock": "시계 표시 여부를 토글.",
     "Toggle the visibility of the item count within folders in Explore Content": "콘텐츠 탐색에서 폴더 내의 아이템 수 표시 여부 토글.",
-    "Toggle the visibility of the network glyph": "네트워크 기호 표시 여부를 토글.",
-    "Top + Behind": "상단 + 뒤에",
-    "Top + Front": "상단 + 앞에"
+    "Toggle the visibility of the network glyph": "네트워크 기호 표시 여부를 토글."
   },
   "muxwebserv": {
     "Network Time Sync": "네트워크 시간 동기화",

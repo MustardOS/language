@@ -1,7 +1,6 @@
 {
   "generic": {
     "Back": "Nazad",
-    "Confirm": "Potvrdi",
     "Directory": "Directorija",
     "Disabled": "Isključeno",
     "Enabled": "Uključeno",
@@ -13,7 +12,6 @@
     "Internal": "Unutarnje",
     "Launch": "Pokreni",
     "Load": "Učitaj",
-    "Next": "Sljedeće",
     "No Help Information Found": "Informacija o Pomoći Nije Pronađena",
     "Open": "Otvori",
     "Previous": "Prethodno",
@@ -49,14 +47,12 @@
   },
   "muxassign": {
     "ASSIGN": "ODREDI",
-    "ASSIGN CORE": "ODREDI CORE",
     "No Cores Found...": "Nisu Pronađeni Cores…",
     "This is where you can assign a core or external emulator to content": "Ovdje može se odrediti core ili vanjski emulator za sadržaj."
   },
   "muxcharge": {
     "Booting System - Please Wait...": "Pokretanje Sistema - Molimo Pričekajte…",
     "Capacity": "Kapacitet",
-    "Health": "Zdravlje",
     "Press POWER button to continue booting...": "Pritisni gumb za napajanje da nastavite pokretanje…",
     "Voltage": "Voltaža"
   },
@@ -126,7 +122,6 @@
     "Detect, display and connect to available Wi-Fi networks": "Detektiraj, prikaži i spoji se slobodnim Wi-Fi mrežama.",
     "NETWORK SCAN": "SKENIRANJE MREŽE",
     "No Wi-Fi Networks Found": "Wi-Fi Mreže Nisu Pronađene",
-    "Rescan": "Ponovno Skeniraj",
     "Scanning for Wi-Fi Networks...": "Skeniranje za Wi-Fi Mreže…"
   },
   "muxnetwork": {
@@ -177,9 +172,6 @@
     "Could not load content!": "Nije moguće učitati sadržaj!",
     "Directories cannot be added to Favourites": "Directorije se mogu dodati u Favorite",
     "EXPLORE": "ISTRAŽI",
-    "EXPLORE (SD1)": "ISTRAŽI (SD1)",
-    "EXPLORE (SD2)": "ISTRAŽI (SD2)",
-    "EXPLORE (USB)": "ISTRAŽI (USB)",
     "Error adding to Favourites": "Error kod dodavanja u Favourite",
     "FAVOURITES": "FAVOURITI",
     "Favourite": "Favouriti",
@@ -245,7 +237,6 @@
     "Change where muOS saves screenshots": "Promijeni gdje muOS sprema slike zaslona.",
     "Content Management": "Upravitelj Sadržaja",
     "Languages": "Jezici",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "Ostavi AUTO da učita SD2 prvo i vrati se na SD2.",
     "Metadata Catalogue": "Metadata Katalog",
     "Network Profiles": "Mrežni Profili",
     "RetroArch BIOS": "RetroArch BIOS",
@@ -301,14 +292,11 @@
   "muxtimezone": {
     "No Timezones Found...": "Vremenske Zone Nisu Pronađene…",
     "Saving Timezone": "Spremanje Vremenske Zone",
-    "Select your preferred timezone": "Odaberi svoju preferirani vremensku zonu.",
     "TIMEZONE": "VREMENSKA ZONA"
   },
   "muxtweakadv": {
-    "A+B Button Swap": "A+B Gumb Zamjena",
     "ADVANCED SETTINGS": "NAPREDNE POSTAVKE",
     "Adjust the rate of speed when holding navigation keys down": "Prilagodi brzinu listanja kada su pretisnute navigacijske tipke.",
-    "Android Debug Bridge": "Android Debug Most",
     "Battery Offset": "Odstupak Baterije",
     "Brightness On Boot": "Svjetlina na Pokretanje",
     "Change how the device buttons work globally": "Promijeni kako gumbi uređaja rade globalno.",
@@ -327,7 +315,6 @@
     "Loud": "Glasno",
     "Low": "Nisko",
     "Menu Acceleration": "Menu Akceleracija",
-    "Noto Sans": "Noto Sans",
     "Passcode Lock": "Lozinka Brave",
     "Quiet": "Tiho",
     "Random Theme on Boot": "Random Tema na Pokretanju",
@@ -343,7 +330,6 @@
     "Switch between device speaker or external monitor audio via HDMI connection": "Odredi između uređajnog zvučnika ili zvuk vanjskog monitora preko HDMI veze.",
     "Switch between system sleep suspend states": "Odredi između suspendanog stanja tijekom spavanja uređaja.",
     "Theme": "Teme",
-    "Theme Controlled": "Tema Kontrolirana",
     "Thermal Zone Control": "Kontrola Termičke Zone",
     "Toggle a delayed start of RetroArch until a network connection is established": "Odredi kašnjenje početka RetroArch dokad stabilna konekcija na mrežu je osigurana.",
     "Toggle between ADB and MTP USB functionality": "Odredi između ADB i MTP USB funkcionalnost.",
@@ -416,8 +402,6 @@
     "Background Animation": "Pozadinska Animacija",
     "Battery": "Baterija",
     "Bluetooth": "Bluetooth",
-    "Bottom + Behind": "Dno + Iza",
-    "Bottom + Front": "Dno + Ispred",
     "Change the display priority of the content images": "Promijeni prioritet prikaza za slike sadržaja.",
     "Change the screen alignment of the content images": "Promijeni poravnanje ekrana za slike sadržaja.",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Promijeni vršnu naslovnu oznaku u Istraži Sadržaj da prikaže trenutni uređaj za pohranu uz ime mape.",
@@ -434,8 +418,6 @@
     "INTERFACE OPTIONS": "OPCIJE SUČELJA",
     "Menu Counter File": "Menu Brojač Datoteka",
     "Menu Counter Folder": "Menu Brojač Mapa",
-    "Middle + Behind": "Sredina + Iza",
-    "Middle + Front": "Sredina + Ispred",
     "Network": "Mreža",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Preuredi oznake od sadržaja da premjesti ‘The‘ oznaku prema ispred. Na primjer, ‘Batman and Robin, The‘ na ‘The Batman and Robin‘.",
     "Remove ( )": "Ukloni ( )",
@@ -452,9 +434,7 @@
     "Toggle the visibility of the bluetooth glyph": "Odredi vidljivost simbola za bluetooth.",
     "Toggle the visibility of the clock": "Odredi vidljivost sata.",
     "Toggle the visibility of the item count within folders in Explore Content": "Odredi vidljivost zbroj predmeta u mapama u Istraži Sadržaj.",
-    "Toggle the visibility of the network glyph": "Odredi vidljivost simbola za mrežu.",
-    "Top + Behind": "Vrh + Iza",
-    "Top + Front": "Vrh + Ispred"
+    "Toggle the visibility of the network glyph": "Odredi vidljivost simbola za mrežu."
   },
   "muxwebserv": {
     "Network Time Sync": "Sinkronizacija Vremena Mrežom",

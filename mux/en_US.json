@@ -1,7 +1,6 @@
 {
   "generic": {
     "Back": "Back",
-    "Confirm": "Confirm",
     "Directory": "Directory",
     "Disabled": "Disabled",
     "Enabled": "Enabled",
@@ -13,7 +12,6 @@
     "Internal": "Internal",
     "Launch": "Launch",
     "Load": "Load",
-    "Next": "Next",
     "No Help Information Found": "No Help Information Found",
     "Open": "Open",
     "Previous": "Previous",
@@ -49,14 +47,12 @@
   },
   "muxassign": {
     "ASSIGN": "ASSIGN",
-    "ASSIGN CORE": "ASSIGN CORE",
     "No Cores Found...": "No Cores Found…",
     "This is where you can assign a core or external emulator to content": "This is where you can assign a core or external emulator to content"
   },
   "muxcharge": {
     "Booting System - Please Wait...": "Booting System - Please Wait…",
     "Capacity": "Capacity",
-    "Health": "Health",
     "Press POWER button to continue booting...": "Press POWER button to continue booting…",
     "Voltage": "Voltage"
   },
@@ -126,7 +122,6 @@
     "Detect, display and connect to available Wi-Fi networks": "Detect, display and connect to available Wi-Fi networks",
     "NETWORK SCAN": "NETWORK SCAN",
     "No Wi-Fi Networks Found": "No Wi-Fi Networks Found",
-    "Rescan": "Rescan",
     "Scanning for Wi-Fi Networks...": "Scanning for Wi-Fi Networks…"
   },
   "muxnetwork": {
@@ -177,9 +172,6 @@
     "Could not load content!": "Could not load content!",
     "Directories cannot be added to Favourites": "Directories cannot be added to Favorites",
     "EXPLORE": "EXPLORE",
-    "EXPLORE (SD1)": "EXPLORE (SD1)",
-    "EXPLORE (SD2)": "EXPLORE (SD2)",
-    "EXPLORE (USB)": "EXPLORE (USB)",
     "Error adding to Favourites": "Error adding to Favorites",
     "FAVOURITES": "FAVORITES",
     "Favourite": "Favorite",
@@ -245,7 +237,6 @@
     "Change where muOS saves screenshots": "Change where muOS saves screenshots",
     "Content Management": "Content Management",
     "Languages": "Languages",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "Leave on AUTO to look on SD2 first and fall back to SD1",
     "Metadata Catalogue": "Metadata Catalogue",
     "Network Profiles": "Network Profiles",
     "RetroArch BIOS": "RetroArch BIOS",
@@ -301,14 +292,11 @@
   "muxtimezone": {
     "No Timezones Found...": "No Timezones Found…",
     "Saving Timezone": "Saving Timezone",
-    "Select your preferred timezone": "Select your preferred timezone",
     "TIMEZONE": "TIMEZONE"
   },
   "muxtweakadv": {
-    "A+B Button Swap": "A+B Button Swap",
     "ADVANCED SETTINGS": "ADVANCED SETTINGS",
     "Adjust the rate of speed when holding navigation keys down": "Adjust the rate of speed when holding navigation keys down",
-    "Android Debug Bridge": "Android Debug Bridge",
     "Battery Offset": "Battery Offset",
     "Brightness On Boot": "Brightness On Boot",
     "Change how the device buttons work globally": "Change how the device buttons work globally",
@@ -327,7 +315,6 @@
     "Loud": "Loud",
     "Low": "Low",
     "Menu Acceleration": "Menu Acceleration",
-    "Noto Sans": "Noto Sans",
     "Passcode Lock": "Passcode Lock",
     "Quiet": "Quiet",
     "Random Theme on Boot": "Random Theme on Boot",
@@ -343,7 +330,6 @@
     "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
     "Switch between system sleep suspend states": "Switch between system sleep suspend states",
     "Theme": "Theme",
-    "Theme Controlled": "Theme Controlled",
     "Thermal Zone Control": "Thermal Zone Control",
     "Toggle a delayed start of RetroArch until a network connection is established": "Toggle a delayed start of RetroArch until a network connection is established",
     "Toggle between ADB and MTP USB functionality": "Toggle between ADB and MTP USB functionality",
@@ -416,8 +402,6 @@
     "Background Animation": "Background Animation",
     "Battery": "Battery",
     "Bluetooth": "Bluetooth",
-    "Bottom + Behind": "Bottom + Behind",
-    "Bottom + Front": "Bottom + Front",
     "Change the display priority of the content images": "Change the display priority of the content images",
     "Change the screen alignment of the content images": "Change the screen alignment of the content images",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Changes the top title label in Explore Content to show current storage device along with folder name",
@@ -434,8 +418,6 @@
     "INTERFACE OPTIONS": "INTERFACE OPTIONS",
     "Menu Counter File": "Menu Counter File",
     "Menu Counter Folder": "Menu Counter Folder",
-    "Middle + Behind": "Middle + Behind",
-    "Middle + Front": "Middle + Front",
     "Network": "Network",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'",
     "Remove ( )": "Remove ( )",
@@ -452,9 +434,7 @@
     "Toggle the visibility of the bluetooth glyph": "Toggle the visibility of the bluetooth glyph",
     "Toggle the visibility of the clock": "Toggle the visibility of the clock",
     "Toggle the visibility of the item count within folders in Explore Content": "Toggle the visibility of the item count within folders in Explore Content",
-    "Toggle the visibility of the network glyph": "Toggle the visibility of the network glyph",
-    "Top + Behind": "Top + Behind",
-    "Top + Front": "Top + Front"
+    "Toggle the visibility of the network glyph": "Toggle the visibility of the network glyph"
   },
   "muxwebserv": {
     "Network Time Sync": "Network Time Sync",

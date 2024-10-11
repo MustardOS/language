@@ -1,7 +1,6 @@
 {
   "generic": {
     "Back": "Wróć",
-    "Confirm": "Potwierdź",
     "Directory": "Katalog",
     "Disabled": "Wyłączony",
     "Enabled": "Włączony",
@@ -13,7 +12,6 @@
     "Internal": "Wewnętrzny",
     "Launch": "Uruchom",
     "Load": "Wczytaj",
-    "Next": "Następny",
     "No Help Information Found": "Nie znaleziono informacji pomocy",
     "Open": "Otwórz",
     "Previous": "Poprzedni",
@@ -49,14 +47,12 @@
   },
   "muxassign": {
     "ASSIGN": "PRZYPISZ",
-    "ASSIGN CORE": "PRZYPISZ RDZEŃ",
     "No Cores Found...": "Nie znaleziono rdzeni…",
     "This is where you can assign a core or external emulator to content": "Tutaj możesz przypisać rdzeń lub zewnętrzny emulator do zawartości."
   },
   "muxcharge": {
     "Booting System - Please Wait...": "Uruchamianie systemu - Proszę czekać…",
     "Capacity": "Pojemność",
-    "Health": "Zdrowie",
     "Press POWER button to continue booting...": "Wciśnij POWER, aby kontynuować uruchamianie…",
     "Voltage": "Napięcie"
   },
@@ -126,7 +122,6 @@
     "Detect, display and connect to available Wi-Fi networks": "Wyszukaj, wyświetl i połącz się z dostępnymi sieciami Wi-Fi.",
     "NETWORK SCAN": "SKANOWANIE SIECI",
     "No Wi-Fi Networks Found": "Nie znaleziono sieci Wi-Fi",
-    "Rescan": "Skanuj ponownie",
     "Scanning for Wi-Fi Networks...": "Skanowanie sieci Wi-Fi…"
   },
   "muxnetwork": {
@@ -177,9 +172,6 @@
     "Could not load content!": "Nie można wczytać zawartości!",
     "Directories cannot be added to Favourites": "Katalogi nie mogą zostać dodane do Ulubionych",
     "EXPLORE": "PRZEGLĄDAJ",
-    "EXPLORE (SD1)": "PRZEGLĄDAJ (SD1)",
-    "EXPLORE (SD2)": "PRZEGLĄDAJ (SD2)",
-    "EXPLORE (USB)": "PRZEGLĄDAJ (USB)",
     "Error adding to Favourites": "Błąd przy dodawaniu do Ulubionych",
     "FAVOURITES": "ULUBIONE",
     "Favourite": "Do ulubionych",
@@ -245,7 +237,6 @@
     "Change where muOS saves screenshots": "Zmień lokację, w której muOS ma zapisywać zrzuty ekranu.",
     "Content Management": "Zarządzanie zawartością",
     "Languages": "Języki",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "Zostaw na AUTO, by najpierw szukać na SD2 i w ostateczności na SD1.",
     "Metadata Catalogue": "Katalog metadanych",
     "Network Profiles": "Profile sieciowe",
     "RetroArch BIOS": "BIOS RetroArch",
@@ -301,14 +292,11 @@
   "muxtimezone": {
     "No Timezones Found...": "Nie znaleziono stref czasowych…",
     "Saving Timezone": "Zapisywanie strefy czasowej",
-    "Select your preferred timezone": "Wybierz preferowaną strefę czasową.",
     "TIMEZONE": "STREFA CZASOWA"
   },
   "muxtweakadv": {
-    "A+B Button Swap": "Zamiana przycisków A+B",
     "ADVANCED SETTINGS": "USTAWIENIA ZAAWANSOWANE",
     "Adjust the rate of speed when holding navigation keys down": "Dostosuj prędkość przy wciśnięciu przycisków nawigacyjnych",
-    "Android Debug Bridge": "Android Debug Bridge",
     "Battery Offset": "Kompensacja baterii",
     "Brightness On Boot": "Jasność przy uruchomieniu",
     "Change how the device buttons work globally": "Zmień, jak globalnie działają przyciski urządzenia",
@@ -327,7 +315,6 @@
     "Loud": "Głośna",
     "Low": "Niska",
     "Menu Acceleration": "Przyspieszenie menu",
-    "Noto Sans": "Noto Sans",
     "Passcode Lock": "Blokowanie hasłem",
     "Quiet": "Cicha",
     "Random Theme on Boot": "Losowy motyw przy uruchomieniu",
@@ -343,7 +330,6 @@
     "Switch between device speaker or external monitor audio via HDMI connection": "Wybierz między głośnikiem urządzenia, a dźwiękiem zewnętrznego ekranu po HDMI.",
     "Switch between system sleep suspend states": "Wybierz tryb uśpienia systemu.",
     "Theme": "Motyw",
-    "Theme Controlled": "Sterowane przez motyw",
     "Thermal Zone Control": "Kontrola strefy temperatur",
     "Toggle a delayed start of RetroArch until a network connection is established": "Włącz opóźnienie uruchomienia RetroArcha do momentu połączenia z siecią.",
     "Toggle between ADB and MTP USB functionality": "Wybierz między ADB, a MTP USB.",
@@ -416,8 +402,6 @@
     "Background Animation": "Animacja w tle",
     "Battery": "Bateria",
     "Bluetooth": "Bluetooth",
-    "Bottom + Behind": "Dół + Tył",
-    "Bottom + Front": "Dół + Przód",
     "Change the display priority of the content images": "Zmień priorytet wyświetlania obrazów zawartości.",
     "Change the screen alignment of the content images": "Zmień ułożenie obrazów zawartości na ekranie.",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Zmienia górny tytuł w Przeglądaniu zawartości, by pokazywał aktualne urządzenie pamięci i nazwę folderu.",
@@ -434,8 +418,6 @@
     "INTERFACE OPTIONS": "OPCJE INTERFEJSU",
     "Menu Counter File": "Licznik plików w menu",
     "Menu Counter Folder": "Licznik katalogów w menu",
-    "Middle + Behind": "Środek + Tył",
-    "Middle + Front": "Środek + Przód",
     "Network": "Sieć",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Zmienia etykiety zawartości, przenosząc 'The' na początek. Na przykład: 'Batman and Robin, The' na 'The Batman and Robin'.",
     "Remove ( )": "Usuń ( )",
@@ -452,9 +434,7 @@
     "Toggle the visibility of the bluetooth glyph": "Włącz widoczność ikony Bluetooth.",
     "Toggle the visibility of the clock": "Włącz widoczność zegara.",
     "Toggle the visibility of the item count within folders in Explore Content": "Włącz widoczność licznika elementów w folderach w Przeglądaniu zawartości.",
-    "Toggle the visibility of the network glyph": "Włącz widoczność ikony sieci.",
-    "Top + Behind": "Góra + Tył",
-    "Top + Front": "Góra + Przód"
+    "Toggle the visibility of the network glyph": "Włącz widoczność ikony sieci."
   },
   "muxwebserv": {
     "Network Time Sync": "Synchronizacja czasu sieciowego",

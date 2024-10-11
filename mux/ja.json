@@ -1,7 +1,6 @@
 {
   "generic": {
     "Back": "戻る",
-    "Confirm": "決定",
     "Directory": "ディレクトリごと指定",
     "Disabled": "無効",
     "Enabled": "有効",
@@ -13,7 +12,6 @@
     "Internal": "内蔵",
     "Launch": "起動する",
     "Load": "設定を読み込む",
-    "Next": "次へ",
     "No Help Information Found": "ヘルプ情報が見つかりませんでした",
     "Open": "開く",
     "Previous": "前回の設定を使用",
@@ -49,14 +47,12 @@
   },
   "muxassign": {
     "ASSIGN": "指定する",
-    "ASSIGN CORE": "コアを指定する",
     "No Cores Found...": "コアが見つかりませんでした",
     "This is where you can assign a core or external emulator to content": "コアまたは個別エミュレーターをコンテンツに関連づけます"
   },
   "muxcharge": {
     "Booting System - Please Wait...": "システムを起動しています - お待ちください…",
     "Capacity": "容量",
-    "Health": "状態",
     "Press POWER button to continue booting...": "起動を続けるには電源ボタンを押してください…",
     "Voltage": "電圧"
   },
@@ -126,7 +122,6 @@
     "Detect, display and connect to available Wi-Fi networks": "使用できる Wi-Fi ネットワークを表示して接続します",
     "NETWORK SCAN": "ネットワーク検索",
     "No Wi-Fi Networks Found": "Wi-Fi ネットワークが見つかりませんでした",
-    "Rescan": "再検索",
     "Scanning for Wi-Fi Networks...": "Wi-Fi ネットワークを検索中…"
   },
   "muxnetwork": {
@@ -177,9 +172,6 @@
     "Could not load content!": "コンテンツを読み込めませんでした!",
     "Directories cannot be added to Favourites": "ディレクトリはお気に入りに追加できません",
     "EXPLORE": "一覧",
-    "EXPLORE (SD1)": "一覧 (SD1)",
-    "EXPLORE (SD2)": "一覧 (SD2)",
-    "EXPLORE (USB)": "一覧 (USB)",
     "Error adding to Favourites": "お気に入りに追加できませんでした",
     "FAVOURITES": "お気に入り",
     "Favourite": "お気に入りに追加",
@@ -245,7 +237,6 @@
     "Change where muOS saves screenshots": "スクリーンショットの保存先を指定します",
     "Content Management": "コンテンツ管理",
     "Languages": "言語",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "AUTO に設定すると SD2 を優先します",
     "Metadata Catalogue": "カタログデータ",
     "Network Profiles": "ネットワーク設定",
     "RetroArch BIOS": "RetroArch BIOS",
@@ -301,14 +292,11 @@
   "muxtimezone": {
     "No Timezones Found...": "タイムゾーンが見つかりませんでした…",
     "Saving Timezone": "タイムゾーンを保存しています",
-    "Select your preferred timezone": "使用するタイムゾーンを設定します",
     "TIMEZONE": "タイムゾーン"
   },
   "muxtweakadv": {
-    "A+B Button Swap": "A+Bボタンを入れ替える",
     "ADVANCED SETTINGS": "詳細設定",
     "Adjust the rate of speed when holding navigation keys down": "操作キーを押し続けた際の移動速度を調整します",
-    "Android Debug Bridge": "Android デバッグブリッジ",
     "Battery Offset": "バッテリー誤差修正",
     "Brightness On Boot": "起動時の画面の明るさ",
     "Change how the device buttons work globally": "システム全体でボタンの挙動を切り替えます",
@@ -327,7 +315,6 @@
     "Loud": "大きい",
     "Low": "暗い",
     "Menu Acceleration": "メニュー速度",
-    "Noto Sans": "Noto Sans",
     "Passcode Lock": "パスコードロック",
     "Quiet": "小さい",
     "Random Theme on Boot": "起動時に無作為にテーマを切り替える",
@@ -343,7 +330,6 @@
     "Switch between device speaker or external monitor audio via HDMI connection": "HDMI 接続時の音声出力を内蔵スピーカーまたは外部モニターに切り替えます",
     "Switch between system sleep suspend states": "システム中断スリープの挙動を切り替えます",
     "Theme": "テーマ",
-    "Theme Controlled": "テーマの指定を使用",
     "Thermal Zone Control": "サーマルゾーン制御",
     "Toggle a delayed start of RetroArch until a network connection is established": "ネットワークに接続するまで RetroArch の起動を待機します",
     "Toggle between ADB and MTP USB functionality": "USB の挙動を ADB と MTP で切り替えます",
@@ -416,8 +402,6 @@
     "Background Animation": "背景アニメーション",
     "Battery": "バッテリー",
     "Bluetooth": "Bluetooth",
-    "Bottom + Behind": "下部 + 背面",
-    "Bottom + Front": "下部 + 前面",
     "Change the display priority of the content images": "コンテンツ画像の表示を切り替えます",
     "Change the screen alignment of the content images": "コンテンツ画像の表示位置を設定します",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "コンテンツ一覧のタイトルに現在のスロット名を表示します",
@@ -434,8 +418,6 @@
     "INTERFACE OPTIONS": "画面表示オプション",
     "Menu Counter File": "メニューにファイル数を表示",
     "Menu Counter Folder": "メニューにフォルダー数を表示",
-    "Middle + Behind": "中央 + 背面",
-    "Middle + Front": "中央 + 前面",
     "Network": "ネットワーク",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "コンテンツ名の冠詞の位置を入れ替えます　例えば「'Batman and Robin, The」は「The Batman and Robin」となります",
     "Remove ( )": "( )を省略",
@@ -452,9 +434,7 @@
     "Toggle the visibility of the bluetooth glyph": "Bluetooth アイコン表示を切り替えます",
     "Toggle the visibility of the clock": "時計の表示を切り替えます",
     "Toggle the visibility of the item count within folders in Explore Content": "コンテンツ一覧でフォルダ内の項目数の表示を切り替えます",
-    "Toggle the visibility of the network glyph": "Wi-Fi 接続アイコンの表示を切り替えます",
-    "Top + Behind": "上部 + 背面",
-    "Top + Front": "上部 + 前面"
+    "Toggle the visibility of the network glyph": "Wi-Fi 接続アイコンの表示を切り替えます"
   },
   "muxwebserv": {
     "Network Time Sync": "ネットワーク時刻同期",

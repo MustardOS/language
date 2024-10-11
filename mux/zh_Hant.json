@@ -1,7 +1,6 @@
 {
   "generic": {
     "Back": "返回",
-    "Confirm": "確認",
     "Directory": "目錄",
     "Disabled": "停用",
     "Enabled": "啟用",
@@ -13,7 +12,6 @@
     "Internal": "Internal",
     "Launch": "啟動",
     "Load": "讀取",
-    "Next": "下一個",
     "No Help Information Found": "No Help Information Found",
     "Open": "開啟",
     "Previous": "前一個",
@@ -49,14 +47,12 @@
   },
   "muxassign": {
     "ASSIGN": "分配",
-    "ASSIGN CORE": "分配核心",
     "No Cores Found...": "找不到核心...",
     "This is where you can assign a core or external emulator to content": "This is where you can assign a core or external emulator to content"
   },
   "muxcharge": {
     "Booting System - Please Wait...": "開機中 - 請稍等...",
     "Capacity": "容量",
-    "Health": "健康",
     "Press POWER button to continue booting...": "按下電源鍵以繼續啟動...",
     "Voltage": "電壓"
   },
@@ -126,7 +122,6 @@
     "Detect, display and connect to available Wi-Fi networks": "Detect, display and connect to available Wi-Fi networks",
     "NETWORK SCAN": "掃描網路",
     "No Wi-Fi Networks Found": "找不到Wi-Fi網路",
-    "Rescan": "重新掃苗",
     "Scanning for Wi-Fi Networks...": "正在掃描Wi-Fi網路..."
   },
   "muxnetwork": {
@@ -177,9 +172,6 @@
     "Could not load content!": "無法讀取內容！",
     "Directories cannot be added to Favourites": "目錄無法新增到最愛",
     "EXPLORE": "瀏覽",
-    "EXPLORE (SD1)": "瀏覽 (SD1)",
-    "EXPLORE (SD2)": "瀏覽 (SD2)",
-    "EXPLORE (USB)": "瀏覽 (USB)",
     "Error adding to Favourites": "新增到最愛時出錯",
     "FAVOURITES": "我的最愛",
     "Favourite": "我的最愛",
@@ -245,7 +237,6 @@
     "Change where muOS saves screenshots": "Change where muOS saves screenshots",
     "Content Management": "內容管理",
     "Languages": "語言",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "Leave on AUTO to look on SD2 first and fall back to SD1",
     "Metadata Catalogue": "Metadata Catalogue",
     "Network Profiles": "Network Profiles",
     "RetroArch BIOS": "RetroArch BIOS",
@@ -301,14 +292,11 @@
   "muxtimezone": {
     "No Timezones Found...": "找不到時區...",
     "Saving Timezone": "儲存時區設定",
-    "Select your preferred timezone": "Select your preferred timezone",
     "TIMEZONE": "時區"
   },
   "muxtweakadv": {
-    "A+B Button Swap": "A+B 鍵交換",
     "ADVANCED SETTINGS": "進階設定",
     "Adjust the rate of speed when holding navigation keys down": "Adjust the rate of speed when holding navigation keys down",
-    "Android Debug Bridge": "Android Debug Bridge",
     "Battery Offset": "電池偏移",
     "Brightness On Boot": "開機時亮度",
     "Change how the device buttons work globally": "Change how the device buttons work globally",
@@ -327,7 +315,6 @@
     "Loud": "響亮",
     "Low": "低",
     "Menu Acceleration": "選單加速",
-    "Noto Sans": "思源黑體",
     "Passcode Lock": "密碼鎖",
     "Quiet": "安靜",
     "Random Theme on Boot": "開機隨選主題",
@@ -343,7 +330,6 @@
     "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
     "Switch between system sleep suspend states": "Switch between system sleep suspend states",
     "Theme": "主題",
-    "Theme Controlled": "由主題控制",
     "Thermal Zone Control": "溫度區控制",
     "Toggle a delayed start of RetroArch until a network connection is established": "Toggle a delayed start of RetroArch until a network connection is established",
     "Toggle between ADB and MTP USB functionality": "Toggle between ADB and MTP USB functionality",
@@ -416,8 +402,6 @@
     "Background Animation": "Background Animation",
     "Battery": "電池",
     "Bluetooth": "藍芽",
-    "Bottom + Behind": "底部+後方",
-    "Bottom + Front": "底部+前方",
     "Change the display priority of the content images": "Change the display priority of the content images",
     "Change the screen alignment of the content images": "Change the screen alignment of the content images",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Changes the top title label in Explore Content to show current storage device along with folder name",
@@ -434,8 +418,6 @@
     "INTERFACE OPTIONS": "介面選項",
     "Menu Counter File": "選單計數器檔案",
     "Menu Counter Folder": "選單計數器資料夾",
-    "Middle + Behind": "中間+後方",
-    "Middle + Front": "中間+前方",
     "Network": "網路",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'",
     "Remove ( )": "移除 ( )",
@@ -452,9 +434,7 @@
     "Toggle the visibility of the bluetooth glyph": "Toggle the visibility of the bluetooth glyph",
     "Toggle the visibility of the clock": "Toggle the visibility of the clock",
     "Toggle the visibility of the item count within folders in Explore Content": "Toggle the visibility of the item count within folders in Explore Content",
-    "Toggle the visibility of the network glyph": "Toggle the visibility of the network glyph",
-    "Top + Behind": "頂部+後方",
-    "Top + Front": "頂部+前方"
+    "Toggle the visibility of the network glyph": "Toggle the visibility of the network glyph"
   },
   "muxwebserv": {
     "Network Time Sync": "網路校時",

@@ -1,7 +1,6 @@
 {
   "generic": {
     "Back": "Voltar",
-    "Confirm": "Confirmar",
     "Directory": "Directório",
     "Disabled": "Desativado",
     "Enabled": "Ativado",
@@ -13,7 +12,6 @@
     "Internal": "Interno",
     "Launch": "Abrir",
     "Load": "Carregar",
-    "Next": "Próximo",
     "No Help Information Found": "Não encontrada nenhuma informação de ajuda",
     "Open": "Abrir",
     "Previous": "Anterior",
@@ -49,14 +47,12 @@
   },
   "muxassign": {
     "ASSIGN": "ATRIBUIR",
-    "ASSIGN CORE": "ATRIBUIR CORE",
     "No Cores Found...": "Nenhum core encontrado...",
     "This is where you can assign a core or external emulator to content": "É aqui que pode atribuir um emulador principal ou externo ao conteúdo."
   },
   "muxcharge": {
     "Booting System - Please Wait...": "A iniciar sistema - Por favor, aguarde…",
     "Capacity": "Capacidade",
-    "Health": "Saúde",
     "Press POWER button to continue booting...": "Pressione o botão POWER para continuar o arranque...",
     "Voltage": "Voltagem"
   },
@@ -126,7 +122,6 @@
     "Detect, display and connect to available Wi-Fi networks": "Detete, visualize e ligue-se a redes Wi-Fi disponíveis.",
     "NETWORK SCAN": "PESQUISA DE REDE",
     "No Wi-Fi Networks Found": "Nenhuma rede Wi-Fi encontrada",
-    "Rescan": "Voltar a pesquisar",
     "Scanning for Wi-Fi Networks...": "A pesquisar redes Wi-Fi..."
   },
   "muxnetwork": {
@@ -177,9 +172,6 @@
     "Could not load content!": "Não foi possível carregar conteúdo!",
     "Directories cannot be added to Favourites": "Diretórios não podem ser adicionados aos Favoritos",
     "EXPLORE": "EXPLORAR",
-    "EXPLORE (SD1)": "EXPLORAR (SD1)",
-    "EXPLORE (SD2)": "EXPLORAR (SD2)",
-    "EXPLORE (USB)": "EXPLORAR (USB)",
     "Error adding to Favourites": "Erro ao adicionar aos Favoritos",
     "FAVOURITES": "Favoritos",
     "Favourite": "Favorito",
@@ -245,7 +237,6 @@
     "Change where muOS saves screenshots": "Altere onde o muOS guarda as capturas de ecrã.",
     "Content Management": "Gestão de Conteúdo",
     "Languages": "Idiomas",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "Deixe em AUTO para analisar primeiro para SD2 e voltar para SD1.",
     "Metadata Catalogue": "Catálogo de Metadados",
     "Network Profiles": "Perfis de rede",
     "RetroArch BIOS": "RetroArch BIOS",
@@ -301,14 +292,11 @@
   "muxtimezone": {
     "No Timezones Found...": "Nenhum fuso horário encontrado...",
     "Saving Timezone": "A guardar fuso horário",
-    "Select your preferred timezone": "Selecione o seu fuso horário preferido.",
     "TIMEZONE": "FUSO HORÁRIO"
   },
   "muxtweakadv": {
-    "A+B Button Swap": "Troca de Botões A+B",
     "ADVANCED SETTINGS": "DEFINIÇÕES AVANÇADAS",
     "Adjust the rate of speed when holding navigation keys down": "Ajuste a taxa de velocidade ao manter premidas as teclas de navegação",
-    "Android Debug Bridge": "Ponte de Depuração Android",
     "Battery Offset": "Desvio da Bateria",
     "Brightness On Boot": "Brilho no Arranque",
     "Change how the device buttons work globally": "Alterar a forma como os botões do dispositivo funcionam globalmente",
@@ -327,7 +315,6 @@
     "Loud": "Alto",
     "Low": "Baixo",
     "Menu Acceleration": "Aceleração do Menu",
-    "Noto Sans": "Noto Sans",
     "Passcode Lock": "Bloqueio por Código de Acesso",
     "Quiet": "Silencioso",
     "Random Theme on Boot": "Tema Aleatório no Arranque",
@@ -343,7 +330,6 @@
     "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
     "Switch between system sleep suspend states": "Alternar entre os estados de suspensão do sistema.",
     "Theme": "Tema",
-    "Theme Controlled": "Controlado pelo Tema",
     "Thermal Zone Control": "Controlo da Zona Térmica",
     "Toggle a delayed start of RetroArch until a network connection is established": "Alterne o início atrasado do RetroArch até que seja estabelecida uma ligação de rede.",
     "Toggle between ADB and MTP USB functionality": "Alternar entre a funcionalidade ADB e MTP USB.",
@@ -416,8 +402,6 @@
     "Background Animation": "Animação de fundo",
     "Battery": "Bateria",
     "Bluetooth": "Bluetooth",
-    "Bottom + Behind": "Inferior + Atrás",
-    "Bottom + Front": "Inferior + Frente",
     "Change the display priority of the content images": "Altere a prioridade de apresentação das imagens de conteúdo.",
     "Change the screen alignment of the content images": "Altere o alinhamento do ecrã das imagens de conteúdo.",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Altera o nome do título superior em Explorar conteúdo para mostrar o dispositivo de armazenamento atual, juntamente com o nome da pasta.",
@@ -434,8 +418,6 @@
     "INTERFACE OPTIONS": "OPÇÕES DA INTERFACE",
     "Menu Counter File": "Arquivo de Contador de Menu",
     "Menu Counter Folder": "Pasta de Contador de Menu",
-    "Middle + Behind": "Meio + Atrás",
-    "Middle + Front": "Meio + Frente",
     "Network": "Rede",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Reorganiza o nome do conteúdo para mover o 'O' do nome para a frente. Por exemplo, 'Batman & Robin, O' para 'O Batman & Robin'.",
     "Remove ( )": "Remover ( )",
@@ -452,9 +434,7 @@
     "Toggle the visibility of the bluetooth glyph": "Alterne a visibilidade do ícone do bluetooth.",
     "Toggle the visibility of the clock": "Alterne a visibilidade do relógio.",
     "Toggle the visibility of the item count within folders in Explore Content": "Alterne a visibilidade da contagem de itens nas pastas em Explorar conteúdo.",
-    "Toggle the visibility of the network glyph": "Alterne a visibilidade do ícone de rede.",
-    "Top + Behind": "Superior + Atrás",
-    "Top + Front": "Superior + Frente"
+    "Toggle the visibility of the network glyph": "Alterne a visibilidade do ícone de rede."
   },
   "muxwebserv": {
     "Network Time Sync": "Sincronização de Tempo de Rede",
