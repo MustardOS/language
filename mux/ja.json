@@ -17,6 +17,7 @@
     "Previous": "前回の設定を使用",
     "Recursive": "再帰的に指定",
     "Remove": "削除する",
+    "Rescan": "Rescan",
     "Save": "保存して戻る",
     "Saving Changes": "変更を保存しています",
     "Select": "選択",
@@ -35,7 +36,9 @@
     "No Applications Found": "アプリケーションが見つかりませんでした",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
+    "RGB Controller": "RGB Controller",
     "RetroArch": "RetroArch",
+    "ScummVM": "ScummVM",
     "Simple Terminal": "簡易ターミナル",
     "Task Toolkit": "タスクツール集"
   },
@@ -113,9 +116,12 @@
     "Various information can be found and launched here": "様々な情報を確認します"
   },
   "muxnetprofile": {
+    "Invalid Network Settings": "Invalid Network Settings",
+    "Invalid SSID": "Invalid SSID",
     "Loading Network Profiles...": "ネットワーク設定を読み込み中…",
     "NETWORK PROFILE": "ネットワーク設定",
     "No Saved Network Profiles Found": "保存されているネットワーク設定が見つかりませんでした",
+    "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "現在地または保存された設定に合わせて Wi-Fi の設定を切り替えます"
   },
   "muxnetscan": {
@@ -159,6 +165,7 @@
   },
   "muxoption": {
     "Assign Core": "コアを設定する",
+    "CONTENT OPTION": "CONTENT OPTION",
     "Set the CPU governor for the selected content or directory": "選択したコンテンツまたはディレクトリに CPU ガナバーを設定します",
     "Set the system core or external emulator for the selected content or directory": "選択したコンテンツまたはディレクトリにコアまたは個別のエミュレーターを設定します。",
     "System Governor": "システムガバナー"
@@ -178,7 +185,8 @@
     "HISTORY": "履歴",
     "Info": "情報",
     "Loading...": "読み込み中…",
-    "Refresh": "再読み込み"
+    "Refresh": "再読み込み",
+    "Removed from Favourites": "Removed from Favourites"
   },
   "muxpower": {
     "10m": "10分",
@@ -237,6 +245,7 @@
     "Change where muOS saves screenshots": "スクリーンショットの保存先を指定します",
     "Content Management": "コンテンツ管理",
     "Languages": "言語",
+    "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "カタログデータ",
     "Network Profiles": "ネットワーク設定",
     "RetroArch BIOS": "RetroArch BIOS",
@@ -287,11 +296,13 @@
   "muxtheme": {
     "Loading Theme": "テーマを読み込み中",
     "No Themes Found": "テーマが見つがりませんでした",
-    "THEME PICKER": "テーマ選択"
+    "THEME PICKER": "テーマ選択",
+    "This theme has no attributed credits!": "This theme has no attributed credits!"
   },
   "muxtimezone": {
     "No Timezones Found...": "タイムゾーンが見つかりませんでした…",
     "Saving Timezone": "タイムゾーンを保存しています",
+    "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "タイムゾーン"
   },
   "muxtweakadv": {
@@ -299,6 +310,7 @@
     "Adjust the rate of speed when holding navigation keys down": "操作キーを押し続けた際の移動速度を調整します",
     "Battery Offset": "バッテリー誤差修正",
     "Brightness On Boot": "起動時の画面の明るさ",
+    "Button Swap": "Button Swap",
     "Change how the device buttons work globally": "システム全体でボタンの挙動を切り替えます",
     "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font": "フロントエンド内で使用するフォントを切り替えます　「テーマ」に設定するとテーマに含まれるフォントを優先します　「言語」に設定すると言語に合わせてフォント使用します",
     "Change the default audio level that the device will use each time it starts up": "毎回デバイスを起動する際の音量を設定します",
@@ -315,9 +327,11 @@
     "Loud": "大きい",
     "Low": "暗い",
     "Menu Acceleration": "メニュー速度",
+    "Modern": "Modern",
     "Passcode Lock": "パスコードロック",
     "Quiet": "小さい",
     "Random Theme on Boot": "起動時に無作為にテーマを切り替える",
+    "Retro": "Retro",
     "RetroArch Network Wait": "RetroArchのネットワーク接続待機",
     "Shutdown": "終了時",
     "Shutdown + Sleep": "終了時 + スリープ時",
@@ -383,6 +397,7 @@
     "Main Menu": "メインメニュー",
     "Navigation Sound": "操作音",
     "Neutral White (0)": "Neutral White (0)",
+    "Power Settings": "Power Settings",
     "Resume Game": "中断しているゲームを再開",
     "Settings that should only be changed by those who know what they are doing!": "詳細を理解している人たちのための設定です!",
     "Settings to change the power features of the device": "デバイスの電力設定を変更します",
@@ -401,23 +416,32 @@
   "muxvisual": {
     "Background Animation": "背景アニメーション",
     "Battery": "バッテリー",
+    "Behind": "Behind",
     "Bluetooth": "Bluetooth",
+    "Bottom Left": "Bottom Left",
+    "Bottom Middle": "Bottom Middle",
+    "Bottom Right": "Bottom Right",
+    "Center": "Center",
     "Change the display priority of the content images": "コンテンツ画像の表示を切り替えます",
     "Change the screen alignment of the content images": "コンテンツ画像の表示位置を設定します",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "コンテンツ一覧のタイトルに現在のスロット名を表示します",
     "Clock": "時刻",
     "Content Box Art": "ボックスアート表示",
+    "Content Box Art Alignment": "Content Box Art Alignment",
     "Content Dash Replacement": "コンテンツ名のダッシュ(-)を置き換える",
     "Content Name Scheme": "コンテンツ名表示",
     "Display Title Reformatting": "タイトル名の表示を切り替える",
     "Folder Item Count": "フォルダー内のアイテム数",
     "Friendly Folder Names": "フォルダ名をわかりやすく",
+    "Front": "Front",
     "Full Name": "全表示",
     "Fullscreen + Behind": "フルスクリーン + 背面",
     "Fullscreen + Front": "フルスクリーン + 前面",
     "INTERFACE OPTIONS": "画面表示オプション",
     "Menu Counter File": "メニューにファイル数を表示",
     "Menu Counter Folder": "メニューにフォルダー数を表示",
+    "Middle Left": "Middle Left",
+    "Middle Right": "Middle Right",
     "Network": "ネットワーク",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "コンテンツ名の冠詞の位置を入れ替えます　例えば「'Batman and Robin, The」は「The Batman and Robin」となります",
     "Remove ( )": "( )を省略",
@@ -434,7 +458,10 @@
     "Toggle the visibility of the bluetooth glyph": "Bluetooth アイコン表示を切り替えます",
     "Toggle the visibility of the clock": "時計の表示を切り替えます",
     "Toggle the visibility of the item count within folders in Explore Content": "コンテンツ一覧でフォルダ内の項目数の表示を切り替えます",
-    "Toggle the visibility of the network glyph": "Wi-Fi 接続アイコンの表示を切り替えます"
+    "Toggle the visibility of the network glyph": "Wi-Fi 接続アイコンの表示を切り替えます",
+    "Top Left": "Top Left",
+    "Top Middle": "Top Middle",
+    "Top Right": "Top Right"
   },
   "muxwebserv": {
     "Network Time Sync": "ネットワーク時刻同期",
