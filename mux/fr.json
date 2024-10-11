@@ -17,6 +17,7 @@
     "Previous": "Précédent",
     "Recursive": "Récursif",
     "Remove": "Retirer",
+    "Rescan": "Rescan",
     "Save": "Sauvegarder",
     "Saving Changes": "Sauvegarde des modifications",
     "Select": "Sélectionner",
@@ -35,7 +36,9 @@
     "No Applications Found": "Aucune application trouvée",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
+    "RGB Controller": "RGB Controller",
     "RetroArch": "RetroArch",
+    "ScummVM": "ScummVM",
     "Simple Terminal": "Simple Terminal",
     "Task Toolkit": "Utilitaires"
   },
@@ -113,9 +116,12 @@
     "Various information can be found and launched here": "Diverses informations peuvent être trouvées et lancées ici."
   },
   "muxnetprofile": {
+    "Invalid Network Settings": "Invalid Network Settings",
+    "Invalid SSID": "Invalid SSID",
     "Loading Network Profiles...": "Chargement des profils réseau…",
     "NETWORK PROFILE": "PROFIL RÉSEAU",
     "No Saved Network Profiles Found": "Aucun profil réseau enregistré trouvé",
+    "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Basculez rapidement entre différentes configurations Wi-Fi en fonction de votre emplacement ou de vos préférences réseau."
   },
   "muxnetscan": {
@@ -159,6 +165,7 @@
   },
   "muxoption": {
     "Assign Core": "Assigner un émulateur",
+    "CONTENT OPTION": "CONTENT OPTION",
     "Set the CPU governor for the selected content or directory": "Définissez le gouverneur du processeur pour le contenu ou le répertoire sélectionné.",
     "Set the system core or external emulator for the selected content or directory": "Définissez l'émulateur principal ou externe pour le contenu ou le répertoire sélectionné.",
     "System Governor": "Gouverneur système"
@@ -178,7 +185,8 @@
     "HISTORY": "HISTORIQUE",
     "Info": "Information",
     "Loading...": "Chargement…",
-    "Refresh": "Rafraîchir"
+    "Refresh": "Rafraîchir",
+    "Removed from Favourites": "Removed from Favourites"
   },
   "muxpower": {
     "10m": "10m",
@@ -237,6 +245,7 @@
     "Change where muOS saves screenshots": "Modifiez l'endroit où muOS enregistre les captures d'écran.",
     "Content Management": "Gestion du contenu",
     "Languages": "Langues",
+    "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "Données du catalogue",
     "Network Profiles": "Profils réseaux",
     "RetroArch BIOS": "BIOS RetroArch",
@@ -287,11 +296,13 @@
   "muxtheme": {
     "Loading Theme": "Chargement du thème en cours",
     "No Themes Found": "Aucun thème trouvé...",
-    "THEME PICKER": "SÉLECTEUR DE THÈME"
+    "THEME PICKER": "SÉLECTEUR DE THÈME",
+    "This theme has no attributed credits!": "This theme has no attributed credits!"
   },
   "muxtimezone": {
     "No Timezones Found...": "Aucun fuseau horaire trouvé…",
     "Saving Timezone": "Sauvegarde du fuseau horaire",
+    "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "FUSEAU HORAIRE"
   },
   "muxtweakadv": {
@@ -299,6 +310,7 @@
     "Adjust the rate of speed when holding navigation keys down": "Ajustez la vitesse lorsque vous maintenez les touches de navigation enfoncées.",
     "Battery Offset": "Ajustement de la capacité de la batterie",
     "Brightness On Boot": "Luminosité au démarrage",
+    "Button Swap": "Button Swap",
     "Change how the device buttons work globally": "Modifiez le fonctionnement global des commandes de la console.",
     "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font": "Modifiez le fonctionnement du type de police dans l'interface. « Thème » garantira que l'interface utilisera les polices du thème actif ou les polices de la langue si le thème n'en n'a pas. « Langue » utilisera spécifiquement une police basée sur la langue.",
     "Change the default audio level that the device will use each time it starts up": "Modifiez le niveau audio par défaut que la console utilisera à chaque démarrage.",
@@ -315,9 +327,11 @@
     "Loud": "Fort",
     "Low": "Basse",
     "Menu Acceleration": "Accélération du menu",
+    "Modern": "Modern",
     "Passcode Lock": "Verrouillage par mot de passe",
     "Quiet": "Discret",
     "Random Theme on Boot": "Thème aléatoire au démarrage",
+    "Retro": "Retro",
     "RetroArch Network Wait": "Attente du réseau de RetroArch",
     "Shutdown": "Arrêt",
     "Shutdown + Sleep": "Arrêt + Mise en veille",
@@ -383,6 +397,7 @@
     "Main Menu": "Menu principal",
     "Navigation Sound": "Sons de navigation",
     "Neutral White (0)": "Blanc neutre (0)",
+    "Power Settings": "Power Settings",
     "Resume Game": "Jeu en cours",
     "Settings that should only be changed by those who know what they are doing!": "Des paramètres qui ne devraient être modifiés que par ceux qui savent ce qu’ils font !",
     "Settings to change the power features of the device": "Paramètres pour modifier les fonctionnalités d’alimentation de la console.",
@@ -401,23 +416,32 @@
   "muxvisual": {
     "Background Animation": "Animation d'arrière-plan",
     "Battery": "Batterie",
+    "Behind": "Behind",
     "Bluetooth": "Bluetooth",
+    "Bottom Left": "Bottom Left",
+    "Bottom Middle": "Bottom Middle",
+    "Bottom Right": "Bottom Right",
+    "Center": "Center",
     "Change the display priority of the content images": "Modifiez la priorité d'affichage des illustrations de contenu.",
     "Change the screen alignment of the content images": "Modifiez l'alignement à l'écran des illustrations de contenu.",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Modifie l'étiquette de titre supérieure dans Explorer le contenu pour afficher le périphérique de stockage actuel ainsi que le nom du dossier.",
     "Clock": "Horloge",
     "Content Box Art": "Illustrations du contenu",
+    "Content Box Art Alignment": "Content Box Art Alignment",
     "Content Dash Replacement": "Remplacer les tirets du contenu",
     "Content Name Scheme": "Schéma de nom du contenu",
     "Display Title Reformatting": "Reformater le titre affiché",
     "Folder Item Count": "Nombre de fichiers dans les répertoires",
     "Friendly Folder Names": "Noms de dossiers conviviaux",
+    "Front": "Front",
     "Full Name": "Nom complet",
     "Fullscreen + Behind": "Plein écran + Derrière",
     "Fullscreen + Front": "Plein écran + Devant",
     "INTERFACE OPTIONS": "OPTIONS DE L'INTERFACE",
     "Menu Counter File": "Numéro des fichiers",
     "Menu Counter Folder": "Numéro des répertoires",
+    "Middle Left": "Middle Left",
+    "Middle Right": "Middle Right",
     "Network": "Réseau",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Réorganise l'étiquette du contenu pour déplacer l'étiquette « The » au début. Par exemple, « Batman and Robin, The » à « The Batman and Robin ».",
     "Remove ( )": "Retirer les ( )",
@@ -434,7 +458,10 @@
     "Toggle the visibility of the bluetooth glyph": "Activez/désactivez l'affichage de l'icone du Bluetooth.",
     "Toggle the visibility of the clock": "Activez/désactivez l'affichage de l'horloge.",
     "Toggle the visibility of the item count within folders in Explore Content": "Activez/désactivez l'affichage du nombre d’éléments dans les dossiers dans Explorer le contenu.",
-    "Toggle the visibility of the network glyph": "Activez/désactivez l'affichage de l'icone du réseau."
+    "Toggle the visibility of the network glyph": "Activez/désactivez l'affichage de l'icone du réseau.",
+    "Top Left": "Top Left",
+    "Top Middle": "Top Middle",
+    "Top Right": "Top Right"
   },
   "muxwebserv": {
     "Network Time Sync": "Synchronisation réseau de l'heure",
