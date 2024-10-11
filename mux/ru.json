@@ -17,6 +17,7 @@
     "Previous": "Предыдущий",
     "Recursive": "Рекурсивный",
     "Remove": "Удалить",
+    "Rescan": "Rescan",
     "Save": "Сохранить",
     "Saving Changes": "Сохранение изменений",
     "Select": "Выбрать",
@@ -35,7 +36,9 @@
     "No Applications Found": "Приложения не найдены",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
+    "RGB Controller": "RGB Controller",
     "RetroArch": "RetroArch",
+    "ScummVM": "ScummVM",
     "Simple Terminal": "Терминал",
     "Task Toolkit": "Заметки"
   },
@@ -113,9 +116,12 @@
     "Various information can be found and launched here": "Различную информацию можно найти и запустить здесь."
   },
   "muxnetprofile": {
+    "Invalid Network Settings": "Invalid Network Settings",
+    "Invalid SSID": "Invalid SSID",
     "Loading Network Profiles...": "Загрузка интернет профилей…",
     "NETWORK PROFILE": "ИНТЕРНЕТ ПРОФИЛЬ",
     "No Saved Network Profiles Found": "Сохраненные сетевые профили не найдены",
+    "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Быстрое переключение между различными конфигурациями Wi-Fi в зависимости от вашего местоположения или сетевых настроек."
   },
   "muxnetscan": {
@@ -159,6 +165,7 @@
   },
   "muxoption": {
     "Assign Core": "Присвоить ядро",
+    "CONTENT OPTION": "CONTENT OPTION",
     "Set the CPU governor for the selected content or directory": "Настройка говернора процессора для выбранного содержимого или директории.",
     "Set the system core or external emulator for the selected content or directory": "Выберите ядро или внешний эмулятор для выбранного содержимого или директории.",
     "System Governor": "Системный говернор"
@@ -178,7 +185,8 @@
     "HISTORY": "ИСТОРИЯ",
     "Info": "Информация",
     "Loading...": "Загрузка…",
-    "Refresh": "Обновить"
+    "Refresh": "Обновить",
+    "Removed from Favourites": "Removed from Favourites"
   },
   "muxpower": {
     "10m": "10м",
@@ -237,6 +245,7 @@
     "Change where muOS saves screenshots": "Настройка пути, куда muOS сохраняет скриншоты.",
     "Content Management": "Управление контентом",
     "Languages": "Языки",
+    "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "Каталог метаданных",
     "Network Profiles": "Сетевые профили",
     "RetroArch BIOS": "RetroArch BIOS",
@@ -287,11 +296,13 @@
   "muxtheme": {
     "Loading Theme": "Загрузка темы",
     "No Themes Found": "Темы не найдены",
-    "THEME PICKER": "ВЫБОР ТЕМЫ"
+    "THEME PICKER": "ВЫБОР ТЕМЫ",
+    "This theme has no attributed credits!": "This theme has no attributed credits!"
   },
   "muxtimezone": {
     "No Timezones Found...": "Часовые пояса не найдены…",
     "Saving Timezone": "Сохранение часового пояса",
+    "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "ЧАСОВОЙ ПОЯС"
   },
   "muxtweakadv": {
@@ -299,6 +310,7 @@
     "Adjust the rate of speed when holding navigation keys down": "Регулировка скорости навигационных клавиш при удержании нажатыми",
     "Battery Offset": "Смещение иконки аккумулятора",
     "Brightness On Boot": "Яркость при включении",
+    "Button Swap": "Button Swap",
     "Change how the device buttons work globally": "Измените глобальную работу кнопок устройства",
     "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font": "Изменение типа шрифта во фронтенде. \"Тема\" обеспечит использование шрифтов во фронтенде в рамках тем с возможностью отката к языковым шрифтам. \"Язык\" будет специально использовать шрифт по умолчанию.",
     "Change the default audio level that the device will use each time it starts up": "Уровень громкости по умолчанию, который будет выбран при каждом запуске устройства.",
@@ -315,9 +327,11 @@
     "Loud": "Громко",
     "Low": "Минимальный",
     "Menu Acceleration": "Ускорение меню",
+    "Modern": "Modern",
     "Passcode Lock": "Блокировка паролем",
     "Quiet": "Тихо",
     "Random Theme on Boot": "Случайная тема при включении",
+    "Retro": "Retro",
     "RetroArch Network Wait": "Ожидание сети RetroArch",
     "Shutdown": "При выключении",
     "Shutdown + Sleep": "При выключении + переходе в сон",
@@ -383,6 +397,7 @@
     "Main Menu": "Главное меню",
     "Navigation Sound": "Звуки навигации",
     "Neutral White (0)": "Нейтральный белый (0)",
+    "Power Settings": "Power Settings",
     "Resume Game": "Продолжить игру",
     "Settings that should only be changed by those who know what they are doing!": "Настройки, которые должны быть изменены только теми, кто точно знает, что делает!",
     "Settings to change the power features of the device": "Настройки параметров питания устройства.",
@@ -401,23 +416,32 @@
   "muxvisual": {
     "Background Animation": "Фоновая анимация",
     "Battery": "Аккумулятор",
+    "Behind": "Behind",
     "Bluetooth": "Bluetooth",
+    "Bottom Left": "Bottom Left",
+    "Bottom Middle": "Bottom Middle",
+    "Bottom Right": "Bottom Right",
+    "Center": "Center",
     "Change the display priority of the content images": "Изменение приоритета отображения изображений содержимого.",
     "Change the screen alignment of the content images": "Настройка выравнивания изображений на экране.",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Изменение головной метки заголовка в Библиотеке для отображения текущего устройства хранения вместе с именем папки.",
     "Clock": "Часы",
     "Content Box Art": "Обложка",
+    "Content Box Art Alignment": "Content Box Art Alignment",
     "Content Dash Replacement": "Замена тире в названии",
     "Content Name Scheme": "Схема названия",
     "Display Title Reformatting": "Переформатирование отображения названия",
     "Folder Item Count": "Счетчиков элементов папки",
     "Friendly Folder Names": "Имена дружественных папок",
+    "Front": "Front",
     "Full Name": "Полное имя",
     "Fullscreen + Behind": "Полный экран + Сзади",
     "Fullscreen + Front": "Полный экран + Спереди",
     "INTERFACE OPTIONS": "НАСТРОЙКИ ИНТЕРФЕЙСА",
     "Menu Counter File": "Меню счетчика файлов",
     "Menu Counter Folder": "Меню счетчика папок",
+    "Middle Left": "Middle Left",
+    "Middle Right": "Middle Right",
     "Network": "Сеть",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Перемещает 'The' в начало в метке содержимого - например, 'Batman and Robin, The' на 'The Batman and Robin'.",
     "Remove ( )": "Удалить ( )",
@@ -434,7 +458,10 @@
     "Toggle the visibility of the bluetooth glyph": "Настройка видимости иконки bluetooth.",
     "Toggle the visibility of the clock": "Настройка видимости часов.",
     "Toggle the visibility of the item count within folders in Explore Content": "Настройка видимости количества элементов в папках в Библиотеке.",
-    "Toggle the visibility of the network glyph": "Настройка видимости иконки сети."
+    "Toggle the visibility of the network glyph": "Настройка видимости иконки сети.",
+    "Top Left": "Top Left",
+    "Top Middle": "Top Middle",
+    "Top Right": "Top Right"
   },
   "muxwebserv": {
     "Network Time Sync": "Синхронизация времени через интернет",
