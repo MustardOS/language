@@ -121,6 +121,9 @@
     "Loading Network Profiles...": "Ağ profilleri yükleniyor…",
     "NETWORK PROFILE": "AĞ PROFİLİ",
     "No Saved Network Profiles Found": "Kayıtlı ağ profili bulunamadı",
+    "Password must be 8": {
+      "63 characters!": "Password must be 8..63 characters!"
+    },
     "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Konumunuza veya ağ tercihlerinize göre farklı Wi-Fi yapılandırmaları arasında hızla geçiş yapın."
   },
@@ -245,6 +248,7 @@
     "Change where muOS saves screenshots": "muOS'un ekran görüntülerini nereye kaydedeceğini değiştirin.",
     "Content Management": "İçerik yönetimi",
     "Languages": "Diller",
+    "Leave on AUTO to look on SD2 first and fall back to SD1": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "Üstveri katalogu",
     "Network Profiles": "Ağ profilleri",
@@ -302,6 +306,7 @@
   "muxtimezone": {
     "No Timezones Found...": "Zaman dilimi bulunamadı…",
     "Saving Timezone": "Zaman dilimi kaydediliyor",
+    "Select your preferred timezone": "Select your preferred timezone.",
     "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "ZAMAN DİLİMİ"
   },
