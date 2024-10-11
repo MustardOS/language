@@ -121,6 +121,9 @@
     "Loading Network Profiles...": "加载网络配置文件中……",
     "NETWORK PROFILE": "网络配置文件",
     "No Saved Network Profiles Found": "找不到保存的网络配置文件",
+    "Password must be 8": {
+      "63 characters!": "Password must be 8..63 characters!"
+    },
     "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "快速切换Wi-Fi配置，以适应机器所在的特定位置或联网状态。"
   },
@@ -245,6 +248,7 @@
     "Change where muOS saves screenshots": "设置muOS加载截图的位置。",
     "Content Management": "内容管理",
     "Languages": "语言",
+    "Leave on AUTO to look on SD2 first and fall back to SD1": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "元数据编集",
     "Network Profiles": "网络配置文件",
@@ -302,6 +306,7 @@
   "muxtimezone": {
     "No Timezones Found...": "找不到时区",
     "Saving Timezone": "保存时区中",
+    "Select your preferred timezone": "Select your preferred timezone.",
     "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "时区"
   },
