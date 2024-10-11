@@ -17,6 +17,7 @@
     "Previous": "Önceki",
     "Recursive": "Yinelenmiş",
     "Remove": "Kaldır",
+    "Rescan": "Rescan",
     "Save": "Kaydet",
     "Saving Changes": "Değişiklikler kaydediliyor",
     "Select": "Seç",
@@ -35,7 +36,9 @@
     "No Applications Found": "Uygulama bulunamadı",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
+    "RGB Controller": "RGB Controller",
     "RetroArch": "RetroArch",
+    "ScummVM": "ScummVM",
     "Simple Terminal": "Simple Terminal",
     "Task Toolkit": "Task Toolkit"
   },
@@ -113,9 +116,12 @@
     "Various information can be found and launched here": "Çeşitli bilgileri burada bulabilir ve başlatabilirsiniz."
   },
   "muxnetprofile": {
+    "Invalid Network Settings": "Invalid Network Settings",
+    "Invalid SSID": "Invalid SSID",
     "Loading Network Profiles...": "Ağ profilleri yükleniyor…",
     "NETWORK PROFILE": "AĞ PROFİLİ",
     "No Saved Network Profiles Found": "Kayıtlı ağ profili bulunamadı",
+    "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Konumunuza veya ağ tercihlerinize göre farklı Wi-Fi yapılandırmaları arasında hızla geçiş yapın."
   },
   "muxnetscan": {
@@ -159,6 +165,7 @@
   },
   "muxoption": {
     "Assign Core": "Çekirdek ata",
+    "CONTENT OPTION": "CONTENT OPTION",
     "Set the CPU governor for the selected content or directory": "Seçili içerik veya klasör için CPU yöneticisini ayarlayın.",
     "Set the system core or external emulator for the selected content or directory": "Seçili içerik veya klasör için sistem çekirdeğini veya harici emülatörü ayarlayın.",
     "System Governor": "Sistem yöneticisi"
@@ -178,7 +185,8 @@
     "HISTORY": "GEÇMİŞ",
     "Info": "Bilgi",
     "Loading...": "Yükleniyor…",
-    "Refresh": "Yenile"
+    "Refresh": "Yenile",
+    "Removed from Favourites": "Removed from Favourites"
   },
   "muxpower": {
     "10m": "10 dk",
@@ -237,6 +245,7 @@
     "Change where muOS saves screenshots": "muOS'un ekran görüntülerini nereye kaydedeceğini değiştirin.",
     "Content Management": "İçerik yönetimi",
     "Languages": "Diller",
+    "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "Üstveri katalogu",
     "Network Profiles": "Ağ profilleri",
     "RetroArch BIOS": "RetroArch BIOS",
@@ -287,11 +296,13 @@
   "muxtheme": {
     "Loading Theme": "Tema yükleniyor",
     "No Themes Found": "Tema bulunamadı",
-    "THEME PICKER": "TEMA SEÇİCİ"
+    "THEME PICKER": "TEMA SEÇİCİ",
+    "This theme has no attributed credits!": "This theme has no attributed credits!"
   },
   "muxtimezone": {
     "No Timezones Found...": "Zaman dilimi bulunamadı…",
     "Saving Timezone": "Zaman dilimi kaydediliyor",
+    "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "ZAMAN DİLİMİ"
   },
   "muxtweakadv": {
@@ -299,6 +310,7 @@
     "Adjust the rate of speed when holding navigation keys down": "Gezinme tuşlarını basılı tuttuğunuzdaki hız oranını ayarlayın",
     "Battery Offset": "Pil ofseti",
     "Brightness On Boot": "Açılış parlaklığı",
+    "Button Swap": "Button Swap",
     "Change how the device buttons work globally": "Cihaz düğmelerinin sistem genelinde nasıl çalıştığını değiştirin",
     "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font": "Yazı tipinin arayüzde nasıl çalıştığını değiştirin. 'Tema' arayüzün dil yazı tiplerine geri dönüşle temalar içindeki yazı tiplerini kullanmasını sağlayacaktır. 'Dil' özellikle dil tabanlı yazı tipini kullanacaktır.",
     "Change the default audio level that the device will use each time it starts up": "Cihazın her başlatıldığında kullanacağı varsayılan ses seviyesini değiştirin.",
@@ -315,9 +327,11 @@
     "Loud": "Yüksek sesli",
     "Low": "Düşük",
     "Menu Acceleration": "Menü hızlandırma",
+    "Modern": "Modern",
     "Passcode Lock": "Şifre kilidi",
     "Quiet": "Sessiz",
     "Random Theme on Boot": "Açılışta rastgele tema",
+    "Retro": "Retro",
     "RetroArch Network Wait": "RetroArch ağ beklemesi",
     "Shutdown": "Kapat",
     "Shutdown + Sleep": "Kapat + Uyku modu",
@@ -383,6 +397,7 @@
     "Main Menu": "Ana menü",
     "Navigation Sound": "Navigasyon sesi",
     "Neutral White (0)": "Nötr beyaz (0)",
+    "Power Settings": "Power Settings",
     "Resume Game": "Oyuna devam et",
     "Settings that should only be changed by those who know what they are doing!": "Sadece işini bilenlerin değiştirebileceği ayarlar!",
     "Settings to change the power features of the device": "Cihazın güç özelliklerini değiştirmek için kullanılan ayarlar.",
@@ -401,23 +416,32 @@
   "muxvisual": {
     "Background Animation": "Arka plan animasyonu",
     "Battery": "Pil",
+    "Behind": "Behind",
     "Bluetooth": "Bluetooth",
+    "Bottom Left": "Bottom Left",
+    "Bottom Middle": "Bottom Middle",
+    "Bottom Right": "Bottom Right",
+    "Center": "Center",
     "Change the display priority of the content images": "İçerik görsellerinin görüntülenme önceliğini değiştirin.",
     "Change the screen alignment of the content images": "İçerik görsellerinin ekran hizalamasını değiştirin.",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "İçeriği keşfet menüsündeki üst başlık etiketini, klasör adıyla birlikte geçerli depolama aygıtını gösterecek şekilde değiştirir.",
     "Clock": "Saat",
     "Content Box Art": "İçerik kutusu resmi",
+    "Content Box Art Alignment": "Content Box Art Alignment",
     "Content Dash Replacement": "İçerik gösterge tablosunu değiştirme",
     "Content Name Scheme": "İçerik adı şeması",
     "Display Title Reformatting": "Başlığı yeniden biçimlendirmeyi görüntüle",
     "Folder Item Count": "Klasör öğe sayısı",
     "Friendly Folder Names": "Kullanıcı dostu klasör adları",
+    "Front": "Front",
     "Full Name": "Tam isim",
     "Fullscreen + Behind": "Tam ekran + Arka",
     "Fullscreen + Front": "Tam ekran + Ön",
     "INTERFACE OPTIONS": "ARAYÜZ SEÇENEKLERİ",
     "Menu Counter File": "Menü sayaç dosyası",
     "Menu Counter Folder": "Menü sayaç klasörü",
+    "Middle Left": "Middle Left",
+    "Middle Right": "Middle Right",
     "Network": "Ağ",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "İçeriğin etiketini yeniden düzenleyerek 'The' etiketini öne taşır. Örneğin, 'Batman ve Robin, The' yerine 'The Batman ve Robin'.",
     "Remove ( )": "Kaldır ( )",
@@ -434,7 +458,10 @@
     "Toggle the visibility of the bluetooth glyph": "Bluetooth simgesinin görünürlüğünü değiştirin.",
     "Toggle the visibility of the clock": "Saatin görünürlüğünü değiştirin.",
     "Toggle the visibility of the item count within folders in Explore Content": "İçeriği keşfet menüsündeki klasörlerdeki öğe sayısının görünürlüğünü değiştirin.",
-    "Toggle the visibility of the network glyph": "Ağ simgesinin görünürlüğünü değiştirin."
+    "Toggle the visibility of the network glyph": "Ağ simgesinin görünürlüğünü değiştirin.",
+    "Top Left": "Top Left",
+    "Top Middle": "Top Middle",
+    "Top Right": "Top Right"
   },
   "muxwebserv": {
     "Network Time Sync": "Ağ zaman senkronizasyonu",
