@@ -17,7 +17,7 @@
     "Previous": "Poprzedni",
     "Recursive": "Rekursywny",
     "Remove": "Usuń",
-    "Rescan": "Rescan",
+    "Rescan": "Skanuj ponownie",
     "Save": "Zapisz",
     "Saving Changes": "Zapisywanie zmian",
     "Select": "Wybierz",
@@ -36,7 +36,7 @@
     "No Applications Found": "Nie znaleziono aplikacji",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
-    "RGB Controller": "RGB Controller",
+    "RGB Controller": "Kontrola RGB",
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Simple Terminal": "Prosty terminal",
@@ -116,12 +116,12 @@
     "Various information can be found and launched here": "Można znaleźć tutaj różne informacje."
   },
   "muxnetprofile": {
-    "Invalid Network Settings": "Invalid Network Settings",
-    "Invalid SSID": "Invalid SSID",
+    "Invalid Network Settings": "Niepoprawne ustawienia sieciowe",
+    "Invalid SSID": "Niepoprawne SSID",
     "Loading Network Profiles...": "Ładowanie profili sieciowych…",
     "NETWORK PROFILE": "PROFIL SIECIOWY",
     "No Saved Network Profiles Found": "Nie znaleziono zapisanych profilów sieciowych",
-    "Password must be 8..63 characters!": "Password must be 8..63 characters!",
+    "Password must be 8..63 characters!": "Hasło musi mieć od 8 do 63 znaków!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Szybko zmień pomiędzy różnymi konfiguracjami Wi-Fi na podstawie twojej lokalizacji lub preferencji sieciowych."
   },
   "muxnetscan": {
@@ -165,7 +165,7 @@
   },
   "muxoption": {
     "Assign Core": "Przypisz rdzeń",
-    "CONTENT OPTION": "CONTENT OPTION",
+    "CONTENT OPTION": "OPCJE ZAWARTOŚCI",
     "Set the CPU governor for the selected content or directory": "Ustaw regulator CPU dla wybranej zawartości lub folderu.",
     "Set the system core or external emulator for the selected content or directory": "Ustaw rdzeń lub zewnętrzny emulator dla wybranej zawartości lub folderu.",
     "System Governor": "Regulator systemu"
@@ -186,7 +186,7 @@
     "Info": "Info",
     "Loading...": "Wczytywanie…",
     "Refresh": "Odśwież",
-    "Removed from Favourites": "Removed from Favourites"
+    "Removed from Favourites": "Usunięto z ulubionych"
   },
   "muxpower": {
     "10m": "10m",
@@ -245,7 +245,7 @@
     "Change where muOS saves screenshots": "Zmień lokację, w której muOS ma zapisywać zrzuty ekranu.",
     "Content Management": "Zarządzanie zawartością",
     "Languages": "Języki",
-    "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
+    "Leave on AUTO to look on SD2 first and fall back to SD1.": "Zostaw na AUTO, by najpierw szukać na SD2 i w ostateczności na SD1.",
     "Metadata Catalogue": "Katalog metadanych",
     "Network Profiles": "Profile sieciowe",
     "RetroArch BIOS": "BIOS RetroArch",
@@ -297,12 +297,12 @@
     "Loading Theme": "Wczytywanie motywu",
     "No Themes Found": "Nie znaleziono motywów",
     "THEME PICKER": "WYBÓR MOTYWU",
-    "This theme has no attributed credits!": "This theme has no attributed credits!"
+    "This theme has no attributed credits!": "Ten motyw nie ma przypisanych autorów!"
   },
   "muxtimezone": {
     "No Timezones Found...": "Nie znaleziono stref czasowych…",
     "Saving Timezone": "Zapisywanie strefy czasowej",
-    "Select your preferred timezone.": "Select your preferred timezone.",
+    "Select your preferred timezone.": "Wybierz swoją preferowaną strefę czasową.",
     "TIMEZONE": "STREFA CZASOWA"
   },
   "muxtweakadv": {
@@ -310,7 +310,7 @@
     "Adjust the rate of speed when holding navigation keys down": "Dostosuj prędkość przy wciśnięciu przycisków nawigacyjnych",
     "Battery Offset": "Kompensacja baterii",
     "Brightness On Boot": "Jasność przy uruchomieniu",
-    "Button Swap": "Button Swap",
+    "Button Swap": "Zamiana przycisków",
     "Change how the device buttons work globally": "Zmień, jak globalnie działają przyciski urządzenia",
     "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font": "Zmień, jak działają czcionki interfejsu. 'Motyw' będzie używał czcionek motywu i w ostateczności czcionek języka. 'Język' będzie używał czcionki języka.",
     "Change the default audio level that the device will use each time it starts up": "Zmień domyślny poziom głośności przy uruchomieniu urządzenia.",
