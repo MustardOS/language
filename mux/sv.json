@@ -121,6 +121,9 @@
     "Loading Network Profiles...": "Laddar nätverksprofiler…",
     "NETWORK PROFILE": "NÄTVERKSPROFIL",
     "No Saved Network Profiles Found": "Inga sparade nätverksprofiler hittades",
+    "Password must be 8": {
+      "63 characters!": "Password must be 8..63 characters!"
+    },
     "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Växla snabbt mellan olika Wi-Fi-konfigurationer baserat på din plats eller dina nätverksinställningar."
   },
@@ -245,6 +248,7 @@
     "Change where muOS saves screenshots": "Ändra var muOS sparar skärmdumpar.",
     "Content Management": "Innehållshantering",
     "Languages": "Språk",
+    "Leave on AUTO to look on SD2 first and fall back to SD1": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "Metadata-katalog",
     "Network Profiles": "Nätverksprofiler",
@@ -302,6 +306,7 @@
   "muxtimezone": {
     "No Timezones Found...": "Inga tidszoner hittades…",
     "Saving Timezone": "Sparar tidszon",
+    "Select your preferred timezone": "Select your preferred timezone.",
     "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "TIDSZON"
   },
