@@ -17,6 +17,7 @@
     "Previous": "Prethodno",
     "Recursive": "Rekurzivno",
     "Remove": "Ukloni",
+    "Rescan": "Rescan",
     "Save": "Spremi",
     "Saving Changes": "Spremanje Promjena",
     "Select": "Odaberi",
@@ -35,7 +36,9 @@
     "No Applications Found": "Aplikacije Nisu Pronađene",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
+    "RGB Controller": "RGB Controller",
     "RetroArch": "RetroArch",
+    "ScummVM": "ScummVM",
     "Simple Terminal": "Jednostavni Terminal",
     "Task Toolkit": "Alati za Zadatak"
   },
@@ -113,9 +116,12 @@
     "Various information can be found and launched here": "Razne informacije se mogu pronaći i pokrenuti ovdje."
   },
   "muxnetprofile": {
+    "Invalid Network Settings": "Invalid Network Settings",
+    "Invalid SSID": "Invalid SSID",
     "Loading Network Profiles...": "Učitavanje Mrežnih Profila…",
     "NETWORK PROFILE": "MREŽNI PROFIL",
     "No Saved Network Profiles Found": "Spremljeni Mrežni Profili Nisu Pronađeni",
+    "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Brzo prebaci se između drugačijih Wi-Fi konfiguracija na temelju vaše lokacije ili mrežnih preferenca."
   },
   "muxnetscan": {
@@ -159,6 +165,7 @@
   },
   "muxoption": {
     "Assign Core": "Odredi Core",
+    "CONTENT OPTION": "CONTENT OPTION",
     "Set the CPU governor for the selected content or directory": "Odredi CPU upravitelja za izabrani sadržaj ili direktorij.",
     "Set the system core or external emulator for the selected content or directory": "Odredite core sistema ili vanjski emulator za izabrani sadržaj ili direktorij.",
     "System Governor": "Upravitelj Sustava"
@@ -178,7 +185,8 @@
     "HISTORY": "POVIJEST",
     "Info": "Info",
     "Loading...": "Učitavanje…",
-    "Refresh": "Osvježi"
+    "Refresh": "Osvježi",
+    "Removed from Favourites": "Removed from Favourites"
   },
   "muxpower": {
     "10m": "10m",
@@ -237,6 +245,7 @@
     "Change where muOS saves screenshots": "Promijeni gdje muOS sprema slike zaslona.",
     "Content Management": "Upravitelj Sadržaja",
     "Languages": "Jezici",
+    "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "Metadata Katalog",
     "Network Profiles": "Mrežni Profili",
     "RetroArch BIOS": "RetroArch BIOS",
@@ -287,11 +296,13 @@
   "muxtheme": {
     "Loading Theme": "Učitavanje Teme",
     "No Themes Found": "Teme Nisu Pronađene",
-    "THEME PICKER": "PICKER TEME"
+    "THEME PICKER": "PICKER TEME",
+    "This theme has no attributed credits!": "This theme has no attributed credits!"
   },
   "muxtimezone": {
     "No Timezones Found...": "Vremenske Zone Nisu Pronađene…",
     "Saving Timezone": "Spremanje Vremenske Zone",
+    "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "VREMENSKA ZONA"
   },
   "muxtweakadv": {
@@ -299,6 +310,7 @@
     "Adjust the rate of speed when holding navigation keys down": "Prilagodi brzinu listanja kada su pretisnute navigacijske tipke.",
     "Battery Offset": "Odstupak Baterije",
     "Brightness On Boot": "Svjetlina na Pokretanje",
+    "Button Swap": "Button Swap",
     "Change how the device buttons work globally": "Promijeni kako gumbi uređaja rade globalno.",
     "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font": "Promijeni kako vrsta fonta radi u sučelju. ‘Tema‘ će osigurati da sučelje koristi fontovi u temi s mogućnost vraćanja na jezične fontove. ‘Jezik‘ će specifično koristiti jezično temeljen font.",
     "Change the default audio level that the device will use each time it starts up": "Promijeni zadanu vrijednost audio glasnoće koji će uređaj koristiti svaki put kada se pokrene.",
@@ -315,9 +327,11 @@
     "Loud": "Glasno",
     "Low": "Nisko",
     "Menu Acceleration": "Menu Akceleracija",
+    "Modern": "Modern",
     "Passcode Lock": "Lozinka Brave",
     "Quiet": "Tiho",
     "Random Theme on Boot": "Random Tema na Pokretanju",
+    "Retro": "Retro",
     "RetroArch Network Wait": "RetroArch Mreža Čeka",
     "Shutdown": "Isključi",
     "Shutdown + Sleep": "Isključi + Spavanje",
@@ -383,6 +397,7 @@
     "Main Menu": "Main Menu",
     "Navigation Sound": "Zvuk Navigacije",
     "Neutral White (0)": "Neutralna Bijela(0)",
+    "Power Settings": "Power Settings",
     "Resume Game": "Nastavi Igru",
     "Settings that should only be changed by those who know what they are doing!": "Postavke koje smiju mijenjati samo oni koji znaju što rade!",
     "Settings to change the power features of the device": "Postavke za promjenu strujne značajke uređaja.",
@@ -401,23 +416,32 @@
   "muxvisual": {
     "Background Animation": "Pozadinska Animacija",
     "Battery": "Baterija",
+    "Behind": "Behind",
     "Bluetooth": "Bluetooth",
+    "Bottom Left": "Bottom Left",
+    "Bottom Middle": "Bottom Middle",
+    "Bottom Right": "Bottom Right",
+    "Center": "Center",
     "Change the display priority of the content images": "Promijeni prioritet prikaza za slike sadržaja.",
     "Change the screen alignment of the content images": "Promijeni poravnanje ekrana za slike sadržaja.",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Promijeni vršnu naslovnu oznaku u Istraži Sadržaj da prikaže trenutni uređaj za pohranu uz ime mape.",
     "Clock": "Sat",
     "Content Box Art": "Sadržaj Slike Kutije",
+    "Content Box Art Alignment": "Content Box Art Alignment",
     "Content Dash Replacement": "Sadržaj Zamjena Crtice",
     "Content Name Scheme": "Sadržaj Sheme Imenovanja",
     "Display Title Reformatting": "Prikaži Naslovno Reformatiranje",
     "Folder Item Count": "Broj Predmeta Mape",
     "Friendly Folder Names": "Prijateljski Nazivi Mapa",
+    "Front": "Front",
     "Full Name": "Cijelo Ime",
     "Fullscreen + Behind": "Fullscreen + Iza",
     "Fullscreen + Front": "Fullscreen + Ispred",
     "INTERFACE OPTIONS": "OPCIJE SUČELJA",
     "Menu Counter File": "Menu Brojač Datoteka",
     "Menu Counter Folder": "Menu Brojač Mapa",
+    "Middle Left": "Middle Left",
+    "Middle Right": "Middle Right",
     "Network": "Mreža",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Preuredi oznake od sadržaja da premjesti ‘The‘ oznaku prema ispred. Na primjer, ‘Batman and Robin, The‘ na ‘The Batman and Robin‘.",
     "Remove ( )": "Ukloni ( )",
@@ -434,7 +458,10 @@
     "Toggle the visibility of the bluetooth glyph": "Odredi vidljivost simbola za bluetooth.",
     "Toggle the visibility of the clock": "Odredi vidljivost sata.",
     "Toggle the visibility of the item count within folders in Explore Content": "Odredi vidljivost zbroj predmeta u mapama u Istraži Sadržaj.",
-    "Toggle the visibility of the network glyph": "Odredi vidljivost simbola za mrežu."
+    "Toggle the visibility of the network glyph": "Odredi vidljivost simbola za mrežu.",
+    "Top Left": "Top Left",
+    "Top Middle": "Top Middle",
+    "Top Right": "Top Right"
   },
   "muxwebserv": {
     "Network Time Sync": "Sinkronizacija Vremena Mrežom",
