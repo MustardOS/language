@@ -17,6 +17,7 @@
     "Previous": "Anterior",
     "Recursive": "Recursiu",
     "Remove": "Eliminar",
+    "Rescan": "Rescan",
     "Save": "Guardar",
     "Saving Changes": "Guardant els canvis",
     "Select": "Seleccionar",
@@ -35,7 +36,9 @@
     "No Applications Found": "No s'han trobat aplicacions",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
+    "RGB Controller": "RGB Controller",
     "RetroArch": "RetroArch",
+    "ScummVM": "ScummVM",
     "Simple Terminal": "Terminal simple",
     "Task Toolkit": "Eines per a tasques"
   },
@@ -113,9 +116,12 @@
     "Various information can be found and launched here": "Aquí es pot trobar informació diversa."
   },
   "muxnetprofile": {
+    "Invalid Network Settings": "Invalid Network Settings",
+    "Invalid SSID": "Invalid SSID",
     "Loading Network Profiles...": "Carregant perfils de xarxa...",
     "NETWORK PROFILE": "PERFIL DE XARXA",
     "No Saved Network Profiles Found": "No s'han trobat perfils de xarxa guardats",
+    "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Alterna ràpidament entre diferents configuracions Wi-Fi basat en la teva localització o preferències de xarxa."
   },
   "muxnetscan": {
@@ -159,6 +165,7 @@
   },
   "muxoption": {
     "Assign Core": "Assignar nucli",
+    "CONTENT OPTION": "CONTENT OPTION",
     "Set the CPU governor for the selected content or directory": "Assigna el governador de CPU pel contingut o directori seleccionat.",
     "Set the system core or external emulator for the selected content or directory": "Assigna el nucli de sistema o emulador extern pel contingut o directori seleccionat.",
     "System Governor": "Governador de sistema"
@@ -178,7 +185,8 @@
     "HISTORY": "HISTORIAL",
     "Info": "Informació",
     "Loading...": "Carregant…",
-    "Refresh": "Actualitzar"
+    "Refresh": "Actualitzar",
+    "Removed from Favourites": "Removed from Favourites"
   },
   "muxpower": {
     "10m": "10m",
@@ -237,6 +245,7 @@
     "Change where muOS saves screenshots": "Change where muOS saves screenshots",
     "Content Management": "Gestió de contingut",
     "Languages": "Idiomes",
+    "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "Catàleg de metadades",
     "Network Profiles": "Perfils de xarxa",
     "RetroArch BIOS": "BIOS de RetroArch",
@@ -287,11 +296,13 @@
   "muxtheme": {
     "Loading Theme": "Carregant tema",
     "No Themes Found": "No s'han trobat temes",
-    "THEME PICKER": "SELECTOR DE TEMES"
+    "THEME PICKER": "SELECTOR DE TEMES",
+    "This theme has no attributed credits!": "This theme has no attributed credits!"
   },
   "muxtimezone": {
     "No Timezones Found...": "No s'han trobat zones horàries...",
     "Saving Timezone": "Guardant zona horària",
+    "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "ZONA HORÀRIA"
   },
   "muxtweakadv": {
@@ -299,6 +310,7 @@
     "Adjust the rate of speed when holding navigation keys down": "Adjust the rate of speed when holding navigation keys down",
     "Battery Offset": "Compensació de la bateria",
     "Brightness On Boot": "Brillantor a l'arrencar",
+    "Button Swap": "Button Swap",
     "Change how the device buttons work globally": "Change how the device buttons work globally",
     "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font": "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font",
     "Change the default audio level that the device will use each time it starts up": "Change the default audio level that the device will use each time it starts up",
@@ -315,9 +327,11 @@
     "Loud": "Fort",
     "Low": "Fluix",
     "Menu Acceleration": "Acceleració del menú",
+    "Modern": "Modern",
     "Passcode Lock": "Bloqueg amb codi d'accés",
     "Quiet": "Silenciat",
     "Random Theme on Boot": "Tema aleatori a l'arrencar",
+    "Retro": "Retro",
     "RetroArch Network Wait": "RetroArch espera a connexió",
     "Shutdown": "Apagat",
     "Shutdown + Sleep": "Apagat + Suspensió",
@@ -383,6 +397,7 @@
     "Main Menu": "Menú principal",
     "Navigation Sound": "So de navegació",
     "Neutral White (0)": "Blanc neutre (0)",
+    "Power Settings": "Power Settings",
     "Resume Game": "Continuar joc",
     "Settings that should only be changed by those who know what they are doing!": "Settings that should only be changed by those who know what they are doing!",
     "Settings to change the power features of the device": "Settings to change the power features of the device",
@@ -401,23 +416,32 @@
   "muxvisual": {
     "Background Animation": "Animació de fons",
     "Battery": "Bateria",
+    "Behind": "Behind",
     "Bluetooth": "Bluetooth",
+    "Bottom Left": "Bottom Left",
+    "Bottom Middle": "Bottom Middle",
+    "Bottom Right": "Bottom Right",
+    "Center": "Center",
     "Change the display priority of the content images": "Change the display priority of the content images",
     "Change the screen alignment of the content images": "Change the screen alignment of the content images",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Changes the top title label in Explore Content to show current storage device along with folder name",
     "Clock": "Rellotge",
     "Content Box Art": "Art de la coberta del contingut",
+    "Content Box Art Alignment": "Content Box Art Alignment",
     "Content Dash Replacement": "Reemplaçament de guions en noms de contingut",
     "Content Name Scheme": "Esquema de noms de contingut",
     "Display Title Reformatting": "Reformatat del títol mostrat",
     "Folder Item Count": "Nombre d'elements a la carpeta",
     "Friendly Folder Names": "Noms de carpeta amigables",
+    "Front": "Front",
     "Full Name": "Nom complet",
     "Fullscreen + Behind": "Pantalla completa + Darrere",
     "Fullscreen + Front": "Pantalla completa + Davant",
     "INTERFACE OPTIONS": "OPCIONS DE INTERFÍCIE",
     "Menu Counter File": "Comptador d'elements a arxius del menú",
     "Menu Counter Folder": "Comptador d'elements a carpetes del menú",
+    "Middle Left": "Middle Left",
+    "Middle Right": "Middle Right",
     "Network": "Xarxa",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'",
     "Remove ( )": "Eliminar parèntesis ( )",
@@ -434,7 +458,10 @@
     "Toggle the visibility of the bluetooth glyph": "Toggle the visibility of the bluetooth glyph",
     "Toggle the visibility of the clock": "Toggle the visibility of the clock",
     "Toggle the visibility of the item count within folders in Explore Content": "Toggle the visibility of the item count within folders in Explore Content",
-    "Toggle the visibility of the network glyph": "Toggle the visibility of the network glyph"
+    "Toggle the visibility of the network glyph": "Toggle the visibility of the network glyph",
+    "Top Left": "Top Left",
+    "Top Middle": "Top Middle",
+    "Top Right": "Top Right"
   },
   "muxwebserv": {
     "Network Time Sync": "Sincronització de temps de xarxa",
