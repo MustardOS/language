@@ -121,6 +121,9 @@
     "Loading Network Profiles...": "Netwerkprofielen laden…",
     "NETWORK PROFILE": "NETWERKPROFIEL",
     "No Saved Network Profiles Found": "Geen netwerkprofiel gevonden",
+    "Password must be 8": {
+      "63 characters!": "Password must be 8..63 characters!"
+    },
     "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Quickly switch between different Wi-Fi configurations based on your location or network preferences"
   },
@@ -245,6 +248,7 @@
     "Change where muOS saves screenshots": "Change where muOS saves screenshots",
     "Content Management": "Mediabeheer",
     "Languages": "Talen",
+    "Leave on AUTO to look on SD2 first and fall back to SD1": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "Metadatacatalogus",
     "Network Profiles": "Netwerk Profielen",
@@ -302,6 +306,7 @@
   "muxtimezone": {
     "No Timezones Found...": "Geen tijdzones gevonden…",
     "Saving Timezone": "Tijdzone opslaan",
+    "Select your preferred timezone": "Select your preferred timezone.",
     "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "TIJDZONE"
   },
