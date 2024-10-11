@@ -17,6 +17,7 @@
     "Previous": "上一个",
     "Recursive": "包括子文件夹",
     "Remove": "删除",
+    "Rescan": "Rescan",
     "Save": "保存",
     "Saving Changes": "保存变更中",
     "Select": "选择",
@@ -35,7 +36,9 @@
     "No Applications Found": "找不到应用",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster 移植作品浏览器",
+    "RGB Controller": "RGB Controller",
     "RetroArch": "RetroArch 全能模拟器",
+    "ScummVM": "ScummVM",
     "Simple Terminal": "Simple Terminal 命令行终端",
     "Task Toolkit": "任务工具箱"
   },
@@ -113,9 +116,12 @@
     "Various information can be found and launched here": "查看各种设备信息。"
   },
   "muxnetprofile": {
+    "Invalid Network Settings": "Invalid Network Settings",
+    "Invalid SSID": "Invalid SSID",
     "Loading Network Profiles...": "加载网络配置文件中……",
     "NETWORK PROFILE": "网络配置文件",
     "No Saved Network Profiles Found": "找不到保存的网络配置文件",
+    "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "快速切换Wi-Fi配置，以适应机器所在的特定位置或联网状态。"
   },
   "muxnetscan": {
@@ -159,6 +165,7 @@
   },
   "muxoption": {
     "Assign Core": "分配核心",
+    "CONTENT OPTION": "CONTENT OPTION",
     "Set the CPU governor for the selected content or directory": "为选中的内容或文件夹设置CPU调速器。",
     "Set the system core or external emulator for the selected content or directory": "为选中的内容或文件夹分配RA模拟器核心或独立模拟器。",
     "System Governor": "系统调速器"
@@ -178,7 +185,8 @@
     "HISTORY": "历史",
     "Info": "信息",
     "Loading...": "加载中……",
-    "Refresh": "刷新"
+    "Refresh": "刷新",
+    "Removed from Favourites": "Removed from Favourites"
   },
   "muxpower": {
     "10m": "10分钟",
@@ -237,6 +245,7 @@
     "Change where muOS saves screenshots": "设置muOS加载截图的位置。",
     "Content Management": "内容管理",
     "Languages": "语言",
+    "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "元数据编集",
     "Network Profiles": "网络配置文件",
     "RetroArch BIOS": "RetroArch BIOS文件",
@@ -287,11 +296,13 @@
   "muxtheme": {
     "Loading Theme": "加载主题中",
     "No Themes Found": "找不到主题",
-    "THEME PICKER": "主题选择"
+    "THEME PICKER": "主题选择",
+    "This theme has no attributed credits!": "This theme has no attributed credits!"
   },
   "muxtimezone": {
     "No Timezones Found...": "找不到时区",
     "Saving Timezone": "保存时区中",
+    "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "时区"
   },
   "muxtweakadv": {
@@ -299,6 +310,7 @@
     "Adjust the rate of speed when holding navigation keys down": "调整按住导航按键时菜单滚动速度。",
     "Battery Offset": "电池容量计数偏移",
     "Brightness On Boot": "开机亮度",
+    "Button Swap": "Button Swap",
     "Change how the device buttons work globally": "切换系统按键操作特征。",
     "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font": "切换界面字体使用原则。“跟随主题”优先使用主题包含的字体，语言配置包含的字体备用。“跟随语言”优先使用语言配置包含的字体。",
     "Change the default audio level that the device will use each time it starts up": "设置开机时的默认音量大小。",
@@ -315,9 +327,11 @@
     "Loud": "响亮",
     "Low": "低",
     "Menu Acceleration": "菜单滚动延迟",
+    "Modern": "Modern",
     "Passcode Lock": "密码锁",
     "Quiet": "安静",
     "Random Theme on Boot": "开机时随机选择主题",
+    "Retro": "Retro",
     "RetroArch Network Wait": "RetroArch启动前等待联网",
     "Shutdown": "关机",
     "Shutdown + Sleep": "睡眠、关机",
@@ -383,6 +397,7 @@
     "Main Menu": "主菜单",
     "Navigation Sound": "导航音效",
     "Neutral White (0)": "自然泛白 (0)",
+    "Power Settings": "Power Settings",
     "Resume Game": "恢复游戏",
     "Settings that should only be changed by those who know what they are doing!": "需谨慎调节的设置！",
     "Settings to change the power features of the device": "对影响能耗的因素进行调节的设置。",
@@ -401,23 +416,32 @@
   "muxvisual": {
     "Background Animation": "背景动画",
     "Battery": "电池",
+    "Behind": "Behind",
     "Bluetooth": "蓝牙",
+    "Bottom Left": "Bottom Left",
+    "Bottom Middle": "Bottom Middle",
+    "Bottom Right": "Bottom Right",
+    "Center": "Center",
     "Change the display priority of the content images": "设置内容封面图显示优先级。",
     "Change the screen alignment of the content images": "设置内容封面图对齐设置。",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "设置内容浏览器顶栏是否显示存储设备。",
     "Clock": "时钟",
     "Content Box Art": "内容封面",
+    "Content Box Art Alignment": "Content Box Art Alignment",
     "Content Dash Replacement": "内容名称横杠替换",
     "Content Name Scheme": "内容名称格式",
     "Display Title Reformatting": "显示标题格式调整（英文）",
     "Folder Item Count": "文件夹内容计数",
     "Friendly Folder Names": "文件夹名称改全名",
+    "Front": "Front",
     "Full Name": "全名",
     "Fullscreen + Behind": "全屏 + 背面",
     "Fullscreen + Front": "全屏 + 正面",
     "INTERFACE OPTIONS": "界面选项",
     "Menu Counter File": "文件计数",
     "Menu Counter Folder": "文件夹计数",
+    "Middle Left": "Middle Left",
+    "Middle Right": "Middle Right",
     "Network": "网络",
     "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "（英文语境）将文件名的“..., The”格式调整为“The ...”格式。",
     "Remove ( )": "移除 ( )",
@@ -434,7 +458,10 @@
     "Toggle the visibility of the bluetooth glyph": "设置蓝牙图标可见性。",
     "Toggle the visibility of the clock": "设置时钟可见性。",
     "Toggle the visibility of the item count within folders in Explore Content": "设置是否显示内容浏览器单个文件夹下的内容数量。",
-    "Toggle the visibility of the network glyph": "设置网络图标可见性。"
+    "Toggle the visibility of the network glyph": "设置网络图标可见性。",
+    "Top Left": "Top Left",
+    "Top Middle": "Top Middle",
+    "Top Right": "Top Right"
   },
   "muxwebserv": {
     "Network Time Sync": "网络时间同步",
