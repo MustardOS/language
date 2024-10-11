@@ -121,6 +121,9 @@
     "Loading Network Profiles...": "Cargando perfiles de red…",
     "NETWORK PROFILE": "PERFIL DE RED",
     "No Saved Network Profiles Found": "No se encontraron perfiles de red guardados",
+    "Password must be 8": {
+      "63 characters!": "Password must be 8..63 characters!"
+    },
     "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Cambia rápidamente entre diferentes configuraciones de Wi-Fi según tu ubicación o preferencias de red."
   },
@@ -245,6 +248,7 @@
     "Change where muOS saves screenshots": "Cambia dónde muOS guarda las capturas de pantalla.",
     "Content Management": "Gestión de contenido",
     "Languages": "Idiomas",
+    "Leave on AUTO to look on SD2 first and fall back to SD1": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "Catálogo de metadatos",
     "Network Profiles": "Perfiles de red",
@@ -302,6 +306,7 @@
   "muxtimezone": {
     "No Timezones Found...": "No se encontraron zonas horarias…",
     "Saving Timezone": "Guardando zona horaria",
+    "Select your preferred timezone": "Select your preferred timezone.",
     "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "ZONA HORARIA"
   },
