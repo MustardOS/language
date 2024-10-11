@@ -121,6 +121,9 @@
     "Loading Network Profiles...": "네트워크 프로필 로드중…",
     "NETWORK PROFILE": "네트워크 프로필",
     "No Saved Network Profiles Found": "저장된 네트워크 프로필을 찾을 수 없음",
+    "Password must be 8": {
+      "63 characters!": "Password must be 8..63 characters!"
+    },
     "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "당신의 위치나 네트워크 선호에 따라 다른 Wi-Fi 구성을 빠르게 전환 가능."
   },
@@ -245,6 +248,7 @@
     "Change where muOS saves screenshots": "muOS가 스크린샷을 저장하는 위치를 변경.",
     "Content Management": "콘텐츠 관리",
     "Languages": "언어",
+    "Leave on AUTO to look on SD2 first and fall back to SD1": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Leave on AUTO to look on SD2 first and fall back to SD1.": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "메타데이터 카탈로그",
     "Network Profiles": "네트워크 프로필",
@@ -302,6 +306,7 @@
   "muxtimezone": {
     "No Timezones Found...": "타임존 발견되지 않음…",
     "Saving Timezone": "타임존 저장중",
+    "Select your preferred timezone": "Select your preferred timezone.",
     "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "타임존"
   },
