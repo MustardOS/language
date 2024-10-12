@@ -44,14 +44,14 @@
   },
   "muxarchive": {
     "ARCHIVE MANAGER": "ARQUIVOS DE INSTALAÇÃO",
-    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Archive items can be found and installed here - Save games and states, updates, themes etc",
+    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Itens de Arquivo podem ser encontrados e instalados aqui - Saves e estados de jogos, atualizações, temas, etc",
     "INSTALLED": "INSTALADO",
     "No Archives Found": "Nenhum Arquivo de Instalação Encontrado"
   },
   "muxassign": {
     "ASSIGN": "ASSOCIAR",
     "No Cores Found...": "Nenhum Núcleo Encontrado...",
-    "This is where you can assign a core or external emulator to content": "This is where you can assign a core or external emulator to content"
+    "This is where you can assign a core or external emulator to content": "Aqui você pode atribuir um core ou emulador externo ao conteúdo"
   },
   "muxcharge": {
     "Booting System - Please Wait...": "Iniciando Sistema - Por Favor Aguarde…",
@@ -61,59 +61,59 @@
   },
   "muxconfig": {
     "CONFIGURATION": "CONFIGURAÇÕES",
-    "Change your current date, time, and timezone": "Change your current date, time, and timezone",
-    "Connect to a Wi-Fi network manually or via a saved profile": "Connect to a Wi-Fi network manually or via a saved profile",
+    "Change your current date, time, and timezone": "Alterar data, hora e fuso horário atuais",
+    "Connect to a Wi-Fi network manually or via a saved profile": "Conectar-se a uma rede Wi-Fi manualmente ou através de um perfil salvo",
     "Date and Time": "Data e Hora",
-    "Device specific and muOS frontend settings can be found here": "Device specific and muOS frontend settings can be found here",
+    "Device specific and muOS frontend settings can be found here": "As configurações específicas do dispositivo e do frontend muOS podem ser encontradas aqui",
     "General Settings": "Configurações Gerais",
     "Language": "Idioma",
-    "Select a muOS supported theme": "Select a muOS supported theme",
-    "Select your preferred language": "Select your preferred language",
+    "Select a muOS supported theme": "Selecione um tema compatível com muOS",
+    "Select your preferred language": "Selecione seu idioma preferido",
     "Theme Picker": "Selecionar Tema",
-    "Toggle a range of configurable services you can access via an active network": "Toggle a range of configurable services you can access via an active network",
+    "Toggle a range of configurable services you can access via an active network": "Alterne vários serviços configuráveis que você acessa pela rede",
     "Web Services": "Serviços Web",
     "Wi-Fi Network": "Rede Wi-Fi"
   },
   "muxgov": {
-    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance",
+    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configure os modos da CPU para ajustar a frequência e equilibrar energia e desempenho",
     "GOVERNOR": "GOVERNOR",
     "No Governors Found...": "Nenhum governador encontrado…"
   },
   "muxinfo": {
-    "Access statistics of played content and other activity": "Access statistics of played content and other activity",
-    "Access version information and system details": "Access version information and system details",
+    "Access statistics of played content and other activity": "Acesse estatísticas de conteúdo reproduzido e outras atividades",
+    "Access version information and system details": "Acesse informações sobre versão e detalhes do sistema",
     "Activity Tracker": "Registro de Atividade",
     "INFORMATION": "INFORMAÇÕES",
     "Input Tester": "Teste de Botões",
     "Supporters": "Apoiadores",
     "System Details": "Detalhes do Sistema",
-    "Test the controls of the device": "Test the controls of the device",
-    "View all of the current muOS supporters": "View all of the current muOS supporters"
+    "Test the controls of the device": "Teste os controles do dispositivo",
+    "View all of the current muOS supporters": "Veja todos os atuais apoiadores do muOS"
   },
   "muxlanguage": {
     "LANGUAGES": "IDIOMAS",
     "No Languages Found...": "Nenhum Idioma Encontrado...",
     "Saving Language": "Salvando Idioma",
-    "Select your preferred language": "Select your preferred language"
+    "Select your preferred language": "Selecione seu idioma preferido"
   },
   "muxlaunch": {
     "Applications": "Aplicativos",
     "Configuration": "Configurações",
-    "Content marked as favourite can be found and launched here": "Content marked as favourite can be found and launched here",
-    "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Content on storage devices (SD1/SD2/USB) can be found and launched here",
-    "Content previously launched can be found and launched here": "Content previously launched can be found and launched here",
+    "Content marked as favourite can be found and launched here": "Conteúdos marcados como favoritos, podem ser encontrados e iniciados aqui",
+    "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Aqui você pode acessar e rodar conteúdos dos dispositivos de armazenamento (SD1/SD2/USB)",
+    "Content previously launched can be found and launched here": "Conteúdo aberto anteriormente pode ser encontrado e aberto aqui",
     "Explore Content": "Explorar Conteúdo",
     "Favourites": "Favoritos",
     "History": "Histórico",
     "Information": "Informações",
     "MAIN MENU": "MENU PRINCIPAL",
     "Reboot": "Reiniciar",
-    "Reboot your device safely": "Reboot your device safely",
-    "Shut down your device safely": "Shut down your device safely",
+    "Reboot your device safely": "Reinicie seu dispositivo com segurança",
+    "Shut down your device safely": "Desligue seu dispositivo com segurança",
     "Shutdown": "Desligar",
-    "Various applications can be found and launched here": "Various applications can be found and launched here",
-    "Various configurations can be changed here": "Various configurations can be changed here",
-    "Various information can be found and launched here": "Various information can be found and launched here"
+    "Various applications can be found and launched here": "Vários aplicativos podem ser encontrados e iniciados aqui",
+    "Various configurations can be changed here": "Várias configurações podem ser alteradas aqui",
+    "Various information can be found and launched here": "Várias informações podem ser encontradas e iniciadas aqui"
   },
   "muxnetprofile": {
     "Invalid Network Settings": "Configuração de Rede Inválida",
@@ -125,10 +125,10 @@
       "63 characters!": "A senha deve ter de 8 a 63 caracteres!"
     },
     "Password must be 8..63 characters!": "A senha deve ter de 8 a 63 caracteres!",
-    "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Quickly switch between different Wi-Fi configurations based on your location or network preferences"
+    "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Alterne rapidamente entre diferentes configurações de Wi-Fi com base em sua localização ou preferências de rede"
   },
   "muxnetscan": {
-    "Detect, display and connect to available Wi-Fi networks": "Detect, display and connect to available Wi-Fi networks",
+    "Detect, display and connect to available Wi-Fi networks": "Detecte, exiba e conecte-se a redes Wi-Fi disponíveis",
     "NETWORK SCAN": "PROCURAR REDE",
     "No Wi-Fi Networks Found": "Nenhuma Rede Wi-Fi Encontrada",
     "Scanning for Wi-Fi Networks...": "Procurando Redes Wi-Fi..."
@@ -137,7 +137,7 @@
     "Cannot modify while connected!": "Não é possível modificar enquanto conectado!",
     "Changes Saved": "Alterações Salvas",
     "Connect": "Conectar",
-    "Connect to the network using options entered above": "Connect to the network using options entered above",
+    "Connect to the network using options entered above": "Conecte-se à rede usando as opções inseridas acima",
     "Connected": "Conectado",
     "DHCP": "DHCP",
     "DNS Server": "Servidor DNS",
