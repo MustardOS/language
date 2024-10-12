@@ -6,7 +6,7 @@
     "Enabled": "Włączony",
     "External": "Zewnętrzny",
     "Extract": "Wypakuj",
-    "False": "Fałsz",
+    "False": "Nie",
     "Hidden": "Ukryty",
     "Individual": "Pojedynczy",
     "Internal": "Wewnętrzny",
@@ -21,7 +21,7 @@
     "Save": "Zapisz",
     "Saving Changes": "Zapisywanie zmian",
     "Select": "Wybierz",
-    "True": "Prawda",
+    "True": "Tak",
     "Use": "Użyj",
     "Visible": "Widoczny"
   },
