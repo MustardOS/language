@@ -17,7 +17,7 @@
     "Previous": "Prethodno",
     "Recursive": "Rekurzivno",
     "Remove": "Ukloni",
-    "Rescan": "Rescan",
+    "Rescan": "Ponovno skeniraj",
     "Save": "Spremi",
     "Saving Changes": "Spremanje Promjena",
     "Select": "Odaberi",
@@ -36,7 +36,7 @@
     "No Applications Found": "Aplikacije Nisu Pronađene",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
-    "RGB Controller": "RGB Controller",
+    "RGB Controller": "RGB Kontroler",
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Simple Terminal": "Jednostavni Terminal",
@@ -44,43 +44,43 @@
   },
   "muxarchive": {
     "ARCHIVE MANAGER": "UPRAVITELJ ARHIVA",
-    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Arhivani predmetu se nalazu i instaliraju ovdje - Save igre i stanja, ažuriranja, teme itd.",
+    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Arhivani predmetu se nalazu i instaliraju ovdje - Save igre i stanja, ažuriranja, teme itd",
     "INSTALLED": "INSTALIRANO",
     "No Archives Found": "Arhive Nisu Pronađene"
   },
   "muxassign": {
     "ASSIGN": "ODREDI",
-    "No Cores Found...": "Nisu Pronađeni Cores…",
-    "This is where you can assign a core or external emulator to content": "Ovdje može se odrediti core ili vanjski emulator za sadržaj."
+    "No Cores Found...": "Nisu Pronađeni Cores...",
+    "This is where you can assign a core or external emulator to content": "Ovdje može se odrediti core ili vanjski emulator za sadržaj"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "Pokretanje Sistema - Molimo Pričekajte…",
+    "Booting System - Please Wait...": "Pokretanje Sistema - Molimo Pričekajte...",
     "Capacity": "Kapacitet",
-    "Press POWER button to continue booting...": "Pritisni gumb za napajanje da nastavite pokretanje…",
+    "Press POWER button to continue booting...": "Pritisni gumb za napajanje da nastavite pokretanje...",
     "Voltage": "Voltaža"
   },
   "muxconfig": {
     "CONFIGURATION": "KONFIGURACIJA",
-    "Change your current date, time, and timezone": "Promijeni trenutačni datum, vrijeme i vremensku zonu.",
-    "Connect to a Wi-Fi network manually or via a saved profile": "Spoji se na Wi-Fi mrežu ručno ili preko spremljenog profila.",
+    "Change your current date, time, and timezone": "Promijeni trenutačni datum, vrijeme i vremensku zonu",
+    "Connect to a Wi-Fi network manually or via a saved profile": "Spoji se na Wi-Fi mrežu ručno ili preko spremljenog profila",
     "Date and Time": "Datum i Vrijeme",
-    "Device specific and muOS frontend settings can be found here": "Specifično za uređaj i muOS sučeljne postavkese nalaze ovdje.",
+    "Device specific and muOS frontend settings can be found here": "Specifično za uređaj i muOS sučeljne postavkese nalaze ovdje",
     "General Settings": "Opće Postavke",
     "Language": "Jezik",
-    "Select a muOS supported theme": "Odaberi muOS podržanu temu.",
-    "Select your preferred language": "Odaberi svoj preferiran jezik.",
+    "Select a muOS supported theme": "Odaberi muOS podržanu temu",
+    "Select your preferred language": "Odaberi svoj preferiran jezik",
     "Theme Picker": "Picker Teme",
-    "Toggle a range of configurable services you can access via an active network": "Odaberi niz od konfigurabilne servise koje možete pristupiti s aktivnom mrežom.",
+    "Toggle a range of configurable services you can access via an active network": "Odaberi niz od konfigurabilne servise koje možete pristupiti s aktivnom mrežom",
     "Web Services": "Web Usluge",
     "Wi-Fi Network": "Wi-Fi Mreža"
   },
   "muxgov": {
-    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Konfiguriraj CPU upravitelje da dinamično prilagodi CPU frekvenciju da pomaže balancirati učinkovitost baterije i performanse.",
+    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Konfiguriraj CPU upravitelje da dinamično prilagodi CPU frekvenciju da pomaže balancirati učinkovitost baterije i performanse",
     "GOVERNOR": "UPRAVITELJ",
-    "No Governors Found...": "Upravitelji Nisu Pronađeni…"
+    "No Governors Found...": "Upravitelji Nisu Pronađeni..."
   },
   "muxinfo": {
-    "Access statistics of played content and other activity": "Pristupi statistice igranog sadržaja i drugih aktivnosti.",
+    "Access statistics of played content and other activity": "Pristupi statistice igranog sadržaja i drugih aktivnosti",
     "Access version information and system details": "Pristupite informacije o verziji i detalje o sistemu.",
     "Activity Tracker": "Tracker Aktivnosti",
     "INFORMATION": "INFORMACIJE",
@@ -116,13 +116,13 @@
     "Various information can be found and launched here": "Razne informacije se mogu pronaći i pokrenuti ovdje."
   },
   "muxnetprofile": {
-    "Invalid Network Settings": "Invalid Network Settings",
-    "Invalid SSID": "Invalid SSID",
+    "Invalid Network Settings": "Nevaljne Postavje za Mrežu",
+    "Invalid SSID": "Nevaljan SSID",
     "Loading Network Profiles...": "Učitavanje Mrežnih Profila…",
     "NETWORK PROFILE": "MREŽNI PROFIL",
     "No Saved Network Profiles Found": "Spremljeni Mrežni Profili Nisu Pronađeni",
     "Password must be 8": {
-      "63 characters!": "Password must be 8..63 characters!"
+      "63 characters!": "Lozinka mora biti 8..63 slova!"
     },
     "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Brzo prebaci se između drugačijih Wi-Fi konfiguracija na temelju vaše lokacije ili mrežnih preferenca."
