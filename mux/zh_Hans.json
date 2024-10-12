@@ -421,7 +421,7 @@
   "muxvisual": {
     "Background Animation": "背景动画",
     "Battery": "电池",
-    "Behind": "列表下层",
+    "Behind": "背面",
     "Bluetooth": "蓝牙",
     "Bottom Left": "左下",
     "Bottom Middle": "正下",
@@ -438,7 +438,7 @@
     "Display Title Reformatting": "显示标题格式调整（英文）",
     "Folder Item Count": "文件夹内容计数",
     "Friendly Folder Names": "文件夹名称改全名",
-    "Front": "列表上层",
+    "Front": "正面",
     "Full Name": "全名",
     "Fullscreen + Behind": "全屏 + 背面",
     "Fullscreen + Front": "全屏 + 正面",
