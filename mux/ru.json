@@ -40,7 +40,7 @@
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Simple Terminal": "Терминал",
-    "Task Toolkit": "Заметки"
+    "Task Toolkit": "Набор инструментов"
   },
   "muxarchive": {
     "ARCHIVE MANAGER": "МЕНЕДЖЕР АРХИВОВ",
@@ -290,7 +290,7 @@
   },
   "muxtask": {
     "No Tasks Found": "Заметки не найдены",
-    "TASK TOOLKIT": "ЗАМЕТКИ"
+    "TASK TOOLKIT": "НАБОР ИНСТРУМЕНТОВ"
   },
   "muxtester": {
     "INPUT TESTER": "ПРОВЕРКА КНОПОК",
