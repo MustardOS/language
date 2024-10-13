@@ -50,13 +50,13 @@
   },
   "muxassign": {
     "ASSIGN": "ODREDI",
-    "No Cores Found...": "Nisu Pronađeni Cores...",
+    "No Cores Found...": "Nisu Pronađeni Cores…",
     "This is where you can assign a core or external emulator to content": "Ovdje može se odrediti core ili vanjski emulator za sadržaj"
   },
   "muxcharge": {
     "Booting System - Please Wait...": "Pokretanje Sistema - Molimo Pričekajte...",
     "Capacity": "Kapacitet",
-    "Press POWER button to continue booting...": "Pritisni gumb za napajanje da nastavite pokretanje...",
+    "Press POWER button to continue booting...": "Pritisni gumb za napajanje da nastavite pokretanje…",
     "Voltage": "Voltaža"
   },
   "muxconfig": {
@@ -77,7 +77,7 @@
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Konfiguriraj CPU upravitelje da dinamično prilagodi CPU frekvenciju da pomaže balancirati učinkovitost baterije i performanse",
     "GOVERNOR": "UPRAVITELJ",
-    "No Governors Found...": "Upravitelji Nisu Pronađeni..."
+    "No Governors Found...": "Upravitelji Nisu Pronađeni…"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Pristupi statistice igranog sadržaja i drugih aktivnosti",
@@ -92,7 +92,7 @@
   },
   "muxlanguage": {
     "LANGUAGES": "JEZICI",
-    "No Languages Found...": "Jezici Nisu Pronađeni...",
+    "No Languages Found...": "Jezici Nisu Pronađeni…",
     "Saving Language": "Spremanje Jezika",
     "Select your preferred language": "Odaberi svoj preferirani jezik"
   },
@@ -118,7 +118,7 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Nevaljne Postavje za Mrežu",
     "Invalid SSID": "Nevaljan SSID",
-    "Loading Network Profiles...": "Učitavanje Mrežnih Profila...",
+    "Loading Network Profiles...": "Učitavanje Mrežnih Profila…",
     "NETWORK PROFILE": "MREŽNI PROFIL",
     "No Saved Network Profiles Found": "Spremljeni Mrežni Profili Nisu Pronađeni",
     "Password must be 8": {
@@ -131,7 +131,7 @@
     "Detect, display and connect to available Wi-Fi networks": "Detektiraj, prikaži i spoji se slobodnim Wi-Fi mrežama",
     "NETWORK SCAN": "SKENIRANJE MREŽE",
     "No Wi-Fi Networks Found": "Wi-Fi Mreže Nisu Pronađene",
-    "Scanning for Wi-Fi Networks...": "Skeniranje za Wi-Fi Mreže..."
+    "Scanning for Wi-Fi Networks...": "Skeniranje za Wi-Fi Mreže…"
   },
   "muxnetwork": {
     "Cannot modify while connected!": "Nije moguće mijenjati dok ste povezani!",
@@ -143,7 +143,7 @@
     "DNS Server": "DNS Server",
     "Device IP": "Uređaj IP",
     "Disconnect": "Odspoji",
-    "Encrypting Password...": "Šifriranje lozinke...",
+    "Encrypting Password...": "Šifriranje lozinke…",
     "Enter the device IP address here (Static only)": "Upiši IP adresu uređaja ovdje (samo statično)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Upišite Podmrežu (CIDR) uređaja ovdje (samo statično)",
     "Enter the network gateway address here (Static only)": "Upiši mrežni gateway adresu ovdje (samo statično)",
@@ -163,7 +163,7 @@
     "Subnet CIDR": "Podmreža CIDR",
     "Toggle between DHCP and Static network types": "Odaberi između DHCP i Statičnih vrsta mreža",
     "Toggle the Wi-Fi network on and off": "Odaberi Wi-Fi mrežu uključenu ili isključenu",
-    "Trying to Connect...": "Pokušaj za povezivanje...",
+    "Trying to Connect...": "Pokušaj za povezivanje…",
     "WI-FI NETWORK": "WI-FI MREŽA"
   },
   "muxoption": {
@@ -187,7 +187,7 @@
     "Favourite": "Favouriti",
     "HISTORY": "POVIJEST",
     "Info": "Info",
-    "Loading...": "Učitavanje...",
+    "Loading...": "Učitavanje…",
     "Refresh": "Osvježi",
     "Removed from Favourites": "Uklonjeno s Favorita"
   },
@@ -304,7 +304,7 @@
     "This theme has no attributed credits!": "Ova tema nema prepisanih kredita!"
   },
   "muxtimezone": {
-    "No Timezones Found...": "Vremenske Zone Nisu Pronađene...",
+    "No Timezones Found...": "Vremenske Zone Nisu Pronađene…",
     "Saving Timezone": "Spremanje Vremenske Zone",
     "Select your preferred timezone": "Odaberi svoju preferiranu vremensku zonu.",
     "Select your preferred timezone.": "Odaberi svoju preferiranu vremensku zonu.",
