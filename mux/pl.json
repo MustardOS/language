@@ -50,13 +50,13 @@
   },
   "muxassign": {
     "ASSIGN": "PRZYPISZ",
-    "No Cores Found...": "Nie znaleziono rdzeni...",
+    "No Cores Found...": "Nie znaleziono rdzeni…",
     "This is where you can assign a core or external emulator to content": "Tutaj możesz przypisać rdzeń lub zewnętrzny emulator do zawartości"
   },
   "muxcharge": {
     "Booting System - Please Wait...": "Uruchamianie systemu - Proszę czekać...",
     "Capacity": "Pojemność",
-    "Press POWER button to continue booting...": "Wciśnij POWER, aby kontynuować uruchamianie...",
+    "Press POWER button to continue booting...": "Wciśnij POWER, aby kontynuować uruchamianie…",
     "Voltage": "Napięcie"
   },
   "muxconfig": {
@@ -77,7 +77,7 @@
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Skonfiguruj regulatory CPU, aby dynamicznie dostosować częstotliwość CPU i pomóc zrównoważyć zużycie energii i wydajność",
     "GOVERNOR": "REGULATOR",
-    "No Governors Found...": "Nie znaleziono regulatorów..."
+    "No Governors Found...": "Nie znaleziono regulatorów…"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Zobacz statystyki zawartości i innych aktywności",
@@ -92,7 +92,7 @@
   },
   "muxlanguage": {
     "LANGUAGES": "JĘZYKI",
-    "No Languages Found...": "Nie znaleziono języków...",
+    "No Languages Found...": "Nie znaleziono języków…",
     "Saving Language": "Zapisywanie języka",
     "Select your preferred language": "Wybierz swój preferowany język"
   },
@@ -118,7 +118,7 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Niepoprawne ustawienia sieciowe",
     "Invalid SSID": "Niepoprawne SSID",
-    "Loading Network Profiles...": "Ładowanie profili sieciowych...",
+    "Loading Network Profiles...": "Ładowanie profili sieciowych…",
     "NETWORK PROFILE": "PROFIL SIECIOWY",
     "No Saved Network Profiles Found": "Nie znaleziono zapisanych profilów sieciowych",
     "Password must be 8": {
@@ -131,7 +131,7 @@
     "Detect, display and connect to available Wi-Fi networks": "Wyszukaj, wyświetl i połącz się z dostępnymi sieciami Wi-Fi",
     "NETWORK SCAN": "SKANOWANIE SIECI",
     "No Wi-Fi Networks Found": "Nie znaleziono sieci Wi-Fi",
-    "Scanning for Wi-Fi Networks...": "Skanowanie sieci Wi-Fi..."
+    "Scanning for Wi-Fi Networks...": "Skanowanie sieci Wi-Fi…"
   },
   "muxnetwork": {
     "Cannot modify while connected!": "Nie można zmodyfikować będąc połączonym!",
@@ -143,7 +143,7 @@
     "DNS Server": "Serwer DNS",
     "Device IP": "IP urządzenia",
     "Disconnect": "Rozłącz",
-    "Encrypting Password...": "Szyfrowanie hasła...",
+    "Encrypting Password...": "Szyfrowanie hasła…",
     "Enter the device IP address here (Static only)": "Wpisz adres IP urządzenia (Tylko statyczne)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Wpisz numer podsieci urządzenia(CIDR) (Tylko statyczne)",
     "Enter the network gateway address here (Static only)": "Wpisz adres bramy sieciowej (Tylko statyczne)",
@@ -163,7 +163,7 @@
     "Subnet CIDR": "CIDR podsieci",
     "Toggle between DHCP and Static network types": "Wybierz między DHCP, a statycznym typem sieci",
     "Toggle the Wi-Fi network on and off": "Włącz lub wyłącz sieć Wi-Fi",
-    "Trying to Connect...": "Próba połączenia...",
+    "Trying to Connect...": "Próba połączenia…",
     "WI-FI NETWORK": "SIEĆ WI-FI"
   },
   "muxoption": {
@@ -187,7 +187,7 @@
     "Favourite": "Do ulubionych",
     "HISTORY": "HISTORIA",
     "Info": "Info",
-    "Loading...": "Wczytywanie...",
+    "Loading...": "Wczytywanie…",
     "Refresh": "Odśwież",
     "Removed from Favourites": "Usunięto z ulubionych"
   },
@@ -304,7 +304,7 @@
     "This theme has no attributed credits!": "Ten motyw nie ma przypisanych autorów!"
   },
   "muxtimezone": {
-    "No Timezones Found...": "Nie znaleziono stref czasowych...",
+    "No Timezones Found...": "Nie znaleziono stref czasowych…",
     "Saving Timezone": "Zapisywanie strefy czasowej",
     "Select your preferred timezone": "Wybierz swoją preferowaną strefę czasową.",
     "Select your preferred timezone.": "Wybierz swoją preferowaną strefę czasową.",
@@ -345,7 +345,7 @@
     "Startup + Shutdown": "Uruchomienie + Zamknięcie",
     "Startup + Sleep": "Uruchomienie + Uśpienie",
     "Storage Preference": "Preferencje przechowywania",
-    "Suspend Power State": "Wstrzymanie stanu baterii",
+    "Suspend Power State": "Typ trybu wstrzymania",
     "Switch between device speaker or external monitor audio via HDMI connection": "Wybierz między głośnikiem urządzenia, a dźwiękiem zewnętrznego ekranu po HDMI",
     "Switch between system sleep suspend states": "Wybierz tryb uśpienia systemu",
     "Theme": "Motyw",
