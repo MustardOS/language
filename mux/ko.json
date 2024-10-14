@@ -9,11 +9,11 @@
     "False": "아니오",
     "Hidden": "숨기기",
     "Individual": "개별",
-    "Info": "Info",
+    "Info": "상세",
     "Internal": "내부",
     "Launch": "실행",
     "Load": "로드",
-    "No Content Found...": "No Content Found...",
+    "No Content Found...": "콘텐츠가 없음…",
     "No Help Information Found": "도움말 정보가 없음",
     "Open": "열기",
     "Previous": "이전 상태",
@@ -23,8 +23,8 @@
     "Save": "저장",
     "Saving Changes": "변경 저장중",
     "Select": "선택",
-    "Switch to Information": "Switch to Information",
-    "Switch to Preview Image": "Switch to Preview Image",
+    "Switch to Information": "게임정보로 변경",
+    "Switch to Preview Image": "프리뷰 이미지로 변경",
     "True": "예",
     "Use": "사용",
     "Visible": "보이기"
@@ -54,13 +54,13 @@
   },
   "muxassign": {
     "ASSIGN": "할당",
-    "No Cores Found...": "코어 없음...",
+    "No Cores Found...": "코어 없음…",
     "This is where you can assign a core or external emulator to content": "여기서 코어 또는 외부 에뮬레이터를 콘텐츠에 할당함"
   },
   "muxcharge": {
     "Booting System - Please Wait...": "시스템 부팅중 - 기다려주세요...",
     "Capacity": "배터리 용량",
-    "Press POWER button to continue booting...": "부팅을 계속하려면 전원 버튼을 누르세요...",
+    "Press POWER button to continue booting...": "부팅을 계속하려면 전원 버튼을 누르세요…",
     "Voltage": "배터리 전압"
   },
   "muxconfig": {
@@ -81,7 +81,7 @@
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU 주파수를 동적으로 조정하고 전력 소비와 성능의 균형을 유지하도록 CPU 거버너를 구성",
     "GOVERNOR": "거버너",
-    "No Governors Found...": "거버너가 없음..."
+    "No Governors Found...": "거버너가 없음…"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "플레이한 콘텐츠 및 기타 활동 통계에 액세스",
@@ -96,7 +96,7 @@
   },
   "muxlanguage": {
     "LANGUAGES": "언어",
-    "No Languages Found...": "언어 설정 없음...",
+    "No Languages Found...": "언어 설정 없음…",
     "Saving Language": "언어 저장중",
     "Select your preferred language": "선호하는 언어를 선택"
   },
@@ -122,7 +122,7 @@
   "muxnetprofile": {
     "Invalid Network Settings": "잘못된 네트워크 설정",
     "Invalid SSID": "잘못된 SSID",
-    "Loading Network Profiles...": "네트워크 프로필 로드중...",
+    "Loading Network Profiles...": "네트워크 프로필 로드중…",
     "NETWORK PROFILE": "네트워크 프로필",
     "No Saved Network Profiles Found": "저장된 네트워크 프로필을 찾을 수 없음",
     "Password must be 8": {
@@ -135,7 +135,7 @@
     "Detect, display and connect to available Wi-Fi networks": "사용 가능한 Wi-Fi 네트워크를 감지, 표시 및 연결",
     "NETWORK SCAN": "네트워크 스캔",
     "No Wi-Fi Networks Found": "Wi-Fi 네트워크를 찾을 수 없음",
-    "Scanning for Wi-Fi Networks...": "Wi-Fi 네트워크 스캔 중..."
+    "Scanning for Wi-Fi Networks...": "Wi-Fi 네트워크 스캔 중…"
   },
   "muxnetwork": {
     "Cannot modify while connected!": "연결된 상태에서는 변경이 불가!",
@@ -147,7 +147,7 @@
     "DNS Server": "DNS 서버",
     "Device IP": "장치 IP",
     "Disconnect": "연결 해제",
-    "Encrypting Password...": "비밀번호 암호화중...",
+    "Encrypting Password...": "비밀번호 암호화중…",
     "Enter the device IP address here (Static only)": "여기에 장치 IP 주소를 입력 (Static 전용)",
     "Enter the device Subnet (CIDR) number here (Static only)": "여기에 장치 서브넷(CIDR) 번호를 입력하세요 (Static 전용)",
     "Enter the network gateway address here (Static only)": "여기에 네트워크 게이트웨이 주소를 입력 (Static 전용)",
@@ -167,7 +167,7 @@
     "Subnet CIDR": "서브넷 CIDR",
     "Toggle between DHCP and Static network types": "DHCP와 Static 네트워크 유형 간 전환",
     "Toggle the Wi-Fi network on and off": "Wi-Fi 네트워크를 켜고 끕니다",
-    "Trying to Connect...": "연결 시도중...",
+    "Trying to Connect...": "연결 시도중…",
     "WI-FI NETWORK": "WI-FI 네트워크"
   },
   "muxoption": {
@@ -191,7 +191,7 @@
     "Favourite": "즐겨찾기",
     "HISTORY": "최근 실행",
     "Info": "상세",
-    "Loading...": "로드 중...",
+    "Loading...": "로드 중…",
     "Refresh": "새로고침",
     "Removed from Favourites": "즐겨찾기에서 제거됨"
   },
@@ -252,7 +252,7 @@
     "Change where muOS saves screenshots": "muOS가 스크린샷을 저장하는 위치를 변경",
     "Content Management": "콘텐츠 관리",
     "Languages": "언어",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "자동 으로 설정하면 SD2를 먼저 찾고 다음으로 SD1을 찾음.",
+    "Leave on AUTO to look on SD2 first and fall back to SD1": "자동 으로 설정하면 SD2를 먼저 찾고 다음으로 SD1을 찾음",
     "Metadata Catalogue": "메타데이터 카탈로그",
     "Network Profiles": "네트워크 프로필",
     "RetroArch BIOS": "레트로아크 바이오스",
@@ -307,7 +307,7 @@
     "This theme has no attributed credits!": "이 테마에는 기여 크레딧이 없습니다!"
   },
   "muxtimezone": {
-    "No Timezones Found...": "타임존 발견되지 않음...",
+    "No Timezones Found...": "타임존 발견되지 않음…",
     "Saving Timezone": "타임존 저장중",
     "Select your preferred timezone": "선호하는 타임존을 선택.",
     "Select your preferred timezone.": "선호하는 타임존을 선택.",
