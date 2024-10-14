@@ -253,7 +253,6 @@
     "Content Management": "内容管理",
     "Languages": "语言",
     "Leave on AUTO to look on SD2 first and fall back to SD1": "设置为自动，则优先从SD2加载，失败则返回SD1加载。",
-    "Leave on AUTO to look on SD2 first and fall back to SD1.": "设置为自动，则优先从SD2加载，失败则返回SD1加载。",
     "Metadata Catalogue": "元数据编集",
     "Network Profiles": "网络配置文件",
     "RetroArch BIOS": "RetroArch BIOS文件",
