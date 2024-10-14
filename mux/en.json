@@ -9,9 +9,11 @@
     "False": "False",
     "Hidden": "Hidden",
     "Individual": "Individual",
+    "Info": "Info",
     "Internal": "Internal",
     "Launch": "Launch",
     "Load": "Load",
+    "No Content Found...": "No Content Found...",
     "No Help Information Found": "No Help Information Found",
     "Open": "Open",
     "Previous": "Previous",
@@ -21,6 +23,8 @@
     "Save": "Save",
     "Saving Changes": "Saving Changes",
     "Select": "Select",
+    "Switch to Information": "Switch to Information",
+    "Switch to Preview Image": "Switch to Preview Image",
     "True": "True",
     "Use": "Use",
     "Visible": "Visible"
@@ -50,13 +54,13 @@
   },
   "muxassign": {
     "ASSIGN": "ASSIGN",
-    "No Cores Found...": "No Cores Found…",
+    "No Cores Found...": "No Cores Found...",
     "This is where you can assign a core or external emulator to content": "This is where you can assign a core or external emulator to content"
   },
   "muxcharge": {
     "Booting System - Please Wait...": "Booting System - Please Wait...",
     "Capacity": "Capacity",
-    "Press POWER button to continue booting...": "Press POWER button to continue booting…",
+    "Press POWER button to continue booting...": "Press POWER button to continue booting...",
     "Voltage": "Voltage"
   },
   "muxconfig": {
@@ -77,7 +81,7 @@
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance",
     "GOVERNOR": "GOVERNOR",
-    "No Governors Found...": "No Governors Found…"
+    "No Governors Found...": "No Governors Found..."
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Access statistics of played content and other activity",
@@ -92,7 +96,7 @@
   },
   "muxlanguage": {
     "LANGUAGES": "LANGUAGES",
-    "No Languages Found...": "No Languages Found…",
+    "No Languages Found...": "No Languages Found...",
     "Saving Language": "Saving Language",
     "Select your preferred language": "Select your preferred language"
   },
@@ -118,7 +122,7 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Invalid Network Settings",
     "Invalid SSID": "Invalid SSID",
-    "Loading Network Profiles...": "Loading Network Profiles…",
+    "Loading Network Profiles...": "Loading Network Profiles...",
     "NETWORK PROFILE": "NETWORK PROFILE",
     "No Saved Network Profiles Found": "No Saved Network Profiles Found",
     "Password must be 8": {
@@ -131,7 +135,7 @@
     "Detect, display and connect to available Wi-Fi networks": "Detect, display and connect to available Wi-Fi networks",
     "NETWORK SCAN": "NETWORK SCAN",
     "No Wi-Fi Networks Found": "No Wi-Fi Networks Found",
-    "Scanning for Wi-Fi Networks...": "Scanning for Wi-Fi Networks…"
+    "Scanning for Wi-Fi Networks...": "Scanning for Wi-Fi Networks..."
   },
   "muxnetwork": {
     "Cannot modify while connected!": "Cannot modify while connected!",
@@ -143,7 +147,7 @@
     "DNS Server": "DNS Server",
     "Device IP": "Device IP",
     "Disconnect": "Disconnect",
-    "Encrypting Password...": "Encrypting Password…",
+    "Encrypting Password...": "Encrypting Password...",
     "Enter the device IP address here (Static only)": "Enter the device IP address here (Static only)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Enter the device Subnet (CIDR) number here (Static only)",
     "Enter the network gateway address here (Static only)": "Enter the network gateway address here (Static only)",
@@ -163,7 +167,7 @@
     "Subnet CIDR": "Subnet CIDR",
     "Toggle between DHCP and Static network types": "Toggle between DHCP and Static network types",
     "Toggle the Wi-Fi network on and off": "Toggle the Wi-Fi network on and off",
-    "Trying to Connect...": "Trying to Connect…",
+    "Trying to Connect...": "Trying to Connect...",
     "WI-FI NETWORK": "WI-FI NETWORK"
   },
   "muxoption": {
@@ -187,7 +191,7 @@
     "Favourite": "Favourite",
     "HISTORY": "HISTORY",
     "Info": "Info",
-    "Loading...": "Loading…",
+    "Loading...": "Loading...",
     "Refresh": "Refresh",
     "Removed from Favourites": "Removed from Favourites"
   },
@@ -304,7 +308,7 @@
     "This theme has no attributed credits!": "This theme has no attributed credits!"
   },
   "muxtimezone": {
-    "No Timezones Found...": "No Timezones Found…",
+    "No Timezones Found...": "No Timezones Found...",
     "Saving Timezone": "Saving Timezone",
     "Select your preferred timezone": "Select your preferred timezone.",
     "Select your preferred timezone.": "Select your preferred timezone.",
