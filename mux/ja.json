@@ -481,7 +481,7 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "SFTP を切り替えます - 9090番ポートからWebUIに接続してください",
     "Toggle SSH support - Access via port 22": "SSH を切り替えます - 22番ポートで接続してください",
     "Toggle Syncthing - WebUI can be found on port 7070": "Syncthing を切り替えます - 7070番ポートでWebUIに接続してください",
-    "Toggle network time protocol for active network connections": "有効なネットワーク使用時にネットワークタイムサーバーに接続します",
+    "Toggle network time protocol for active network connections": "有効なネットワーク使用時に\nネットワークタイムサーバーに接続します",
     "Toggle virtual terminal - WebUI can be found on port 8080": "仮想ターミナルを切り替えます - 8080番ポートで接続してください",
     "Virtual Terminal": "仮想ターミナル",
     "WEB SERVICES": "ウェブサービス"
