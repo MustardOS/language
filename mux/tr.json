@@ -13,18 +13,18 @@
     "Internal": "Dahili",
     "Launch": "Başlat",
     "Load": "Yükle",
-    "No Content Found...": "No Content Found...",
+    "No Content Found...": "İçerik bulunamadı…",
     "No Help Information Found": "Yardım bilgisi bulunamadı",
     "Open": "Aç",
     "Previous": "Önceki",
     "Recursive": "Yinelenmiş",
     "Remove": "Kaldır",
-    "Rescan": "Rescan",
+    "Rescan": "Yeniden tara",
     "Save": "Kaydet",
     "Saving Changes": "Değişiklikler kaydediliyor",
     "Select": "Seç",
-    "Switch to Information": "Switch to Information",
-    "Switch to Preview Image": "Switch to Preview Image",
+    "Switch to Information": "Bilgiye geç",
+    "Switch to Preview Image": "Önizleme resmine geç",
     "True": "Doğru",
     "Use": "Kullan",
     "Visible": "Görünür"
@@ -48,14 +48,14 @@
   },
   "muxarchive": {
     "ARCHIVE MANAGER": "ARŞİV YÖNETİCİSİ",
-    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Arşivleri burada bulabilir ve yükleyebilirsiniz - Oyunların kayıtları, güncellemeler, temalar vb.",
+    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Arşiv öğeleri burada bulunabilir ve yüklenebilir - Oyun kayıtları ve durumları, güncellemeler, temalar vb.",
     "INSTALLED": "YÜKLÜ",
     "No Archives Found": "Arşiv bulunamadı"
   },
   "muxassign": {
     "ASSIGN": "ATA",
     "No Cores Found...": "Çekirdek bulunamadı…",
-    "This is where you can assign a core or external emulator to content": "Burası içeriğe bir çekirdek veya harici emulatör atayabileceğiniz yerdir."
+    "This is where you can assign a core or external emulator to content": "Burası içeriğe bir çekirdek veya harici emülatör atayabileceğiniz yerdir."
   },
   "muxcharge": {
     "Booting System - Please Wait...": "Sistem yükleniyor - Lütfen bekleyin…",
