@@ -326,7 +326,7 @@
     "Change the default theme used for the next device launch": "Změňte výchozí motiv použitý pro příští spuštění zařízení",
     "Change the displayed battery percentage to improve accuracy based on calibration or known deviations in the battery capacity reading": "Změňte zobrazené procento baterie, abyste zlepšili přesnost na základě kalibrace nebo známých odchylek odečtu kapacity baterie",
     "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!": "Změňte úložné zařízení, kde muOS hledá uživatelský obsah – Změna těchto nastavení může způsobit kritická selhání, změňte je pouze tehdy, pokud víte, co děláte!",
-    "Device Rumble": "Vybrace zařízení",
+    "Device Rumble": "Vibrace zařízení",
     "HDMI Audio Output": "HDMI audio výstup",
     "High": "Vysoký",
     "Interface Font Type": "Typ písma rozhraní",
