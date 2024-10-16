@@ -24,7 +24,7 @@
     "Saving Changes": "Änderungen werden übernommen",
     "Select": "Auswählen",
     "Switch to Information": "Zur Information wechseln",
-    "Switch to Preview Image": "Switch to Preview Image",
+    "Switch to Preview Image": "Zur Bildvorschau wechseln",
     "True": "Ja",
     "Use": "Benutzen",
     "Visible": "Sichtbar"
@@ -252,7 +252,7 @@
     "Change where muOS saves screenshots": "Definieren, wo muOS Screenshots speichert",
     "Content Management": "Inhaltsverwaltung",
     "Languages": "Sprachen",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "Auf AUTO belassen, um zuerst auf SD2 und dann auf SD1 zu suchen.",
+    "Leave on AUTO to look on SD2 first and fall back to SD1": "Auf AUTO belassen, um zuerst auf SD2 und dann auf SD1 zu suchen",
     "Metadata Catalogue": "Metadatenkatalog",
     "Network Profiles": "Netzwerkprofile",
     "RetroArch BIOS": "RetroArch BIOS",
