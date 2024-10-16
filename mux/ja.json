@@ -455,7 +455,7 @@
     "Remove ( )": "( )を省略",
     "Remove [ ]": "[ ]を省略",
     "Remove [ ] and ( )": "[ ] と ( )を省略",
-    "Remove extra information from content labels - This does NOT rename your files it only changes how it is displayed": "コンテンツ名の余分な情報を表示しない \nこの設定はファイル名を変更しません\n表示だけが変更されます",
+    "Remove extra information from content labels - This does NOT rename your files it only changes how it is displayed": "コンテンツ名の余分な情報を省略します \nこの設定はファイル名を変更しません\n表示だけが変更されます",
     "Replaces the dash (-) with a colon (:) for content labels": "コンテンツ名のダッシュ (-) をコロン (:) で置き換えます",
     "Replaces the label of shortened content folders to more appropriately named labels": "省略されたフォルダ名をより適切なフォルダ名で置き換えます",
     "Title Include Root Drive": "タイトルにスロット名を表示",
