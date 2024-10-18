@@ -17,7 +17,7 @@
     "No Help Information Found": "找不到幫助信息",
     "Open": "開啟",
     "Previous": "先前",
-    "Recursive": "遞迴",
+    "Recursive": "包括子目錄",
     "Remove": "移除",
     "Rescan": "重新掃描",
     "Save": "儲存",
@@ -41,7 +41,7 @@
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster移植遊戲管理",
     "RGB Controller": "RGB燈光控制器",
-    "RetroArch": "RetroArch全能模擬器",
+    "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Simple Terminal": "簡易終端",
     "Task Toolkit": "任務工具箱"
@@ -309,8 +309,8 @@
   "muxtimezone": {
     "No Timezones Found...": "找不到時區…",
     "Saving Timezone": "儲存時區設定",
-    "Select your preferred timezone": "選擇您的當前時區。",
-    "Select your preferred timezone.": "選擇您的當前時區。",
+    "Select your preferred timezone": "選擇您的當前時區",
+    "Select your preferred timezone.": "選擇您的當前時區",
     "TIMEZONE": "時區"
   },
   "muxtweakadv": {
