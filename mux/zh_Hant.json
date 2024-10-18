@@ -64,7 +64,7 @@
     "Voltage": "電壓"
   },
   "muxconfig": {
-    "CONFIGURATION": "配置",
+    "CONFIGURATION": "系統設置",
     "Change your current date, time, and timezone": "變更您目前的日期、時間和時區",
     "Connect to a Wi-Fi network manually or via a saved profile": "手動或透過儲存的設定檔連接到Wi-Fi網路",
     "Date and Time": "日期與時間",
@@ -102,7 +102,7 @@
   },
   "muxlaunch": {
     "Applications": "應用程式",
-    "Configuration": "配置",
+    "Configuration": "系統設置",
     "Content marked as favourite can be found and launched here": "可以在此處找到並啟動標記為收藏的內容",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "可以在此處找到並啟動儲存裝置 (SD1/SD2/USB) 上的內容",
     "Content previously launched can be found and launched here": "可以在此處找到並啟動已遊玩過的內容",
