@@ -58,7 +58,7 @@
     "This is where you can assign a core or external emulator to content": "This is where you can assign a core or external emulator to content"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "Booting System - Please Wait…",
+    "Booting System - Please Wait...": "Booting System - Please Wait...",
     "Capacity": "Capacity",
     "Press POWER button to continue booting...": "Press POWER button to continue booting…",
     "Voltage": "Voltage"
@@ -107,7 +107,7 @@
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Content on storage devices (SD1/SD2/USB) can be found and launched here",
     "Content previously launched can be found and launched here": "Content previously launched can be found and launched here",
     "Explore Content": "Explore Content",
-    "Favourites": "Favorites",
+    "Favourites": "Favourites",
     "History": "History",
     "Information": "Information",
     "MAIN MENU": "MAIN MENU",
@@ -181,19 +181,19 @@
     "PASSCODE": "PASSCODE"
   },
   "muxplore": {
-    "Added to Favourites": "Added to Favorites",
+    "Added to Favourites": "Added to Favourites",
     "Could not load content - No core is associated": "Could not load content - No core is associated",
     "Could not load content!": "Could not load content!",
-    "Directories cannot be added to Favourites": "Directories cannot be added to Favorites",
+    "Directories cannot be added to Favourites": "Directories cannot be added to Favourites",
     "EXPLORE": "EXPLORE",
-    "Error adding to Favourites": "Error adding to Favorites",
-    "FAVOURITES": "FAVORITES",
-    "Favourite": "Favorite",
+    "Error adding to Favourites": "Error adding to Favourites",
+    "FAVOURITES": "FAVOURITES",
+    "Favourite": "Favourite",
     "HISTORY": "HISTORY",
     "Info": "Info",
     "Loading...": "Loading…",
     "Refresh": "Refresh",
-    "Removed from Favourites": "Removed from Favorites"
+    "Removed from Favourites": "Removed from Favourites"
   },
   "muxpower": {
     "10m": "10m",
@@ -386,14 +386,14 @@
     "Change the brightness of the device to a specific level": "Change the brightness of the device to a specific level",
     "Change the colour temperature of the display if the device supports it": "Change the colour temperature of the display if the device supports it",
     "Change where the device will start up into": "Change where the device will start up into",
-    "Colour Temperature": "Color Temperature",
+    "Colour Temperature": "Colour Temperature",
     "Content Explorer": "Content Explorer",
     "Cool Glacier (-160)": "Cool Glacier (-160)",
     "Daylight White (32)": "Daylight White (32)",
     "Deep Arctic (-256)": "Deep Arctic (-256)",
     "Deep Ember (256)": "Deep Ember (256)",
     "Device Startup": "Device Startup",
-    "Favourites": "Favorites",
+    "Favourites": "Favourites",
     "Frostbite Blue (-64)": "Frostbite Blue (-64)",
     "Frosty Breeze (-192)": "Frosty Breeze (-192)",
     "GENERAL SETTINGS": "GENERAL SETTINGS",
