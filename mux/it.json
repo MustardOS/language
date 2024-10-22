@@ -125,9 +125,6 @@
     "Loading Network Profiles...": "Caricamento Profili di Rete...",
     "NETWORK PROFILE": "PROFILO DI RETE",
     "No Saved Network Profiles Found": "Nessun Profilo di Rete Salvato Trovato",
-    "Password must be 8": {
-      "63 characters!": "Password must be 8..63 characters!"
-    },
     "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Quickly switch between different Wi-Fi configurations based on your location or network preferences"
   },
@@ -238,28 +235,11 @@
     "Year": "Anno"
   },
   "muxstorage": {
-    "AUTO": "AUTO",
     "Background Music": "Musica di Sottofondo",
-    "Change where muOS looks for Language files": "Change where muOS looks for Language files",
-    "Change where muOS looks for Network Profiles": "Change where muOS looks for Network Profiles",
-    "Change where muOS looks for RetroArch BIOS": "Change where muOS looks for RetroArch BIOS",
-    "Change where muOS looks for RetroArch Configurations": "Change where muOS looks for RetroArch Configurations",
-    "Change where muOS looks for background music": "Change where muOS looks for background music",
-    "Change where muOS looks for content images and text": "Change where muOS looks for content images and text",
-    "Change where muOS looks for favourites, history, and assigned content": "Change where muOS looks for favourites, history, and assigned content",
-    "Change where muOS looks for save states and files": "Change where muOS looks for save states and files",
-    "Change where muOS looks for themes": "Change where muOS looks for themes",
-    "Change where muOS saves screenshots": "Change where muOS saves screenshots",
-    "Content Management": "Gestione Contenuti",
     "Languages": "Lingue",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "Catalogo Metadata",
     "Network Profiles": "Network Profiles",
-    "RetroArch BIOS": "BIOS RetroArch",
     "RetroArch Configs": "Configurazioni di RetroArch",
-    "SD1": "SD1",
-    "SD2": "SD2",
-    "STORAGE PREFERENCE": "PREFERENZE DI ARCHIVIAZIONE",
     "Save Games + Save States": "Salvataggi + Stati di Salvataggio",
     "Screenshots": "Screenshot",
     "Themes": "Temi"
@@ -310,7 +290,6 @@
     "No Timezones Found...": "Nessun Fuso Orario Trovato...",
     "Saving Timezone": "Salvataggio Fuso Orario",
     "Select your preferred timezone": "Select your preferred timezone.",
-    "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "FUSO ORARIO"
   },
   "muxtweakadv": {
@@ -325,7 +304,6 @@
     "Change the default brightness level that the device will use each time it starts up": "Change the default brightness level that the device will use each time it starts up",
     "Change the default theme used for the next device launch": "Change the default theme used for the next device launch",
     "Change the displayed battery percentage to improve accuracy based on calibration or known deviations in the battery capacity reading": "Change the displayed battery percentage to improve accuracy based on calibration or known deviations in the battery capacity reading",
-    "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!": "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!",
     "Device Rumble": "Device Rumble",
     "HDMI Audio Output": "HDMI Audio Output",
     "High": "Alto",
@@ -347,7 +325,6 @@
     "Startup": "Startup",
     "Startup + Shutdown": "Startup + Shutdown",
     "Startup + Sleep": "Startup + Sleep",
-    "Storage Preference": "Preferenze di Archiviazione",
     "Suspend Power State": "Stato di Sospensione",
     "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
     "Switch between system sleep suspend states": "Switch between system sleep suspend states",

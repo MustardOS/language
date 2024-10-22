@@ -125,9 +125,6 @@
     "Loading Network Profiles...": "Laddar nätverksprofiler…",
     "NETWORK PROFILE": "NÄTVERKSPROFIL",
     "No Saved Network Profiles Found": "Inga sparade nätverksprofiler hittades",
-    "Password must be 8": {
-      "63 characters!": "Password must be 8..63 characters!"
-    },
     "Password must be 8..63 characters!": "Password must be 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Växla snabbt mellan olika Wi-Fi-konfigurationer baserat på din plats eller dina nätverksinställningar."
   },
@@ -238,28 +235,11 @@
     "Year": "År"
   },
   "muxstorage": {
-    "AUTO": "AUTO",
     "Background Music": "Bakgrundsmusik",
-    "Change where muOS looks for Language files": "Ändra var muOS söker efter språkfiler.",
-    "Change where muOS looks for Network Profiles": "Ändra var muOS söker efter nätverksprofiler.",
-    "Change where muOS looks for RetroArch BIOS": "Ändra var muOS söker efter RetroArch BIOS.",
-    "Change where muOS looks for RetroArch Configurations": "Ändra var muOS söker efter RetroArch-konfigurationer.",
-    "Change where muOS looks for background music": "Ändra var muOS söker efter bakgrundsmusik.",
-    "Change where muOS looks for content images and text": "Ändra var muOS söker efter innehållsbilder och text.",
-    "Change where muOS looks for favourites, history, and assigned content": "Ändra var muOS söker efter favoriter, historik och tilldelat innehåll.",
-    "Change where muOS looks for save states and files": "Ändra var muOS söker efter sparpunkter och filer.",
-    "Change where muOS looks for themes": "Ändra var muOS söker efter teman.",
-    "Change where muOS saves screenshots": "Ändra var muOS sparar skärmdumpar.",
-    "Content Management": "Innehållshantering",
     "Languages": "Språk",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "Leave on AUTO to look on SD2 first and fall back to SD1.",
     "Metadata Catalogue": "Metadata-katalog",
     "Network Profiles": "Nätverksprofiler",
-    "RetroArch BIOS": "RetroArch BIOS",
     "RetroArch Configs": "RetroArch-konfigurationer",
-    "SD1": "SD1",
-    "SD2": "SD2",
-    "STORAGE PREFERENCE": "LAGRINGSINSTÄLLNINGAR",
     "Save Games + Save States": "Spara spel + sparpunkter",
     "Screenshots": "Skärmdumpar",
     "Themes": "Teman"
@@ -310,7 +290,6 @@
     "No Timezones Found...": "Inga tidszoner hittades…",
     "Saving Timezone": "Sparar tidszon",
     "Select your preferred timezone": "Select your preferred timezone.",
-    "Select your preferred timezone.": "Select your preferred timezone.",
     "TIMEZONE": "TIDSZON"
   },
   "muxtweakadv": {
@@ -325,7 +304,6 @@
     "Change the default brightness level that the device will use each time it starts up": "Ändra den förvalda ljusstyrkan som enheten kommer att använda vid varje start.",
     "Change the default theme used for the next device launch": "Ändra det förvalda temat som används vid nästa enhetsstart.",
     "Change the displayed battery percentage to improve accuracy based on calibration or known deviations in the battery capacity reading": "Ändra den visade batteriprocenten för att förbättra noggrannheten baserat på kalibrering eller kända avvikelser i batterikapacitetsavläsningen.",
-    "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!": "Ändra lagringsenheten där muOS söker efter användarinnehåll - Att ändra dessa inställningar kan orsaka kritiska fel, ändra bara om du vet vad du gör!",
     "Device Rumble": "Enhetsvibration",
     "HDMI Audio Output": "HDMI Ljudutgång",
     "High": "Hög",
@@ -347,7 +325,6 @@
     "Startup": "Start",
     "Startup + Shutdown": "Start + Stäng av",
     "Startup + Sleep": "Start + Viloläge",
-    "Storage Preference": "Lagringsinställning",
     "Suspend Power State": "Väntelägeskraft",
     "Switch between device speaker or external monitor audio via HDMI connection": "Växla mellan enhetens högtalare eller extern skärmljud via HDMI-anslutning.",
     "Switch between system sleep suspend states": "Växla mellan systemets väntelägeskraft.",

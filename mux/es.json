@@ -125,9 +125,6 @@
     "Loading Network Profiles...": "Cargando perfiles de red…",
     "NETWORK PROFILE": "PERFIL DE RED",
     "No Saved Network Profiles Found": "No se encontraron perfiles de red guardados",
-    "Password must be 8": {
-      "63 characters!": "¡La contraseña debe tener entre 8 y 63 caracteres!"
-    },
     "Password must be 8..63 characters!": "¡La contraseña debe tener entre 8 y 63 caracteres!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Cambia rápidamente entre diferentes configuraciones de Wi-Fi según tu ubicación o preferencias de red"
   },
@@ -238,28 +235,11 @@
     "Year": "Año"
   },
   "muxstorage": {
-    "AUTO": "AUTO",
     "Background Music": "Música de fondo",
-    "Change where muOS looks for Language files": "Cambia dónde busca muOS los archivos de idioma",
-    "Change where muOS looks for Network Profiles": "Cambia dónde busca muOS los perfiles de red",
-    "Change where muOS looks for RetroArch BIOS": "Cambia dónde busca muOS las BIOS de RetroArch",
-    "Change where muOS looks for RetroArch Configurations": "Cambia dónde busca muOS las configuraciones de RetroArch",
-    "Change where muOS looks for background music": "Cambia dónde busca muOS la música de fondo",
-    "Change where muOS looks for content images and text": "Cambia dónde busca muOS las imágenes y el texto del contenido",
-    "Change where muOS looks for favourites, history, and assigned content": "Cambia dónde busca muOS los favoritos, el historial y el contenido asignado",
-    "Change where muOS looks for save states and files": "Cambia dónde busca muOS los estados guardados y los archivos",
-    "Change where muOS looks for themes": "Cambia dónde busca muOS los temas",
-    "Change where muOS saves screenshots": "Cambia dónde muOS guarda las capturas de pantalla",
-    "Content Management": "Gestión de contenido",
     "Languages": "Idiomas",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "Deja en AUTO para mirar primero en SD2 y después en SD1",
     "Metadata Catalogue": "Catálogo de metadatos",
     "Network Profiles": "Perfiles de red",
-    "RetroArch BIOS": "BIOS de RetroArch",
     "RetroArch Configs": "Configuraciones de RetroArch",
-    "SD1": "SD1",
-    "SD2": "SD2",
-    "STORAGE PREFERENCE": "PREFERENCIA DE ALMACENAMIENTO",
     "Save Games + Save States": "Guardar partidas + Guardar estados",
     "Screenshots": "Capturas de pantalla",
     "Themes": "Temas"
@@ -310,7 +290,6 @@
     "No Timezones Found...": "No se encontraron zonas horarias…",
     "Saving Timezone": "Guardando zona horaria",
     "Select your preferred timezone": "Selecciona tu zona horaria preferida.",
-    "Select your preferred timezone.": "Selecciona tu zona horaria preferida.",
     "TIMEZONE": "ZONA HORARIA"
   },
   "muxtweakadv": {
@@ -325,7 +304,6 @@
     "Change the default brightness level that the device will use each time it starts up": "Cambia el nivel de brillo predeterminado que usará el dispositivo cada vez que se inicie",
     "Change the default theme used for the next device launch": "Cambia el tema predeterminado utilizado para el próximo inicio del dispositivo",
     "Change the displayed battery percentage to improve accuracy based on calibration or known deviations in the battery capacity reading": "Cambia el porcentaje de batería mostrado para mejorar la precisión según la calibración o las desviaciones conocidas en la lectura de la capacidad de la batería",
-    "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!": "Cambia el dispositivo de almacenamiento donde muOS busca el contenido del usuario - Cambiar esta configuración puede causar errores críticos, ¡solo cámbiala si sabes lo que estás haciendo!",
     "Device Rumble": "Vibración del dispositivo",
     "HDMI Audio Output": "Salida de audio HDMI",
     "High": "Alto",
@@ -347,7 +325,6 @@
     "Startup": "Inicio",
     "Startup + Shutdown": "Inicio + Apagado",
     "Startup + Sleep": "Inicio + Suspensión",
-    "Storage Preference": "Preferencias de almacenamiento",
     "Suspend Power State": "Estado de suspensión de energía",
     "Switch between device speaker or external monitor audio via HDMI connection": "Cambia entre el altavoz del dispositivo o el audio del monitor externo a través de la conexión HDMI",
     "Switch between system sleep suspend states": "Cambia entre los estados de suspensión del sistema",

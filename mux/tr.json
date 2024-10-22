@@ -125,9 +125,6 @@
     "Loading Network Profiles...": "Ağ profilleri yükleniyor…",
     "NETWORK PROFILE": "AĞ PROFİLİ",
     "No Saved Network Profiles Found": "Kayıtlı ağ profili bulunamadı",
-    "Password must be 8": {
-      "63 characters!": "Parola en az 8, en fazla 63 karakter olmalı!"
-    },
     "Password must be 8..63 characters!": "Parola en az 8, en fazla 63 karakter olmalı!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Konumunuza veya ağ tercihlerinize göre farklı Wi-Fi yapılandırmaları arasında hızla geçiş yapın"
   },
@@ -238,28 +235,11 @@
     "Year": "Yıl"
   },
   "muxstorage": {
-    "AUTO": "OTOMATİK",
     "Background Music": "Arka plan müziği",
-    "Change where muOS looks for Language files": "muOS'un dil dosyalarını nerede arayacağını değiştir",
-    "Change where muOS looks for Network Profiles": "muOS'un ağ profillerini nerede arayacağını değiştir",
-    "Change where muOS looks for RetroArch BIOS": "muOS'un RetroArch BIOS'u nerede arayacağını değiştir",
-    "Change where muOS looks for RetroArch Configurations": "muOS'un RetroArch yapılandırmalarını nerede arayacağını değiştir",
-    "Change where muOS looks for background music": "muOS'un arka plan müziğini nerede arayacağını değiştir",
-    "Change where muOS looks for content images and text": "muOS'un içerik resimlerini ve metinleri nerede arayacağını değiştir",
-    "Change where muOS looks for favourites, history, and assigned content": "muOS'un favorileri, geçmişi ve atanmış içeriği nerede arayacağını değiştir",
-    "Change where muOS looks for save states and files": "muOS'un durum kayıtlarını ve dosyaları nerede arayacağını değiştir",
-    "Change where muOS looks for themes": "muOS'un temaları nerede arayacağını değiştir",
-    "Change where muOS saves screenshots": "muOS'un ekran görüntülerini nereye kaydedeceğini değiştir",
-    "Content Management": "İçerik yönetimi",
     "Languages": "Diller",
-    "Leave on AUTO to look on SD2 first and fall back to SD1": "Önce SD2'ye bakmak ve SD1'e geri dönmek için OTOMATİK'te bırakın",
     "Metadata Catalogue": "Üstveri katalogu",
     "Network Profiles": "Ağ profilleri",
-    "RetroArch BIOS": "RetroArch BIOS",
     "RetroArch Configs": "RetroArch yapılandırmaları",
-    "SD1": "SD1",
-    "SD2": "SD2",
-    "STORAGE PREFERENCE": "DEPOLAMA TERCİHİ",
     "Save Games + Save States": "Kaydedilen oyunlar + Kaydedilen durumlar",
     "Screenshots": "Ekran görüntüleri",
     "Themes": "Temalar"
@@ -310,7 +290,6 @@
     "No Timezones Found...": "Zaman dilimi bulunamadı…",
     "Saving Timezone": "Zaman dilimi kaydediliyor",
     "Select your preferred timezone": "Tercih ettiğiniz zaman dilimini seçin.",
-    "Select your preferred timezone.": "Tercih ettiğiniz zaman dilimini seçin.",
     "TIMEZONE": "ZAMAN DİLİMİ"
   },
   "muxtweakadv": {
@@ -325,7 +304,6 @@
     "Change the default brightness level that the device will use each time it starts up": "Cihazın her başlatıldığında kullanacağı varsayılan parlaklık seviyesini değiştir",
     "Change the default theme used for the next device launch": "Bir sonraki cihaz başlatmasında kullanılan varsayılan temayı değiştir",
     "Change the displayed battery percentage to improve accuracy based on calibration or known deviations in the battery capacity reading": "Kalibrasyona veya pil kapasitesi olçülmesindeki bilinen sapmalara bağlı olarak doğruluğu artırmak için görüntülenen pil yüzdesini değiştir",
-    "Change the storage device where muOS looks for user content - Changing these settings can cause critical failures, only change if you know what you are doing!": "muOS'un kullanıcı içeriğini aradığı depolama aygıtını değiştirin - Bu ayarları değiştirmek kritik hatalara yol açabilir, yalnızca ne yaptığınızı biliyorsanız değiştirin!",
     "Device Rumble": "Cihaz titreşimi",
     "HDMI Audio Output": "HDMI ses çıkışı",
     "High": "Yüksek",
@@ -347,7 +325,6 @@
     "Startup": "Başlat",
     "Startup + Shutdown": "Başlat + Kapat",
     "Startup + Sleep": "Başlat + Uyku modu",
-    "Storage Preference": "Depolama tercihi",
     "Suspend Power State": "Güç durumunu askıya al",
     "Switch between device speaker or external monitor audio via HDMI connection": "HDMI bağlantısı aracılığıyla cihaz hoparlörü veya harici monitör sesi arasında geçiş yap",
     "Switch between system sleep suspend states": "Sistemin uyku, askıya alma durumları arasında geçiş yap",
