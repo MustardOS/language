@@ -183,7 +183,7 @@
     "PASSCODE": "密碼"
   },
   "muxplore": {
-    "Added to Favourites": "新增至收藏夾",
+    "Added to Favourites": "已新增至收藏夾",
     "Could not load content - No core is associated": "無法讀取內容 - 沒有關聯的核心",
     "Could not load content!": "無法讀取內容！",
     "Directories cannot be added to Favourites": "目錄無法新增到收藏夾",
@@ -262,7 +262,7 @@
     "Location of the RetroArch emulator": "RetroArch模擬器路徑",
     "Location of themes": "主題存放路徑",
     "Metadata Catalogue": "Metadata目錄",
-    "Migrating to SD2...": "遷移到SD2…",
+    "Migrating to SD2...": "正在遷移到SD2…",
     "Network Profiles": "網路設定檔",
     "RetroArch Configs": "RetroArch配置",
     "RetroArch System": "RetroArch系統",
