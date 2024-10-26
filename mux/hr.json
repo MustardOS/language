@@ -13,7 +13,7 @@
     "Internal": "Unutarnje",
     "Launch": "Pokreni",
     "Load": "Učitaj",
-    "Migrate to SD2": "Migrate to SD2",
+    "Migrate to SD2": "Migriraj na SD2",
     "No Content Found...": "Sadržaj Nije Pronađen…",
     "No Help Information Found": "Informacija o Pomoći Nije Pronađena",
     "Open": "Otvori",
@@ -55,13 +55,13 @@
   },
   "muxassign": {
     "ASSIGN": "ODREDI",
-    "Assigned to directory": "Assigned to directory",
-    "Assigned to file": "Assigned to file",
+    "Assigned to directory": "Zadano na direktoriju",
+    "Assigned to file": "Zadano na datoteku",
     "No Cores Found...": "Nisu Pronađeni Cores…",
     "This is where you can assign a core or external emulator to content": "Ovdje može se odrediti core ili vanjski emulator za sadržaj"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "Pokretanje Sistema - Molimo Pričekajte...",
+    "Booting System - Please Wait...": "Pokretanje Sistema - Molimo Pričekajte…",
     "Capacity": "Kapacitet",
     "Press POWER button to continue booting...": "Pritisni gumb za napajanje da nastavite pokretanje…",
     "Voltage": "Voltaža"
@@ -72,12 +72,12 @@
     "Connect to a Wi-Fi network manually or via a saved profile": "Spoji se na Wi-Fi mrežu ručno ili preko spremljenog profila",
     "Date and Time": "Datum i Vrijeme",
     "Device specific and muOS frontend settings can be found here": "Specifično za uređaj i muOS sučeljne postavkese nalaze ovdje",
-    "Find out what storage device core settings and configurations are mounted": "Find out what storage device core settings and configurations are mounted",
+    "Find out what storage device core settings and configurations are mounted": "Saznaj gdje core postavke za uređaj pohrane i konfiguracije su montirane",
     "General Settings": "Opće Postavke",
     "Language": "Jezik",
     "Select a muOS supported theme": "Odaberi muOS podržanu temu",
     "Select your preferred language": "Odaberi svoj preferiran jezik",
-    "Storage": "Storage",
+    "Storage": "Pohrana",
     "Theme Picker": "Picker Teme",
     "Toggle a range of configurable services you can access via an active network": "Odaberi niz od konfigurabilne servise koje možete pristupiti s aktivnom mrežom",
     "Web Services": "Web Usluge",
@@ -86,7 +86,7 @@
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Konfiguriraj CPU upravitelje da dinamično prilagodi CPU frekvenciju da pomaže balancirati učinkovitost baterije i performanse",
     "GOVERNOR": "UPRAVITELJ",
-    "No Governors Found...": "Upravitelji Nisu Pronađeni…"
+    "No Governors Found...": "Upravitelji Nisu Pronađeni..."
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Pristupi statistice igranog sadržaja i drugih aktivnosti",
@@ -137,7 +137,7 @@
     "Detect, display and connect to available Wi-Fi networks": "Detektiraj, prikaži i spoji se slobodnim Wi-Fi mrežama",
     "NETWORK SCAN": "SKENIRANJE MREŽE",
     "No Wi-Fi Networks Found": "Wi-Fi Mreže Nisu Pronađene",
-    "Scanning for Wi-Fi Networks...": "Skeniranje za Wi-Fi Mreže…"
+    "Scanning for Wi-Fi Networks...": "Skeniranje za Wi-Fi Mreže..."
   },
   "muxnetwork": {
     "Cannot modify while connected!": "Nije moguće mijenjati dok ste povezani!",
@@ -240,39 +240,39 @@
     "Year": "Godina"
   },
   "muxstorage": {
-    "Assigned Core/Governor System": "Assigned Core/Governor System",
+    "Assigned Core/Governor System": "Zadani Core/Upravitelj Sistema",
     "Background Music": "Pozadinska Glazba",
-    "Favourites": "Favourites",
-    "Friendly Name System": "Friendly Name System",
-    "History": "History",
+    "Favourites": "Favoriti",
+    "Friendly Name System": "Sistem Prijateljskog Imenovanja",
+    "History": "Povijest",
     "Languages": "Jezici",
-    "Location of Language files": "Location of Language files",
-    "Location of Network Profiles": "Location of Network Profiles",
-    "Location of RetroArch configurations": "Location of RetroArch configurations",
-    "Location of Syncthing configurations": "Location of Syncthing configurations",
-    "Location of assigned core and governor configurations": "Location of assigned core and governor configurations",
-    "Location of background music": "Location of background music",
-    "Location of content images and text": "Location of content images and text",
-    "Location of favourites": "Location of favourites",
-    "Location of friendly name configurations": "Location of friendly name configurations",
-    "Location of history": "Location of history",
-    "Location of save states and files": "Location of save states and files",
-    "Location of screenshots": "Location of screenshots",
-    "Location of system BIOS files": "Location of system BIOS files",
-    "Location of the RetroArch emulator": "Location of the RetroArch emulator",
-    "Location of themes": "Location of themes",
+    "Location of Language files": "Lokacije datoteka za jezik",
+    "Location of Network Profiles": "Lokacija Profila za Mrežu",
+    "Location of RetroArch configurations": "Lokacija RetroArch konfiguracija",
+    "Location of Syncthing configurations": "Lokacija Syncthing konfiguracija",
+    "Location of assigned core and governor configurations": "Lokacija zadanih core i upraviteljskih konfiguracija",
+    "Location of background music": "Lokacija pozadinske glazbe",
+    "Location of content images and text": "Lokacija sadžajnih slika i teksta",
+    "Location of favourites": "Lokacija favorita",
+    "Location of friendly name configurations": "Lokacija konfiguracija prijateljskog imenovanja",
+    "Location of history": "Lokacija povijesti",
+    "Location of save states and files": "Lokacija save stanja i datoteka",
+    "Location of screenshots": "Lokacija slike zaslona",
+    "Location of system BIOS files": "Lokacija sistemskih BIOS datoteka",
+    "Location of the RetroArch emulator": "Lokacija RetroArch emulatora",
+    "Location of themes": "Lokacija tema",
     "Metadata Catalogue": "Metadata Katalog",
-    "Migrating to SD2...": "Migrating to SD2…",
+    "Migrating to SD2...": "Migriranja na SD2…",
     "Network Profiles": "Mrežni Profili",
     "RetroArch Configs": "RetroArch Konfiguracije",
     "RetroArch System": "RetroArch System",
-    "STORAGE": "STORAGE",
+    "STORAGE": "POHRANA",
     "Save Games + Save States": "Save Igre + Save Stanja",
     "Screenshots": "Snimke Zaslona",
-    "Syncthing Configs": "Syncthing Configs",
-    "System BIOS": "System BIOS",
+    "Syncthing Configs": "Syncthing Konfiguracije",
+    "System BIOS": "BIOS Sistema",
     "Themes": "Teme",
-    "This storage element is already on SD2": "This storage element is already on SD2"
+    "This storage element is already on SD2": "Ovaj element pohrane je već na SD2"
   },
   "muxsysinfo": {
     "Battery Capacity": "Kapacitet Baterije",
@@ -319,7 +319,7 @@
   "muxtimezone": {
     "No Timezones Found...": "Vremenske Zone Nisu Pronađene…",
     "Saving Timezone": "Spremanje Vremenske Zone",
-    "Select your preferred timezone": "Odaberi svoju preferiranu vremensku zonu.",
+    "Select your preferred timezone": "Odaberi svoju preferiranu vremensku zonu",
     "TIMEZONE": "VREMENSKA ZONA"
   },
   "muxtweakadv": {
