@@ -243,7 +243,7 @@
     "Year": "Année"
   },
   "muxstorage": {
-    "Assigned Core/Governor System": "Émulateur/Gouverneur système assignés",
+    "Assigned Core/Governor System": "Émulateurs/Gouverneurs systèmes assignés",
     "Background Music": "Musique de fond",
     "Favourites": "Favoris",
     "Friendly Name System": "Noms de dossiers conviviaux",
@@ -257,7 +257,7 @@
     "Location of background music": "Emplacement de la musique de fond",
     "Location of content images and text": "Emplacement des images et du texte du contenu",
     "Location of favourites": "Emplacement des favoris",
-    "Location of friendly name configurations": "Location of friendly name configurations",
+    "Location of friendly name configurations": "Emplacement des noms conviviaux",
     "Location of history": "Emplacement de l'historique",
     "Location of save states and files": "Emplacement des états et fichiers de sauvegarde",
     "Location of screenshots": "Emplacement des captures d'écran",
@@ -273,7 +273,7 @@
     "Save Games + Save States": "Sauvegarde du jeu + Sauvegarde d'état",
     "Screenshots": "Captures d'écran",
     "Syncthing Configs": "Configurations Syncthing",
-    "System BIOS": "BIOS système",
+    "System BIOS": "BIOS systèmes",
     "Themes": "Thèmes",
     "This storage element is already on SD2": "Cet élément de stockage est déjà sur SD2"
   },
@@ -322,7 +322,7 @@
   "muxtimezone": {
     "No Timezones Found...": "Aucun fuseau horaire trouvé…",
     "Saving Timezone": "Sauvegarde du fuseau horaire",
-    "Select your preferred timezone": "Sélectionnez votre fuseau horaire préféré.",
+    "Select your preferred timezone": "Sélectionnez votre fuseau horaire préféré",
     "TIMEZONE": "FUSEAU HORAIRE"
   },
   "muxtweakadv": {
@@ -448,7 +448,7 @@
     "Content Box Art": "Illustrations du contenu",
     "Content Box Art Alignment": "Alignement des illustrations",
     "Content Dash Replacement": "Remplacer les tirets du contenu",
-    "Content Launch Splash": "Content Launch Splash",
+    "Content Launch Splash": "Image de démarrage",
     "Content Name Scheme": "Schéma de nom du contenu",
     "Display Empty Folder": "Afficher les répertoires vides",
     "Display Title Reformatting": "Reformater le titre affiché",
