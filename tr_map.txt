@@ -1,0 +1,25 @@
+ca:Catalan
+ca@valencia:Valencian
+cs:Czech
+de:German
+en:English
+en_US:English (American)
+es:Spanish
+fr:French
+hi:Hindi
+hr:Croatian
+it:Italian
+ja:Japanese
+ko:Korean
+nl:Dutch
+pl:Polish
+pt_BR:Portuguese (BR)
+pt_PT:Portuguese (PT)
+ru:Russian
+sr:Serbian
+sv:Swedish
+tr:Turkish
+uk:Ukrainian
+vi:Vietnamese
+zh_Hans:Chinese (Simplified)
+zh_Hant:Chinese (Traditional)
