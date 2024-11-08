@@ -132,6 +132,7 @@
     "NETWORK PROFILE": "NETZWERK PROFILE",
     "No Saved Network Profiles Found": "Keine gespeicherten Netzwerkprofile gefunden",
     "Password must be 8..63 characters!": "Das Passwort muss aus 8-63 Zeichen bestehen!",
+    "Password must be unset or 8..63 characters!": "Password must be unset or 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Schnelles Umschalten zwischen verschiedenen Wi-Fi-Konfigurationen je nach Standort oder Netzwerkpräferenzen"
   },
   "muxnetscan": {
@@ -156,6 +157,7 @@
     "Enter the network gateway address here (Static only)": "Die Adresse des Netzwerk-Gateways eingeben. (nur statisch)",
     "Enter the network identifier (SSID) here": "Die Netzwerkkennung (SSID) hier eingeben",
     "Enter the network password here": "Das Netzwerkpasswort hier eingeben",
+    "Enter the network password here (optional)": "Enter the network password here (optional)",
     "Gateway IP": "Gateway IP-Adresse",
     "Identifier": "Netzwerkname",
     "Network Active": "Network Active",
@@ -253,6 +255,7 @@
     "Location of Network Profiles": "Speicherort der Netzwerkprofile",
     "Location of RetroArch configurations": "Speichert der RetroArch Konfigurationen",
     "Location of Syncthing configurations": "Speicherort der Syncthing Konfigurationen",
+    "Location of User Initialisation scripts": "Location of User Initialisation scripts",
     "Location of assigned core and governor configurations": "Speicherort der zugewiesenen Kern und Governer Konfigurationen",
     "Location of background music": "Speicherort der Hintergrundmusik",
     "Location of content images and text": "Speicherort der Bilder und Texte des Content",
@@ -275,7 +278,8 @@
     "Syncthing Configs": "Syncthing Konfigurationen",
     "System BIOS": "System BIOS",
     "Themes": "Themen",
-    "This storage element is already on SD2": "Das Speicherelement befindet sich bereits auf SD2"
+    "This storage element is already on SD2": "Das Speicherelement befindet sich bereits auf SD2",
+    "User Init Scripts": "User Init Scripts"
   },
   "muxsysinfo": {
     "Battery Capacity": "Akkukapazität",
@@ -366,11 +370,13 @@
     "Toggle a delayed start of RetroArch until a network connection is established": "Ein- oder auschalten der Option, den Start von RetroArch zu verzögeren, bis eine Netzwerkverbindung hergestellt wurde",
     "Toggle between ADB and MTP USB functionality": "Zwischen ADB- und MTP-USB-Funktionalität umschalten",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Detaillierte Meldungen beim Geräte-Start und Ausschalten ein- oder ausschalten, die zur Fehlersuche verwendet werden",
+    "Toggle the functionality of the user initialisation scripts on device startup": "Toggle the functionality of the user initialisation scripts on device startup",
     "Toggle the passcode lock - More information can be found on the muOS website": "Die Passcode-Sperre ein- oder ausschalten. Weitere Informationen sind auf der muOS-Website zu finden",
     "Toggle the power LED during content launch": "Der Power-LED während des Starts von Inhalten ein- oder ausschalten",
     "Toggle the system ability to automatically shut the device down due high temperature": "Ein- oder ausschalten der Option des Systems, das Gerät aufgrund hoher Temperaturen automatisch abzuschalten",
     "Toggle vibration for device startup, sleep, and shutdown": "Vibration bei Gerätestart, Standby und Auschalten ein- oder auschalten",
     "USB Function": "USB-Funktion",
+    "User Init Scripts": "User Init Scripts",
     "Verbose Messages": "Detaillierte Meldungen",
     "Volume On Boot": "Lautstärke bei Systemstart"
   },
