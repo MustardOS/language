@@ -132,6 +132,7 @@
     "NETWORK PROFILE": "ПРОФІЛЬ МЕРЕЖІ",
     "No Saved Network Profiles Found": "Збережених Профілів Мережі Не Знайдено",
     "Password must be 8..63 characters!": "Пароль має бути 8..63 символів!",
+    "Password must be unset or 8..63 characters!": "Password must be unset or 8..63 characters!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Швидке перемикання між різними конфігураціями Wi-Fi в залежності від вашої локації або налаштувань мережі"
   },
   "muxnetscan": {
@@ -156,6 +157,7 @@
     "Enter the network gateway address here (Static only)": "Введіть адресу мережевого шлюзу тут. (лише для Статичної)",
     "Enter the network identifier (SSID) here": "Введіть ідентифікатор мережі (SSID) тут",
     "Enter the network password here": "Введіть пароль мережі тут",
+    "Enter the network password here (optional)": "Enter the network password here (optional)",
     "Gateway IP": "IP адреса Шлюзу",
     "Identifier": "Ідентифікатор",
     "Network Active": "Network Active",
@@ -253,6 +255,7 @@
     "Location of Network Profiles": "Розташування мережевих профілів",
     "Location of RetroArch configurations": "Розташування еонфігурацій RetroArch",
     "Location of Syncthing configurations": "Розташування конфігурацій Syncthing",
+    "Location of User Initialisation scripts": "Location of User Initialisation scripts",
     "Location of assigned core and governor configurations": "Розташування конфігурації призначеного ядра та менеджера",
     "Location of background music": "Розташування фонової музики",
     "Location of content images and text": "Розташування контентних зображень та тексту",
@@ -275,7 +278,8 @@
     "Syncthing Configs": "Налаштування Syncthing",
     "System BIOS": "Системний BIOS",
     "Themes": "Теми",
-    "This storage element is already on SD2": "Цей елемент сховища уже на SD2"
+    "This storage element is already on SD2": "Цей елемент сховища уже на SD2",
+    "User Init Scripts": "User Init Scripts"
   },
   "muxsysinfo": {
     "Battery Capacity": "Ємність Батареї",
@@ -366,11 +370,13 @@
     "Toggle a delayed start of RetroArch until a network connection is established": "Включити відкладений старт RetroArch до встановлення з\"єднання з мережею",
     "Toggle between ADB and MTP USB functionality": "Перемикання між ADB та MTP USB режимами",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Вмикати детальні повідомлення при запуску та вимкненні, що використовуються при відладці",
+    "Toggle the functionality of the user initialisation scripts on device startup": "Toggle the functionality of the user initialisation scripts on device startup",
     "Toggle the passcode lock - More information can be found on the muOS website": "Вмикати блокування паролем - Більше інформації можна знайти на сайті muOS",
     "Toggle the power LED during content launch": "Вмикати LED-індикацію під час завантаження контенту",
     "Toggle the system ability to automatically shut the device down due high temperature": "Надати можливість системі автоматично вимикати пристрій при перевищенні допустимої температури",
     "Toggle vibration for device startup, sleep, and shutdown": "Вмикати вібрацію пристрою при запуску, сну та вимкненні",
     "USB Function": "Функція USB",
+    "User Init Scripts": "User Init Scripts",
     "Verbose Messages": "Детальні Повідомлення",
     "Volume On Boot": "Гучність При Завантаженні"
   },
