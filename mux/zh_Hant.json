@@ -132,7 +132,7 @@
     "NETWORK PROFILE": "網路描述檔",
     "No Saved Network Profiles Found": "找不到已儲存的網路描述檔",
     "Password must be 8..63 characters!": "密碼必須是8到63個字元！",
-    "Password must be unset or 8..63 characters!": "密碼必須為8到63個字元!",
+    "Password must be unset or 8..63 characters!": "密碼必須為8到63個字元或留空!",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "根據您的位置或網路偏好在不同的Wi-Fi配置之間快速切換"
   },
   "muxnetscan": {
