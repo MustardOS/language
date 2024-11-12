@@ -342,7 +342,7 @@
     "Change the default brightness level that the device will use each time it starts up": "设置开机时的默认亮度",
     "Change the default theme used for the next device launch": "设置是否下次开机时更换默认主题",
     "Change the displayed battery percentage to improve accuracy based on calibration or known deviations in the battery capacity reading": "设置电池容量计数偏移值以满足对电池容量的准确计数",
-    "DPAD Swap Function": "DPAD Swap Function",
+    "DPAD Swap Function": "方向键交换功能",
     "Device Rumble": "设备振动",
     "HDMI Audio Output": "HDMI音频输出",
     "High": "高",
