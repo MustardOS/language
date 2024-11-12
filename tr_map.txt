@@ -5,7 +5,10 @@ de:German
 en:English
 en_US:English (American)
 es:Spanish
+fa:Persian
 fr:French
+ga:Irish
+he:Hebrew
 hi:Hindi
 hr:Croatian
 it:Italian
