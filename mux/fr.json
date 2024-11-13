@@ -342,7 +342,7 @@
     "Change the default brightness level that the device will use each time it starts up": "Modifiez le niveau de luminosité par défaut que la console utilisera à chaque démarrage",
     "Change the default theme used for the next device launch": "Modifiez le thème par défaut utilisé pour le prochain lancement de la console",
     "Change the displayed battery percentage to improve accuracy based on calibration or known deviations in the battery capacity reading": "Modifiez le pourcentage de batterie affiché pour améliorer la précision en fonction de l'étalonnage ou des écarts connus dans la lecture de la capacité de la batterie",
-    "DPAD Swap Function": "Fonctionnalité mode DPAD",
+    "DPAD Swap Function": "Fonctionnalité de bascule DPAD",
     "Device Rumble": "Vibration de la console",
     "HDMI Audio Output": "Sortie audio HDMI",
     "High": "Haute",
