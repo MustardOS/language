@@ -1,6 +1,7 @@
 {
   "generic": {
     "Back": "이전",
+    "Clear": "Clear",
     "Directory": "디렉터리",
     "Disabled": "비활성화",
     "Enabled": "활성화됨",
@@ -180,6 +181,8 @@
   "muxoption": {
     "Assign Core": "코어 할당",
     "CONTENT OPTION": "콘텐츠 옵션",
+    "Search Content": "Search Content",
+    "Search for content within the selected directory": "Search for content within the selected directory",
     "Set the CPU governor for the selected content or directory": "선택한 콘텐츠 또는 디렉터리에 대한 CPU 거버너를 설정",
     "Set the system core or external emulator for the selected content or directory": "선택한 콘텐츠 또는 디렉터리에 대한 시스템 코어 또는 외부 에뮬레이터 설정",
     "System Governor": "시스템 거버너"
@@ -244,6 +247,16 @@
     "Set Timezone": "타임존 설정",
     "Time Notation": "시간 표기",
     "Year": "연"
+  },
+  "muxsearch": {
+    "Enter in the name of the content you are looking for": "Enter in the name of the content you are looking for",
+    "Lookup": "Lookup",
+    "Lookup has to be 3 characters or more!": "Lookup has to be 3 characters or more!",
+    "SEARCH CONTENT": "SEARCH CONTENT",
+    "Search Global": "Search Global",
+    "Search Local": "Search Local",
+    "Search all current active storage devices": "Search all current active storage devices",
+    "Search within the current selected folder and folders within": "Search within the current selected folder and folders within"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "할당된 코어/거버너 시스템",
