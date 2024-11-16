@@ -1,6 +1,7 @@
 {
   "generic": {
     "Back": "Повернутись",
+    "Clear": "Clear",
     "Directory": "Директорія",
     "Disabled": "Вимкнено",
     "Enabled": "Увімкнено",
@@ -180,6 +181,8 @@
   "muxoption": {
     "Assign Core": "Призначити Ядро",
     "CONTENT OPTION": "ВАРІАНТ КОНТЕНТУ",
+    "Search Content": "Search Content",
+    "Search for content within the selected directory": "Search for content within the selected directory",
     "Set the CPU governor for the selected content or directory": "Встановити CPU менеджер для обраного контенту або директорії",
     "Set the system core or external emulator for the selected content or directory": "Встановити системне ядро або зовнішній емулятор для обраного контенту або директорії",
     "System Governor": "Системний Менеджер"
@@ -244,6 +247,16 @@
     "Set Timezone": "Встановити Часовий Пояс",
     "Time Notation": "Формат Часу",
     "Year": "Рік"
+  },
+  "muxsearch": {
+    "Enter in the name of the content you are looking for": "Enter in the name of the content you are looking for",
+    "Lookup": "Lookup",
+    "Lookup has to be 3 characters or more!": "Lookup has to be 3 characters or more!",
+    "SEARCH CONTENT": "SEARCH CONTENT",
+    "Search Global": "Search Global",
+    "Search Local": "Search Local",
+    "Search all current active storage devices": "Search all current active storage devices",
+    "Search within the current selected folder and folders within": "Search within the current selected folder and folders within"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Призначене ядро/Системний Менеджер",
