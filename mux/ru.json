@@ -1,6 +1,7 @@
 {
   "generic": {
     "Back": "Назад",
+    "Clear": "Clear",
     "Directory": "Папка",
     "Disabled": "Выкл",
     "Enabled": "Вкл",
@@ -180,6 +181,8 @@
   "muxoption": {
     "Assign Core": "Присвоить ядро",
     "CONTENT OPTION": "НАСТРОЙКА ПРИЛОЖЕНИЙ",
+    "Search Content": "Search Content",
+    "Search for content within the selected directory": "Search for content within the selected directory",
     "Set the CPU governor for the selected content or directory": "Настройка говернора процессора для выбранного приложения или папки",
     "Set the system core or external emulator for the selected content or directory": "Выберите ядро или внешний эмулятор для выбранного приложения или папки",
     "System Governor": "Системный говернор"
@@ -244,6 +247,16 @@
     "Set Timezone": "Часовой пояс",
     "Time Notation": "Формат времени",
     "Year": "Год"
+  },
+  "muxsearch": {
+    "Enter in the name of the content you are looking for": "Enter in the name of the content you are looking for",
+    "Lookup": "Lookup",
+    "Lookup has to be 3 characters or more!": "Lookup has to be 3 characters or more!",
+    "SEARCH CONTENT": "SEARCH CONTENT",
+    "Search Global": "Search Global",
+    "Search Local": "Search Local",
+    "Search all current active storage devices": "Search all current active storage devices",
+    "Search within the current selected folder and folders within": "Search within the current selected folder and folders within"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Назначенное ядро/говернор системы",
