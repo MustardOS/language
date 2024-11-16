@@ -1,6 +1,7 @@
 {
   "generic": {
     "Back": "Voltar",
+    "Clear": "Clear",
     "Directory": "Directório",
     "Disabled": "Desativado",
     "Enabled": "Ativado",
@@ -180,6 +181,8 @@
   "muxoption": {
     "Assign Core": "Atribuir Core",
     "CONTENT OPTION": "CONTENT OPTION",
+    "Search Content": "Search Content",
+    "Search for content within the selected directory": "Search for content within the selected directory",
     "Set the CPU governor for the selected content or directory": "Defina o controlador do CPU para o conteúdo ou diretório selecionado.",
     "Set the system core or external emulator for the selected content or directory": "Defina o núcleo do sistema ou emulador externo para o conteúdo ou diretório selecionado.",
     "System Governor": "Controlador do sistema"
@@ -244,6 +247,16 @@
     "Set Timezone": "Definir Fuso Horário",
     "Time Notation": "Notação de Hora",
     "Year": "Ano"
+  },
+  "muxsearch": {
+    "Enter in the name of the content you are looking for": "Enter in the name of the content you are looking for",
+    "Lookup": "Lookup",
+    "Lookup has to be 3 characters or more!": "Lookup has to be 3 characters or more!",
+    "SEARCH CONTENT": "SEARCH CONTENT",
+    "Search Global": "Search Global",
+    "Search Local": "Search Local",
+    "Search all current active storage devices": "Search all current active storage devices",
+    "Search within the current selected folder and folders within": "Search within the current selected folder and folders within"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Assigned Core/Governor System",
