@@ -1,6 +1,7 @@
 {
   "generic": {
     "Back": "Nazad",
+    "Clear": "Clear",
     "Directory": "Folder",
     "Disabled": "Onemogućeno",
     "Enabled": "Omogućeno",
@@ -180,6 +181,8 @@
   "muxoption": {
     "Assign Core": "Dodeli jezgro (Core)",
     "CONTENT OPTION": "OPCIJE SADRŽAJA",
+    "Search Content": "Search Content",
+    "Search for content within the selected directory": "Search for content within the selected directory",
     "Set the CPU governor for the selected content or directory": "Postavite CPU upravljača za odabrani sadržaj ili folder",
     "Set the system core or external emulator for the selected content or directory": "Podesite sistemsku jezgru (core) ili eksterni emulator za izabrani sadržaj ili folder",
     "System Governor": "Kontrolor sistema"
@@ -244,6 +247,16 @@
     "Set Timezone": "Podesi vremensku zonu",
     "Time Notation": "Format vremena",
     "Year": "Godina"
+  },
+  "muxsearch": {
+    "Enter in the name of the content you are looking for": "Enter in the name of the content you are looking for",
+    "Lookup": "Lookup",
+    "Lookup has to be 3 characters or more!": "Lookup has to be 3 characters or more!",
+    "SEARCH CONTENT": "SEARCH CONTENT",
+    "Search Global": "Search Global",
+    "Search Local": "Search Local",
+    "Search all current active storage devices": "Search all current active storage devices",
+    "Search within the current selected folder and folders within": "Search within the current selected folder and folders within"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Dodeljeno jezgro (core)/Upravljački sistem",

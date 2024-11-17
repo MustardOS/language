@@ -1,6 +1,7 @@
 {
   "generic": {
     "Back": "返回",
+    "Clear": "Clear",
     "Directory": "目錄",
     "Disabled": "停用",
     "Enabled": "啟用",
@@ -180,6 +181,8 @@
   "muxoption": {
     "Assign Core": "分配核心",
     "CONTENT OPTION": "內容選項",
+    "Search Content": "Search Content",
+    "Search for content within the selected directory": "Search for content within the selected directory",
     "Set the CPU governor for the selected content or directory": "為選定的內容或目錄設定 CPU 調控方案",
     "Set the system core or external emulator for the selected content or directory": "為所選內容或目錄設定系統核心或外部模擬器",
     "System Governor": "系統調控方案"
@@ -244,6 +247,16 @@
     "Set Timezone": "設定時區",
     "Time Notation": "時間格式",
     "Year": "年"
+  },
+  "muxsearch": {
+    "Enter in the name of the content you are looking for": "Enter in the name of the content you are looking for",
+    "Lookup": "Lookup",
+    "Lookup has to be 3 characters or more!": "Lookup has to be 3 characters or more!",
+    "SEARCH CONTENT": "SEARCH CONTENT",
+    "Search Global": "Search Global",
+    "Search Local": "Search Local",
+    "Search all current active storage devices": "Search all current active storage devices",
+    "Search within the current selected folder and folders within": "Search within the current selected folder and folders within"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "分配 核心/調控方案 系統",

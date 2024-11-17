@@ -1,6 +1,7 @@
 {
   "generic": {
     "Back": "返回",
+    "Clear": "Clear",
     "Directory": "目录",
     "Disabled": "关闭",
     "Enabled": "开启",
@@ -180,6 +181,8 @@
   "muxoption": {
     "Assign Core": "分配核心",
     "CONTENT OPTION": "内容选项",
+    "Search Content": "Search Content",
+    "Search for content within the selected directory": "Search for content within the selected directory",
     "Set the CPU governor for the selected content or directory": "为选中的内容或文件夹设置CPU调度方案",
     "Set the system core or external emulator for the selected content or directory": "为选中的内容或文件夹分配RetroArch核心或独立模拟器",
     "System Governor": "系统调度方案"
@@ -244,6 +247,16 @@
     "Set Timezone": "设置时区",
     "Time Notation": "时间格式",
     "Year": "年"
+  },
+  "muxsearch": {
+    "Enter in the name of the content you are looking for": "Enter in the name of the content you are looking for",
+    "Lookup": "Lookup",
+    "Lookup has to be 3 characters or more!": "Lookup has to be 3 characters or more!",
+    "SEARCH CONTENT": "SEARCH CONTENT",
+    "Search Global": "Search Global",
+    "Search Local": "Search Local",
+    "Search all current active storage devices": "Search all current active storage devices",
+    "Search within the current selected folder and folders within": "Search within the current selected folder and folders within"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "分配核心/调度方案系统",
