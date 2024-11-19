@@ -1,7 +1,7 @@
 {
   "generic": {
     "Back": "Retour",
-    "Clear": "Clear",
+    "Clear": "Effacer",
     "Directory": "Répertoire",
     "Disabled": "Désactivé",
     "Enabled": "Activé",
@@ -181,8 +181,8 @@
   "muxoption": {
     "Assign Core": "Assigner un émulateur",
     "CONTENT OPTION": "OPTION DU CONTENU",
-    "Search Content": "Search Content",
-    "Search for content within the selected directory": "Search for content within the selected directory",
+    "Search Content": "Rechercher du contenu",
+    "Search for content within the selected directory": "Rechercher du contenu dans le répertoire sélectionné",
     "Set the CPU governor for the selected content or directory": "Définissez le gouverneur du processeur pour le contenu ou le répertoire sélectionné",
     "Set the system core or external emulator for the selected content or directory": "Définissez l'émulateur principal ou externe pour le contenu ou le répertoire sélectionné",
     "System Governor": "Gouverneur système"
@@ -249,14 +249,14 @@
     "Year": "Année"
   },
   "muxsearch": {
-    "Enter in the name of the content you are looking for": "Enter in the name of the content you are looking for",
-    "Lookup": "Lookup",
-    "Lookup has to be 3 characters or more!": "Lookup has to be 3 characters or more!",
-    "SEARCH CONTENT": "SEARCH CONTENT",
-    "Search Global": "Search Global",
-    "Search Local": "Search Local",
-    "Search all current active storage devices": "Search all current active storage devices",
-    "Search within the current selected folder and folders within": "Search within the current selected folder and folders within"
+    "Enter in the name of the content you are looking for": "Entrez le nom du contenu que vous recherchez",
+    "Lookup": "Rechercher",
+    "Lookup has to be 3 characters or more!": "La recherche doit comporter 3 caractères ou plus !",
+    "SEARCH CONTENT": "RECHERCHE DE CONTENU",
+    "Search Global": "Recherche globale",
+    "Search Local": "Recherche locale",
+    "Search all current active storage devices": "Rechercher sur tous les périphériques de stockage actifs actuels",
+    "Search within the current selected folder and folders within": "Rechercher dans le dossier sélectionné et dans ses sous dossiers"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Émulateurs/Gouverneurs systèmes assignés",
