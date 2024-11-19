@@ -1,7 +1,7 @@
 {
   "generic": {
     "Back": "Nazaj",
-    "Clear": "Clear",
+    "Clear": "Počisti",
     "Directory": "Imenik",
     "Disabled": "Onemogočeno",
     "Enabled": "Omogočeno",
@@ -181,8 +181,8 @@
   "muxoption": {
     "Assign Core": "Dodeli Jedro",
     "CONTENT OPTION": "MOŽNOST VSEBINE",
-    "Search Content": "Search Content",
-    "Search for content within the selected directory": "Search for content within the selected directory",
+    "Search Content": "Iskanje vsebine",
+    "Search for content within the selected directory": "Išči vsebino v izbrani mapi",
     "Set the CPU governor for the selected content or directory": "Nastavi upravljavca procesorja za izbrano vsebino ali imenik",
     "Set the system core or external emulator for the selected content or directory": "Nastavi jedro sistema ali zunanji emulator za izbrano vsebino ali imenik",
     "System Governor": "Upravljavec sistema"
@@ -249,14 +249,14 @@
     "Year": "Leto"
   },
   "muxsearch": {
-    "Enter in the name of the content you are looking for": "Enter in the name of the content you are looking for",
-    "Lookup": "Lookup",
-    "Lookup has to be 3 characters or more!": "Lookup has to be 3 characters or more!",
-    "SEARCH CONTENT": "SEARCH CONTENT",
-    "Search Global": "Search Global",
-    "Search Local": "Search Local",
-    "Search all current active storage devices": "Search all current active storage devices",
-    "Search within the current selected folder and folders within": "Search within the current selected folder and folders within"
+    "Enter in the name of the content you are looking for": "Vnesite ime vsebine, ki jo iščete",
+    "Lookup": "Iskanje",
+    "Lookup has to be 3 characters or more!": "Iskanje mora imeti 3 ali več znakov!",
+    "SEARCH CONTENT": "ISKANJE VSEBINE",
+    "Search Global": "Iskanje globalno",
+    "Search Local": "Iskanje lokalno",
+    "Search all current active storage devices": "Išči vse trenutno aktivne shranjevalne naprave",
+    "Search within the current selected folder and folders within": "Išči v trenutni izbrani mapi in mapah znotraj nje"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Dodeljeno Jedro/Sistem upravljavca",
