@@ -72,8 +72,8 @@
     "CONFIGURATION": "KONFIGURACE",
     "Change your current date, time, and timezone": "Změna datumu, času a časového pásma",
     "Connect to a Wi-Fi network manually or via a saved profile": "Připojte se k síti Wi-Fi ručně nebo prostřednictvím uloženého profilu",
-    "Customisation": "Customisation",
-    "Customise your muOS setup with user created packages": "Customise your muOS setup with user created packages",
+    "Customisation": "Přizpůsobení",
+    "Customise your muOS setup with user created packages": "Přizpůsobte si nastavení muOS pomocí balíčků vytvořených uživatelem",
     "Date and Time": "Datum a čas",
     "Device specific and muOS frontend settings can be found here": "Specifické nastavení pro zařízení a muOS frontend naleznete zde",
     "Find out what storage device core settings and configurations are mounted": "Zjistěte, jaká základní nastavení a konfigurace úložného zařízení jsou připojeny",
@@ -88,13 +88,13 @@
     "Wi-Fi Network": "Wi-Fi síť"
   },
   "muxcustom": {
-    "CUSTOMISATION": "CUSTOMISATION",
-    "Catalogue Sets": "Catalogue Sets",
-    "Change the appearance of the muOS frontend launcher": "Change the appearance of the muOS frontend launcher",
-    "Load user created RetroArch configurations": "Load user created RetroArch configurations",
-    "Load user created artwork catalogue for content": "Load user created artwork catalogue for content",
-    "RetroArch Configurations": "RetroArch Configurations",
-    "muOS Themes": "muOS Themes"
+    "CUSTOMISATION": "PŘIZPŮSOBENÍ",
+    "Catalogue Sets": "Katalogové sady",
+    "Change the appearance of the muOS frontend launcher": "Změňte vzhled spouštěče frontendu muOS",
+    "Load user created RetroArch configurations": "Načtěte uživatelem vytvořené konfigurace RetroArch",
+    "Load user created artwork catalogue for content": "Načíst uživatelsky vytvořený katalog uměleckých děl pro obsah",
+    "RetroArch Configurations": "Konfigurace RetroArch",
+    "muOS Themes": "Témata muOS"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Nakonfigurujte regulátory CPU tak, aby dynamicky upravovaly frekvenci CPU a pomáhaly vyvážit spotřebu energie a výkon",
@@ -202,15 +202,15 @@
     "PASSCODE": "HESLO"
   },
   "muxpicker": {
-    "CATALOGUE PICKER": "CATALOGUE PICKER",
-    "CONFIG PICKER": "CONFIG PICKER",
-    "CUSTOM PICKER": "CUSTOM PICKER",
-    "No Catalogue Packages Found": "No Catalogue Packages Found",
-    "No Configuration Packages Found": "No Configuration Packages Found",
-    "No Custom Packages Found": "No Custom Packages Found",
-    "No Theme Packages Found": "No Theme Packages Found",
-    "THEME PICKER": "THEME PICKER",
-    "There are no attributed credits!": "There are no attributed credits!"
+    "CATALOGUE PICKER": "VÝBĚR KATALOGU",
+    "CONFIG PICKER": "VÝBĚR KONFIGURACE",
+    "CUSTOM PICKER": "VLASTNÍ VÝBĚR",
+    "No Catalogue Packages Found": "Nebyly nalezeny žádné balíčky katalogu",
+    "No Configuration Packages Found": "Nebyly nalezeny žádné konfigurační balíčky",
+    "No Custom Packages Found": "Nebyly nalezeny žádné vlastní balíčky",
+    "No Theme Packages Found": "Nebyly nalezeny žádné balíčky témat",
+    "THEME PICKER": "VÝBĚR TÉMAT",
+    "There are no attributed credits!": "Nejsou žádné přidělené kredity!"
   },
   "muxplore": {
     "Added to Favourites": "Přidáno k oblíbeným",
