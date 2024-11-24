@@ -72,6 +72,8 @@
     "CONFIGURATION": "KONFIGURACIJA",
     "Change your current date, time, and timezone": "Spreminjanje trenutnega datuma, časa in časovnega pasu",
     "Connect to a Wi-Fi network manually or via a saved profile": "Povežite se z omrežjem Wi-Fi ročno ali prek shranjenega profila",
+    "Customisation": "Customisation",
+    "Customise your muOS setup with user created packages": "Customise your muOS setup with user created packages",
     "Date and Time": "Datum in čas",
     "Device specific and muOS frontend settings can be found here": "Nastavitve specifične za napravo in izgled muOS najdete tukaj",
     "Find out what storage device core settings and configurations are mounted": "Ugotovite, katere nastavitve in konfiguracije jedra naprave za shranjevanje so nameščene",
@@ -84,6 +86,15 @@
     "Toggle a range of configurable services you can access via an active network": "Preklopite razne storitve, do katerih lahko dostopate preko aktivnega omrežja",
     "Web Services": "Spletne Storitve",
     "Wi-Fi Network": "Omrežje Wi-Fi"
+  },
+  "muxcustom": {
+    "CUSTOMISATION": "CUSTOMISATION",
+    "Catalogue Sets": "Catalogue Sets",
+    "Change the appearance of the muOS frontend launcher": "Change the appearance of the muOS frontend launcher",
+    "Load user created RetroArch configurations": "Load user created RetroArch configurations",
+    "Load user created artwork catalogue for content": "Load user created artwork catalogue for content",
+    "RetroArch Configurations": "RetroArch Configurations",
+    "muOS Themes": "muOS Themes"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Konfigurirajte upravljavce procesorja (CPU), da dinamično prilagajajo frekvenco procesorja in pomagajo uravnotežiti porabo energije in zmogljivost",
@@ -189,6 +200,17 @@
   },
   "muxpass": {
     "PASSCODE": "GESLO"
+  },
+  "muxpicker": {
+    "CATALOGUE PICKER": "CATALOGUE PICKER",
+    "CONFIG PICKER": "CONFIG PICKER",
+    "CUSTOM PICKER": "CUSTOM PICKER",
+    "No Catalogue Packages Found": "No Catalogue Packages Found",
+    "No Configuration Packages Found": "No Configuration Packages Found",
+    "No Custom Packages Found": "No Custom Packages Found",
+    "No Theme Packages Found": "No Theme Packages Found",
+    "THEME PICKER": "THEME PICKER",
+    "There are no attributed credits!": "There are no attributed credits!"
   },
   "muxplore": {
     "Added to Favourites": "Dodano k Priljubljenim",
