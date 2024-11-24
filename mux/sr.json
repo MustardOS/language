@@ -72,8 +72,8 @@
     "CONFIGURATION": "PODEŠAVANJE",
     "Change your current date, time, and timezone": "Promeni trenutni datum, vreme i vremensku zonu",
     "Connect to a Wi-Fi network manually or via a saved profile": "Konektuj se ručno na Wi-Fi mrežu ili preko sačuvanih podešavanja",
-    "Customisation": "Customisation",
-    "Customise your muOS setup with user created packages": "Customise your muOS setup with user created packages",
+    "Customisation": "Prilagođavanje",
+    "Customise your muOS setup with user created packages": "Prilagodite svoj muOS pomoću korisnički kreiranih paketa",
     "Date and Time": "Datum i vreme",
     "Device specific and muOS frontend settings can be found here": "Podešavanja specifična za uređaj i muOS korisnički interfejs mogu se pronaći ovde",
     "Find out what storage device core settings and configurations are mounted": "Saznajte koja su podešavanja i konfiguracije skladišnog uređaja montirana",
@@ -88,13 +88,13 @@
     "Wi-Fi Network": "Wi-Fi Mreža"
   },
   "muxcustom": {
-    "CUSTOMISATION": "CUSTOMISATION",
-    "Catalogue Sets": "Catalogue Sets",
-    "Change the appearance of the muOS frontend launcher": "Change the appearance of the muOS frontend launcher",
-    "Load user created RetroArch configurations": "Load user created RetroArch configurations",
-    "Load user created artwork catalogue for content": "Load user created artwork catalogue for content",
-    "RetroArch Configurations": "RetroArch Configurations",
-    "muOS Themes": "muOS Themes"
+    "CUSTOMISATION": "PRILAGOĐAVANJE",
+    "Catalogue Sets": "Kolekcije kataloga",
+    "Change the appearance of the muOS frontend launcher": "Prilagodite izgled početnog interfejsa muOS-a",
+    "Load user created RetroArch configurations": "Učitaj korisnički kreirane RetroArch konfiguracije",
+    "Load user created artwork catalogue for content": "Učitaj katalog sa ilustracijama sadržaja koji je kreirao korisnik",
+    "RetroArch Configurations": "RetroArch podešavanja",
+    "muOS Themes": "muOS teme"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Podesite upravljače procesora (CPU governors) da dinamički prilagođavaju frekvenciju procesora i pomognu u balansiranju potrošnje energije i performansi",
@@ -202,15 +202,15 @@
     "PASSCODE": "LOZINKA"
   },
   "muxpicker": {
-    "CATALOGUE PICKER": "CATALOGUE PICKER",
-    "CONFIG PICKER": "CONFIG PICKER",
-    "CUSTOM PICKER": "CUSTOM PICKER",
-    "No Catalogue Packages Found": "No Catalogue Packages Found",
-    "No Configuration Packages Found": "No Configuration Packages Found",
-    "No Custom Packages Found": "No Custom Packages Found",
-    "No Theme Packages Found": "No Theme Packages Found",
-    "THEME PICKER": "THEME PICKER",
-    "There are no attributed credits!": "There are no attributed credits!"
+    "CATALOGUE PICKER": "IZBOR KATALOGA",
+    "CONFIG PICKER": "IZBOR KONFIGURACIJA",
+    "CUSTOM PICKER": "IZBOR PRILAGOĐENOG PODEŠAVANJA",
+    "No Catalogue Packages Found": "Nema pronađenih paketa kataloga",
+    "No Configuration Packages Found": "Nema pronađenih paketa konfiguracija",
+    "No Custom Packages Found": "Nema dostupnih prilagođenih paketa",
+    "No Theme Packages Found": "Nema pronađenih paketa tema",
+    "THEME PICKER": "IZBOR TEMA",
+    "There are no attributed credits!": "Nema dodeljenih kredita ili priznanja!"
   },
   "muxplore": {
     "Added to Favourites": "Dodato u omiljeno",
