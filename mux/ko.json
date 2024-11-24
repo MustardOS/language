@@ -72,6 +72,8 @@
     "CONFIGURATION": "구성",
     "Change your current date, time, and timezone": "날짜, 시간, 타임존을 변경",
     "Connect to a Wi-Fi network manually or via a saved profile": "수동으로 또는 저장된 프로필을 통해 Wi-Fi 네트워크에 연결",
+    "Customisation": "Customisation",
+    "Customise your muOS setup with user created packages": "Customise your muOS setup with user created packages",
     "Date and Time": "날짜와 시간",
     "Device specific and muOS frontend settings can be found here": "장치 특이 설정과 muOS 설정을 찾을 수 있음",
     "Find out what storage device core settings and configurations are mounted": "어떤 저장 장치에 코어 설정 및 구성이 마운트되어 있는지 확인",
@@ -84,6 +86,15 @@
     "Toggle a range of configurable services you can access via an active network": "네트워크 활성을 통해 액세스할 수 있는 구성 가능한 서비스를 토글",
     "Web Services": "웹 서비스",
     "Wi-Fi Network": "Wi-Fi 네트워크"
+  },
+  "muxcustom": {
+    "CUSTOMISATION": "CUSTOMISATION",
+    "Catalogue Sets": "Catalogue Sets",
+    "Change the appearance of the muOS frontend launcher": "Change the appearance of the muOS frontend launcher",
+    "Load user created RetroArch configurations": "Load user created RetroArch configurations",
+    "Load user created artwork catalogue for content": "Load user created artwork catalogue for content",
+    "RetroArch Configurations": "RetroArch Configurations",
+    "muOS Themes": "muOS Themes"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU 주파수를 동적으로 조정하고 전력 소비와 성능의 균형을 유지하도록 CPU 거버너를 구성",
@@ -189,6 +200,17 @@
   },
   "muxpass": {
     "PASSCODE": "패스코드"
+  },
+  "muxpicker": {
+    "CATALOGUE PICKER": "CATALOGUE PICKER",
+    "CONFIG PICKER": "CONFIG PICKER",
+    "CUSTOM PICKER": "CUSTOM PICKER",
+    "No Catalogue Packages Found": "No Catalogue Packages Found",
+    "No Configuration Packages Found": "No Configuration Packages Found",
+    "No Custom Packages Found": "No Custom Packages Found",
+    "No Theme Packages Found": "No Theme Packages Found",
+    "THEME PICKER": "THEME PICKER",
+    "There are no attributed credits!": "There are no attributed credits!"
   },
   "muxplore": {
     "Added to Favourites": "즐겨찾기에 추가함",
