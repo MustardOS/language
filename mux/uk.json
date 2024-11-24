@@ -72,6 +72,8 @@
     "CONFIGURATION": "КОНФІГУРАЦІЯ",
     "Change your current date, time, and timezone": "Змінити поточну дату, час і часовий пояс",
     "Connect to a Wi-Fi network manually or via a saved profile": "Приєднатися до мережі Wi-Fi вруічну, або за допомогою збереженого профілю",
+    "Customisation": "Customisation",
+    "Customise your muOS setup with user created packages": "Customise your muOS setup with user created packages",
     "Date and Time": "Дата та Час",
     "Device specific and muOS frontend settings can be found here": "Тут можна знайти налаштування пристрою та інтерфейсу muOS",
     "Find out what storage device core settings and configurations are mounted": "Визначити які основні налаштування та конфігурація сховища змонтовано",
@@ -84,6 +86,15 @@
     "Toggle a range of configurable services you can access via an active network": "Активувати набір конфігурованих сервісів, до яких можна під'єднатися через поточну мережу",
     "Web Services": "Веб Сервіси",
     "Wi-Fi Network": "Мережа Wi-Fi"
+  },
+  "muxcustom": {
+    "CUSTOMISATION": "CUSTOMISATION",
+    "Catalogue Sets": "Catalogue Sets",
+    "Change the appearance of the muOS frontend launcher": "Change the appearance of the muOS frontend launcher",
+    "Load user created RetroArch configurations": "Load user created RetroArch configurations",
+    "Load user created artwork catalogue for content": "Load user created artwork catalogue for content",
+    "RetroArch Configurations": "RetroArch Configurations",
+    "muOS Themes": "muOS Themes"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Налаштувати CPU менеджер, щоб динамічно керувати частотою процесора зберігаючи баланс між споживанням енергії та швидкодією",
@@ -189,6 +200,17 @@
   },
   "muxpass": {
     "PASSCODE": "ПАРОЛЬ"
+  },
+  "muxpicker": {
+    "CATALOGUE PICKER": "CATALOGUE PICKER",
+    "CONFIG PICKER": "CONFIG PICKER",
+    "CUSTOM PICKER": "CUSTOM PICKER",
+    "No Catalogue Packages Found": "No Catalogue Packages Found",
+    "No Configuration Packages Found": "No Configuration Packages Found",
+    "No Custom Packages Found": "No Custom Packages Found",
+    "No Theme Packages Found": "No Theme Packages Found",
+    "THEME PICKER": "THEME PICKER",
+    "There are no attributed credits!": "There are no attributed credits!"
   },
   "muxplore": {
     "Added to Favourites": "Додано в Улюблені",
