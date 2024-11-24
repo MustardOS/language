@@ -72,6 +72,8 @@
     "CONFIGURATION": "系統設置",
     "Change your current date, time, and timezone": "變更您目前的日期、時間和時區",
     "Connect to a Wi-Fi network manually or via a saved profile": "手動或透過儲存的設定檔連接到Wi-Fi網路",
+    "Customisation": "Customisation",
+    "Customise your muOS setup with user created packages": "Customise your muOS setup with user created packages",
     "Date and Time": "日期與時間",
     "Device specific and muOS frontend settings can be found here": "設備具體設定和muOS前端設定可以在這裡找到",
     "Find out what storage device core settings and configurations are mounted": "找出已掛載哪些儲存設備核心設定和配置",
@@ -84,6 +86,15 @@
     "Toggle a range of configurable services you can access via an active network": "切換透過活動網路存取的一系列服務",
     "Web Services": "Web服務",
     "Wi-Fi Network": "Wi-Fi網路"
+  },
+  "muxcustom": {
+    "CUSTOMISATION": "CUSTOMISATION",
+    "Catalogue Sets": "Catalogue Sets",
+    "Change the appearance of the muOS frontend launcher": "Change the appearance of the muOS frontend launcher",
+    "Load user created RetroArch configurations": "Load user created RetroArch configurations",
+    "Load user created artwork catalogue for content": "Load user created artwork catalogue for content",
+    "RetroArch Configurations": "RetroArch Configurations",
+    "muOS Themes": "muOS Themes"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "配置CPU調控方案，動態調整CPU頻率，幫助平衡功耗與效能",
@@ -189,6 +200,17 @@
   },
   "muxpass": {
     "PASSCODE": "密碼"
+  },
+  "muxpicker": {
+    "CATALOGUE PICKER": "CATALOGUE PICKER",
+    "CONFIG PICKER": "CONFIG PICKER",
+    "CUSTOM PICKER": "CUSTOM PICKER",
+    "No Catalogue Packages Found": "No Catalogue Packages Found",
+    "No Configuration Packages Found": "No Configuration Packages Found",
+    "No Custom Packages Found": "No Custom Packages Found",
+    "No Theme Packages Found": "No Theme Packages Found",
+    "THEME PICKER": "THEME PICKER",
+    "There are no attributed credits!": "There are no attributed credits!"
   },
   "muxplore": {
     "Added to Favourites": "已新增至收藏夾",
