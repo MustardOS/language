@@ -72,8 +72,8 @@
     "CONFIGURATION": "НАСТРОЙКИ",
     "Change your current date, time, and timezone": "Изменение текущей даты, времени и часового пояса",
     "Connect to a Wi-Fi network manually or via a saved profile": "Подключение к сети Wi-Fi вручную или через сохраненный профиль",
-    "Customisation": "Customisation",
-    "Customise your muOS setup with user created packages": "Customise your muOS setup with user created packages",
+    "Customisation": "Кастомизация",
+    "Customise your muOS setup with user created packages": "Кастомизируйте muOS с помощью пользовательских пакетов",
     "Date and Time": "Дата и время",
     "Device specific and muOS frontend settings can be found here": "Настройки фронтенда muOS для конкретного устройства можно найти здесь",
     "Find out what storage device core settings and configurations are mounted": "Узнайте какие параметры ядра и системы выбраны",
@@ -88,13 +88,13 @@
     "Wi-Fi Network": "Wi-Fi подключение"
   },
   "muxcustom": {
-    "CUSTOMISATION": "CUSTOMISATION",
-    "Catalogue Sets": "Catalogue Sets",
-    "Change the appearance of the muOS frontend launcher": "Change the appearance of the muOS frontend launcher",
-    "Load user created RetroArch configurations": "Load user created RetroArch configurations",
-    "Load user created artwork catalogue for content": "Load user created artwork catalogue for content",
-    "RetroArch Configurations": "RetroArch Configurations",
-    "muOS Themes": "muOS Themes"
+    "CUSTOMISATION": "КАСТОМИЗАЦИЯ",
+    "Catalogue Sets": "Настройки папок",
+    "Change the appearance of the muOS frontend launcher": "Меняйте внешний вид лаунчера muOS",
+    "Load user created RetroArch configurations": "Загрузка пользовательских конфигураций для RetroArch",
+    "Load user created artwork catalogue for content": "Загрузка пользовательских каталогов с обложками для приложений",
+    "RetroArch Configurations": "Конфигурации для RetroArch",
+    "muOS Themes": "Темы muOS"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Настройка говернора процессора позволяющая динамически регулировать частоту ЦП для обеспечения баланса между энергопотреблением и производительностью",
@@ -202,15 +202,15 @@
     "PASSCODE": "ПАРОЛЬ"
   },
   "muxpicker": {
-    "CATALOGUE PICKER": "CATALOGUE PICKER",
-    "CONFIG PICKER": "CONFIG PICKER",
-    "CUSTOM PICKER": "CUSTOM PICKER",
-    "No Catalogue Packages Found": "No Catalogue Packages Found",
-    "No Configuration Packages Found": "No Configuration Packages Found",
-    "No Custom Packages Found": "No Custom Packages Found",
-    "No Theme Packages Found": "No Theme Packages Found",
-    "THEME PICKER": "THEME PICKER",
-    "There are no attributed credits!": "There are no attributed credits!"
+    "CATALOGUE PICKER": "ВЫБОР КАТАЛОГОВ",
+    "CONFIG PICKER": "ВЫБОР КОНФИГОВ",
+    "CUSTOM PICKER": "КАСТОМНЫЙ ВЫБОР",
+    "No Catalogue Packages Found": "Каталоги пакетов не найдены",
+    "No Configuration Packages Found": "Каталоги конфигураций не найдены",
+    "No Custom Packages Found": "Кастомные пакеты не найдены",
+    "No Theme Packages Found": "Каталоги тем не найдены",
+    "THEME PICKER": "ВЫБОР ТЕМ",
+    "There are no attributed credits!": "Не найдено применимых атрибутов!"
   },
   "muxplore": {
     "Added to Favourites": "Добавлено в избранное",
