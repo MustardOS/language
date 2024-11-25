@@ -35,9 +35,9 @@
   "muxapp": {
     "APPLICATIONS": "應用程式",
     "Archive Manager": "封裝檔管理員",
-    "Dingux Commander": "Dingux 檔案總管",
-    "Flip Clock": "Flip 時鐘",
-    "GMU Music Player": "GMU 音樂撥放器",
+    "Dingux Commander": "Dingux檔案總管",
+    "Flip Clock": "Flip時鐘",
+    "GMU Music Player": "GMU音樂撥放器",
     "Loading Application": "載入應用程式",
     "Moonlight": "Moonlight串流工具",
     "No Applications Found": "找不到應用程式",
@@ -72,6 +72,8 @@
     "CONFIGURATION": "系統設置",
     "Change your current date, time, and timezone": "變更您目前的日期、時間和時區",
     "Connect to a Wi-Fi network manually or via a saved profile": "手動或透過儲存的設定檔連接到Wi-Fi網路",
+    "Customisation": "Customisation",
+    "Customise your muOS setup with user created packages": "Customise your muOS setup with user created packages",
     "Date and Time": "日期與時間",
     "Device specific and muOS frontend settings can be found here": "設備具體設定和muOS前端設定可以在這裡找到",
     "Find out what storage device core settings and configurations are mounted": "找出已掛載哪些儲存設備核心設定和配置",
@@ -84,6 +86,15 @@
     "Toggle a range of configurable services you can access via an active network": "切換透過活動網路存取的一系列服務",
     "Web Services": "Web服務",
     "Wi-Fi Network": "Wi-Fi網路"
+  },
+  "muxcustom": {
+    "CUSTOMISATION": "CUSTOMISATION",
+    "Catalogue Sets": "Catalogue Sets",
+    "Change the appearance of the muOS frontend launcher": "Change the appearance of the muOS frontend launcher",
+    "Load user created RetroArch configurations": "Load user created RetroArch configurations",
+    "Load user created artwork catalogue for content": "Load user created artwork catalogue for content",
+    "RetroArch Configurations": "RetroArch Configurations",
+    "muOS Themes": "muOS Themes"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "配置CPU調控方案，動態調整CPU頻率，幫助平衡功耗與效能",
@@ -153,9 +164,9 @@
     "Device IP": "裝置IP",
     "Disconnect": "斷開",
     "Encrypting Password...": "密碼加密中…",
-    "Enter the device IP address here (Static only)": "在此輸入設備IP位址（僅限靜態）",
-    "Enter the device Subnet (CIDR) number here (Static only)": "在此輸入裝置子網路(CIDR)號碼（僅限靜態）",
-    "Enter the network gateway address here (Static only)": "在此輸入網路閘道位址（僅限靜態）",
+    "Enter the device IP address here (Static only)": "在此輸入設備IP位址 (僅限靜態)",
+    "Enter the device Subnet (CIDR) number here (Static only)": "在此輸入裝置子網路(CIDR)號碼 (僅限靜態)",
+    "Enter the network gateway address here (Static only)": "在此輸入網路閘道位址 (僅限靜態)",
     "Enter the network identifier (SSID) here": "在此輸入網路識別碼(SSID)",
     "Enter the network password here": "在此輸入網路密碼",
     "Enter the network password here (optional)": "在此輸入網路密碼(可選)",
@@ -183,12 +194,23 @@
     "CONTENT OPTION": "內容選項",
     "Search Content": "搜尋內容",
     "Search for content within the selected directory": "在所選的目錄中搜尋內容",
-    "Set the CPU governor for the selected content or directory": "為選定的內容或目錄設定 CPU 調控方案",
+    "Set the CPU governor for the selected content or directory": "為選定的內容或目錄設定CPU調控方案",
     "Set the system core or external emulator for the selected content or directory": "為所選內容或目錄設定系統核心或外部模擬器",
     "System Governor": "系統調控方案"
   },
   "muxpass": {
     "PASSCODE": "密碼"
+  },
+  "muxpicker": {
+    "CATALOGUE PICKER": "CATALOGUE PICKER",
+    "CONFIG PICKER": "CONFIG PICKER",
+    "CUSTOM PICKER": "CUSTOM PICKER",
+    "No Catalogue Packages Found": "No Catalogue Packages Found",
+    "No Configuration Packages Found": "No Configuration Packages Found",
+    "No Custom Packages Found": "No Custom Packages Found",
+    "No Theme Packages Found": "No Theme Packages Found",
+    "THEME PICKER": "THEME PICKER",
+    "There are no attributed credits!": "There are no attributed credits!"
   },
   "muxplore": {
     "Added to Favourites": "已新增至收藏夾",
@@ -255,7 +277,7 @@
     "SEARCH CONTENT": "搜尋內容",
     "Search Global": "全域搜尋",
     "Search Local": "本地搜尋",
-    "Search all current active storage devices": "搜尋當前所有啟用的儲存設備",
+    "Search all current active storage devices": "在當前所有啟用的儲存設備中搜尋",
     "Search within the current selected folder and folders within": "在目前選定的資料夾及子資料夾中搜尋"
   },
   "muxstorage": {
@@ -370,7 +392,7 @@
     "Quiet": "安靜",
     "Random Theme on Boot": "開機隨選主題",
     "Retro": "復古(A鍵確認)",
-    "RetroArch Network Wait": "RetroArch 網路等待",
+    "RetroArch Network Wait": "RetroArch網路等待",
     "Shutdown": "關機",
     "Shutdown + Sleep": "關機+休眠",
     "Sleep": "休眠",
