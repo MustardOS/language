@@ -370,7 +370,7 @@
     "Adjust the rate of speed when holding navigation keys down": "Ajustez la vitesse lorsque vous maintenez les touches de navigation enfoncées",
     "Battery Offset": "Ajustement de la capacité de la batterie",
     "Brightness On Boot": "Luminosité au démarrage",
-    "Button Swap": "Inversion des boutons",
+    "Button Swap": "Disposition des boutons",
     "Change how the device buttons work globally": "Modifiez le fonctionnement global des commandes de la console",
     "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font": "Modifiez le fonctionnement du type de police dans l'interface. « Thème » garantira que l'interface utilisera les polices du thème actif ou les polices de la langue si le thème n'en n'a pas. « Langue » utilisera spécifiquement une police basée sur la langue",
     "Change the default audio level that the device will use each time it starts up": "Modifiez le niveau audio par défaut que la console utilisera à chaque démarrage",
