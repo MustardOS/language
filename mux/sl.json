@@ -72,8 +72,8 @@
     "CONFIGURATION": "KONFIGURACIJA",
     "Change your current date, time, and timezone": "Spreminjanje trenutnega datuma, časa in časovnega pasu",
     "Connect to a Wi-Fi network manually or via a saved profile": "Povežite se z omrežjem Wi-Fi ročno ali prek shranjenega profila",
-    "Customisation": "Customisation",
-    "Customise your muOS setup with user created packages": "Customise your muOS setup with user created packages",
+    "Customisation": "Prilagajanje",
+    "Customise your muOS setup with user created packages": "Prilagodite muOS z paketi, ki so jih ustvarili drugi uporabniki",
     "Date and Time": "Datum in čas",
     "Device specific and muOS frontend settings can be found here": "Nastavitve specifične za napravo in izgled muOS najdete tukaj",
     "Find out what storage device core settings and configurations are mounted": "Ugotovite, katere nastavitve in konfiguracije jedra naprave za shranjevanje so nameščene",
@@ -82,19 +82,19 @@
     "Select a muOS supported theme": "Izberite temo, ki jo podpira muOS",
     "Select your preferred language": "Izberite želeni jezik",
     "Storage": "Shranjevanje",
-    "Theme Picker": "Izbiranje teme",
+    "Theme Picker": "Izbira teme",
     "Toggle a range of configurable services you can access via an active network": "Preklopite razne storitve, do katerih lahko dostopate preko aktivnega omrežja",
     "Web Services": "Spletne Storitve",
     "Wi-Fi Network": "Omrežje Wi-Fi"
   },
   "muxcustom": {
-    "CUSTOMISATION": "CUSTOMISATION",
-    "Catalogue Sets": "Catalogue Sets",
-    "Change the appearance of the muOS frontend launcher": "Change the appearance of the muOS frontend launcher",
-    "Load user created RetroArch configurations": "Load user created RetroArch configurations",
-    "Load user created artwork catalogue for content": "Load user created artwork catalogue for content",
-    "RetroArch Configurations": "RetroArch Configurations",
-    "muOS Themes": "muOS Themes"
+    "CUSTOMISATION": "PRILAGAJANJE",
+    "Catalogue Sets": "Katalogi kompletov",
+    "Change the appearance of the muOS frontend launcher": "Spremenite videz zaganjalnika muOS",
+    "Load user created RetroArch configurations": "Naložite konfiguracije RetroArch, ki so jih ustvarili uporabniki",
+    "Load user created artwork catalogue for content": "Naložite katalog slik vsebine, ki so ga ustvarili uporabniki",
+    "RetroArch Configurations": "Konfiguracije RetroArch",
+    "muOS Themes": "Teme muOS"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Konfigurirajte upravljavce procesorja (CPU), da dinamično prilagajajo frekvenco procesorja in pomagajo uravnotežiti porabo energije in zmogljivost",
@@ -202,15 +202,15 @@
     "PASSCODE": "GESLO"
   },
   "muxpicker": {
-    "CATALOGUE PICKER": "CATALOGUE PICKER",
-    "CONFIG PICKER": "CONFIG PICKER",
-    "CUSTOM PICKER": "CUSTOM PICKER",
-    "No Catalogue Packages Found": "No Catalogue Packages Found",
-    "No Configuration Packages Found": "No Configuration Packages Found",
-    "No Custom Packages Found": "No Custom Packages Found",
-    "No Theme Packages Found": "No Theme Packages Found",
-    "THEME PICKER": "THEME PICKER",
-    "There are no attributed credits!": "There are no attributed credits!"
+    "CATALOGUE PICKER": "IZBIRNIK KATALOGOV",
+    "CONFIG PICKER": "IZBIRNIK KONFIGURACIJ",
+    "CUSTOM PICKER": "IZBIRNIK PRILAGODITEV",
+    "No Catalogue Packages Found": "Noben paket katalogov ni bil najden",
+    "No Configuration Packages Found": "Noben paket konfiguracij ni bil najden",
+    "No Custom Packages Found": "Noben paket prilagoditev ni bil najden",
+    "No Theme Packages Found": "Noben paket tem ni bil najden",
+    "THEME PICKER": "IZBIRA TEME",
+    "There are no attributed credits!": "Ni pripisanih zaslug!"
   },
   "muxplore": {
     "Added to Favourites": "Dodano k Priljubljenim",
