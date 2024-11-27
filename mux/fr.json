@@ -209,7 +209,7 @@
     "No Configuration Packages Found": "Aucun package de configuration trouvé",
     "No Custom Packages Found": "Aucun package de personnalisation trouvé",
     "No Theme Packages Found": "Aucun package de thème trouvé",
-    "THEME PICKER": "SELECTEUR DE THEME",
+    "THEME PICKER": "SELECTEUR DE THÈME",
     "There are no attributed credits!": "Il n’y a aucun crédit attribué !"
   },
   "muxplore": {
@@ -487,7 +487,7 @@
     "Center": "Au centre",
     "Change the display priority of the content images": "Modifiez la priorité d'affichage des illustrations de contenu",
     "Change the screen alignment of the content images": "Modifiez l'alignement à l'écran des illustrations de contenu",
-    "Changes the top title label in Explore Content to show current storage device along with folder name": "Modifie l'étiquette de titre supérieure dans Explorer le contenu pour afficher le périphérique de stockage actuel ainsi que le nom du dossier",
+    "Changes the top title label in Explore Content to show current storage device along with folder name": "Modifie l'étiquette de titre supérieure dans \"Explorer le contenu\" pour afficher le périphérique de stockage actuel ainsi que le nom du dossier",
     "Clock": "Horloge",
     "Content Box Art": "Illustrations du contenu",
     "Content Box Art Alignment": "Alignement des illustrations",
@@ -508,7 +508,7 @@
     "Middle Left": "Au centre à gauche",
     "Middle Right": "Au centre à droite",
     "Network": "Réseau",
-    "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Réorganise l'étiquette du contenu pour déplacer l'étiquette « The » au début. Par exemple, « Batman and Robin, The » à « The Batman and Robin »",
+    "Rearranges the label of content to move the 'The' label to the front - For example, 'Batman and Robin, The' to 'The Batman and Robin'": "Réorganise l'étiquette du contenu pour déplacer l'étiquette « The » au début. Par exemple, « Batman and Robin, The » devient « The Batman and Robin »",
     "Remove ( )": "Retirer les ( )",
     "Remove [ ]": "Retirer les [ ]",
     "Remove [ ] and ( )": "Retirer les [ ] et les ( )",
