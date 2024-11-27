@@ -72,8 +72,8 @@
     "CONFIGURATION": "CONFIGURAZIONE",
     "Change your current date, time, and timezone": "Cambia la tua data, ora e fuso orario attuali",
     "Connect to a Wi-Fi network manually or via a saved profile": "Connettiti a una rete Wi-Fi manualmente o tramite un profilo salvato",
-    "Customisation": "Customisation",
-    "Customise your muOS setup with user created packages": "Customise your muOS setup with user created packages",
+    "Customisation": "Personalizzazione",
+    "Customise your muOS setup with user created packages": "Personalizza la tua configurazione di muOS con pacchetti creati dagli utenti",
     "Date and Time": "Data e Ora",
     "Device specific and muOS frontend settings can be found here": "Le impostazioni specifiche del dispositivo e del frontend muOS possono essere trovate qui",
     "Find out what storage device core settings and configurations are mounted": "Scopri quali impostazioni e configurazioni principali del dispositivo di archiviazione sono in uso",
@@ -88,13 +88,13 @@
     "Wi-Fi Network": "Rete Wi-Fi"
   },
   "muxcustom": {
-    "CUSTOMISATION": "CUSTOMISATION",
-    "Catalogue Sets": "Catalogue Sets",
-    "Change the appearance of the muOS frontend launcher": "Change the appearance of the muOS frontend launcher",
-    "Load user created RetroArch configurations": "Load user created RetroArch configurations",
-    "Load user created artwork catalogue for content": "Load user created artwork catalogue for content",
-    "RetroArch Configurations": "RetroArch Configurations",
-    "muOS Themes": "muOS Themes"
+    "CUSTOMISATION": "PERSONALIZZAZIONE",
+    "Catalogue Sets": "Set Catalogo",
+    "Change the appearance of the muOS frontend launcher": "Modifica l'aspetto del launcher frontend di muOS",
+    "Load user created RetroArch configurations": "Carica configurazioni di RetroArch create dagli utenti",
+    "Load user created artwork catalogue for content": "Carica il catalogo di artwork creato dagli utenti per i contenuti",
+    "RetroArch Configurations": "Configurazioni RetroArch",
+    "muOS Themes": "Temi muOS"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configura i governor della CPU per regolare dinamicamente la frequenza della CPU e aiutare a bilanciare il consumo energetico e le prestazioni",
@@ -202,15 +202,15 @@
     "PASSCODE": "CODICE"
   },
   "muxpicker": {
-    "CATALOGUE PICKER": "CATALOGUE PICKER",
-    "CONFIG PICKER": "CONFIG PICKER",
-    "CUSTOM PICKER": "CUSTOM PICKER",
-    "No Catalogue Packages Found": "No Catalogue Packages Found",
-    "No Configuration Packages Found": "No Configuration Packages Found",
-    "No Custom Packages Found": "No Custom Packages Found",
-    "No Theme Packages Found": "No Theme Packages Found",
-    "THEME PICKER": "THEME PICKER",
-    "There are no attributed credits!": "There are no attributed credits!"
+    "CATALOGUE PICKER": "SELETTORE CATALOGO",
+    "CONFIG PICKER": "SELETTORE CONFIGURAZIONI",
+    "CUSTOM PICKER": "SELETTORE PERSONALIZZATO",
+    "No Catalogue Packages Found": "Nessun Pacchetto del Catalogo Trovato",
+    "No Configuration Packages Found": "Nessun Pacchetto di Configurazione Trovato",
+    "No Custom Packages Found": "Nessun Pacchetto Personalizzato Trovato",
+    "No Theme Packages Found": "Nessun Pacchetto Tema Trovato",
+    "THEME PICKER": "SELETTORE TEMA",
+    "There are no attributed credits!": "Non ci sono crediti attribuiti!"
   },
   "muxplore": {
     "Added to Favourites": "Aggiunto ai Preferiti",
