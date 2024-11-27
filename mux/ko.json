@@ -2,7 +2,7 @@
   "generic": {
     "Back": "이전",
     "Clear": "지우기",
-    "Directory": "디렉터리",
+    "Directory": "폴더",
     "Disabled": "비활성화",
     "Enabled": "활성화됨",
     "External": "외부",
@@ -19,7 +19,7 @@
     "No Help Information Found": "도움말 정보가 없음",
     "Open": "열기",
     "Previous": "이전 상태",
-    "Recursive": "하위 디렉터리 포함",
+    "Recursive": "하위 폴더 포함",
     "Remove": "제거",
     "Rescan": "재스캔",
     "Save": "저장",
@@ -57,7 +57,7 @@
   },
   "muxassign": {
     "ASSIGN": "할당",
-    "Assigned to directory": "디렉터리에 할당",
+    "Assigned to directory": "폴더에 할당",
     "Assigned to file": "파일에 할당",
     "No Cores Found...": "코어 없음…",
     "This is where you can assign a core or external emulator to content": "여기서 코어 또는 외부 에뮬레이터를 콘텐츠에 할당함"
@@ -193,9 +193,9 @@
     "Assign Core": "코어 할당",
     "CONTENT OPTION": "콘텐츠 옵션",
     "Search Content": "콘텐츠 검색",
-    "Search for content within the selected directory": "선택한 디렉토리 내의 콘텐츠 검색",
-    "Set the CPU governor for the selected content or directory": "선택한 콘텐츠 또는 디렉터리에 대한 CPU 거버너를 설정",
-    "Set the system core or external emulator for the selected content or directory": "선택한 콘텐츠 또는 디렉터리에 대한 시스템 코어 또는 외부 에뮬레이터 설정",
+    "Search for content within the selected directory": "선택한 폴더 내의 콘텐츠 검색",
+    "Set the CPU governor for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 CPU 거버너를 설정",
+    "Set the system core or external emulator for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 시스템 코어 또는 외부 에뮬레이터 설정",
     "System Governor": "시스템 거버너"
   },
   "muxpass": {
@@ -216,7 +216,7 @@
     "Added to Favourites": "즐겨찾기에 추가함",
     "Could not load content - No core is associated": "콘텐츠를 로드할 수 없음 - 연결된 코어가 없음",
     "Could not load content!": "콘텐츠를 로드할 수 없음!",
-    "Directories cannot be added to Favourites": "즐겨찾기에 디렉터리를 추가할 수 없음",
+    "Directories cannot be added to Favourites": "즐겨찾기에 폴더를 추가할 수 없음",
     "EXPLORE": "탐색",
     "Error adding to Favourites": "즐겨찾기 추가에 오류",
     "FAVOURITES": "즐겨찾기",
