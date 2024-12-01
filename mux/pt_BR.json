@@ -197,6 +197,7 @@
     "Enter the network identifier (SSID) here": "Enter the network identifier (SSID) here",
     "Enter the network password here (optional)": "Insira a senha da rede aqui (opcional)",
     "Gateway IP": "IP do Gateway",
+    "Hidden Network": "Hidden Network",
     "Identifier": "Identificador",
     "Network Active": "Ativo na Rede",
     "Network Disabled": "Rede Desativada",
@@ -211,6 +212,7 @@
     "Subnet CIDR": "Subnet CIDR",
     "Toggle between DHCP and Static network types": "Toggle between DHCP and Static network types",
     "Toggle the Wi-Fi network on and off": "Toggle the Wi-Fi network on and off",
+    "Toggle whether or not to try and connect to a hidden SSID broadcast": "Toggle whether or not to try and connect to a hidden SSID broadcast",
     "Trying to Connect...": "Tentativa de conexão…",
     "WI-FI NETWORK": "REDE WI-FI"
   },
@@ -385,6 +387,7 @@
   "muxtweakadv": {
     "ADVANCED SETTINGS": "CONFIGURAÇÕES AVANÇADAS",
     "Adjust the rate of speed when holding navigation keys down": "Ajusta a velocidade quando segurando as teclas de navegação",
+    "Audio Overdrive": "Audio Overdrive",
     "Battery Offset": "Ajuste do Desvio de Bateria",
     "Brightness On Boot": "Brilho ao Ligar",
     "Button Swap": "Troca de Botões",
@@ -422,6 +425,7 @@
     "Toggle a delayed start of RetroArch until a network connection is established": "Toggle a delayed start of RetroArch until a network connection is established",
     "Toggle between ADB and MTP USB functionality": "Toggle between ADB and MTP USB functionality",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Toggle startup and shutdown verbose messages used for debugging faults",
+    "Toggle the audio overdrive moving it from 100% to 200%": "Toggle the audio overdrive moving it from 100% to 200%",
     "Toggle the functionality of the power button to switch DPAD mode": "Alterna a funcionalidade do botão de ligar para trocar o modo do DPAD",
     "Toggle the functionality of the user initialisation scripts on device startup": "Alterna a funcionalidade de scripts de inicialização do usuário ao ligar o dispositivo",
     "Toggle the passcode lock - More information can be found on the muOS website": "Toggle the passcode lock - More information can be found on the muOS website",
