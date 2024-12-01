@@ -425,7 +425,7 @@
     "Toggle a delayed start of RetroArch until a network connection is established": "Activez/désactivez un démarrage différé de RetroArch jusqu'à ce qu'une connexion réseau soit établie",
     "Toggle between ADB and MTP USB functionality": "Basculez entre les fonctionnalités USB ADB et MTP",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Activez/désactivez les messages détaillés de démarrage et d'arrêt utilisés pour le débogage des erreurs",
-    "Toggle the audio overdrive moving it from 100% to 200%": "Activez la saturation audio en passant de 100 % à 200 %",
+    "Toggle the audio overdrive moving it from 100% to 200%": "Activez la saturation audio en passant de 100% à 200%",
     "Toggle the functionality of the power button to switch DPAD mode": "Activez/désactivez la fonctionnalité du bouton d'alimentation pour changer le mode DPAD",
     "Toggle the functionality of the user initialisation scripts on device startup": "Activez/désactivez la fonctionnalité des scripts d'initialisation personnalisés au démarrage de la console",
     "Toggle the passcode lock - More information can be found on the muOS website": "Activez/désactivez le verrouillage par mot de passe. Plus d’informations peuvent être trouvées sur le site Web de muOS",
