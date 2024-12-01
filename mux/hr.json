@@ -197,6 +197,7 @@
     "Enter the network identifier (SSID) here": "Upiši mrežni identifikator (SSID) ovdje",
     "Enter the network password here (optional)": "Unesi lozinku mreže ovdje (neobavezno)",
     "Gateway IP": "Gateway IP",
+    "Hidden Network": "Hidden Network",
     "Identifier": "Identifikator",
     "Network Active": "Mreža aktivna",
     "Network Disabled": "Mreža Isključena",
@@ -211,6 +212,7 @@
     "Subnet CIDR": "Podmreža CIDR",
     "Toggle between DHCP and Static network types": "Odaberi između DHCP i Statičnih vrsta mreža",
     "Toggle the Wi-Fi network on and off": "Odaberi Wi-Fi mrežu uključenu ili isključenu",
+    "Toggle whether or not to try and connect to a hidden SSID broadcast": "Toggle whether or not to try and connect to a hidden SSID broadcast",
     "Trying to Connect...": "Pokušaj za povezivanje…",
     "WI-FI NETWORK": "WI-FI MREŽA"
   },
@@ -385,6 +387,7 @@
   "muxtweakadv": {
     "ADVANCED SETTINGS": "NAPREDNE POSTAVKE",
     "Adjust the rate of speed when holding navigation keys down": "Prilagodi brzinu listanja kada su pretisnute navigacijske tipke",
+    "Audio Overdrive": "Audio Overdrive",
     "Battery Offset": "Odstupak Baterije",
     "Brightness On Boot": "Svjetlina na Pokretanje",
     "Button Swap": "Zamjena Gumbova",
@@ -422,6 +425,7 @@
     "Toggle a delayed start of RetroArch until a network connection is established": "Odredi kašnjenje početka RetroArch dokad stabilna konekcija na mrežu je osigurana",
     "Toggle between ADB and MTP USB functionality": "Odredi između ADB i MTP USB funkcionalnost",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Odredi pokretanje i isključivane opširnih poruka korišteno za debugging greška",
+    "Toggle the audio overdrive moving it from 100% to 200%": "Toggle the audio overdrive moving it from 100% to 200%",
     "Toggle the functionality of the power button to switch DPAD mode": "Odredi funkcionalnost gumba za napajanje da promijeni DPAD način rada",
     "Toggle the functionality of the user initialisation scripts on device startup": "Odredi funkcionalnost korisničkih pokretnij skripta na pokretanje uređaja",
     "Toggle the passcode lock - More information can be found on the muOS website": "Odredi lozinku - Više informacije se nalazi na muOS web-stranici",

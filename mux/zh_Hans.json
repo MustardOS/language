@@ -197,6 +197,7 @@
     "Enter the network identifier (SSID) here": "输入网络名称（SSID）",
     "Enter the network password here (optional)": "在此输入网络密码（可选）",
     "Gateway IP": "网关IP",
+    "Hidden Network": "Hidden Network",
     "Identifier": "名称",
     "Network Active": "网络已启用",
     "Network Disabled": "网络已关闭",
@@ -211,6 +212,7 @@
     "Subnet CIDR": "子网CIDR",
     "Toggle between DHCP and Static network types": "选择IP地址动态分配（DHCP）或静态分配",
     "Toggle the Wi-Fi network on and off": "设置Wi-Fi网络连接状态",
+    "Toggle whether or not to try and connect to a hidden SSID broadcast": "Toggle whether or not to try and connect to a hidden SSID broadcast",
     "Trying to Connect...": "尝试连接中…",
     "WI-FI NETWORK": "Wi-Fi网络"
   },
@@ -385,6 +387,7 @@
   "muxtweakadv": {
     "ADVANCED SETTINGS": "高级设置",
     "Adjust the rate of speed when holding navigation keys down": "调整按住导航按键时菜单滚动速度",
+    "Audio Overdrive": "Audio Overdrive",
     "Battery Offset": "电池容量计数偏移",
     "Brightness On Boot": "开机亮度",
     "Button Swap": "更换按键映射",
@@ -422,6 +425,7 @@
     "Toggle a delayed start of RetroArch until a network connection is established": "设置是否在确认联网前暂缓RetroArch启动",
     "Toggle between ADB and MTP USB functionality": "切换USB连接功能为ADB或MTP",
     "Toggle startup and shutdown verbose messages used for debugging faults": "设置开关机时是否输出日志消息",
+    "Toggle the audio overdrive moving it from 100% to 200%": "Toggle the audio overdrive moving it from 100% to 200%",
     "Toggle the functionality of the power button to switch DPAD mode": "Toggle the functionality of the power button to switch DPAD mode",
     "Toggle the functionality of the user initialisation scripts on device startup": "设置在设备启动时切换用户初始化脚本的功能",
     "Toggle the passcode lock - More information can be found on the muOS website": "设置密码锁 - 详情查看muOS官网",

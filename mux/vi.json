@@ -197,6 +197,7 @@
     "Enter the network identifier (SSID) here": "Nhập tên mạng (SSID) ở đây",
     "Enter the network password here (optional)": "Enter the network password here (optional)",
     "Gateway IP": "IP cổng",
+    "Hidden Network": "Hidden Network",
     "Identifier": "Tên mạng",
     "Network Active": "Mạng hoạt động",
     "Network Disabled": "Mạng bị tắt",
@@ -211,6 +212,7 @@
     "Subnet CIDR": "CIDR mạng con",
     "Toggle between DHCP and Static network types": "Toggle between DHCP and Static network types",
     "Toggle the Wi-Fi network on and off": "Toggle the Wi-Fi network on and off",
+    "Toggle whether or not to try and connect to a hidden SSID broadcast": "Toggle whether or not to try and connect to a hidden SSID broadcast",
     "Trying to Connect...": "Trying to Connect…",
     "WI-FI NETWORK": "MẠNG WI-FI"
   },
@@ -385,6 +387,7 @@
   "muxtweakadv": {
     "ADVANCED SETTINGS": "CÀI ĐẶT NÂNG CAO",
     "Adjust the rate of speed when holding navigation keys down": "Adjust the rate of speed when holding navigation keys down",
+    "Audio Overdrive": "Audio Overdrive",
     "Battery Offset": "Hiệu chỉnh hiển thị pin",
     "Brightness On Boot": "Độ sáng khi khởi động",
     "Button Swap": "Hoán đổi phím",
@@ -422,6 +425,7 @@
     "Toggle a delayed start of RetroArch until a network connection is established": "Toggle a delayed start of RetroArch until a network connection is established",
     "Toggle between ADB and MTP USB functionality": "Chuyển đổi tính năng kết nối USB giữa ADB và MTP",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Toggle startup and shutdown verbose messages used for debugging faults",
+    "Toggle the audio overdrive moving it from 100% to 200%": "Toggle the audio overdrive moving it from 100% to 200%",
     "Toggle the functionality of the power button to switch DPAD mode": "Toggle the functionality of the power button to switch DPAD mode",
     "Toggle the functionality of the user initialisation scripts on device startup": "Toggle the functionality of the user initialisation scripts on device startup",
     "Toggle the passcode lock - More information can be found on the muOS website": "Toggle the passcode lock - More information can be found on the muOS website",
