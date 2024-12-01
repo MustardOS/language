@@ -197,6 +197,7 @@
     "Enter the network identifier (SSID) here": "Ange nätverksidentifieraren (SSID) här.",
     "Enter the network password here (optional)": "Enter the network password here (optional)",
     "Gateway IP": "Gateway-IP",
+    "Hidden Network": "Hidden Network",
     "Identifier": "Identifierare",
     "Network Active": "Network Active",
     "Network Disabled": "Nätverk inaktiverat",
@@ -211,6 +212,7 @@
     "Subnet CIDR": "Subnet CIDR",
     "Toggle between DHCP and Static network types": "Växla mellan DHCP och Statisk nätverkstyp.",
     "Toggle the Wi-Fi network on and off": "Växla Wi-Fi-nätverket på och av.",
+    "Toggle whether or not to try and connect to a hidden SSID broadcast": "Toggle whether or not to try and connect to a hidden SSID broadcast",
     "Trying to Connect...": "Försöker ansluta…",
     "WI-FI NETWORK": "WI-FI NÄTVERK"
   },
@@ -385,6 +387,7 @@
   "muxtweakadv": {
     "ADVANCED SETTINGS": "AVANCERADE INSTÄLLNINGAR",
     "Adjust the rate of speed when holding navigation keys down": "Justera hastigheten vid hållning av navigationsknappar",
+    "Audio Overdrive": "Audio Overdrive",
     "Battery Offset": "Batterikompensation",
     "Brightness On Boot": "Ljusstyrka vid start",
     "Button Swap": "Button Swap",
@@ -422,6 +425,7 @@
     "Toggle a delayed start of RetroArch until a network connection is established": "Växla en fördröjd start av RetroArch tills en nätverksanslutning är upprättad.",
     "Toggle between ADB and MTP USB functionality": "Växla mellan ADB- och MTP USB-funktionalitet.",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Växla start- och avstängningsmeddelanden som används för felsökning.",
+    "Toggle the audio overdrive moving it from 100% to 200%": "Toggle the audio overdrive moving it from 100% to 200%",
     "Toggle the functionality of the power button to switch DPAD mode": "Toggle the functionality of the power button to switch DPAD mode",
     "Toggle the functionality of the user initialisation scripts on device startup": "Toggle the functionality of the user initialisation scripts on device startup",
     "Toggle the passcode lock - More information can be found on the muOS website": "Växla lösenkodslåset - Mer information finns på muOS-webbplatsen.",
