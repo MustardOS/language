@@ -197,6 +197,7 @@
     "Enter the network identifier (SSID) here": "ネットワーク名 (SSID) を入力してください",
     "Enter the network password here (optional)": "Enter the network password here (optional)",
     "Gateway IP": "ゲートウェイ IP",
+    "Hidden Network": "Hidden Network",
     "Identifier": "ネットワーク名",
     "Network Active": "Network Active",
     "Network Disabled": "ネットワークを無効にする",
@@ -211,6 +212,7 @@
     "Subnet CIDR": "サブネット CIDR",
     "Toggle between DHCP and Static network types": "DHCP と 静的ネットワークを切り替えます",
     "Toggle the Wi-Fi network on and off": "Wi-Fi ネットワークの有効・無効を切り替えます",
+    "Toggle whether or not to try and connect to a hidden SSID broadcast": "Toggle whether or not to try and connect to a hidden SSID broadcast",
     "Trying to Connect...": "接続しています…",
     "WI-FI NETWORK": "WI-FI ネットワーク"
   },
@@ -385,6 +387,7 @@
   "muxtweakadv": {
     "ADVANCED SETTINGS": "詳細設定",
     "Adjust the rate of speed when holding navigation keys down": "操作キーを押し続けた際の移動速度を調整します",
+    "Audio Overdrive": "Audio Overdrive",
     "Battery Offset": "バッテリー誤差修正",
     "Brightness On Boot": "起動時の画面の明るさ",
     "Button Swap": "ボタン入れ替え",
@@ -422,6 +425,7 @@
     "Toggle a delayed start of RetroArch until a network connection is established": "ネットワークに接続するまで RetroArch の起動を待機します",
     "Toggle between ADB and MTP USB functionality": "USB の挙動を ADB と MTP で切り替えます",
     "Toggle startup and shutdown verbose messages used for debugging faults": "システムの起動・終了時の詳細表示を切り替えます\n（デバッグ用途）",
+    "Toggle the audio overdrive moving it from 100% to 200%": "Toggle the audio overdrive moving it from 100% to 200%",
     "Toggle the functionality of the power button to switch DPAD mode": "Toggle the functionality of the power button to switch DPAD mode",
     "Toggle the functionality of the user initialisation scripts on device startup": "Toggle the functionality of the user initialisation scripts on device startup",
     "Toggle the passcode lock - More information can be found on the muOS website": "パスコードロックを切り替えます\n詳細は muOS のホームページをご覧ください",
