@@ -197,6 +197,7 @@
     "Enter the network identifier (SSID) here": "在此輸入網路識別碼(SSID)",
     "Enter the network password here (optional)": "在此輸入網路密碼(可選)",
     "Gateway IP": "閘道IP",
+    "Hidden Network": "Hidden Network",
     "Identifier": "SSID",
     "Network Active": "網路啟用",
     "Network Disabled": "網路已關閉",
@@ -211,6 +212,7 @@
     "Subnet CIDR": "子網路CIDR",
     "Toggle between DHCP and Static network types": "在DHCP和靜態網路類型之間切換",
     "Toggle the Wi-Fi network on and off": "開啟和關閉Wi-Fi網路",
+    "Toggle whether or not to try and connect to a hidden SSID broadcast": "Toggle whether or not to try and connect to a hidden SSID broadcast",
     "Trying to Connect...": "嘗試連接中…",
     "WI-FI NETWORK": "WI-FI網路"
   },
@@ -385,6 +387,7 @@
   "muxtweakadv": {
     "ADVANCED SETTINGS": "進階設定",
     "Adjust the rate of speed when holding navigation keys down": "調整選單導航時滾動的速度",
+    "Audio Overdrive": "Audio Overdrive",
     "Battery Offset": "電量偏移修正",
     "Brightness On Boot": "開機時亮度",
     "Button Swap": "按鍵切換",
@@ -422,6 +425,7 @@
     "Toggle a delayed start of RetroArch until a network connection is established": "延遲啟動RetroArch直到建立網路連接",
     "Toggle between ADB and MTP USB functionality": "USB功能切換ADB或MTP",
     "Toggle startup and shutdown verbose messages used for debugging faults": "啟動和關閉時儲存用於調試故障的詳細訊息",
+    "Toggle the audio overdrive moving it from 100% to 200%": "Toggle the audio overdrive moving it from 100% to 200%",
     "Toggle the functionality of the power button to switch DPAD mode": "利用電源鍵切換十字鍵的功能",
     "Toggle the functionality of the user initialisation scripts on device startup": "在裝置啟動時切換使用者初始化腳本的功能",
     "Toggle the passcode lock - More information can be found on the muOS website": "密碼鎖定 - 更多資訊可以在muOS網站上找到",
