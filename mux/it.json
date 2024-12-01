@@ -197,6 +197,7 @@
     "Enter the network identifier (SSID) here": "Inserisci qui l'identificatore di rete (SSID)",
     "Enter the network password here (optional)": "Inserisci qui la password della rete (opzionale)",
     "Gateway IP": "IP Gateway",
+    "Hidden Network": "Hidden Network",
     "Identifier": "Identificatore",
     "Network Active": "Rete Attiva",
     "Network Disabled": "Rete Disabilitata",
@@ -211,6 +212,7 @@
     "Subnet CIDR": "Sottorete CIDR",
     "Toggle between DHCP and Static network types": "Cambia tra i tipi di rete DHCP e Statico",
     "Toggle the Wi-Fi network on and off": "Attiva/disattiva la rete Wi-Fi",
+    "Toggle whether or not to try and connect to a hidden SSID broadcast": "Toggle whether or not to try and connect to a hidden SSID broadcast",
     "Trying to Connect...": "Tentativo di Connessione…",
     "WI-FI NETWORK": "RETE WI-FI"
   },
@@ -385,6 +387,7 @@
   "muxtweakadv": {
     "ADVANCED SETTINGS": "IMPOSTAZIONI AVANZATE",
     "Adjust the rate of speed when holding navigation keys down": "Regola la velocità quando si tengono premuti i tasti di navigazione",
+    "Audio Overdrive": "Audio Overdrive",
     "Battery Offset": "Offset della Batteria",
     "Brightness On Boot": "Luminosità all'Avvio",
     "Button Swap": "Scambia Tasti",
@@ -422,6 +425,7 @@
     "Toggle a delayed start of RetroArch until a network connection is established": "Attiva/disattiva l'avvio ritardato di RetroArch fino a quando non viene stabilita una connessione di rete",
     "Toggle between ADB and MTP USB functionality": "Cambia tra la funzionalità USB ADB e MTP",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Attiva/disattiva i messaggi dettagliati di avvio e spegnimento utilizzati per il debug degli errori",
+    "Toggle the audio overdrive moving it from 100% to 200%": "Toggle the audio overdrive moving it from 100% to 200%",
     "Toggle the functionality of the power button to switch DPAD mode": "Attiva/disattiva la funzionalità del pulsante di accensione per cambiare modalità DPAD",
     "Toggle the functionality of the user initialisation scripts on device startup": "Attiva/disattiva la funzionalità degli script di inizializzazione utente all'avvio del dispositivo",
     "Toggle the passcode lock - More information can be found on the muOS website": "Attiva/disattiva il blocco con codice di accesso - Maggiori informazioni possono essere trovate sul sito di muOS",
