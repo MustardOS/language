@@ -387,7 +387,7 @@
   "muxtweakadv": {
     "ADVANCED SETTINGS": "POKROČILÉ NASTAVENÍ",
     "Adjust the rate of speed when holding navigation keys down": "Upravte rychlost při podržení navigačních kláves",
-    "Adjust the system swapfile if required by certain content": "Adjust the system swapfile if required by certain content",
+    "Adjust the system swapfile if required by certain content": "Upravte systémový odkládací soubor, pokud to vyžaduje určitý obsah",
     "Audio Overdrive": "Přesah zvuku",
     "Battery Offset": "Posunutí baterie",
     "Brightness On Boot": "Jas při spuštění",
@@ -421,7 +421,7 @@
     "Startup + Sleep": "Spuštění + Spánek",
     "Suspend Power State": "Pozastavit stav napájení",
     "Switch between system sleep suspend states": "Přepínání mezi stavy pozastavení spánku systému",
-    "System Swapfile": "System Swapfile",
+    "System Swapfile": "Systémový odkládací soubor",
     "Theme": "Téma",
     "Thermal Zone Control": "Ovládání tepelné zóny",
     "Toggle a delayed start of RetroArch until a network connection is established": "Přepněte odložený start RetroArch, dokud nebude navázáno síťové připojení",
