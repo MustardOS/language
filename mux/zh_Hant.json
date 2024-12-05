@@ -387,6 +387,7 @@
   "muxtweakadv": {
     "ADVANCED SETTINGS": "進階設定",
     "Adjust the rate of speed when holding navigation keys down": "調整選單導航時滾動的速度",
+    "Adjust the system swapfile if required by certain content": "Adjust the system swapfile if required by certain content",
     "Audio Overdrive": "音訊過載",
     "Battery Offset": "電量偏移修正",
     "Brightness On Boot": "開機時亮度",
@@ -420,6 +421,7 @@
     "Startup + Sleep": "啟動+休眠",
     "Suspend Power State": "待機電源狀態",
     "Switch between system sleep suspend states": "切換系統待機掛載的狀態",
+    "System Swapfile": "System Swapfile",
     "Theme": "跟隨主題",
     "Thermal Zone Control": "溫度區控制",
     "Toggle a delayed start of RetroArch until a network connection is established": "延遲啟動RetroArch直到建立網路連接",
