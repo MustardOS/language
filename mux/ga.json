@@ -387,6 +387,7 @@
   "muxtweakadv": {
     "ADVANCED SETTINGS": "ARDSOCRUITHE",
     "Adjust the rate of speed when holding navigation keys down": "Coigeartaigh an ráta luais agus eochracha nascleanúna á gcoinneáil síos",
+    "Adjust the system swapfile if required by certain content": "Adjust the system swapfile if required by certain content",
     "Audio Overdrive": "Tiománaí fuaime Overdrive",
     "Battery Offset": "Fritháireamh Cadhnra",
     "Brightness On Boot": "Gile Ar Tosaithe",
@@ -420,6 +421,7 @@
     "Startup + Sleep": "Tosaithe + Codladh",
     "Suspend Power State": "Cuir Stát na Cumhachta ar Fionraí",
     "Switch between system sleep suspend states": "Athraigh idir stáit ar fionraí codlata an chórais",
+    "System Swapfile": "System Swapfile",
     "Theme": "Téama",
     "Thermal Zone Control": "Rialú Creasa Teirmeach",
     "Toggle a delayed start of RetroArch until a network connection is established": "Scoránaigh tús moillithe RetroArch go dtí go mbunaítear nasc líonra",
