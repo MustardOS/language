@@ -387,6 +387,7 @@
   "muxtweakadv": {
     "ADVANCED SETTINGS": "NAPREDNE POSTAVKE",
     "Adjust the rate of speed when holding navigation keys down": "Prilagodi brzinu listanja kada su pretisnute navigacijske tipke",
+    "Adjust the system swapfile if required by certain content": "Adjust the system swapfile if required by certain content",
     "Audio Overdrive": "Audio Prekomjera",
     "Battery Offset": "Odstupak Baterije",
     "Brightness On Boot": "Svjetlina na Pokretanje",
@@ -420,6 +421,7 @@
     "Startup + Sleep": "Pokretanje + Spavanje",
     "Suspend Power State": "Suspendaj Stanje Napajanja",
     "Switch between system sleep suspend states": "Odredi između suspendanog stanja tijekom spavanja uređaja",
+    "System Swapfile": "System Swapfile",
     "Theme": "Teme",
     "Thermal Zone Control": "Kontrola Termičke Zone",
     "Toggle a delayed start of RetroArch until a network connection is established": "Odredi kašnjenje početka RetroArch dokad stabilna konekcija na mrežu je osigurana",
