@@ -213,7 +213,7 @@
     "Subnet CIDR": "Подсеть CIDR",
     "Toggle between DHCP and Static network types": "Переключение между типами сетей DHCP и Static",
     "Toggle the Wi-Fi network on and off": "Включение и выключение сети Wi-Fi",
-    "Toggle whether or not to try and connect to a hidden SSID broadcast": "Выберите нужно ли пытаться подключаться к скрытому SSID",
+    "Toggle whether or not to try and connect to a hidden SSID broadcast": "Выберите, нужно ли пытаться подключаться к скрытому SSID",
     "Trying to Connect...": "Попытка соединения…",
     "WI-FI NETWORK": "WI-FI СЕТЬ"
   },
