@@ -23,6 +23,7 @@
     "Switch to Information": "Preklop na informacije",
     "Switch to Preview Image": "Preklopi na predogled slike",
     "Sync to SD1": "Sinhroniziraj na SD1",
+    "This is disabled in kiosk mode!": "This is disabled in kiosk mode!",
     "Use": "Uporabi"
   },
   "muxapp": {
@@ -400,6 +401,7 @@
     "Change the displayed battery percentage to improve accuracy based on calibration or known deviations in the battery capacity reading": "Spremenite prikazani odstotek baterije za izboljšanje natančnosti na podlagi kalibracije ali znanih odstopanj pri merjenju kapacitete baterije",
     "DPAD Swap Function": "Funkcija zamenjave smernih tipk (DPAD)",
     "Device Rumble": "Vibriranje naprave",
+    "Disk Tuning": "Disk Tuning",
     "High": "Visoko",
     "Interface Font Type": "Vrsta pisave vmesnika",
     "LED During Play": "LED med igranjem",
@@ -420,6 +422,7 @@
     "Startup + Shutdown": "Zagon + Izklop",
     "Startup + Sleep": "Zagon + Spanje",
     "Suspend Power State": "Prekinitev napajanja",
+    "Switch between different storage tuning options": "Switch between different storage tuning options",
     "Switch between system sleep suspend states": "Preklopite med različnimi načini spanja naprave",
     "System Swapfile": "System Swapfile",
     "Theme": "Tema",
