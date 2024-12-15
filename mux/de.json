@@ -66,7 +66,7 @@
     "CONFIGURATION": "KONFIGURATION",
     "Change your current date, time, and timezone": "Ändern des aktuellen Datums, der Uhrzeit und der Zeitzone",
     "Connect to a Wi-Fi network manually or via a saved profile": "Manuell zu einem Wi-Fi-Netzwerk verbinden oder über ein gespeichertes Profil",
-    "Customisation": "Anpassung",
+    "Customisation": "Anpassungen",
     "Customise your muOS setup with user created packages": "muOS-Setup mit benutzerdefinierten Paketen anpassen",
     "Date and Time": "Datum und Uhrzeit",
     "Device specific and muOS frontend settings can be found here": "Gerätespezifische und muOS-Frontend-Einstellungen",
@@ -80,7 +80,7 @@
     "Wi-Fi Network": "Wi-Fi Netzwerk"
   },
   "muxcustom": {
-    "CUSTOMISATION": "CUSTOMISIERUNG",
+    "CUSTOMISATION": "ANPASSUNGEN",
     "Catalogue Sets": "Katalog-Sets",
     "Change the appearance of the muOS frontend launcher": "Erscheinungsbild des muOS-Frontend-Launchers anpassen",
     "Load user created RetroArch configurations": "Benutzerdefinierte RetroArch-Konfigurationen laden",
