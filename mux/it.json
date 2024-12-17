@@ -107,7 +107,7 @@
     "720p + 60hz": "720p + 60hz",
     "Audio Output": "Uscita Audio",
     "Choose the color space, such as RGB or YUV.": "Scegli il profilo colore, come RGB oppure YUV.",
-    "Colour Depth": "Profondità colore",
+    "Colour Depth": "Profondità Colore",
     "Colour Range": "Gamma Colore",
     "Colour Space": "Spazio Colore",
     "Enable or disable HDMI output.": "Attiva o disattiva l'uscita HDMI.",
@@ -123,7 +123,7 @@
     "Scan Scaling": "Scala Scansione",
     "Select the resolution for HDMI output, such as 720p or 1080p.": "Seleziona la risoluzione per l'uscita HDMI, come 720p oppure 1080p.",
     "Set the color depth, such as 8-bit or 10-bit.": "Imposta la profondità colore, come 8-bit oppure 10-bit.",
-    "Set the color range of RGB colour space.": "Imposta il profilo colore come spazio colore RGB.",
+    "Set the color range of RGB colour space.": "Imposta la gamma colore come spazio colore RGB.",
     "Switch between device speaker or external monitor audio via HDMI connection.": "Scambia l'audio degli altoparlanti con quelli del monitor esterno tramite connessione HDMI.",
     "Switch between overscan or underscan to fit the display screen.": "Scambia tra overscan o underscan per adattare l'immagine allo schermo.",
     "Under": "Under",
@@ -174,7 +174,7 @@
     "Invalid SSID": "SSID non valido",
     "Loading Network Profiles...": "Caricamento Profili di Rete…",
     "NETWORK PROFILE": "PROFILO DI RETE",
-    "No Saved Network Profiles Found": "Nessun Profilo di Rete Salvato Trovato",
+    "No Saved Network Profiles Found": "Non sono stati trovati profili di rete salvati",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Cambia rapidamente tra diverse configurazioni Wi-Fi in base alla tua posizione o alle tue preferenze di rete"
   },
   "muxnetscan": {
