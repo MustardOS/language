@@ -136,7 +136,7 @@
     "Access version information and system details": "Достъп до инфо за версията и подробности за системата",
     "Activity Tracker": "Следене на дейността",
     "INFORMATION": "ИНФОРМАЦИЯ",
-    "Input Tester": "Тестер за копчета",
+    "Input Tester": "Тестер на бутоните",
     "Supporters": "Поддръжници",
     "System Details": "Детайли на Системата",
     "Test the controls of the device": "Тествай бутоните на устройството",
@@ -195,7 +195,7 @@
     "Disconnect": "Прекъсвай",
     "Encrypting Password...": "Криптиране на Паролата…",
     "Enter the device IP address here (Static only)": "Въведи тук IP адреса на устройството (само Статичен)",
-    "Enter the device Subnet (CIDR) number here (Static only)": "Въведи номера на подмрежата на устройството (CIDR) тук (само Статично)",
+    "Enter the device Subnet (CIDR) number here (Static only)": "Въведи номера на подмрежата на устройството (CIDR) тук (само Статичен)",
     "Enter the network gateway address here (Static only)": "Въведи адреса на мрежовия шлюз тук (само Статичен)",
     "Enter the network identifier (SSID) here": "Въведи мрежовия идентификатор (SSID) тук",
     "Enter the network password here (optional)": "Въведи тук паролата на мрежата (опционално)",
@@ -381,7 +381,7 @@
     "TASK TOOLKIT": "ИНСТРУМЕНТИ ЗА ЗАДАЧИ"
   },
   "muxtester": {
-    "INPUT TESTER": "ТЕЗТЕР НА БУТОНИТЕ",
+    "INPUT TESTER": "ТЕСТЕР НА БУТОНИТЕ",
     "Press POWER to finish testing": "Натисни POWER, за да завършиш теста",
     "Press any button to start input testing!": "Натиснете който и да е бутон, за да започнете тестването!"
   },
@@ -393,7 +393,7 @@
   },
   "muxtweakadv": {
     "ADVANCED SETTINGS": "РАЗШИРЕНИ НАСТРОЙКИ",
-    "Adjust the rate of speed when holding navigation keys down": "Регулиране на скоростта при задържане на навигационните бутони",
+    "Adjust the rate of speed when holding navigation keys down": "Редактирай скоростта при задържане на навигационните бутони",
     "Adjust the system swapfile if required by certain content": "Редактирай системния swapfile, ако се изисква от определено съдържание",
     "Audio Overdrive": "Аудио Овърдрайв",
     "Battery Offset": "Отместване на Батерията",
@@ -405,9 +405,9 @@
     "Change the default brightness level that the device will use each time it starts up": "Промени нивото на яркост по подразбиране, което устройството ще използва при всяко стартиране",
     "Change the default theme used for the next device launch": "Промени темата по подразбиране, използвана за следващото стартиране на устройството",
     "Change the displayed battery percentage to improve accuracy based on calibration or known deviations in the battery capacity reading": "Промени показвания процент на батерията, за да подобрите точността въз основа на калибриране или известни отклонения в показанията на капацитета на батерията",
-    "DPAD Swap Function": "Функция за размяна на DPAD",
+    "DPAD Swap Function": "Функция за размяна на DPAD-а",
     "Device Rumble": "Вибрация на Устройството",
-    "Disk Tuning": "Настройка на Диска",
+    "Disk Tuning": "Настройки на Диска",
     "High": "Високо",
     "Interface Font Type": "Тип Шрифт на Интерфейса",
     "LED During Play": "Светодиод по време на Игра",
