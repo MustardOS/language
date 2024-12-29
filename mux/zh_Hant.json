@@ -51,8 +51,8 @@
   },
   "muxassign": {
     "ASSIGN": "分配",
-    "Assigned to directory": "分配給目錄",
-    "Assigned to file": "分配給文件",
+    "Assigned to directory": "套用全目錄",
+    "Assigned to file": "套用此檔案",
     "No Cores Found...": "找不到核心…",
     "This is where you can assign a core or external emulator to content": "您可以在此處為內容指派核心或外部模擬器"
   },
