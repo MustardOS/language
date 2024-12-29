@@ -6,7 +6,7 @@
     "Disabled": "停用",
     "Enabled": "啟用",
     "Extract": "解開",
-    "Individual": "個別",
+    "Individual": "此檔案",
     "Info": "資訊",
     "Launch": "啟動",
     "Load": "讀取",
@@ -51,7 +51,7 @@
   },
   "muxassign": {
     "ASSIGN": "分配",
-    "Assigned to directory": "套用全目錄",
+    "Assigned to directory": "套用此目錄",
     "Assigned to file": "套用此檔案",
     "No Cores Found...": "找不到核心…",
     "This is where you can assign a core or external emulator to content": "您可以在此處為內容指派核心或外部模擬器"
