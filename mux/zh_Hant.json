@@ -45,7 +45,7 @@
   },
   "muxarchive": {
     "ARCHIVE MANAGER": "封裝檔管理員",
-    "Archive items can be found and installed here - Save games and states, updates, themes etc": "可以在此處找到並安裝封裝項目 - 系統備份、遊戲存檔和狀態、更新、主題等",
+    "Archive items can be found and installed here - Save games and states, updates, themes etc": "可在此查找並安裝封裝項目 - 系統備份、遊戲存檔和狀態、更新、主題等",
     "INSTALLED": "已安裝",
     "No Archives Found": "找不到封裝檔"
   },
@@ -151,9 +151,9 @@
   "muxlaunch": {
     "Applications": "應用程式",
     "Configuration": "系統設置",
-    "Content marked as favourite can be found and launched here": "可以在此處找到並啟動標記為收藏的內容",
-    "Content on storage devices (SD1/SD2/USB) can be found and launched here": "可以在此處找到並啟動儲存裝置 (SD1/SD2/USB) 上的內容",
-    "Content previously launched can be found and launched here": "可以在此處找到並啟動已遊玩過的內容",
+    "Content marked as favourite can be found and launched here": "可在此查找並啟動標記為收藏的內容",
+    "Content on storage devices (SD1/SD2/USB) can be found and launched here": "可在此查找並啟動儲存裝置 (SD1/SD2/USB) 上的內容",
+    "Content previously launched can be found and launched here": "可在此查找並啟動已遊玩過的內容",
     "Explore Content": "瀏覽內容",
     "Favourites": "收藏夾",
     "History": "歷史",
@@ -165,7 +165,7 @@
     "Reboot your device safely": "安全的重啟您的設備",
     "Shut down your device safely": "安全的關閉您的設備",
     "Shutdown": "關機",
-    "Various applications can be found and launched here": "可以在這裡找到並啟動各種應用程式",
+    "Various applications can be found and launched here": "可在此查找並啟動各種應用程式",
     "Various configurations can be changed here": "可以在這裡更改各種配置",
     "Various information can be found and launched here": "可以在這裡查看各種資訊"
   },
@@ -202,7 +202,7 @@
     "Gateway IP": "閘道IP",
     "Hidden Network": "隱藏的網路",
     "Identifier": "SSID",
-    "Network Active": "網路啟用",
+    "Network Active": "網路連線",
     "Network Disabled": "網路已關閉",
     "Network Type": "網路類型",
     "No Password Detected...": "沒有檢測到密碼…",
