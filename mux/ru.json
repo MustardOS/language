@@ -11,6 +11,7 @@
     "Launch": "Запуск",
     "Load": "Загрузить",
     "Migrate to SD2": "Мигрировать на SD2",
+    "No Content Found…": "No Content Found…",
     "No Help Information Found": "Справочная информация не найдена",
     "Open": "Открыть",
     "Previous": "Польз.",
@@ -52,10 +53,13 @@
     "ASSIGN": "НАЗНАЧИТЬ",
     "Assigned to directory": "Привязано к папке",
     "Assigned to file": "Привязано к файлу",
+    "No Cores Found…": "No Cores Found…",
     "This is where you can assign a core or external emulator to content": "Здесь вы можете назначить ядро или внешний эмулятор для приложения"
   },
   "muxcharge": {
+    "Booting System - Please Wait…": "Booting System - Please Wait…",
     "Capacity": "Емкость",
+    "Press POWER button to continue booting…": "Press POWER button to continue booting…",
     "Voltage": "Напряжение"
   },
   "muxconfig": {
@@ -86,22 +90,32 @@
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Настройка говернора процессора позволяющая динамически регулировать частоту ЦП для обеспечения баланса между энергопотреблением и производительностью",
-    "GOVERNOR": "ГОВЕРНОР"
+    "GOVERNOR": "ГОВЕРНОР",
+    "No Governors Found…": "No Governors Found…"
   },
   "muxhdmi": {
     "Audio Output": "Аудио выход",
+    "Cannot modify while HDMI is active": "Cannot modify while HDMI is active",
     "Colour Depth": "Глубина цвета",
     "Colour Range": "Цветовой диапазон",
     "Colour Space": "Цветовое пространство",
+    "Enable or disable HDMI output": "Enable or disable HDMI output",
     "External": "Внешний",
     "Full": "Полный",
     "HDMI Active": "HDMI",
     "HDMI SETTINGS": "НАСТРОЙКИ HDMI",
+    "HDMI cable is not detected": "HDMI cable is not detected",
     "Internal": "На устройстве",
     "Limited": "Ограниченный",
     "Over": "Оверскан",
     "Resolution": "Разрешение",
     "Scan Scaling": "Масштабирование изображения",
+    "Select the resolution for HDMI output, such as 720p or 1080p": "Select the resolution for HDMI output, such as 720p or 1080p",
+    "Set the color depth, such as 8-bit or 10-bit": "Set the color depth, such as 8-bit or 10-bit",
+    "Set the color range of RGB colour space": "Set the color range of RGB colour space",
+    "Set the color space, such as RGB or YUV": "Set the color space, such as RGB or YUV",
+    "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
+    "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
     "Under": "Андерскан"
   },
   "muxinfo": {
@@ -116,6 +130,8 @@
     "View all of the current muOS supporters": "Посмотреть всех, кто поддерживает muOS"
   },
   "muxlanguage": {
+    "LANGUAGE": "LANGUAGE",
+    "No Languages Found…": "No Languages Found…",
     "Saving Language": "Сохранение языка",
     "Select your preferred language": "Выберите язык"
   },
@@ -143,6 +159,7 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Неверные настройки сети",
     "Invalid SSID": "Неверный SSID",
+    "Loading Network Profiles…": "Loading Network Profiles…",
     "NETWORK PROFILE": "СЕТЕВОЙ ПРОФИЛЬ",
     "No Saved Network Profiles Found": "Сохраненные сетевые профили не найдены",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Быстрое переключение между конфигурациями Wi-Fi в зависимости от вашего местоположения или сетевых настроек"
@@ -150,9 +167,11 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Обнаружение, отображение и подключение к доступным сетям Wi-Fi",
     "NETWORK SCAN": "ПОИСК СЕТИ",
-    "No Wi-Fi Networks Found": "Wi-Fi сети не найдены"
+    "No Wi-Fi Networks Found": "Wi-Fi сети не найдены",
+    "Scanning for Wi-Fi Networks…": "Scanning for Wi-Fi Networks…"
   },
   "muxnetwork": {
+    "Cannot modify while connected": "Cannot modify while connected",
     "Changes Saved": "Изменения сохранены",
     "Connect": "Подключиться",
     "Connect to the network using options entered above": "Подключитесь к сети используя указанные выше параметры",
@@ -161,6 +180,7 @@
     "DNS Server": "DNS сервер",
     "Device IP": "IP устройства",
     "Disconnect": "Отключиться",
+    "Encrypting Password…": "Encrypting Password…",
     "Enter the device IP address here (Static only)": "Введите IP-адрес устройства (только для статического)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Введите здесь номер подсети устройства (CIDR) (только для статического)",
     "Enter the network gateway address here (Static only)": "Введите адрес сетевого шлюза здесь (только для статического)",
@@ -172,6 +192,7 @@
     "Network Active": "Wi-Fi",
     "Network Disabled": "Сеть отключена",
     "Network Type": "Тип сети",
+    "No Password Detected…": "No Password Detected…",
     "Not Connected": "Не подключено",
     "Password": "Пароль",
     "Please check network settings": "Проверьте настройки сети",
@@ -182,11 +203,16 @@
     "Toggle between DHCP and Static network types": "Переключение между типами сетей DHCP и Static",
     "Toggle the Wi-Fi network on and off": "Включение и выключение сети Wi-Fi",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Выберите, нужно ли пытаться подключаться к скрытому SSID",
+    "Trying to Connect…": "Trying to Connect…",
     "WI-FI NETWORK": "WI-FI СЕТЬ"
   },
   "muxoption": {
     "Assign Core": "Присвоить ядро",
     "CONTENT OPTION": "НАСТРОЙКА ПРИЛОЖЕНИЙ",
+    "Current": "Current",
+    "Directory": "Directory",
+    "Individual": "Individual",
+    "Name": "Name",
     "Search Content": "Поиск",
     "Search for content within the selected directory": "Поиск приложений в выбранной папке",
     "Set the CPU governor for the selected content or directory": "Настройка говернора процессора для выбранного приложения или папки",
@@ -218,6 +244,7 @@
     "Favourite": "Избранное",
     "HISTORY": "ИСТОРИЯ",
     "Info": "Инфо",
+    "Loading…": "Loading…",
     "No Information Found": "Информация не найдена",
     "Refresh": "Обновить",
     "Removed from Favourites": "Удалено из избранного"
@@ -242,6 +269,7 @@
     "POWER SETTINGS": "ПАРАМЕТРЫ ПИТАНИЯ",
     "Sleep 10m + Shutdown": "Сон 10м + Выключение",
     "Sleep 10s + Shutdown": "Сон 10с + Выключение",
+    "Sleep 15m + Shutdown": "Sleep 15m + Shutdown",
     "Sleep 2m + Shutdown": "Сон 2м + Выключение",
     "Sleep 30m + Shutdown": "Сон 30м + Выключение",
     "Sleep 30s + Shutdown": "Сон 30с + Выключение",
@@ -272,7 +300,8 @@
     "Search Global": "Глобальный поиск",
     "Search Local": "Локальный поиск",
     "Search all current active storage devices": "Поиск во всех текущих устройствах хранения данных",
-    "Search within the current selected folder and folders within": "Поиск в текущей выбранной папке и папках внутри"
+    "Search within the current selected folder and folders within": "Поиск в текущей выбранной папке и папках внутри",
+    "Searching…": "Searching…"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Назначенное ядро/говернор системы",
@@ -323,6 +352,7 @@
     "Linux Kernel": "Ядро Linux",
     "Running Services": "Запущенные сервисы",
     "SYSTEM DETAILS": "СИСТЕМНАЯ ИНФОРМАЦИЯ",
+    "System Memory": "System Memory",
     "System Uptime": "Время работы системы",
     "Temperature": "Температура",
     "The current CPU frequency of the device": "Текущая частота процессора",
@@ -349,6 +379,7 @@
     "Press any button to start input testing!": "Нажмите любую кнопку для запуска проверки!"
   },
   "muxtimezone": {
+    "No Timezones Found…": "No Timezones Found…",
     "Saving Timezone": "Сохранение часового пояса",
     "Select your preferred timezone": "Выберите предпочтительный часовой пояс",
     "TIMEZONE": "ЧАСОВОЙ ПОЯС"
@@ -508,9 +539,28 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "Настройка доступности SFTP (WebUI через порт 9090)",
     "Toggle SSH support - Access via port 22": "Настройка доступности SSH (доступ через порт 22)",
     "Toggle Syncthing - WebUI can be found on port 7070": "Настройка Syncthing (WebUI через порт 7070)",
+    "Toggle Tailscale - Need to login via SSH first to configure it": "Toggle Tailscale - Need to login via SSH first to configure it",
     "Toggle network time protocol for active network connections": "Настройка протокола сетевого времени для активных сетевых соединений",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Настройка виртуального терминала (WebUI через порт 8080)",
     "Virtual Terminal": "Виртуальный терминал",
     "WEB SERVICES": "ВЕБ-СЕРВИСЫ"
+  },
+  "system": {
+    "Failed read command output": "Failed read command output",
+    "Failed to allocate memory": "Failed to allocate memory",
+    "Failed to close command stream": "Failed to close command stream",
+    "Failed to create file": "Failed to create file",
+    "Failed to delete file": "Failed to delete file",
+    "Failed to duplicate string": "Failed to duplicate string",
+    "Failed to fork": "Failed to fork",
+    "Failed to open /proc/partitions": "Failed to open /proc/partitions",
+    "Failed to open alternative joystick device": "Failed to open alternative joystick device",
+    "Failed to open directory": "Failed to open directory",
+    "Failed to open file": "Failed to open file",
+    "Failed to open file for reading": "Failed to open file for reading",
+    "Failed to open file for writing": "Failed to open file for writing",
+    "Failed to open joystick device": "Failed to open joystick device",
+    "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
+    "Failed to run command": "Failed to run command"
   }
 }
