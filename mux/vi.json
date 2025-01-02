@@ -11,6 +11,7 @@
     "Launch": "Khởi chạy",
     "Load": "Tải",
     "Migrate to SD2": "Di chuyển đến SD2",
+    "No Content Found…": "No Content Found…",
     "No Help Information Found": "Không thấy thông tin trợ giúp",
     "Open": "Mở",
     "Previous": "Gần đây",
@@ -52,10 +53,13 @@
     "ASSIGN": "GÁN",
     "Assigned to directory": "Đã gán cho thư mục",
     "Assigned to file": "Đã gán cho tệp tin",
+    "No Cores Found…": "No Cores Found…",
     "This is where you can assign a core or external emulator to content": "Đây là nơi bạn có thể gán trình giả lập cho trò chơi"
   },
   "muxcharge": {
+    "Booting System - Please Wait…": "Booting System - Please Wait…",
     "Capacity": "Dung lượng",
+    "Press POWER button to continue booting…": "Press POWER button to continue booting…",
     "Voltage": "Điện áp"
   },
   "muxconfig": {
@@ -86,22 +90,32 @@
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance",
-    "GOVERNOR": "GOVERNOR"
+    "GOVERNOR": "GOVERNOR",
+    "No Governors Found…": "No Governors Found…"
   },
   "muxhdmi": {
     "Audio Output": "Audio Output",
+    "Cannot modify while HDMI is active": "Cannot modify while HDMI is active",
     "Colour Depth": "Colour Depth",
     "Colour Range": "Colour Range",
     "Colour Space": "Colour Space",
+    "Enable or disable HDMI output": "Enable or disable HDMI output",
     "External": "External",
     "Full": "Full",
     "HDMI Active": "HDMI Active",
     "HDMI SETTINGS": "HDMI SETTINGS",
+    "HDMI cable is not detected": "HDMI cable is not detected",
     "Internal": "Internal",
     "Limited": "Limited",
     "Over": "Over",
     "Resolution": "Resolution",
     "Scan Scaling": "Scan Scaling",
+    "Select the resolution for HDMI output, such as 720p or 1080p": "Select the resolution for HDMI output, such as 720p or 1080p",
+    "Set the color depth, such as 8-bit or 10-bit": "Set the color depth, such as 8-bit or 10-bit",
+    "Set the color range of RGB colour space": "Set the color range of RGB colour space",
+    "Set the color space, such as RGB or YUV": "Set the color space, such as RGB or YUV",
+    "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
+    "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
     "Under": "Under"
   },
   "muxinfo": {
@@ -116,6 +130,8 @@
     "View all of the current muOS supporters": "View all of the current muOS supporters"
   },
   "muxlanguage": {
+    "LANGUAGE": "LANGUAGE",
+    "No Languages Found…": "No Languages Found…",
     "Saving Language": "Đang lưu cài đặt ngôn ngữ",
     "Select your preferred language": "Select your preferred language"
   },
@@ -143,6 +159,7 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Cài đặt Mạng không hợp lệ",
     "Invalid SSID": "SSID không hợp lệ",
+    "Loading Network Profiles…": "Loading Network Profiles…",
     "NETWORK PROFILE": "HỒ SƠ MẠNG",
     "No Saved Network Profiles Found": "Không có hồ sơ mạng được lưu",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Quickly switch between different Wi-Fi configurations based on your location or network preferences"
@@ -150,9 +167,11 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Detect, display and connect to available Wi-Fi networks",
     "NETWORK SCAN": "QUÉT MẠNG",
-    "No Wi-Fi Networks Found": "Không tìm thấy mạng Wi-Fi"
+    "No Wi-Fi Networks Found": "Không tìm thấy mạng Wi-Fi",
+    "Scanning for Wi-Fi Networks…": "Scanning for Wi-Fi Networks…"
   },
   "muxnetwork": {
+    "Cannot modify while connected": "Cannot modify while connected",
     "Changes Saved": "Đã lưu thay đổi",
     "Connect": "Kết nối",
     "Connect to the network using options entered above": "Kết nối mạng bằng các tùy chọn đã nhập ở trên",
@@ -161,6 +180,7 @@
     "DNS Server": "Máy chủ DNS",
     "Device IP": "IP thiết bị",
     "Disconnect": "Ngắt kết nối",
+    "Encrypting Password…": "Encrypting Password…",
     "Enter the device IP address here (Static only)": "Nhập địa chỉ IP của thiết bị ở đây (Static only)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Nhập số Subnet của thiết bị (CIDR) ở đây (Static only)",
     "Enter the network gateway address here (Static only)": "Nhập địa chỉ cổng mạng ở đây (Static only)",
@@ -172,6 +192,7 @@
     "Network Active": "Mạng hoạt động",
     "Network Disabled": "Mạng bị tắt",
     "Network Type": "Loại mạng",
+    "No Password Detected…": "No Password Detected…",
     "Not Connected": "Chưa kết nối",
     "Password": "Mật khẩu",
     "Please check network settings": "Vui lòng kiểm tra cài đặt mạng",
@@ -182,11 +203,16 @@
     "Toggle between DHCP and Static network types": "Toggle between DHCP and Static network types",
     "Toggle the Wi-Fi network on and off": "Toggle the Wi-Fi network on and off",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Toggle whether or not to try and connect to a hidden SSID broadcast",
+    "Trying to Connect…": "Trying to Connect…",
     "WI-FI NETWORK": "MẠNG WI-FI"
   },
   "muxoption": {
     "Assign Core": "Gán Lõi",
     "CONTENT OPTION": "CONTENT OPTION",
+    "Current": "Current",
+    "Directory": "Directory",
+    "Individual": "Individual",
+    "Name": "Name",
     "Search Content": "Search Content",
     "Search for content within the selected directory": "Search for content within the selected directory",
     "Set the CPU governor for the selected content or directory": "Set the CPU governor for the selected content or directory",
@@ -218,6 +244,7 @@
     "Favourite": "Ưa thích",
     "HISTORY": "LỊCH SỬ",
     "Info": "Thông tin",
+    "Loading…": "Loading…",
     "No Information Found": "Không thấy thông tin",
     "Refresh": "Làm mới",
     "Removed from Favourites": "Xóa khỏi Mục ưa thích"
@@ -242,6 +269,7 @@
     "POWER SETTINGS": "POWER SETTINGS",
     "Sleep 10m + Shutdown": "Sleep 10m + Shutdown",
     "Sleep 10s + Shutdown": "Sleep 10s + Shutdown",
+    "Sleep 15m + Shutdown": "Sleep 15m + Shutdown",
     "Sleep 2m + Shutdown": "Sleep 2m + Shutdown",
     "Sleep 30m + Shutdown": "Sleep 30m + Shutdown",
     "Sleep 30s + Shutdown": "Sleep 30s + Shutdown",
@@ -272,7 +300,8 @@
     "Search Global": "Search Global",
     "Search Local": "Search Local",
     "Search all current active storage devices": "Search all current active storage devices",
-    "Search within the current selected folder and folders within": "Search within the current selected folder and folders within"
+    "Search within the current selected folder and folders within": "Search within the current selected folder and folders within",
+    "Searching…": "Searching…"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Assigned Core/Governor System",
@@ -323,6 +352,7 @@
     "Linux Kernel": "Hạt nhân Linux",
     "Running Services": "Tiến trình đang chạy",
     "SYSTEM DETAILS": "CHI TIẾT HỆ THỐNG",
+    "System Memory": "System Memory",
     "System Uptime": "Thời gian hoạt động",
     "Temperature": "Nhiệt độ",
     "The current CPU frequency of the device": "The current CPU frequency of the device",
@@ -349,6 +379,7 @@
     "Press any button to start input testing!": "Nhấn phím bất kỳ để kiểm tra phím!"
   },
   "muxtimezone": {
+    "No Timezones Found…": "No Timezones Found…",
     "Saving Timezone": "Đang lưu múi giờ",
     "Select your preferred timezone": "Select your preferred timezone.",
     "TIMEZONE": "MÚI GIỜ"
@@ -508,9 +539,28 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "Toggle SFTP support - WebUI có thể truy cập ở port 9090",
     "Toggle SSH support - Access via port 22": "Toggle SSH support - Truy cập qua port 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Toggle Syncthing - WebUI có thể truy cập ở port 7070",
+    "Toggle Tailscale - Need to login via SSH first to configure it": "Toggle Tailscale - Need to login via SSH first to configure it",
     "Toggle network time protocol for active network connections": "Toggle network time protocol for active network connections",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Toggle virtual terminal - WebUI có thể truy cập ở port 8080",
     "Virtual Terminal": "Terminal ảo",
     "WEB SERVICES": "DỊCH VỤ WEB"
+  },
+  "system": {
+    "Failed read command output": "Failed read command output",
+    "Failed to allocate memory": "Failed to allocate memory",
+    "Failed to close command stream": "Failed to close command stream",
+    "Failed to create file": "Failed to create file",
+    "Failed to delete file": "Failed to delete file",
+    "Failed to duplicate string": "Failed to duplicate string",
+    "Failed to fork": "Failed to fork",
+    "Failed to open /proc/partitions": "Failed to open /proc/partitions",
+    "Failed to open alternative joystick device": "Failed to open alternative joystick device",
+    "Failed to open directory": "Failed to open directory",
+    "Failed to open file": "Failed to open file",
+    "Failed to open file for reading": "Failed to open file for reading",
+    "Failed to open file for writing": "Failed to open file for writing",
+    "Failed to open joystick device": "Failed to open joystick device",
+    "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
+    "Failed to run command": "Failed to run command"
   }
 }
