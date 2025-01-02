@@ -11,7 +11,7 @@
     "Launch": "启动",
     "Load": "加载",
     "Migrate to SD2": "迁移至SD卡2",
-    "No Content Found...": "找不到内容…",
+    "No Content Found…": "No Content Found…",
     "No Help Information Found": "找不到帮助信息",
     "Open": "打开",
     "Previous": "参前",
@@ -53,13 +53,13 @@
     "ASSIGN": "分配",
     "Assigned to directory": "分配至目录",
     "Assigned to file": "分配至文件",
-    "No Cores Found...": "找不到核心…",
+    "No Cores Found…": "No Cores Found…",
     "This is where you can assign a core or external emulator to content": "在此分配RetroArch核心或独立模拟器"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "启动系统中 - 请稍等…",
+    "Booting System - Please Wait…": "Booting System - Please Wait…",
     "Capacity": "容量",
-    "Press POWER button to continue booting...": "按电源键进入系统…",
+    "Press POWER button to continue booting…": "Press POWER button to continue booting…",
     "Voltage": "电压"
   },
   "muxconfig": {
@@ -91,45 +91,32 @@
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "设置CPU调度方案，以动态调整CPU频率并针对能耗和性能优化",
     "GOVERNOR": "调度方案",
-    "No Governors Found...": "找不到调度方案…"
+    "No Governors Found…": "No Governors Found…"
   },
   "muxhdmi": {
-    "1080i + 50hz": "1080i + 50hz",
-    "1080i + 60hz": "1080i + 60hz",
-    "1080p + 24hz": "1080p + 24hz",
-    "1080p + 50hz": "1080p + 50hz",
-    "1080p + 60hz": "1080p + 60hz",
-    "480i": "480i",
-    "480p": "480p",
-    "576i": "576i",
-    "576p": "576p",
-    "720p + 50hz": "720p + 50hz",
-    "720p + 60hz": "720p + 60hz",
     "Audio Output": "音频输出",
-    "Choose the color space, such as RGB or YUV.": "选择RGB或者YUV颜色空间",
+    "Cannot modify while HDMI is active": "Cannot modify while HDMI is active",
     "Colour Depth": "色深",
     "Colour Range": "色彩动态范围",
     "Colour Space": "色彩空间",
-    "Enable or disable HDMI output.": "启动或关闭HDMI输出",
+    "Enable or disable HDMI output": "Enable or disable HDMI output",
     "External": "External",
     "Full": "Full",
     "HDMI Active": "HDMI启动",
     "HDMI SETTINGS": "HDMI设置",
+    "HDMI cable is not detected": "HDMI cable is not detected",
     "Internal": "Internal",
     "Limited": "Limited",
     "Over": "过扫描",
-    "RGB": "RGB",
     "Resolution": "分辨率",
     "Scan Scaling": "Scan Scaling",
-    "Select the resolution for HDMI output, such as 720p or 1080p.": "设置HDMI输出分辨率，如720p或1080p",
-    "Set the color depth, such as 8-bit or 10-bit.": "设置色深为8位或10位",
-    "Set the color range of RGB colour space.": "设置RGB色彩范围",
-    "Switch between device speaker or external monitor audio via HDMI connection.": "设置使用扬声器或者HDMI输出音频",
-    "Switch between overscan or underscan to fit the display screen.": "调整过扫描或欠扫描以适应输出显示器",
-    "Under": "欠扫描",
-    "YUV420": "YUV420",
-    "YUV422": "YUV422",
-    "YUV444": "YUV444"
+    "Select the resolution for HDMI output, such as 720p or 1080p": "Select the resolution for HDMI output, such as 720p or 1080p",
+    "Set the color depth, such as 8-bit or 10-bit": "Set the color depth, such as 8-bit or 10-bit",
+    "Set the color range of RGB colour space": "Set the color range of RGB colour space",
+    "Set the color space, such as RGB or YUV": "Set the color space, such as RGB or YUV",
+    "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
+    "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
+    "Under": "欠扫描"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "查看游玩内容或其他活动的统计列表",
@@ -143,8 +130,8 @@
     "View all of the current muOS supporters": "查看当前所有muOS赞助者信息"
   },
   "muxlanguage": {
-    "LANGUAGES": "语言",
-    "No Languages Found...": "找不到语言…",
+    "LANGUAGE": "LANGUAGE",
+    "No Languages Found…": "No Languages Found…",
     "Saving Language": "保存语言中",
     "Select your preferred language": "选择您使用的语言"
   },
@@ -172,7 +159,7 @@
   "muxnetprofile": {
     "Invalid Network Settings": "网络设置无效",
     "Invalid SSID": "SSID无效",
-    "Loading Network Profiles...": "加载网络配置文件中…",
+    "Loading Network Profiles…": "Loading Network Profiles…",
     "NETWORK PROFILE": "网络配置文件",
     "No Saved Network Profiles Found": "找不到保存的网络配置文件",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "快速切换Wi-Fi配置，以适应机器所在的特定位置或联网状态"
@@ -181,10 +168,10 @@
     "Detect, display and connect to available Wi-Fi networks": "扫描、显示并连接可用Wi-Fi热点",
     "NETWORK SCAN": "网络扫描",
     "No Wi-Fi Networks Found": "找不到Wi-Fi网络",
-    "Scanning for Wi-Fi Networks...": "扫描Wi-Fi网络中…"
+    "Scanning for Wi-Fi Networks…": "Scanning for Wi-Fi Networks…"
   },
   "muxnetwork": {
-    "Cannot modify while connected!": "连接时不能更改！",
+    "Cannot modify while connected": "Cannot modify while connected",
     "Changes Saved": "变更已保存",
     "Connect": "连接",
     "Connect to the network using options entered above": "通过以上输入配置联网",
@@ -193,7 +180,7 @@
     "DNS Server": "DNS服务器",
     "Device IP": "设备IP",
     "Disconnect": "断开连接",
-    "Encrypting Password...": "加密密码中…",
+    "Encrypting Password…": "Encrypting Password…",
     "Enter the device IP address here (Static only)": "输入IP地址（仅适用于静态分配）",
     "Enter the device Subnet (CIDR) number here (Static only)": "输入设备子网CIDR（仅适用于静态分配）",
     "Enter the network gateway address here (Static only)": "输入网关地址（仅适用于静态分配）",
@@ -205,7 +192,7 @@
     "Network Active": "网络已启用",
     "Network Disabled": "网络已关闭",
     "Network Type": "网络类型",
-    "No Password Detected...": "未检测到密码…",
+    "No Password Detected…": "No Password Detected…",
     "Not Connected": "未连接",
     "Password": "密码",
     "Please check network settings": "请检查网络设置",
@@ -216,12 +203,16 @@
     "Toggle between DHCP and Static network types": "选择IP地址动态分配（DHCP）或静态分配",
     "Toggle the Wi-Fi network on and off": "设置Wi-Fi网络连接状态",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "选择是否连接隐藏的WiFi热点",
-    "Trying to Connect...": "尝试连接中…",
+    "Trying to Connect…": "Trying to Connect…",
     "WI-FI NETWORK": "Wi-Fi网络"
   },
   "muxoption": {
     "Assign Core": "分配核心",
     "CONTENT OPTION": "内容选项",
+    "Current": "Current",
+    "Directory": "Directory",
+    "Individual": "Individual",
+    "Name": "Name",
     "Search Content": "搜索内容",
     "Search for content within the selected directory": "仅在本文件夹搜索内容",
     "Set the CPU governor for the selected content or directory": "为选中的内容或文件夹设置CPU调度方案",
@@ -253,7 +244,7 @@
     "Favourite": "收藏",
     "HISTORY": "历史",
     "Info": "信息",
-    "Loading...": "加载中…",
+    "Loading…": "Loading…",
     "No Information Found": "找不到信息",
     "Refresh": "刷新",
     "Removed from Favourites": "已从收藏夹移除"
@@ -278,6 +269,7 @@
     "POWER SETTINGS": "能耗设置",
     "Sleep 10m + Shutdown": "睡眠10分钟后关机",
     "Sleep 10s + Shutdown": "睡眠10秒后关机",
+    "Sleep 15m + Shutdown": "Sleep 15m + Shutdown",
     "Sleep 2m + Shutdown": "睡眠2分钟后关机",
     "Sleep 30m + Shutdown": "睡眠30分钟后关机",
     "Sleep 30s + Shutdown": "睡眠30秒后关机",
@@ -308,7 +300,8 @@
     "Search Global": "全局搜索",
     "Search Local": "本地搜索",
     "Search all current active storage devices": "在所有启动的存储设备中搜索",
-    "Search within the current selected folder and folders within": "在选择的文件夹和子文件夹中搜索"
+    "Search within the current selected folder and folders within": "在选择的文件夹和子文件夹中搜索",
+    "Searching…": "Searching…"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "分配核心/调度方案系统",
@@ -357,9 +350,9 @@
     "CPU Speed": "CPU频率",
     "Device Type": "设备类型",
     "Linux Kernel": "Linux内核",
-    "RAM Usage": "内存使用",
     "Running Services": "运行中服务",
     "SYSTEM DETAILS": "系统详情",
+    "System Memory": "System Memory",
     "System Uptime": "系统运行时间",
     "Temperature": "温度",
     "The current CPU frequency of the device": "当前设备CPU频率",
@@ -386,7 +379,7 @@
     "Press any button to start input testing!": "按下任意按键开始测试输入!"
   },
   "muxtimezone": {
-    "No Timezones Found...": "找不到时区…",
+    "No Timezones Found…": "No Timezones Found…",
     "Saving Timezone": "保存时区中",
     "Select your preferred timezone": "设置您所在的时区",
     "TIMEZONE": "时区"
@@ -546,10 +539,28 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "设置SFTP支持 - 通过端口9090连接",
     "Toggle SSH support - Access via port 22": "设置SSH支持 - 通过端口22连接",
     "Toggle Syncthing - WebUI can be found on port 7070": "设置Syncthing同步 - 通过端口7070进入WebUI界面",
-    "Toggle Tailscale - Need to login via SSH first": "设置Tailscale开关（需先通过SSH登录）",
+    "Toggle Tailscale - Need to login via SSH first to configure it": "Toggle Tailscale - Need to login via SSH first to configure it",
     "Toggle network time protocol for active network connections": "对于激活的网络链接设置网络时间协议支持",
     "Toggle virtual terminal - WebUI can be found on port 8080": "设置虚拟终端 - 通过端口8080进入WebUI界面",
     "Virtual Terminal": "虚拟终端",
     "WEB SERVICES": "网络服务"
+  },
+  "system": {
+    "Failed read command output": "Failed read command output",
+    "Failed to allocate memory": "Failed to allocate memory",
+    "Failed to close command stream": "Failed to close command stream",
+    "Failed to create file": "Failed to create file",
+    "Failed to delete file": "Failed to delete file",
+    "Failed to duplicate string": "Failed to duplicate string",
+    "Failed to fork": "Failed to fork",
+    "Failed to open /proc/partitions": "Failed to open /proc/partitions",
+    "Failed to open alternative joystick device": "Failed to open alternative joystick device",
+    "Failed to open directory": "Failed to open directory",
+    "Failed to open file": "Failed to open file",
+    "Failed to open file for reading": "Failed to open file for reading",
+    "Failed to open file for writing": "Failed to open file for writing",
+    "Failed to open joystick device": "Failed to open joystick device",
+    "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
+    "Failed to run command": "Failed to run command"
   }
 }

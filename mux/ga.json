@@ -11,7 +11,7 @@
     "Launch": "Seoladh",
     "Load": "Luchtaigh",
     "Migrate to SD2": "Imirce go SD2",
-    "No Content Found...": "Níor aimsíodh inneachar ar bith…",
+    "No Content Found…": "No Content Found…",
     "No Help Information Found": "Níor aimsíodh aon eolas cabhrach",
     "Open": "Oscail",
     "Previous": "Roimhe Seo",
@@ -53,13 +53,13 @@
     "ASSIGN": "SANN",
     "Assigned to directory": "Sannta don chomhadlann",
     "Assigned to file": "Sannta do chomhad",
-    "No Cores Found...": "Níor aimsíodh aon chroíleacán…",
+    "No Cores Found…": "No Cores Found…",
     "This is where you can assign a core or external emulator to content": "Is é seo an áit ar féidir leat aithriseoir lárnach nó seachtrach a shannadh d'ábhar"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "Córas Tosaithe - Fan le do thoil…",
+    "Booting System - Please Wait…": "Booting System - Please Wait…",
     "Capacity": "Cumas",
-    "Press POWER button to continue booting...": "Brúigh POWER cnaipe chun leanúint ar aghaidh tosaithe…",
+    "Press POWER button to continue booting…": "Press POWER button to continue booting…",
     "Voltage": "Voltas"
   },
   "muxconfig": {
@@ -91,45 +91,32 @@
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Cumraigh gobharnóirí LAP chun minicíocht an LAP a choigeartú go dinimiciúil agus cabhrú le tomhaltas agus feidhmíocht cumhachta a chothromú",
     "GOVERNOR": "GOBHARNÓIR",
-    "No Governors Found...": "Níor aimsíodh aon ghobharnóirí..."
+    "No Governors Found…": "No Governors Found…"
   },
   "muxhdmi": {
-    "1080i + 50hz": "1080i + 50hz",
-    "1080i + 60hz": "1080i + 60hz",
-    "1080p + 24hz": "1080p + 24hz",
-    "1080p + 50hz": "1080p + 50hz",
-    "1080p + 60hz": "1080p + 60hz",
-    "480i": "480i",
-    "480p": "480p",
-    "576i": "576i",
-    "576p": "576p",
-    "720p + 50hz": "720p + 50hz",
-    "720p + 60hz": "720p + 60hz",
     "Audio Output": "Aschur Fuaime",
-    "Choose the color space, such as RGB or YUV.": "Roghnaigh an spás datha, mar shampla RGB nó YUV.",
+    "Cannot modify while HDMI is active": "Cannot modify while HDMI is active",
     "Colour Depth": "Doimhneacht Dath",
     "Colour Range": "Raon Dath",
     "Colour Space": "Spás Dath",
-    "Enable or disable HDMI output.": "Cumasaigh nó díchumasaigh aschur HDMI.",
+    "Enable or disable HDMI output": "Enable or disable HDMI output",
     "External": "Seachtrach",
     "Full": "Iomlán",
     "HDMI Active": "HDMI Gníomhach",
     "HDMI SETTINGS": "Socruithe HDMI",
+    "HDMI cable is not detected": "HDMI cable is not detected",
     "Internal": "Inmheánach",
     "Limited": "Teoranta",
     "Over": "Thar",
-    "RGB": "RGB",
     "Resolution": "Rún",
     "Scan Scaling": "Scanadh Scálú",
-    "Select the resolution for HDMI output, such as 720p or 1080p.": "Roghnaigh an taifeach le haghaidh aschur HDMI, mar shampla 720p nó 1080p.",
-    "Set the color depth, such as 8-bit or 10-bit.": "Socraigh an doimhneacht dath, mar shampla 8-giotán nó 10-giotán.",
-    "Set the color range of RGB colour space.": "Socraigh an raon dath de spás dath RGB.",
-    "Switch between device speaker or external monitor audio via HDMI connection.": "Athraigh idir callaire gléis nó fuaim mhonatóra sheachtraigh trí nasc HDMI.",
-    "Switch between overscan or underscan to fit the display screen.": "Athraigh idir overscan nó underscan a d'oirfeadh an scáileán taispeána.",
-    "Under": "Faoi",
-    "YUV420": "YUV420",
-    "YUV422": "YUV422",
-    "YUV444": "YUV444"
+    "Select the resolution for HDMI output, such as 720p or 1080p": "Select the resolution for HDMI output, such as 720p or 1080p",
+    "Set the color depth, such as 8-bit or 10-bit": "Set the color depth, such as 8-bit or 10-bit",
+    "Set the color range of RGB colour space": "Set the color range of RGB colour space",
+    "Set the color space, such as RGB or YUV": "Set the color space, such as RGB or YUV",
+    "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
+    "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
+    "Under": "Faoi"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Rochtain a fháil ar staitisticí d'ábhar seinnte agus do ghníomhaíocht eile",
@@ -143,8 +130,8 @@
     "View all of the current muOS supporters": "Féach ar gach ceann de na tacadóirí muOS reatha"
   },
   "muxlanguage": {
-    "LANGUAGES": "TEANGACHA",
-    "No Languages Found...": "Níor aimsíodh aon teangacha…",
+    "LANGUAGE": "LANGUAGE",
+    "No Languages Found…": "No Languages Found…",
     "Saving Language": "Teanga a Shábháil",
     "Select your preferred language": "Roghnaigh an teanga is fearr leat"
   },
@@ -172,7 +159,7 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Socruithe Líonra Neamhbhailí",
     "Invalid SSID": "SSID neamhbhailí",
-    "Loading Network Profiles...": "Próifílí Líonra á Luchtú…",
+    "Loading Network Profiles…": "Loading Network Profiles…",
     "NETWORK PROFILE": "PRÓIFÍL LÍONRA",
     "No Saved Network Profiles Found": "Níor aimsíodh próifílí líonra sábháilte",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Athraigh go tapa idir cumraíochtaí Wi-Fi éagsúla bunaithe ar do shainroghanna suímh nó líonra"
@@ -181,10 +168,10 @@
     "Detect, display and connect to available Wi-Fi networks": "Líonraí Wi-Fi atá ar fáil a bhrath, a thaispeáint agus ceangal leo",
     "NETWORK SCAN": "SCANADH LÍONRA",
     "No Wi-Fi Networks Found": "Níor aimsíodh aon líonraí Wi-Fi",
-    "Scanning for Wi-Fi Networks...": "Scanadh le haghaidh Líonraí Wi-Fi..."
+    "Scanning for Wi-Fi Networks…": "Scanning for Wi-Fi Networks…"
   },
   "muxnetwork": {
-    "Cannot modify while connected!": "Ní féidir é a athrú agus tú ceangailte!",
+    "Cannot modify while connected": "Cannot modify while connected",
     "Changes Saved": "Athruithe Sábháilte",
     "Connect": "Ceangail",
     "Connect to the network using options entered above": "Ceangail leis an líonra ag úsáid roghanna a iontráiltear thuas",
@@ -193,7 +180,7 @@
     "DNS Server": "Freastalaí DNS",
     "Device IP": "IP Gléas",
     "Disconnect": "Dícheangail",
-    "Encrypting Password...": "Pasfhocal á Chriptiú…",
+    "Encrypting Password…": "Encrypting Password…",
     "Enter the device IP address here (Static only)": "Iontráil seoladh IP an ghléis anseo (Statach amháin)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Iontráil uimhir Subnet (CIDR) an ghléis anseo (Statach amháin)",
     "Enter the network gateway address here (Static only)": "Iontráil seoladh an gheata líonra anseo (Statach amháin)",
@@ -205,7 +192,7 @@
     "Network Active": "Líonra Gníomhach",
     "Network Disabled": "Líonra Díchumasaithe",
     "Network Type": "Cineál Líonra",
-    "No Password Detected...": "Níor aimsíodh pasfhocal ar bith…",
+    "No Password Detected…": "No Password Detected…",
     "Not Connected": "Gan Ceangal",
     "Password": "Pasfhocal",
     "Please check network settings": "Seiceáil socruithe líonra le do thoil",
@@ -216,12 +203,16 @@
     "Toggle between DHCP and Static network types": "Scoránaigh idir DHCP agus cineálacha líonra statacha",
     "Toggle the Wi-Fi network on and off": "Scoránaigh an líonra Wi-Fi air agus as",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Scoránaigh cé acu an ndéanfar iarracht nó nach ndéanfar iarracht ceangal a dhéanamh le craoladh SSID folaithe",
-    "Trying to Connect...": "Ag iarraidh Ceangail…",
+    "Trying to Connect…": "Trying to Connect…",
     "WI-FI NETWORK": "LÍONRA WI-FI"
   },
   "muxoption": {
     "Assign Core": "Tabhair Croí",
     "CONTENT OPTION": "ROGHA INNEACHAIR",
+    "Current": "Current",
+    "Directory": "Directory",
+    "Individual": "Individual",
+    "Name": "Name",
     "Search Content": "Cuardaigh Ábhar",
     "Search for content within the selected directory": "Cuardaigh inneachar laistigh den eolaire roghnaithe",
     "Set the CPU governor for the selected content or directory": "Socraigh gobharnóir an LAP don inneachar nó don chomhadlann roghnaithe",
@@ -253,7 +244,7 @@
     "Favourite": "An ceann is fearr leat",
     "HISTORY": "STAIR",
     "Info": "Eolas",
-    "Loading...": "Á Luchtú…",
+    "Loading…": "Loading…",
     "No Information Found": "Níor aimsíodh aon eolas",
     "Refresh": "Athnuaigh",
     "Removed from Favourites": "Bainte de Cheanáin"
@@ -278,6 +269,7 @@
     "POWER SETTINGS": "SOCRUITHE CUMHACHTA",
     "Sleep 10m + Shutdown": "Codladh 10m + Múchadh",
     "Sleep 10s + Shutdown": "Codladh 10s + Múchadh",
+    "Sleep 15m + Shutdown": "Sleep 15m + Shutdown",
     "Sleep 2m + Shutdown": "Codladh 2m + Múchadh",
     "Sleep 30m + Shutdown": "Codladh 30m + Múchadh",
     "Sleep 30s + Shutdown": "Codladh 30s + Múchadh",
@@ -308,7 +300,8 @@
     "Search Global": "Cuardach Domhanda",
     "Search Local": "Cuardach Áitiúil",
     "Search all current active storage devices": "Cuardaigh gach gléas stórála gníomhach reatha",
-    "Search within the current selected folder and folders within": "Cuardaigh laistigh den fhillteán roghnaithe reatha agus fillteáin laistigh"
+    "Search within the current selected folder and folders within": "Cuardaigh laistigh den fhillteán roghnaithe reatha agus fillteáin laistigh",
+    "Searching…": "Searching…"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Córas Croí/Gobharnóir Sannta",
@@ -357,9 +350,9 @@
     "CPU Speed": "Luas LAP",
     "Device Type": "Cineál Gléis",
     "Linux Kernel": "Eithne Linux",
-    "RAM Usage": "Úsáid RAM",
     "Running Services": "Seirbhísí Reatha",
     "SYSTEM DETAILS": "SONRAÍ AN CHÓRAIS",
+    "System Memory": "System Memory",
     "System Uptime": "Aga fónaimh an chórais",
     "Temperature": "Teocht",
     "The current CPU frequency of the device": "Minicíocht LAP reatha an ghléis",
@@ -386,7 +379,7 @@
     "Press any button to start input testing!": "Brúigh cnaipe ar bith chun tástáil ionchuir a thosú!"
   },
   "muxtimezone": {
-    "No Timezones Found...": "Níor aimsíodh aon amchrios…",
+    "No Timezones Found…": "No Timezones Found…",
     "Saving Timezone": "Crios Ama á Shábháil",
     "Select your preferred timezone": "Roghnaigh an crios ama is fearr leat",
     "TIMEZONE": "CRIOS AMA"
@@ -546,10 +539,28 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "Scoránaigh tacaíocht SFTP - Is féidir WebUI a fháil ar phort 9090",
     "Toggle SSH support - Access via port 22": "Scoránaigh tacaíocht SSH - Rochtain trí chalafort 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Toggle Syncthing - Is féidir WebUI a fháil ar phort 7070",
-    "Toggle Tailscale - Need to login via SSH first": "Toggle Tailscale - Is gá logáil isteach trí SSH ar dtús",
+    "Toggle Tailscale - Need to login via SSH first to configure it": "Toggle Tailscale - Need to login via SSH first to configure it",
     "Toggle network time protocol for active network connections": "Scoránaigh prótacal ama líonra le haghaidh naisc ghníomhacha líonra",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Scoránaigh teirminéal fíorúil - Is féidir WebUI a fháil ar phort 8080",
     "Virtual Terminal": "Teirminéal Fíorúil",
     "WEB SERVICES": "SEIRBHÍSÍ GRÉASÁIN"
+  },
+  "system": {
+    "Failed read command output": "Failed read command output",
+    "Failed to allocate memory": "Failed to allocate memory",
+    "Failed to close command stream": "Failed to close command stream",
+    "Failed to create file": "Failed to create file",
+    "Failed to delete file": "Failed to delete file",
+    "Failed to duplicate string": "Failed to duplicate string",
+    "Failed to fork": "Failed to fork",
+    "Failed to open /proc/partitions": "Failed to open /proc/partitions",
+    "Failed to open alternative joystick device": "Failed to open alternative joystick device",
+    "Failed to open directory": "Failed to open directory",
+    "Failed to open file": "Failed to open file",
+    "Failed to open file for reading": "Failed to open file for reading",
+    "Failed to open file for writing": "Failed to open file for writing",
+    "Failed to open joystick device": "Failed to open joystick device",
+    "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
+    "Failed to run command": "Failed to run command"
   }
 }

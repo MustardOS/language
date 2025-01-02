@@ -11,7 +11,7 @@
     "Launch": "起動する",
     "Load": "設定を読み込む",
     "Migrate to SD2": "Migrate to SD2",
-    "No Content Found...": "コンテンツがみつかりませんでした…",
+    "No Content Found…": "No Content Found…",
     "No Help Information Found": "ヘルプ情報が見つかりませんでした",
     "Open": "開く",
     "Previous": "現在の設定を使用",
@@ -53,13 +53,13 @@
     "ASSIGN": "指定する",
     "Assigned to directory": "Assigned to directory",
     "Assigned to file": "Assigned to file",
-    "No Cores Found...": "コアが見つかりませんでした",
+    "No Cores Found…": "No Cores Found…",
     "This is where you can assign a core or external emulator to content": "コアまたは個別エミュレーターをコンテンツに関連づけます"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "システムを起動しています - お待ちください…",
+    "Booting System - Please Wait…": "Booting System - Please Wait…",
     "Capacity": "容量",
-    "Press POWER button to continue booting...": "起動を続けるには電源ボタンを押してください…",
+    "Press POWER button to continue booting…": "Press POWER button to continue booting…",
     "Voltage": "電圧"
   },
   "muxconfig": {
@@ -91,45 +91,32 @@
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU周波数を動的に管理し、消費電力と処理能力を調節するガバナーを設定します",
     "GOVERNOR": "ガバナー",
-    "No Governors Found...": "ガバナーが見つかりませんでした"
+    "No Governors Found…": "No Governors Found…"
   },
   "muxhdmi": {
-    "1080i + 50hz": "1080i + 50hz",
-    "1080i + 60hz": "1080i + 60hz",
-    "1080p + 24hz": "1080p + 24hz",
-    "1080p + 50hz": "1080p + 50hz",
-    "1080p + 60hz": "1080p + 60hz",
-    "480i": "480i",
-    "480p": "480p",
-    "576i": "576i",
-    "576p": "576p",
-    "720p + 50hz": "720p + 50hz",
-    "720p + 60hz": "720p + 60hz",
     "Audio Output": "Audio Output",
-    "Choose the color space, such as RGB or YUV.": "Choose the color space, such as RGB or YUV.",
+    "Cannot modify while HDMI is active": "Cannot modify while HDMI is active",
     "Colour Depth": "Colour Depth",
     "Colour Range": "Colour Range",
     "Colour Space": "Colour Space",
-    "Enable or disable HDMI output.": "Enable or disable HDMI output.",
+    "Enable or disable HDMI output": "Enable or disable HDMI output",
     "External": "External",
     "Full": "Full",
     "HDMI Active": "HDMI Active",
     "HDMI SETTINGS": "HDMI SETTINGS",
+    "HDMI cable is not detected": "HDMI cable is not detected",
     "Internal": "Internal",
     "Limited": "Limited",
     "Over": "Over",
-    "RGB": "RGB",
     "Resolution": "Resolution",
     "Scan Scaling": "Scan Scaling",
-    "Select the resolution for HDMI output, such as 720p or 1080p.": "Select the resolution for HDMI output, such as 720p or 1080p.",
-    "Set the color depth, such as 8-bit or 10-bit.": "Set the color depth, such as 8-bit or 10-bit.",
-    "Set the color range of RGB colour space.": "Set the color range of RGB colour space.",
-    "Switch between device speaker or external monitor audio via HDMI connection.": "Switch between device speaker or external monitor audio via HDMI connection.",
-    "Switch between overscan or underscan to fit the display screen.": "Switch between overscan or underscan to fit the display screen.",
-    "Under": "Under",
-    "YUV420": "YUV420",
-    "YUV422": "YUV422",
-    "YUV444": "YUV444"
+    "Select the resolution for HDMI output, such as 720p or 1080p": "Select the resolution for HDMI output, such as 720p or 1080p",
+    "Set the color depth, such as 8-bit or 10-bit": "Set the color depth, such as 8-bit or 10-bit",
+    "Set the color range of RGB colour space": "Set the color range of RGB colour space",
+    "Set the color space, such as RGB or YUV": "Set the color space, such as RGB or YUV",
+    "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
+    "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
+    "Under": "Under"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "コンテンツの利用状況などを確認します",
@@ -143,8 +130,8 @@
     "View all of the current muOS supporters": "現在の muOS のサポーター一覧を表示します"
   },
   "muxlanguage": {
-    "LANGUAGES": "言語",
-    "No Languages Found...": "言語が見つかりませんでした…",
+    "LANGUAGE": "LANGUAGE",
+    "No Languages Found…": "No Languages Found…",
     "Saving Language": "言語を設定しています",
     "Select your preferred language": "使用する言語を設定します"
   },
@@ -172,7 +159,7 @@
   "muxnetprofile": {
     "Invalid Network Settings": "ネットワーク設定が無効です",
     "Invalid SSID": "ネットワーク名 (SSID) が無効です",
-    "Loading Network Profiles...": "ネットワーク設定を読み込み中…",
+    "Loading Network Profiles…": "Loading Network Profiles…",
     "NETWORK PROFILE": "ネットワーク設定",
     "No Saved Network Profiles Found": "保存されているネットワーク設定が見つかりませんでした",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "現在地または保存された設定に合わせて Wi-Fi の設定を切り替えます"
@@ -181,10 +168,10 @@
     "Detect, display and connect to available Wi-Fi networks": "使用できる Wi-Fi ネットワークを表示して接続します",
     "NETWORK SCAN": "ネットワーク検索",
     "No Wi-Fi Networks Found": "Wi-Fi ネットワークが見つかりませんでした",
-    "Scanning for Wi-Fi Networks...": "Wi-Fi ネットワークを検索中…"
+    "Scanning for Wi-Fi Networks…": "Scanning for Wi-Fi Networks…"
   },
   "muxnetwork": {
-    "Cannot modify while connected!": "接続中は変更出来ません!",
+    "Cannot modify while connected": "Cannot modify while connected",
     "Changes Saved": "変更を保存しました",
     "Connect": "接続する",
     "Connect to the network using options entered above": "上記の設定でネットワークに接続します",
@@ -193,7 +180,7 @@
     "DNS Server": "DNS サーバー",
     "Device IP": "デバイス IP",
     "Disconnect": "接続を切る",
-    "Encrypting Password...": "パスワードを暗号化しています…",
+    "Encrypting Password…": "Encrypting Password…",
     "Enter the device IP address here (Static only)": "デバイスの IP アドレスを入力してください (静的時のみ)",
     "Enter the device Subnet (CIDR) number here (Static only)": "デバイスのサブネット番号 (CIDR) を入力してください (静的時のみ)",
     "Enter the network gateway address here (Static only)": "ネットワークゲートウェイアドレスを入力してください (静的時のみ)",
@@ -205,7 +192,7 @@
     "Network Active": "Network Active",
     "Network Disabled": "ネットワークを無効にする",
     "Network Type": "ネットワーク種別",
-    "No Password Detected...": "No Password Detected…",
+    "No Password Detected…": "No Password Detected…",
     "Not Connected": "未接続",
     "Password": "パスワード",
     "Please check network settings": "ネットワーク設定を確認してください",
@@ -216,12 +203,16 @@
     "Toggle between DHCP and Static network types": "DHCP と 静的ネットワークを切り替えます",
     "Toggle the Wi-Fi network on and off": "Wi-Fi ネットワークの有効・無効を切り替えます",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Toggle whether or not to try and connect to a hidden SSID broadcast",
-    "Trying to Connect...": "接続しています…",
+    "Trying to Connect…": "Trying to Connect…",
     "WI-FI NETWORK": "WI-FI ネットワーク"
   },
   "muxoption": {
     "Assign Core": "コアを設定する",
     "CONTENT OPTION": "CONTENT OPTION",
+    "Current": "Current",
+    "Directory": "Directory",
+    "Individual": "Individual",
+    "Name": "Name",
     "Search Content": "Search Content",
     "Search for content within the selected directory": "Search for content within the selected directory",
     "Set the CPU governor for the selected content or directory": "選択したコンテンツまたはディレクトリに CPU ガナバーを設定します",
@@ -253,7 +244,7 @@
     "Favourite": "お気に入りに追加",
     "HISTORY": "履歴",
     "Info": "情報",
-    "Loading...": "読み込み中…",
+    "Loading…": "Loading…",
     "No Information Found": "No Information Found",
     "Refresh": "再読み込み",
     "Removed from Favourites": "お気に入りから削除しました"
@@ -278,6 +269,7 @@
     "POWER SETTINGS": "電力設定",
     "Sleep 10m + Shutdown": "スリープ 10分 + 電源を切る",
     "Sleep 10s + Shutdown": "スリープ 10秒 + 電源を切る",
+    "Sleep 15m + Shutdown": "Sleep 15m + Shutdown",
     "Sleep 2m + Shutdown": "スリープ 2分 + 電源を切る",
     "Sleep 30m + Shutdown": "スリープ 30分 + 電源を切る",
     "Sleep 30s + Shutdown": "スリープ 30秒 + 電源を切る",
@@ -308,7 +300,8 @@
     "Search Global": "Search Global",
     "Search Local": "Search Local",
     "Search all current active storage devices": "Search all current active storage devices",
-    "Search within the current selected folder and folders within": "Search within the current selected folder and folders within"
+    "Search within the current selected folder and folders within": "Search within the current selected folder and folders within",
+    "Searching…": "Searching…"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Assigned Core/Governor System",
@@ -357,9 +350,9 @@
     "CPU Speed": "CPU 速度",
     "Device Type": "機種",
     "Linux Kernel": "Linux カーネル",
-    "RAM Usage": "メモリ使用量",
     "Running Services": "稼働中のサービス",
     "SYSTEM DETAILS": "システム詳細",
+    "System Memory": "System Memory",
     "System Uptime": "システム稼働期間",
     "Temperature": "温度",
     "The current CPU frequency of the device": "現在の CPU 周波数を表示します",
@@ -386,7 +379,7 @@
     "Press any button to start input testing!": "ボタンを押して入力テストを始めましょう!"
   },
   "muxtimezone": {
-    "No Timezones Found...": "タイムゾーンが見つかりませんでした…",
+    "No Timezones Found…": "No Timezones Found…",
     "Saving Timezone": "タイムゾーンを保存しています",
     "Select your preferred timezone": "使用するタイムゾーンを選択してください",
     "TIMEZONE": "タイムゾーン"
@@ -546,10 +539,28 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "SFTP を切り替えます - 9090番ポートからWebUIに接続してください",
     "Toggle SSH support - Access via port 22": "SSH を切り替えます - 22番ポートで接続してください",
     "Toggle Syncthing - WebUI can be found on port 7070": "Syncthing を切り替えます - 7070番ポートでWebUIに接続してください",
-    "Toggle Tailscale - Need to login via SSH first": "Toggle Tailscale - Need to login via SSH first",
+    "Toggle Tailscale - Need to login via SSH first to configure it": "Toggle Tailscale - Need to login via SSH first to configure it",
     "Toggle network time protocol for active network connections": "有効なネットワーク使用時に\nネットワークタイムサーバーに接続します",
     "Toggle virtual terminal - WebUI can be found on port 8080": "仮想ターミナルを切り替えます - 8080番ポートで接続してください",
     "Virtual Terminal": "仮想ターミナル",
     "WEB SERVICES": "ウェブサービス"
+  },
+  "system": {
+    "Failed read command output": "Failed read command output",
+    "Failed to allocate memory": "Failed to allocate memory",
+    "Failed to close command stream": "Failed to close command stream",
+    "Failed to create file": "Failed to create file",
+    "Failed to delete file": "Failed to delete file",
+    "Failed to duplicate string": "Failed to duplicate string",
+    "Failed to fork": "Failed to fork",
+    "Failed to open /proc/partitions": "Failed to open /proc/partitions",
+    "Failed to open alternative joystick device": "Failed to open alternative joystick device",
+    "Failed to open directory": "Failed to open directory",
+    "Failed to open file": "Failed to open file",
+    "Failed to open file for reading": "Failed to open file for reading",
+    "Failed to open file for writing": "Failed to open file for writing",
+    "Failed to open joystick device": "Failed to open joystick device",
+    "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
+    "Failed to run command": "Failed to run command"
   }
 }

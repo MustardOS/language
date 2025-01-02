@@ -11,7 +11,7 @@
     "Launch": "Spustit",
     "Load": "Nahrát",
     "Migrate to SD2": "Migrujte na SD2",
-    "No Content Found...": "Nebyl nalezen žádný obsah…",
+    "No Content Found…": "No Content Found…",
     "No Help Information Found": "Nebyly nalezeny žádné informace nápovědy",
     "Open": "Otevřít",
     "Previous": "Předchozí",
@@ -53,13 +53,13 @@
     "ASSIGN": "PŘIŘADIT",
     "Assigned to directory": "Přiřazeno do adresáře",
     "Assigned to file": "Přiřazeno k souboru",
-    "No Cores Found...": "Nebyla nalezena žádná jádra…",
+    "No Cores Found…": "No Cores Found…",
     "This is where you can assign a core or external emulator to content": "Zde můžete přiřadit jádro nebo externí emulátor"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "Zavádění systému - čekejte prosím…",
+    "Booting System - Please Wait…": "Booting System - Please Wait…",
     "Capacity": "Kapacita",
-    "Press POWER button to continue booting...": "Stisknutím tlačítka NAPÁJENÍ pokračujte v bootovaní…",
+    "Press POWER button to continue booting…": "Press POWER button to continue booting…",
     "Voltage": "Napětí"
   },
   "muxconfig": {
@@ -91,45 +91,32 @@
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Nakonfigurujte regulátory CPU tak, aby dynamicky upravovaly frekvenci CPU a pomáhaly vyvážit spotřebu energie a výkon",
     "GOVERNOR": "REGULÁTOR",
-    "No Governors Found...": "Nebyl nalezen žádný regulátor..."
+    "No Governors Found…": "No Governors Found…"
   },
   "muxhdmi": {
-    "1080i + 50hz": "1080i + 50hz",
-    "1080i + 60hz": "1080i + 60hz",
-    "1080p + 24hz": "1080p + 24hz",
-    "1080p + 50hz": "1080p + 50hz",
-    "1080p + 60hz": "1080p + 60hz",
-    "480i": "480i",
-    "480p": "480p",
-    "576i": "576i",
-    "576p": "576p",
-    "720p + 50hz": "720p + 50hz",
-    "720p + 60hz": "720p + 60hz",
     "Audio Output": "Zvukový výstup",
-    "Choose the color space, such as RGB or YUV.": "Vyberte barevný prostor, například RGB nebo YUV.",
+    "Cannot modify while HDMI is active": "Cannot modify while HDMI is active",
     "Colour Depth": "Barevná hloubka",
     "Colour Range": "Barevný rozsah",
     "Colour Space": "Barevný prostor",
-    "Enable or disable HDMI output.": "Povolte nebo zakažte výstup HDMI.",
+    "Enable or disable HDMI output": "Enable or disable HDMI output",
     "External": "Externí",
     "Full": "Plný",
     "HDMI Active": "HDMI aktivní",
     "HDMI SETTINGS": "NASTAVENÍ HDMI",
+    "HDMI cable is not detected": "HDMI cable is not detected",
     "Internal": "Interní",
     "Limited": "Omezený",
     "Over": "Nad",
-    "RGB": "RGB",
     "Resolution": "Rozlišení",
     "Scan Scaling": "Měřítko skenování",
-    "Select the resolution for HDMI output, such as 720p or 1080p.": "Vyberte rozlišení pro výstup HDMI, například 720p nebo 1080p.",
-    "Set the color depth, such as 8-bit or 10-bit.": "Nastavte barevnou hloubku, například 8-bit nebo 10-bit.",
-    "Set the color range of RGB colour space.": "Nastavte rozsah barev barevného prostoru RGB.",
-    "Switch between device speaker or external monitor audio via HDMI connection.": "Přepínejte mezi reproduktorem zařízení nebo zvukem externího monitoru prostřednictvím připojení HDMI.",
-    "Switch between overscan or underscan to fit the display screen.": "Přepínejte mezi přeskenováním a podskenováním, aby se přizpůsobilo obrazovce displeje.",
-    "Under": "Pod",
-    "YUV420": "YUV420",
-    "YUV422": "YUV422",
-    "YUV444": "YUV444"
+    "Select the resolution for HDMI output, such as 720p or 1080p": "Select the resolution for HDMI output, such as 720p or 1080p",
+    "Set the color depth, such as 8-bit or 10-bit": "Set the color depth, such as 8-bit or 10-bit",
+    "Set the color range of RGB colour space": "Set the color range of RGB colour space",
+    "Set the color space, such as RGB or YUV": "Set the color space, such as RGB or YUV",
+    "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
+    "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
+    "Under": "Pod"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Přístup ke statistikám přehrávaného obsahu a další aktivity",
@@ -143,8 +130,8 @@
     "View all of the current muOS supporters": "Podívejte se na všechny současné příznivce muOS"
   },
   "muxlanguage": {
-    "LANGUAGES": "JAZYKY",
-    "No Languages Found...": "Nebyly nalezeny žádné jazyky…",
+    "LANGUAGE": "LANGUAGE",
+    "No Languages Found…": "No Languages Found…",
     "Saving Language": "Uložení jazyka",
     "Select your preferred language": "Vyberte preferovaný jazyk"
   },
@@ -172,7 +159,7 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Neplatná nastavení sítě",
     "Invalid SSID": "Neplatné SSID",
-    "Loading Network Profiles...": "Načítání síťových profilů…",
+    "Loading Network Profiles…": "Loading Network Profiles…",
     "NETWORK PROFILE": "SÍŤOVÝ PROFIL",
     "No Saved Network Profiles Found": "Nebyly nalezeny žádné uložené síťové profily",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Rychle přepínejte mezi různými konfiguracemi Wi-Fi na základě vaší polohy nebo předvoleb sítě"
@@ -181,10 +168,10 @@
     "Detect, display and connect to available Wi-Fi networks": "Detekce, zobrazení a připojení k dostupným sítím Wi-Fi",
     "NETWORK SCAN": "SKENOVÁNÍ SÍŤĚ",
     "No Wi-Fi Networks Found": "Nebyly nalezeny žádné sítě Wi-Fi",
-    "Scanning for Wi-Fi Networks...": "Vyhledávání sítí Wi-Fi..."
+    "Scanning for Wi-Fi Networks…": "Scanning for Wi-Fi Networks…"
   },
   "muxnetwork": {
-    "Cannot modify while connected!": "Během připojení nelze upravovat!",
+    "Cannot modify while connected": "Cannot modify while connected",
     "Changes Saved": "Změny uloženy",
     "Connect": "Připojit",
     "Connect to the network using options entered above": "Připojte se k síti pomocí možností zadaných výše",
@@ -193,7 +180,7 @@
     "DNS Server": "Server DNS",
     "Device IP": "IP adresa zařízení",
     "Disconnect": "Odpojit",
-    "Encrypting Password...": "Šifrování hesla…",
+    "Encrypting Password…": "Encrypting Password…",
     "Enter the device IP address here (Static only)": "Zde zadejte IP adresu zařízení. (Pouze statické)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Zde zadejte číslo podsítě zařízení (CIDR). (Pouze statické)",
     "Enter the network gateway address here (Static only)": "Zde zadejte adresu síťové brány. (Pouze statické)",
@@ -205,7 +192,7 @@
     "Network Active": "Síť je aktivní",
     "Network Disabled": "Vypnutá síť",
     "Network Type": "Typ sítě",
-    "No Password Detected...": "Nebylo zjištěno žádné heslo…",
+    "No Password Detected…": "No Password Detected…",
     "Not Connected": "Nepřipojeno",
     "Password": "Heslo",
     "Please check network settings": "Zkontrolujte nastavení sítě",
@@ -216,12 +203,16 @@
     "Toggle between DHCP and Static network types": "Přepínání mezi DHCP a Statickou sítí",
     "Toggle the Wi-Fi network on and off": "Zapněte a vypněte síť Wi-Fi",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Přepněte, zda se chcete nebo nechcete pokusit připojit ke skrytému vysílání SSID",
-    "Trying to Connect...": "Pokus o připojení…",
+    "Trying to Connect…": "Trying to Connect…",
     "WI-FI NETWORK": "WI-FI SÍŤ"
   },
   "muxoption": {
     "Assign Core": "Přiřadit Core",
     "CONTENT OPTION": "MOŽNOST OBSAHU",
+    "Current": "Current",
+    "Directory": "Directory",
+    "Individual": "Individual",
+    "Name": "Name",
     "Search Content": "Hledat obsah",
     "Search for content within the selected directory": "Vyhledejte obsah ve vybraném adresáři",
     "Set the CPU governor for the selected content or directory": "Nastavte regulátor CPU pro vybraný obsah nebo adresář",
@@ -253,7 +244,7 @@
     "Favourite": "Oblíbené",
     "HISTORY": "HISTORIE",
     "Info": "Info",
-    "Loading...": "Načítání…",
+    "Loading…": "Loading…",
     "No Information Found": "Nebyly nalezeny žádné informace",
     "Refresh": "Obnovit",
     "Removed from Favourites": "Odebráno z oblíbených"
@@ -278,6 +269,7 @@
     "POWER SETTINGS": "NASTAVENÍ NAPÁJENÍ",
     "Sleep 10m + Shutdown": "Spánek 10m + vypnutí",
     "Sleep 10s + Shutdown": "Spánek 10s + vypnutí",
+    "Sleep 15m + Shutdown": "Sleep 15m + Shutdown",
     "Sleep 2m + Shutdown": "Spánek 2m + vypnutí",
     "Sleep 30m + Shutdown": "Spánek 30m + vypnutí",
     "Sleep 30s + Shutdown": "Spánek 30s + vypnutí",
@@ -308,7 +300,8 @@
     "Search Global": "Hledat globálně",
     "Search Local": "Hledat Místní",
     "Search all current active storage devices": "Prohledejte všechna aktuální aktivní úložná zařízení",
-    "Search within the current selected folder and folders within": "Hledat v aktuálně vybrané složce a složkách uvnitř"
+    "Search within the current selected folder and folders within": "Hledat v aktuálně vybrané složce a složkách uvnitř",
+    "Searching…": "Searching…"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Přiřazené jádro/Regulátor systému",
@@ -357,9 +350,9 @@
     "CPU Speed": "Rychlost procesoru",
     "Device Type": "Typ zařízení",
     "Linux Kernel": "Linux Kernel",
-    "RAM Usage": "Využití paměti RAM",
     "Running Services": "Běžící Služby",
     "SYSTEM DETAILS": "SYSTÉMOVÉ PODROBNOSTI",
+    "System Memory": "System Memory",
     "System Uptime": "Doba provozu systému",
     "Temperature": "Teplota",
     "The current CPU frequency of the device": "Aktuální frekvence procesoru zařízení",
@@ -386,7 +379,7 @@
     "Press any button to start input testing!": "Stisknutím libovolného tlačítka zahájíte testování vstupu!"
   },
   "muxtimezone": {
-    "No Timezones Found...": "Nebyla nalezena žádná časová pásma…",
+    "No Timezones Found…": "No Timezones Found…",
     "Saving Timezone": "Ukládání časového pásma",
     "Select your preferred timezone": "Vyberte preferované časové pásmo.",
     "TIMEZONE": "ČASOVÉ PÁSMO"
@@ -546,10 +539,28 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "Přepnout podporu SFTP – WebUI najdete na portu 9090",
     "Toggle SSH support - Access via port 22": "Přepnout podporu SSH – Přístup přes port 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Přepnout Synchronizaci – WebUI najdete na portu 7070",
-    "Toggle Tailscale - Need to login via SSH first": "Toggle Tailscale – Nejprve se musíte přihlásit přes SSH",
+    "Toggle Tailscale - Need to login via SSH first to configure it": "Toggle Tailscale - Need to login via SSH first to configure it",
     "Toggle network time protocol for active network connections": "Přepnout síťový časový protokol pro aktivní síťová připojení",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Přepnout virtuální terminál – WebUI najdete na portu 8080",
     "Virtual Terminal": "Virtuální terminál",
     "WEB SERVICES": "SÍŤOVÉ SLUŽBY"
+  },
+  "system": {
+    "Failed read command output": "Failed read command output",
+    "Failed to allocate memory": "Failed to allocate memory",
+    "Failed to close command stream": "Failed to close command stream",
+    "Failed to create file": "Failed to create file",
+    "Failed to delete file": "Failed to delete file",
+    "Failed to duplicate string": "Failed to duplicate string",
+    "Failed to fork": "Failed to fork",
+    "Failed to open /proc/partitions": "Failed to open /proc/partitions",
+    "Failed to open alternative joystick device": "Failed to open alternative joystick device",
+    "Failed to open directory": "Failed to open directory",
+    "Failed to open file": "Failed to open file",
+    "Failed to open file for reading": "Failed to open file for reading",
+    "Failed to open file for writing": "Failed to open file for writing",
+    "Failed to open joystick device": "Failed to open joystick device",
+    "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
+    "Failed to run command": "Failed to run command"
   }
 }

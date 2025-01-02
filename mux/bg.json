@@ -11,7 +11,7 @@
     "Launch": "Старт",
     "Load": "Зареди",
     "Migrate to SD2": "Мигрирайте към SD2",
-    "No Content Found...": "Не е намерено съдържание…",
+    "No Content Found…": "No Content Found…",
     "No Help Information Found": "Не е намерена информация за помощ",
     "Open": "Отвори",
     "Previous": "Предишно",
@@ -53,13 +53,13 @@
     "ASSIGN": "СВЪРЗВАЙ",
     "Assigned to directory": "Свъзавано с папка",
     "Assigned to file": "Свъзавано с файл",
-    "No Cores Found...": "Не са намерени Ядра…",
+    "No Cores Found…": "No Cores Found…",
     "This is where you can assign a core or external emulator to content": "Тук можеш да свързваш ядро или външен емулатор към съдържанието"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "Системата се стартира - Моля, изчакайте…",
+    "Booting System - Please Wait…": "Booting System - Please Wait…",
     "Capacity": "Капацитет",
-    "Press POWER button to continue booting...": "Натисни POWER, за да продължиж стартирането…",
+    "Press POWER button to continue booting…": "Press POWER button to continue booting…",
     "Voltage": "Напрежение"
   },
   "muxconfig": {
@@ -91,45 +91,32 @@
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Конфигурирай CPU регулатори за динамично регулиране на честотата на CPU и подпомагане на баланса между консумацията на енергия и производителност",
     "GOVERNOR": "РЕГУЛАТОР",
-    "No Governors Found...": "Не са намерени Регулатори..."
+    "No Governors Found…": "No Governors Found…"
   },
   "muxhdmi": {
-    "1080i + 50hz": "1080i + 50hz",
-    "1080i + 60hz": "1080i + 60hz",
-    "1080p + 24hz": "1080p + 24hz",
-    "1080p + 50hz": "1080p + 50hz",
-    "1080p + 60hz": "1080p + 60hz",
-    "480i": "480i",
-    "480p": "480p",
-    "576i": "576i",
-    "576p": "576p",
-    "720p + 50hz": "720p + 50hz",
-    "720p + 60hz": "720p + 60hz",
     "Audio Output": "Аудио Изход",
-    "Choose the color space, such as RGB or YUV.": "Избирай цветовото пространство, например RGB или YUV.",
+    "Cannot modify while HDMI is active": "Cannot modify while HDMI is active",
     "Colour Depth": "Дълбочина на Цвета",
     "Colour Range": "Цветова Гама",
     "Colour Space": "Цветово Пространство",
-    "Enable or disable HDMI output.": "Активирайте или деактивирайте HDMI изход.",
+    "Enable or disable HDMI output": "Enable or disable HDMI output",
     "External": "Външен",
     "Full": "Пълен",
     "HDMI Active": "HDMI Активен",
     "HDMI SETTINGS": "HDMI НАСТРОЙКИ",
+    "HDMI cable is not detected": "HDMI cable is not detected",
     "Internal": "Вътрешен",
     "Limited": "Ограничен",
     "Over": "Над",
-    "RGB": "RGB",
     "Resolution": "Резолюция",
     "Scan Scaling": "Мащабиране на сканиране",
-    "Select the resolution for HDMI output, such as 720p or 1080p.": "Избирай резолюцията за HDMI изход, например 720p или 1080p.",
-    "Set the color depth, such as 8-bit or 10-bit.": "Избирай дълбочината на цвета, например 8-bit или 10-bit.",
-    "Set the color range of RGB colour space.": "Избери цветова гама на пространство RGB.",
-    "Switch between device speaker or external monitor audio via HDMI connection.": "Превключи между високоговорител на устройството или звук от външен монитор чрез HDMI връзка.",
-    "Switch between overscan or underscan to fit the display screen.": "Превключи между свръхскъпо или долно сканиране, за да се приспособите към екрана.",
-    "Under": "Под",
-    "YUV420": "YUV420",
-    "YUV422": "YUV422",
-    "YUV444": "YUV444"
+    "Select the resolution for HDMI output, such as 720p or 1080p": "Select the resolution for HDMI output, such as 720p or 1080p",
+    "Set the color depth, such as 8-bit or 10-bit": "Set the color depth, such as 8-bit or 10-bit",
+    "Set the color range of RGB colour space": "Set the color range of RGB colour space",
+    "Set the color space, such as RGB or YUV": "Set the color space, such as RGB or YUV",
+    "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
+    "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
+    "Under": "Под"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Достъп до статистика до възпроизвеждано съдържание и други дейности",
@@ -143,8 +130,8 @@
     "View all of the current muOS supporters": "Вижте всички текущи поддръжници на muOS"
   },
   "muxlanguage": {
-    "LANGUAGES": "ЕЗИЦИ",
-    "No Languages Found...": "Не са намерени Езици…",
+    "LANGUAGE": "LANGUAGE",
+    "No Languages Found…": "No Languages Found…",
     "Saving Language": "Запази Език",
     "Select your preferred language": "Избери предпочитания от вас език"
   },
@@ -172,7 +159,7 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Невалидни мрежови настройки",
     "Invalid SSID": "Невалиден SSID",
-    "Loading Network Profiles...": "Зареждане на мрежови профили…",
+    "Loading Network Profiles…": "Loading Network Profiles…",
     "NETWORK PROFILE": "МРЕЖОВ ПРОФИЛ",
     "No Saved Network Profiles Found": "Не са намерени запазени Мрежови Профили",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Бързо превключи между различни конфиг. на Wi-Fi в зависимост от местоположението или предпочитания на мрежата"
@@ -181,10 +168,10 @@
     "Detect, display and connect to available Wi-Fi networks": "Откриване, показване и свързване с наличните Wi-Fi мрежи",
     "NETWORK SCAN": "МРЕЖОВО СКАНИРАНЕ",
     "No Wi-Fi Networks Found": "Не са намерени Wi-Fi мрежи",
-    "Scanning for Wi-Fi Networks...": "Сканиране за Wi-Fi мрежи..."
+    "Scanning for Wi-Fi Networks…": "Scanning for Wi-Fi Networks…"
   },
   "muxnetwork": {
-    "Cannot modify while connected!": "Не може да се променя, докато сте свързани!",
+    "Cannot modify while connected": "Cannot modify while connected",
     "Changes Saved": "Промените са Запазени",
     "Connect": "Свързвай",
     "Connect to the network using options entered above": "Свързвай се с мрежата, като използваш въведените по-горе опции",
@@ -193,7 +180,7 @@
     "DNS Server": "DNS Сървър",
     "Device IP": "IP на устройство",
     "Disconnect": "Прекъсвай",
-    "Encrypting Password...": "Криптиране на Паролата…",
+    "Encrypting Password…": "Encrypting Password…",
     "Enter the device IP address here (Static only)": "Въведи тук IP адреса на устройството (само Статичен)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Въведи номера на подмрежата на устройството (CIDR) тук (само Статичен)",
     "Enter the network gateway address here (Static only)": "Въведи адреса на мрежовия шлюз тук (само Статичен)",
@@ -205,7 +192,7 @@
     "Network Active": "Активна Мрежа",
     "Network Disabled": "Изключена Мрежа",
     "Network Type": "Тип Мрежа",
-    "No Password Detected...": "Не е открита Парола…",
+    "No Password Detected…": "No Password Detected…",
     "Not Connected": "Не е Свързано",
     "Password": "Парола",
     "Please check network settings": "Моля, провери настройките на мрежата",
@@ -216,12 +203,16 @@
     "Toggle between DHCP and Static network types": "Превключи между типовете мрежи DHCP и Статичен",
     "Toggle the Wi-Fi network on and off": "Включване и изключване на Wi-Fi мрежата",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Превключи дали да опитате или не да се свържете със скрито излъчване на SSID",
-    "Trying to Connect...": "Опит за свързване…",
+    "Trying to Connect…": "Trying to Connect…",
     "WI-FI NETWORK": "WI-FI МРЕЖА"
   },
   "muxoption": {
     "Assign Core": "Свързвай Ядро",
     "CONTENT OPTION": "ОПЦИЯ ЗА СЪДЪРЖАНИЕ",
+    "Current": "Current",
+    "Directory": "Directory",
+    "Individual": "Individual",
+    "Name": "Name",
     "Search Content": "Търси Съдържание",
     "Search for content within the selected directory": "Търси съдържание в избраната папка",
     "Set the CPU governor for the selected content or directory": "Избирай CPU регулатор за избраното съдържание или папка",
@@ -253,7 +244,7 @@
     "Favourite": "Любим",
     "HISTORY": "ИСТОРИЯ",
     "Info": "Инфо",
-    "Loading...": "Зареждане…",
+    "Loading…": "Loading…",
     "No Information Found": "Няма намерена информация",
     "Refresh": "Обнови",
     "Removed from Favourites": "Премахнато от Любими"
@@ -278,6 +269,7 @@
     "POWER SETTINGS": "НАСТРОЙКИ ЗА ЗАХРАНВАНЕ",
     "Sleep 10m + Shutdown": "Заспиване 10м + Изключване",
     "Sleep 10s + Shutdown": "Заспиване 10с + Изключване",
+    "Sleep 15m + Shutdown": "Sleep 15m + Shutdown",
     "Sleep 2m + Shutdown": "Заспиване 2м + Изключване",
     "Sleep 30m + Shutdown": "Заспиване 30м + Изключване",
     "Sleep 30s + Shutdown": "Заспиване 30с + Изключване",
@@ -308,7 +300,8 @@
     "Search Global": "Глобално Търсене",
     "Search Local": "Локално Търсене",
     "Search all current active storage devices": "Търси във всички текущи активни устройства за съхранение",
-    "Search within the current selected folder and folders within": "Търси в текуща избраната папка и папките в нея"
+    "Search within the current selected folder and folders within": "Търси в текуща избраната папка и папките в нея",
+    "Searching…": "Searching…"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Свързано Ядро/Системен Регулатор",
@@ -357,9 +350,9 @@
     "CPU Speed": "CPU Скорост",
     "Device Type": "Тип Устройство",
     "Linux Kernel": "Linux Ядро",
-    "RAM Usage": "RAM Употреба",
     "Running Services": "Работещи Услуги",
     "SYSTEM DETAILS": "ПОДРОБНОСТИ ЗА СИСТЕМАТА",
+    "System Memory": "System Memory",
     "System Uptime": "Времетраене на Системата",
     "Temperature": "Температура",
     "The current CPU frequency of the device": "Текущата честота на процесора на устройството",
@@ -386,7 +379,7 @@
     "Press any button to start input testing!": "Натиснете който и да е бутон, за да започнете тестването!"
   },
   "muxtimezone": {
-    "No Timezones Found...": "Няма намерени Часови Зони…",
+    "No Timezones Found…": "No Timezones Found…",
     "Saving Timezone": "Запазване на Часовата Зона",
     "Select your preferred timezone": "Избери предпочитаната Часова Зона",
     "TIMEZONE": "ЧАСОВА ЗОНА"
@@ -546,10 +539,28 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "Превключи SFTP support - WebUI може да се намери на порт 9090",
     "Toggle SSH support - Access via port 22": "Превключи SSH съпорт - Достъп през порт 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Превключи Syncthing - WebUI може да се намери през порт 7070",
-    "Toggle Tailscale - Need to login via SSH first": "Превключи Tailscale - Първо трябва да влезете през SSH",
+    "Toggle Tailscale - Need to login via SSH first to configure it": "Toggle Tailscale - Need to login via SSH first to configure it",
     "Toggle network time protocol for active network connections": "Превключи протокола за мрежово време за активни мрежови връзки",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Превключи virtual terminal - WebUI може да се намери през порт 8080",
     "Virtual Terminal": "Virtual Terminal",
     "WEB SERVICES": "УЕБ УСЛУГИ"
+  },
+  "system": {
+    "Failed read command output": "Failed read command output",
+    "Failed to allocate memory": "Failed to allocate memory",
+    "Failed to close command stream": "Failed to close command stream",
+    "Failed to create file": "Failed to create file",
+    "Failed to delete file": "Failed to delete file",
+    "Failed to duplicate string": "Failed to duplicate string",
+    "Failed to fork": "Failed to fork",
+    "Failed to open /proc/partitions": "Failed to open /proc/partitions",
+    "Failed to open alternative joystick device": "Failed to open alternative joystick device",
+    "Failed to open directory": "Failed to open directory",
+    "Failed to open file": "Failed to open file",
+    "Failed to open file for reading": "Failed to open file for reading",
+    "Failed to open file for writing": "Failed to open file for writing",
+    "Failed to open joystick device": "Failed to open joystick device",
+    "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
+    "Failed to run command": "Failed to run command"
   }
 }
