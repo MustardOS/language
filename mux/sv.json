@@ -11,7 +11,6 @@
     "Launch": "Starta",
     "Load": "Ladda",
     "Migrate to SD2": "Migrate to SD2",
-    "No Content Found...": "No Content Found...",
     "No Help Information Found": "Ingen hjälpinformation hittades",
     "Open": "Öppna",
     "Previous": "Föregående",
@@ -53,13 +52,10 @@
     "ASSIGN": "TILLDELA",
     "Assigned to directory": "Assigned to directory",
     "Assigned to file": "Assigned to file",
-    "No Cores Found...": "Inga kärnor hittades…",
     "This is where you can assign a core or external emulator to content": "Här kan du tilldela en kärna eller extern emulator till innehåll."
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "Startar system - Vänta…",
     "Capacity": "Kapacitet",
-    "Press POWER button to continue booting...": "Tryck på POWER-knappen för att fortsätta starta…",
     "Voltage": "Spänning"
   },
   "muxconfig": {
@@ -90,27 +86,13 @@
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Konfigurera CPU-reglerare för att dynamiskt justera CPU-frekvensen och hjälpa till att balansera strömförbrukning och prestanda.",
-    "GOVERNOR": "REGLERARE",
-    "No Governors Found...": "Inga reglerare hittades…"
+    "GOVERNOR": "REGLERARE"
   },
   "muxhdmi": {
-    "1080i + 50hz": "1080i + 50hz",
-    "1080i + 60hz": "1080i + 60hz",
-    "1080p + 24hz": "1080p + 24hz",
-    "1080p + 50hz": "1080p + 50hz",
-    "1080p + 60hz": "1080p + 60hz",
-    "480i": "480i",
-    "480p": "480p",
-    "576i": "576i",
-    "576p": "576p",
-    "720p + 50hz": "720p + 50hz",
-    "720p + 60hz": "720p + 60hz",
     "Audio Output": "Audio Output",
-    "Choose the color space, such as RGB or YUV.": "Choose the color space, such as RGB or YUV.",
     "Colour Depth": "Colour Depth",
     "Colour Range": "Colour Range",
     "Colour Space": "Colour Space",
-    "Enable or disable HDMI output.": "Enable or disable HDMI output.",
     "External": "External",
     "Full": "Full",
     "HDMI Active": "HDMI Active",
@@ -118,18 +100,9 @@
     "Internal": "Internal",
     "Limited": "Limited",
     "Over": "Over",
-    "RGB": "RGB",
     "Resolution": "Resolution",
     "Scan Scaling": "Scan Scaling",
-    "Select the resolution for HDMI output, such as 720p or 1080p.": "Select the resolution for HDMI output, such as 720p or 1080p.",
-    "Set the color depth, such as 8-bit or 10-bit.": "Set the color depth, such as 8-bit or 10-bit.",
-    "Set the color range of RGB colour space.": "Set the color range of RGB colour space.",
-    "Switch between device speaker or external monitor audio via HDMI connection.": "Switch between device speaker or external monitor audio via HDMI connection.",
-    "Switch between overscan or underscan to fit the display screen.": "Switch between overscan or underscan to fit the display screen.",
-    "Under": "Under",
-    "YUV420": "YUV420",
-    "YUV422": "YUV422",
-    "YUV444": "YUV444"
+    "Under": "Under"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Åtkomst till statistik över spelat innehåll och annan aktivitet.",
@@ -143,8 +116,6 @@
     "View all of the current muOS supporters": "Visa alla aktuella muOS-supporters."
   },
   "muxlanguage": {
-    "LANGUAGES": "SPRÅK",
-    "No Languages Found...": "Inga språk hittades…",
     "Saving Language": "Sparar språk",
     "Select your preferred language": "Välj ditt föredragna språk."
   },
@@ -172,7 +143,6 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Invalid Network Settings",
     "Invalid SSID": "Invalid SSID",
-    "Loading Network Profiles...": "Laddar nätverksprofiler…",
     "NETWORK PROFILE": "NÄTVERKSPROFIL",
     "No Saved Network Profiles Found": "Inga sparade nätverksprofiler hittades",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Växla snabbt mellan olika Wi-Fi-konfigurationer baserat på din plats eller dina nätverksinställningar."
@@ -180,11 +150,9 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Upptäck, visa och anslut till tillgängliga Wi-Fi-nätverk.",
     "NETWORK SCAN": "NÄTVERKSSKANNING",
-    "No Wi-Fi Networks Found": "Inga Wi-Fi-nätverk hittades",
-    "Scanning for Wi-Fi Networks...": "Skannar efter Wi-Fi-nätverk…"
+    "No Wi-Fi Networks Found": "Inga Wi-Fi-nätverk hittades"
   },
   "muxnetwork": {
-    "Cannot modify while connected!": "Kan inte ändra medan du är ansluten!",
     "Changes Saved": "Ändringar sparade",
     "Connect": "Anslut",
     "Connect to the network using options entered above": "Anslut till nätverket med hjälp av alternativen ovan.",
@@ -193,7 +161,6 @@
     "DNS Server": "DNS-server",
     "Device IP": "Enhetens IP",
     "Disconnect": "Koppla från",
-    "Encrypting Password...": "Krypterar lösenord…",
     "Enter the device IP address here (Static only)": "Ange enhetens IP-adress här (endast statisk)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Ange enhetens Subnet (CIDR)-nummer här (endast statisk)",
     "Enter the network gateway address here (Static only)": "Ange nätverksgateway-adressen här (endast statisk)",
@@ -205,7 +172,6 @@
     "Network Active": "Network Active",
     "Network Disabled": "Nätverk inaktiverat",
     "Network Type": "Nätverkstyp",
-    "No Password Detected...": "No Password Detected…",
     "Not Connected": "Inte ansluten",
     "Password": "Lösenord",
     "Please check network settings": "Kontrollera nätverksinställningarna",
@@ -216,7 +182,6 @@
     "Toggle between DHCP and Static network types": "Växla mellan DHCP och Statisk nätverkstyp.",
     "Toggle the Wi-Fi network on and off": "Växla Wi-Fi-nätverket på och av.",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Toggle whether or not to try and connect to a hidden SSID broadcast",
-    "Trying to Connect...": "Försöker ansluta…",
     "WI-FI NETWORK": "WI-FI NÄTVERK"
   },
   "muxoption": {
@@ -253,7 +218,6 @@
     "Favourite": "Favorit",
     "HISTORY": "HISTORIK",
     "Info": "Info",
-    "Loading...": "Laddar…",
     "No Information Found": "No Information Found",
     "Refresh": "Uppdatera",
     "Removed from Favourites": "Removed from Favourites"
@@ -357,7 +321,6 @@
     "CPU Speed": "CPU-hastighet",
     "Device Type": "Enhetstyp",
     "Linux Kernel": "Linux-kärna",
-    "RAM Usage": "RAM-användning",
     "Running Services": "Körande tjänster",
     "SYSTEM DETAILS": "SYSTEMDETALJER",
     "System Uptime": "Systemdrifttid",
@@ -386,7 +349,6 @@
     "Press any button to start input testing!": "Tryck på valfri knapp för att starta inmatningstest!"
   },
   "muxtimezone": {
-    "No Timezones Found...": "Inga tidszoner hittades…",
     "Saving Timezone": "Sparar tidszon",
     "Select your preferred timezone": "Select your preferred timezone.",
     "TIMEZONE": "TIDSZON"
@@ -546,7 +508,6 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "Växla SFTP-stöd - WebUI finns på port 9090",
     "Toggle SSH support - Access via port 22": "Växla SSH-stöd - Åtkomst via port 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Växla Syncthing - WebUI finns på port 7070",
-    "Toggle Tailscale - Need to login via SSH first": "Toggle Tailscale - Need to login via SSH first",
     "Toggle network time protocol for active network connections": "Växla nätverkstidsprotokoll för aktiva nätverksanslutningar.",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Växla virtuell terminal - WebUI finns på port 8080",
     "Virtual Terminal": "Virtuell Terminal",

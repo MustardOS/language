@@ -11,7 +11,6 @@
     "Launch": "Старт",
     "Load": "Зареди",
     "Migrate to SD2": "Мигрирайте към SD2",
-    "No Content Found...": "Не е намерено съдържание…",
     "No Help Information Found": "Не е намерена информация за помощ",
     "Open": "Отвори",
     "Previous": "Предишно",
@@ -53,13 +52,10 @@
     "ASSIGN": "СВЪРЗВАЙ",
     "Assigned to directory": "Свъзавано с папка",
     "Assigned to file": "Свъзавано с файл",
-    "No Cores Found...": "Не са намерени Ядра…",
     "This is where you can assign a core or external emulator to content": "Тук можеш да свързваш ядро или външен емулатор към съдържанието"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "Системата се стартира - Моля, изчакайте…",
     "Capacity": "Капацитет",
-    "Press POWER button to continue booting...": "Натисни POWER, за да продължиж стартирането…",
     "Voltage": "Напрежение"
   },
   "muxconfig": {
@@ -90,27 +86,13 @@
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Конфигурирай CPU регулатори за динамично регулиране на честотата на CPU и подпомагане на баланса между консумацията на енергия и производителност",
-    "GOVERNOR": "РЕГУЛАТОР",
-    "No Governors Found...": "Не са намерени Регулатори..."
+    "GOVERNOR": "РЕГУЛАТОР"
   },
   "muxhdmi": {
-    "1080i + 50hz": "1080i + 50hz",
-    "1080i + 60hz": "1080i + 60hz",
-    "1080p + 24hz": "1080p + 24hz",
-    "1080p + 50hz": "1080p + 50hz",
-    "1080p + 60hz": "1080p + 60hz",
-    "480i": "480i",
-    "480p": "480p",
-    "576i": "576i",
-    "576p": "576p",
-    "720p + 50hz": "720p + 50hz",
-    "720p + 60hz": "720p + 60hz",
     "Audio Output": "Аудио Изход",
-    "Choose the color space, such as RGB or YUV.": "Избирай цветовото пространство, например RGB или YUV.",
     "Colour Depth": "Дълбочина на Цвета",
     "Colour Range": "Цветова Гама",
     "Colour Space": "Цветово Пространство",
-    "Enable or disable HDMI output.": "Активирайте или деактивирайте HDMI изход.",
     "External": "Външен",
     "Full": "Пълен",
     "HDMI Active": "HDMI Активен",
@@ -118,18 +100,9 @@
     "Internal": "Вътрешен",
     "Limited": "Ограничен",
     "Over": "Над",
-    "RGB": "RGB",
     "Resolution": "Резолюция",
     "Scan Scaling": "Мащабиране на сканиране",
-    "Select the resolution for HDMI output, such as 720p or 1080p.": "Избирай резолюцията за HDMI изход, например 720p или 1080p.",
-    "Set the color depth, such as 8-bit or 10-bit.": "Избирай дълбочината на цвета, например 8-bit или 10-bit.",
-    "Set the color range of RGB colour space.": "Избери цветова гама на пространство RGB.",
-    "Switch between device speaker or external monitor audio via HDMI connection.": "Превключи между високоговорител на устройството или звук от външен монитор чрез HDMI връзка.",
-    "Switch between overscan or underscan to fit the display screen.": "Превключи между свръхскъпо или долно сканиране, за да се приспособите към екрана.",
-    "Under": "Под",
-    "YUV420": "YUV420",
-    "YUV422": "YUV422",
-    "YUV444": "YUV444"
+    "Under": "Под"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Достъп до статистика до възпроизвеждано съдържание и други дейности",
@@ -143,8 +116,6 @@
     "View all of the current muOS supporters": "Вижте всички текущи поддръжници на muOS"
   },
   "muxlanguage": {
-    "LANGUAGES": "ЕЗИЦИ",
-    "No Languages Found...": "Не са намерени Езици…",
     "Saving Language": "Запази Език",
     "Select your preferred language": "Избери предпочитания от вас език"
   },
@@ -172,7 +143,6 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Невалидни мрежови настройки",
     "Invalid SSID": "Невалиден SSID",
-    "Loading Network Profiles...": "Зареждане на мрежови профили…",
     "NETWORK PROFILE": "МРЕЖОВ ПРОФИЛ",
     "No Saved Network Profiles Found": "Не са намерени запазени Мрежови Профили",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Бързо превключи между различни конфиг. на Wi-Fi в зависимост от местоположението или предпочитания на мрежата"
@@ -180,11 +150,9 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Откриване, показване и свързване с наличните Wi-Fi мрежи",
     "NETWORK SCAN": "МРЕЖОВО СКАНИРАНЕ",
-    "No Wi-Fi Networks Found": "Не са намерени Wi-Fi мрежи",
-    "Scanning for Wi-Fi Networks...": "Сканиране за Wi-Fi мрежи..."
+    "No Wi-Fi Networks Found": "Не са намерени Wi-Fi мрежи"
   },
   "muxnetwork": {
-    "Cannot modify while connected!": "Не може да се променя, докато сте свързани!",
     "Changes Saved": "Промените са Запазени",
     "Connect": "Свързвай",
     "Connect to the network using options entered above": "Свързвай се с мрежата, като използваш въведените по-горе опции",
@@ -193,7 +161,6 @@
     "DNS Server": "DNS Сървър",
     "Device IP": "IP на устройство",
     "Disconnect": "Прекъсвай",
-    "Encrypting Password...": "Криптиране на Паролата…",
     "Enter the device IP address here (Static only)": "Въведи тук IP адреса на устройството (само Статичен)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Въведи номера на подмрежата на устройството (CIDR) тук (само Статичен)",
     "Enter the network gateway address here (Static only)": "Въведи адреса на мрежовия шлюз тук (само Статичен)",
@@ -205,7 +172,6 @@
     "Network Active": "Активна Мрежа",
     "Network Disabled": "Изключена Мрежа",
     "Network Type": "Тип Мрежа",
-    "No Password Detected...": "Не е открита Парола…",
     "Not Connected": "Не е Свързано",
     "Password": "Парола",
     "Please check network settings": "Моля, провери настройките на мрежата",
@@ -216,7 +182,6 @@
     "Toggle between DHCP and Static network types": "Превключи между типовете мрежи DHCP и Статичен",
     "Toggle the Wi-Fi network on and off": "Включване и изключване на Wi-Fi мрежата",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Превключи дали да опитате или не да се свържете със скрито излъчване на SSID",
-    "Trying to Connect...": "Опит за свързване…",
     "WI-FI NETWORK": "WI-FI МРЕЖА"
   },
   "muxoption": {
@@ -253,7 +218,6 @@
     "Favourite": "Любим",
     "HISTORY": "ИСТОРИЯ",
     "Info": "Инфо",
-    "Loading...": "Зареждане…",
     "No Information Found": "Няма намерена информация",
     "Refresh": "Обнови",
     "Removed from Favourites": "Премахнато от Любими"
@@ -357,7 +321,6 @@
     "CPU Speed": "CPU Скорост",
     "Device Type": "Тип Устройство",
     "Linux Kernel": "Linux Ядро",
-    "RAM Usage": "RAM Употреба",
     "Running Services": "Работещи Услуги",
     "SYSTEM DETAILS": "ПОДРОБНОСТИ ЗА СИСТЕМАТА",
     "System Uptime": "Времетраене на Системата",
@@ -386,7 +349,6 @@
     "Press any button to start input testing!": "Натиснете който и да е бутон, за да започнете тестването!"
   },
   "muxtimezone": {
-    "No Timezones Found...": "Няма намерени Часови Зони…",
     "Saving Timezone": "Запазване на Часовата Зона",
     "Select your preferred timezone": "Избери предпочитаната Часова Зона",
     "TIMEZONE": "ЧАСОВА ЗОНА"
@@ -546,7 +508,6 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "Превключи SFTP support - WebUI може да се намери на порт 9090",
     "Toggle SSH support - Access via port 22": "Превключи SSH съпорт - Достъп през порт 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Превключи Syncthing - WebUI може да се намери през порт 7070",
-    "Toggle Tailscale - Need to login via SSH first": "Превключи Tailscale - Първо трябва да влезете през SSH",
     "Toggle network time protocol for active network connections": "Превключи протокола за мрежово време за активни мрежови връзки",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Превключи virtual terminal - WebUI може да се намери през порт 8080",
     "Virtual Terminal": "Virtual Terminal",

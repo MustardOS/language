@@ -11,7 +11,6 @@
     "Launch": "Başlat",
     "Load": "Yükle",
     "Migrate to SD2": "SD2'ye geçiş",
-    "No Content Found...": "İçerik bulunamadı…",
     "No Help Information Found": "Yardım bilgisi bulunamadı",
     "Open": "Aç",
     "Previous": "Önceki",
@@ -53,13 +52,10 @@
     "ASSIGN": "ATA",
     "Assigned to directory": "Klasöre atandı",
     "Assigned to file": "Dosyaya atandı",
-    "No Cores Found...": "Çekirdek bulunamadı…",
     "This is where you can assign a core or external emulator to content": "Burası içeriğe bir çekirdek veya harici emülatör atayabileceğiniz yerdir"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "Sistem yükleniyor - Lütfen bekleyin…",
     "Capacity": "Kapasite",
-    "Press POWER button to continue booting...": "Yüklemeye devam etmek için GÜÇ düğmesine basın…",
     "Voltage": "Voltaj"
   },
   "muxconfig": {
@@ -90,27 +86,13 @@
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU frekansını dinamik olarak ayarlamak ve güç tüketimi ile performansı dengelemeye yardımcı olmak için CPU yöneticilerini yapılandırın",
-    "GOVERNOR": "YÖNETİCİ",
-    "No Governors Found...": "Yönetici bulunamadı..."
+    "GOVERNOR": "YÖNETİCİ"
   },
   "muxhdmi": {
-    "1080i + 50hz": "1080i + 50hz",
-    "1080i + 60hz": "1080i + 60hz",
-    "1080p + 24hz": "1080p + 24hz",
-    "1080p + 50hz": "1080p + 50hz",
-    "1080p + 60hz": "1080p + 60hz",
-    "480i": "480i",
-    "480p": "480p",
-    "576i": "576i",
-    "576p": "576p",
-    "720p + 50hz": "720p + 50hz",
-    "720p + 60hz": "720p + 60hz",
     "Audio Output": "Ses çıkışı",
-    "Choose the color space, such as RGB or YUV.": "RGB veya YUV gibi renk uzayını seçin.",
     "Colour Depth": "Renk derinliği",
     "Colour Range": "Renk genişliği",
     "Colour Space": "Rebk uzayı",
-    "Enable or disable HDMI output.": "HDMI çıkışını etkinleştirin veya devre dışı bırakın.",
     "External": "Harici",
     "Full": "Full",
     "HDMI Active": "HDMI aktif",
@@ -118,18 +100,9 @@
     "Internal": "Dahili",
     "Limited": "Kısıtlı",
     "Over": "Üzerinde",
-    "RGB": "RGB",
     "Resolution": "Resolution",
     "Scan Scaling": "Scan Scaling",
-    "Select the resolution for HDMI output, such as 720p or 1080p.": "Select the resolution for HDMI output, such as 720p or 1080p.",
-    "Set the color depth, such as 8-bit or 10-bit.": "Set the color depth, such as 8-bit or 10-bit.",
-    "Set the color range of RGB colour space.": "Set the color range of RGB colour space.",
-    "Switch between device speaker or external monitor audio via HDMI connection.": "Switch between device speaker or external monitor audio via HDMI connection.",
-    "Switch between overscan or underscan to fit the display screen.": "Switch between overscan or underscan to fit the display screen.",
-    "Under": "Under",
-    "YUV420": "YUV420",
-    "YUV422": "YUV422",
-    "YUV444": "YUV444"
+    "Under": "Under"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Oynatılan içeriklerin ve diğer aktivitelerin istatistiklerine erişim",
@@ -143,8 +116,6 @@
     "View all of the current muOS supporters": "Mevcut tüm muOS destekçilerini görüntüle"
   },
   "muxlanguage": {
-    "LANGUAGES": "DİLLER",
-    "No Languages Found...": "Dil bulunamadı…",
     "Saving Language": "Dil kaydediliyor",
     "Select your preferred language": "Tercih ettiğiniz dili seçin"
   },
@@ -172,7 +143,6 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Geçersiz ağ ayarları",
     "Invalid SSID": "Geçersiz SSID",
-    "Loading Network Profiles...": "Ağ profilleri yükleniyor…",
     "NETWORK PROFILE": "AĞ PROFİLİ",
     "No Saved Network Profiles Found": "Kayıtlı ağ profili bulunamadı",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Konumunuza veya ağ tercihlerinize göre farklı Wi-Fi yapılandırmaları arasında hızla geçiş yapın"
@@ -180,11 +150,9 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Mevcut Wi-Fi ağlarını algıla, görüntüle ve bağlan",
     "NETWORK SCAN": "AĞ TARAMASI",
-    "No Wi-Fi Networks Found": "Wi-Fi ağı bulunamadı",
-    "Scanning for Wi-Fi Networks...": "Wi-Fi ağları taranıyor..."
+    "No Wi-Fi Networks Found": "Wi-Fi ağı bulunamadı"
   },
   "muxnetwork": {
-    "Cannot modify while connected!": "Bağlıyken değiştirilemez!",
     "Changes Saved": "Değişiklikler kaydedildi",
     "Connect": "Bağlan",
     "Connect to the network using options entered above": "Yukarıda girilen seçenekleri kullanarak ağa bağlan",
@@ -193,7 +161,6 @@
     "DNS Server": "DNS sunucusu",
     "Device IP": "Cihaz IP'si",
     "Disconnect": "Bağlantıyı kes",
-    "Encrypting Password...": "Şifre şifreleniyor…",
     "Enter the device IP address here (Static only)": "Cihazın IP adresini buraya girin. (Sadece statik)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Aygıt Alt Ağ (CIDR) numarasını buraya girin. (Yalnızca statik)",
     "Enter the network gateway address here (Static only)": "Ağ geçidi adresini buraya girin. (Sadece statik)",
@@ -205,7 +172,6 @@
     "Network Active": "Network Active",
     "Network Disabled": "Ağ devre dışı",
     "Network Type": "Ağ türü",
-    "No Password Detected...": "No Password Detected…",
     "Not Connected": "Bağlı değil",
     "Password": "Şifre",
     "Please check network settings": "Lütfen ağ ayarlarını kontrol edin",
@@ -216,7 +182,6 @@
     "Toggle between DHCP and Static network types": "DHCP ve Statik ağ türleri arasında geçiş yap",
     "Toggle the Wi-Fi network on and off": "Wi-Fi ağını aç/kapat",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Toggle whether or not to try and connect to a hidden SSID broadcast",
-    "Trying to Connect...": "Bağlanmaya çalışıyor…",
     "WI-FI NETWORK": "Wİ-Fİ AĞI"
   },
   "muxoption": {
@@ -253,7 +218,6 @@
     "Favourite": "Favori",
     "HISTORY": "GEÇMİŞ",
     "Info": "Bilgi",
-    "Loading...": "Yükleniyor…",
     "No Information Found": "No Information Found",
     "Refresh": "Yenile",
     "Removed from Favourites": "Favorilerden kaldırıldı"
@@ -357,7 +321,6 @@
     "CPU Speed": "İşlemci hızı",
     "Device Type": "Cihaz türü",
     "Linux Kernel": "Linux Kernel",
-    "RAM Usage": "RAM kullanımı",
     "Running Services": "Çalışan servisler",
     "SYSTEM DETAILS": "SİSTEM AYRINTILARI",
     "System Uptime": "Sistem çalışma süresi",
@@ -386,7 +349,6 @@
     "Press any button to start input testing!": "Tuş testini başlatmak için herhangi bir düğmeye basın!"
   },
   "muxtimezone": {
-    "No Timezones Found...": "Zaman dilimi bulunamadı…",
     "Saving Timezone": "Zaman dilimi kaydediliyor",
     "Select your preferred timezone": "Tercih ettiğiniz zaman dilimini seçin",
     "TIMEZONE": "ZAMAN DİLİMİ"
@@ -546,7 +508,6 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "SFTP desteğini aç/kapat - WebUI 9090 numaralı portta bulunabilir",
     "Toggle SSH support - Access via port 22": "SSH desteğini aç/kapat - 22 numaralı port üzerinden erişim",
     "Toggle Syncthing - WebUI can be found on port 7070": "Syncthing'i değiştir - WebUI 7070 portunda bulunabilir",
-    "Toggle Tailscale - Need to login via SSH first": "Toggle Tailscale - Need to login via SSH first",
     "Toggle network time protocol for active network connections": "Etkin ağ bağlantıları için ağ zaman protokolünü aç/kapat",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Virtual terminal'i aç/kapat - WebUI 8080 portunda bulunabilir",
     "Virtual Terminal": "Virtual Terminal",

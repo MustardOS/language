@@ -11,7 +11,6 @@
     "Launch": "啟動",
     "Load": "讀取",
     "Migrate to SD2": "遷移到SD2",
-    "No Content Found...": "找不到內容…",
     "No Help Information Found": "找不到幫助信息",
     "Open": "開啟",
     "Previous": "先前",
@@ -53,13 +52,10 @@
     "ASSIGN": "分配",
     "Assigned to directory": "套用此目錄",
     "Assigned to file": "套用此檔案",
-    "No Cores Found...": "找不到核心…",
     "This is where you can assign a core or external emulator to content": "您可以在此處為內容指派核心或外部模擬器"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "引導系統中 - 請稍候…",
     "Capacity": "容量",
-    "Press POWER button to continue booting...": "按下電源鍵以繼續啟動…",
     "Voltage": "電壓"
   },
   "muxconfig": {
@@ -90,27 +86,13 @@
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "配置CPU調控方案，動態調整CPU頻率，幫助平衡功耗與效能",
-    "GOVERNOR": "調控方案",
-    "No Governors Found...": "找不到調控方案..."
+    "GOVERNOR": "調控方案"
   },
   "muxhdmi": {
-    "1080i + 50hz": "1080i + 50hz",
-    "1080i + 60hz": "1080i + 60hz",
-    "1080p + 24hz": "1080p + 24hz",
-    "1080p + 50hz": "1080p + 50hz",
-    "1080p + 60hz": "1080p + 60hz",
-    "480i": "480i",
-    "480p": "480p",
-    "576i": "576i",
-    "576p": "576p",
-    "720p + 50hz": "720p + 50hz",
-    "720p + 60hz": "720p + 60hz",
     "Audio Output": "音訊輸出",
-    "Choose the color space, such as RGB or YUV.": "選擇色彩空間，例如 RGB 或 YUV。",
     "Colour Depth": "色彩深度",
     "Colour Range": "色彩範圍",
     "Colour Space": "色彩空間",
-    "Enable or disable HDMI output.": "啟用或停用HDMI輸出。",
     "External": "外部",
     "Full": "全部",
     "HDMI Active": "HDMI輸出",
@@ -118,18 +100,9 @@
     "Internal": "內部",
     "Limited": "有限的",
     "Over": "過掃描(拉伸)",
-    "RGB": "RGB",
     "Resolution": "分辨率",
     "Scan Scaling": "掃描縮放",
-    "Select the resolution for HDMI output, such as 720p or 1080p.": "選擇HDMI輸出的分辨率，例如 720p 或 1080p。",
-    "Set the color depth, such as 8-bit or 10-bit.": "設定顏色深度，例如 8 位元或 10 位元。",
-    "Set the color range of RGB colour space.": "設定RGB色彩空間的色彩範圍。",
-    "Switch between device speaker or external monitor audio via HDMI connection.": "HDMI連接時使用裝置揚聲器或外部顯示器音訊輸出。",
-    "Switch between overscan or underscan to fit the display screen.": "在過掃描或欠掃描之間切換以適應外部顯示器。",
-    "Under": "欠掃描(原比例)",
-    "YUV420": "YUV420",
-    "YUV422": "YUV422",
-    "YUV444": "YUV444"
+    "Under": "欠掃描(原比例)"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "已遊玩內容和其他活動的統計數據",
@@ -143,8 +116,6 @@
     "View all of the current muOS supporters": "查看目前所有 muOS 贊助者"
   },
   "muxlanguage": {
-    "LANGUAGES": "語言",
-    "No Languages Found...": "找不到語言…",
     "Saving Language": "儲存語言設定",
     "Select your preferred language": "選擇您的首要語言"
   },
@@ -172,7 +143,6 @@
   "muxnetprofile": {
     "Invalid Network Settings": "無效的網路設定",
     "Invalid SSID": "無效的SSID",
-    "Loading Network Profiles...": "讀取網路描述檔…",
     "NETWORK PROFILE": "網路描述檔",
     "No Saved Network Profiles Found": "找不到已儲存的網路描述檔",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "根據您的位置或網路偏好在不同的Wi-Fi配置之間快速切換"
@@ -180,11 +150,9 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "偵測、顯示並連接到可用的Wi-Fi網路",
     "NETWORK SCAN": "掃描網路",
-    "No Wi-Fi Networks Found": "找不到Wi-Fi網路",
-    "Scanning for Wi-Fi Networks...": "正在掃描Wi-Fi網路..."
+    "No Wi-Fi Networks Found": "找不到Wi-Fi網路"
   },
   "muxnetwork": {
-    "Cannot modify while connected!": "連線時無法修改！",
     "Changes Saved": "變更已儲存",
     "Connect": "連接",
     "Connect to the network using options entered above": "使用上面輸入的選項連接到網絡",
@@ -193,7 +161,6 @@
     "DNS Server": "DNS伺服器",
     "Device IP": "裝置IP",
     "Disconnect": "斷開",
-    "Encrypting Password...": "密碼加密中…",
     "Enter the device IP address here (Static only)": "在此輸入設備IP位址 (僅限靜態)",
     "Enter the device Subnet (CIDR) number here (Static only)": "在此輸入裝置子網路(CIDR)號碼 (僅限靜態)",
     "Enter the network gateway address here (Static only)": "在此輸入網路閘道位址 (僅限靜態)",
@@ -205,7 +172,6 @@
     "Network Active": "網路連線",
     "Network Disabled": "網路已關閉",
     "Network Type": "網路類型",
-    "No Password Detected...": "沒有檢測到密碼…",
     "Not Connected": "未連接",
     "Password": "密碼",
     "Please check network settings": "請檢查網路設定",
@@ -216,7 +182,6 @@
     "Toggle between DHCP and Static network types": "在DHCP和靜態網路類型之間切換",
     "Toggle the Wi-Fi network on and off": "開啟和關閉Wi-Fi網路",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "是否連接到隱藏SSID的WiFi熱點",
-    "Trying to Connect...": "嘗試連接中…",
     "WI-FI NETWORK": "WI-FI網路"
   },
   "muxoption": {
@@ -253,7 +218,6 @@
     "Favourite": "收藏",
     "HISTORY": "歷史",
     "Info": "資訊",
-    "Loading...": "讀取中…",
     "No Information Found": "找不到資訊",
     "Refresh": "重新整理",
     "Removed from Favourites": "已從收藏夾移除"
@@ -357,7 +321,6 @@
     "CPU Speed": "CPU速度",
     "Device Type": "裝置類型",
     "Linux Kernel": "Linux核心",
-    "RAM Usage": "RAM使用率",
     "Running Services": "運作中的服務",
     "SYSTEM DETAILS": "系統詳情",
     "System Uptime": "系統運作時間",
@@ -386,7 +349,6 @@
     "Press any button to start input testing!": "按任何鍵開始輸入測試！"
   },
   "muxtimezone": {
-    "No Timezones Found...": "找不到時區…",
     "Saving Timezone": "儲存時區設定",
     "Select your preferred timezone": "選擇您的當前時區",
     "TIMEZONE": "時區"
@@ -546,7 +508,6 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "啟用 SFTP - WebUI連接埠 9090",
     "Toggle SSH support - Access via port 22": "啟用SSH - 透過連接埠 22 存取",
     "Toggle Syncthing - WebUI can be found on port 7070": "Syncthing同步工具 - WebUI連接埠 7070",
-    "Toggle Tailscale - Need to login via SSH first": "設置虛擬區網 - 需先登入SSH",
     "Toggle network time protocol for active network connections": "切換網路時間同步",
     "Toggle virtual terminal - WebUI can be found on port 8080": "啟用虛擬終端 - WebUI連接埠 8080",
     "Virtual Terminal": "虛擬終端",

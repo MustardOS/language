@@ -11,7 +11,6 @@
     "Launch": "Pokreni",
     "Load": "Učitaj",
     "Migrate to SD2": "Migriraj na SD2",
-    "No Content Found...": "Sadržaj nije pronađen…",
     "No Help Information Found": "Nema dostupnih informacija za pomoć",
     "Open": "Otvori",
     "Previous": "Prethodno",
@@ -53,13 +52,10 @@
     "ASSIGN": "DODELITI",
     "Assigned to directory": "Dodeljeno folderu",
     "Assigned to file": "Dodeljeno fajlu",
-    "No Cores Found...": "Cores nisu pronađeni…",
     "This is where you can assign a core or external emulator to content": "Ovde možete dodeliti core ili eksterni emulator za sadržaj"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "Sistem se podiže - Molimo Vas da sačekate…",
     "Capacity": "Kapacitet",
-    "Press POWER button to continue booting...": "Pritisnite dugme za paljenje da bi se nastavilo podizanje…",
     "Voltage": "Voltaža"
   },
   "muxconfig": {
@@ -90,27 +86,13 @@
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Podesite upravljače procesora (CPU governors) da dinamički prilagođavaju frekvenciju procesora i pomognu u balansiranju potrošnje energije i performansi",
-    "GOVERNOR": "UPRAVLJAČ",
-    "No Governors Found...": "Nisu pronađeni upravljači..."
+    "GOVERNOR": "UPRAVLJAČ"
   },
   "muxhdmi": {
-    "1080i + 50hz": "1080i + 50hz",
-    "1080i + 60hz": "1080i + 60hz",
-    "1080p + 24hz": "1080p + 24hz",
-    "1080p + 50hz": "1080p + 50hz",
-    "1080p + 60hz": "1080p + 60hz",
-    "480i": "480i",
-    "480p": "480p",
-    "576i": "576i",
-    "576p": "576p",
-    "720p + 50hz": "720p + 50hz",
-    "720p + 60hz": "720p + 60hz",
     "Audio Output": "Audio izlaz",
-    "Choose the color space, such as RGB or YUV.": "Izaberite format boja, kao što su RGB ili YUV.",
     "Colour Depth": "Dubina boje",
     "Colour Range": "Spektar boja",
     "Colour Space": "Režim boja",
-    "Enable or disable HDMI output.": "Omogući ili onemogući HDMI izlaz.",
     "External": "Eksterno",
     "Full": "Popunjeno",
     "HDMI Active": "HDMI aktivan",
@@ -118,18 +100,9 @@
     "Internal": "Interno",
     "Limited": "Limitirano",
     "Over": "Over",
-    "RGB": "RGB",
     "Resolution": "Rezolucija",
     "Scan Scaling": "Skeniraj skaliranje",
-    "Select the resolution for HDMI output, such as 720p or 1080p.": "Izaberite rezoluciju za HDMI izlaz, kao što su 720p ili 1080p.",
-    "Set the color depth, such as 8-bit or 10-bit.": "Podesite dubinu boje, kao što je 8-bit ili 10-bit.",
-    "Set the color range of RGB colour space.": "Podesite opseg boja RGB-a.",
-    "Switch between device speaker or external monitor audio via HDMI connection.": "Izaberite između zvučnika uređaja ili spoljnog monitora putem HDMI veze.",
-    "Switch between overscan or underscan to fit the display screen.": "Prebacite između overscan-a i underscan-a kako biste prilagodili ekran.",
-    "Under": "Under",
-    "YUV420": "YUV420",
-    "YUV422": "YUV422",
-    "YUV444": "YUV444"
+    "Under": "Under"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Pristupite statistikama igara koje ste igrali i drugim aktivnostima",
@@ -143,8 +116,6 @@
     "View all of the current muOS supporters": "Pregledaj sve trenutne osobe koje podržavaju muOS"
   },
   "muxlanguage": {
-    "LANGUAGES": "JEZICI",
-    "No Languages Found...": "Jezici nisu pronađeni…",
     "Saving Language": "Čuvanje jezika",
     "Select your preferred language": "Odaberite željeni jezik"
   },
@@ -172,7 +143,6 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Neispravna mrežna podešavanja",
     "Invalid SSID": "Neispravan SSID",
-    "Loading Network Profiles...": "Učitavanje mrežnih profila…",
     "NETWORK PROFILE": "MREŽNI PROFIL",
     "No Saved Network Profiles Found": "Nema sačuvanih mrežnih profila",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Brzo se prebacite između različitih Wi-Fi konfiguracija u zavisnosti od vaše lokacije ili mrežnih preferencija"
@@ -180,11 +150,9 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Pronađi, izlistaj i poveži se na dostupne Wi-Fi mreže",
     "NETWORK SCAN": "SKENIRANJE MREŽE",
-    "No Wi-Fi Networks Found": "Wi-Fi mreže nisu pronađene",
-    "Scanning for Wi-Fi Networks...": "Skeniranje za Wi-Fi mrežama..."
+    "No Wi-Fi Networks Found": "Wi-Fi mreže nisu pronađene"
   },
   "muxnetwork": {
-    "Cannot modify while connected!": "Nije moguće izvršiti izmene dok ste povezani!",
     "Changes Saved": "Promene su sačuvane",
     "Connect": "Poveži se",
     "Connect to the network using options entered above": "Povežite se na mrežu koristeći opcije unete iznad",
@@ -193,7 +161,6 @@
     "DNS Server": "DNS Server",
     "Device IP": "IP adresa uređaja",
     "Disconnect": "Diskonektovanje",
-    "Encrypting Password...": "Šifriranje lozinke…",
     "Enter the device IP address here (Static only)": "Unesite IP adresu uređaja (samo statička)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Unesite (CIDR) mrežni opseg (samo statički)",
     "Enter the network gateway address here (Static only)": "Unesite IP adresu mrežnog prolaza (gateway) (samo statička)",
@@ -205,7 +172,6 @@
     "Network Active": "Mreža je aktivna",
     "Network Disabled": "Mreža onemogućena",
     "Network Type": "Vrsta mreže",
-    "No Password Detected...": "Lozinka nije pronađena…",
     "Not Connected": "Nije povezano",
     "Password": "Lozinka",
     "Please check network settings": "Proverite mrežna podešavanja",
@@ -216,7 +182,6 @@
     "Toggle between DHCP and Static network types": "Odaberite između DHCP i statičkog tipa mreže",
     "Toggle the Wi-Fi network on and off": "Odaberite između DHCP i statičkog tipa mreže",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Omogućite ili onemogućite povezivanje na mrežu sa skrivenim SSID-om",
-    "Trying to Connect...": "Pokušaj povezivanja…",
     "WI-FI NETWORK": "WI-FI MREŽA"
   },
   "muxoption": {
@@ -253,7 +218,6 @@
     "Favourite": "Omiljeni",
     "HISTORY": "ISTORIJA",
     "Info": "Info",
-    "Loading...": "Učitavanje…",
     "No Information Found": "Informacije nisu pronađene",
     "Refresh": "Osveži",
     "Removed from Favourites": "Uklonjeno iz omiljenih"
@@ -357,7 +321,6 @@
     "CPU Speed": "CPU Brzina",
     "Device Type": "Vrsta uređaja",
     "Linux Kernel": "Linux Kernel",
-    "RAM Usage": "RAM Upotreba",
     "Running Services": "Pokrenuti servisi",
     "SYSTEM DETAILS": "DETALJI SISTEMA",
     "System Uptime": "System Uptime",
@@ -386,7 +349,6 @@
     "Press any button to start input testing!": "Pritisnite bilo koji taster da započnete njihovo testiranje!"
   },
   "muxtimezone": {
-    "No Timezones Found...": "Vremenske zone nisu pronađene…",
     "Saving Timezone": "Čuvanje vremenske zone",
     "Select your preferred timezone": "Odaberi svoju vremensku zonu",
     "TIMEZONE": "VREMENSKA ZONA"
@@ -546,7 +508,6 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "Uključi/isključi SFTP podršku - WebUI se može pronaći na portu 9090",
     "Toggle SSH support - Access via port 22": "Uključi/isključi SSH podršku - Pristup preko porta 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Uključi/isključi Syncthing - WebUI se može pronaći na portu 7070",
-    "Toggle Tailscale - Need to login via SSH first": "Uključi/isključi Tailscale – Prvo je potrebno prijaviti se putem SSH-a",
     "Toggle network time protocol for active network connections": "Uključi/isključi mrežni vremenski protokol (NTP) za aktivne mrežne konekcije",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Uključi/isključi virtuelni terminal - WebUI se može pronaći na portu 8080",
     "Virtual Terminal": "Virtualni Terminal",

@@ -11,7 +11,6 @@
     "Launch": "Iniciar",
     "Load": "Carregar",
     "Migrate to SD2": "Migrar para SD2",
-    "No Content Found...": "Nenhum Conteúdo Encontrado…",
     "No Help Information Found": "Informações de Ajuda Não Encontradas",
     "Open": "Abrir",
     "Previous": "Anterior",
@@ -53,13 +52,10 @@
     "ASSIGN": "ASSOCIAR",
     "Assigned to directory": "Atribuído ao diretório",
     "Assigned to file": "Atribuído ao arquivo",
-    "No Cores Found...": "Nenhum Núcleo Encontrado…",
     "This is where you can assign a core or external emulator to content": "Aqui você pode atribuir um core ou emulador externo ao conteúdo"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "Iniciando Sistema - Por Favor Aguarde…",
     "Capacity": "Capacidade",
-    "Press POWER button to continue booting...": "Pressione o botão POWER(Ligar) para iniciar o sistema…",
     "Voltage": "Voltagem"
   },
   "muxconfig": {
@@ -90,27 +86,13 @@
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configure os modos da CPU para ajustar a frequência e equilibrar energia e desempenho",
-    "GOVERNOR": "GOVERNOR",
-    "No Governors Found...": "Nenhum Governador Encontrado…"
+    "GOVERNOR": "GOVERNOR"
   },
   "muxhdmi": {
-    "1080i + 50hz": "1080i + 50hz",
-    "1080i + 60hz": "1080i + 60hz",
-    "1080p + 24hz": "1080p + 24hz",
-    "1080p + 50hz": "1080p + 50hz",
-    "1080p + 60hz": "1080p + 60hz",
-    "480i": "480i",
-    "480p": "480p",
-    "576i": "576i",
-    "576p": "576p",
-    "720p + 50hz": "720p + 50hz",
-    "720p + 60hz": "720p + 60hz",
     "Audio Output": "Saída de áudio",
-    "Choose the color space, such as RGB or YUV.": "Escolha o espaço de cores, como RGB ou YUV.",
     "Colour Depth": "Profundidade de cor",
     "Colour Range": "Gama de cores",
     "Colour Space": "Espaço cromático",
-    "Enable or disable HDMI output.": "Ative ou desative a saída HDMI.",
     "External": "Externo",
     "Full": "Cheio",
     "HDMI Active": "HDMI ativo",
@@ -118,18 +100,9 @@
     "Internal": "Interno",
     "Limited": "Limitado",
     "Over": "Fim",
-    "RGB": "RGB",
     "Resolution": "Resolução",
     "Scan Scaling": "Escala de varredura",
-    "Select the resolution for HDMI output, such as 720p or 1080p.": "Selecione a resolução para a saída HDMI, como 720p ou 1080p.",
-    "Set the color depth, such as 8-bit or 10-bit.": "Defina a profundidade de cor, como 8 bits ou 10 bits.",
-    "Set the color range of RGB colour space.": "Defina a gama de cores do espaço cromático RGB.",
-    "Switch between device speaker or external monitor audio via HDMI connection.": "Alternar entre o alto-falante do dispositivo ou monitor externo de áudio através da conexão HDMI.",
-    "Switch between overscan or underscan to fit the display screen.": "Alterne entre 'overscan' ou 'underscan' para ajustar a tela.",
-    "Under": "Debaixo",
-    "YUV420": "YUV420",
-    "YUV422": "YUV422",
-    "YUV444": "YUV444"
+    "Under": "Debaixo"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Acesse estatísticas de conteúdo reproduzido e outras atividades",
@@ -143,8 +116,6 @@
     "View all of the current muOS supporters": "Veja todos os atuais apoiadores do muOS"
   },
   "muxlanguage": {
-    "LANGUAGES": "IDIOMAS",
-    "No Languages Found...": "Nenhum Idioma Encontrado…",
     "Saving Language": "Salvando Idioma",
     "Select your preferred language": "Selecione seu idioma preferido"
   },
@@ -172,7 +143,6 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Configuração de Rede Inválida",
     "Invalid SSID": "SSID Inválido",
-    "Loading Network Profiles...": "Carregando Perfis de Rede…",
     "NETWORK PROFILE": "PERFIL DE REDE",
     "No Saved Network Profiles Found": "Nenhum Perfil de Rede Salvo",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Alterne rapidamente entre diferentes configurações de Wi-Fi com base em sua localização ou preferências de rede"
@@ -180,11 +150,9 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Detecte, exiba e conecte-se a redes Wi-Fi disponíveis",
     "NETWORK SCAN": "PROCURAR REDE",
-    "No Wi-Fi Networks Found": "Nenhuma Rede Wi-Fi Encontrada",
-    "Scanning for Wi-Fi Networks...": "Procurando por Redes Wi-Fi…"
+    "No Wi-Fi Networks Found": "Nenhuma Rede Wi-Fi Encontrada"
   },
   "muxnetwork": {
-    "Cannot modify while connected!": "Não é possível modificar enquanto conectado!",
     "Changes Saved": "Alterações Salvas",
     "Connect": "Conectar",
     "Connect to the network using options entered above": "Conecte-se à rede usando as opções inseridas acima",
@@ -193,7 +161,6 @@
     "DNS Server": "Servidor DNS",
     "Device IP": "IP do Dispositivo",
     "Disconnect": "Desconectar",
-    "Encrypting Password...": "Criptografando senha…",
     "Enter the device IP address here (Static only)": "Digite o endereço IP do dispositivo aqui (Apenas estático)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Digite o número da sub-rede do dispositivo (CIDR) aqui (apenas estático)",
     "Enter the network gateway address here (Static only)": "Digite o endereço do gateway de rede aqui (Apenas estático)",
@@ -205,7 +172,6 @@
     "Network Active": "Ativo na Rede",
     "Network Disabled": "Rede Desativada",
     "Network Type": "Tipo de Rede",
-    "No Password Detected...": "Nenhuma Senha Detectada…",
     "Not Connected": "Não Conectado",
     "Password": "Senha",
     "Please check network settings": "Por favor confira as opções de rede",
@@ -216,7 +182,6 @@
     "Toggle between DHCP and Static network types": "Alternar entre DHCP e tipos de rede estática",
     "Toggle the Wi-Fi network on and off": "Alternar a rede Wi-Fi para ligar e desligar",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Alternar se você quer ou não tentar conectar-se a uma transmissão SSID oculta",
-    "Trying to Connect...": "Tentativa de conexão…",
     "WI-FI NETWORK": "REDE WI-FI"
   },
   "muxoption": {
@@ -253,7 +218,6 @@
     "Favourite": "Favorito",
     "HISTORY": "HISTÓRICO",
     "Info": "Informação",
-    "Loading...": "Carregando…",
     "No Information Found": "Nenhuma Informação Encontrada",
     "Refresh": "Atualizar",
     "Removed from Favourites": "Removido dos Favoritos"
@@ -357,7 +321,6 @@
     "CPU Speed": "Velocidade da CPU",
     "Device Type": "Tipo de Dispositivo",
     "Linux Kernel": "Kernel Linux",
-    "RAM Usage": "Uso de RAM",
     "Running Services": "Serviços em Execução",
     "SYSTEM DETAILS": "DETALHES DO SISTEMA",
     "System Uptime": "Tempo de Atividade do Sistema",
@@ -386,7 +349,6 @@
     "Press any button to start input testing!": "Pressione qualquer botão para iniciar o teste!"
   },
   "muxtimezone": {
-    "No Timezones Found...": "Nenhum Fuso Horário Encontrado…",
     "Saving Timezone": "Salvando Fuso Horário",
     "Select your preferred timezone": "Selecione seu fuso horário",
     "TIMEZONE": "FUSO HORÁRIO"
@@ -546,7 +508,6 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "Ativar suporte SFTP - WebUI pode ser encontrado na porta 9090",
     "Toggle SSH support - Access via port 22": "Ativar suporte SSH - Acesso via porta 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Ativar Syncthing - WebUI pode ser encontrado na porta 7070",
-    "Toggle Tailscale - Need to login via SSH first": "Alternar Tailscale - Precisa logar por SSH antes",
     "Toggle network time protocol for active network connections": "Ativar o protocolo de tempo de rede para conexões de rede ativas",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Ativar terminal virtual - WebUI pode ser encontrado na porta 8080",
     "Virtual Terminal": "Terminal Virtual",

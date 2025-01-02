@@ -11,7 +11,6 @@
     "Launch": "Starten",
     "Load": "Laden",
     "Migrate to SD2": "Migrate to SD2",
-    "No Content Found...": "No Content Found...",
     "No Help Information Found": "Geen Hulp Informatie Gevonden",
     "Open": "Openen",
     "Previous": "Vorige",
@@ -53,13 +52,10 @@
     "ASSIGN": "TOEWIJZEN",
     "Assigned to directory": "Assigned to directory",
     "Assigned to file": "Assigned to file",
-    "No Cores Found...": "Geen cores gevonden…",
     "This is where you can assign a core or external emulator to content": "Hier kun je een core of externe emulator toewijzen aan inhoud"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "Opstarten - Een ogenblik geduld…",
     "Capacity": "Capaciteit",
-    "Press POWER button to continue booting...": "Druk op de AAN/UIT knop om verder te gaan met opstarten…",
     "Voltage": "Spanning"
   },
   "muxconfig": {
@@ -90,27 +86,13 @@
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU-governors configureren om de CPU-frequentie dynamisch aan te passen en energieverbruik en prestaties op elkaar af te stemmen",
-    "GOVERNOR": "GOVERNOR",
-    "No Governors Found...": "Geen Governors Gevonden…"
+    "GOVERNOR": "GOVERNOR"
   },
   "muxhdmi": {
-    "1080i + 50hz": "1080i + 50hz",
-    "1080i + 60hz": "1080i + 60hz",
-    "1080p + 24hz": "1080p + 24hz",
-    "1080p + 50hz": "1080p + 50hz",
-    "1080p + 60hz": "1080p + 60hz",
-    "480i": "480i",
-    "480p": "480p",
-    "576i": "576i",
-    "576p": "576p",
-    "720p + 50hz": "720p + 50hz",
-    "720p + 60hz": "720p + 60hz",
     "Audio Output": "Audio Output",
-    "Choose the color space, such as RGB or YUV.": "Choose the color space, such as RGB or YUV.",
     "Colour Depth": "Colour Depth",
     "Colour Range": "Colour Range",
     "Colour Space": "Colour Space",
-    "Enable or disable HDMI output.": "Enable or disable HDMI output.",
     "External": "External",
     "Full": "Full",
     "HDMI Active": "HDMI Active",
@@ -118,18 +100,9 @@
     "Internal": "Internal",
     "Limited": "Limited",
     "Over": "Over",
-    "RGB": "RGB",
     "Resolution": "Resolution",
     "Scan Scaling": "Scan Scaling",
-    "Select the resolution for HDMI output, such as 720p or 1080p.": "Select the resolution for HDMI output, such as 720p or 1080p.",
-    "Set the color depth, such as 8-bit or 10-bit.": "Set the color depth, such as 8-bit or 10-bit.",
-    "Set the color range of RGB colour space.": "Set the color range of RGB colour space.",
-    "Switch between device speaker or external monitor audio via HDMI connection.": "Switch between device speaker or external monitor audio via HDMI connection.",
-    "Switch between overscan or underscan to fit the display screen.": "Switch between overscan or underscan to fit the display screen.",
-    "Under": "Under",
-    "YUV420": "YUV420",
-    "YUV422": "YUV422",
-    "YUV444": "YUV444"
+    "Under": "Under"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Bekijk statistieken van afgespeelde inhoud en andere activiteiten",
@@ -143,8 +116,6 @@
     "View all of the current muOS supporters": "Bekijk alle huidige muOS-supporters"
   },
   "muxlanguage": {
-    "LANGUAGES": "TALEN",
-    "No Languages Found...": "Geen talen gevonden…",
     "Saving Language": "Taal opslaan",
     "Select your preferred language": "Selecteer de gewenste taal"
   },
@@ -172,7 +143,6 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Invalid Network Settings",
     "Invalid SSID": "Invalid SSID",
-    "Loading Network Profiles...": "Netwerkprofielen laden…",
     "NETWORK PROFILE": "NETWERKPROFIEL",
     "No Saved Network Profiles Found": "Geen netwerkprofiel gevonden",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Quickly switch between different Wi-Fi configurations based on your location or network preferences"
@@ -180,11 +150,9 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Detect, display and connect to available Wi-Fi networks",
     "NETWORK SCAN": "NETWERKSCAN",
-    "No Wi-Fi Networks Found": "Geen netwerken gevonden",
-    "Scanning for Wi-Fi Networks...": "Netwerken scannen…"
+    "No Wi-Fi Networks Found": "Geen netwerken gevonden"
   },
   "muxnetwork": {
-    "Cannot modify while connected!": "Wijzigingen tijdens de verbinding zijn niet mogelijk!",
     "Changes Saved": "Veranderingen opgeslagen",
     "Connect": "Verbind",
     "Connect to the network using options entered above": "Connect to the network using options entered above",
@@ -193,7 +161,6 @@
     "DNS Server": "DNS-server",
     "Device IP": "IP-Adres",
     "Disconnect": "Verbinding verbreken",
-    "Encrypting Password...": "Wachtwoord versleutelen…",
     "Enter the device IP address here (Static only)": "Enter the device IP address here (Static only)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Enter the device Subnet (CIDR) number here (Static only)",
     "Enter the network gateway address here (Static only)": "Enter the network gateway address here (Static only)",
@@ -205,7 +172,6 @@
     "Network Active": "Network Active",
     "Network Disabled": "Netwerk uitgeschakeld",
     "Network Type": "Netwerktype",
-    "No Password Detected...": "No Password Detected…",
     "Not Connected": "Niet verbonden",
     "Password": "Wachtwoord",
     "Please check network settings": "Controleer de netwerkinstellingen",
@@ -216,7 +182,6 @@
     "Toggle between DHCP and Static network types": "Toggle between DHCP and Static network types",
     "Toggle the Wi-Fi network on and off": "Toggle the Wi-Fi network on and off",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Toggle whether or not to try and connect to a hidden SSID broadcast",
-    "Trying to Connect...": "Verbinding aan het maken…",
     "WI-FI NETWORK": "NETWERK"
   },
   "muxoption": {
@@ -253,7 +218,6 @@
     "Favourite": "Favoriet",
     "HISTORY": "GESCHIEDENIS",
     "Info": "Info",
-    "Loading...": "Laden…",
     "No Information Found": "No Information Found",
     "Refresh": "Verversen",
     "Removed from Favourites": "Removed from Favourites"
@@ -357,7 +321,6 @@
     "CPU Speed": "CPU-snelheid",
     "Device Type": "Apparaat Type",
     "Linux Kernel": "Linux-kernel",
-    "RAM Usage": "Geheugengebruik",
     "Running Services": "Lopende diensten",
     "SYSTEM DETAILS": "SYSTEEMDETAILS",
     "System Uptime": "Bedrijfstijd",
@@ -386,7 +349,6 @@
     "Press any button to start input testing!": "Druk op een knop om de besturing te testen!"
   },
   "muxtimezone": {
-    "No Timezones Found...": "Geen tijdzones gevonden…",
     "Saving Timezone": "Tijdzone opslaan",
     "Select your preferred timezone": "Select your preferred timezone.",
     "TIMEZONE": "TIJDZONE"
@@ -546,7 +508,6 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "Toggle SFTP support - WebUI can be found on port 9090",
     "Toggle SSH support - Access via port 22": "Toggle SSH support - Access via port 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Toggle Syncthing - WebUI can be found on port 7070",
-    "Toggle Tailscale - Need to login via SSH first": "Toggle Tailscale - Need to login via SSH first",
     "Toggle network time protocol for active network connections": "Toggle network time protocol for active network connections",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Toggle virtual terminal - WebUI can be found on port 8080",
     "Virtual Terminal": "Virtuele Terminal",

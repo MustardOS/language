@@ -11,7 +11,6 @@
     "Launch": "Запуск",
     "Load": "Загрузить",
     "Migrate to SD2": "Мигрировать на SD2",
-    "No Content Found...": "Приложений не найдено…",
     "No Help Information Found": "Справочная информация не найдена",
     "Open": "Открыть",
     "Previous": "Польз.",
@@ -53,13 +52,10 @@
     "ASSIGN": "НАЗНАЧИТЬ",
     "Assigned to directory": "Привязано к папке",
     "Assigned to file": "Привязано к файлу",
-    "No Cores Found...": "Ядра не найдены…",
     "This is where you can assign a core or external emulator to content": "Здесь вы можете назначить ядро или внешний эмулятор для приложения"
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "Запуск системы - пожалуйста, подождите…",
     "Capacity": "Емкость",
-    "Press POWER button to continue booting...": "Нажмите кнопку питания для продолжения запуска…",
     "Voltage": "Напряжение"
   },
   "muxconfig": {
@@ -90,27 +86,13 @@
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Настройка говернора процессора позволяющая динамически регулировать частоту ЦП для обеспечения баланса между энергопотреблением и производительностью",
-    "GOVERNOR": "ГОВЕРНОР",
-    "No Governors Found...": "Говерноры не найдены…"
+    "GOVERNOR": "ГОВЕРНОР"
   },
   "muxhdmi": {
-    "1080i + 50hz": "1080i + 50Гц",
-    "1080i + 60hz": "1080i + 60Гц",
-    "1080p + 24hz": "1080p + 24Гц",
-    "1080p + 50hz": "1080p + 50Гц",
-    "1080p + 60hz": "1080p + 60Гц",
-    "480i": "480i",
-    "480p": "480p",
-    "576i": "576i",
-    "576p": "576p",
-    "720p + 50hz": "720p + 50Гц",
-    "720p + 60hz": "720p + 60Гц",
     "Audio Output": "Аудио выход",
-    "Choose the color space, such as RGB or YUV.": "Выберите цветовое пространство, например RGB или YUV.",
     "Colour Depth": "Глубина цвета",
     "Colour Range": "Цветовой диапазон",
     "Colour Space": "Цветовое пространство",
-    "Enable or disable HDMI output.": "Включите или выключите выход HDMI.",
     "External": "Внешний",
     "Full": "Полный",
     "HDMI Active": "HDMI",
@@ -118,18 +100,9 @@
     "Internal": "На устройстве",
     "Limited": "Ограниченный",
     "Over": "Оверскан",
-    "RGB": "RGB",
     "Resolution": "Разрешение",
     "Scan Scaling": "Масштабирование изображения",
-    "Select the resolution for HDMI output, such as 720p or 1080p.": "Выберите разрешение выходного сигнала HDMI, такие как 720p или 1080p.",
-    "Set the color depth, such as 8-bit or 10-bit.": "Выберите глубину цвета, такую как 8-бит или 10-бит.",
-    "Set the color range of RGB colour space.": "Установите цветовой диапазон пространства RGB.",
-    "Switch between device speaker or external monitor audio via HDMI connection.": "Переключение между динамиком устройства и звуком внешнего монитора через HDMI-соединение.",
-    "Switch between overscan or underscan to fit the display screen.": "Переключение между оверсканом или андерсканом для соответствия границам экрана.",
-    "Under": "Андерскан",
-    "YUV420": "YUV420",
-    "YUV422": "YUV422",
-    "YUV444": "YUV444"
+    "Under": "Андерскан"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Доступ к статистике запущенного приложения",
@@ -143,8 +116,6 @@
     "View all of the current muOS supporters": "Посмотреть всех, кто поддерживает muOS"
   },
   "muxlanguage": {
-    "LANGUAGES": "ЯЗЫКИ",
-    "No Languages Found...": "Языки не найдены…",
     "Saving Language": "Сохранение языка",
     "Select your preferred language": "Выберите язык"
   },
@@ -172,7 +143,6 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Неверные настройки сети",
     "Invalid SSID": "Неверный SSID",
-    "Loading Network Profiles...": "Загрузка сетевых профилей…",
     "NETWORK PROFILE": "СЕТЕВОЙ ПРОФИЛЬ",
     "No Saved Network Profiles Found": "Сохраненные сетевые профили не найдены",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Быстрое переключение между конфигурациями Wi-Fi в зависимости от вашего местоположения или сетевых настроек"
@@ -180,11 +150,9 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Обнаружение, отображение и подключение к доступным сетям Wi-Fi",
     "NETWORK SCAN": "ПОИСК СЕТИ",
-    "No Wi-Fi Networks Found": "Wi-Fi сети не найдены",
-    "Scanning for Wi-Fi Networks...": "Поиск Wi-Fi сетей…"
+    "No Wi-Fi Networks Found": "Wi-Fi сети не найдены"
   },
   "muxnetwork": {
-    "Cannot modify while connected!": "Невозможно изменить при активном подключении!",
     "Changes Saved": "Изменения сохранены",
     "Connect": "Подключиться",
     "Connect to the network using options entered above": "Подключитесь к сети используя указанные выше параметры",
@@ -193,7 +161,6 @@
     "DNS Server": "DNS сервер",
     "Device IP": "IP устройства",
     "Disconnect": "Отключиться",
-    "Encrypting Password...": "Шифрование пароля…",
     "Enter the device IP address here (Static only)": "Введите IP-адрес устройства (только для статического)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Введите здесь номер подсети устройства (CIDR) (только для статического)",
     "Enter the network gateway address here (Static only)": "Введите адрес сетевого шлюза здесь (только для статического)",
@@ -205,7 +172,6 @@
     "Network Active": "Wi-Fi",
     "Network Disabled": "Сеть отключена",
     "Network Type": "Тип сети",
-    "No Password Detected...": "Пароль не обнаружен…",
     "Not Connected": "Не подключено",
     "Password": "Пароль",
     "Please check network settings": "Проверьте настройки сети",
@@ -216,7 +182,6 @@
     "Toggle between DHCP and Static network types": "Переключение между типами сетей DHCP и Static",
     "Toggle the Wi-Fi network on and off": "Включение и выключение сети Wi-Fi",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Выберите, нужно ли пытаться подключаться к скрытому SSID",
-    "Trying to Connect...": "Попытка соединения…",
     "WI-FI NETWORK": "WI-FI СЕТЬ"
   },
   "muxoption": {
@@ -253,7 +218,6 @@
     "Favourite": "Избранное",
     "HISTORY": "ИСТОРИЯ",
     "Info": "Инфо",
-    "Loading...": "Загрузка…",
     "No Information Found": "Информация не найдена",
     "Refresh": "Обновить",
     "Removed from Favourites": "Удалено из избранного"
@@ -357,7 +321,6 @@
     "CPU Speed": "Частота CPU",
     "Device Type": "Тип устройства",
     "Linux Kernel": "Ядро Linux",
-    "RAM Usage": "Использование RAM",
     "Running Services": "Запущенные сервисы",
     "SYSTEM DETAILS": "СИСТЕМНАЯ ИНФОРМАЦИЯ",
     "System Uptime": "Время работы системы",
@@ -386,7 +349,6 @@
     "Press any button to start input testing!": "Нажмите любую кнопку для запуска проверки!"
   },
   "muxtimezone": {
-    "No Timezones Found...": "Часовые пояса не найдены…",
     "Saving Timezone": "Сохранение часового пояса",
     "Select your preferred timezone": "Выберите предпочтительный часовой пояс",
     "TIMEZONE": "ЧАСОВОЙ ПОЯС"
@@ -546,7 +508,6 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "Настройка доступности SFTP (WebUI через порт 9090)",
     "Toggle SSH support - Access via port 22": "Настройка доступности SSH (доступ через порт 22)",
     "Toggle Syncthing - WebUI can be found on port 7070": "Настройка Syncthing (WebUI через порт 7070)",
-    "Toggle Tailscale - Need to login via SSH first": "Включение Tailscale (сначала необходимо залогиниться через SSH)",
     "Toggle network time protocol for active network connections": "Настройка протокола сетевого времени для активных сетевых соединений",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Настройка виртуального терминала (WebUI через порт 8080)",
     "Virtual Terminal": "Виртуальный терминал",
