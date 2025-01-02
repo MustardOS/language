@@ -237,7 +237,7 @@
     "Added to Favourites": "已新增至收藏夾",
     "Could not load content - No core is associated": "無法讀取內容 - 沒有關聯的核心",
     "Could not load content!": "無法讀取內容！",
-    "Directories cannot be added to Favourites": "目錄無法新增到收藏夾",
+    "Directories cannot be added to Favourites": "資料夾無法新增到收藏",
     "EXPLORE": "瀏覽",
     "Error adding to Favourites": "新增到收藏夾時出錯",
     "FAVOURITES": "收藏夾",
@@ -276,7 +276,7 @@
     "Sleep 5m + Shutdown": "休眠5分鐘後關機",
     "Sleep 60m + Shutdown": "休眠60分鐘後關機",
     "Sleep 60s + Shutdown": "休眠60秒後關機",
-    "Sleep Function": "電源鍵設定(休眠功能)",
+    "Sleep Function": "休眠功能",
     "Sleep Suspend": "休眠待機"
   },
   "muxrtc": {
