@@ -11,6 +11,7 @@
     "Launch": "Iniciar",
     "Load": "Carregar",
     "Migrate to SD2": "Migrar para SD2",
+    "No Content Found…": "No Content Found…",
     "No Help Information Found": "Informações de Ajuda Não Encontradas",
     "Open": "Abrir",
     "Previous": "Anterior",
@@ -52,10 +53,13 @@
     "ASSIGN": "ASSOCIAR",
     "Assigned to directory": "Atribuído ao diretório",
     "Assigned to file": "Atribuído ao arquivo",
+    "No Cores Found…": "No Cores Found…",
     "This is where you can assign a core or external emulator to content": "Aqui você pode atribuir um core ou emulador externo ao conteúdo"
   },
   "muxcharge": {
+    "Booting System - Please Wait…": "Booting System - Please Wait…",
     "Capacity": "Capacidade",
+    "Press POWER button to continue booting…": "Press POWER button to continue booting…",
     "Voltage": "Voltagem"
   },
   "muxconfig": {
@@ -86,22 +90,32 @@
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configure os modos da CPU para ajustar a frequência e equilibrar energia e desempenho",
-    "GOVERNOR": "GOVERNOR"
+    "GOVERNOR": "GOVERNOR",
+    "No Governors Found…": "No Governors Found…"
   },
   "muxhdmi": {
     "Audio Output": "Saída de áudio",
+    "Cannot modify while HDMI is active": "Cannot modify while HDMI is active",
     "Colour Depth": "Profundidade de cor",
     "Colour Range": "Gama de cores",
     "Colour Space": "Espaço cromático",
+    "Enable or disable HDMI output": "Enable or disable HDMI output",
     "External": "Externo",
     "Full": "Cheio",
     "HDMI Active": "HDMI ativo",
     "HDMI SETTINGS": "Configurações do HDMI",
+    "HDMI cable is not detected": "HDMI cable is not detected",
     "Internal": "Interno",
     "Limited": "Limitado",
     "Over": "Fim",
     "Resolution": "Resolução",
     "Scan Scaling": "Escala de varredura",
+    "Select the resolution for HDMI output, such as 720p or 1080p": "Select the resolution for HDMI output, such as 720p or 1080p",
+    "Set the color depth, such as 8-bit or 10-bit": "Set the color depth, such as 8-bit or 10-bit",
+    "Set the color range of RGB colour space": "Set the color range of RGB colour space",
+    "Set the color space, such as RGB or YUV": "Set the color space, such as RGB or YUV",
+    "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
+    "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
     "Under": "Debaixo"
   },
   "muxinfo": {
@@ -116,6 +130,8 @@
     "View all of the current muOS supporters": "Veja todos os atuais apoiadores do muOS"
   },
   "muxlanguage": {
+    "LANGUAGE": "LANGUAGE",
+    "No Languages Found…": "No Languages Found…",
     "Saving Language": "Salvando Idioma",
     "Select your preferred language": "Selecione seu idioma preferido"
   },
@@ -143,6 +159,7 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Configuração de Rede Inválida",
     "Invalid SSID": "SSID Inválido",
+    "Loading Network Profiles…": "Loading Network Profiles…",
     "NETWORK PROFILE": "PERFIL DE REDE",
     "No Saved Network Profiles Found": "Nenhum Perfil de Rede Salvo",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Alterne rapidamente entre diferentes configurações de Wi-Fi com base em sua localização ou preferências de rede"
@@ -150,9 +167,11 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Detecte, exiba e conecte-se a redes Wi-Fi disponíveis",
     "NETWORK SCAN": "PROCURAR REDE",
-    "No Wi-Fi Networks Found": "Nenhuma Rede Wi-Fi Encontrada"
+    "No Wi-Fi Networks Found": "Nenhuma Rede Wi-Fi Encontrada",
+    "Scanning for Wi-Fi Networks…": "Scanning for Wi-Fi Networks…"
   },
   "muxnetwork": {
+    "Cannot modify while connected": "Cannot modify while connected",
     "Changes Saved": "Alterações Salvas",
     "Connect": "Conectar",
     "Connect to the network using options entered above": "Conecte-se à rede usando as opções inseridas acima",
@@ -161,6 +180,7 @@
     "DNS Server": "Servidor DNS",
     "Device IP": "IP do Dispositivo",
     "Disconnect": "Desconectar",
+    "Encrypting Password…": "Encrypting Password…",
     "Enter the device IP address here (Static only)": "Digite o endereço IP do dispositivo aqui (Apenas estático)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Digite o número da sub-rede do dispositivo (CIDR) aqui (apenas estático)",
     "Enter the network gateway address here (Static only)": "Digite o endereço do gateway de rede aqui (Apenas estático)",
@@ -172,6 +192,7 @@
     "Network Active": "Ativo na Rede",
     "Network Disabled": "Rede Desativada",
     "Network Type": "Tipo de Rede",
+    "No Password Detected…": "No Password Detected…",
     "Not Connected": "Não Conectado",
     "Password": "Senha",
     "Please check network settings": "Por favor confira as opções de rede",
@@ -182,11 +203,16 @@
     "Toggle between DHCP and Static network types": "Alternar entre DHCP e tipos de rede estática",
     "Toggle the Wi-Fi network on and off": "Alternar a rede Wi-Fi para ligar e desligar",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Alternar se você quer ou não tentar conectar-se a uma transmissão SSID oculta",
+    "Trying to Connect…": "Trying to Connect…",
     "WI-FI NETWORK": "REDE WI-FI"
   },
   "muxoption": {
     "Assign Core": "Associar Núcleo",
     "CONTENT OPTION": "OPÇÃO DE CONTEÚDO",
+    "Current": "Current",
+    "Directory": "Directory",
+    "Individual": "Individual",
+    "Name": "Name",
     "Search Content": "Buscar conteúdo",
     "Search for content within the selected directory": "Buscar por conteúdo dentro do diretório selecionado",
     "Set the CPU governor for the selected content or directory": "Definir o regulador da CPU para o conteúdo ou diretório selecionado",
@@ -218,6 +244,7 @@
     "Favourite": "Favorito",
     "HISTORY": "HISTÓRICO",
     "Info": "Informação",
+    "Loading…": "Loading…",
     "No Information Found": "Nenhuma Informação Encontrada",
     "Refresh": "Atualizar",
     "Removed from Favourites": "Removido dos Favoritos"
@@ -242,6 +269,7 @@
     "POWER SETTINGS": "CONFIGURAÇÕES DE ENERGIA",
     "Sleep 10m + Shutdown": "Dormir por 10m + Desligar",
     "Sleep 10s + Shutdown": "Dormir por 10s + Desligar",
+    "Sleep 15m + Shutdown": "Sleep 15m + Shutdown",
     "Sleep 2m + Shutdown": "Dormir por 2m + Desligar",
     "Sleep 30m + Shutdown": "Dormir por 30m + Desligar",
     "Sleep 30s + Shutdown": "Dormir por 30s + Desligar",
@@ -272,7 +300,8 @@
     "Search Global": "Pesquisa global",
     "Search Local": "Pesquisa local",
     "Search all current active storage devices": "Procurar em todos os dispositivos de armazenamento atualmente ativos",
-    "Search within the current selected folder and folders within": "Pesquisar na pasta selecionada e em pastas dentro"
+    "Search within the current selected folder and folders within": "Pesquisar na pasta selecionada e em pastas dentro",
+    "Searching…": "Searching…"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Núcleo Atribuído/Sistema de Governador",
@@ -323,6 +352,7 @@
     "Linux Kernel": "Kernel Linux",
     "Running Services": "Serviços em Execução",
     "SYSTEM DETAILS": "DETALHES DO SISTEMA",
+    "System Memory": "System Memory",
     "System Uptime": "Tempo de Atividade do Sistema",
     "Temperature": "Temperatura",
     "The current CPU frequency of the device": "A frequência atual da CPU do dispositivo",
@@ -349,6 +379,7 @@
     "Press any button to start input testing!": "Pressione qualquer botão para iniciar o teste!"
   },
   "muxtimezone": {
+    "No Timezones Found…": "No Timezones Found…",
     "Saving Timezone": "Salvando Fuso Horário",
     "Select your preferred timezone": "Selecione seu fuso horário",
     "TIMEZONE": "FUSO HORÁRIO"
@@ -508,9 +539,28 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "Ativar suporte SFTP - WebUI pode ser encontrado na porta 9090",
     "Toggle SSH support - Access via port 22": "Ativar suporte SSH - Acesso via porta 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Ativar Syncthing - WebUI pode ser encontrado na porta 7070",
+    "Toggle Tailscale - Need to login via SSH first to configure it": "Toggle Tailscale - Need to login via SSH first to configure it",
     "Toggle network time protocol for active network connections": "Ativar o protocolo de tempo de rede para conexões de rede ativas",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Ativar terminal virtual - WebUI pode ser encontrado na porta 8080",
     "Virtual Terminal": "Terminal Virtual",
     "WEB SERVICES": "SERVIÇOS WEB"
+  },
+  "system": {
+    "Failed read command output": "Failed read command output",
+    "Failed to allocate memory": "Failed to allocate memory",
+    "Failed to close command stream": "Failed to close command stream",
+    "Failed to create file": "Failed to create file",
+    "Failed to delete file": "Failed to delete file",
+    "Failed to duplicate string": "Failed to duplicate string",
+    "Failed to fork": "Failed to fork",
+    "Failed to open /proc/partitions": "Failed to open /proc/partitions",
+    "Failed to open alternative joystick device": "Failed to open alternative joystick device",
+    "Failed to open directory": "Failed to open directory",
+    "Failed to open file": "Failed to open file",
+    "Failed to open file for reading": "Failed to open file for reading",
+    "Failed to open file for writing": "Failed to open file for writing",
+    "Failed to open joystick device": "Failed to open joystick device",
+    "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
+    "Failed to run command": "Failed to run command"
   }
 }
