@@ -111,11 +111,11 @@
     "Resolution": "Résolution",
     "Scan Scaling": "Mise à l'échelle",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Sélectionnez la résolution de la sortie HDMI, telle que 720p ou 1080p",
-    "Set the color depth, such as 8-bit or 10-bit": "Définissez la profondeur des couleurs, telle que 8-bit ou 10-bit",
+    "Set the color depth, such as 8-bit or 10-bit": "Définissez la profondeur de couleur, telle que 8-bit ou 10-bit",
     "Set the color range of RGB colour space": "Définissez la gamme de couleurs de l’espace colorimétrique RVB",
     "Set the color space, such as RGB or YUV": "Définissez l'espace colorimétrique, tel que RVB ou YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Basculez entre le haut-parleur de la console ou l'audio du moniteur externe via une connexion HDMI",
-    "Switch between overscan or underscan to fit the display screen": "Basculez entre le surbalayage et le sous-balayage pour ajuster l'affichage à l'écran.",
+    "Switch between overscan or underscan to fit the display screen": "Basculez entre le surbalayage et le sous-balayage pour ajuster l'affichage à l'écran",
     "Under": "Sous-balayage"
   },
   "muxinfo": {
@@ -269,7 +269,7 @@
     "POWER SETTINGS": "PARAMÈTRES D'ALIMENTATION",
     "Sleep 10m + Shutdown": "Veille 10m + Arrêt",
     "Sleep 10s + Shutdown": "Veille 10s + Arrêt",
-    "Sleep 15m + Shutdown": "Veille 15m + Extinction",
+    "Sleep 15m + Shutdown": "Veille 15m + Arrêt",
     "Sleep 2m + Shutdown": "Veille 2m + Arrêt",
     "Sleep 30m + Shutdown": "Veille 30m + Arrêt",
     "Sleep 30s + Shutdown": "Veille 30s + Arrêt",
@@ -304,7 +304,7 @@
     "Searching…": "Recherche en cours…"
   },
   "muxstorage": {
-    "Assigned Core/Governor System": "Émulateurs/Gouverneurs systèmes assignés",
+    "Assigned Core/Governor System": "Émulateur/Gouverneur système assigné",
     "Background Music": "Musique de fond",
     "Catalogue Packages": "Packages de catalogues",
     "Favourites": "Favoris",
@@ -552,7 +552,7 @@
     "Failed to create file": "Échec de la création du fichier",
     "Failed to delete file": "Échec de la suppression du fichier",
     "Failed to duplicate string": "Échec de la duplication de la chaîne",
-    "Failed to fork": "Failed to fork",
+    "Failed to fork": "Échec du fork",
     "Failed to open /proc/partitions": "Échec de l'ouverture de /proc/partitions",
     "Failed to open alternative joystick device": "Échec de l'ouverture d'une manette de jeu alternative",
     "Failed to open directory": "Échec de l'ouverture du répertoire",
