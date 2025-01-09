@@ -1,7 +1,10 @@
 {
   "generic": {
+    "Add": "Add",
+    "Added to Collection": "Added to Collection",
     "Back": "戻る",
     "Clear": "Clear",
+    "Collect": "Collect",
     "Directory": "ディレクトリごと指定",
     "Disabled": "無効",
     "Enabled": "有効",
@@ -10,14 +13,17 @@
     "Info": "情報",
     "Launch": "起動する",
     "Load": "設定を読み込む",
+    "Loading…": "Loading…",
     "Migrate to SD2": "Migrate to SD2",
-    "No Content Found…": "No Content Found…",
+    "New": "New",
     "No Help Information Found": "ヘルプ情報が見つかりませんでした",
+    "No Information Found": "No Information Found",
     "Open": "開く",
     "Previous": "現在の設定を使用",
     "Recursive": "再帰的に指定",
     "Remove": "削除する",
     "Rescan": "再検索",
+    "Restore": "Restore",
     "Save": "保存して戻る",
     "Select": "選択",
     "Switch to Information": "情報に切り替える",
@@ -61,6 +67,13 @@
     "Capacity": "容量",
     "Press POWER button to continue booting…": "Press POWER button to continue booting…",
     "Voltage": "電圧"
+  },
+  "muxcollect": {
+    "COLLECTIONS": "COLLECTIONS",
+    "Collection folder is not empty": "Collection folder is not empty",
+    "Error loading content file": "Error loading content file",
+    "Error removing from Collections": "Error removing from Collections",
+    "Nothing Saved Yet…": "Nothing Saved Yet…"
   },
   "muxconfig": {
     "CONFIGURATION": "設定",
@@ -118,6 +131,13 @@
     "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
     "Under": "Under"
   },
+  "muxhistory": {
+    "Error loading content file": "Error loading content file",
+    "Error removing from History": "Error removing from History",
+    "HISTORY": "HISTORY",
+    "Nothing Played Yet…": "Nothing Played Yet…",
+    "Removed from History": "Removed from History"
+  },
   "muxinfo": {
     "Access statistics of played content and other activity": "コンテンツの利用状況などを確認します",
     "Access version information and system details": "バージョン情報やシステム詳細を表示します",
@@ -137,12 +157,12 @@
   },
   "muxlaunch": {
     "Applications": "アプリケーション",
+    "Collection": "Collection",
     "Configuration": "設定",
-    "Content marked as favourite can be found and launched here": "お気に入りに追加したコンテンツを起動します",
+    "Content added to collections can be found and launched here": "Content added to collections can be found and launched here",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "ストレージ内 (SD1/SD2/USB) のコンテンツを起動します",
     "Content previously launched can be found and launched here": "以前に使用したコンテンツを起動します",
     "Explore Content": "コンテンツ一覧",
-    "Favourites": "お気に入り",
     "History": "履歴",
     "Information": "情報",
     "Kiosk configuration not found": "Kiosk configuration not found",
@@ -234,20 +254,13 @@
     "There are no attributed credits!": "There are no attributed credits!"
   },
   "muxplore": {
-    "Added to Favourites": "お気に入りに追加しました",
-    "Could not load content - No core is associated": "コンテンツを読み込めませんでした - コアが関連付けられていません",
-    "Could not load content!": "コンテンツを読み込めませんでした!",
-    "Directories cannot be added to Favourites": "ディレクトリはお気に入りに追加できません",
+    "Content is not associated with system or core": "Content is not associated with system or core",
+    "Could not load content": "Could not load content",
     "EXPLORE": "一覧",
-    "Error adding to Favourites": "お気に入りに追加できませんでした",
-    "FAVOURITES": "お気に入り",
-    "Favourite": "お気に入りに追加",
-    "HISTORY": "履歴",
-    "Info": "情報",
-    "Loading…": "Loading…",
-    "No Information Found": "No Information Found",
+    "Folders cannot be added to collections": "Folders cannot be added to collections",
+    "No Content Found…": "No Content Found…",
     "Refresh": "再読み込み",
-    "Removed from Favourites": "お気に入りから削除しました"
+    "Refreshing…": "Refreshing…"
   },
   "muxpower": {
     "10m": "10分",
@@ -303,11 +316,16 @@
     "Search within the current selected folder and folders within": "Search within the current selected folder and folders within",
     "Searching…": "Searching…"
   },
+  "muxsnapshot": {
+    "No Save Snapshots Found": "No Save Snapshots Found",
+    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
+    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
+  },
   "muxstorage": {
     "Assigned Core/Governor System": "Assigned Core/Governor System",
     "Background Music": "背景音楽",
     "Catalogue Packages": "Catalogue Packages",
-    "Favourites": "Favourites",
+    "Content Collection": "Content Collection",
     "Friendly Name System": "Friendly Name System",
     "History": "History",
     "Languages": "言語",
@@ -320,8 +338,8 @@
     "Location of assigned core and governor configurations": "Location of assigned core and governor configurations",
     "Location of background music": "Location of background music",
     "Location of catalogue packages": "Location of catalogue packages",
+    "Location of content collection": "Location of content collection",
     "Location of content images and text": "Location of content images and text",
-    "Location of favourites": "Location of favourites",
     "Location of friendly name configurations": "Location of friendly name configurations",
     "Location of history": "Location of history",
     "Location of save states and files": "Location of save states and files",
@@ -449,9 +467,9 @@
     "Change the colour temperature of the display if the device supports it": "デバイスが対応している場合、ディスプレイの色温度を切り替えます",
     "Change where the device will start up into": "デバイス起動時のメニュー項目を切り替えます",
     "Colour Temperature": "色温度",
+    "Content Collection": "Content Collection",
     "Content Explorer": "コンテンツ一覧",
     "Device Startup": "起動時メニュー",
-    "Favourites": "お気に入り",
     "GENERAL SETTINGS": "一般設定",
     "Global": "Global",
     "HDMI Output": "HDMI 出力",
@@ -561,6 +579,7 @@
     "Failed to open file for writing": "Failed to open file for writing",
     "Failed to open joystick device": "Failed to open joystick device",
     "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
-    "Failed to run command": "Failed to run command"
+    "Failed to run command": "Failed to run command",
+    "Failed to use int16 - out of range": "Failed to use int16 - out of range"
   }
 }

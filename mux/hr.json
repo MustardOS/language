@@ -1,7 +1,10 @@
 {
   "generic": {
+    "Add": "Add",
+    "Added to Collection": "Added to Collection",
     "Back": "Nazad",
     "Clear": "Očisti",
+    "Collect": "Collect",
     "Directory": "Directorija",
     "Disabled": "Isključeno",
     "Enabled": "Uključeno",
@@ -10,14 +13,17 @@
     "Info": "Info",
     "Launch": "Pokreni",
     "Load": "Učitaj",
+    "Loading…": "Loading…",
     "Migrate to SD2": "Migriraj na SD2",
-    "No Content Found…": "No Content Found…",
+    "New": "New",
     "No Help Information Found": "Informacija o Pomoći nije Pronađena",
+    "No Information Found": "No Information Found",
     "Open": "Otvori",
     "Previous": "Prethodno",
     "Recursive": "Rekurzivno",
     "Remove": "Ukloni",
     "Rescan": "Ponovno skeniraj",
+    "Restore": "Restore",
     "Save": "Spremi",
     "Select": "Odaberi",
     "Switch to Information": "Promijeni na Informaciju",
@@ -61,6 +67,13 @@
     "Capacity": "Kapacitet",
     "Press POWER button to continue booting…": "Press POWER button to continue booting…",
     "Voltage": "Voltaža"
+  },
+  "muxcollect": {
+    "COLLECTIONS": "COLLECTIONS",
+    "Collection folder is not empty": "Collection folder is not empty",
+    "Error loading content file": "Error loading content file",
+    "Error removing from Collections": "Error removing from Collections",
+    "Nothing Saved Yet…": "Nothing Saved Yet…"
   },
   "muxconfig": {
     "CONFIGURATION": "KONFIGURACIJA",
@@ -118,6 +131,13 @@
     "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
     "Under": "Ispod"
   },
+  "muxhistory": {
+    "Error loading content file": "Error loading content file",
+    "Error removing from History": "Error removing from History",
+    "HISTORY": "HISTORY",
+    "Nothing Played Yet…": "Nothing Played Yet…",
+    "Removed from History": "Removed from History"
+  },
   "muxinfo": {
     "Access statistics of played content and other activity": "Pristupi statistice igranog sadržaja i drugih aktivnosti",
     "Access version information and system details": "Pristupite informacije o verziji i detalje o sistemu",
@@ -137,12 +157,12 @@
   },
   "muxlaunch": {
     "Applications": "Aplikacije",
+    "Collection": "Collection",
     "Configuration": "Konfiguracija",
-    "Content marked as favourite can be found and launched here": "Sadržaj označen kao favorit se može pronaći i pokrenuti ovdje",
+    "Content added to collections can be found and launched here": "Content added to collections can be found and launched here",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Sadržaj na uređajima za pohranu (SD1/SD2/USB) se mogu pronaći i pokrenuti ovdje",
     "Content previously launched can be found and launched here": "Sadržaj prije pokrenut se može pronaći i pokrenut ovdje",
     "Explore Content": "Istraži Sadržaj",
-    "Favourites": "Favoriti",
     "History": "Povijest",
     "Information": "Informacije",
     "Kiosk configuration not found": "Kiosk configuration not found",
@@ -234,20 +254,13 @@
     "There are no attributed credits!": "Nema pripisanih zasluga!"
   },
   "muxplore": {
-    "Added to Favourites": "Dodano u Favorite",
-    "Could not load content - No core is associated": "Nije moguće učitati sadržaj - Core nije određen",
-    "Could not load content!": "Nije moguće učitati sadržaj!",
-    "Directories cannot be added to Favourites": "Directorije se ne mogu dodati u Favorite",
+    "Content is not associated with system or core": "Content is not associated with system or core",
+    "Could not load content": "Could not load content",
     "EXPLORE": "ISTRAŽI",
-    "Error adding to Favourites": "Error kod dodavanja u Favourite",
-    "FAVOURITES": "FAVOURITI",
-    "Favourite": "Favouriti",
-    "HISTORY": "POVIJEST",
-    "Info": "Info",
-    "Loading…": "Loading…",
-    "No Information Found": "Informacija nije Pronađena",
+    "Folders cannot be added to collections": "Folders cannot be added to collections",
+    "No Content Found…": "No Content Found…",
     "Refresh": "Osvježi",
-    "Removed from Favourites": "Uklonjeno s Favorita"
+    "Refreshing…": "Refreshing…"
   },
   "muxpower": {
     "10m": "10m",
@@ -303,11 +316,16 @@
     "Search within the current selected folder and folders within": "Pretrači unutar trenutno odabrane mape i unutarnjih mapa",
     "Searching…": "Searching…"
   },
+  "muxsnapshot": {
+    "No Save Snapshots Found": "No Save Snapshots Found",
+    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
+    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
+  },
   "muxstorage": {
     "Assigned Core/Governor System": "Zadani Core/Upravitelj Sistema",
     "Background Music": "Pozadinska Glazba",
     "Catalogue Packages": "Catalogue Packages",
-    "Favourites": "Favoriti",
+    "Content Collection": "Content Collection",
     "Friendly Name System": "Sistem Prijateljskog Imenovanja",
     "History": "Povijest",
     "Languages": "Jezici",
@@ -320,8 +338,8 @@
     "Location of assigned core and governor configurations": "Lokacija zadanih core i upraviteljskih konfiguracija",
     "Location of background music": "Lokacija pozadinske glazbe",
     "Location of catalogue packages": "Location of catalogue packages",
+    "Location of content collection": "Location of content collection",
     "Location of content images and text": "Lokacija sadžajnih slika i teksta",
-    "Location of favourites": "Lokacija favorita",
     "Location of friendly name configurations": "Lokacija konfiguracija prijateljskog imenovanja",
     "Location of history": "Lokacija povijesti",
     "Location of save states and files": "Lokacija save stanja i datoteka",
@@ -449,9 +467,9 @@
     "Change the colour temperature of the display if the device supports it": "Promijeni boju temperature ekrana ako uređaj podržava",
     "Change where the device will start up into": "Promijeni gdje će se uređaj pokrenuti",
     "Colour Temperature": "Boja Temperature",
+    "Content Collection": "Content Collection",
     "Content Explorer": "Istražitelj Sadržaja",
     "Device Startup": "Pokretanje Uređaja",
-    "Favourites": "Favouriti",
     "GENERAL SETTINGS": "OPĆE POSTAVKE",
     "Global": "Globalno",
     "HDMI Output": "HDMI Output",
@@ -561,6 +579,7 @@
     "Failed to open file for writing": "Failed to open file for writing",
     "Failed to open joystick device": "Failed to open joystick device",
     "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
-    "Failed to run command": "Failed to run command"
+    "Failed to run command": "Failed to run command",
+    "Failed to use int16 - out of range": "Failed to use int16 - out of range"
   }
 }

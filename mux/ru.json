@@ -1,7 +1,10 @@
 {
   "generic": {
+    "Add": "Add",
+    "Added to Collection": "Added to Collection",
     "Back": "Назад",
     "Clear": "Очистить",
+    "Collect": "Collect",
     "Directory": "К папке",
     "Disabled": "Выкл",
     "Enabled": "Вкл",
@@ -10,14 +13,17 @@
     "Info": "Инфо",
     "Launch": "Запуск",
     "Load": "Загрузить",
+    "Loading…": "Loading…",
     "Migrate to SD2": "Мигрировать на SD2",
-    "No Content Found…": "No Content Found…",
+    "New": "New",
     "No Help Information Found": "Справочная информация не найдена",
+    "No Information Found": "No Information Found",
     "Open": "Открыть",
     "Previous": "Польз.",
     "Recursive": "К папке с подпапками",
     "Remove": "Удалить",
     "Rescan": "Повторное сканирование",
+    "Restore": "Restore",
     "Save": "Сохранить",
     "Select": "Выбрать",
     "Switch to Information": "Перейти к информации",
@@ -61,6 +67,13 @@
     "Capacity": "Емкость",
     "Press POWER button to continue booting…": "Press POWER button to continue booting…",
     "Voltage": "Напряжение"
+  },
+  "muxcollect": {
+    "COLLECTIONS": "COLLECTIONS",
+    "Collection folder is not empty": "Collection folder is not empty",
+    "Error loading content file": "Error loading content file",
+    "Error removing from Collections": "Error removing from Collections",
+    "Nothing Saved Yet…": "Nothing Saved Yet…"
   },
   "muxconfig": {
     "CONFIGURATION": "НАСТРОЙКИ",
@@ -118,6 +131,13 @@
     "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
     "Under": "Андерскан"
   },
+  "muxhistory": {
+    "Error loading content file": "Error loading content file",
+    "Error removing from History": "Error removing from History",
+    "HISTORY": "HISTORY",
+    "Nothing Played Yet…": "Nothing Played Yet…",
+    "Removed from History": "Removed from History"
+  },
   "muxinfo": {
     "Access statistics of played content and other activity": "Доступ к статистике запущенного приложения",
     "Access version information and system details": "Доступ к информации о версии системы и другим сведениям",
@@ -137,12 +157,12 @@
   },
   "muxlaunch": {
     "Applications": "Приложения",
+    "Collection": "Collection",
     "Configuration": "Настройки",
-    "Content marked as favourite can be found and launched here": "Приложения, отмеченные как избранные, можно найти и запустить здесь",
+    "Content added to collections can be found and launched here": "Content added to collections can be found and launched here",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Приложения на устройствах хранения данных (SD1/SD2/USB) можно найти и запустить здесь",
     "Content previously launched can be found and launched here": "Ранее запущенные приложения можно найти и запустить здесь",
     "Explore Content": "Библиотека",
-    "Favourites": "Избранное",
     "History": "История",
     "Information": "Информация",
     "Kiosk configuration not found": "Конфигурации киоска не найдены",
@@ -234,20 +254,13 @@
     "There are no attributed credits!": "Не найдено применимых атрибутов!"
   },
   "muxplore": {
-    "Added to Favourites": "Добавлено в избранное",
-    "Could not load content - No core is associated": "Ядро не выбрано",
-    "Could not load content!": "Не удалось запустить приложение!",
-    "Directories cannot be added to Favourites": "Пути не могут быть добавлены в Избранное",
+    "Content is not associated with system or core": "Content is not associated with system or core",
+    "Could not load content": "Could not load content",
     "EXPLORE": "БИБЛИОТЕКА",
-    "Error adding to Favourites": "Ошибка добавления в избранное",
-    "FAVOURITES": "ИЗБРАННОЕ",
-    "Favourite": "Избранное",
-    "HISTORY": "ИСТОРИЯ",
-    "Info": "Инфо",
-    "Loading…": "Loading…",
-    "No Information Found": "Информация не найдена",
+    "Folders cannot be added to collections": "Folders cannot be added to collections",
+    "No Content Found…": "No Content Found…",
     "Refresh": "Обновить",
-    "Removed from Favourites": "Удалено из избранного"
+    "Refreshing…": "Refreshing…"
   },
   "muxpower": {
     "10m": "10м",
@@ -303,11 +316,16 @@
     "Search within the current selected folder and folders within": "Поиск в текущей выбранной папке и папках внутри",
     "Searching…": "Searching…"
   },
+  "muxsnapshot": {
+    "No Save Snapshots Found": "No Save Snapshots Found",
+    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
+    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
+  },
   "muxstorage": {
     "Assigned Core/Governor System": "Назначенное ядро/говернор системы",
     "Background Music": "Фоновая музыка",
     "Catalogue Packages": "Пакеты каталогов",
-    "Favourites": "Избранное",
+    "Content Collection": "Content Collection",
     "Friendly Name System": "Система дружественных имен",
     "History": "История",
     "Languages": "Языки",
@@ -320,8 +338,8 @@
     "Location of assigned core and governor configurations": "Расположение назначенного ядра и конфигураций говернора",
     "Location of background music": "Расположение фоновой музыки",
     "Location of catalogue packages": "Расположение пакетов каталогов",
+    "Location of content collection": "Location of content collection",
     "Location of content images and text": "Расположение обложек и текста",
-    "Location of favourites": "Расположение избранного",
     "Location of friendly name configurations": "Расположение конфигураций дружественных имен",
     "Location of history": "Расположение истории",
     "Location of save states and files": "Расположение сейв-стейтов и файлов",
@@ -449,9 +467,9 @@
     "Change the colour temperature of the display if the device supports it": "Изменение цветовой температуры дисплея, если устройство поддерживает эту функцию",
     "Change where the device will start up into": "Выберите экран, куда перейдет система при запуске",
     "Colour Temperature": "Цветовая температура",
+    "Content Collection": "Content Collection",
     "Content Explorer": "Библиотека",
     "Device Startup": "Запуск устройства",
-    "Favourites": "Избранное",
     "GENERAL SETTINGS": "ОСНОВНЫЕ НАСТРОЙКИ",
     "Global": "Глобальная",
     "HDMI Output": "HDMI выход",
@@ -561,6 +579,7 @@
     "Failed to open file for writing": "Failed to open file for writing",
     "Failed to open joystick device": "Failed to open joystick device",
     "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
-    "Failed to run command": "Failed to run command"
+    "Failed to run command": "Failed to run command",
+    "Failed to use int16 - out of range": "Failed to use int16 - out of range"
   }
 }
