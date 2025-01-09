@@ -1,7 +1,10 @@
 {
   "generic": {
+    "Add": "Add",
+    "Added to Collection": "Added to Collection",
     "Back": "Geri",
     "Clear": "Temizle",
+    "Collect": "Collect",
     "Directory": "Klasör",
     "Disabled": "Devre dışı",
     "Enabled": "Etkin",
@@ -10,13 +13,17 @@
     "Info": "Bilgi",
     "Launch": "Başlat",
     "Load": "Yükle",
+    "Loading…": "Loading…",
     "Migrate to SD2": "SD2'ye geçiş",
+    "New": "New",
     "No Help Information Found": "Yardım bilgisi bulunamadı",
+    "No Information Found": "No Information Found",
     "Open": "Aç",
     "Previous": "Önceki",
     "Recursive": "Yinelenmiş",
     "Remove": "Kaldır",
     "Rescan": "Yeniden tara",
+    "Restore": "Restore",
     "Save": "Kaydet",
     "Select": "Seç",
     "Switch to Information": "Bilgiye geç",
@@ -60,6 +67,13 @@
     "Capacity": "Kapasite",
     "Press POWER button to continue booting…": "Press POWER button to continue booting…",
     "Voltage": "Voltaj"
+  },
+  "muxcollect": {
+    "COLLECTIONS": "COLLECTIONS",
+    "Collection folder is not empty": "Collection folder is not empty",
+    "Error loading content file": "Error loading content file",
+    "Error removing from Collections": "Error removing from Collections",
+    "Nothing Saved Yet…": "Nothing Saved Yet…"
   },
   "muxconfig": {
     "CONFIGURATION": "YAPILANDIRMA",
@@ -117,6 +131,13 @@
     "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
     "Under": "Under"
   },
+  "muxhistory": {
+    "Error loading content file": "Error loading content file",
+    "Error removing from History": "Error removing from History",
+    "HISTORY": "HISTORY",
+    "Nothing Played Yet…": "Nothing Played Yet…",
+    "Removed from History": "Removed from History"
+  },
   "muxinfo": {
     "Access statistics of played content and other activity": "Oynatılan içeriklerin ve diğer aktivitelerin istatistiklerine erişim",
     "Access version information and system details": "Sürüm bilgilerine ve sistem ayrıntılarına erişim",
@@ -136,7 +157,9 @@
   },
   "muxlaunch": {
     "Applications": "Uygulamalar",
+    "Collection": "Collection",
     "Configuration": "Yapılandırma",
+    "Content added to collections can be found and launched here": "Content added to collections can be found and launched here",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Depolama aygıtlarındaki (SD1/SD2/USB) içerik burada bulunabilir ve başlatılabilir",
     "Content previously launched can be found and launched here": "Daha önce başlatılan içerik burada bulunabilir ve başlatılabilir",
     "Explore Content": "İçeriği keşfet",
@@ -231,8 +254,13 @@
     "There are no attributed credits!": "There are no attributed credits!"
   },
   "muxplore": {
+    "Content is not associated with system or core": "Content is not associated with system or core",
+    "Could not load content": "Could not load content",
     "EXPLORE": "KEŞFET",
-    "Refresh": "Yenile"
+    "Folders cannot be added to collections": "Folders cannot be added to collections",
+    "No Content Found…": "No Content Found…",
+    "Refresh": "Yenile",
+    "Refreshing…": "Refreshing…"
   },
   "muxpower": {
     "10m": "10 dk",
@@ -288,10 +316,16 @@
     "Search within the current selected folder and folders within": "Search within the current selected folder and folders within",
     "Searching…": "Searching…"
   },
+  "muxsnapshot": {
+    "No Save Snapshots Found": "No Save Snapshots Found",
+    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
+    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
+  },
   "muxstorage": {
     "Assigned Core/Governor System": "Atanmış Çekirdek/Yönetici sistemi",
     "Background Music": "Arka plan müziği",
     "Catalogue Packages": "Catalogue Packages",
+    "Content Collection": "Content Collection",
     "Friendly Name System": "Basitleştirilmiş isim sistemi",
     "History": "Geçmiş",
     "Languages": "Diller",
@@ -304,6 +338,7 @@
     "Location of assigned core and governor configurations": "Atanmış çekirdek ve yönetici yapılandırmalarının konumu",
     "Location of background music": "Arkaplan müziğinin konumu",
     "Location of catalogue packages": "Location of catalogue packages",
+    "Location of content collection": "Location of content collection",
     "Location of content images and text": "İçerik görsellerinin ve metinlerin konumu",
     "Location of friendly name configurations": "Basitleştirilmiş isim yapılandırmalarının konumu",
     "Location of history": "Geçmişin konumu",
@@ -432,6 +467,7 @@
     "Change the colour temperature of the display if the device supports it": "Cihazınız destekliyorsa ekranın renk sıcaklığını değiştir",
     "Change where the device will start up into": "Cihazın nereden başlatılacağını değiştir",
     "Colour Temperature": "Renk sıcaklığı",
+    "Content Collection": "Content Collection",
     "Content Explorer": "İçerik gezgini",
     "Device Startup": "Cihaz başlangıcı",
     "GENERAL SETTINGS": "GENEL AYARLAR",
@@ -543,6 +579,7 @@
     "Failed to open file for writing": "Failed to open file for writing",
     "Failed to open joystick device": "Failed to open joystick device",
     "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
-    "Failed to run command": "Failed to run command"
+    "Failed to run command": "Failed to run command",
+    "Failed to use int16 - out of range": "Failed to use int16 - out of range"
   }
 }
