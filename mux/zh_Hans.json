@@ -1,7 +1,10 @@
 {
   "generic": {
+    "Add": "Add",
+    "Added to Collection": "Added to Collection",
     "Back": "返回",
     "Clear": "清除",
+    "Collect": "Collect",
     "Directory": "目录",
     "Disabled": "关闭",
     "Enabled": "开启",
@@ -10,13 +13,17 @@
     "Info": "信息",
     "Launch": "启动",
     "Load": "加载",
+    "Loading…": "Loading…",
     "Migrate to SD2": "迁移至SD卡2",
+    "New": "New",
     "No Help Information Found": "找不到帮助信息",
+    "No Information Found": "No Information Found",
     "Open": "打开",
     "Previous": "参前",
     "Recursive": "包括子文件夹",
     "Remove": "删除",
     "Rescan": "重新扫描",
+    "Restore": "Restore",
     "Save": "保存",
     "Select": "选择",
     "Switch to Information": "切换到文字信息",
@@ -60,6 +67,13 @@
     "Capacity": "容量",
     "Press POWER button to continue booting…": "Press POWER button to continue booting…",
     "Voltage": "电压"
+  },
+  "muxcollect": {
+    "COLLECTIONS": "COLLECTIONS",
+    "Collection folder is not empty": "Collection folder is not empty",
+    "Error loading content file": "Error loading content file",
+    "Error removing from Collections": "Error removing from Collections",
+    "Nothing Saved Yet…": "Nothing Saved Yet…"
   },
   "muxconfig": {
     "CONFIGURATION": "系统设置",
@@ -117,6 +131,13 @@
     "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
     "Under": "欠扫描"
   },
+  "muxhistory": {
+    "Error loading content file": "Error loading content file",
+    "Error removing from History": "Error removing from History",
+    "HISTORY": "HISTORY",
+    "Nothing Played Yet…": "Nothing Played Yet…",
+    "Removed from History": "Removed from History"
+  },
   "muxinfo": {
     "Access statistics of played content and other activity": "查看游玩内容或其他活动的统计列表",
     "Access version information and system details": "查看系统与版本信息",
@@ -136,7 +157,9 @@
   },
   "muxlaunch": {
     "Applications": "应用",
+    "Collection": "Collection",
     "Configuration": "系统设置",
+    "Content added to collections can be found and launched here": "Content added to collections can be found and launched here",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "查看并启动存储设备（SD1/SD2/USB）上的内容",
     "Content previously launched can be found and launched here": "查看并启动此前游玩过的内容",
     "Explore Content": "浏览内容",
@@ -231,8 +254,13 @@
     "There are no attributed credits!": "没有署名"
   },
   "muxplore": {
+    "Content is not associated with system or core": "Content is not associated with system or core",
+    "Could not load content": "Could not load content",
     "EXPLORE": "浏览",
-    "Refresh": "刷新"
+    "Folders cannot be added to collections": "Folders cannot be added to collections",
+    "No Content Found…": "No Content Found…",
+    "Refresh": "刷新",
+    "Refreshing…": "Refreshing…"
   },
   "muxpower": {
     "10m": "10分钟",
@@ -288,10 +316,16 @@
     "Search within the current selected folder and folders within": "在选择的文件夹和子文件夹中搜索",
     "Searching…": "Searching…"
   },
+  "muxsnapshot": {
+    "No Save Snapshots Found": "No Save Snapshots Found",
+    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
+    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
+  },
   "muxstorage": {
     "Assigned Core/Governor System": "分配核心/调度方案系统",
     "Background Music": "背景音乐",
     "Catalogue Packages": "Catalogue Packages",
+    "Content Collection": "Content Collection",
     "Friendly Name System": "名称友好系统",
     "History": "历史",
     "Languages": "语言",
@@ -304,6 +338,7 @@
     "Location of assigned core and governor configurations": "分配核心和调度方案的设置路径",
     "Location of background music": "背景音乐路径",
     "Location of catalogue packages": "Location of catalogue packages",
+    "Location of content collection": "Location of content collection",
     "Location of content images and text": "内容图片和文字路径",
     "Location of friendly name configurations": "名称友好设置路径",
     "Location of history": "历史路径",
@@ -432,6 +467,7 @@
     "Change the colour temperature of the display if the device supports it": "设置显示色温（需设备支持）",
     "Change where the device will start up into": "设置开机进入的默认界面",
     "Colour Temperature": "色温",
+    "Content Collection": "Content Collection",
     "Content Explorer": "内容浏览器",
     "Device Startup": "开机默认界面",
     "GENERAL SETTINGS": "常规设置",
@@ -543,6 +579,7 @@
     "Failed to open file for writing": "Failed to open file for writing",
     "Failed to open joystick device": "Failed to open joystick device",
     "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
-    "Failed to run command": "Failed to run command"
+    "Failed to run command": "Failed to run command",
+    "Failed to use int16 - out of range": "Failed to use int16 - out of range"
   }
 }
