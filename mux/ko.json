@@ -11,7 +11,7 @@
     "Launch": "실행",
     "Load": "로드",
     "Migrate to SD2": "SD2로 마이그레이션",
-    "No Content Found…": "No Content Found…",
+    "No Content Found…": "콘텐츠가 없음…",
     "No Help Information Found": "도움말 정보가 없음",
     "Open": "열기",
     "Previous": "이전 상태",
@@ -53,13 +53,13 @@
     "ASSIGN": "할당",
     "Assigned to directory": "폴더에 할당",
     "Assigned to file": "파일에 할당",
-    "No Cores Found…": "No Cores Found…",
+    "No Cores Found…": "코어 없음…",
     "This is where you can assign a core or external emulator to content": "여기서 코어 또는 외부 에뮬레이터를 콘텐츠에 할당함"
   },
   "muxcharge": {
-    "Booting System - Please Wait…": "Booting System - Please Wait…",
+    "Booting System - Please Wait…": "시스템 부팅중 - 기다려주세요…",
     "Capacity": "배터리 용량",
-    "Press POWER button to continue booting…": "Press POWER button to continue booting…",
+    "Press POWER button to continue booting…": "부팅을 계속하려면 전원 버튼을 누르세요…",
     "Voltage": "배터리 전압"
   },
   "muxconfig": {
@@ -91,31 +91,31 @@
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU 주파수를 동적으로 조정하고 전력 소비와 성능의 균형을 유지하도록 CPU 거버너를 구성",
     "GOVERNOR": "거버너",
-    "No Governors Found…": "No Governors Found…"
+    "No Governors Found…": "거버너가 없음…"
   },
   "muxhdmi": {
     "Audio Output": "오디오 출력",
-    "Cannot modify while HDMI is active": "Cannot modify while HDMI is active",
+    "Cannot modify while HDMI is active": "HDMI가 활성화된 동안에는 수정할 수 없음",
     "Colour Depth": "색상 심도",
     "Colour Range": "색상 범위",
     "Colour Space": "색상 공간",
-    "Enable or disable HDMI output": "Enable or disable HDMI output",
+    "Enable or disable HDMI output": "HDMI 출력을 활성화 또는 비활성화함",
     "External": "외장",
     "Full": "전체",
     "HDMI Active": "HDMI 활성화",
     "HDMI SETTINGS": "HDMI 설정",
-    "HDMI cable is not detected": "HDMI cable is not detected",
+    "HDMI cable is not detected": "HDMI 케이블이 감지되지 않음",
     "Internal": "내장",
     "Limited": "제한된",
     "Over": "오버",
     "Resolution": "해상도",
     "Scan Scaling": "스케일링 스캔",
-    "Select the resolution for HDMI output, such as 720p or 1080p": "Select the resolution for HDMI output, such as 720p or 1080p",
-    "Set the color depth, such as 8-bit or 10-bit": "Set the color depth, such as 8-bit or 10-bit",
-    "Set the color range of RGB colour space": "Set the color range of RGB colour space",
-    "Set the color space, such as RGB or YUV": "Set the color space, such as RGB or YUV",
-    "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
-    "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
+    "Select the resolution for HDMI output, such as 720p or 1080p": "720p 또는 1080p 등 HDMI 출력 해상도를 선택",
+    "Set the color depth, such as 8-bit or 10-bit": "8비트, 10비트 등 색상 심도를 설정",
+    "Set the color range of RGB colour space": "RGB 색상 공간의 색상 범위를 설정",
+    "Set the color space, such as RGB or YUV": "RGB 또는 YUV와 같은 색상 공간을 설정",
+    "Switch between device speaker or external monitor audio via HDMI connection": "HDMI 연결을 통해 장치 스피커 또는 외부 모니터 오디오 간을 전환",
+    "Switch between overscan or underscan to fit the display screen": "디스플레이 화면에 맞게 오버스캔 또는 언더스캔 간을 전환",
     "Under": "언더"
   },
   "muxinfo": {
@@ -130,8 +130,8 @@
     "View all of the current muOS supporters": "감사 인사와 현재 muOS 지원자를 모두 확인함"
   },
   "muxlanguage": {
-    "LANGUAGE": "LANGUAGE",
-    "No Languages Found…": "No Languages Found…",
+    "LANGUAGE": "언어",
+    "No Languages Found…": "언어 설정 없음…",
     "Saving Language": "언어 저장중",
     "Select your preferred language": "선호하는 언어를 선택"
   },
@@ -159,7 +159,7 @@
   "muxnetprofile": {
     "Invalid Network Settings": "잘못된 네트워크 설정",
     "Invalid SSID": "잘못된 SSID",
-    "Loading Network Profiles…": "Loading Network Profiles…",
+    "Loading Network Profiles…": "네트워크 프로필 로드중…",
     "NETWORK PROFILE": "네트워크 프로필",
     "No Saved Network Profiles Found": "저장된 네트워크 프로필을 찾을 수 없음",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "당신의 위치나 네트워크 선호에 따라 다른 Wi-Fi 구성을 빠르게 전환 가능"
@@ -168,10 +168,10 @@
     "Detect, display and connect to available Wi-Fi networks": "사용 가능한 Wi-Fi 네트워크를 감지, 표시 및 연결",
     "NETWORK SCAN": "네트워크 스캔",
     "No Wi-Fi Networks Found": "Wi-Fi 네트워크를 찾을 수 없음",
-    "Scanning for Wi-Fi Networks…": "Scanning for Wi-Fi Networks…"
+    "Scanning for Wi-Fi Networks…": "Wi-Fi 네트워크 스캔 중…"
   },
   "muxnetwork": {
-    "Cannot modify while connected": "Cannot modify while connected",
+    "Cannot modify while connected": "연결된 상태에서는 변경이 불가",
     "Changes Saved": "변경 저장됨",
     "Connect": "연결",
     "Connect to the network using options entered above": "위에서 입력한 옵션으로 네트워크에 연결함",
@@ -180,7 +180,7 @@
     "DNS Server": "DNS 서버",
     "Device IP": "장치 IP",
     "Disconnect": "연결 해제",
-    "Encrypting Password…": "Encrypting Password…",
+    "Encrypting Password…": "비밀번호 암호화중…",
     "Enter the device IP address here (Static only)": "여기에 장치 IP 주소를 입력 (Static 전용)",
     "Enter the device Subnet (CIDR) number here (Static only)": "여기에 장치 서브넷(CIDR) 번호를 입력하세요 (Static 전용)",
     "Enter the network gateway address here (Static only)": "여기에 네트워크 게이트웨이 주소를 입력 (Static 전용)",
@@ -192,7 +192,7 @@
     "Network Active": "네트워크 활성화",
     "Network Disabled": "네트워크 비활성화",
     "Network Type": "네트워크 유형",
-    "No Password Detected…": "No Password Detected…",
+    "No Password Detected…": "비밀번호가 없음…",
     "Not Connected": "연결되지 않음",
     "Password": "비밀번호",
     "Please check network settings": "네트워크 설정을 확인하세요",
@@ -203,16 +203,16 @@
     "Toggle between DHCP and Static network types": "DHCP와 Static 네트워크 유형 간 전환",
     "Toggle the Wi-Fi network on and off": "Wi-Fi 네트워크를 켜고 끕니다",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "숨겨진 SSID 브로드캐스트에 연결을 시도할지 여부를 토글",
-    "Trying to Connect…": "Trying to Connect…",
+    "Trying to Connect…": "연결 시도중…",
     "WI-FI NETWORK": "WI-FI 네트워크"
   },
   "muxoption": {
     "Assign Core": "코어 할당",
     "CONTENT OPTION": "콘텐츠 옵션",
-    "Current": "Current",
-    "Directory": "Directory",
-    "Individual": "Individual",
-    "Name": "Name",
+    "Current": "현재",
+    "Directory": "폴더",
+    "Individual": "파일",
+    "Name": "파일명",
     "Search Content": "콘텐츠 검색",
     "Search for content within the selected directory": "선택한 폴더 내의 콘텐츠 검색",
     "Set the CPU governor for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 CPU 거버너를 설정",
@@ -244,7 +244,7 @@
     "Favourite": "즐겨찾기",
     "HISTORY": "최근 실행",
     "Info": "상세",
-    "Loading…": "Loading…",
+    "Loading…": "로드 중…",
     "No Information Found": "정보가 없음",
     "Refresh": "새로고침",
     "Removed from Favourites": "즐겨찾기에서 제거됨"
@@ -269,7 +269,7 @@
     "POWER SETTINGS": "전원 설정",
     "Sleep 10m + Shutdown": "슬립 10분 이후 시스템 종료",
     "Sleep 10s + Shutdown": "슬립 10초 이후 시스템 종료",
-    "Sleep 15m + Shutdown": "Sleep 15m + Shutdown",
+    "Sleep 15m + Shutdown": "슬립 15분 이후 시스템 종료",
     "Sleep 2m + Shutdown": "슬립 2분 이후 시스템 종료",
     "Sleep 30m + Shutdown": "슬립 30분 이후 시스템 종료",
     "Sleep 30s + Shutdown": "슬립 30초 이후 시스템 종료",
@@ -301,7 +301,7 @@
     "Search Local": "로컬 검색",
     "Search all current active storage devices": "현재 활성화된 모든 저장소 검색",
     "Search within the current selected folder and folders within": "현재 선택된 폴더 및 그 안에 있는 폴더 내에서 검색",
-    "Searching…": "Searching…"
+    "Searching…": "탐색 중…"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "할당된 코어/거버너 시스템",
@@ -352,7 +352,7 @@
     "Linux Kernel": "리눅스 커널",
     "Running Services": "실행중인 서비스",
     "SYSTEM DETAILS": "시스템 상세정보",
-    "System Memory": "System Memory",
+    "System Memory": "시스템 메모리",
     "System Uptime": "시스템 업타임",
     "Temperature": "온도",
     "The current CPU frequency of the device": "현재 장치의 CPU 주파수",
@@ -379,7 +379,7 @@
     "Press any button to start input testing!": "인풋 테스트를 시작하려면 아무 버튼이나 누르세요!"
   },
   "muxtimezone": {
-    "No Timezones Found…": "No Timezones Found…",
+    "No Timezones Found…": "타임존 발견되지 않음…",
     "Saving Timezone": "타임존 저장중",
     "Select your preferred timezone": "선호하는 타임존을 선택",
     "TIMEZONE": "타임존"
@@ -539,28 +539,28 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "SFTP 지원 토글 - 웹UI는 포트 9090 에서 찾음",
     "Toggle SSH support - Access via port 22": "SSH 지원 토글 - 포트 22 로 액세스",
     "Toggle Syncthing - WebUI can be found on port 7070": "싱크띵 토글 - 웹UI는 포트 7070 에서 찾음",
-    "Toggle Tailscale - Need to login via SSH first to configure it": "Toggle Tailscale - Need to login via SSH first to configure it",
+    "Toggle Tailscale - Need to login via SSH first to configure it": "테일스케일 토글 - SSH 로그인이 우선적으로 필요",
     "Toggle network time protocol for active network connections": "원활한 네트워크 연결을 위한 네트워크 시간 프로토콜 토글",
     "Toggle virtual terminal - WebUI can be found on port 8080": "버추얼 터미널 토글 - 웹UI는 포트 8080 에서 찾음",
     "Virtual Terminal": "버추얼 터미널",
     "WEB SERVICES": "웹 서비스"
   },
   "system": {
-    "Failed read command output": "Failed read command output",
-    "Failed to allocate memory": "Failed to allocate memory",
-    "Failed to close command stream": "Failed to close command stream",
-    "Failed to create file": "Failed to create file",
-    "Failed to delete file": "Failed to delete file",
-    "Failed to duplicate string": "Failed to duplicate string",
-    "Failed to fork": "Failed to fork",
-    "Failed to open /proc/partitions": "Failed to open /proc/partitions",
-    "Failed to open alternative joystick device": "Failed to open alternative joystick device",
-    "Failed to open directory": "Failed to open directory",
-    "Failed to open file": "Failed to open file",
-    "Failed to open file for reading": "Failed to open file for reading",
-    "Failed to open file for writing": "Failed to open file for writing",
-    "Failed to open joystick device": "Failed to open joystick device",
-    "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
-    "Failed to run command": "Failed to run command"
+    "Failed read command output": "명령 출력 읽기 실패함",
+    "Failed to allocate memory": "메모리 할당 실패함",
+    "Failed to close command stream": "명령 스트림 닫기 실패함",
+    "Failed to create file": "파일 생성 실패함",
+    "Failed to delete file": "파일 삭제 실패함",
+    "Failed to duplicate string": "문자열 복제 실패함",
+    "Failed to fork": "포크 실패함",
+    "Failed to open /proc/partitions": "/proc/partitions 열기 실패함",
+    "Failed to open alternative joystick device": "대체 조이스틱 장치 열기 실패함",
+    "Failed to open directory": "폴더 열기 실패함",
+    "Failed to open file": "파일 열기 실패함",
+    "Failed to open file for reading": "읽기 위해 파일 열기 실패함",
+    "Failed to open file for writing": "쓰기 위해 파일 열기 실패함",
+    "Failed to open joystick device": "조이스틱 장치 열기 실패함",
+    "Failed to retrieve file or directory status": "파일 또는 디렉터리 상태 조회 실패함",
+    "Failed to run command": "명령 실행 실패함"
   }
 }
