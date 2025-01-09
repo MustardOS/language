@@ -1,7 +1,10 @@
 {
   "generic": {
+    "Add": "Add",
+    "Added to Collection": "Added to Collection",
     "Back": "वापस जाएँ",
     "Clear": "Clear",
+    "Collect": "Collect",
     "Directory": "डायरेक्टरी",
     "Disabled": "अक्षम है",
     "Enabled": "योग्य है",
@@ -10,13 +13,17 @@
     "Info": "जानकारी",
     "Launch": "शुरू करना",
     "Load": "लोड",
+    "Loading…": "Loading…",
     "Migrate to SD2": "SD2 पे ले जाएं",
+    "New": "New",
     "No Help Information Found": "No Help Information Found",
+    "No Information Found": "No Information Found",
     "Open": "खोलो",
     "Previous": "पिछला",
     "Recursive": "पुनरावर्ती",
     "Remove": "हटाना",
     "Rescan": "Rescan",
+    "Restore": "Restore",
     "Save": "इकट्ठा",
     "Select": "चुनना",
     "Switch to Information": "Switch to Information",
@@ -60,6 +67,13 @@
     "Capacity": "क्षमता",
     "Press POWER button to continue booting…": "Press POWER button to continue booting…",
     "Voltage": "वोल्टेज"
+  },
+  "muxcollect": {
+    "COLLECTIONS": "COLLECTIONS",
+    "Collection folder is not empty": "Collection folder is not empty",
+    "Error loading content file": "Error loading content file",
+    "Error removing from Collections": "Error removing from Collections",
+    "Nothing Saved Yet…": "Nothing Saved Yet…"
   },
   "muxconfig": {
     "CONFIGURATION": "विन्यास",
@@ -117,6 +131,13 @@
     "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
     "Under": "Under"
   },
+  "muxhistory": {
+    "Error loading content file": "Error loading content file",
+    "Error removing from History": "Error removing from History",
+    "HISTORY": "HISTORY",
+    "Nothing Played Yet…": "Nothing Played Yet…",
+    "Removed from History": "Removed from History"
+  },
   "muxinfo": {
     "Access statistics of played content and other activity": "Access statistics of played content and other activity",
     "Access version information and system details": "Access version information and system details",
@@ -136,7 +157,9 @@
   },
   "muxlaunch": {
     "Applications": "एप्लिकेशन",
+    "Collection": "Collection",
     "Configuration": "जानकारी",
+    "Content added to collections can be found and launched here": "Content added to collections can be found and launched here",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Content on storage devices (SD1/SD2/USB) can be found and launched here",
     "Content previously launched can be found and launched here": "Content previously launched can be found and launched here",
     "Explore Content": "सामग्री का अन्वेषण करें",
@@ -231,8 +254,13 @@
     "There are no attributed credits!": "There are no attributed credits!"
   },
   "muxplore": {
+    "Content is not associated with system or core": "Content is not associated with system or core",
+    "Could not load content": "Could not load content",
     "EXPLORE": "एक्सप्लोर",
-    "Refresh": "रिफ्रेश"
+    "Folders cannot be added to collections": "Folders cannot be added to collections",
+    "No Content Found…": "No Content Found…",
+    "Refresh": "रिफ्रेश",
+    "Refreshing…": "Refreshing…"
   },
   "muxpower": {
     "10m": "10m",
@@ -288,10 +316,16 @@
     "Search within the current selected folder and folders within": "Search within the current selected folder and folders within",
     "Searching…": "Searching…"
   },
+  "muxsnapshot": {
+    "No Save Snapshots Found": "No Save Snapshots Found",
+    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
+    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
+  },
   "muxstorage": {
     "Assigned Core/Governor System": "Assigned Core/Governor System",
     "Background Music": "पृष्ठभूमि संगीत",
     "Catalogue Packages": "Catalogue Packages",
+    "Content Collection": "Content Collection",
     "Friendly Name System": "Friendly Name System",
     "History": "History",
     "Languages": "भाषाएँ",
@@ -304,6 +338,7 @@
     "Location of assigned core and governor configurations": "Location of assigned core and governor configurations",
     "Location of background music": "Location of background music",
     "Location of catalogue packages": "Location of catalogue packages",
+    "Location of content collection": "Location of content collection",
     "Location of content images and text": "Location of content images and text",
     "Location of friendly name configurations": "Location of friendly name configurations",
     "Location of history": "Location of history",
@@ -432,6 +467,7 @@
     "Change the colour temperature of the display if the device supports it": "Change the colour temperature of the display if the device supports it",
     "Change where the device will start up into": "Change where the device will start up into",
     "Colour Temperature": "रंग तापमान",
+    "Content Collection": "Content Collection",
     "Content Explorer": "सामग्री एक्सप्लोरर",
     "Device Startup": "डिवाइस स्टार्टअप",
     "GENERAL SETTINGS": "सामान्य सेटिंग्स",
@@ -543,6 +579,7 @@
     "Failed to open file for writing": "Failed to open file for writing",
     "Failed to open joystick device": "Failed to open joystick device",
     "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
-    "Failed to run command": "Failed to run command"
+    "Failed to run command": "Failed to run command",
+    "Failed to use int16 - out of range": "Failed to use int16 - out of range"
   }
 }
