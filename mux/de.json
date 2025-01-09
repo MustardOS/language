@@ -1,7 +1,10 @@
 {
   "generic": {
+    "Add": "Add",
+    "Added to Collection": "Added to Collection",
     "Back": "Zurück",
     "Clear": "Leeren",
+    "Collect": "Collect",
     "Directory": "Verzeichnis",
     "Disabled": "Deaktiviert",
     "Enabled": "Aktiviert",
@@ -10,13 +13,17 @@
     "Info": "Infos",
     "Launch": "Starten",
     "Load": "Laden",
+    "Loading…": "Loading…",
     "Migrate to SD2": "Migration auf SD2",
+    "New": "New",
     "No Help Information Found": "Keine Hilfe-Information gefunden",
+    "No Information Found": "No Information Found",
     "Open": "Öffnen",
     "Previous": "Bisherige",
     "Recursive": "Rekursiv",
     "Remove": "Entfernen",
     "Rescan": "Suche wiederholen",
+    "Restore": "Restore",
     "Save": "Speichern",
     "Select": "Auswählen",
     "Switch to Information": "Zur Information wechseln",
@@ -60,6 +67,13 @@
     "Capacity": "Kapazität",
     "Press POWER button to continue booting…": "POWER-Taste drücken, um mit dem Start-Prozess fortzufahren…",
     "Voltage": "Spannung"
+  },
+  "muxcollect": {
+    "COLLECTIONS": "COLLECTIONS",
+    "Collection folder is not empty": "Collection folder is not empty",
+    "Error loading content file": "Error loading content file",
+    "Error removing from Collections": "Error removing from Collections",
+    "Nothing Saved Yet…": "Nothing Saved Yet…"
   },
   "muxconfig": {
     "CONFIGURATION": "KONFIGURATION",
@@ -117,6 +131,13 @@
     "Switch between overscan or underscan to fit the display screen": "Zwischen Overscan und Underscan zur Anpassung an den Bildschirm umschalten",
     "Under": "Unter"
   },
+  "muxhistory": {
+    "Error loading content file": "Error loading content file",
+    "Error removing from History": "Error removing from History",
+    "HISTORY": "HISTORY",
+    "Nothing Played Yet…": "Nothing Played Yet…",
+    "Removed from History": "Removed from History"
+  },
   "muxinfo": {
     "Access statistics of played content and other activity": "Auf Statistiken über abgespielte Inhalte und andere Aktivitäten zugreifen",
     "Access version information and system details": "Versionsinformationen und Systemdetails einsehen",
@@ -136,7 +157,9 @@
   },
   "muxlaunch": {
     "Applications": "Programme",
+    "Collection": "Collection",
     "Configuration": "Konfiguration",
+    "Content added to collections can be found and launched here": "Content added to collections can be found and launched here",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Inhalte auf Speichermittel (SD1/SD2/USB) können hier gefunden und gestartet werden",
     "Content previously launched can be found and launched here": "Bereits aufgerufene Inhalte können hier gefunden und gestartet werden",
     "Explore Content": "Inhalt durchsuchen",
@@ -231,8 +254,13 @@
     "There are no attributed credits!": "Es gibt keine zugeschriebenen Anerkennungen!"
   },
   "muxplore": {
+    "Content is not associated with system or core": "Content is not associated with system or core",
+    "Could not load content": "Could not load content",
     "EXPLORE": "DURCHSUCHEN",
-    "Refresh": "Aktualisieren"
+    "Folders cannot be added to collections": "Folders cannot be added to collections",
+    "No Content Found…": "No Content Found…",
+    "Refresh": "Aktualisieren",
+    "Refreshing…": "Refreshing…"
   },
   "muxpower": {
     "10m": "10m",
@@ -288,10 +316,16 @@
     "Search within the current selected folder and folders within": "Im aktuell ausgewählten Ordner und Unter-Ordnern suchen",
     "Searching…": "Sucht…"
   },
+  "muxsnapshot": {
+    "No Save Snapshots Found": "No Save Snapshots Found",
+    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
+    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
+  },
   "muxstorage": {
     "Assigned Core/Governor System": "Zugewiesener System Kern/Governor",
     "Background Music": "Hintergrundmusik",
     "Catalogue Packages": "Katalogpakete",
+    "Content Collection": "Content Collection",
     "Friendly Name System": "System für FriendlyName",
     "History": "Historie",
     "Languages": "Sprachen",
@@ -304,6 +338,7 @@
     "Location of assigned core and governor configurations": "Speicherort der zugewiesenen Kern und Governer Konfigurationen",
     "Location of background music": "Speicherort der Hintergrundmusik",
     "Location of catalogue packages": "Speicherort der Katalogpakete",
+    "Location of content collection": "Location of content collection",
     "Location of content images and text": "Speicherort der Bilder und Texte des Content",
     "Location of friendly name configurations": "Speicherort der FriendlyName Konfigurationen",
     "Location of history": "Speicherort der Historie",
@@ -432,6 +467,7 @@
     "Change the colour temperature of the display if the device supports it": "Die Farbtemperatur des Displays anpassen, wenn das Gerät dies unterstützt",
     "Change where the device will start up into": "Definieren, was nach dem Gerätestart passieren soll",
     "Colour Temperature": "Farbtemperatur",
+    "Content Collection": "Content Collection",
     "Content Explorer": "Inhalt durchsuchen",
     "Device Startup": "Gerätestart",
     "GENERAL SETTINGS": "ALLGEMEINE EINSTELLUNGEN",
@@ -543,6 +579,7 @@
     "Failed to open file for writing": "Datei konnte nicht zum Schreiben geöffnet werden",
     "Failed to open joystick device": "Der Controller konnte nicht erreicht werden",
     "Failed to retrieve file or directory status": "Datei- oder Verzeichnisstatus konnte nicht abgerufen werden",
-    "Failed to run command": "Befehl konnte nicht ausgeführt werden"
+    "Failed to run command": "Befehl konnte nicht ausgeführt werden",
+    "Failed to use int16 - out of range": "Failed to use int16 - out of range"
   }
 }
