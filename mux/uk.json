@@ -1,7 +1,10 @@
 {
   "generic": {
+    "Add": "Add",
+    "Added to Collection": "Added to Collection",
     "Back": "Повернутись",
     "Clear": "Очистити",
+    "Collect": "Collect",
     "Directory": "Директорія",
     "Disabled": "Вимкнено",
     "Enabled": "Увімкнено",
@@ -10,13 +13,17 @@
     "Info": "Інформація",
     "Launch": "Запустити",
     "Load": "Завантажити",
+    "Loading…": "Loading…",
     "Migrate to SD2": "Мігрувати на SD2",
+    "New": "New",
     "No Help Information Found": "Довідкової Інформації Не Знайдено",
+    "No Information Found": "No Information Found",
     "Open": "Відкрити",
     "Previous": "Встановлена",
     "Recursive": "Повторюваний",
     "Remove": "Видалити",
     "Rescan": "Пересканувати",
+    "Restore": "Restore",
     "Save": "Зберегти",
     "Select": "Вибрати",
     "Switch to Information": "Перейти до інформації",
@@ -60,6 +67,13 @@
     "Capacity": "Ємність",
     "Press POWER button to continue booting…": "Press POWER button to continue booting…",
     "Voltage": "Напруга"
+  },
+  "muxcollect": {
+    "COLLECTIONS": "COLLECTIONS",
+    "Collection folder is not empty": "Collection folder is not empty",
+    "Error loading content file": "Error loading content file",
+    "Error removing from Collections": "Error removing from Collections",
+    "Nothing Saved Yet…": "Nothing Saved Yet…"
   },
   "muxconfig": {
     "CONFIGURATION": "КОНФІГУРАЦІЯ",
@@ -117,6 +131,13 @@
     "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
     "Under": "Under"
   },
+  "muxhistory": {
+    "Error loading content file": "Error loading content file",
+    "Error removing from History": "Error removing from History",
+    "HISTORY": "HISTORY",
+    "Nothing Played Yet…": "Nothing Played Yet…",
+    "Removed from History": "Removed from History"
+  },
   "muxinfo": {
     "Access statistics of played content and other activity": "Доступ до статистики ігор та інших активностей",
     "Access version information and system details": "Доступ до інформації про версію та даних про систему",
@@ -136,7 +157,9 @@
   },
   "muxlaunch": {
     "Applications": "Додатки",
+    "Collection": "Collection",
     "Configuration": "Налаштування",
+    "Content added to collections can be found and launched here": "Content added to collections can be found and launched here",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Тут можна знайти та запустити контент з пристроїв пам'яті (SD1/SD2/USB)",
     "Content previously launched can be found and launched here": "Тут можна знайти контент, який раніше запускався",
     "Explore Content": "Переглянути Вміст",
@@ -231,8 +254,13 @@
     "There are no attributed credits!": "There are no attributed credits!"
   },
   "muxplore": {
+    "Content is not associated with system or core": "Content is not associated with system or core",
+    "Could not load content": "Could not load content",
     "EXPLORE": "ПЕРЕГЛЯНУТИ",
-    "Refresh": "Оновити"
+    "Folders cannot be added to collections": "Folders cannot be added to collections",
+    "No Content Found…": "No Content Found…",
+    "Refresh": "Оновити",
+    "Refreshing…": "Refreshing…"
   },
   "muxpower": {
     "10m": "10хв",
@@ -288,10 +316,16 @@
     "Search within the current selected folder and folders within": "Шукати у поточній вибраній папці та у вкладених",
     "Searching…": "Searching…"
   },
+  "muxsnapshot": {
+    "No Save Snapshots Found": "No Save Snapshots Found",
+    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
+    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
+  },
   "muxstorage": {
     "Assigned Core/Governor System": "Призначене ядро/Системний Менеджер",
     "Background Music": "Фонова Музика",
     "Catalogue Packages": "Catalogue Packages",
+    "Content Collection": "Content Collection",
     "Friendly Name System": "Система Дружніх Імен",
     "History": "Історія",
     "Languages": "Мови",
@@ -304,6 +338,7 @@
     "Location of assigned core and governor configurations": "Розташування конфігурації призначеного ядра та менеджера",
     "Location of background music": "Розташування фонової музики",
     "Location of catalogue packages": "Location of catalogue packages",
+    "Location of content collection": "Location of content collection",
     "Location of content images and text": "Розташування контентних зображень та тексту",
     "Location of friendly name configurations": "Розташування конфігурації дружніх імен",
     "Location of history": "Розташування історії",
@@ -432,6 +467,7 @@
     "Change the colour temperature of the display if the device supports it": "Встановити колірну температуру дисплею, якщо пристрій її підтримує",
     "Change where the device will start up into": "Встановити початкове меню при запуску пристрою",
     "Colour Temperature": "Колірна Температура",
+    "Content Collection": "Content Collection",
     "Content Explorer": "Перегляд Контенту",
     "Device Startup": "Запуск Пристрою",
     "GENERAL SETTINGS": "ЗАГАЛЬНІ НАЛАШТУВАННЯ",
@@ -543,6 +579,7 @@
     "Failed to open file for writing": "Failed to open file for writing",
     "Failed to open joystick device": "Failed to open joystick device",
     "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
-    "Failed to run command": "Failed to run command"
+    "Failed to run command": "Failed to run command",
+    "Failed to use int16 - out of range": "Failed to use int16 - out of range"
   }
 }
