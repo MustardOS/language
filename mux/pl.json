@@ -1,10 +1,10 @@
 {
   "generic": {
-    "Add": "Add",
-    "Added to Collection": "Added to Collection",
+    "Add": "Dodaj",
+    "Added to Collection": "Dodano do kolekcji",
     "Back": "Wróć",
     "Clear": "Wyczyść",
-    "Collect": "Collect",
+    "Collect": "Zbierz",
     "Directory": "Katalog",
     "Disabled": "Wyłączony",
     "Enabled": "Włączony",
@@ -13,17 +13,17 @@
     "Info": "Informacje",
     "Launch": "Uruchom",
     "Load": "Wczytaj",
-    "Loading…": "Loading…",
+    "Loading…": "Wczytywanie…",
     "Migrate to SD2": "Migruj do SD2",
-    "New": "New",
+    "New": "Nowy",
     "No Help Information Found": "Nie znaleziono informacji pomocy",
-    "No Information Found": "No Information Found",
+    "No Information Found": "Nie znaleziono informacji",
     "Open": "Otwórz",
     "Previous": "Poprzedni",
     "Recursive": "Rekursywny",
     "Remove": "Usuń",
     "Rescan": "Skanuj ponownie",
-    "Restore": "Restore",
+    "Restore": "Przywróć",
     "Save": "Zapisz",
     "Select": "Wybierz",
     "Switch to Information": "Zmień na informacje",
@@ -69,11 +69,11 @@
     "Voltage": "Napięcie"
   },
   "muxcollect": {
-    "COLLECTIONS": "COLLECTIONS",
-    "Collection folder is not empty": "Collection folder is not empty",
-    "Error loading content file": "Error loading content file",
-    "Error removing from Collections": "Error removing from Collections",
-    "Nothing Saved Yet…": "Nothing Saved Yet…"
+    "COLLECTIONS": "KOLEKCJE",
+    "Collection folder is not empty": "Folder kolekcji nie jest pusty",
+    "Error loading content file": "Błąd podczas ładowania pliku zawartości",
+    "Error removing from Collections": "Błąd przy usuwaniu z kolekcji",
+    "Nothing Saved Yet…": "Niczego jeszcze nie zapisano…"
   },
   "muxconfig": {
     "CONFIGURATION": "KONFIGURACJA",
@@ -132,11 +132,11 @@
     "Under": "Niedoskanowanie"
   },
   "muxhistory": {
-    "Error loading content file": "Error loading content file",
-    "Error removing from History": "Error removing from History",
-    "HISTORY": "HISTORY",
-    "Nothing Played Yet…": "Nothing Played Yet…",
-    "Removed from History": "Removed from History"
+    "Error loading content file": "Błąd podczas ładowania pliku zawartości",
+    "Error removing from History": "Błąd podczas usuwania z historii",
+    "HISTORY": "HISTORIA",
+    "Nothing Played Yet…": "W nic jeszcze nie grano…",
+    "Removed from History": "Usunięto z historii"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Zobacz statystyki zawartości i innych aktywności",
@@ -157,9 +157,9 @@
   },
   "muxlaunch": {
     "Applications": "Aplikacje",
-    "Collection": "Collection",
+    "Collection": "Kolekcja",
     "Configuration": "Konfiguracja",
-    "Content added to collections can be found and launched here": "Content added to collections can be found and launched here",
+    "Content added to collections can be found and launched here": "Można tu znaleźć i uruchomić zawartość dodaną do kolekcji",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Można tutaj znaleźć i uruchomić zawartość na urządzeniach pamięci masowej (SD1/SD2/USB)",
     "Content previously launched can be found and launched here": "Można tutaj znaleźć i uruchomić poprzednio włączaną zawartość",
     "Explore Content": "Przeglądaj zawartość",
@@ -254,13 +254,13 @@
     "There are no attributed credits!": "Nie przypisano autora!"
   },
   "muxplore": {
-    "Content is not associated with system or core": "Content is not associated with system or core",
-    "Could not load content": "Could not load content",
+    "Content is not associated with system or core": "Zawartość nie ma przypisanego systemu lub rdzenia",
+    "Could not load content": "Nie można załadować zawartości",
     "EXPLORE": "PRZEGLĄDAJ",
-    "Folders cannot be added to collections": "Folders cannot be added to collections",
-    "No Content Found…": "No Content Found…",
+    "Folders cannot be added to collections": "Nie można dodać folderów do kolekcji",
+    "No Content Found…": "Nie znaleziono zawartości…",
     "Refresh": "Odśwież",
-    "Refreshing…": "Refreshing…"
+    "Refreshing…": "Odświeżanie…"
   },
   "muxpower": {
     "10m": "10m",
@@ -317,15 +317,15 @@
     "Searching…": "Wyszukiwanie…"
   },
   "muxsnapshot": {
-    "No Save Snapshots Found": "No Save Snapshots Found",
-    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
-    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
+    "No Save Snapshots Found": "Nie znaleziono zrzutów zapisów",
+    "Restore your saved game progress from a previous snapshot": "Przywróć swój zapisany postęp w grze przy pomocy ostatniego zrzutu",
+    "SAVE SNAPSHOT": "ZAPISZ ZRZUT"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Przypisany rdzeń/system regulatora",
     "Background Music": "Muzyka w tle",
     "Catalogue Packages": "Paczki katalogu okładek",
-    "Content Collection": "Content Collection",
+    "Content Collection": "Kolekcja zawartości",
     "Friendly Name System": "System przyjaznych nazw",
     "History": "Historia",
     "Languages": "Języki",
@@ -338,7 +338,7 @@
     "Location of assigned core and governor configurations": "Lokalizacja konfiguracji przypisanych rdzeni oraz regulatorów",
     "Location of background music": "Lokalizacja muzyki w tle",
     "Location of catalogue packages": "Lokalizacja paczek katalogu okładek",
-    "Location of content collection": "Location of content collection",
+    "Location of content collection": "Lokalizacja kolekcji zawartości",
     "Location of content images and text": "Lokalizacja obrazów i tekstów zawartości",
     "Location of friendly name configurations": "Lokalizacja konfiguracji przyjaznych nazw",
     "Location of history": "Lokalizacja historii",
@@ -467,7 +467,7 @@
     "Change the colour temperature of the display if the device supports it": "Zmień temperaturę kolorów ekranu, jeśli urządzenie ją wspiera",
     "Change where the device will start up into": "Zmień, co pokazać po uruchomieniu urządzenia",
     "Colour Temperature": "Temperatura kolorów",
-    "Content Collection": "Content Collection",
+    "Content Collection": "Kolekcja zawartości",
     "Content Explorer": "Przeglądanie zawartości",
     "Device Startup": "Uruchomienie urządzenia",
     "GENERAL SETTINGS": "USTAWIENIA OGÓLNE",
@@ -580,6 +580,6 @@
     "Failed to open joystick device": "Nie można otworzyć urządzenia joystick",
     "Failed to retrieve file or directory status": "Nie można otrzymać statusu pliku lub folderu",
     "Failed to run command": "Nie można uruchomić komendy",
-    "Failed to use int16 - out of range": "Failed to use int16 - out of range"
+    "Failed to use int16 - out of range": "Nie można użyć int16 - poza skalą"
   }
 }
