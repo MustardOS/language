@@ -1,10 +1,10 @@
 {
   "generic": {
-    "Add": "Add",
-    "Added to Collection": "Added to Collection",
+    "Add": "Cuir",
+    "Added to Collection": "Curtha leis an gCnuasach",
     "Back": "Ar ais",
     "Clear": "Glan",
-    "Collect": "Collect",
+    "Collect": "Bailigh",
     "Directory": "Comhadlann",
     "Disabled": "Díchumasaithe",
     "Enabled": "Cumasaithe",
@@ -13,17 +13,17 @@
     "Info": "Eolas",
     "Launch": "Seoladh",
     "Load": "Luchtaigh",
-    "Loading…": "Loading…",
+    "Loading…": "Á lódáil…",
     "Migrate to SD2": "Imirce go SD2",
-    "New": "New",
+    "New": "Nua",
     "No Help Information Found": "Níor aimsíodh aon eolas cabhrach",
-    "No Information Found": "No Information Found",
+    "No Information Found": "Níor aimsíodh aon fhaisnéis",
     "Open": "Oscail",
     "Previous": "Roimhe Seo",
     "Recursive": "Athchúrsach",
     "Remove": "Bain",
     "Rescan": "Athscanadh",
-    "Restore": "Restore",
+    "Restore": "Athchóirigh",
     "Save": "Sábháil",
     "Select": "Roghnaigh",
     "Switch to Information": "Athraigh go Faisnéis",
@@ -69,11 +69,11 @@
     "Voltage": "Voltas"
   },
   "muxcollect": {
-    "COLLECTIONS": "COLLECTIONS",
-    "Collection folder is not empty": "Collection folder is not empty",
-    "Error loading content file": "Error loading content file",
-    "Error removing from Collections": "Error removing from Collections",
-    "Nothing Saved Yet…": "Nothing Saved Yet…"
+    "COLLECTIONS": "BAILIÚCHÁIN",
+    "Collection folder is not empty": "Níl an fillteán bailiúcháin folamh",
+    "Error loading content file": "Earráid agus an comhad ábhair á lódáil",
+    "Error removing from Collections": "Earráid agus é á bhaint de na Bailiúcháin",
+    "Nothing Saved Yet…": "Níl aon rud sábháilte fós…"
   },
   "muxconfig": {
     "CONFIGURATION": "CUMRAÍOCHT",
@@ -107,7 +107,7 @@
     "No Governors Found…": "Níor aimsíodh aon Ghobharnóir…"
   },
   "muxhdmi": {
-    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
+    "Allows for testing different theme resolutions": "Ceadaíonn sé réitigh téamaí éagsúla a thástáil",
     "Audio Output": "Aschur Fuaime",
     "Cannot modify while HDMI is active": "Ní féidir a mhodhnú agus HDMI gníomhach",
     "Colour Depth": "Doimhneacht Dath",
@@ -124,22 +124,22 @@
     "Over": "Thar",
     "Resolution": "Rún",
     "Scan Scaling": "Scanadh Scálú",
-    "Screen": "Screen",
+    "Screen": "Scáileán",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Roghnaigh an taifeach le haghaidh aschur HDMI, mar shampla 720p nó 1080p",
     "Set the color depth, such as 8-bit or 10-bit": "Socraigh an doimhneacht dath, mar shampla 8-giotán nó 10-giotán",
     "Set the color range of RGB colour space": "Socraigh an raon dath de spás dath RGB",
     "Set the color space, such as RGB or YUV": "Socraigh an spás datha, mar shampla RGB nó YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Athraigh idir callaire gléis nó fuaim mhonatóra sheachtraigh trí nasc HDMI",
     "Switch between overscan or underscan to fit the display screen": "Athraigh idir overscan nó underscan a d'oirfeadh an scáileán taispeána",
-    "Theme Resolution": "Theme Resolution",
+    "Theme Resolution": "Taifeach Téama",
     "Under": "Faoi"
   },
   "muxhistory": {
-    "Error loading content file": "Error loading content file",
-    "Error removing from History": "Error removing from History",
-    "HISTORY": "HISTORY",
-    "Nothing Played Yet…": "Nothing Played Yet…",
-    "Removed from History": "Removed from History"
+    "Error loading content file": "Earráid agus an comhad ábhair á lódáil",
+    "Error removing from History": "Earráid agus é á bhaint den Stair",
+    "HISTORY": "STAIR",
+    "Nothing Played Yet…": "Níor imir aon rud go fóill…",
+    "Removed from History": "Bainte den Stair"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Rochtain a fháil ar staitisticí d'ábhar seinnte agus do ghníomhaíocht eile",
@@ -160,9 +160,9 @@
   },
   "muxlaunch": {
     "Applications": "Feidhmchláir",
-    "Collection": "Collection",
+    "Collection": "Bailiúchán",
     "Configuration": "Cumraíocht",
-    "Content added to collections can be found and launched here": "Content added to collections can be found and launched here",
+    "Content added to collections can be found and launched here": "Is féidir ábhar a chuirtear le bailiúcháin a fháil agus a sheoladh anseo",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Is féidir ábhar ar ghléasanna stórála (SD1 / SD2 / USB) a fháil agus a sheoladh anseo",
     "Content previously launched can be found and launched here": "Is féidir ábhar a seoladh roimhe seo a fháil agus a sheoladh anseo",
     "Explore Content": "Déan iniúchadh ar Ábhar",
@@ -257,13 +257,13 @@
     "There are no attributed credits!": "Níl aon creidmheasanna leithdháilte!"
   },
   "muxplore": {
-    "Content is not associated with system or core": "Content is not associated with system or core",
-    "Could not load content": "Could not load content",
+    "Content is not associated with system or core": "Ní bhaineann an t-ábhar le córas nó croí",
+    "Could not load content": "Níorbh fhéidir an t-ábhar a lódáil",
     "EXPLORE": "DÉAN INIÚCHADH",
-    "Folders cannot be added to collections": "Folders cannot be added to collections",
-    "No Content Found…": "No Content Found…",
+    "Folders cannot be added to collections": "Ní féidir fillteáin a chur le bailiúcháin",
+    "No Content Found…": "Níor aimsíodh aon ábhar…",
     "Refresh": "Athnuaigh",
-    "Refreshing…": "Refreshing…"
+    "Refreshing…": "Á athnuachan…"
   },
   "muxpower": {
     "10m": "10m",
@@ -320,15 +320,15 @@
     "Searching…": "Ag cuardach…"
   },
   "muxsnapshot": {
-    "No Save Snapshots Found": "No Save Snapshots Found",
-    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
-    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
+    "No Save Snapshots Found": "Níor aimsíodh aon Ghrianghraif Sábháil",
+    "Restore your saved game progress from a previous snapshot": "Athchóirigh do dhul chun cinn cluiche sábháilte ó ghrianghraf roimhe seo",
+    "SAVE SNAPSHOT": "SÁBHÁIL GAIRM"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Córas Croí/Gobharnóir Sannta",
     "Background Music": "Ceol Cúlra",
     "Catalogue Packages": "Pacáistí Catalóg",
-    "Content Collection": "Content Collection",
+    "Content Collection": "Bailiúchán Ábhar",
     "Friendly Name System": "Córas Ainmneacha Cairdiúla",
     "History": "Stair",
     "Languages": "Teangacha",
@@ -341,7 +341,7 @@
     "Location of assigned core and governor configurations": "Suíomh na bhfoirmíochtaí lárnacha agus gobharnóirí sannta",
     "Location of background music": "Suíomh an cheoil chúlra",
     "Location of catalogue packages": "Suíomh na bpacáistí catalóg",
-    "Location of content collection": "Location of content collection",
+    "Location of content collection": "Suíomh an bhailiúcháin ábhair",
     "Location of content images and text": "Suíomh na n-íomhánna ábhar agus an téacs",
     "Location of friendly name configurations": "Suíomh cumraíochtaí ainm cairdiúil",
     "Location of history": "Suíomh na staire",
@@ -470,7 +470,7 @@
     "Change the colour temperature of the display if the device supports it": "Athraigh teocht datha na taispeána má thacaíonn an gléas leis",
     "Change where the device will start up into": "Athraigh an áit a dtosóidh an gléas",
     "Colour Temperature": "Teocht datha",
-    "Content Collection": "Content Collection",
+    "Content Collection": "Bailiúchán Ábhar",
     "Content Explorer": "Taiscéalaí Inneachair",
     "Device Startup": "Tosaithe Gléis",
     "GENERAL SETTINGS": "SOCRUITHE GINEARÁLTA",
@@ -583,6 +583,6 @@
     "Failed to open joystick device": "Theip ar an ngléas luamhán stiúrtha a oscailt",
     "Failed to retrieve file or directory status": "Theip ar stádas comhaid nó eolaire a aisghabháil",
     "Failed to run command": "Theip ar an ordú a rith",
-    "Failed to use int16 - out of range": "Failed to use int16 - out of range"
+    "Failed to use int16 - out of range": "Theip ar úsáid int16 - as raon"
   }
 }
