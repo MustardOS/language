@@ -107,6 +107,7 @@
     "No Governors Found…": "Nebyl nalezen žádný regulator…"
   },
   "muxhdmi": {
+    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
     "Audio Output": "Zvukový výstup",
     "Cannot modify while HDMI is active": "Nelze upravit, pokud je aktivní HDMI",
     "Colour Depth": "Barevná hloubka",
@@ -123,12 +124,14 @@
     "Over": "Nad",
     "Resolution": "Rozlišení",
     "Scan Scaling": "Měřítko skenování",
+    "Screen": "Screen",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Vyberte rozlišení pro výstup HDMI, například 720p nebo 1080p",
     "Set the color depth, such as 8-bit or 10-bit": "Nastavte barevnou hloubku, například 8-bit nebo 10-bit",
     "Set the color range of RGB colour space": "Nastavte rozsah barev barevného prostoru RGB",
     "Set the color space, such as RGB or YUV": "Nastavte barevný prostor, například RGB nebo YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Přepínejte mezi reproduktorem zařízení nebo zvukem externího monitoru prostřednictvím připojení HDMI",
     "Switch between overscan or underscan to fit the display screen": "Přepínejte mezi přeskenováním a podskenováním, aby se přizpůsobilo obrazovce displeje",
+    "Theme Resolution": "Theme Resolution",
     "Under": "Pod"
   },
   "muxhistory": {
