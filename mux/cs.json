@@ -1,10 +1,10 @@
 {
   "generic": {
-    "Add": "Add",
-    "Added to Collection": "Added to Collection",
+    "Add": "Přidat",
+    "Added to Collection": "Přidáno do sbírky",
     "Back": "Zpět",
     "Clear": "Čistý",
-    "Collect": "Collect",
+    "Collect": "Sbírat",
     "Directory": "Adresář",
     "Disabled": "Zakázáno",
     "Enabled": "Povoleno",
@@ -13,17 +13,17 @@
     "Info": "Informace",
     "Launch": "Spustit",
     "Load": "Nahrát",
-    "Loading…": "Loading…",
+    "Loading…": "Načítání…",
     "Migrate to SD2": "Migrujte na SD2",
-    "New": "New",
+    "New": "Nový",
     "No Help Information Found": "Nebyly nalezeny žádné informace nápovědy",
-    "No Information Found": "No Information Found",
+    "No Information Found": "Nebyly nalezeny žádné informace",
     "Open": "Otevřít",
     "Previous": "Předchozí",
     "Recursive": "Rekurzivní",
     "Remove": "Odstranit",
     "Rescan": "Znovu proskenovat",
-    "Restore": "Restore",
+    "Restore": "Obnovit",
     "Save": "Uložit",
     "Select": "Vybrat",
     "Switch to Information": "Přepněte na Informace",
@@ -69,11 +69,11 @@
     "Voltage": "Napětí"
   },
   "muxcollect": {
-    "COLLECTIONS": "COLLECTIONS",
-    "Collection folder is not empty": "Collection folder is not empty",
-    "Error loading content file": "Error loading content file",
-    "Error removing from Collections": "Error removing from Collections",
-    "Nothing Saved Yet…": "Nothing Saved Yet…"
+    "COLLECTIONS": "SBÍRKY",
+    "Collection folder is not empty": "Složka kolekce není prázdná",
+    "Error loading content file": "Chyba při načítání souboru obsahu",
+    "Error removing from Collections": "Chyba při odebírání ze sbírek",
+    "Nothing Saved Yet…": "Zatím nic neuloženo…"
   },
   "muxconfig": {
     "CONFIGURATION": "KONFIGURACE",
@@ -107,6 +107,7 @@
     "No Governors Found…": "Nebyl nalezen žádný regulator…"
   },
   "muxhdmi": {
+    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
     "Audio Output": "Zvukový výstup",
     "Cannot modify while HDMI is active": "Nelze upravit, pokud je aktivní HDMI",
     "Colour Depth": "Barevná hloubka",
@@ -123,20 +124,22 @@
     "Over": "Nad",
     "Resolution": "Rozlišení",
     "Scan Scaling": "Měřítko skenování",
+    "Screen": "Screen",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Vyberte rozlišení pro výstup HDMI, například 720p nebo 1080p",
     "Set the color depth, such as 8-bit or 10-bit": "Nastavte barevnou hloubku, například 8-bit nebo 10-bit",
     "Set the color range of RGB colour space": "Nastavte rozsah barev barevného prostoru RGB",
     "Set the color space, such as RGB or YUV": "Nastavte barevný prostor, například RGB nebo YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Přepínejte mezi reproduktorem zařízení nebo zvukem externího monitoru prostřednictvím připojení HDMI",
     "Switch between overscan or underscan to fit the display screen": "Přepínejte mezi přeskenováním a podskenováním, aby se přizpůsobilo obrazovce displeje",
+    "Theme Resolution": "Theme Resolution",
     "Under": "Pod"
   },
   "muxhistory": {
-    "Error loading content file": "Error loading content file",
-    "Error removing from History": "Error removing from History",
-    "HISTORY": "HISTORY",
-    "Nothing Played Yet…": "Nothing Played Yet…",
-    "Removed from History": "Removed from History"
+    "Error loading content file": "Chyba při načítání souboru obsahu",
+    "Error removing from History": "Chyba při odebírání z historie",
+    "HISTORY": "HISTORIE",
+    "Nothing Played Yet…": "Zatím nic nehráno…",
+    "Removed from History": "Odebráno z historie"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Přístup ke statistikám přehrávaného obsahu a další aktivity",
@@ -157,9 +160,9 @@
   },
   "muxlaunch": {
     "Applications": "Aplikace",
-    "Collection": "Collection",
+    "Collection": "Sbírka",
     "Configuration": "Nastavení",
-    "Content added to collections can be found and launched here": "Content added to collections can be found and launched here",
+    "Content added to collections can be found and launched here": "Obsah přidaný do sbírek lze nalézt a spustit zde",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Obsah na úložných zařízeních (SD1/SD2/USB) lze nalézt a spustit zde",
     "Content previously launched can be found and launched here": "Dříve spuštěný obsah lze nalézt a spustit zde",
     "Explore Content": "Hry",
@@ -254,13 +257,13 @@
     "There are no attributed credits!": "Nejsou žádné přidělené kredity!"
   },
   "muxplore": {
-    "Content is not associated with system or core": "Content is not associated with system or core",
-    "Could not load content": "Could not load content",
+    "Content is not associated with system or core": "Obsah není spojen se systémem nebo jádrem",
+    "Could not load content": "Obsah se nepodařilo načíst",
     "EXPLORE": "PROZKOUMAT",
-    "Folders cannot be added to collections": "Folders cannot be added to collections",
-    "No Content Found…": "No Content Found…",
+    "Folders cannot be added to collections": "Složky nelze přidávat do sbírek",
+    "No Content Found…": "Nebyl nalezen žádný obsah…",
     "Refresh": "Obnovit",
-    "Refreshing…": "Refreshing…"
+    "Refreshing…": "Osvěžující…"
   },
   "muxpower": {
     "10m": "10m",
@@ -317,15 +320,15 @@
     "Searching…": "Vyhledávání…"
   },
   "muxsnapshot": {
-    "No Save Snapshots Found": "No Save Snapshots Found",
-    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
-    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
+    "No Save Snapshots Found": "Nebyly nalezeny žádné uložené snímky",
+    "Restore your saved game progress from a previous snapshot": "Obnovte svůj uložený postup ve hře z předchozího snímku",
+    "SAVE SNAPSHOT": "ULOŽIT SNÍMEK"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Přiřazené jádro/Regulátor systému",
     "Background Music": "Hudba na pozadí",
     "Catalogue Packages": "Katalogové balíčky",
-    "Content Collection": "Content Collection",
+    "Content Collection": "Sbírka obsahu",
     "Friendly Name System": "Přátelský systém jmen",
     "History": "Historie",
     "Languages": "Jazyky",
@@ -338,7 +341,7 @@
     "Location of assigned core and governor configurations": "Umístění přiřazených konfigurací jádra a regulátoru",
     "Location of background music": "Umístění hudby na pozadí",
     "Location of catalogue packages": "Umístění katalogových balíků",
-    "Location of content collection": "Location of content collection",
+    "Location of content collection": "Umístění sbírky obsahu",
     "Location of content images and text": "Umístění obrázků a textu obsahu",
     "Location of friendly name configurations": "Umístění konfigurací popisných názvů",
     "Location of history": "Umístění historie",
@@ -467,7 +470,7 @@
     "Change the colour temperature of the display if the device supports it": "Změňte teplotu barev displeje, pokud to zařízení podporuje",
     "Change where the device will start up into": "Změňte, kde se zařízení spustí",
     "Colour Temperature": "Teplota barev",
-    "Content Collection": "Content Collection",
+    "Content Collection": "Sbírka obsahu",
     "Content Explorer": "Průzkumník obsahu",
     "Device Startup": "Spuštění zařízení",
     "GENERAL SETTINGS": "HLAVNÍ NASTAVENÍ",
@@ -580,6 +583,6 @@
     "Failed to open joystick device": "Zařízení s joystickem se nepodařilo otevřít",
     "Failed to retrieve file or directory status": "Nepodařilo se načíst stav souboru nebo adresáře",
     "Failed to run command": "Spuštění příkazu se nezdařilo",
-    "Failed to use int16 - out of range": "Failed to use int16 - out of range"
+    "Failed to use int16 - out of range": "Nepodařilo se použít int16 – mimo rozsah"
   }
 }

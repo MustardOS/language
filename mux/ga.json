@@ -107,6 +107,7 @@
     "No Governors Found…": "Níor aimsíodh aon Ghobharnóir…"
   },
   "muxhdmi": {
+    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
     "Audio Output": "Aschur Fuaime",
     "Cannot modify while HDMI is active": "Ní féidir a mhodhnú agus HDMI gníomhach",
     "Colour Depth": "Doimhneacht Dath",
@@ -123,12 +124,14 @@
     "Over": "Thar",
     "Resolution": "Rún",
     "Scan Scaling": "Scanadh Scálú",
+    "Screen": "Screen",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Roghnaigh an taifeach le haghaidh aschur HDMI, mar shampla 720p nó 1080p",
     "Set the color depth, such as 8-bit or 10-bit": "Socraigh an doimhneacht dath, mar shampla 8-giotán nó 10-giotán",
     "Set the color range of RGB colour space": "Socraigh an raon dath de spás dath RGB",
     "Set the color space, such as RGB or YUV": "Socraigh an spás datha, mar shampla RGB nó YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Athraigh idir callaire gléis nó fuaim mhonatóra sheachtraigh trí nasc HDMI",
     "Switch between overscan or underscan to fit the display screen": "Athraigh idir overscan nó underscan a d'oirfeadh an scáileán taispeána",
+    "Theme Resolution": "Theme Resolution",
     "Under": "Faoi"
   },
   "muxhistory": {
