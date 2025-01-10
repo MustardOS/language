@@ -107,7 +107,7 @@
     "No Governors Found…": "Aucun gouverneur trouvé…"
   },
   "muxhdmi": {
-    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
+    "Allows for testing different theme resolutions": "Permet de tester différentes résolutions de thème",
     "Audio Output": "Sortie audio",
     "Cannot modify while HDMI is active": "Modification impossible quand la sortie HDMI est active",
     "Colour Depth": "Profondeur de couleur",
@@ -124,14 +124,14 @@
     "Over": "Surbalayage",
     "Resolution": "Résolution",
     "Scan Scaling": "Mise à l'échelle",
-    "Screen": "Screen",
+    "Screen": "Écran",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Sélectionnez la résolution de la sortie HDMI, telle que 720p ou 1080p",
     "Set the color depth, such as 8-bit or 10-bit": "Définissez la profondeur de couleur, telle que 8-bit ou 10-bit",
     "Set the color range of RGB colour space": "Définissez la gamme de couleurs de l’espace colorimétrique RVB",
     "Set the color space, such as RGB or YUV": "Définissez l'espace colorimétrique, tel que RVB ou YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Basculez entre le haut-parleur de la console ou l'audio du moniteur externe via une connexion HDMI",
     "Switch between overscan or underscan to fit the display screen": "Basculez entre le surbalayage et le sous-balayage pour ajuster l'affichage à l'écran",
-    "Theme Resolution": "Theme Resolution",
+    "Theme Resolution": "Résolution du thème",
     "Under": "Sous-balayage"
   },
   "muxhistory": {
