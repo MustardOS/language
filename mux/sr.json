@@ -1,10 +1,10 @@
 {
   "generic": {
-    "Add": "Add",
-    "Added to Collection": "Added to Collection",
+    "Add": "Dodaj",
+    "Added to Collection": "Dodato u kolekciju",
     "Back": "Nazad",
     "Clear": "Izbriši",
-    "Collect": "Collect",
+    "Collect": "Sakupi",
     "Directory": "Folder",
     "Disabled": "Onemogućeno",
     "Enabled": "Omogućeno",
@@ -13,17 +13,17 @@
     "Info": "Info",
     "Launch": "Pokreni",
     "Load": "Učitaj",
-    "Loading…": "Loading…",
+    "Loading…": "Učitavanje…",
     "Migrate to SD2": "Migriraj na SD2",
-    "New": "New",
+    "New": "Novo",
     "No Help Information Found": "Nema dostupnih informacija za pomoć",
-    "No Information Found": "No Information Found",
+    "No Information Found": "Informacije nisu pronađene",
     "Open": "Otvori",
     "Previous": "Prethodno",
     "Recursive": "Rekurzivno",
     "Remove": "Ukloni",
     "Rescan": "Ponovo skeniraj",
-    "Restore": "Restore",
+    "Restore": "Obnovi",
     "Save": "Sačuvaj",
     "Select": "Selektuj",
     "Switch to Information": "Promeni na informaciju",
@@ -59,21 +59,21 @@
     "ASSIGN": "DODELITI",
     "Assigned to directory": "Dodeljeno folderu",
     "Assigned to file": "Dodeljeno fajlu",
-    "No Cores Found…": "No Cores Found…",
+    "No Cores Found…": "Nema pronađenih jezgara…",
     "This is where you can assign a core or external emulator to content": "Ovde možete dodeliti core ili eksterni emulator za sadržaj"
   },
   "muxcharge": {
-    "Booting System - Please Wait…": "Booting System - Please Wait…",
+    "Booting System - Please Wait…": "Pokretanje sistema - Molimo sačekajte…",
     "Capacity": "Kapacitet",
-    "Press POWER button to continue booting…": "Press POWER button to continue booting…",
+    "Press POWER button to continue booting…": "Pritisnite dugme za uključivanje da nastavite pokretanje…",
     "Voltage": "Voltaža"
   },
   "muxcollect": {
-    "COLLECTIONS": "COLLECTIONS",
-    "Collection folder is not empty": "Collection folder is not empty",
-    "Error loading content file": "Error loading content file",
-    "Error removing from Collections": "Error removing from Collections",
-    "Nothing Saved Yet…": "Nothing Saved Yet…"
+    "COLLECTIONS": "KOLEKCIJE",
+    "Collection folder is not empty": "Folder kolekcije nije prazan",
+    "Error loading content file": "Greška pri učitavanju fajla sa sadržajem",
+    "Error removing from Collections": "Greška prilikom uklanjanja iz kolekcija",
+    "Nothing Saved Yet…": "Još ništa nije sačuvano…"
   },
   "muxconfig": {
     "CONFIGURATION": "PODEŠAVANJE",
@@ -104,42 +104,42 @@
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Podesite upravljače procesora (CPU governors) da dinamički prilagođavaju frekvenciju procesora i pomognu u balansiranju potrošnje energije i performansi",
     "GOVERNOR": "UPRAVLJAČ",
-    "No Governors Found…": "No Governors Found…"
+    "No Governors Found…": "Nema pronađenih guvernera…"
   },
   "muxhdmi": {
-    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
+    "Allows for testing different theme resolutions": "Omogućava testiranje različitih rezolucija tema",
     "Audio Output": "Audio izlaz",
-    "Cannot modify while HDMI is active": "Cannot modify while HDMI is active",
+    "Cannot modify while HDMI is active": "Nije moguće modifikovati dok je HDMI aktivan",
     "Colour Depth": "Dubina boje",
     "Colour Range": "Spektar boja",
     "Colour Space": "Režim boja",
-    "Enable or disable HDMI output": "Enable or disable HDMI output",
+    "Enable or disable HDMI output": "Aktiviraj ili deaktiviraj HDMI izlaz",
     "External": "Eksterno",
     "Full": "Popunjeno",
     "HDMI Active": "HDMI aktivan",
     "HDMI SETTINGS": "HDMI PODEŠAVANJA",
-    "HDMI cable is not detected": "HDMI cable is not detected",
+    "HDMI cable is not detected": "HDMI kabl nije detektovan",
     "Internal": "Interno",
     "Limited": "Limitirano",
     "Over": "Over",
     "Resolution": "Rezolucija",
     "Scan Scaling": "Skeniraj skaliranje",
-    "Screen": "Screen",
-    "Select the resolution for HDMI output, such as 720p or 1080p": "Select the resolution for HDMI output, such as 720p or 1080p",
-    "Set the color depth, such as 8-bit or 10-bit": "Set the color depth, such as 8-bit or 10-bit",
-    "Set the color range of RGB colour space": "Set the color range of RGB colour space",
-    "Set the color space, such as RGB or YUV": "Set the color space, such as RGB or YUV",
-    "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
-    "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
-    "Theme Resolution": "Theme Resolution",
+    "Screen": "Ekran",
+    "Select the resolution for HDMI output, such as 720p or 1080p": "Izaberite rezoluciju za HDMI izlaz, kao što je 720p ili 1080p",
+    "Set the color depth, such as 8-bit or 10-bit": "Postavite dubinu boje, kao što je 8-bitna ili 10-bitna",
+    "Set the color range of RGB colour space": "Postavite opseg boja RGB kolor palete",
+    "Set the color space, such as RGB or YUV": "Postavite kolor paletu, kao što su RGB ili YUV",
+    "Switch between device speaker or external monitor audio via HDMI connection": "Prebacite između zvučnika uređaja ili spoljnog monitora putem HDMI veze",
+    "Switch between overscan or underscan to fit the display screen": "Prebaci između overscan i underscan opcija za optimizaciju prikaza na ekranu",
+    "Theme Resolution": "Podešavanje rezolucije teme",
     "Under": "Under"
   },
   "muxhistory": {
-    "Error loading content file": "Error loading content file",
-    "Error removing from History": "Error removing from History",
-    "HISTORY": "HISTORY",
-    "Nothing Played Yet…": "Nothing Played Yet…",
-    "Removed from History": "Removed from History"
+    "Error loading content file": "Greška prilikom učitavanja fajla sa sadržajem",
+    "Error removing from History": "Greška prilikom uklanjanja iz istorije",
+    "HISTORY": "ISTORIJA",
+    "Nothing Played Yet…": "Još ništa nije pušteno…",
+    "Removed from History": "Izbrisano iz istorije"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Pristupite statistikama igara koje ste igrali i drugim aktivnostima",
@@ -153,16 +153,16 @@
     "View all of the current muOS supporters": "Pregledaj sve trenutne osobe koje podržavaju muOS"
   },
   "muxlanguage": {
-    "LANGUAGE": "LANGUAGE",
-    "No Languages Found…": "No Languages Found…",
+    "LANGUAGE": "JEZIK",
+    "No Languages Found…": "Nema pronađenih jezika…",
     "Saving Language": "Čuvanje jezika",
     "Select your preferred language": "Odaberite željeni jezik"
   },
   "muxlaunch": {
     "Applications": "Aplikacije",
-    "Collection": "Collection",
+    "Collection": "Kolekcija",
     "Configuration": "Podešavanje",
-    "Content added to collections can be found and launched here": "Content added to collections can be found and launched here",
+    "Content added to collections can be found and launched here": "Sadržaj dodat u kolekcije može se pronaći i pokrenuti ovde",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Sadržaj na uređajima za skladištenje (SD1/SD2/USB) može se pronaći i pokrenuti ovde",
     "Content previously launched can be found and launched here": "Sadržaj koji je ranije pokrenut može se pronaći i pokrenuti ovde",
     "Explore Content": "Istraži sadržaj",
@@ -182,7 +182,7 @@
   "muxnetprofile": {
     "Invalid Network Settings": "Neispravna mrežna podešavanja",
     "Invalid SSID": "Neispravan SSID",
-    "Loading Network Profiles…": "Loading Network Profiles…",
+    "Loading Network Profiles…": "Učitavanje mrežnih profila…",
     "NETWORK PROFILE": "MREŽNI PROFIL",
     "No Saved Network Profiles Found": "Nema sačuvanih mrežnih profila",
     "Quickly switch between different Wi-Fi configurations based on your location or network preferences": "Brzo se prebacite između različitih Wi-Fi konfiguracija u zavisnosti od vaše lokacije ili mrežnih preferencija"
@@ -191,10 +191,10 @@
     "Detect, display and connect to available Wi-Fi networks": "Pronađi, izlistaj i poveži se na dostupne Wi-Fi mreže",
     "NETWORK SCAN": "SKENIRANJE MREŽE",
     "No Wi-Fi Networks Found": "Wi-Fi mreže nisu pronađene",
-    "Scanning for Wi-Fi Networks…": "Scanning for Wi-Fi Networks…"
+    "Scanning for Wi-Fi Networks…": "Skeniranje Wi-Fi mreža…"
   },
   "muxnetwork": {
-    "Cannot modify while connected": "Cannot modify while connected",
+    "Cannot modify while connected": "Ne može se modifikovati dok je povezano",
     "Changes Saved": "Promene su sačuvane",
     "Connect": "Poveži se",
     "Connect to the network using options entered above": "Povežite se na mrežu koristeći opcije unete iznad",
@@ -203,7 +203,7 @@
     "DNS Server": "DNS Server",
     "Device IP": "IP adresa uređaja",
     "Disconnect": "Diskonektovanje",
-    "Encrypting Password…": "Encrypting Password…",
+    "Encrypting Password…": "Šifrovanje lozinke…",
     "Enter the device IP address here (Static only)": "Unesite IP adresu uređaja (samo statička)",
     "Enter the device Subnet (CIDR) number here (Static only)": "Unesite (CIDR) mrežni opseg (samo statički)",
     "Enter the network gateway address here (Static only)": "Unesite IP adresu mrežnog prolaza (gateway) (samo statička)",
@@ -215,7 +215,7 @@
     "Network Active": "Mreža je aktivna",
     "Network Disabled": "Mreža onemogućena",
     "Network Type": "Vrsta mreže",
-    "No Password Detected…": "No Password Detected…",
+    "No Password Detected…": "Šifra nije otkrivena…",
     "Not Connected": "Nije povezano",
     "Password": "Lozinka",
     "Please check network settings": "Proverite mrežna podešavanja",
@@ -226,16 +226,16 @@
     "Toggle between DHCP and Static network types": "Odaberite između DHCP i statičkog tipa mreže",
     "Toggle the Wi-Fi network on and off": "Odaberite između DHCP i statičkog tipa mreže",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Omogućite ili onemogućite povezivanje na mrežu sa skrivenim SSID-om",
-    "Trying to Connect…": "Trying to Connect…",
+    "Trying to Connect…": "Pokušaj povezivanja…",
     "WI-FI NETWORK": "WI-FI MREŽA"
   },
   "muxoption": {
     "Assign Core": "Dodeli jezgro (Core)",
     "CONTENT OPTION": "OPCIJE SADRŽAJA",
-    "Current": "Current",
-    "Directory": "Directory",
-    "Individual": "Individual",
-    "Name": "Name",
+    "Current": "Trenutno",
+    "Directory": "Folder",
+    "Individual": "Individualni",
+    "Name": "Ime",
     "Search Content": "Pretraži sadržaj",
     "Search for content within the selected directory": "Pretraži sadržaj u odabranom folderu",
     "Set the CPU governor for the selected content or directory": "Postavite CPU upravljača za odabrani sadržaj ili folder",
@@ -257,13 +257,13 @@
     "There are no attributed credits!": "Nema dodeljenih kredita ili priznanja!"
   },
   "muxplore": {
-    "Content is not associated with system or core": "Content is not associated with system or core",
-    "Could not load content": "Could not load content",
+    "Content is not associated with system or core": "Sadržaj nije povezan sa sistemom ili jezgrom",
+    "Could not load content": "Nije moguće učitati sadržaj",
     "EXPLORE": "PRETRAŽI",
-    "Folders cannot be added to collections": "Folders cannot be added to collections",
-    "No Content Found…": "No Content Found…",
+    "Folders cannot be added to collections": "Folderi se ne mogu dodati u kolekcije",
+    "No Content Found…": "Nije pronađen sadržaj…",
     "Refresh": "Osveži",
-    "Refreshing…": "Refreshing…"
+    "Refreshing…": "Osvežavanje…"
   },
   "muxpower": {
     "10m": "10m",
