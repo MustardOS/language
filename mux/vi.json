@@ -30,6 +30,7 @@
     "Switch to Preview Image": "Chuyển sang ảnh xem trước",
     "Sync to SD1": "Đồng bộ với SD1",
     "This is disabled in kiosk mode!": "Tính năng này bị vô hiệu hóa ở chế độ khách",
+    "Unknown": "Unknown",
     "Use": "Sử dụng"
   },
   "muxapp": {
@@ -371,6 +372,7 @@
     "CPU Speed": "Tốc độ CPU",
     "Device Type": "Device Type",
     "Linux Kernel": "Hạt nhân Linux",
+    "Memory Cache Dropped": "Memory Cache Dropped",
     "SYSTEM DETAILS": "CHI TIẾT HỆ THỐNG",
     "System Memory": "System Memory",
     "System Uptime": "Thời gian hoạt động",
