@@ -30,6 +30,7 @@
     "Switch to Preview Image": "切换至封面图",
     "Sync to SD1": "同步至SD卡1",
     "This is disabled in kiosk mode!": "访客模式下不可用！",
+    "Unknown": "Unknown",
     "Use": "使用"
   },
   "muxapp": {
@@ -371,6 +372,7 @@
     "CPU Speed": "CPU频率",
     "Device Type": "设备类型",
     "Linux Kernel": "Linux内核",
+    "Memory Cache Dropped": "Memory Cache Dropped",
     "SYSTEM DETAILS": "系统详情",
     "System Memory": "系统内存",
     "System Uptime": "系统运行时间",
