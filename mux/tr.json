@@ -30,6 +30,7 @@
     "Switch to Preview Image": "Önizleme resmine geç",
     "Sync to SD1": "SD1 ile senkronize et",
     "This is disabled in kiosk mode!": "This is disabled in kiosk mode!",
+    "Unknown": "Unknown",
     "Use": "Kullan"
   },
   "muxapp": {
@@ -371,6 +372,7 @@
     "CPU Speed": "İşlemci hızı",
     "Device Type": "Cihaz türü",
     "Linux Kernel": "Linux Kernel",
+    "Memory Cache Dropped": "Memory Cache Dropped",
     "SYSTEM DETAILS": "SİSTEM AYRINTILARI",
     "System Memory": "System Memory",
     "System Uptime": "Sistem çalışma süresi",
