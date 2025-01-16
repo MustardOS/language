@@ -30,6 +30,7 @@
     "Switch to Preview Image": "Перейти до Попереднього Перегляду Зображення",
     "Sync to SD1": "Синхронізувати на SD1",
     "This is disabled in kiosk mode!": "This is disabled in kiosk mode!",
+    "Unknown": "Unknown",
     "Use": "Використати"
   },
   "muxapp": {
@@ -371,6 +372,7 @@
     "CPU Speed": "Швидкість CPU",
     "Device Type": "Тип Пристрою",
     "Linux Kernel": "Ядро Linux",
+    "Memory Cache Dropped": "Memory Cache Dropped",
     "SYSTEM DETAILS": "СИСТЕМНІ ДЕТАЛІ",
     "System Memory": "System Memory",
     "System Uptime": "Час Роботи Системи",
