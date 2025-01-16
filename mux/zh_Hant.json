@@ -30,6 +30,7 @@
     "Switch to Preview Image": "切換到預覽圖",
     "Sync to SD1": "同步到SD1",
     "This is disabled in kiosk mode!": "這在kiosk模式下被禁用!",
+    "Unknown": "Unknown",
     "Use": "使用"
   },
   "muxapp": {
@@ -371,6 +372,7 @@
     "CPU Speed": "CPU速度",
     "Device Type": "裝置類型",
     "Linux Kernel": "Linux核心",
+    "Memory Cache Dropped": "Memory Cache Dropped",
     "SYSTEM DETAILS": "系統詳情",
     "System Memory": "系統記憶體",
     "System Uptime": "系統運作時間",
