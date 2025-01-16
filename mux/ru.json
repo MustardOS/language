@@ -30,6 +30,7 @@
     "Switch to Preview Image": "Перейти к превью",
     "Sync to SD1": "Синхронизировать на SD1",
     "This is disabled in kiosk mode!": "Отключено в режиме киоска!",
+    "Unknown": "Unknown",
     "Use": "Использовать"
   },
   "muxapp": {
@@ -371,6 +372,7 @@
     "CPU Speed": "Частота CPU",
     "Device Type": "Тип устройства",
     "Linux Kernel": "Ядро Linux",
+    "Memory Cache Dropped": "Memory Cache Dropped",
     "SYSTEM DETAILS": "СИСТЕМНАЯ ИНФОРМАЦИЯ",
     "System Memory": "Системная память",
     "System Uptime": "Время работы системы",
