@@ -30,6 +30,7 @@
     "Switch to Preview Image": "Chuyển sang ảnh xem trước",
     "Sync to SD1": "Đồng bộ với SD1",
     "This is disabled in kiosk mode!": "Tính năng này bị vô hiệu hóa ở chế độ khách",
+    "Unknown": "Unknown",
     "Use": "Sử dụng"
   },
   "muxapp": {
@@ -371,7 +372,7 @@
     "CPU Speed": "Tốc độ CPU",
     "Device Type": "Device Type",
     "Linux Kernel": "Hạt nhân Linux",
-    "Running Services": "Tiến trình đang chạy",
+    "Memory Cache Dropped": "Memory Cache Dropped",
     "SYSTEM DETAILS": "CHI TIẾT HỆ THỐNG",
     "System Memory": "System Memory",
     "System Uptime": "Thời gian hoạt động",
@@ -387,7 +388,6 @@
     "The current version of muOS running on the device": "Phiên bản muOS hiện tại",
     "The current, and total, memory usage of the device": "Mức sử dụng RAM hiện tại/tổng của thiết bị",
     "The detected CPU type of the device": "Nhận diện CPU của thiết bị",
-    "The number of processes currently running on the system": "Số lượng tiến trình đang chạy trên hệ thông",
     "muOS Version": "Phiên bản muOS"
   },
   "muxtask": {
