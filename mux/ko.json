@@ -30,6 +30,7 @@
     "Switch to Preview Image": "프리뷰 이미지로 변경",
     "Sync to SD1": "SD1에 싱크",
     "This is disabled in kiosk mode!": "이것은 키오스크 모드에서 비활성화됨!",
+    "Unknown": "Unknown",
     "Use": "사용"
   },
   "muxapp": {
@@ -371,6 +372,7 @@
     "CPU Speed": "CPU 속도",
     "Device Type": "장치 유형",
     "Linux Kernel": "리눅스 커널",
+    "Memory Cache Dropped": "Memory Cache Dropped",
     "SYSTEM DETAILS": "시스템 상세정보",
     "System Memory": "시스템 메모리",
     "System Uptime": "시스템 업타임",
