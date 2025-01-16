@@ -30,6 +30,7 @@
     "Switch to Preview Image": "プレビュー画像に切り替える",
     "Sync to SD1": "Sync to SD1",
     "This is disabled in kiosk mode!": "This is disabled in kiosk mode!",
+    "Unknown": "Unknown",
     "Use": "接続する"
   },
   "muxapp": {
@@ -371,6 +372,7 @@
     "CPU Speed": "CPU 速度",
     "Device Type": "機種",
     "Linux Kernel": "Linux カーネル",
+    "Memory Cache Dropped": "Memory Cache Dropped",
     "SYSTEM DETAILS": "システム詳細",
     "System Memory": "System Memory",
     "System Uptime": "システム稼働期間",
