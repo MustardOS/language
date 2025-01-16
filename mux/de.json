@@ -30,6 +30,7 @@
     "Switch to Preview Image": "Zur Bildvorschau wechseln",
     "Sync to SD1": "Sync mit SD1",
     "This is disabled in kiosk mode!": "Im Kioskmodus deaktiviert!",
+    "Unknown": "Unknown",
     "Use": "Benutzen"
   },
   "muxapp": {
@@ -371,6 +372,7 @@
     "CPU Speed": "CPU Geschwindigkeit",
     "Device Type": "Gerätetyp",
     "Linux Kernel": "Linux Kernel",
+    "Memory Cache Dropped": "Memory Cache Dropped",
     "SYSTEM DETAILS": "SYSTEMDETAILS",
     "System Memory": "System-Speicher",
     "System Uptime": "Betriebszeit",
