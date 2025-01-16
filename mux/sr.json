@@ -30,6 +30,7 @@
     "Switch to Preview Image": "Promeni na Preview prikaz",
     "Sync to SD1": "Sinhronizacija na SD1",
     "This is disabled in kiosk mode!": "Ovo je onemogućeno u kiosk režimu!",
+    "Unknown": "Unknown",
     "Use": "Upotrebi"
   },
   "muxapp": {
@@ -371,6 +372,7 @@
     "CPU Speed": "CPU Brzina",
     "Device Type": "Vrsta uređaja",
     "Linux Kernel": "Linux Kernel",
+    "Memory Cache Dropped": "Memory Cache Dropped",
     "SYSTEM DETAILS": "DETALJI SISTEMA",
     "System Memory": "System Memory",
     "System Uptime": "System Uptime",
