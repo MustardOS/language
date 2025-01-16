@@ -30,6 +30,7 @@
     "Switch to Preview Image": "Athraigh go hÍomhá Réamhamhairc",
     "Sync to SD1": "Sioncronaigh go SD1",
     "This is disabled in kiosk mode!": "Tá sé seo díchumasaithe i mód both!",
+    "Unknown": "Unknown",
     "Use": "Úsáid"
   },
   "muxapp": {
@@ -371,6 +372,7 @@
     "CPU Speed": "Luas LAP",
     "Device Type": "Cineál Gléis",
     "Linux Kernel": "Eithne Linux",
+    "Memory Cache Dropped": "Memory Cache Dropped",
     "SYSTEM DETAILS": "SONRAÍ AN CHÓRAIS",
     "System Memory": "Cuimhne Chórais",
     "System Uptime": "Aga fónaimh an chórais",
