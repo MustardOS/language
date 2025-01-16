@@ -371,7 +371,6 @@
     "CPU Speed": "CPU-hastighet",
     "Device Type": "Enhetstyp",
     "Linux Kernel": "Linux-kärna",
-    "Running Services": "Körande tjänster",
     "SYSTEM DETAILS": "SYSTEMDETALJER",
     "System Memory": "System Memory",
     "System Uptime": "Systemdrifttid",
@@ -387,7 +386,6 @@
     "The current version of muOS running on the device": "Den nuvarande versionen av muOS som körs på enheten.",
     "The current, and total, memory usage of the device": "Enhetens nuvarande och totala minnesanvändning.",
     "The detected CPU type of the device": "Den upptäckta CPU-typen för enheten.",
-    "The number of processes currently running on the system": "Antalet processer som för närvarande körs på systemet.",
     "muOS Version": "muOS-version"
   },
   "muxtask": {

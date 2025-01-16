@@ -371,7 +371,6 @@
     "CPU Speed": "CPU Скорост",
     "Device Type": "Тип Устройство",
     "Linux Kernel": "Linux Ядро",
-    "Running Services": "Работещи Услуги",
     "SYSTEM DETAILS": "ПОДРОБНОСТИ ЗА СИСТЕМАТА",
     "System Memory": "Системна памет",
     "System Uptime": "Времетраене на Системата",
@@ -387,7 +386,6 @@
     "The current version of muOS running on the device": "Текущата версия на muOS, работеща на устройството",
     "The current, and total, memory usage of the device": "Текущото и общото използване на паметта на устройството",
     "The detected CPU type of the device": "Откритият тип процесор на устройството",
-    "The number of processes currently running on the system": "Броят на процесите, които се изпълняват в момента в системата",
     "muOS Version": "muOS версия"
   },
   "muxtask": {

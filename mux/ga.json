@@ -371,7 +371,6 @@
     "CPU Speed": "Luas LAP",
     "Device Type": "Cineál Gléis",
     "Linux Kernel": "Eithne Linux",
-    "Running Services": "Seirbhísí Reatha",
     "SYSTEM DETAILS": "SONRAÍ AN CHÓRAIS",
     "System Memory": "Cuimhne Chórais",
     "System Uptime": "Aga fónaimh an chórais",
@@ -387,7 +386,6 @@
     "The current version of muOS running on the device": "An leagan reatha de muOS ag rith ar an ngléas",
     "The current, and total, memory usage of the device": "Úsáid chuimhne reatha, agus iomlán, an ghléis",
     "The detected CPU type of the device": "An cineál LAP aimsithe den fheiste",
-    "The number of processes currently running on the system": "Líon na bpróiseas atá á reáchtáil ar an gcóras faoi láthair",
     "muOS Version": "leagan muOS"
   },
   "muxtask": {

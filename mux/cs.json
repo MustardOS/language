@@ -371,7 +371,6 @@
     "CPU Speed": "Rychlost procesoru",
     "Device Type": "Typ zařízení",
     "Linux Kernel": "Linux Kernel",
-    "Running Services": "Běžící Služby",
     "SYSTEM DETAILS": "SYSTÉMOVÉ PODROBNOSTI",
     "System Memory": "Systémová paměť",
     "System Uptime": "Doba provozu systému",
@@ -387,7 +386,6 @@
     "The current version of muOS running on the device": "Aktuální verze muOS běžící na zařízení",
     "The current, and total, memory usage of the device": "Aktuální a celkové využití paměti zařízením",
     "The detected CPU type of the device": "Zjištěný typ CPU zařízení",
-    "The number of processes currently running on the system": "Počet procesů aktuálně spuštěných v systému",
     "muOS Version": "Verze muOS"
   },
   "muxtask": {

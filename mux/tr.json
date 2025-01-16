@@ -371,7 +371,6 @@
     "CPU Speed": "İşlemci hızı",
     "Device Type": "Cihaz türü",
     "Linux Kernel": "Linux Kernel",
-    "Running Services": "Çalışan servisler",
     "SYSTEM DETAILS": "SİSTEM AYRINTILARI",
     "System Memory": "System Memory",
     "System Uptime": "Sistem çalışma süresi",
@@ -387,7 +386,6 @@
     "The current version of muOS running on the device": "Cihazda çalışan mevcut muOS sürümü",
     "The current, and total, memory usage of the device": "Cihazın mevcut ve toplam bellek kullanımı",
     "The detected CPU type of the device": "Cihazın algılanan CPU türü",
-    "The number of processes currently running on the system": "Sistemde şu anda çalışan işlem sayısı",
     "muOS Version": "muOS versiyon"
   },
   "muxtask": {

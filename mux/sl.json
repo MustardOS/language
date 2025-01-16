@@ -371,7 +371,6 @@
     "CPU Speed": "Hitrost CPE",
     "Device Type": "Vrsta naprave",
     "Linux Kernel": "Linux Jedro",
-    "Running Services": "Aktivne storitve",
     "SYSTEM DETAILS": "PODROBNOSTI SISTEMA",
     "System Memory": "System Memory",
     "System Uptime": "Čas delovanja sistema",
@@ -387,7 +386,6 @@
     "The current version of muOS running on the device": "Trenutna različica muOS, nameščena na napravi",
     "The current, and total, memory usage of the device": "Trenutna in skupna poraba pomnilnika naprave",
     "The detected CPU type of the device": "Zaznan tip procesorja naprave",
-    "The number of processes currently running on the system": "Število aktivnih procesov v sistemu",
     "muOS Version": "Različica muOS"
   },
   "muxtask": {

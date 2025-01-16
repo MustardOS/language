@@ -371,7 +371,6 @@
     "CPU Speed": "CPU频率",
     "Device Type": "设备类型",
     "Linux Kernel": "Linux内核",
-    "Running Services": "运行中服务",
     "SYSTEM DETAILS": "系统详情",
     "System Memory": "系统内存",
     "System Uptime": "系统运行时间",
@@ -387,7 +386,6 @@
     "The current version of muOS running on the device": "当前muOS的版本",
     "The current, and total, memory usage of the device": "当前的内存用量及总量",
     "The detected CPU type of the device": "探测到的CPU类型",
-    "The number of processes currently running on the system": "当前系统运行的进程数量",
     "muOS Version": "muOS版本"
   },
   "muxtask": {
