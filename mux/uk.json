@@ -30,6 +30,7 @@
     "Switch to Preview Image": "Перейти до Попереднього Перегляду Зображення",
     "Sync to SD1": "Синхронізувати на SD1",
     "This is disabled in kiosk mode!": "This is disabled in kiosk mode!",
+    "Unknown": "Unknown",
     "Use": "Використати"
   },
   "muxapp": {
@@ -371,7 +372,7 @@
     "CPU Speed": "Швидкість CPU",
     "Device Type": "Тип Пристрою",
     "Linux Kernel": "Ядро Linux",
-    "Running Services": "Запущені Сервіси",
+    "Memory Cache Dropped": "Memory Cache Dropped",
     "SYSTEM DETAILS": "СИСТЕМНІ ДЕТАЛІ",
     "System Memory": "System Memory",
     "System Uptime": "Час Роботи Системи",
@@ -387,7 +388,6 @@
     "The current version of muOS running on the device": "Поточна версія muOS на пристрої",
     "The current, and total, memory usage of the device": "Поточне та повне споживання пам'яті пристрою",
     "The detected CPU type of the device": "Визначений тип CPU пристрою",
-    "The number of processes currently running on the system": "Кількість запущених процесів на пристрої",
     "muOS Version": "Версія muOS"
   },
   "muxtask": {

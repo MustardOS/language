@@ -30,6 +30,7 @@
     "Switch to Preview Image": "Cambiar a vista previa",
     "Sync to SD1": "Sincronizar con SD1",
     "This is disabled in kiosk mode!": "¡Esta función está deshabilitada en el modo quiosco!",
+    "Unknown": "Unknown",
     "Use": "Usar"
   },
   "muxapp": {
@@ -371,7 +372,7 @@
     "CPU Speed": "Velocidad de la CPU",
     "Device Type": "Tipo de dispositivo",
     "Linux Kernel": "Kernel de Linux",
-    "Running Services": "Servicios en ejecución",
+    "Memory Cache Dropped": "Memory Cache Dropped",
     "SYSTEM DETAILS": "DETALLES DEL SISTEMA",
     "System Memory": "Memoria del sistema",
     "System Uptime": "Tiempo de actividad del sistema",
@@ -387,7 +388,6 @@
     "The current version of muOS running on the device": "La versión actual de muOS que se ejecuta en el dispositivo",
     "The current, and total, memory usage of the device": "El uso actual y total de memoria del dispositivo",
     "The detected CPU type of the device": "El tipo de CPU detectado del dispositivo",
-    "The number of processes currently running on the system": "El número de procesos que se están ejecutando actualmente en el sistema",
     "muOS Version": "Versión de muOS"
   },
   "muxtask": {

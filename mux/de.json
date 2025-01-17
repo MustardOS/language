@@ -1,10 +1,10 @@
 {
   "generic": {
-    "Add": "Add",
-    "Added to Collection": "Added to Collection",
+    "Add": "Hinzufügen",
+    "Added to Collection": "Zur Sammlung hinzugefügt",
     "Back": "Zurück",
     "Clear": "Leeren",
-    "Collect": "Collect",
+    "Collect": "Sammeln",
     "Directory": "Verzeichnis",
     "Disabled": "Deaktiviert",
     "Enabled": "Aktiviert",
@@ -13,23 +13,24 @@
     "Info": "Infos",
     "Launch": "Starten",
     "Load": "Laden",
-    "Loading…": "Loading…",
+    "Loading…": "Lädt…",
     "Migrate to SD2": "Migration auf SD2",
-    "New": "New",
+    "New": "Neu",
     "No Help Information Found": "Keine Hilfe-Information gefunden",
-    "No Information Found": "No Information Found",
+    "No Information Found": "Keine Information gefunden",
     "Open": "Öffnen",
     "Previous": "Bisherige",
     "Recursive": "Rekursiv",
     "Remove": "Entfernen",
     "Rescan": "Suche wiederholen",
-    "Restore": "Restore",
+    "Restore": "Wiederherstellen",
     "Save": "Speichern",
     "Select": "Auswählen",
     "Switch to Information": "Zur Information wechseln",
     "Switch to Preview Image": "Zur Bildvorschau wechseln",
     "Sync to SD1": "Sync mit SD1",
     "This is disabled in kiosk mode!": "Im Kioskmodus deaktiviert!",
+    "Unknown": "Unknown",
     "Use": "Benutzen"
   },
   "muxapp": {
@@ -69,11 +70,11 @@
     "Voltage": "Spannung"
   },
   "muxcollect": {
-    "COLLECTIONS": "COLLECTIONS",
-    "Collection folder is not empty": "Collection folder is not empty",
-    "Error loading content file": "Error loading content file",
-    "Error removing from Collections": "Error removing from Collections",
-    "Nothing Saved Yet…": "Nothing Saved Yet…"
+    "COLLECTIONS": "SAMMLUNGEN",
+    "Collection folder is not empty": "Sammlungsordner ist nicht leer",
+    "Error loading content file": "Fehler beim Laden der Inhaltsdatei",
+    "Error removing from Collections": "Fehler beim Entfernen aus Sammlungen",
+    "Nothing Saved Yet…": "Noch nicht gespeichert…"
   },
   "muxconfig": {
     "CONFIGURATION": "KONFIGURATION",
@@ -107,7 +108,7 @@
     "No Governors Found…": "Keine Governors gefunden…"
   },
   "muxhdmi": {
-    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
+    "Allows for testing different theme resolutions": "Ermöglicht das Testen verschiedener Themenauflösungen",
     "Audio Output": "Audioausgabe",
     "Cannot modify while HDMI is active": "Kann nicht geändert werden, wenn HDMI aktiv ist",
     "Colour Depth": "Farbtiefe",
@@ -124,22 +125,22 @@
     "Over": "Über",
     "Resolution": "Auflösung",
     "Scan Scaling": "Scan-Skalierung",
-    "Screen": "Screen",
+    "Screen": "Bildschirm",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Auflösung für die HDMI-Ausgabe wählen, z. B. 720p oder 1080p",
     "Set the color depth, such as 8-bit or 10-bit": "Farbtiefe einstellen, z. B. 8-Bit oder 10-Bit",
     "Set the color range of RGB colour space": "Farbbereich des RGB-Farbraums einstellen",
     "Set the color space, such as RGB or YUV": "Farbraum einstellen, z. B. RGB oder YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Zwischen Gerätelautsprecher und externem Monitor-Audio über HDMI-Anschluss umschalten",
     "Switch between overscan or underscan to fit the display screen": "Zwischen Overscan und Underscan zur Anpassung an den Bildschirm umschalten",
-    "Theme Resolution": "Theme Resolution",
+    "Theme Resolution": "Thema-Auflösung",
     "Under": "Unter"
   },
   "muxhistory": {
-    "Error loading content file": "Error loading content file",
-    "Error removing from History": "Error removing from History",
-    "HISTORY": "HISTORY",
-    "Nothing Played Yet…": "Nothing Played Yet…",
-    "Removed from History": "Removed from History"
+    "Error loading content file": "Fehler beim Laden der Inhaltsdatei",
+    "Error removing from History": "Fehler beim Entfernen aus dem Verlauf",
+    "HISTORY": "VERLAUF",
+    "Nothing Played Yet…": "Noch nichts gespielt…",
+    "Removed from History": "Aus dem Verlauf entfernt"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Auf Statistiken über abgespielte Inhalte und andere Aktivitäten zugreifen",
@@ -160,9 +161,9 @@
   },
   "muxlaunch": {
     "Applications": "Programme",
-    "Collection": "Collection",
+    "Collection": "Sammlung",
     "Configuration": "Konfiguration",
-    "Content added to collections can be found and launched here": "Content added to collections can be found and launched here",
+    "Content added to collections can be found and launched here": "Die zu den Sammlungen hinzugefügten Inhalte können hier gefunden und gestartet werden",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Inhalte auf Speichermittel (SD1/SD2/USB) können hier gefunden und gestartet werden",
     "Content previously launched can be found and launched here": "Bereits aufgerufene Inhalte können hier gefunden und gestartet werden",
     "Explore Content": "Inhalt durchsuchen",
@@ -257,13 +258,13 @@
     "There are no attributed credits!": "Es gibt keine zugeschriebenen Anerkennungen!"
   },
   "muxplore": {
-    "Content is not associated with system or core": "Content is not associated with system or core",
-    "Could not load content": "Could not load content",
+    "Content is not associated with system or core": "Der Inhalt wurde einem System oder einem Kern nicht zugewiesen",
+    "Could not load content": "Inhalt konnte nicht geladen werden",
     "EXPLORE": "DURCHSUCHEN",
-    "Folders cannot be added to collections": "Folders cannot be added to collections",
-    "No Content Found…": "No Content Found…",
+    "Folders cannot be added to collections": "Ordner können zu Sammlungen nicht hinzugefügt werden",
+    "No Content Found…": "Kein Inhalt gefunden…",
     "Refresh": "Aktualisieren",
-    "Refreshing…": "Refreshing…"
+    "Refreshing…": "Wird aktualisierte…"
   },
   "muxpower": {
     "10m": "10m",
@@ -320,15 +321,15 @@
     "Searching…": "Sucht…"
   },
   "muxsnapshot": {
-    "No Save Snapshots Found": "No Save Snapshots Found",
-    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
-    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
+    "No Save Snapshots Found": "Keine Speicher-Snapshots gefunden",
+    "Restore your saved game progress from a previous snapshot": "Wiederherstellung des gespeicherten Spielfortschritts aus einem früheren Snapshots",
+    "SAVE SNAPSHOT": "SNAPSHOT SPEICHERN"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Zugewiesener System Kern/Governor",
     "Background Music": "Hintergrundmusik",
     "Catalogue Packages": "Katalogpakete",
-    "Content Collection": "Content Collection",
+    "Content Collection": "Inhalts-Sammlung",
     "Friendly Name System": "System für FriendlyName",
     "History": "Historie",
     "Languages": "Sprachen",
@@ -341,7 +342,7 @@
     "Location of assigned core and governor configurations": "Speicherort der zugewiesenen Kern und Governer Konfigurationen",
     "Location of background music": "Speicherort der Hintergrundmusik",
     "Location of catalogue packages": "Speicherort der Katalogpakete",
-    "Location of content collection": "Location of content collection",
+    "Location of content collection": "Speicherort der Inhalts-Sammlung",
     "Location of content images and text": "Speicherort der Bilder und Texte des Content",
     "Location of friendly name configurations": "Speicherort der FriendlyName Konfigurationen",
     "Location of history": "Speicherort der Historie",
@@ -371,7 +372,7 @@
     "CPU Speed": "CPU Geschwindigkeit",
     "Device Type": "Gerätetyp",
     "Linux Kernel": "Linux Kernel",
-    "Running Services": "Laufende Dienste",
+    "Memory Cache Dropped": "Memory Cache Dropped",
     "SYSTEM DETAILS": "SYSTEMDETAILS",
     "System Memory": "System-Speicher",
     "System Uptime": "Betriebszeit",
@@ -387,7 +388,6 @@
     "The current version of muOS running on the device": "Die aktuelle Version von muOS, die auf dem Gerät läuft",
     "The current, and total, memory usage of the device": "Die aktuelle und gesamte Speichernutzung des Geräts",
     "The detected CPU type of the device": "Der erkannte CPU-Typ des Geräts",
-    "The number of processes currently running on the system": "Die Anzahl der derzeit auf dem System laufenden Prozesse",
     "muOS Version": "muOS-Version"
   },
   "muxtask": {
@@ -470,7 +470,7 @@
     "Change the colour temperature of the display if the device supports it": "Die Farbtemperatur des Displays anpassen, wenn das Gerät dies unterstützt",
     "Change where the device will start up into": "Definieren, was nach dem Gerätestart passieren soll",
     "Colour Temperature": "Farbtemperatur",
-    "Content Collection": "Content Collection",
+    "Content Collection": "Inhalts-Sammlung",
     "Content Explorer": "Inhalt durchsuchen",
     "Device Startup": "Gerätestart",
     "GENERAL SETTINGS": "ALLGEMEINE EINSTELLUNGEN",
@@ -583,6 +583,6 @@
     "Failed to open joystick device": "Der Controller konnte nicht erreicht werden",
     "Failed to retrieve file or directory status": "Datei- oder Verzeichnisstatus konnte nicht abgerufen werden",
     "Failed to run command": "Befehl konnte nicht ausgeführt werden",
-    "Failed to use int16 - out of range": "Failed to use int16 - out of range"
+    "Failed to use int16 - out of range": "Fehler bei der Verwendung von int16 - außerhalb des Bereichs"
   }
 }

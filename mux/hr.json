@@ -30,6 +30,7 @@
     "Switch to Preview Image": "Promijeni na Preview Sliku",
     "Sync to SD1": "Sikroniziraj na SD1",
     "This is disabled in kiosk mode!": "This is disabled in kiosk mode!",
+    "Unknown": "Unknown",
     "Use": "Koristi"
   },
   "muxapp": {
@@ -371,7 +372,7 @@
     "CPU Speed": "CPU Brzina",
     "Device Type": "Vrsta Uređaj",
     "Linux Kernel": "Linux Kernel",
-    "Running Services": "Pokretanje Servisa",
+    "Memory Cache Dropped": "Memory Cache Dropped",
     "SYSTEM DETAILS": "DETALJI SISTEMA",
     "System Memory": "System Memory",
     "System Uptime": "Sistem Uptime",
@@ -387,7 +388,6 @@
     "The current version of muOS running on the device": "Trenutna verzija muOS koja je pokrenuta na uređaju",
     "The current, and total, memory usage of the device": "Trenutna i ukupna upotreba memorije uređaja",
     "The detected CPU type of the device": "Detektirana CPU vrsta uređaja",
-    "The number of processes currently running on the system": "Broj procesa trenutno pokrenuta na sistemu",
     "muOS Version": "muOS Verzija"
   },
   "muxtask": {
