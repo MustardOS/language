@@ -30,7 +30,7 @@
     "Switch to Preview Image": "Přepněte na náhled obrázku",
     "Sync to SD1": "Synchronizovat na SD1",
     "This is disabled in kiosk mode!": "Toto je zakázáno v režimu kiosku!",
-    "Unknown": "Unknown",
+    "Unknown": "Neznámý",
     "Use": "Použijte"
   },
   "muxapp": {
@@ -372,7 +372,7 @@
     "CPU Speed": "Rychlost procesoru",
     "Device Type": "Typ zařízení",
     "Linux Kernel": "Linux Kernel",
-    "Memory Cache Dropped": "Memory Cache Dropped",
+    "Memory Cache Dropped": "Mezipaměť klesla",
     "SYSTEM DETAILS": "SYSTÉMOVÉ PODROBNOSTI",
     "System Memory": "Systémová paměť",
     "System Uptime": "Doba provozu systému",
