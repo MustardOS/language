@@ -30,7 +30,7 @@
     "Switch to Preview Image": "Promeni na Preview prikaz",
     "Sync to SD1": "Sinhronizacija na SD1",
     "This is disabled in kiosk mode!": "Ovo je onemogućeno u kiosk režimu!",
-    "Unknown": "Unknown",
+    "Unknown": "Nepoznato",
     "Use": "Upotrebi"
   },
   "muxapp": {
@@ -286,7 +286,7 @@
     "POWER SETTINGS": "PODEŠAVANJE NAPAJANJA",
     "Sleep 10m + Shutdown": "Mirovanje 10m + Isključivanje",
     "Sleep 10s + Shutdown": "Mirovanje 10s + Isključivanje",
-    "Sleep 15m + Shutdown": "Sleep 15m + Shutdown",
+    "Sleep 15m + Shutdown": "Spavanje 15m + Gašenje",
     "Sleep 2m + Shutdown": "Mirovanje 2m + Isključivanje",
     "Sleep 30m + Shutdown": "Mirovanje 30m + Isključivanje",
     "Sleep 30s + Shutdown": "Mirovanje 30s + Isključivanje",
@@ -318,18 +318,18 @@
     "Search Local": "Lokalna pretraga",
     "Search all current active storage devices": "Pretraži sve trenutno aktivne uređaje za skladištenje",
     "Search within the current selected folder and folders within": "Pretraži unutar trenutno odabranog foldera i njegovih podfoldera",
-    "Searching…": "Searching…"
+    "Searching…": "Pretraga…"
   },
   "muxsnapshot": {
-    "No Save Snapshots Found": "No Save Snapshots Found",
-    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
-    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
+    "No Save Snapshots Found": "Nisu pronađene sačuvane snimke stanja",
+    "Restore your saved game progress from a previous snapshot": "Vrati sačuvani napredak u igri iz prethodnog snimka stanja",
+    "SAVE SNAPSHOT": "SAČUVAJ SNIMAK STANJA"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Dodeljeno jezgro (core)/Upravljački sistem",
     "Background Music": "Pozadinska muzika",
     "Catalogue Packages": "Katalog paketa",
-    "Content Collection": "Content Collection",
+    "Content Collection": "Kolekcija sadržaja",
     "Friendly Name System": "Sistem prilagođenog imena",
     "History": "Istorija",
     "Languages": "Jezici",
@@ -342,7 +342,7 @@
     "Location of assigned core and governor configurations": "Lokacija dodeljenih konfiguracija jezgra (core) i upravljača",
     "Location of background music": "Lokacija pozadinske muzike",
     "Location of catalogue packages": "Lokacija kataloških paketa",
-    "Location of content collection": "Location of content collection",
+    "Location of content collection": "Lokacija zbirke sadržaja",
     "Location of content images and text": "Lokacija slika i teksta sadržaja",
     "Location of friendly name configurations": "Lokacija konfiguracija prilagođenog imena",
     "Location of history": "Lokacija istorija",
@@ -372,9 +372,9 @@
     "CPU Speed": "CPU Brzina",
     "Device Type": "Vrsta uređaja",
     "Linux Kernel": "Linux Kernel",
-    "Memory Cache Dropped": "Memory Cache Dropped",
+    "Memory Cache Dropped": "Memorijski keš je ispražnjen",
     "SYSTEM DETAILS": "DETALJI SISTEMA",
-    "System Memory": "System Memory",
+    "System Memory": "Sistemska memorija",
     "System Uptime": "System Uptime",
     "Temperature": "Temperatura",
     "The current CPU frequency of the device": "Trenutna CPU frekvencija uređaja",
@@ -400,7 +400,7 @@
     "Press any button to start input testing!": "Pritisnite bilo koji taster da započnete njihovo testiranje!"
   },
   "muxtimezone": {
-    "No Timezones Found…": "No Timezones Found…",
+    "No Timezones Found…": "Nisu pronađene vremenske zone…",
     "Saving Timezone": "Čuvanje vremenske zone",
     "Select your preferred timezone": "Odaberi svoju vremensku zonu",
     "TIMEZONE": "VREMENSKA ZONA"
@@ -470,7 +470,7 @@
     "Change the colour temperature of the display if the device supports it": "Promenite temperaturu boje prikaza ako uređaj to podržava",
     "Change where the device will start up into": "Promenite gde će se uređaj pokrenuti",
     "Colour Temperature": "Boja temperature",
-    "Content Collection": "Content Collection",
+    "Content Collection": "Kolekcija sadržaja",
     "Content Explorer": "Istraživač sadržaja",
     "Device Startup": "Startovanje uređaja",
     "GENERAL SETTINGS": "OPŠTA PODEŠAVANJA",
@@ -560,29 +560,29 @@
     "Toggle SFTP support - WebUI can be found on port 9090": "Uključi/isključi SFTP podršku - WebUI se može pronaći na portu 9090",
     "Toggle SSH support - Access via port 22": "Uključi/isključi SSH podršku - Pristup preko porta 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Uključi/isključi Syncthing - WebUI se može pronaći na portu 7070",
-    "Toggle Tailscale - Need to login via SSH first to configure it": "Toggle Tailscale - Need to login via SSH first to configure it",
+    "Toggle Tailscale - Need to login via SSH first to configure it": "Aktiviraj Tailscale - Prvo se prijavi putem SSH kako bi ga konfigurisao",
     "Toggle network time protocol for active network connections": "Uključi/isključi mrežni vremenski protokol (NTP) za aktivne mrežne konekcije",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Uključi/isključi virtuelni terminal - WebUI se može pronaći na portu 8080",
     "Virtual Terminal": "Virtualni Terminal",
     "WEB SERVICES": "WEB SERVISI"
   },
   "system": {
-    "Failed read command output": "Failed read command output",
-    "Failed to allocate memory": "Failed to allocate memory",
-    "Failed to close command stream": "Failed to close command stream",
-    "Failed to create file": "Failed to create file",
-    "Failed to delete file": "Failed to delete file",
-    "Failed to duplicate string": "Failed to duplicate string",
-    "Failed to fork": "Failed to fork",
-    "Failed to open /proc/partitions": "Failed to open /proc/partitions",
-    "Failed to open alternative joystick device": "Failed to open alternative joystick device",
-    "Failed to open directory": "Failed to open directory",
-    "Failed to open file": "Failed to open file",
-    "Failed to open file for reading": "Failed to open file for reading",
-    "Failed to open file for writing": "Failed to open file for writing",
-    "Failed to open joystick device": "Failed to open joystick device",
-    "Failed to retrieve file or directory status": "Failed to retrieve file or directory status",
-    "Failed to run command": "Failed to run command",
-    "Failed to use int16 - out of range": "Failed to use int16 - out of range"
+    "Failed read command output": "Greška pri čitanju izlaza komande",
+    "Failed to allocate memory": "Greška pri dodeljivanju memorije",
+    "Failed to close command stream": "Greška pri zatvaranju komandnog toka",
+    "Failed to create file": "Greška pri kreiranju fajla",
+    "Failed to delete file": "Greška pri brisanju fajla",
+    "Failed to duplicate string": "Greška pri dupliranju stringa",
+    "Failed to fork": "Greška pri forkanju",
+    "Failed to open /proc/partitions": "Greška pri otvaranju /proc/partitions",
+    "Failed to open alternative joystick device": "Greška pri otvaranju alternativnog uređaja za džojstik",
+    "Failed to open directory": "Greška pri otvaranju foldera",
+    "Failed to open file": "Greška pri otvaranju fajla",
+    "Failed to open file for reading": "Greška pri otvaranju fajla za čitanje",
+    "Failed to open file for writing": "Greška pri otvaranju fajla za pisanje",
+    "Failed to open joystick device": "Greška pri otvaranju uređaja za džojstik",
+    "Failed to retrieve file or directory status": "Nije moguće preuzeti status fajla ili foldera",
+    "Failed to run command": "Nije moguće izvršiti komandu",
+    "Failed to use int16 - out of range": "Nije moguće koristiti int16 - van opsega"
   }
 }
