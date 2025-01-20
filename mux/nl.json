@@ -131,7 +131,7 @@
     "Set the color range of RGB colour space": "Kleurenbereik instellen",
     "Set the color space, such as RGB or YUV": "Kleurenbereik instellen, bv. RGB of YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Schakelen tussen audio van de ingebouwde speaker of externe audio via HDMI",
-    "Switch between overscan or underscan to fit the display screen": "Kies tussen over- of onderscan om aan de schermafmetingen aan te passen",
+    "Switch between overscan or underscan to fit the display screen": "Gebruik de over- of onderscan om de schermafmetingen aan te passen",
     "Theme Resolution": "Thema resolutie",
     "Under": "Onder"
   },
@@ -343,7 +343,7 @@
     "Location of background music": "Locatie van achtergrondmuziek",
     "Location of catalogue packages": "Locatie van cataloguspakketten",
     "Location of content collection": "Locatie van contentcollectie",
-    "Location of content images and text": "Locatie van plaatjes en text",
+    "Location of content images and text": "Locatie van foto's en text",
     "Location of friendly name configurations": "Locatie van configuratie voor herkenbare naamgeving",
     "Location of history": "Locatie van geschiedenis",
     "Location of save states and files": "Locatie van savestates en savefiles",
