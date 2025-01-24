@@ -1,10 +1,10 @@
 {
   "generic": {
-    "Add": "Add",
-    "Added to Collection": "Added to Collection",
+    "Add": "추가",
+    "Added to Collection": "컬렉션에 추가됨",
     "Back": "이전",
     "Clear": "지우기",
-    "Collect": "Collect",
+    "Collect": "수집",
     "Directory": "폴더",
     "Disabled": "비활성화",
     "Enabled": "활성화됨",
@@ -13,24 +13,24 @@
     "Info": "상세",
     "Launch": "실행",
     "Load": "로드",
-    "Loading…": "Loading…",
+    "Loading…": "로드중…",
     "Migrate to SD2": "SD2로 마이그레이션",
-    "New": "New",
+    "New": "새로운",
     "No Help Information Found": "도움말 정보가 없음",
-    "No Information Found": "No Information Found",
+    "No Information Found": "정보가 없음",
     "Open": "열기",
     "Previous": "이전 상태",
     "Recursive": "하위 폴더 포함",
     "Remove": "제거",
     "Rescan": "재스캔",
-    "Restore": "Restore",
+    "Restore": "복원",
     "Save": "저장",
     "Select": "선택",
     "Switch to Information": "게임정보로 변경",
     "Switch to Preview Image": "프리뷰 이미지로 변경",
     "Sync to SD1": "SD1에 싱크",
     "This is disabled in kiosk mode!": "이것은 키오스크 모드에서 비활성화됨!",
-    "Unknown": "Unknown",
+    "Unknown": "알수없음",
     "Use": "사용"
   },
   "muxapp": {
@@ -70,11 +70,11 @@
     "Voltage": "배터리 전압"
   },
   "muxcollect": {
-    "COLLECTIONS": "COLLECTIONS",
-    "Collection folder is not empty": "Collection folder is not empty",
-    "Error loading content file": "Error loading content file",
-    "Error removing from Collections": "Error removing from Collections",
-    "Nothing Saved Yet…": "Nothing Saved Yet…"
+    "COLLECTIONS": "컬렉션",
+    "Collection folder is not empty": "컬렉션 폴더가 비어 있음",
+    "Error loading content file": "콘텐츠 파일 불러오기 에러",
+    "Error removing from Collections": "컬렉션에서 제거 오류",
+    "Nothing Saved Yet…": "아직 아무것도 저장되지 않음…"
   },
   "muxconfig": {
     "CONFIGURATION": "구성",
@@ -108,7 +108,7 @@
     "No Governors Found…": "거버너가 없음…"
   },
   "muxhdmi": {
-    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
+    "Allows for testing different theme resolutions": "다양한 테마 해상도 테스트 허용",
     "Audio Output": "오디오 출력",
     "Cannot modify while HDMI is active": "HDMI가 활성화된 동안에는 수정할 수 없음",
     "Colour Depth": "색상 심도",
@@ -125,22 +125,22 @@
     "Over": "오버",
     "Resolution": "해상도",
     "Scan Scaling": "스케일링 스캔",
-    "Screen": "Screen",
+    "Screen": "스크린",
     "Select the resolution for HDMI output, such as 720p or 1080p": "720p 또는 1080p 등 HDMI 출력 해상도를 선택",
     "Set the color depth, such as 8-bit or 10-bit": "8비트, 10비트 등 색상 심도를 설정",
     "Set the color range of RGB colour space": "RGB 색상 공간의 색상 범위를 설정",
     "Set the color space, such as RGB or YUV": "RGB 또는 YUV와 같은 색상 공간을 설정",
     "Switch between device speaker or external monitor audio via HDMI connection": "HDMI 연결을 통해 장치 스피커 또는 외부 모니터 오디오 간을 전환",
     "Switch between overscan or underscan to fit the display screen": "디스플레이 화면에 맞게 오버스캔 또는 언더스캔 간을 전환",
-    "Theme Resolution": "Theme Resolution",
+    "Theme Resolution": "테마 해상도",
     "Under": "언더"
   },
   "muxhistory": {
-    "Error loading content file": "Error loading content file",
-    "Error removing from History": "Error removing from History",
-    "HISTORY": "HISTORY",
-    "Nothing Played Yet…": "Nothing Played Yet…",
-    "Removed from History": "Removed from History"
+    "Error loading content file": "콘텐츠 파일 불러오기 에러",
+    "Error removing from History": "최근 실행에서 제거 오류",
+    "HISTORY": "최근 실행",
+    "Nothing Played Yet…": "아직 아무것도 플레이 하지 않음…",
+    "Removed from History": "최근 실행에서 제거됨"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "플레이한 콘텐츠 및 기타 활동 통계에 액세스",
@@ -161,9 +161,9 @@
   },
   "muxlaunch": {
     "Applications": "어플리케이션",
-    "Collection": "Collection",
+    "Collection": "컬렉션",
     "Configuration": "구성",
-    "Content added to collections can be found and launched here": "Content added to collections can be found and launched here",
+    "Content added to collections can be found and launched here": "컬렉션에 추가된 콘텐츠는 여기에서 찾아 실행할 수 있음",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "저장 장치(SD1/SD2/USB)의 콘텐츠를 찾아 실행",
     "Content previously launched can be found and launched here": "이전에 플레이 한 콘텐츠를 찾아 실행",
     "Explore Content": "콘텐츠 탐색",
@@ -258,13 +258,13 @@
     "There are no attributed credits!": "기여 크레딧이 없음!"
   },
   "muxplore": {
-    "Content is not associated with system or core": "Content is not associated with system or core",
-    "Could not load content": "Could not load content",
+    "Content is not associated with system or core": "콘텐츠가 시스템이나 코어와 연결되지 않음",
+    "Could not load content": "콘텐츠를 불러 올수 없음",
     "EXPLORE": "탐색",
-    "Folders cannot be added to collections": "Folders cannot be added to collections",
-    "No Content Found…": "No Content Found…",
+    "Folders cannot be added to collections": "컬렉션에 폴더를 추가할 수 없음",
+    "No Content Found…": "콘텐츠가 없음…",
     "Refresh": "새로고침",
-    "Refreshing…": "Refreshing…"
+    "Refreshing…": "새로 고침중…"
   },
   "muxpower": {
     "10m": "10분",
@@ -321,15 +321,15 @@
     "Searching…": "탐색 중…"
   },
   "muxsnapshot": {
-    "No Save Snapshots Found": "No Save Snapshots Found",
-    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
-    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
+    "No Save Snapshots Found": "저장 스냅샷을 찾을 수 없음",
+    "Restore your saved game progress from a previous snapshot": "이전 스냅샷으로부터 저장된 게임 진행을 복원",
+    "SAVE SNAPSHOT": "스냅샷 저장"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "할당된 코어/거버너 시스템",
     "Background Music": "배경 음악",
     "Catalogue Packages": "카탈로그 패키지",
-    "Content Collection": "Content Collection",
+    "Content Collection": "콘텐츠 컬렉션",
     "Friendly Name System": "친숙한 이름 시스템",
     "History": "최근 실행",
     "Languages": "언어",
@@ -342,7 +342,7 @@
     "Location of assigned core and governor configurations": "할당된 코어와 거버너 구성 위치",
     "Location of background music": "배경 음악 위치",
     "Location of catalogue packages": "카탈로그 패키지 위치",
-    "Location of content collection": "Location of content collection",
+    "Location of content collection": "콘텐츠 컬렉션 위치",
     "Location of content images and text": "콘텐츠 이미지와 텍스트 위치",
     "Location of friendly name configurations": "친숙한 이름 구성 위치",
     "Location of history": "최근 실행 위치",
@@ -372,7 +372,7 @@
     "CPU Speed": "CPU 속도",
     "Device Type": "장치 유형",
     "Linux Kernel": "리눅스 커널",
-    "Memory Cache Dropped": "Memory Cache Dropped",
+    "Memory Cache Dropped": "메모리 캐시 삭제됨",
     "SYSTEM DETAILS": "시스템 상세정보",
     "System Memory": "시스템 메모리",
     "System Uptime": "시스템 업타임",
@@ -470,7 +470,7 @@
     "Change the colour temperature of the display if the device supports it": "장치가 지원하는 경우 디스플레이의 색온도를 변경",
     "Change where the device will start up into": "장치가 시작되는 위치 변경",
     "Colour Temperature": "색 온도",
-    "Content Collection": "Content Collection",
+    "Content Collection": "콘텐츠 컬렉션",
     "Content Explorer": "콘텐츠 탐색기",
     "Device Startup": "장치 시작 위치",
     "GENERAL SETTINGS": "일반 설정",
@@ -583,6 +583,6 @@
     "Failed to open joystick device": "조이스틱 장치 열기 실패함",
     "Failed to retrieve file or directory status": "파일 또는 디렉터리 상태 조회 실패함",
     "Failed to run command": "명령 실행 실패함",
-    "Failed to use int16 - out of range": "Failed to use int16 - out of range"
+    "Failed to use int16 - out of range": "nt16을 사용 실패 - 범위를 벗어남"
   }
 }
