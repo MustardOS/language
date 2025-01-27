@@ -1,3 +1,5 @@
+ar:Arabic
+bg:Bulgarian
 ca:Catalan
 ca@valencia:Valencian
 cs:Czech
@@ -14,11 +16,13 @@ hr:Croatian
 it:Italian
 ja:Japanese
 ko:Korean
+mt:Maltese
 nl:Dutch
 pl:Polish
 pt_BR:Portuguese (BR)
 pt_PT:Portuguese (PT)
 ru:Russian
+sl:Slovenian
 sr:Serbian
 sv:Swedish
 tr:Turkish
