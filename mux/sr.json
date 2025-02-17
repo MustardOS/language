@@ -107,6 +107,7 @@
     "Wi-Fi Network": "Wi-Fi Network"
   },
   "muxcustom": {
+    "Alternative Theme": "Alternative Theme",
     "Background Animation": "Background Animation",
     "Background Music": "Background Music",
     "Behind": "Behind",
@@ -137,6 +138,7 @@
     "Navigation Sound": "Navigation Sound",
     "RetroArch Configurations": "RetroArch podešavanja",
     "Theme": "Theme",
+    "Theme Picker": "Theme Picker",
     "Toggle the background animation of the current selected theme": "Toggle the background animation of the current selected theme",
     "Toggle the background music of the frontend - This will stop if content is launched": "Toggle the background music of the frontend - This will stop if content is launched",
     "Toggle the fade to black animation on content launching": "Toggle the fade to black animation on content launching",
@@ -209,13 +211,17 @@
   },
   "muxlaunch": {
     "Applications": "Aplikacije",
+    "Apps": "Apps",
     "Collection": "Kolekcija",
+    "Config": "Config",
     "Configuration": "Podešavanje",
+    "Content": "Content",
     "Content added to collections can be found and launched here": "Sadržaj dodat u kolekcije može se pronaći i pokrenuti ovde",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Sadržaj na uređajima za skladištenje (SD1/SD2/USB) može se pronaći i pokrenuti ovde",
     "Content previously launched can be found and launched here": "Sadržaj koji je ranije pokrenut može se pronaći i pokrenuti ovde",
     "Explore Content": "Istraži sadržaj",
     "History": "Istorija",
+    "Info": "Info",
     "Information": "Informacije",
     "Kiosk configuration not found": "Konfiguracija kioska nije pronađena",
     "MAIN MENU": "GLAVNI MENI",
