@@ -213,15 +213,15 @@
     "Applications": "Aplikacje",
     "Apps": "Aplikacje",
     "Collection": "Kolekcja",
-    "Config": "Config",
+    "Config": "Konfiguracja",
     "Configuration": "Konfiguracja",
-    "Content": "Content",
+    "Content": "Zawartość",
     "Content added to collections can be found and launched here": "Można tu znaleźć i uruchomić zawartość dodaną do kolekcji",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Można tutaj znaleźć i uruchomić zawartość na urządzeniach pamięci masowej (SD1/SD2/USB)",
     "Content previously launched can be found and launched here": "Można tutaj znaleźć i uruchomić poprzednio włączaną zawartość",
     "Explore Content": "Przeglądaj zawartość",
     "History": "Historia",
-    "Info": "Info",
+    "Info": "Informacje",
     "Information": "Informacje",
     "Kiosk configuration not found": "Nie znaleziono konfiguracji trybu kiosku",
     "MAIN MENU": "MENU GŁÓWNE",
@@ -384,8 +384,8 @@
     "SAVE SNAPSHOT": "ZAPISZ ZRZUT"
   },
   "muxspace": {
-    "STORAGE SPACE": "STORAGE SPACE",
-    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
+    "STORAGE SPACE": "MIEJSCE W PAMIĘCI",
+    "View the current used space of the mounted storage devices": "Zobacz stan miejsca na zamontowanych urządzeniach przechowywania"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Przypisany rdzeń/system regulatora",
