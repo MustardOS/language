@@ -107,6 +107,7 @@
     "Wi-Fi Network": "Red Wi-Fi"
   },
   "muxcustom": {
+    "Alternative Theme": "Alternative Theme",
     "Background Animation": "Animación de fondo",
     "Background Music": "Música de fondo",
     "Behind": "Detrás",
@@ -137,6 +138,7 @@
     "Navigation Sound": "Sonido de navegación",
     "RetroArch Configurations": "Configuraciones RetroArch",
     "Theme": "Tema",
+    "Theme Picker": "Theme Picker",
     "Toggle the background animation of the current selected theme": "Alternar la animación de fondo del tema seleccionado actualmente",
     "Toggle the background music of the frontend - This will stop if content is launched": "Activar o desactivar la música de fondo del interfaz: esto se detendrá si se lanza contenido",
     "Toggle the fade to black animation on content launching": "Activar o desactivar la animación de fundido a negro al iniciar el contenido",
@@ -209,13 +211,17 @@
   },
   "muxlaunch": {
     "Applications": "Aplicaciones",
+    "Apps": "Apps",
     "Collection": "Colección",
+    "Config": "Config",
     "Configuration": "Configuración",
+    "Content": "Content",
     "Content added to collections can be found and launched here": "El contenido añadido a las colecciones se puede encontrar y ejecutar aquí",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Aquí puedes encontrar y lanzar el contenido en dispositivos de almacenamiento (SD1/SD2/USB)",
     "Content previously launched can be found and launched here": "Aquí puedes encontrar y lanzar el contenido que se ha lanzado anteriormente",
     "Explore Content": "Explorar contenido",
     "History": "Historial",
+    "Info": "Info",
     "Information": "Información",
     "Kiosk configuration not found": "No se encontró la configuración del quiosco",
     "MAIN MENU": "MENÚ PRINCIPAL",
