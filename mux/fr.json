@@ -107,7 +107,7 @@
     "Wi-Fi Network": "Réseau Wi-Fi"
   },
   "muxcustom": {
-    "Alternative Theme": "Alternative Theme",
+    "Alternative Theme": "Variantes du thème",
     "Background Animation": "Animation d'arrière-plan",
     "Background Music": "Musique de fond",
     "Behind": "Derrière",
@@ -138,7 +138,7 @@
     "Navigation Sound": "Sons de navigation",
     "RetroArch Configurations": "Configurations RetroArch",
     "Theme": "Thème",
-    "Theme Picker": "Theme Picker",
+    "Theme Picker": "Sélecteur de thème",
     "Toggle the background animation of the current selected theme": "Activez/désactivez l'animation d'arrière-plan du thème actuellement sélectionné",
     "Toggle the background music of the frontend - This will stop if content is launched": "Activez/désactivez la musique de fond de l'interface - La musique s'arrêtera au lancement du contenu",
     "Toggle the fade to black animation on content launching": "Activez/désactivez l'animation de fondu noir lors du lancement du contenu",
@@ -194,14 +194,14 @@
     "Activity Tracker": "Traceur d'activité",
     "INFORMATION": "INFORMATIONS",
     "Input Tester": "Testeur de commandes",
-    "Screenshots": "Screenshots",
-    "Storage Space": "Storage Space",
+    "Screenshots": "Captures d'écran",
+    "Storage Space": "Espace de stockage",
     "Supporters": "Supporters",
     "System Details": "Détails du système",
     "Test the controls of the device": "Testez les commandes de la console",
     "View all of the current muOS supporters": "Voir tous les supporters actuels de muOS",
-    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
-    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
+    "View all of the screenshots taken on the device": "Afficher toutes les captures d'écran prises sur la console",
+    "View the current used space of the mounted storage devices": "Afficher l'espace actuellement utilisé sur les périphériques de stockage montés"
   },
   "muxlanguage": {
     "LANGUAGE": "LANGUE",
@@ -211,17 +211,17 @@
   },
   "muxlaunch": {
     "Applications": "Applications",
-    "Apps": "Apps",
+    "Apps": "Applis",
     "Collection": "Collection",
     "Config": "Config",
     "Configuration": "Configuration",
-    "Content": "Content",
+    "Content": "Contenu",
     "Content added to collections can be found and launched here": "Le contenu ajouté aux collections peut être trouvé et lancé ici",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Le contenu sur les périphériques de stockage (SD1/SD2/USB) peut être trouvé et lancé ici",
     "Content previously launched can be found and launched here": "Le contenu précédemment lancé peut être trouvé et lancé ici",
     "Explore Content": "Explorer le contenu",
     "History": "Historique",
-    "Info": "Info",
+    "Info": "Infos",
     "Information": "Informations",
     "Kiosk configuration not found": "Configuration kiosque non trouvée",
     "MAIN MENU": "MENU PRINCIPAL",
@@ -384,8 +384,8 @@
     "SAVE SNAPSHOT": "INSTANTANÉ DE SAUVEGARDE"
   },
   "muxspace": {
-    "STORAGE SPACE": "STORAGE SPACE",
-    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
+    "STORAGE SPACE": "ESPACE DE STOCKAGE",
+    "View the current used space of the mounted storage devices": "Afficher l'espace actuellement utilisé sur les périphériques de stockage montés"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Émulateur/Gouverneur système assigné",
