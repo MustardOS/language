@@ -107,6 +107,7 @@
     "Wi-Fi Network": "無線網路"
   },
   "muxcustom": {
+    "Alternative Theme": "Alternative Theme",
     "Background Animation": "背景動畫",
     "Background Music": "背景音樂",
     "Behind": "置後",
@@ -137,6 +138,7 @@
     "Navigation Sound": "導航音效",
     "RetroArch Configurations": "RetroArch配置",
     "Theme": "主題",
+    "Theme Picker": "Theme Picker",
     "Toggle the background animation of the current selected theme": "切換目前主題的背景動畫",
     "Toggle the background music of the frontend - This will stop if content is launched": "切換前端的背景音樂 - 如果內容啟動將停止音樂",
     "Toggle the fade to black animation on content launching": "在內容啟動時是否顯示黑色淡出動畫",
@@ -209,13 +211,17 @@
   },
   "muxlaunch": {
     "Applications": "應用程式",
+    "Apps": "Apps",
     "Collection": "收藏夾",
+    "Config": "Config",
     "Configuration": "系統設置",
+    "Content": "Content",
     "Content added to collections can be found and launched here": "可在此查找並啟動添加到收藏夾中的內容",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "可在此查找並啟動儲存裝置 (SD1/SD2/USB) 上的內容",
     "Content previously launched can be found and launched here": "可在此查找並啟動已遊玩過的內容",
     "Explore Content": "瀏覽內容",
     "History": "遊玩記錄",
+    "Info": "Info",
     "Information": "資訊",
     "Kiosk configuration not found": "找不到Kiosk配置",
     "MAIN MENU": "主選單",
