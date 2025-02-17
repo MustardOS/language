@@ -194,10 +194,14 @@
     "Activity Tracker": "액티비티 트래커",
     "INFORMATION": "정보",
     "Input Tester": "인풋 테스트기",
+    "Screenshots": "Screenshots",
+    "Storage Space": "Storage Space",
     "Supporters": "후원 감사의 말",
     "System Details": "시스템 상세정보",
     "Test the controls of the device": "장치의 컨트롤러를 테스트",
-    "View all of the current muOS supporters": "감사 인사와 현재 muOS 지원자를 모두 확인함"
+    "View all of the current muOS supporters": "감사 인사와 현재 muOS 지원자를 모두 확인함",
+    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxlanguage": {
     "LANGUAGE": "언어",
@@ -374,6 +378,10 @@
     "No Save Snapshots Found": "저장 스냅샷을 찾을 수 없음",
     "Restore your saved game progress from a previous snapshot": "이전 스냅샷으로부터 저장된 게임 진행을 복원",
     "SAVE SNAPSHOT": "스냅샷 저장"
+  },
+  "muxspace": {
+    "STORAGE SPACE": "STORAGE SPACE",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "할당된 코어/거버너 시스템",
