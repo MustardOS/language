@@ -107,7 +107,7 @@
     "Wi-Fi Network": "Sieć Wi-Fi"
   },
   "muxcustom": {
-    "Alternative Theme": "Alternative Theme",
+    "Alternative Theme": "Alternatywny motyw",
     "Background Animation": "Animacja w tle",
     "Background Music": "Muzyka w tle",
     "Behind": "Tył",
@@ -138,7 +138,7 @@
     "Navigation Sound": "Dźwięk nawigacji",
     "RetroArch Configurations": "Konfiguracje RetroArch",
     "Theme": "Motyw",
-    "Theme Picker": "Theme Picker",
+    "Theme Picker": "Wybór motywu",
     "Toggle the background animation of the current selected theme": "Włącz animację tła bieżącego motywu",
     "Toggle the background music of the frontend - This will stop if content is launched": "Włącz muzykę w tle interfejsu - Zatrzyma się po uruchomieniu zawartości",
     "Toggle the fade to black animation on content launching": "Włącz animację zanikania podczas uruchamiania zawartości",
@@ -194,14 +194,14 @@
     "Activity Tracker": "Monitor aktywności",
     "INFORMATION": "INFORMACJE",
     "Input Tester": "Tester przycisków",
-    "Screenshots": "Screenshots",
-    "Storage Space": "Storage Space",
+    "Screenshots": "Zrzuty ekranu",
+    "Storage Space": "Przestrzeń dyskowa",
     "Supporters": "Wspierający",
     "System Details": "Szczegóły systemu",
     "Test the controls of the device": "Sprawdź przyciski urządzenia",
     "View all of the current muOS supporters": "Zobacz wszystkich aktualnie wspierających muOS",
-    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
-    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
+    "View all of the screenshots taken on the device": "Zobacz wszystkie zrzuty ekranu z tego urządzenia",
+    "View the current used space of the mounted storage devices": "Zobacz wykorzystaną przestrzeń podłączonych urządzeń"
   },
   "muxlanguage": {
     "LANGUAGE": "JĘZYK",
@@ -211,7 +211,7 @@
   },
   "muxlaunch": {
     "Applications": "Aplikacje",
-    "Apps": "Apps",
+    "Apps": "Aplikacje",
     "Collection": "Kolekcja",
     "Config": "Config",
     "Configuration": "Konfiguracja",
