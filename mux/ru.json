@@ -194,10 +194,14 @@
     "Activity Tracker": "Счетчик активности",
     "INFORMATION": "ИНФОРМАЦИЯ",
     "Input Tester": "Проверка кнопок",
+    "Screenshots": "Screenshots",
+    "Storage Space": "Storage Space",
     "Supporters": "Поддержка",
     "System Details": "О системе",
     "Test the controls of the device": "Проверка элементов управления устройства",
-    "View all of the current muOS supporters": "Посмотреть всех, кто поддерживает muOS"
+    "View all of the current muOS supporters": "Посмотреть всех, кто поддерживает muOS",
+    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxlanguage": {
     "LANGUAGE": "ЯЗЫК",
@@ -374,6 +378,10 @@
     "No Save Snapshots Found": "Сохраненных снэпшотов не найдено",
     "Restore your saved game progress from a previous snapshot": "Восстановление сохраненного игрового прогресса из предыдущего снэпшота",
     "SAVE SNAPSHOT": "СОХРАНИТЬ СНЭПШОТ"
+  },
+  "muxspace": {
+    "STORAGE SPACE": "STORAGE SPACE",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Назначенное ядро/говернор системы",
