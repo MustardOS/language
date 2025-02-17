@@ -107,6 +107,7 @@
     "Wi-Fi Network": "Wi-Fi 네트워크"
   },
   "muxcustom": {
+    "Alternative Theme": "Alternative Theme",
     "Background Animation": "배경 애니메이션",
     "Background Music": "배경 음악",
     "Behind": "뒤에",
@@ -137,6 +138,7 @@
     "Navigation Sound": "이동 효과음",
     "RetroArch Configurations": "레트로아크 구성",
     "Theme": "테마",
+    "Theme Picker": "Theme Picker",
     "Toggle the background animation of the current selected theme": "현재 선택한 테마의 배경 애니메이션 표시 여부 토글",
     "Toggle the background music of the frontend - This will stop if content is launched": "프런트엔드의 배경 음악을 토글\\n- 배경 음악은 콘텐츠가 실행되면 중지됩니다",
     "Toggle the fade to black animation on content launching": "콘텐츠 실행 시 검은색 애니메이션으로 페이드 적용 여부 토글",
@@ -209,13 +211,17 @@
   },
   "muxlaunch": {
     "Applications": "어플리케이션",
+    "Apps": "Apps",
     "Collection": "컬렉션",
+    "Config": "Config",
     "Configuration": "구성",
+    "Content": "Content",
     "Content added to collections can be found and launched here": "컬렉션에 추가된 콘텐츠는 여기에서 찾아 실행할 수 있음",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "저장 장치(SD1/SD2/USB)의 콘텐츠를 찾아 실행",
     "Content previously launched can be found and launched here": "이전에 플레이 한 콘텐츠를 찾아 실행",
     "Explore Content": "콘텐츠 탐색",
     "History": "최근 실행",
+    "Info": "Info",
     "Information": "정보",
     "Kiosk configuration not found": "키오스크 구성 없음",
     "MAIN MENU": "메인 메뉴",
