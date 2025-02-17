@@ -194,10 +194,14 @@
     "Activity Tracker": "Activiteitstracker",
     "INFORMATION": "INFORMATIE",
     "Input Tester": "Test besturing",
+    "Screenshots": "Screenshots",
+    "Storage Space": "Storage Space",
     "Supporters": "Supporters",
     "System Details": "Systeemdetails",
     "Test the controls of the device": "De bediening van het apparaat testen",
-    "View all of the current muOS supporters": "Bekijk alle huidige muOS-supporters"
+    "View all of the current muOS supporters": "Bekijk alle huidige muOS-supporters",
+    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxlanguage": {
     "LANGUAGE": "TAAL",
@@ -374,6 +378,10 @@
     "No Save Snapshots Found": "Geen opslag snapshots gevonden",
     "Restore your saved game progress from a previous snapshot": "Herstel uw spelvoortgang vanuit een eerdere snapshot",
     "SAVE SNAPSHOT": "SNAPSHOT OPSLAAN"
+  },
+  "muxspace": {
+    "STORAGE SPACE": "STORAGE SPACE",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Toegewezen Core/CPU-regulator",

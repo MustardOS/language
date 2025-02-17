@@ -194,10 +194,14 @@
     "Activity Tracker": "Sledenje aktivnosti",
     "INFORMATION": "INFORMACIJE",
     "Input Tester": "Preizkuševalnik vhodnih naprav",
+    "Screenshots": "Screenshots",
+    "Storage Space": "Storage Space",
     "Supporters": "Podporniki",
     "System Details": "Podrobnosti Sistema",
     "Test the controls of the device": "Preizkusite krmilnike naprave",
-    "View all of the current muOS supporters": "Ogled vseh trenutnih podpornikov muOS"
+    "View all of the current muOS supporters": "Ogled vseh trenutnih podpornikov muOS",
+    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxlanguage": {
     "LANGUAGE": "LANGUAGE",
@@ -374,6 +378,10 @@
     "No Save Snapshots Found": "No Save Snapshots Found",
     "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
     "SAVE SNAPSHOT": "SAVE SNAPSHOT"
+  },
+  "muxspace": {
+    "STORAGE SPACE": "STORAGE SPACE",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Dodeljeno Jedro/Sistem upravljavca",

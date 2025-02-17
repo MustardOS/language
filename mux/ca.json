@@ -194,10 +194,14 @@
     "Activity Tracker": "Monitor d'activitat",
     "INFORMATION": "INFORMACIÓ",
     "Input Tester": "Comprovador d'entrada",
+    "Screenshots": "Screenshots",
+    "Storage Space": "Storage Space",
     "Supporters": "Col·laboradors",
     "System Details": "Detalls del sistema",
     "Test the controls of the device": "Prova els controls del dispositiu.",
-    "View all of the current muOS supporters": "Veure tots els col·laboradors actuals de muOS."
+    "View all of the current muOS supporters": "Veure tots els col·laboradors actuals de muOS.",
+    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxlanguage": {
     "LANGUAGE": "LANGUAGE",
@@ -374,6 +378,10 @@
     "No Save Snapshots Found": "No Save Snapshots Found",
     "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
     "SAVE SNAPSHOT": "SAVE SNAPSHOT"
+  },
+  "muxspace": {
+    "STORAGE SPACE": "STORAGE SPACE",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Assigned Core/Governor System",

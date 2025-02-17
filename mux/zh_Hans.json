@@ -194,10 +194,14 @@
     "Activity Tracker": "游玩记录",
     "INFORMATION": "信息",
     "Input Tester": "输入测试",
+    "Screenshots": "Screenshots",
+    "Storage Space": "Storage Space",
     "Supporters": "赞助者鸣谢",
     "System Details": "系统详情",
     "Test the controls of the device": "测试设备按键控制",
-    "View all of the current muOS supporters": "查看当前所有muOS赞助者信息"
+    "View all of the current muOS supporters": "查看当前所有muOS赞助者信息",
+    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxlanguage": {
     "LANGUAGE": "语言",
@@ -374,6 +378,10 @@
     "No Save Snapshots Found": "未找到即时存档",
     "Restore your saved game progress from a previous snapshot": "从上一个即时存档文件恢复游戏进度",
     "SAVE SNAPSHOT": "即时存档"
+  },
+  "muxspace": {
+    "STORAGE SPACE": "STORAGE SPACE",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "分配核心/调度方案系统",

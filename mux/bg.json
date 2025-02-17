@@ -194,10 +194,14 @@
     "Activity Tracker": "Следене на дейността",
     "INFORMATION": "ИНФОРМАЦИЯ",
     "Input Tester": "Тестер на бутоните",
+    "Screenshots": "Screenshots",
+    "Storage Space": "Storage Space",
     "Supporters": "Поддръжници",
     "System Details": "Детайли на Системата",
     "Test the controls of the device": "Тествай бутоните на устройството",
-    "View all of the current muOS supporters": "Вижте всички текущи поддръжници на muOS"
+    "View all of the current muOS supporters": "Вижте всички текущи поддръжници на muOS",
+    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxlanguage": {
     "LANGUAGE": "ЕЗИК",
@@ -374,6 +378,10 @@
     "No Save Snapshots Found": "Не са намерени запазени статуси",
     "Restore your saved game progress from a previous snapshot": "Възстанови запазения напредък в играта от предишен статус",
     "SAVE SNAPSHOT": "ЗАПАЗИ СТАТУС"
+  },
+  "muxspace": {
+    "STORAGE SPACE": "STORAGE SPACE",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Свързано Ядро/Системен Регулатор",

@@ -194,10 +194,14 @@
     "Activity Tracker": "アクティビティ確認",
     "INFORMATION": "情報",
     "Input Tester": "入力テスト",
+    "Screenshots": "Screenshots",
+    "Storage Space": "Storage Space",
     "Supporters": "サポーター",
     "System Details": "システム詳細",
     "Test the controls of the device": "デバイスの入力テストをします",
-    "View all of the current muOS supporters": "現在の muOS のサポーター一覧を表示します"
+    "View all of the current muOS supporters": "現在の muOS のサポーター一覧を表示します",
+    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxlanguage": {
     "LANGUAGE": "言語",
@@ -374,6 +378,10 @@
     "No Save Snapshots Found": "中断セーブが見つかりませんでした",
     "Restore your saved game progress from a previous snapshot": "中断セーブから再開します",
     "SAVE SNAPSHOT": "中断セーブ"
+  },
+  "muxspace": {
+    "STORAGE SPACE": "STORAGE SPACE",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "関連づけられたコア/ガバナー",
