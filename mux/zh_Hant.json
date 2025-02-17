@@ -194,10 +194,14 @@
     "Activity Tracker": "活動追蹤器",
     "INFORMATION": "資訊",
     "Input Tester": "按鍵測試",
+    "Screenshots": "Screenshots",
+    "Storage Space": "Storage Space",
     "Supporters": "贊助者",
     "System Details": "系統詳情",
     "Test the controls of the device": "測試設備的按鍵控制",
-    "View all of the current muOS supporters": "查看目前所有 muOS 贊助者"
+    "View all of the current muOS supporters": "查看目前所有 muOS 贊助者",
+    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxlanguage": {
     "LANGUAGE": "語言",
@@ -374,6 +378,10 @@
     "No Save Snapshots Found": "找不到已儲存的快照",
     "Restore your saved game progress from a previous snapshot": "從先前的快照恢復您已儲存的遊戲進度",
     "SAVE SNAPSHOT": "儲存快照"
+  },
+  "muxspace": {
+    "STORAGE SPACE": "STORAGE SPACE",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "分配 核心/調控方案 系統",
