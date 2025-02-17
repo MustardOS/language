@@ -107,6 +107,7 @@
     "Wi-Fi Network": "Wi-Fi Network"
   },
   "muxcustom": {
+    "Alternative Theme": "Alternative Theme",
     "Background Animation": "Background Animation",
     "Background Music": "Background Music",
     "Behind": "Behind",
@@ -137,6 +138,7 @@
     "Navigation Sound": "Navigation Sound",
     "RetroArch Configurations": "Конфигурации RetroArch",
     "Theme": "Theme",
+    "Theme Picker": "Theme Picker",
     "Toggle the background animation of the current selected theme": "Toggle the background animation of the current selected theme",
     "Toggle the background music of the frontend - This will stop if content is launched": "Toggle the background music of the frontend - This will stop if content is launched",
     "Toggle the fade to black animation on content launching": "Toggle the fade to black animation on content launching",
@@ -209,13 +211,17 @@
   },
   "muxlaunch": {
     "Applications": "Приложения",
+    "Apps": "Apps",
     "Collection": "Колекция",
+    "Config": "Config",
     "Configuration": "Настройки",
+    "Content": "Content",
     "Content added to collections can be found and launched here": "Съдържанието, добавено към колекциите, може да бъде намерено и стартирано тук",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Съдържание в устройствата за съхранение (SD1/SD2/USB) може да бъде намерено и стартирано тук",
     "Content previously launched can be found and launched here": "По-рано пуснатото съдържание може да бъде намерено и стартирано тук",
     "Explore Content": "Търси Съдържание",
     "History": "История",
+    "Info": "Info",
     "Information": "Информация",
     "Kiosk configuration not found": "Конфигурацията на киоск не е намерена",
     "MAIN MENU": "ГЛАВНО МЕНЮ",
