@@ -107,6 +107,7 @@
     "Wi-Fi Network": "Wi-Fi Network"
   },
   "muxcustom": {
+    "Alternative Theme": "Alternative Theme",
     "Background Animation": "Background Animation",
     "Background Music": "Background Music",
     "Behind": "Behind",
@@ -137,6 +138,7 @@
     "Navigation Sound": "Navigation Sound",
     "RetroArch Configurations": "RetroArch配置",
     "Theme": "Theme",
+    "Theme Picker": "Theme Picker",
     "Toggle the background animation of the current selected theme": "Toggle the background animation of the current selected theme",
     "Toggle the background music of the frontend - This will stop if content is launched": "Toggle the background music of the frontend - This will stop if content is launched",
     "Toggle the fade to black animation on content launching": "Toggle the fade to black animation on content launching",
@@ -209,13 +211,17 @@
   },
   "muxlaunch": {
     "Applications": "应用",
+    "Apps": "Apps",
     "Collection": "收藏夹",
+    "Config": "Config",
     "Configuration": "系统设置",
+    "Content": "Content",
     "Content added to collections can be found and launched here": "添加收藏的内容，在此处可启动",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "查看并启动存储设备（SD1/SD2/USB）上的内容",
     "Content previously launched can be found and launched here": "查看并启动此前游玩过的内容",
     "Explore Content": "浏览内容",
     "History": "历史",
+    "Info": "Info",
     "Information": "信息",
     "Kiosk configuration not found": "访客模式配置未找到",
     "MAIN MENU": "主菜单",
