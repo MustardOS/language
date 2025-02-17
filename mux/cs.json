@@ -137,7 +137,6 @@
     "Navigation Sound": "Zvuk navigace",
     "RetroArch Configurations": "Konfigurace RetroArch",
     "Theme": "Téma",
-    "Theme Alternates": "Téma Alternativy",
     "Toggle the background animation of the current selected theme": "Přepnout animaci na pozadí aktuálně vybraného motivu",
     "Toggle the background music of the frontend - This will stop if content is launched": "Přepnout hudbu na pozadí frontendu – toto se zastaví, pokud se spustí obsah",
     "Toggle the fade to black animation on content launching": "Přepněte animaci prolínání na černou při spouštění obsahu",
@@ -145,8 +144,7 @@
     "Toggle the splash image on content launching": "Přepnout úvodní obrázek při spouštění obsahu",
     "Top Left": "Vlevo nahoře",
     "Top Middle": "Nahoře uprostřed",
-    "Top Right": "Vpravo nahoře",
-    "muOS Themes": "Témata muOS"
+    "Top Right": "Vpravo nahoře"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Nakonfigurujte regulátory CPU tak, aby dynamicky upravovaly frekvenci CPU a pomáhaly vyvážit spotřebu energie a výkon",

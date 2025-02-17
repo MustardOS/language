@@ -137,7 +137,6 @@
     "Navigation Sound": "Navigation Sound",
     "RetroArch Configurations": "RetroArch-Konfigurationen",
     "Theme": "Theme",
-    "Theme Alternates": "Theme Alternates",
     "Toggle the background animation of the current selected theme": "Toggle the background animation of the current selected theme",
     "Toggle the background music of the frontend - This will stop if content is launched": "Toggle the background music of the frontend - This will stop if content is launched",
     "Toggle the fade to black animation on content launching": "Toggle the fade to black animation on content launching",
@@ -145,8 +144,7 @@
     "Toggle the splash image on content launching": "Toggle the splash image on content launching",
     "Top Left": "Top Left",
     "Top Middle": "Top Middle",
-    "Top Right": "Top Right",
-    "muOS Themes": "muOS-Themen"
+    "Top Right": "Top Right"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU-Governors konfigurieren, um die CPU-Frequenz dynamisch anzupassen und ein Gleichgewicht zwischen Stromverbrauch und Leistung herzustellen",
