@@ -194,10 +194,14 @@
     "Activity Tracker": "Lorgaire Gníomhaíochta",
     "INFORMATION": "EOLAS",
     "Input Tester": "Tástálaí Ionchurtha",
+    "Screenshots": "Screenshots",
+    "Storage Space": "Storage Space",
     "Supporters": "Lucht tacaíochta",
     "System Details": "Sonraí an Chórais",
     "Test the controls of the device": "Tástáil rialuithe na feiste",
-    "View all of the current muOS supporters": "Féach ar gach ceann de na tacadóirí muOS reatha"
+    "View all of the current muOS supporters": "Féach ar gach ceann de na tacadóirí muOS reatha",
+    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxlanguage": {
     "LANGUAGE": "TEANGA",
@@ -374,6 +378,10 @@
     "No Save Snapshots Found": "Níor aimsíodh aon Ghrianghraif Sábháil",
     "Restore your saved game progress from a previous snapshot": "Athchóirigh do dhul chun cinn cluiche sábháilte ó ghrianghraf roimhe seo",
     "SAVE SNAPSHOT": "SÁBHÁIL GAIRM"
+  },
+  "muxspace": {
+    "STORAGE SPACE": "STORAGE SPACE",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Córas Croí/Gobharnóir Sannta",
