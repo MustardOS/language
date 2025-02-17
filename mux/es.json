@@ -194,14 +194,14 @@
     "Activity Tracker": "Monitor de actividad",
     "INFORMATION": "INFORMACIÓN",
     "Input Tester": "Probador de entrada",
-    "Screenshots": "Screenshots",
-    "Storage Space": "Storage Space",
+    "Screenshots": "Capturas de pantalla",
+    "Storage Space": "Espacio de Almacenamiento",
     "Supporters": "Colaboradores",
     "System Details": "Detalles del sistema",
     "Test the controls of the device": "Prueba los controles del dispositivo",
     "View all of the current muOS supporters": "Ver todos los colaboradores actuales de muOS",
-    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
-    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
+    "View all of the screenshots taken on the device": "Ver todas las capturas de pantalla realizadas en el dispositivo",
+    "View the current used space of the mounted storage devices": "Ver el espacio utilizado actualmente de los dispositivos de almacenamiento montados"
   },
   "muxlanguage": {
     "LANGUAGE": "IDIOMA",
@@ -380,8 +380,8 @@
     "SAVE SNAPSHOT": "GUARDAR INSTANTÁNEA"
   },
   "muxspace": {
-    "STORAGE SPACE": "STORAGE SPACE",
-    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
+    "STORAGE SPACE": "ESPACIO DE ALMACENAMIENTO",
+    "View the current used space of the mounted storage devices": "Ver el espacio utilizado actualmente de los dispositivos de almacenamiento montados"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Núcleo asignado/Sistema Gobernador",
@@ -396,7 +396,7 @@
     "Location of RetroArch configuration packages": "Ubicación de los paquetes de configuración de RetroArch",
     "Location of RetroArch configurations": "Ubicación de las configuraciones de RetroArch",
     "Location of Syncthing configurations": "Ubicación de las configuraciones de Syncthing",
-    "Location of User Initialisation scripts": "Ubicación de los scripts de inicialización del usuario",
+    "Location of User Initialisation scripts": "Ubicación de los scripts de Inicialización de Usuario",
     "Location of assigned core and governor configurations": "Ubicación de las configuraciones asignadas del núcleo y del gobernador",
     "Location of background music": "Ubicación de la música de fondo",
     "Location of catalogue packages": "Ubicación de los paquetes del catálogo",
