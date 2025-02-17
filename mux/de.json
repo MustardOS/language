@@ -194,10 +194,14 @@
     "Activity Tracker": "Aktivitätstracker",
     "INFORMATION": "INFORMATION",
     "Input Tester": "Eingabentest",
+    "Screenshots": "Screenshots",
+    "Storage Space": "Storage Space",
     "Supporters": "Unterstützer",
     "System Details": "Systemdetails",
     "Test the controls of the device": "Bedienelemente des Geräts testen",
-    "View all of the current muOS supporters": "Alle aktuellen muOS-Unterstützer anzeigen"
+    "View all of the current muOS supporters": "Alle aktuellen muOS-Unterstützer anzeigen",
+    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxlanguage": {
     "LANGUAGE": "SPRACHE",
@@ -374,6 +378,10 @@
     "No Save Snapshots Found": "Keine Speicher-Snapshots gefunden",
     "Restore your saved game progress from a previous snapshot": "Wiederherstellung des gespeicherten Spielfortschritts aus einem früheren Snapshots",
     "SAVE SNAPSHOT": "SNAPSHOT SPEICHERN"
+  },
+  "muxspace": {
+    "STORAGE SPACE": "STORAGE SPACE",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Zugewiesener System Kern/Governor",
