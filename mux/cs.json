@@ -194,10 +194,14 @@
     "Activity Tracker": "Sledování aktivity",
     "INFORMATION": "INFORMACE",
     "Input Tester": "Test ovládání",
+    "Screenshots": "Screenshots",
+    "Storage Space": "Storage Space",
     "Supporters": "Podporovatelé",
     "System Details": "Podrobnosti o systému",
     "Test the controls of the device": "Vyzkoušejte ovládací prvky zařízení",
-    "View all of the current muOS supporters": "Podívejte se na všechny současné příznivce muOS"
+    "View all of the current muOS supporters": "Podívejte se na všechny současné příznivce muOS",
+    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxlanguage": {
     "LANGUAGE": "JAZYK",
@@ -374,6 +378,10 @@
     "No Save Snapshots Found": "Nebyly nalezeny žádné uložené snímky",
     "Restore your saved game progress from a previous snapshot": "Obnovte svůj uložený postup ve hře z předchozího snímku",
     "SAVE SNAPSHOT": "ULOŽIT SNÍMEK"
+  },
+  "muxspace": {
+    "STORAGE SPACE": "STORAGE SPACE",
+    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Přiřazené jádro/Regulátor systému",
