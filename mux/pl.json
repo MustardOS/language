@@ -107,6 +107,7 @@
     "Wi-Fi Network": "Sieć Wi-Fi"
   },
   "muxcustom": {
+    "Alternative Theme": "Alternatywny motyw",
     "Background Animation": "Animacja w tle",
     "Background Music": "Muzyka w tle",
     "Behind": "Tył",
@@ -137,7 +138,7 @@
     "Navigation Sound": "Dźwięk nawigacji",
     "RetroArch Configurations": "Konfiguracje RetroArch",
     "Theme": "Motyw",
-    "Theme Alternates": "Warianty motywu",
+    "Theme Picker": "Wybór motywu",
     "Toggle the background animation of the current selected theme": "Włącz animację tła bieżącego motywu",
     "Toggle the background music of the frontend - This will stop if content is launched": "Włącz muzykę w tle interfejsu - Zatrzyma się po uruchomieniu zawartości",
     "Toggle the fade to black animation on content launching": "Włącz animację zanikania podczas uruchamiania zawartości",
@@ -145,8 +146,7 @@
     "Toggle the splash image on content launching": "Włącz ekran uruchamiania zawartości",
     "Top Left": "Górne lewo",
     "Top Middle": "Górny środek",
-    "Top Right": "Górne prawo",
-    "muOS Themes": "Motywy muOS"
+    "Top Right": "Górne prawo"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Skonfiguruj regulatory CPU, aby dynamicznie dostosować częstotliwość CPU i pomóc zrównoważyć zużycie energii i wydajność",
@@ -194,14 +194,14 @@
     "Activity Tracker": "Monitor aktywności",
     "INFORMATION": "INFORMACJE",
     "Input Tester": "Tester przycisków",
-    "Screenshots": "Screenshots",
-    "Storage Space": "Storage Space",
+    "Screenshots": "Zrzuty ekranu",
+    "Storage Space": "Przestrzeń dyskowa",
     "Supporters": "Wspierający",
     "System Details": "Szczegóły systemu",
     "Test the controls of the device": "Sprawdź przyciski urządzenia",
     "View all of the current muOS supporters": "Zobacz wszystkich aktualnie wspierających muOS",
-    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
-    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
+    "View all of the screenshots taken on the device": "Zobacz wszystkie zrzuty ekranu z tego urządzenia",
+    "View the current used space of the mounted storage devices": "Zobacz wykorzystaną przestrzeń podłączonych urządzeń"
   },
   "muxlanguage": {
     "LANGUAGE": "JĘZYK",
@@ -211,13 +211,17 @@
   },
   "muxlaunch": {
     "Applications": "Aplikacje",
+    "Apps": "Aplikacje",
     "Collection": "Kolekcja",
+    "Config": "Konfiguracja",
     "Configuration": "Konfiguracja",
+    "Content": "Zawartość",
     "Content added to collections can be found and launched here": "Można tu znaleźć i uruchomić zawartość dodaną do kolekcji",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Można tutaj znaleźć i uruchomić zawartość na urządzeniach pamięci masowej (SD1/SD2/USB)",
     "Content previously launched can be found and launched here": "Można tutaj znaleźć i uruchomić poprzednio włączaną zawartość",
     "Explore Content": "Przeglądaj zawartość",
     "History": "Historia",
+    "Info": "Informacje",
     "Information": "Informacje",
     "Kiosk configuration not found": "Nie znaleziono konfiguracji trybu kiosku",
     "MAIN MENU": "MENU GŁÓWNE",
@@ -380,8 +384,8 @@
     "SAVE SNAPSHOT": "ZAPISZ ZRZUT"
   },
   "muxspace": {
-    "STORAGE SPACE": "STORAGE SPACE",
-    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
+    "STORAGE SPACE": "MIEJSCE W PAMIĘCI",
+    "View the current used space of the mounted storage devices": "Zobacz stan miejsca na zamontowanych urządzeniach przechowywania"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Przypisany rdzeń/system regulatora",

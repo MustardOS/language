@@ -107,6 +107,7 @@
     "Wi-Fi Network": "Wi-Fi Network"
   },
   "muxcustom": {
+    "Alternative Theme": "Alternative Theme",
     "Background Animation": "Background Animation",
     "Background Music": "Background Music",
     "Behind": "Behind",
@@ -137,7 +138,7 @@
     "Navigation Sound": "Navigation Sound",
     "RetroArch Configurations": "Configurações do RetroArch",
     "Theme": "Theme",
-    "Theme Alternates": "Theme Alternates",
+    "Theme Picker": "Theme Picker",
     "Toggle the background animation of the current selected theme": "Toggle the background animation of the current selected theme",
     "Toggle the background music of the frontend - This will stop if content is launched": "Toggle the background music of the frontend - This will stop if content is launched",
     "Toggle the fade to black animation on content launching": "Toggle the fade to black animation on content launching",
@@ -145,8 +146,7 @@
     "Toggle the splash image on content launching": "Toggle the splash image on content launching",
     "Top Left": "Top Left",
     "Top Middle": "Top Middle",
-    "Top Right": "Top Right",
-    "muOS Themes": "Temas muOS"
+    "Top Right": "Top Right"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configure os controladores do CPU para ajustar dinamicamente a frequência e ajudar a equilibrar o consumo de energia e o desempenho",
@@ -211,13 +211,17 @@
   },
   "muxlaunch": {
     "Applications": "Aplicações",
+    "Apps": "Apps",
     "Collection": "Collection",
+    "Config": "Config",
     "Configuration": "Configurações",
+    "Content": "Content",
     "Content added to collections can be found and launched here": "Content added to collections can be found and launched here",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "O conteúdo nos dispositivos de armazenamento (SD1/SD2/USB) pode ser encontrado e iniciado aqui",
     "Content previously launched can be found and launched here": "O conteúdo iniciado anteriormente pode ser encontrado e iniciado aqui",
     "Explore Content": "Explorar Conteúdo",
     "History": "Histórico",
+    "Info": "Info",
     "Information": "Informações",
     "Kiosk configuration not found": "Configuração de Kiosk não encontrada",
     "MAIN MENU": "MENU PRINCIPAL",

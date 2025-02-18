@@ -107,6 +107,7 @@
     "Wi-Fi Network": "Wi-Fi Network"
   },
   "muxcustom": {
+    "Alternative Theme": "Alternative Theme",
     "Background Animation": "Background Animation",
     "Background Music": "Background Music",
     "Behind": "Behind",
@@ -137,7 +138,7 @@
     "Navigation Sound": "Navigation Sound",
     "RetroArch Configurations": "RetroArch configuratie",
     "Theme": "Theme",
-    "Theme Alternates": "Theme Alternates",
+    "Theme Picker": "Theme Picker",
     "Toggle the background animation of the current selected theme": "Toggle the background animation of the current selected theme",
     "Toggle the background music of the frontend - This will stop if content is launched": "Toggle the background music of the frontend - This will stop if content is launched",
     "Toggle the fade to black animation on content launching": "Toggle the fade to black animation on content launching",
@@ -145,8 +146,7 @@
     "Toggle the splash image on content launching": "Toggle the splash image on content launching",
     "Top Left": "Top Left",
     "Top Middle": "Top Middle",
-    "Top Right": "Top Right",
-    "muOS Themes": "muOS thema's"
+    "Top Right": "Top Right"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU-governors configureren om de CPU-frequentie dynamisch aan te passen en energieverbruik en prestaties op elkaar af te stemmen",
@@ -211,13 +211,17 @@
   },
   "muxlaunch": {
     "Applications": "Applicaties",
+    "Apps": "Apps",
     "Collection": "Collectie",
+    "Config": "Config",
     "Configuration": "Configuratie",
+    "Content": "Content",
     "Content added to collections can be found and launched here": "Aan collecties toegevoegde inhoud kan hier worden gestart",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Inhoud op opslagapparaten (SD1/SD2/USB) kan hier worden gevonden en gestart",
     "Content previously launched can be found and launched here": "Eerder gestarte inhoud kan hier gevonden en gelanceerd worden.",
     "Explore Content": "Media verkennen",
     "History": "Geschiedenis",
+    "Info": "Info",
     "Information": "Informatie",
     "Kiosk configuration not found": "Kiosk configuratie niet gevonden",
     "MAIN MENU": "HOOFDMENU",

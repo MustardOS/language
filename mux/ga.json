@@ -107,6 +107,7 @@
     "Wi-Fi Network": "Líonra Wi Fi"
   },
   "muxcustom": {
+    "Alternative Theme": "Alternative Theme",
     "Background Animation": "Beochan Cúlra",
     "Background Music": "Ceol Cúlra",
     "Behind": "Taobh thiar",
@@ -137,7 +138,7 @@
     "Navigation Sound": "Fuaim Nascleanúna",
     "RetroArch Configurations": "Cumraíochtaí RetroArch",
     "Theme": "Téama",
-    "Theme Alternates": "Malartach Téama",
+    "Theme Picker": "Theme Picker",
     "Toggle the background animation of the current selected theme": "Scoránaigh beochan chúlra an téama roghnaithe reatha",
     "Toggle the background music of the frontend - This will stop if content is launched": "Scoránaigh ceol cúlra an tosaigh - Stopfaidh sé seo má sheoltar ábhar",
     "Toggle the fade to black animation on content launching": "Scoránaigh an beochan céimnithe go dubh ar sheoladh ábhair",
@@ -145,8 +146,7 @@
     "Toggle the splash image on content launching": "Scoránaigh an splancscáileán ar sheoladh ábhair",
     "Top Left": "Barr ar Chlé",
     "Top Middle": "Barr Meán",
-    "Top Right": "Barr Ar dheis",
-    "muOS Themes": "Téamaí muOS"
+    "Top Right": "Barr Ar dheis"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Cumraigh gobharnóirí LAP chun minicíocht an LAP a choigeartú go dinimiciúil agus cabhrú le tomhaltas agus feidhmíocht cumhachta a chothromú",
@@ -211,13 +211,17 @@
   },
   "muxlaunch": {
     "Applications": "Feidhmchláir",
+    "Apps": "Apps",
     "Collection": "Bailiúchán",
+    "Config": "Config",
     "Configuration": "Cumraíocht",
+    "Content": "Content",
     "Content added to collections can be found and launched here": "Is féidir ábhar a chuirtear le bailiúcháin a fháil agus a sheoladh anseo",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Is féidir ábhar ar ghléasanna stórála (SD1 / SD2 / USB) a fháil agus a sheoladh anseo",
     "Content previously launched can be found and launched here": "Is féidir ábhar a seoladh roimhe seo a fháil agus a sheoladh anseo",
     "Explore Content": "Déan iniúchadh ar Ábhar",
     "History": "Stair",
+    "Info": "Info",
     "Information": "Eolas",
     "Kiosk configuration not found": "Níor aimsíodh cumraíocht both",
     "MAIN MENU": "PRÍOMH-ROGHCHLÁR",

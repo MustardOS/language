@@ -91,8 +91,8 @@
     "Language": "Idioma",
     "Power Settings": "Ajustes de energía",
     "Select your preferred language": "Selecciona tu idioma preferido",
-    "Settings to change the power features of the device": "Configuración para cambiar las características de energía del dispositivo",
-    "Settings to change the visual aspects of the frontend": "Configuraciones para cambiar los aspectos visuales del interfaz",
+    "Settings to change the power features of the device": "Ajustes para cambiar las características de energía del dispositivo",
+    "Settings to change the visual aspects of the frontend": "Ajustes para cambiar el aspecto visual de la interfaz",
     "Storage": "Almacenamiento"
   },
   "muxconnect": {
@@ -107,6 +107,7 @@
     "Wi-Fi Network": "Red Wi-Fi"
   },
   "muxcustom": {
+    "Alternative Theme": "Tema alternativo",
     "Background Animation": "Animación de fondo",
     "Background Music": "Música de fondo",
     "Behind": "Detrás",
@@ -137,16 +138,15 @@
     "Navigation Sound": "Sonido de navegación",
     "RetroArch Configurations": "Configuraciones RetroArch",
     "Theme": "Tema",
-    "Theme Alternates": "Temas alternativos",
+    "Theme Picker": "Selector de Tema",
     "Toggle the background animation of the current selected theme": "Alternar la animación de fondo del tema seleccionado actualmente",
-    "Toggle the background music of the frontend - This will stop if content is launched": "Activar o desactivar la música de fondo del interfaz: esto se detendrá si se lanza contenido",
-    "Toggle the fade to black animation on content launching": "Activar o desactivar la animación de fundido a negro al iniciar el contenido",
-    "Toggle the navigation sound of the frontend if the current theme supports it": "Activa o desactiva el sonido de navegación del interfaz si el tema actual lo permite",
-    "Toggle the splash image on content launching": "Activar o desactivar la imagen de presentación al iniciar el contenido",
+    "Toggle the background music of the frontend - This will stop if content is launched": "Conmutar la música de fondo de la interfaz - Esta se detendrá si se lanza contenido",
+    "Toggle the fade to black animation on content launching": "Conmutar la animación de fundido a negro al iniciar el contenido",
+    "Toggle the navigation sound of the frontend if the current theme supports it": "Conmutar el sonido de navegación de la interfaz si el tema actual lo permite",
+    "Toggle the splash image on content launching": "Conmutar la imagen de presentación al iniciar el contenido",
     "Top Left": "Arriba a la izquierda",
     "Top Middle": "Arriba Medio",
-    "Top Right": "Arriba a la derecha",
-    "muOS Themes": "Temas muOS"
+    "Top Right": "Arriba a la derecha"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configura los gobernadores de la CPU para ajustar dinámicamente la frecuencia de la CPU y ayudar a equilibrar el consumo de energía y el rendimiento",
@@ -194,14 +194,14 @@
     "Activity Tracker": "Monitor de actividad",
     "INFORMATION": "INFORMACIÓN",
     "Input Tester": "Probador de entrada",
-    "Screenshots": "Screenshots",
-    "Storage Space": "Storage Space",
+    "Screenshots": "Capturas de pantalla",
+    "Storage Space": "Espacio de Almacenamiento",
     "Supporters": "Colaboradores",
     "System Details": "Detalles del sistema",
     "Test the controls of the device": "Prueba los controles del dispositivo",
     "View all of the current muOS supporters": "Ver todos los colaboradores actuales de muOS",
-    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
-    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
+    "View all of the screenshots taken on the device": "Ver todas las capturas de pantalla realizadas en el dispositivo",
+    "View the current used space of the mounted storage devices": "Ver el espacio utilizado actualmente de los dispositivos de almacenamiento montados"
   },
   "muxlanguage": {
     "LANGUAGE": "IDIOMA",
@@ -211,13 +211,17 @@
   },
   "muxlaunch": {
     "Applications": "Aplicaciones",
+    "Apps": "Apps",
     "Collection": "Colección",
+    "Config": "Config",
     "Configuration": "Configuración",
+    "Content": "Contenido",
     "Content added to collections can be found and launched here": "El contenido añadido a las colecciones se puede encontrar y ejecutar aquí",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Aquí puedes encontrar y lanzar el contenido en dispositivos de almacenamiento (SD1/SD2/USB)",
     "Content previously launched can be found and launched here": "Aquí puedes encontrar y lanzar el contenido que se ha lanzado anteriormente",
     "Explore Content": "Explorar contenido",
     "History": "Historial",
+    "Info": "Info",
     "Information": "Información",
     "Kiosk configuration not found": "No se encontró la configuración del quiosco",
     "MAIN MENU": "MENÚ PRINCIPAL",
@@ -273,7 +277,7 @@
     "Scan": "Escanear",
     "Static": "Estática",
     "Subnet CIDR": "CIDR de subred",
-    "Toggle between DHCP and Static network types": "Cambia entre los tipos de red DHCP y Estática",
+    "Toggle between DHCP and Static network types": "Alternar entre los tipos de red DHCP y Estática",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Alternar si desea o no intentar conectarse a una transmisión SSID oculta",
     "Trying to Connect…": "Tratando de conectar…",
     "WI-FI NETWORK": "RED WI-FI"
@@ -380,8 +384,8 @@
     "SAVE SNAPSHOT": "GUARDAR INSTANTÁNEA"
   },
   "muxspace": {
-    "STORAGE SPACE": "STORAGE SPACE",
-    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
+    "STORAGE SPACE": "ESPACIO DE ALMACENAMIENTO",
+    "View the current used space of the mounted storage devices": "Ver el espacio utilizado actualmente de los dispositivos de almacenamiento montados"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Núcleo asignado/Sistema Gobernador",
@@ -396,7 +400,7 @@
     "Location of RetroArch configuration packages": "Ubicación de los paquetes de configuración de RetroArch",
     "Location of RetroArch configurations": "Ubicación de las configuraciones de RetroArch",
     "Location of Syncthing configurations": "Ubicación de las configuraciones de Syncthing",
-    "Location of User Initialisation scripts": "Ubicación de los scripts de inicialización del usuario",
+    "Location of User Initialisation scripts": "Ubicación de los scripts de Inicialización de Usuario",
     "Location of assigned core and governor configurations": "Ubicación de las configuraciones asignadas del núcleo y del gobernador",
     "Location of background music": "Ubicación de la música de fondo",
     "Location of catalogue packages": "Ubicación de los paquetes del catálogo",
@@ -501,15 +505,15 @@
     "Switch between system sleep suspend states": "Cambia entre los estados de suspensión del sistema",
     "System Swapfile": "Archivo de intercambio del sistema",
     "Thermal Zone Control": "Control de zona térmica",
-    "Toggle a delayed start of RetroArch until a network connection is established": "Activa o desactiva un inicio retrasado de RetroArch hasta que se establezca una conexión de red",
-    "Toggle startup and shutdown verbose messages used for debugging faults": "Activa o desactiva los mensajes detallados de inicio y apagado utilizados para depurar errores",
+    "Toggle a delayed start of RetroArch until a network connection is established": "Conmutar el inicio retardado de RetroArch hasta que se establezca una conexión de red",
+    "Toggle startup and shutdown verbose messages used for debugging faults": "Conmutar los mensajes detallados de encendido y apagado utilizados para depurar fallos",
     "Toggle the audio overdrive moving it from 100% to 200%": "Alternar la saturación de audio moviéndola del 100% al 200%",
     "Toggle the functionality of the power button to switch DPAD mode": "Alternar la funcionalidad del botón de encendido para cambiar el modo DPAD",
-    "Toggle the functionality of the user initialisation scripts on device startup": "Activar o desactivar la funcionalidad de los scripts de inicialización del usuario al iniciar el dispositivo",
-    "Toggle the passcode lock - More information can be found on the muOS website": "Activa o desactiva el bloqueo con código de acceso - Puedes encontrar más información en el sitio web de muOS",
-    "Toggle the power LED during content launch": "Activa o desactiva el LED de encendido durante el lanzamiento de contenido",
-    "Toggle the system ability to automatically shut the device down due high temperature": "Activa o desactiva la capacidad del sistema para apagar automáticamente el dispositivo debido altas temperaturas",
-    "Toggle vibration for device startup, sleep, and shutdown": "Activa o desactiva la vibración para el inicio, la suspensión y el apagado del dispositivo",
+    "Toggle the functionality of the user initialisation scripts on device startup": "Alternar la funcionalidad de los scripts de inicialización de usuario al encender el dispositivo",
+    "Toggle the passcode lock - More information can be found on the muOS website": "Alternar el bloqueo con código de acceso - Puedes encontrar más información en el sitio web de muOS",
+    "Toggle the power LED during content launch": "Alternar el LED de encendido durante el lanzamiento de contenido",
+    "Toggle the system ability to automatically shut the device down due high temperature": "Alternar la capacidad del sistema para apagar automáticamente el dispositivo debido altas temperaturas",
+    "Toggle vibration for device startup, sleep, and shutdown": "Alternar la vibración para el encendido, suspensión y apagado del dispositivo",
     "User Init Scripts": "Scripts de inicio de usuario",
     "Verbose Messages": "Mensajes detallados",
     "Volume On Boot": "Volumen al arrancar"
