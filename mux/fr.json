@@ -317,7 +317,7 @@
     "Folders cannot be added to collections": "Les dossiers ne peuvent pas être ajoutés aux collections",
     "No Content Found…": "Aucun contenu trouvé…",
     "Refresh": "Rafraîchir",
-    "Refreshing…": "Rechargement…"
+    "Refreshing…": "Rafraîchissement en cours…"
   },
   "muxpower": {
     "10m": "10m",
@@ -487,16 +487,18 @@
     "LED During Play": "LED active pendant le jeu",
     "Loud": "Fort",
     "Low": "Basse",
+    "Medium": "Medium",
     "Menu Acceleration": "Accélération du menu",
     "Modern": "Moderne",
     "Passcode Lock": "Verrouillage par mot de passe",
-    "Quiet": "Discret",
     "Random Theme on Boot": "Thème aléatoire au démarrage",
     "Retro": "Rétro",
     "RetroArch Network Wait": "Attente du réseau de RetroArch",
     "Shutdown": "Arrêt",
     "Shutdown + Sleep": "Arrêt + Mise en veille",
+    "Silent": "Silent",
     "Sleep": "Mise en veille",
+    "Soft": "Soft",
     "Startup": "Démarrage",
     "Startup + Shutdown": "Démarrage + Arrêt",
     "Startup + Sleep": "Démarrage + Mise en veille",
