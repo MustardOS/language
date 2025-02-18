@@ -107,7 +107,7 @@
     "Wi-Fi Network": "Wi-Fi síť"
   },
   "muxcustom": {
-    "Alternative Theme": "Alternative Theme",
+    "Alternative Theme": "Alternativní Téma",
     "Background Animation": "Animace na pozadí",
     "Background Music": "Hudba na pozadí",
     "Behind": "Za",
@@ -138,7 +138,7 @@
     "Navigation Sound": "Zvuk navigace",
     "RetroArch Configurations": "Konfigurace RetroArch",
     "Theme": "Téma",
-    "Theme Picker": "Theme Picker",
+    "Theme Picker": "Výběr motivu",
     "Toggle the background animation of the current selected theme": "Přepnout animaci na pozadí aktuálně vybraného motivu",
     "Toggle the background music of the frontend - This will stop if content is launched": "Přepnout hudbu na pozadí frontendu – toto se zastaví, pokud se spustí obsah",
     "Toggle the fade to black animation on content launching": "Přepněte animaci prolínání na černou při spouštění obsahu",
@@ -194,14 +194,14 @@
     "Activity Tracker": "Sledování aktivity",
     "INFORMATION": "INFORMACE",
     "Input Tester": "Test ovládání",
-    "Screenshots": "Screenshots",
-    "Storage Space": "Storage Space",
+    "Screenshots": "Snímky obrazovky",
+    "Storage Space": "Úložný prostor",
     "Supporters": "Podporovatelé",
     "System Details": "Podrobnosti o systému",
     "Test the controls of the device": "Vyzkoušejte ovládací prvky zařízení",
     "View all of the current muOS supporters": "Podívejte se na všechny současné příznivce muOS",
-    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
-    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
+    "View all of the screenshots taken on the device": "Prohlédněte si všechny snímky obrazovky pořízené na zařízení",
+    "View the current used space of the mounted storage devices": "Zobrazte aktuálně využitý prostor připojených úložných zařízení"
   },
   "muxlanguage": {
     "LANGUAGE": "JAZYK",
@@ -211,17 +211,17 @@
   },
   "muxlaunch": {
     "Applications": "Aplikace",
-    "Apps": "Apps",
+    "Apps": "Aplikace",
     "Collection": "Sbírka",
-    "Config": "Config",
+    "Config": "Konfigurace",
     "Configuration": "Nastavení",
-    "Content": "Content",
+    "Content": "Hry",
     "Content added to collections can be found and launched here": "Obsah přidaný do sbírek lze nalézt a spustit zde",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "Obsah na úložných zařízeních (SD1/SD2/USB) lze nalézt a spustit zde",
     "Content previously launched can be found and launched here": "Dříve spuštěný obsah lze nalézt a spustit zde",
     "Explore Content": "Hry",
     "History": "Historie",
-    "Info": "Info",
+    "Info": "Informace",
     "Information": "Informace",
     "Kiosk configuration not found": "Konfigurace veřejného terminálu nebyla nalezena",
     "MAIN MENU": "HLAVNÍ MENU",
@@ -384,8 +384,8 @@
     "SAVE SNAPSHOT": "ULOŽIT SNÍMEK"
   },
   "muxspace": {
-    "STORAGE SPACE": "STORAGE SPACE",
-    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
+    "STORAGE SPACE": "ÚLOŽNÝ PROSTOR",
+    "View the current used space of the mounted storage devices": "Zobrazte aktuálně využitý prostor připojených úložných zařízení"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Přiřazené jádro/Regulátor systému",
@@ -487,7 +487,7 @@
     "LED During Play": "LED během hraní",
     "Loud": "Hlasitý",
     "Low": "Nízký",
-    "Medium": "Medium",
+    "Medium": "Střední",
     "Menu Acceleration": "Nabídka Akcelerace",
     "Modern": "Moderní",
     "Passcode Lock": "Zámek",
@@ -496,9 +496,9 @@
     "RetroArch Network Wait": "RetroArch počká na Síť",
     "Shutdown": "Vypnutí",
     "Shutdown + Sleep": "Vypnutí + Spánek",
-    "Silent": "Silent",
+    "Silent": "Tichý",
     "Sleep": "Spánek",
-    "Soft": "Soft",
+    "Soft": "Měkký",
     "Startup": "Spuštění",
     "Startup + Shutdown": "Spuštění + Vypnutí",
     "Startup + Sleep": "Spuštění + Spánek",
