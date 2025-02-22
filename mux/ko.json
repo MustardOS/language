@@ -107,7 +107,7 @@
     "Wi-Fi Network": "Wi-Fi 네트워크"
   },
   "muxcustom": {
-    "Alternative Theme": "Alternative Theme",
+    "Alternative Theme": "대체 테마",
     "Background Animation": "배경 애니메이션",
     "Background Music": "배경 음악",
     "Behind": "뒤에",
@@ -138,7 +138,7 @@
     "Navigation Sound": "이동 효과음",
     "RetroArch Configurations": "레트로아크 구성",
     "Theme": "테마",
-    "Theme Picker": "Theme Picker",
+    "Theme Picker": "테마 피커",
     "Toggle the background animation of the current selected theme": "현재 선택한 테마의 배경 애니메이션 표시 여부 토글",
     "Toggle the background music of the frontend - This will stop if content is launched": "프런트엔드의 배경 음악을 토글\\n- 배경 음악은 콘텐츠가 실행되면 중지됩니다",
     "Toggle the fade to black animation on content launching": "콘텐츠 실행 시 검은색 애니메이션으로 페이드 적용 여부 토글",
@@ -194,14 +194,14 @@
     "Activity Tracker": "액티비티 트래커",
     "INFORMATION": "정보",
     "Input Tester": "인풋 테스트기",
-    "Screenshots": "Screenshots",
-    "Storage Space": "Storage Space",
+    "Screenshots": "스크린샷",
+    "Storage Space": "저장 공간",
     "Supporters": "후원 감사의 말",
     "System Details": "시스템 상세정보",
     "Test the controls of the device": "장치의 컨트롤러를 테스트",
     "View all of the current muOS supporters": "감사 인사와 현재 muOS 지원자를 모두 확인함",
-    "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
-    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
+    "View all of the screenshots taken on the device": "기기에서 촬영한 모든 스크린샷 보기",
+    "View the current used space of the mounted storage devices": "마운트된 저장 장치의 현재 사용된 공간 보기"
   },
   "muxlanguage": {
     "LANGUAGE": "언어",
@@ -211,17 +211,17 @@
   },
   "muxlaunch": {
     "Applications": "어플리케이션",
-    "Apps": "Apps",
+    "Apps": "앱스",
     "Collection": "컬렉션",
-    "Config": "Config",
+    "Config": "컨피그",
     "Configuration": "구성",
-    "Content": "Content",
+    "Content": "콘텐츠",
     "Content added to collections can be found and launched here": "컬렉션에 추가된 콘텐츠는 여기에서 찾아 실행할 수 있음",
     "Content on storage devices (SD1/SD2/USB) can be found and launched here": "저장 장치(SD1/SD2/USB)의 콘텐츠를 찾아 실행",
     "Content previously launched can be found and launched here": "이전에 플레이 한 콘텐츠를 찾아 실행",
     "Explore Content": "콘텐츠 탐색",
     "History": "최근 실행",
-    "Info": "Info",
+    "Info": "상세",
     "Information": "정보",
     "Kiosk configuration not found": "키오스크 구성 없음",
     "MAIN MENU": "메인 메뉴",
@@ -384,8 +384,8 @@
     "SAVE SNAPSHOT": "스냅샷 저장"
   },
   "muxspace": {
-    "STORAGE SPACE": "STORAGE SPACE",
-    "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
+    "STORAGE SPACE": "저장 공간",
+    "View the current used space of the mounted storage devices": "마운트된 저장 장치의 현재 사용된 공간 보기"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "할당된 코어/거버너 시스템",
@@ -487,7 +487,7 @@
     "LED During Play": "플레이시 LED 켜기",
     "Loud": "크게",
     "Low": "낮음",
-    "Medium": "Medium",
+    "Medium": "미디엄",
     "Menu Acceleration": "메뉴 가속화",
     "Modern": "모던",
     "Passcode Lock": "패스코드 락",
@@ -496,9 +496,9 @@
     "RetroArch Network Wait": "레트로아크 네트워크 대기",
     "Shutdown": "시스템 종료할 때",
     "Shutdown + Sleep": "시스템 종료할 때와 슬립시",
-    "Silent": "Silent",
+    "Silent": "사일런트",
     "Sleep": "슬립할 때",
-    "Soft": "Soft",
+    "Soft": "소프트",
     "Startup": "시작할 때",
     "Startup + Shutdown": "시작할 때와 시스템 종료시",
     "Startup + Sleep": "시작할 때와 슬립시",
