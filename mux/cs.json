@@ -302,6 +302,8 @@
     "CATALOGUE PICKER": "VÝBĚR KATALOGU",
     "CONFIG PICKER": "VÝBĚR KONFIGURACE",
     "CUSTOM PICKER": "VLASTNÍ VÝBĚR",
+    "Incompatible Theme Resolution Detected": "Incompatible Theme Resolution Detected",
+    "Incompatible Theme Version Detected": "Incompatible Theme Version Detected",
     "No Catalogue Packages Found": "Nebyly nalezeny žádné balíčky katalogu",
     "No Configuration Packages Found": "Nebyly nalezeny žádné konfigurační balíčky",
     "No Custom Packages Found": "Nebyly nalezeny žádné vlastní balíčky",
