@@ -302,6 +302,8 @@
     "CATALOGUE PICKER": "BIRAČ KATALOGA",
     "CONFIG PICKER": "BIRAČ KONFIGURACIJA",
     "CUSTOM PICKER": "BIRAČ PRILAGOĐENOG",
+    "Incompatible Theme Resolution Detected": "Incompatible Theme Resolution Detected",
+    "Incompatible Theme Version Detected": "Incompatible Theme Version Detected",
     "No Catalogue Packages Found": "Paketi Kataloga nisu Pronađena",
     "No Configuration Packages Found": "Paketi Konfiguracija nisu Pronađena",
     "No Custom Packages Found": "Paketi Prilagođenog nisu Pronađena",
