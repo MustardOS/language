@@ -302,6 +302,8 @@
     "CATALOGUE PICKER": "PIOCADH CATALÓG",
     "CONFIG PICKER": "ROGHNÓIR CUMRAÍOCHTA",
     "CUSTOM PICKER": "ROGHNÓIR SAINRÉITHE",
+    "Incompatible Theme Resolution Detected": "Incompatible Theme Resolution Detected",
+    "Incompatible Theme Version Detected": "Incompatible Theme Version Detected",
     "No Catalogue Packages Found": "Níor Aimsíodh Pacáistí Catalóga",
     "No Configuration Packages Found": "Níor aimsíodh aon Phacáistí Cumraíochta",
     "No Custom Packages Found": "Níor aimsíodh aon Phacáistí Saincheaptha",
