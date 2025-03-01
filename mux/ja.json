@@ -302,6 +302,8 @@
     "CATALOGUE PICKER": "カタログ選択",
     "CONFIG PICKER": "設定一覧",
     "CUSTOM PICKER": "カスタマイズ一覧",
+    "Incompatible Theme Resolution Detected": "Incompatible Theme Resolution Detected",
+    "Incompatible Theme Version Detected": "Incompatible Theme Version Detected",
     "No Catalogue Packages Found": "カタログパッケージが見つかりませんでした",
     "No Configuration Packages Found": "設定パッケージが見つかりませんでした",
     "No Custom Packages Found": "カスタムパッケージが見つかりませんでした",
