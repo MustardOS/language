@@ -302,6 +302,8 @@
     "CATALOGUE PICKER": "SELECTOR DE CATÁLOGO",
     "CONFIG PICKER": "SELECTOR DE CONFIGURAÇÕES",
     "CUSTOM PICKER": "SELECTOR PERSONALIZADO",
+    "Incompatible Theme Resolution Detected": "Incompatible Theme Resolution Detected",
+    "Incompatible Theme Version Detected": "Incompatible Theme Version Detected",
     "No Catalogue Packages Found": "Nenhum Pacote de Catálogo Encontrado",
     "No Configuration Packages Found": "Nenhum Pacote de Configuração Encontrado",
     "No Custom Packages Found": "Nenhum Pacote Personalizado Encontrado",
