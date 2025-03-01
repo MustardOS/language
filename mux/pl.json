@@ -302,6 +302,8 @@
     "CATALOGUE PICKER": "WYBÓR OKŁADEK",
     "CONFIG PICKER": "WYBÓR KONFIGURACJI",
     "CUSTOM PICKER": "WYBÓR PACZKI UŻYTKOWNIKA",
+    "Incompatible Theme Resolution Detected": "Incompatible Theme Resolution Detected",
+    "Incompatible Theme Version Detected": "Incompatible Theme Version Detected",
     "No Catalogue Packages Found": "Nie znaleziono paczek z okładkami",
     "No Configuration Packages Found": "Nie znaleziono paczek z konfiguracjami",
     "No Custom Packages Found": "Nie znaleziono paczek użytkownika",
