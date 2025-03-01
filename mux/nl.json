@@ -302,6 +302,8 @@
     "CATALOGUE PICKER": "CATALOGUSBEHEER",
     "CONFIG PICKER": "CONFIGURATIEBEHEER",
     "CUSTOM PICKER": "PERSONALISATIEBEHEER",
+    "Incompatible Theme Resolution Detected": "Incompatible Theme Resolution Detected",
+    "Incompatible Theme Version Detected": "Incompatible Theme Version Detected",
     "No Catalogue Packages Found": "Geen cataloguspakketten gevonden",
     "No Configuration Packages Found": "Geen configuratiepakketten gevonden",
     "No Custom Packages Found": "Geen personalisatiepakketten gevonden",
