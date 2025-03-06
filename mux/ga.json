@@ -39,18 +39,8 @@
   "muxapp": {
     "APPLICATIONS": "FEIDHMCHLÁIR",
     "Archive Manager": "Bainisteoir Cartlainne",
-    "Dingux Commander": "Ceannasaí Dingux",
-    "Flip Clock": "Smeach Clog",
-    "GMU Music Player": "Seinnteoir Ceoil GMU",
     "Loading Application": "Feidhmchlár á Luchtú",
-    "Moonlight": "Solas na Gealaí",
     "No Applications Found": "Níor aimsíodh aon iarratas",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "Máistir Calafoirt",
-    "RGB Controller": "Rialaitheoir RGB",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Simple Terminal": "Teirminéal Simplí",
     "Task Toolkit": "Foireann Uirlisí Tascanna"
   },
   "muxarchive": {
@@ -347,8 +337,7 @@
     "Sleep 5m + Shutdown": "Codladh 5m + Múchadh",
     "Sleep 60m + Shutdown": "Codladh 60m + Múchadh",
     "Sleep 60s + Shutdown": "Codladh 60s + Múchadh",
-    "Sleep Function": "Feidhm Chodlata",
-    "Sleep Suspend": "Codladh Ar Fionraí"
+    "Sleep Function": "Feidhm Chodlata"
   },
   "muxrtc": {
     "12 Hour": "12 uair an chloig",

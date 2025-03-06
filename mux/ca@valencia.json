@@ -39,18 +39,8 @@
   "muxapp": {
     "APPLICATIONS": "Utilitats",
     "Archive Manager": "Gestor d'Arxius",
-    "Dingux Commander": "Dingux Commander",
-    "Flip Clock": "Rellotge Giratori",
-    "GMU Music Player": "Reproductor de Música GMU",
     "Loading Application": "Loading Application",
-    "Moonlight": "Moonlight",
     "No Applications Found": "No Applications Found",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster",
-    "RGB Controller": "RGB Controller",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Simple Terminal": "Terminal Simple",
     "Task Toolkit": "Kit de Tarees"
   },
   "muxarchive": {
@@ -347,8 +337,7 @@
     "Sleep 5m + Shutdown": "Sleep 5m + Shutdown",
     "Sleep 60m + Shutdown": "Sleep 60m + Shutdown",
     "Sleep 60s + Shutdown": "Sleep 60s + Shutdown",
-    "Sleep Function": "Sleep Function",
-    "Sleep Suspend": "Sleep Suspend"
+    "Sleep Function": "Sleep Function"
   },
   "muxrtc": {
     "12 Hour": "12 Hour",

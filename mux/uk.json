@@ -39,18 +39,8 @@
   "muxapp": {
     "APPLICATIONS": "ДОДАТКИ",
     "Archive Manager": "Archive Manager",
-    "Dingux Commander": "Dingux Commander",
-    "Flip Clock": "Flip Clock",
-    "GMU Music Player": "GMU Music Player",
     "Loading Application": "Додаток Завантажується",
-    "Moonlight": "Moonlight",
     "No Applications Found": "Додатків Не Знайдено",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster",
-    "RGB Controller": "RGB Controller",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Simple Terminal": "Simple Terminal",
     "Task Toolkit": "Task Toolkit"
   },
   "muxarchive": {
@@ -347,8 +337,7 @@
     "Sleep 5m + Shutdown": "Сон 5хв + Вимкнення",
     "Sleep 60m + Shutdown": "Сон 60хв + Вимкнення",
     "Sleep 60s + Shutdown": "Сон 60с + Вимкнення",
-    "Sleep Function": "Функція Сну",
-    "Sleep Suspend": "Призупинити Сон"
+    "Sleep Function": "Функція Сну"
   },
   "muxrtc": {
     "12 Hour": "12 Годин",

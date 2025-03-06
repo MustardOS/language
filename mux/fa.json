@@ -39,18 +39,8 @@
   "muxapp": {
     "APPLICATIONS": "برنامه ها",
     "Archive Manager": "مدیریت بایگانی",
-    "Dingux Commander": "Dingux Commander",
-    "Flip Clock": "ساعت رومیزی",
-    "GMU Music Player": "موزیک پلیر GMU",
     "Loading Application": "در حال لود برنامه",
-    "Moonlight": "Moonlight",
     "No Applications Found": "برنامه ای یافت نشد",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster",
-    "RGB Controller": "کنترلر RGB",
-    "RetroArch": "رترو آرچ",
-    "ScummVM": "ScummVM",
-    "Simple Terminal": "ترمینال ساده",
     "Task Toolkit": "ابزار وظایف"
   },
   "muxarchive": {
@@ -347,8 +337,7 @@
     "Sleep 5m + Shutdown": "Sleep 5m + Shutdown",
     "Sleep 60m + Shutdown": "Sleep 60m + Shutdown",
     "Sleep 60s + Shutdown": "Sleep 60s + Shutdown",
-    "Sleep Function": "Sleep Function",
-    "Sleep Suspend": "Sleep Suspend"
+    "Sleep Function": "Sleep Function"
   },
   "muxrtc": {
     "12 Hour": "12 Hour",

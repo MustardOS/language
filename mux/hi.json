@@ -39,18 +39,8 @@
   "muxapp": {
     "APPLICATIONS": "एप्लिकेशन",
     "Archive Manager": "पुरालेख मैनेजर",
-    "Dingux Commander": "डिंगक्स कमांडर",
-    "Flip Clock": "पलटने वाली घड़ी",
-    "GMU Music Player": "GMU Music Player",
     "Loading Application": "एप्लिकेशन लोड हो रहा है",
-    "Moonlight": "Moonlight",
     "No Applications Found": "कोई एप्लिकेशन नहीं मिला",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster",
-    "RGB Controller": "RGB Controller",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Simple Terminal": "Simple Terminal",
     "Task Toolkit": "कार्य टूलकिट"
   },
   "muxarchive": {
@@ -347,8 +337,7 @@
     "Sleep 5m + Shutdown": "Sleep 5m + Shutdown",
     "Sleep 60m + Shutdown": "Sleep 60m + Shutdown",
     "Sleep 60s + Shutdown": "Sleep 60s + Shutdown",
-    "Sleep Function": "Sleep Function",
-    "Sleep Suspend": "Sleep Suspend"
+    "Sleep Function": "Sleep Function"
   },
   "muxrtc": {
     "12 Hour": "12 Hour",

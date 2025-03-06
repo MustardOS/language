@@ -39,18 +39,8 @@
   "muxapp": {
     "APPLICATIONS": "應用程式",
     "Archive Manager": "封裝檔管理員",
-    "Dingux Commander": "Dingux檔案總管",
-    "Flip Clock": "Flip時鐘",
-    "GMU Music Player": "GMU音樂撥放器",
     "Loading Application": "載入應用程式",
-    "Moonlight": "Moonlight串流工具",
     "No Applications Found": "找不到應用程式",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster移植遊戲管理",
-    "RGB Controller": "RGB燈光控制器",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Simple Terminal": "簡易終端",
     "Task Toolkit": "任務工具箱"
   },
   "muxarchive": {
@@ -347,8 +337,7 @@
     "Sleep 5m + Shutdown": "休眠5分鐘後關機",
     "Sleep 60m + Shutdown": "休眠60分鐘後關機",
     "Sleep 60s + Shutdown": "休眠60秒後關機",
-    "Sleep Function": "休眠功能",
-    "Sleep Suspend": "休眠待機"
+    "Sleep Function": "休眠功能"
   },
   "muxrtc": {
     "12 Hour": "12時制",

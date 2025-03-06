@@ -39,18 +39,8 @@
   "muxapp": {
     "APPLICATIONS": "UYGULAMALAR",
     "Archive Manager": "Arşiv Yöneticisi",
-    "Dingux Commander": "Dingux Commander",
-    "Flip Clock": "Masa Saati",
-    "GMU Music Player": "GMU Müzik Çalar",
     "Loading Application": "Uygulama yükleniyor",
-    "Moonlight": "Moonlight",
     "No Applications Found": "Uygulama bulunamadı",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster",
-    "RGB Controller": "RGB kontrolörü",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Simple Terminal": "Simple Terminal",
     "Task Toolkit": "Task Toolkit"
   },
   "muxarchive": {
@@ -347,8 +337,7 @@
     "Sleep 5m + Shutdown": "5 dk uyku + Kapatma",
     "Sleep 60m + Shutdown": "60 dk uyku + Kapatma",
     "Sleep 60s + Shutdown": "60 sn uyku + Kapatma",
-    "Sleep Function": "Uyku özelliği",
-    "Sleep Suspend": "Uyku askıya alma"
+    "Sleep Function": "Uyku özelliği"
   },
   "muxrtc": {
     "12 Hour": "12 Saat",

@@ -39,18 +39,8 @@
   "muxapp": {
     "APPLICATIONS": "APLIKACIJE",
     "Archive Manager": "Upravitelj Arhiva",
-    "Dingux Commander": "Raziskovalec Dingux",
-    "Flip Clock": "Preklopna Ura",
-    "GMU Music Player": "GMU Predvajalnik Glasbe",
     "Loading Application": "Nalaganje Aplikacije",
-    "Moonlight": "Moonlight – Pretakanje iger z računalnika",
     "No Applications Found": "Ni Najdenih Aplikacij",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster – Prilagojene igre za Linux",
-    "RGB Controller": "RGB Kontroler",
-    "RetroArch": "RetroArch – Emulator in igralni vmesnik",
-    "ScummVM": "ScummVM – Emulator za stare point-and-click igre",
-    "Simple Terminal": "Preprost Terminal",
     "Task Toolkit": "Orodje za Opravila"
   },
   "muxarchive": {
@@ -347,8 +337,7 @@
     "Sleep 5m + Shutdown": "Spanje 5 min + Izklop",
     "Sleep 60m + Shutdown": "Spanje 60 min + Izklop",
     "Sleep 60s + Shutdown": "Spanje 60 s + Izklop",
-    "Sleep Function": "Funkcija spanja",
-    "Sleep Suspend": "Način spanja"
+    "Sleep Function": "Funkcija spanja"
   },
   "muxrtc": {
     "12 Hour": "12 ur",

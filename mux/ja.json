@@ -39,18 +39,8 @@
   "muxapp": {
     "APPLICATIONS": "アプリケーション",
     "Archive Manager": "アーカイブマネージャー",
-    "Dingux Commander": "Dingux Commander",
-    "Flip Clock": "パタパタ時計",
-    "GMU Music Player": "GMU 音楽プレーヤー",
     "Loading Application": "アプリケーションを起動しています",
-    "Moonlight": "Moonlight",
     "No Applications Found": "アプリケーションが見つかりませんでした",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster",
-    "RGB Controller": "RGB コントローラー",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Simple Terminal": "簡易ターミナル",
     "Task Toolkit": "タスクツール集"
   },
   "muxarchive": {
@@ -347,8 +337,7 @@
     "Sleep 5m + Shutdown": "スリープ 5分 + 電源を切る",
     "Sleep 60m + Shutdown": "スリープ 60分 + 電源を切る",
     "Sleep 60s + Shutdown": "スリープ 60秒 + 電源を切る",
-    "Sleep Function": "スリープ設定",
-    "Sleep Suspend": "中断スリープ"
+    "Sleep Function": "スリープ設定"
   },
   "muxrtc": {
     "12 Hour": "12時間",

@@ -39,18 +39,8 @@
   "muxapp": {
     "APPLICATIONS": "어플리케이션",
     "Archive Manager": "아카이브 매니저",
-    "Dingux Commander": "Dingux 커맨더",
-    "Flip Clock": "플립 클락",
-    "GMU Music Player": "GMU 뮤직 플레이어",
     "Loading Application": "어플리케이션 실행 중",
-    "Moonlight": "문라이트",
     "No Applications Found": "어플리케이션 없음",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "포트마스터",
-    "RGB Controller": "RGB 조절기",
-    "RetroArch": "레트로아크",
-    "ScummVM": "ScummVM 실행기",
-    "Simple Terminal": "심플 터미널",
     "Task Toolkit": "태스크 툴킷"
   },
   "muxarchive": {
@@ -347,8 +337,7 @@
     "Sleep 5m + Shutdown": "슬립 5분 이후 시스템 종료",
     "Sleep 60m + Shutdown": "슬립 60분 이후 시스템 종료",
     "Sleep 60s + Shutdown": "슬립 60초 이후 시스템 종료",
-    "Sleep Function": "슬립 기능",
-    "Sleep Suspend": "슬립 지속"
+    "Sleep Function": "슬립 기능"
   },
   "muxrtc": {
     "12 Hour": "12 시간제",

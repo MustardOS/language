@@ -39,18 +39,8 @@
   "muxapp": {
     "APPLICATIONS": "التطبيقات",
     "Archive Manager": "مدير الأرشيف",
-    "Dingux Commander": "دينغوكس كوماندور",
-    "Flip Clock": "ساعة فليب",
-    "GMU Music Player": "مشغل موسيقى GMU",
     "Loading Application": "جاري تحميل التطبيق",
-    "Moonlight": "مونلايت",
     "No Applications Found": "لم يتم العثور على تطبيقات",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster",
-    "RGB Controller": "متحكم RGB",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Simple Terminal": "طرفية",
     "Task Toolkit": "أدوات المهام"
   },
   "muxarchive": {
@@ -347,8 +337,7 @@
     "Sleep 5m + Shutdown": "السكون ل 5 دقائق + إيقاف التشغيل",
     "Sleep 60m + Shutdown": "السكون ل 60 دقيقة + إيقاف التشغيل",
     "Sleep 60s + Shutdown": "السكون ل 60 ثانية + إيقاف التشغيل",
-    "Sleep Function": "دالة السكون",
-    "Sleep Suspend": "تعليق السكون"
+    "Sleep Function": "دالة السكون"
   },
   "muxrtc": {
     "12 Hour": "بصيغة 12 ساعة",
