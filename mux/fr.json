@@ -334,7 +334,7 @@
     "Sleep 60m + Shutdown": "Veille 60m + Arrêt",
     "Sleep 60s + Shutdown": "Veille 60s + Arrêt",
     "Sleep Function": "Fonction de veille",
-    "Sleep Until Wake": "Veille jusqu'au réveil"
+    "Sleep Until Wake": "Veille jusqu'à réactivation"
   },
   "muxrtc": {
     "12 Hour": "12 heures",
@@ -533,7 +533,7 @@
   "muxvisual": {
     "Battery": "Batterie",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Modifie l'étiquette de titre supérieure dans \"Explorer le contenu\" pour afficher le périphérique de stockage actuel ainsi que le nom du dossier",
-    "Changes the transparency of the overlay image for the frontend only": "Modifie la transparence de l'image de superposition pour le menu uniquement",
+    "Changes the transparency of the overlay image for the frontend only": "Modifie la transparence de l'image de superposition pour l'interface uniquement",
     "Checkerboard (1px)": "Damier (1px)",
     "Checkerboard (4px)": "Damier (4px)",
     "Clock": "Horloge",
@@ -566,8 +566,8 @@
     "Replaces the dash (-) with a colon (:) for content labels": "Remplace le tiret (-) par deux points (:) pour les étiquettes de contenu",
     "Replaces the label of shortened content folders to more appropriately named labels": "Remplace l'étiquette des dossiers de contenu raccourcis par des étiquettes nommées de manière plus appropriée",
     "Show Hidden Content": "Afficher le contenu masqué",
-    "Switch between different overlay styles for the frontend only": "Basculer entre différents styles de superposition pour le menu uniquement",
-    "Theme Provided": "Fourni par le thème",
+    "Switch between different overlay styles for the frontend only": "Basculer entre différents styles de superposition pour l'interface uniquement",
+    "Theme Provided": "Fournie par le thème",
     "Title Include Root Drive": "Périphérique de stockage dans le titre",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "Activez/désactivez l'affichage du contenu masqué dans l'explorateur de contenu - Placez un '.' ou le caractère '_' au début d'un nom de fichier ou de dossier pour le masquer",
     "Toggle the visibility of currently selected file along with total in Explore Content": "Activez/désactivez l'affichage du fichier actuellement sélectionné ainsi que le nombre total de fichiers dans Explorer le contenu",
