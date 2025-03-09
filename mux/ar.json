@@ -53,8 +53,8 @@
     "ASSIGN": "عيّن",
     "Assigned to directory": "تم تعيينه إلى المجلد",
     "Assigned to file": "تم تعيينه إلى الملف",
-    "No Cores Found…": "لم يتم العثور على أي وحدات…",
-    "This is where you can assign a core or external emulator to content": "هذا هو المكان الذي يمكنك تعيين وحدة أو محاكي خارجي إلى المحتوى"
+    "No Cores Found…": "لم يتم العثور على أي نواة…",
+    "This is where you can assign a core or external emulator to content": "هذا هو المكان الذي يمكنك تعيين نواة أو محاكي خارجي إلى المحتوى"
   },
   "muxcharge": {
     "Booting System - Please Wait…": "جاري تمهيد النظام - يرجى الانتظار…",
@@ -75,7 +75,7 @@
     "Customisation": "تخصيص النظام",
     "Customise your muOS setup with user created packages": "تخصيص الإعداد muOS عبر حزم المستخدم",
     "Device specific and muOS frontend settings can be found here": "يمكنك العثور على إعدادات الخاصة للجهاز وإعدادات واجهة muOS من هنا",
-    "Find out what storage device core settings and configurations are mounted": "معرفة ما هي وحدة التخزين و الإعدادات المثبة",
+    "Find out what storage device core settings and configurations are mounted": "معرفة ما هي نواة التخزين و الإعدادات المثبة",
     "General Settings": "الإعدادات العامة",
     "Interface Options": "إعدادات الواجهة",
     "Language": "اللغة",
@@ -269,17 +269,17 @@
     "WI-FI NETWORK": "شبكة WI-FI"
   },
   "muxoption": {
-    "Assign Core": "تعيين الوحدة",
-    "CONTENT OPTION": "CONTENT OPTION",
-    "Current": "Current",
-    "Directory": "Directory",
-    "Individual": "Individual",
-    "Name": "Name",
-    "Search Content": "Search Content",
-    "Search for content within the selected directory": "Search for content within the selected directory",
-    "Set the CPU governor for the selected content or directory": "Set the CPU governor for the selected content or directory",
-    "Set the system core or external emulator for the selected content or directory": "Set the system core or external emulator for the selected content or directory",
-    "System Governor": "System Governor"
+    "Assign Core": "عين النواة",
+    "CONTENT OPTION": "إعدادات المحتوى",
+    "Current": "الحالي",
+    "Directory": "المجلد",
+    "Individual": "فرد",
+    "Name": "الإسم",
+    "Search Content": "البحث عن محتوى",
+    "Search for content within the selected directory": "البحث عن محتوى داخل المجلد المحدد",
+    "Set the CPU governor for the selected content or directory": "تعيين منظم وحدة المعالجة المركزية للمحتوى أو المجلد المحدد",
+    "Set the system core or external emulator for the selected content or directory": "تعيين نواة النظام أو المحاكي الخارجي للمحتوى أو المجلد المحدد",
+    "System Governor": "منظم النظام"
   },
   "muxpass": {
     "PASSCODE": "رمز المرور"
@@ -298,7 +298,7 @@
     "There are no attributed credits!": "There are no attributed credits!"
   },
   "muxplore": {
-    "Content is not associated with system or core": "المحتوى غير مرتبط بالنظام أو الوحدة",
+    "Content is not associated with system or core": "المحتوى غير مرتبط بالنظام أو النواة",
     "Could not load content": "لم يمكن تحميل المحتوى",
     "EXPLORE": "تصفح",
     "Folders cannot be added to collections": "لا يمكن إضافة المجلدات إلى المجموعات",
@@ -388,7 +388,7 @@
     "Location of RetroArch configurations": "موقع إعدادات RetroArch",
     "Location of Syncthing configurations": "موقع إعدادات Syncthing",
     "Location of User Initialisation scripts": "موقع نصوص تهيئة المستخدم",
-    "Location of assigned core and governor configurations": "موقع الوحدات المعينة وإعدادات المنظم",
+    "Location of assigned core and governor configurations": "موقع النواة المعينة وإعدادات المنظم",
     "Location of background music": "موقع الموسيقى الخلفية",
     "Location of catalogue packages": "موقع حزم الكتالوج",
     "Location of content collection": "موقع تجمع المحتويات",
