@@ -21,6 +21,7 @@ nl:Dutch
 pl:Polish
 pt_BR:Portuguese (BR)
 pt_PT:Portuguese (PT)
+ro:Romanian
 ru:Russian
 sl:Slovenian
 sr:Serbian
