@@ -279,22 +279,22 @@
     "Search for content within the selected directory": "Поиск приложений в выбранной папке",
     "Set the CPU governor for the selected content or directory": "Настройка регулятора ЦП для выбранного приложения или папки",
     "Set the system core or external emulator for the selected content or directory": "Выбор ядра или внешнего эмулятор для указанного приложения или папки",
-    "System Governor": "Системный говернор"
+    "System Governor": "Системный регулятор"
   },
   "muxpass": {
     "PASSCODE": "ПАРОЛЬ"
   },
   "muxpicker": {
     "CATALOGUE PICKER": "ВЫБОР КАТАЛОГОВ",
-    "CONFIG PICKER": "ВЫБОР КОНФИГОВ",
+    "CONFIG PICKER": "ВЫБОР КОНФИГУРАЦИЙ",
     "CUSTOM PICKER": "КАСТОМНЫЙ ВЫБОР",
     "Incompatible Theme Resolution Detected": "Обнаружено несовместимое разрешение темы",
     "Incompatible Theme Version Detected": "Обнаружена несовместимая версия темы",
-    "No Catalogue Packages Found": "Каталоги пакетов не найдены",
-    "No Configuration Packages Found": "Каталоги конфигураций не найдены",
-    "No Custom Packages Found": "Кастомные пакеты не найдены",
-    "No Theme Packages Found": "Каталоги тем не найдены",
-    "THEME PICKER": "ВЫБОР ТЕМ",
+    "No Catalogue Packages Found": "Пакеты каталогов не найдены",
+    "No Configuration Packages Found": "Пакеты конфигураций не найдены",
+    "No Custom Packages Found": "Пакеты кастомов не найдены",
+    "No Theme Packages Found": "Пакеты тем не найдены",
+    "THEME PICKER": "ВЫБОР ТЕМЫ",
     "There are no attributed credits!": "Не найдено применимых атрибутов!"
   },
   "muxplore": {
