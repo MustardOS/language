@@ -334,7 +334,7 @@
     "Sleep 60m + Shutdown": "Mirovanje 60m + Isključivanje",
     "Sleep 60s + Shutdown": "Mirovanje 60s + Isključivanje",
     "Sleep Function": "Funkcija mirovanja",
-    "Sleep Until Wake": "Sleep Until Wake"
+    "Sleep Until Wake": "Stanje mirovanja do buđenja"
   },
   "muxrtc": {
     "12 Hour": "12 sati",
@@ -458,7 +458,7 @@
     "ADVANCED SETTINGS": "NAPREDNA PODEŠAVANJA",
     "Adjust the rate of speed when holding navigation keys down": "Podesite brzinu listanja kada držite tastere za navigaciju",
     "Adjust the system swapfile if required by certain content": "Podesite sistemski swap fajl ukoliko je to potrebno za određeni sadržaj",
-    "Adjust the system zram if required by certain content": "Adjust the system zram if required by certain content",
+    "Adjust the system zram if required by certain content": "Prilagodite ZRAM sistema, ako to određeni sadržaj zahteva",
     "Audio Overdrive": "Pojačavanje zvučnog izlaza",
     "Battery Offset": "Odstupanje baterije",
     "Brightness On Boot": "Osvetljene prilikom startovanja",
