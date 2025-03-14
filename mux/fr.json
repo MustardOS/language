@@ -49,8 +49,8 @@
     "INSTALLED": "INSTALLER",
     "No Archives Found": "Aucune archive trouvée"
   },
-  "muxassign": {
-    "ASSIGN": "ASSIGNER",
+  "mux": {
+    "": "ASSIGNER",
     "Assigned to directory": "Assigné au dossier",
     "Assigned to file": "Assigné à un fichier",
     "No Cores Found…": "Aucun émulateur trouvé !",
@@ -269,8 +269,8 @@
     "WI-FI NETWORK": "RÉSEAU WI-FI"
   },
   "muxoption": {
-    "Assign Core": "Assigner un émulateur",
-    "CONTENT OPTION": "OPTION DU CONTENU",
+    "Assign Core": "Assigner à un émulateur",
+    "CONTENT OPTION": "OPTION DU JEU",
     "Current": "Actuel",
     "Directory": "Répertoire",
     "Individual": "Individuel",
@@ -287,7 +287,7 @@
   "muxpicker": {
     "CATALOGUE PICKER": "CATALOGUE",
     "CONFIG PICKER": "CONFIG RETROARCH",
-    "CUSTOM PICKER": "SELECTEUR DE PERSONNALISATION",
+    "CUSTOM PICKER": "PERSONNALISATION",
     "Incompatible Theme Resolution Detected": "Résolution de thème incompatible détectée",
     "Incompatible Theme Version Detected": "Version de thème incompatible détectée",
     "No Catalogue Packages Found": "Aucun package de catalogue trouvé",
@@ -302,9 +302,9 @@
     "Could not load content": "Impossible de charger le contenu",
     "EXPLORE": "CONTENU",
     "Folders cannot be added to collections": "Les dossiers ne peuvent pas être ajoutés aux collections",
-    "No Content Found…": "Aucun contenu trouvé…",
+    "No Content Found…": "Aucun contenu trouvé...",
     "Refresh": "Rafraîchir",
-    "Refreshing…": "Rafraîchissement en cours…"
+    "Refreshing…": "Rafraîchissement en cours..."
   },
   "muxpower": {
     "10m": "10m",
