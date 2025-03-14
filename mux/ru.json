@@ -278,7 +278,7 @@
     "Search Content": "Поиск игр",
     "Search for content within the selected directory": "Поиск игр в выбранной папке",
     "Set the CPU governor for the selected content or directory": "Настройка регулятора ЦП для выбранной игры или папки",
-    "Set the system core or external emulator for the selected content or directory": "Выбор ядра или внешнего эмулятор для указанной игры или папки",
+    "Set the system core or external emulator for the selected content or directory": "Выбор ядра или внешнего эмулятора для указанной игры или папки",
     "System Governor": "Системный регулятор"
   },
   "muxpass": {
@@ -350,7 +350,7 @@
     "Year": "Год"
   },
   "muxsearch": {
-    "Enter in the name of the content you are looking for": "Введите имя игры для поиска",
+    "Enter in the name of the content you are looking for": "Введите название игры",
     "Lookup": "Поиск",
     "Lookup has to be 3 characters or more!": "Запрос должен содержать минимум 3 символа!",
     "SEARCH CONTENT": "ПОИСК ИГР",
@@ -555,7 +555,7 @@
     "Horizontal Lines (2px)": "Горизонтальные линии (2 пикселя)",
     "Horizontal Lines (4px)": "Горизонтальные линии (4 пикселя)",
     "INTERFACE OPTIONS": "НАСТРОЙКИ ИНТЕРФЕЙСА",
-    "Menu Counter File": "Счетчик игр",
+    "Menu Counter File": "Меню счетчика файлов",
     "Menu Counter Folder": "Счетчик папок",
     "Network": "Сеть",
     "Overlay Image": "Наложенное изображение",
@@ -564,7 +564,7 @@
     "Remove ( )": "Удалить ( )",
     "Remove [ ]": "Удалить [ ]",
     "Remove [ ] and ( )": "Удалить [ ] и ( )",
-    "Remove extra information from content labels - This does NOT rename your files it only changes how it is displayed": "Удаление лишней информации в названии игр - этот параметр НЕ переименовывает ваши файлы, а только изменяет способ их отображения",
+    "Remove extra information from content labels - This does NOT rename your files it only changes how it is displayed": "Удаление лишней информации из названия - этот параметр НЕ переименовывает ваши файлы, а только изменяет способ их отображения",
     "Replaces the dash (-) with a colon (:) for content labels": "Заменяет тире (-) на двоеточие (:) в названиях игр",
     "Replaces the label of shortened content folders to more appropriately named labels": "Заменяет сокращенные названия папок с играми на более подходящие",
     "Show Hidden Content": "Показать скрытые игры",
@@ -572,8 +572,8 @@
     "Theme Provided": "Предоставленная тема",
     "Title Include Root Drive": "Карта памяти в названии",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "Отображение скрытых игр в Библиотеке - Поместите символ '.' или '_' в начало названия файла или папки, чтобы скрыть их",
-    "Toggle the visibility of currently selected file along with total in Explore Content": "Отображение номера выбранной игры в Библиотеке",
-    "Toggle the visibility of currently selected folder along with total in Explore Content": "Отображение номера выбранной папки в Библиотеке",
+    "Toggle the visibility of currently selected file along with total in Explore Content": "Настройка отображения выбранного файла в Библиотеке",
+    "Toggle the visibility of currently selected folder along with total in Explore Content": "Настройка отображения выбранной папки в Библиотеке",
     "Toggle the visibility of empty folders in Explore Content": "Отображение пустых папок в Библиотеке",
     "Toggle the visibility of the battery glyph": "Отображение иконки аккумулятора",
     "Toggle the visibility of the clock": "Отображение часов",
