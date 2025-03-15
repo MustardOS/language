@@ -131,7 +131,7 @@
     "Theme Picker": "テーマ選択",
     "Toggle the background animation of the current selected theme": "選択中のテーマの背景アニメーションを再生します",
     "Toggle the background music of the frontend - This will stop if content is launched": "背景音楽を再生します - コンテンツを起動すると再生停止します",
-    "Toggle the fade to black animation on content launching": "コンテンツ起動時に黒い画面にフェードするアニメーションを再生します",
+    "Toggle the fade to black animation on content launching": "コンテンツ起動時に黒い画面にフェードする\nアニメーションを再生します",
     "Toggle the navigation sound of the frontend if the current theme supports it": "現在のテーマに含まれている場合、操作音を再生します",
     "Toggle the splash image on content launching": "コンテンツ起動時にスプラッシュ画像を表示します",
     "Top Left": "上段 左側",
@@ -300,7 +300,7 @@
   "muxplore": {
     "Content is not associated with system or core": "システムまたはコアに関連づけられていません",
     "Could not load content": "コンテンツを読み込めませんでした",
-    "EXPLORE": "一覧",
+    "EXPLORE": "コンテンツ一覧",
     "Folders cannot be added to collections": "フォルダはコレクションに追加できません",
     "No Content Found…": "コンテンツが見つかりませんでした…",
     "Refresh": "再読み込み",
