@@ -160,11 +160,11 @@
     "Screen": "الشاشة",
     "Select the resolution for HDMI output, such as 720p or 1080p": "حدد الدقة لمخرج HDMI، مثل 720p أو 1080p",
     "Set the color depth, such as 8-bit or 10-bit": "ضبط عمق اللون، مثل 8bits أو 10bits",
-    "Set the color range of RGB colour space": "Set the color range of RGB colour space",
-    "Set the color space, such as RGB or YUV": "Set the color space, such as RGB or YUV",
-    "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
-    "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
-    "Theme Resolution": "Theme Resolution",
+    "Set the color range of RGB colour space": "تعيين مدى اللون لفراغ اللون RGB",
+    "Set the color space, such as RGB or YUV": "تعيين فراغ اللون، مثل RGB أو YUV",
+    "Switch between device speaker or external monitor audio via HDMI connection": "التبديل بين مكبر صوت الجهاز أو صوت الشاشة الخارجية عبر اتصال HDMI",
+    "Switch between overscan or underscan to fit the display screen": "التبديل بين المسح الزائد أو المسح الناقص لتناسب شاشة العرض",
+    "Theme Resolution": "دقة الثيم",
     "Under": "تحجيم ناقص"
   },
   "muxhistory": {
@@ -285,16 +285,16 @@
     "PASSCODE": "رمز المرور"
   },
   "muxpicker": {
-    "CATALOGUE PICKER": "CATALOGUE PICKER",
-    "CONFIG PICKER": "CONFIG PICKER",
-    "CUSTOM PICKER": "CUSTOM PICKER",
-    "Incompatible Theme Resolution Detected": "Incompatible Theme Resolution Detected",
-    "Incompatible Theme Version Detected": "Incompatible Theme Version Detected",
-    "No Catalogue Packages Found": "No Catalogue Packages Found",
-    "No Configuration Packages Found": "No Configuration Packages Found",
-    "No Custom Packages Found": "No Custom Packages Found",
-    "No Theme Packages Found": "No Theme Packages Found",
-    "THEME PICKER": "THEME PICKER",
+    "CATALOGUE PICKER": "محدد الكتالوج",
+    "CONFIG PICKER": "محدد الإعدادات",
+    "CUSTOM PICKER": "محدد التخصيص",
+    "Incompatible Theme Resolution Detected": "تم اكتشاف دقة ثيم غير متوافقة",
+    "Incompatible Theme Version Detected": "تم اكتشاف إصدار غير متوافق للثيم",
+    "No Catalogue Packages Found": "لم يتم العثور على أي حزم كتالوج",
+    "No Configuration Packages Found": "لم يتم العثور على حزم الإعدادات",
+    "No Custom Packages Found": "لم يتم العثور على حزم التخصيصات",
+    "No Theme Packages Found": "لم يتم العثور على حزم الثيمات",
+    "THEME PICKER": "محدد الثيم",
     "There are no attributed credits!": "There are no attributed credits!"
   },
   "muxplore": {
