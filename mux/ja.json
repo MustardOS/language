@@ -170,7 +170,7 @@
   "muxhistory": {
     "Error loading content file": "コンテンツを読み込み中にエラーが起きました",
     "Error removing from History": "履歴から削除中にエラーが起きました",
-    "HISTORY": "履歴",
+    "HISTORY": "コンテンツ履歴",
     "Nothing Played Yet…": "まだ何もプレイしていません…",
     "Removed from History": "履歴から削除しました"
   },
@@ -264,7 +264,7 @@
     "Static": "静的",
     "Subnet CIDR": "サブネット CIDR",
     "Toggle between DHCP and Static network types": "DHCP と 静的ネットワークを切り替えます",
-    "Toggle whether or not to try and connect to a hidden SSID broadcast": "非公開ネットワークの SSID 検出して接続を試みます",
+    "Toggle whether or not to try and connect to a hidden SSID broadcast": "非公開ネットワークの SSID を検出して接続を試みます",
     "Trying to Connect…": "接続しています…",
     "WI-FI NETWORK": "WI-FI ネットワーク"
   },
