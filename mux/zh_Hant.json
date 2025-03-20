@@ -139,9 +139,9 @@
     "Top Right": "右上"
   },
   "muxgov": {
-    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "配置CPU調控方案，動態調整CPU頻率，幫助平衡功耗與效能",
-    "GOVERNOR": "調控方案",
-    "No Governors Found…": "找不到調控方案…"
+    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "配置CPU調速器，動態調整CPU頻率，幫助平衡功耗與效能",
+    "GOVERNOR": "調速器",
+    "No Governors Found…": "找不到調速器…"
   },
   "muxhdmi": {
     "Allows for testing different theme resolutions": "允許測試不同的主題分辨率",
@@ -277,9 +277,9 @@
     "Name": "名稱",
     "Search Content": "搜尋內容",
     "Search for content within the selected directory": "在所選的目錄中搜尋內容",
-    "Set the CPU governor for the selected content or directory": "為選定的內容或目錄設定CPU調控方案",
+    "Set the CPU governor for the selected content or directory": "為選定的內容或目錄設定CPU調速器",
     "Set the system core or external emulator for the selected content or directory": "為所選內容或目錄設定系統核心或外部模擬器",
-    "System Governor": "系統調控方案"
+    "System Governor": "系統調速器"
   },
   "muxpass": {
     "PASSCODE": "密碼"
@@ -375,7 +375,7 @@
     "View the current used space of the mounted storage devices": "查看已掛載儲存設備的當前使用空間"
   },
   "muxstorage": {
-    "Assigned Core/Governor System": "分配 核心/調控方案 系統",
+    "Assigned Core/Governor System": "分配 核心/調速器 系統",
     "Background Music": "背景音樂",
     "Catalogue Packages": "目錄集",
     "Content Collection": "內容收藏夾",
@@ -388,7 +388,7 @@
     "Location of RetroArch configurations": "RetroArch配置文件路徑",
     "Location of Syncthing configurations": "Syncthing配置文件路徑",
     "Location of User Initialisation scripts": "使用者初始化腳本路徑",
-    "Location of assigned core and governor configurations": "分配核心和調控方案的配置文件路徑",
+    "Location of assigned core and governor configurations": "分配核心和調速器的配置文件路徑",
     "Location of background music": "背景音樂檔案路徑",
     "Location of catalogue packages": "目錄集的位置",
     "Location of content collection": "內容收藏夾的位置",
@@ -416,7 +416,7 @@
   "muxsysinfo": {
     "Battery Capacity": "電池容量",
     "Battery Voltage": "電池電壓",
-    "CPU Governor": "CPU調控方案",
+    "CPU Governor": "CPU調速器",
     "CPU Information": "CPU資訊",
     "CPU Speed": "CPU速度",
     "Device Type": "裝置類型",
@@ -432,7 +432,7 @@
     "The current detected battery voltage": "目前偵測到的電池電壓",
     "The current detected temperature of the device": "目前偵測到的設備溫度",
     "The current device type detected and configured": "目前偵測到並配置的設備型號",
-    "The current running governor of the device": "設備目前運作的調控方案",
+    "The current running governor of the device": "設備目前運作的調速器",
     "The current running time of the system": "系統目前運作時間",
     "The current version of muOS running on the device": "設備上目前運行的muOS版本",
     "The current, and total, memory usage of the device": "設備當前的記憶體使用量和總記憶體大小",
