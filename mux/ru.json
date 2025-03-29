@@ -414,7 +414,7 @@
     "User Init Scripts": "Пользовательские скрипты"
   },
   "muxsysinfo": {
-    "Battery Capacity": "Емкость аккумулятора",
+    "Battery Capacity": "Заряд аккумулятора",
     "Battery Voltage": "Напряжение аккумулятора",
     "CPU Governor": "Регулятор ЦП",
     "CPU Information": "Архитектура ЦП",
@@ -428,7 +428,7 @@
     "Temperature": "Температура",
     "The current CPU frequency of the device": "Текущая частота процессора",
     "The current Linux kernel": "Текущее ядро Linux",
-    "The current detected battery capacity": "Текущая емкость аккумулятора",
+    "The current detected battery capacity": "Текущий заряд аккумулятора",
     "The current detected battery voltage": "Текущее напряжение аккумулятора",
     "The current detected temperature of the device": "Текущая температура устройства",
     "The current device type detected and configured": "Обнаруженное устройство настроено",
