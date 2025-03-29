@@ -15,7 +15,7 @@
     "Load": "Charger",
     "Loading…": "Chargement…",
     "Migrate to SD2": "Migrer sur SD2",
-    "New": "Nouvelle",
+    "New": "Créer",
     "No Help Information Found": "Aucune information d'aide trouvée",
     "No Information Found": "Aucune information trouvée",
     "Open": "Ouvrir",
@@ -286,7 +286,7 @@
   },
   "muxpicker": {
     "CATALOGUE PICKER": "CATALOGUES D'ILLUSTRATIONS",
-    "CONFIG PICKER": "CONFIGURATION RETROARCH",
+    "CONFIG PICKER": "CONFIGURATIONS RETROARCH",
     "CUSTOM PICKER": "MENU PERSONNALISATION",
     "Incompatible Theme Resolution Detected": "Thème incompatible avec la résolution actuelle",
     "Incompatible Theme Version Detected": "Thème incompatible avec la version actuelle du système",
@@ -294,7 +294,7 @@
     "No Configuration Packages Found": "Aucun pack de configuration disponible",
     "No Custom Packages Found": "Aucun pack de personnalisation disponible",
     "No Theme Packages Found": "Aucun pack de thème disponible",
-    "THEME PICKER": "THÈME MUOS",
+    "THEME PICKER": "THÈMES MUOS",
     "There are no attributed credits!": "Il n'y a pas de crédits attribués!"
   },
   "muxplore": {
