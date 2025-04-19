@@ -286,8 +286,8 @@
   },
   "muxpicker": {
     "CATALOGUE PICKER": "KATALOGE",
-    "CONFIG PICKER": "KONFIG-AUSWAHL",
-    "CUSTOM PICKER": "KUSTOMISIERUNG-AUSWAHL",
+    "CONFIG PICKER": "EINSTELLUNGSAUSWAHL",
+    "CUSTOM PICKER": "BENUTZERDEFINIERTE AUSWAHL",
     "Incompatible Theme Resolution Detected": "Inkompatible Skinauflösung erkannt",
     "Incompatible Theme Version Detected": "Inkompatible Skinversion erkannt",
     "No Catalogue Packages Found": "Keine Katalogpakete gefunden",
