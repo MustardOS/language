@@ -14,12 +14,12 @@
     "Launch": "Starten",
     "Load": "Laden",
     "Loading…": "Lädt…",
-    "Migrate to SD2": "Klonen auf SD2",
+    "Migrate to SD2": "Kopieren auf SD2",
     "New": "Neu",
     "No Help Information Found": "Keine Hilfe vorhanden",
     "No Information Found": "Keine Information vorhanden",
     "Open": "Öffnen",
-    "Previous": "Bisherige",
+    "Previous": "Zuletzt",
     "Rebooting": "Wird neugestartet",
     "Recursive": "Als Standard",
     "Remove": "Entfernen",
@@ -83,7 +83,7 @@
     "Select your preferred language": "Bevorzugte Sprache einstellen",
     "Settings to change the power features of the device": "Einstellungen zum Ändern der Energieeinstellungen des Geräts",
     "Settings to change the visual aspects of the frontend": "Einstellungen zur Änderung des Interface vom Frontend",
-    "Storage": "Speicher"
+    "Storage": "Speichereinstellungen"
   },
   "muxconnect": {
     "Bluetooth": "Bluetooth",
@@ -177,7 +177,7 @@
   "muxinfo": {
     "Access statistics of played content and other activity": "Auf Statistiken über abgespielte Inhalte und andere Aktivitäten zugreifen",
     "Access version information and system details": "Versionsinformationen und Systemdetails einsehen",
-    "Activity Tracker": "Spielzeit",
+    "Activity Tracker": "Spielzeitaufzeichnungen",
     "INFORMATION": "INFORMATION",
     "Input Tester": "Tastentest",
     "Screenshots": "Bildschirmfoto",
@@ -421,7 +421,7 @@
     "CPU Speed": "CPU-Auslastung",
     "Device Type": "Gerätemodell",
     "Linux Kernel": "Linuxversion",
-    "Memory Cache Dropped": "Speichercache abgelaufen",
+    "Memory Cache Dropped": "Arbeitsspeicher bereinigt",
     "SYSTEM DETAILS": "SYSTEMINFORMATIONEN",
     "System Memory": "Arbeitsspeicher",
     "System Uptime": "Betriebszeit",
@@ -432,11 +432,11 @@
     "The current detected battery voltage": "Die aktuell ermittelte Akkuspannung",
     "The current detected temperature of the device": "Die aktuell ermittelte Temperatur des Geräts",
     "The current device type detected and configured": "Der aktuell erkannte und konfigurierte Gerätetyp",
-    "The current running governor of the device": "Der aktuell laufende Governor des Geräts",
+    "The current running governor of the device": "Der aktuelle CPU-Einstellung",
     "The current running time of the system": "Die aktuelle Betriebszeit des Geräts",
-    "The current version of muOS running on the device": "Die aktuelle Version von muOS, die auf dem Gerät läuft",
+    "The current version of muOS running on the device": "Aktuelle Version von muOs",
     "The current, and total, memory usage of the device": "Die aktuelle und gesamte Speichernutzung des Geräts",
-    "The detected CPU type of the device": "Der erkannte CPU-Typ des Geräts",
+    "The detected CPU type of the device": "Die verbaute CPU von diesem Gerät",
     "muOS Version": "muOS-Version"
   },
   "muxtask": {
@@ -457,9 +457,9 @@
   "muxtweakadv": {
     "ADVANCED SETTINGS": "ERWEITERTE EINSTELLUNGEN",
     "Adjust the rate of speed when holding navigation keys down": "Die Scroll-Geschwindigkeit bei gedrückten Navigationstasten definieren",
-    "Adjust the system swapfile if required by certain content": "Auslagerungsdatei des Systems anpassen, wenn dies für bestimmte Dateien erforderlich ist",
-    "Adjust the system zram if required by certain content": "Zram anpassen, falls dies für bestimmte Dateien erforderlich ist",
-    "Audio Overdrive": "Soundsteuerung",
+    "Adjust the system swapfile if required by certain content": "Lege fest, wie groß die Swapdatei sein soll",
+    "Adjust the system zram if required by certain content": "Diese wird aber erst benutzt, wenn der Arbeitsspeicher ausgelastet ist: Der Kernel belegt zuerst den gesamten vorhandenen RAM, dann versucht er, Teile davon in die Ramdisk zu komprimieren",
+    "Audio Overdrive": "Soundübersteuerung",
     "Battery Offset": "Akkuanzeige korrigieren",
     "Brightness On Boot": "Helligkeit beim Hochfahren",
     "Button Swap": "Tastenwechsel",
@@ -505,7 +505,7 @@
     "Toggle the power LED during content launch": "Der Power-LED während des Starts von Inhalten ein- oder ausschalten",
     "Toggle the system ability to automatically shut the device down due high temperature": "Ein- oder ausschalten der Option des Systems, das Gerät aufgrund hoher Temperaturen automatisch abzuschalten",
     "Toggle vibration for device startup, sleep, and shutdown": "Vibration bei Gerätestart, Standby und Auschalten ein- oder auschalten",
-    "User Init Scripts": "Benutzer-Init-Skripte",
+    "User Init Scripts": "Benutzer-Skripte",
     "Verbose Messages": "Detaillierte Meldungen",
     "Volume On Boot": "Lautstärke bei Systemstart"
   },
