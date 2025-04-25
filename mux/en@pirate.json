@@ -1,11 +1,11 @@
 {
   "generic": {
     "Add": "Add",
-    "Added to Collection": "Added to Collection",
+    "Added to Collection": "Added to Treasure Chest",
     "Back": "Back",
-    "Clear": "Clear",
-    "Collect": "Collect",
-    "Directory": "Directory",
+    "Clear": "Wipe out",
+    "Collect": "Store",
+    "Directory": "Treasure Map",
     "Disabled": "Disabled",
     "Enabled": "Enabled",
     "Extract": "Extract",
