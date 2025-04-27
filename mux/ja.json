@@ -144,7 +144,6 @@
     "No Governors Found…": "ガバナーが見つかりませんでした…"
   },
   "muxhdmi": {
-    "Allows for testing different theme resolutions": "テーマを異なる解像度でテストします",
     "Audio Output": "音声出力",
     "Colour Depth": "色深度",
     "Colour Range": "色域",
@@ -157,14 +156,12 @@
     "Over": "オーバー",
     "Resolution": "解像度",
     "Scan Scaling": "スキャンスケール",
-    "Screen": "スクリーン",
     "Select the resolution for HDMI output, such as 720p or 1080p": "720p や 1080p など HDMI 出力の解像度を選択します",
     "Set the color depth, such as 8-bit or 10-bit": "8-bit や 10-bit など色深度を設定します",
     "Set the color range of RGB colour space": "RGB 色空間の色域を設定します",
     "Set the color space, such as RGB or YUV": "RGB や YUV など色空間を設定します",
     "Switch between device speaker or external monitor audio via HDMI connection": "内蔵スピーカーと HDMI 接続された機器からの出力を切り替えます",
     "Switch between overscan or underscan to fit the display screen": "ディスプレイに合わせてオーバーまたはアンダースキャンを切り替えます",
-    "Theme Resolution": "テーマ解像度",
     "Under": "アンダー"
   },
   "muxhistory": {

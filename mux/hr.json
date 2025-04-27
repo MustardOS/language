@@ -144,7 +144,6 @@
     "No Governors Found…": "Upravitelji nisu Pronađeni…"
   },
   "muxhdmi": {
-    "Allows for testing different theme resolutions": "Dopušta testiranje drugačijih rezolucija tema",
     "Audio Output": "Audio Izlaz",
     "Colour Depth": "Dubina Boje",
     "Colour Range": "Raspon Boje",
@@ -157,14 +156,12 @@
     "Over": "Preko",
     "Resolution": "Rezolucija",
     "Scan Scaling": "Skaliranje Skeniranja",
-    "Screen": "Ekran",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Odaberi rezoluciju za HDMI izlaz, kao 720p ili 1080p",
     "Set the color depth, such as 8-bit or 10-bit": "Odredi dubinu boje, kao 8-bit ili 10-bit",
     "Set the color range of RGB colour space": "Odredi raspon boje za RGB prostor boje",
     "Set the color space, such as RGB or YUV": "Odredi prostor boje, kao RGB ili YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Promijeni audio izlaz od uređajnih zvučnika ili vanjskog monitora preko HDMI veze",
     "Switch between overscan or underscan to fit the display screen": "Promijeni na prekoskeniranje ili podskeniranje za pristanje ekrana",
-    "Theme Resolution": "Rezolucija Teme",
     "Under": "Ispod"
   },
   "muxhistory": {

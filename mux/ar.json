@@ -144,7 +144,6 @@
     "No Governors Found…": "لم يتم العثور على أي منظم…"
   },
   "muxhdmi": {
-    "Allows for testing different theme resolutions": "سمح باختبار دقة ثيمات مختلفة",
     "Audio Output": "مخرج الصوت",
     "Colour Depth": "عمق اللون",
     "Colour Range": "مدى اللون",
@@ -157,14 +156,12 @@
     "Over": "تحجيم زائد",
     "Resolution": "دقة الشاشة",
     "Scan Scaling": "تحجيم المسح",
-    "Screen": "الشاشة",
     "Select the resolution for HDMI output, such as 720p or 1080p": "حدد الدقة لمخرج HDMI، مثل 720p أو 1080p",
     "Set the color depth, such as 8-bit or 10-bit": "ضبط عمق اللون، مثل 8bits أو 10bits",
     "Set the color range of RGB colour space": "تعيين مدى اللون لفراغ اللون RGB",
     "Set the color space, such as RGB or YUV": "تعيين فراغ اللون، مثل RGB أو YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "التبديل بين مكبر صوت الجهاز أو صوت الشاشة الخارجية عبر اتصال HDMI",
     "Switch between overscan or underscan to fit the display screen": "التبديل بين المسح الزائد أو المسح الناقص لتناسب شاشة العرض",
-    "Theme Resolution": "دقة الثيم",
     "Under": "تحجيم ناقص"
   },
   "muxhistory": {

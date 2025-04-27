@@ -144,7 +144,6 @@
     "No Governors Found…": "Keine CPU-Regler gefunden…"
   },
   "muxhdmi": {
-    "Allows for testing different theme resolutions": "Ermöglicht das Testen verschiedener Skinauflösungen",
     "Audio Output": "Soundausgabe",
     "Colour Depth": "Farbtiefe",
     "Colour Range": "Farbpalette",
@@ -157,14 +156,12 @@
     "Over": "Über",
     "Resolution": "Auflösung",
     "Scan Scaling": "Scanskalierung",
-    "Screen": "Bildschirm",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Auflösung für die HDMI-Ausgabe wählen, z. B. 720p oder 1080p",
     "Set the color depth, such as 8-bit or 10-bit": "Farbtiefe einstellen, z. B. 8-Bit oder 10-Bit",
     "Set the color range of RGB colour space": "Farbbereich des RGB-Farbraums einstellen",
     "Set the color space, such as RGB or YUV": "Farbraum einstellen, z. B. RGB oder YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Zwischen Gerätelautsprecher und externem Monitor-Audio über HDMI-Anschluss umschalten",
     "Switch between overscan or underscan to fit the display screen": "Zwischen Overscan und Underscan zur Anpassung an den Bildschirm umschalten",
-    "Theme Resolution": "Skinauflösung",
     "Under": "Unter"
   },
   "muxhistory": {

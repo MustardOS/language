@@ -144,7 +144,6 @@
     "No Governors Found…": "Không có Hiệu chỉnh nào được tìm thấy …"
   },
   "muxhdmi": {
-    "Allows for testing different theme resolutions": "Cho phép việc kiểm thử các độ phân giải khác nhau của theme",
     "Audio Output": "Đầu ra Âm Thanh",
     "Colour Depth": "Độ sâu Màu sắc",
     "Colour Range": "Dải màu",
@@ -157,14 +156,12 @@
     "Over": "Ngoài",
     "Resolution": "Độ phân giải",
     "Scan Scaling": "Tỉ lệ quét",
-    "Screen": "Màn hình",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Lựa chọn độ phân giải cho đầu ra HDMI, như là 720p hay 1080p",
     "Set the color depth, such as 8-bit or 10-bit": "Cài đặt độ sâu màu sắc, như là 8-bit hay 10-bit",
     "Set the color range of RGB colour space": "Cài đặt dải màu cho không gian màu RGB",
     "Set the color space, such as RGB or YUV": "Cài đặt không gian màu, như là RGB hay YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Chuyển đổi giữa loa thiết bị hay âm thanh trên màn hình ngoài thông qua kết nối HDMI",
     "Switch between overscan or underscan to fit the display screen": "Chuyển đổi giữa chế độ quét trên hay quét dưới để phù hợp với thiết bị hiển thị",
-    "Theme Resolution": "Độ phân giải Theme",
     "Under": "Dưới"
   },
   "muxhistory": {

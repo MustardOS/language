@@ -144,7 +144,6 @@
     "No Governors Found…": "Nessun Governor Trovato…"
   },
   "muxhdmi": {
-    "Allows for testing different theme resolutions": "Consente di testare diverse risoluzioni del tema",
     "Audio Output": "Uscita Audio",
     "Colour Depth": "Profondità Colore",
     "Colour Range": "Gamma Colore",
@@ -157,14 +156,12 @@
     "Over": "Over",
     "Resolution": "Risoluzione",
     "Scan Scaling": "Scala Scansione",
-    "Screen": "Schermo",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Seleziona la risoluzione per l'uscita HDMI, ad esempio 720p o 1080p",
     "Set the color depth, such as 8-bit or 10-bit": "Imposta la profondità di colore, ad esempio 8-bit o 10-bit",
     "Set the color range of RGB colour space": "Imposta l'intervallo di colori dello spazio colore RGB",
     "Set the color space, such as RGB or YUV": "Imposta lo spazio colore, ad esempio RGB o YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Passa tra l'audio del dispositivo e l'audio del monitor esterno tramite connessione HDMI",
     "Switch between overscan or underscan to fit the display screen": "Passa tra overscan o underscan per adattare lo schermo del display",
-    "Theme Resolution": "Risoluzione del Tema",
     "Under": "Under"
   },
   "muxhistory": {

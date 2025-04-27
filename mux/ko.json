@@ -144,7 +144,6 @@
     "No Governors Found…": "거버너가 없음…"
   },
   "muxhdmi": {
-    "Allows for testing different theme resolutions": "다양한 테마 해상도 테스트 허용",
     "Audio Output": "오디오 출력",
     "Colour Depth": "색상 심도",
     "Colour Range": "색상 범위",
@@ -157,14 +156,12 @@
     "Over": "오버",
     "Resolution": "해상도",
     "Scan Scaling": "스케일링 스캔",
-    "Screen": "스크린",
     "Select the resolution for HDMI output, such as 720p or 1080p": "720p 또는 1080p 등 HDMI 출력 해상도를 선택",
     "Set the color depth, such as 8-bit or 10-bit": "8비트, 10비트 등 색상 심도를 설정",
     "Set the color range of RGB colour space": "RGB 색상 공간의 색상 범위를 설정",
     "Set the color space, such as RGB or YUV": "RGB 또는 YUV와 같은 색상 공간을 설정",
     "Switch between device speaker or external monitor audio via HDMI connection": "HDMI 연결을 통해 장치 스피커 또는 외부 모니터 오디오 간을 전환",
     "Switch between overscan or underscan to fit the display screen": "디스플레이 화면에 맞게 오버스캔 또는 언더스캔 간을 전환",
-    "Theme Resolution": "테마 해상도",
     "Under": "언더"
   },
   "muxhistory": {
