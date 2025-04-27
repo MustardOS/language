@@ -11,6 +11,7 @@
     "Extract": "Rozbalit",
     "Individual": "Individuální",
     "Info": "Informace",
+    "Install": "Install",
     "Launch": "Spustit",
     "Load": "Nahrát",
     "Loading…": "Načítání…",
@@ -97,6 +98,7 @@
     "Wi-Fi Network": "Wi-Fi síť"
   },
   "muxcustom": {
+    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
     "Alternative Theme": "Alternativní Téma",
     "Background Animation": "Animace na pozadí",
     "Background Music": "Hudba na pozadí",
@@ -127,8 +129,10 @@
     "Middle Right": "Uprostřed vpravo",
     "Navigation Sound": "Zvuk navigace",
     "RetroArch Configurations": "Konfigurace RetroArch",
+    "Screen": "Screen",
     "Theme": "Téma",
     "Theme Picker": "Výběr motivu",
+    "Theme Resolution": "Theme Resolution",
     "Toggle the background animation of the current selected theme": "Přepnout animaci na pozadí aktuálně vybraného motivu",
     "Toggle the background music of the frontend - This will stop if content is launched": "Přepnout hudbu na pozadí frontendu – toto se zastaví, pokud se spustí obsah",
     "Toggle the fade to black animation on content launching": "Přepněte animaci prolínání na černou při spouštění obsahu",
