@@ -11,6 +11,7 @@
     "Extract": "Raspakuj",
     "Individual": "Pojedinačno",
     "Info": "Info",
+    "Install": "Install",
     "Launch": "Pokreni",
     "Load": "Učitaj",
     "Loading…": "Učitavanje…",
@@ -97,6 +98,7 @@
     "Wi-Fi Network": "Wi-Fi Mreža"
   },
   "muxcustom": {
+    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
     "Alternative Theme": "Alternativne teme",
     "Background Animation": "Pozadinska animacija",
     "Background Music": "Pozadinska muzika",
@@ -127,8 +129,10 @@
     "Middle Right": "Sredina Desno",
     "Navigation Sound": "Zvuk kretanja kroz interfejs",
     "RetroArch Configurations": "RetroArch podešavanja",
+    "Screen": "Screen",
     "Theme": "Teme",
     "Theme Picker": "Izbor teme",
+    "Theme Resolution": "Theme Resolution",
     "Toggle the background animation of the current selected theme": "Uključi/isključi animaciju pozadine trenutno odabrane teme",
     "Toggle the background music of the frontend - This will stop if content is launched": "Uključi/isključi pozadinsku muziku frontenda – Muzika će se automatski zaustaviti prilikom pokretanja sadržaja",
     "Toggle the fade to black animation on content launching": "Uključi/isključi animaciju postupnog zatamnjivanja prilikom pokretanja sadržaja",
