@@ -11,6 +11,7 @@
     "Extract": "إستخراج",
     "Individual": "فرد",
     "Info": "معلومات",
+    "Install": "Install",
     "Launch": "تشغيل",
     "Load": "حمّل",
     "Loading…": "جاري التحميل…",
@@ -97,6 +98,7 @@
     "Wi-Fi Network": "شبكة Wi-Fi"
   },
   "muxcustom": {
+    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
     "Alternative Theme": "الثيمات بديلة",
     "Background Animation": "رسوم متحركة خلفية",
     "Background Music": "موسيقى خلفية",
@@ -127,8 +129,10 @@
     "Middle Right": "وسط اليمين",
     "Navigation Sound": "صوت التنقل",
     "RetroArch Configurations": "إعدادات RetroArch",
+    "Screen": "Screen",
     "Theme": "ثيم",
     "Theme Picker": "أداة اختيار الثيم",
+    "Theme Resolution": "Theme Resolution",
     "Toggle the background animation of the current selected theme": "تبديل الرسوم المتحركة الخلفية للثيم المحدد",
     "Toggle the background music of the frontend - This will stop if content is launched": "تبديل الموسيقى الخلفية للواجهة الأمامية - سيتوقف هذا إذا تم تشغيل أي محتوى",
     "Toggle the fade to black animation on content launching": "تبديل تأثير التلاشي إلى الأسود عند تشغيل المحتوى",
