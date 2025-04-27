@@ -11,6 +11,7 @@
     "Extract": "Extrair",
     "Individual": "Individual",
     "Info": "Info",
+    "Install": "Install",
     "Launch": "Iniciar",
     "Load": "Carregar",
     "Loading…": "Carregando…",
@@ -97,6 +98,7 @@
     "Wi-Fi Network": "Rede Wi-Fi"
   },
   "muxcustom": {
+    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
     "Alternative Theme": "Tema Alternativo",
     "Background Animation": "Animação de Fundo",
     "Background Music": "Música de Fundo",
@@ -127,8 +129,10 @@
     "Middle Right": "No Meio à Direita",
     "Navigation Sound": "Sons de Navegação",
     "RetroArch Configurations": "Configurações do RetroArch",
+    "Screen": "Screen",
     "Theme": "Tema",
     "Theme Picker": "Escolher Tema",
+    "Theme Resolution": "Theme Resolution",
     "Toggle the background animation of the current selected theme": "Habilita a animação de fundo do tema atual",
     "Toggle the background music of the frontend - This will stop if content is launched": "Habilita a música de fundo do sistema - A música vai parar caso um conteúdo seja inicializado",
     "Toggle the fade to black animation on content launching": "Habilita a animação na tela ao inicializar um conteúdo",
