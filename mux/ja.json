@@ -11,6 +11,7 @@
     "Extract": "解凍する",
     "Individual": "個別に指定",
     "Info": "情報",
+    "Install": "Install",
     "Launch": "起動する",
     "Load": "設定を読み込む",
     "Loading…": "読み込み中…",
@@ -97,6 +98,7 @@
     "Wi-Fi Network": "Wi-Fi ネットワーク"
   },
   "muxcustom": {
+    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
     "Alternative Theme": "バリエーション",
     "Background Animation": "背景アニメーション",
     "Background Music": "背景音楽",
@@ -127,8 +129,10 @@
     "Middle Right": "中段 右側",
     "Navigation Sound": "操作音",
     "RetroArch Configurations": "RetroArch 設定集",
+    "Screen": "Screen",
     "Theme": "テーマ",
     "Theme Picker": "テーマ選択",
+    "Theme Resolution": "Theme Resolution",
     "Toggle the background animation of the current selected theme": "選択中のテーマの背景アニメーションを再生します",
     "Toggle the background music of the frontend - This will stop if content is launched": "背景音楽を再生します - コンテンツを起動すると再生停止します",
     "Toggle the fade to black animation on content launching": "コンテンツ起動時に黒い画像にフェードするアニメーションを再生します",
