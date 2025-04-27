@@ -11,6 +11,7 @@
     "Extract": "解包",
     "Individual": "仅该文件",
     "Info": "信息",
+    "Install": "Install",
     "Launch": "启动",
     "Load": "加载",
     "Loading…": "正在加载……",
@@ -97,6 +98,7 @@
     "Wi-Fi Network": "Wi-Fi网络"
   },
   "muxcustom": {
+    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
     "Alternative Theme": "自选主题",
     "Background Animation": "背景动画",
     "Background Music": "背景音乐",
@@ -127,8 +129,10 @@
     "Middle Right": "正右",
     "Navigation Sound": "前端音效",
     "RetroArch Configurations": "RetroArch配置",
+    "Screen": "Screen",
     "Theme": "主题",
     "Theme Picker": "主题选择",
+    "Theme Resolution": "Theme Resolution",
     "Toggle the background animation of the current selected theme": "设置背景动画开关",
     "Toggle the background music of the frontend - This will stop if content is launched": "设置前端背景音乐开关（游玩内容时音乐关闭）",
     "Toggle the fade to black animation on content launching": "设置淡出到黑屏效果开关",
