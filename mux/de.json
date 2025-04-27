@@ -11,6 +11,7 @@
     "Extract": "Entpacken",
     "Individual": "Nur dieses",
     "Info": "Infos",
+    "Install": "Install",
     "Launch": "Starten",
     "Load": "Laden",
     "Loading…": "Lädt…",
@@ -97,6 +98,7 @@
     "Wi-Fi Network": "Wlannetzwerk"
   },
   "muxcustom": {
+    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
     "Alternative Theme": "Alternativer Skin",
     "Background Animation": "Hintergrundanimation",
     "Background Music": "Hintergrundsmusik",
@@ -127,8 +129,10 @@
     "Middle Right": "Mittig rechts",
     "Navigation Sound": "Tastenton",
     "RetroArch Configurations": "RetroArch-Einstellungen",
+    "Screen": "Screen",
     "Theme": "Skin",
     "Theme Picker": "Skinauswahl",
+    "Theme Resolution": "Theme Resolution",
     "Toggle the background animation of the current selected theme": "Hintergrundanimation des aktuell ausgewählten Skins ein- oder ausschalten",
     "Toggle the background music of the frontend - This will stop if content is launched": "Hintergrundmusik des Frontends ein- oder ausschalten. Sie wird gestoppt, wenn eine Datei gestartet wird",
     "Toggle the fade to black animation on content launching": "Schwarze Ausblendeanimation beim Starten von Dateien ein- oder auschalten",
