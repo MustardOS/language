@@ -11,6 +11,7 @@
     "Extract": "Giải nén",
     "Individual": "Nội dung",
     "Info": "Thông tin",
+    "Install": "Install",
     "Launch": "Khởi chạy",
     "Load": "Tải",
     "Loading…": "Đang tải…",
@@ -97,6 +98,7 @@
     "Wi-Fi Network": "Mạng Wi-Fi"
   },
   "muxcustom": {
+    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
     "Alternative Theme": "Theme Thay thế",
     "Background Animation": "Hoạt ảnh Nền",
     "Background Music": "Nhạc nền",
@@ -127,8 +129,10 @@
     "Middle Right": "Giữa Phải",
     "Navigation Sound": "Âm thanh khi định hướng",
     "RetroArch Configurations": "Các cài đặt cho RetroArch",
+    "Screen": "Screen",
     "Theme": "Theme",
     "Theme Picker": "Chọn Theme",
+    "Theme Resolution": "Theme Resolution",
     "Toggle the background animation of the current selected theme": "Bật tắt hoạt ảnh nền của theme đang chọn",
     "Toggle the background music of the frontend - This will stop if content is launched": "Bật/tắt nhạc nền của giao diện - Phần này sẽ ngừng lại nếu nội dung được khởi chạy",
     "Toggle the fade to black animation on content launching": "Bật/tắt hoạt ảnh làm mờ thành nền đen khi khởi động nội dung",
