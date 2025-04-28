@@ -11,6 +11,7 @@
     "Extract": "Entpacken",
     "Individual": "Nur dieses",
     "Info": "Infos",
+    "Install": "Install",
     "Launch": "Starten",
     "Load": "Laden",
     "Loading…": "Lädt…",
@@ -97,6 +98,7 @@
     "Wi-Fi Network": "Wlannetzwerk"
   },
   "muxcustom": {
+    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
     "Alternative Theme": "Alternativer Skin",
     "Background Animation": "Hintergrundanimation",
     "Background Music": "Hintergrundsmusik",
@@ -127,8 +129,10 @@
     "Middle Right": "Mittig rechts",
     "Navigation Sound": "Tastenton",
     "RetroArch Configurations": "RetroArch-Einstellungen",
+    "Screen": "Screen",
     "Theme": "Skin",
     "Theme Picker": "Skinauswahl",
+    "Theme Resolution": "Theme Resolution",
     "Toggle the background animation of the current selected theme": "Hintergrundanimation des aktuell ausgewählten Skins ein- oder ausschalten",
     "Toggle the background music of the frontend - This will stop if content is launched": "Hintergrundmusik des Frontends ein- oder ausschalten. Sie wird gestoppt, wenn eine Datei gestartet wird",
     "Toggle the fade to black animation on content launching": "Schwarze Ausblendeanimation beim Starten von Dateien ein- oder auschalten",
@@ -144,7 +148,6 @@
     "No Governors Found…": "Keine CPU-Regler gefunden…"
   },
   "muxhdmi": {
-    "Allows for testing different theme resolutions": "Ermöglicht das Testen verschiedener Skinauflösungen",
     "Audio Output": "Soundausgabe",
     "Colour Depth": "Farbtiefe",
     "Colour Range": "Farbpalette",
@@ -157,14 +160,12 @@
     "Over": "Über",
     "Resolution": "Auflösung",
     "Scan Scaling": "Scanskalierung",
-    "Screen": "Bildschirm",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Auflösung für die HDMI-Ausgabe wählen, z. B. 720p oder 1080p",
     "Set the color depth, such as 8-bit or 10-bit": "Farbtiefe einstellen, z. B. 8-Bit oder 10-Bit",
     "Set the color range of RGB colour space": "Farbbereich des RGB-Farbraums einstellen",
     "Set the color space, such as RGB or YUV": "Farbraum einstellen, z. B. RGB oder YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Zwischen Gerätelautsprecher und externem Monitor-Audio über HDMI-Anschluss umschalten",
     "Switch between overscan or underscan to fit the display screen": "Zwischen Overscan und Underscan zur Anpassung an den Bildschirm umschalten",
-    "Theme Resolution": "Skinauflösung",
     "Under": "Unter"
   },
   "muxhistory": {
