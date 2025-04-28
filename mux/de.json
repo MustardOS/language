@@ -11,7 +11,7 @@
     "Extract": "Entpacken",
     "Individual": "Nur dieses",
     "Info": "Infos",
-    "Install": "Install",
+    "Install": "Installieren",
     "Launch": "Starten",
     "Load": "Laden",
     "Loading…": "Lädt…",
@@ -32,7 +32,7 @@
     "Switch to Information": "Information aufrufen",
     "Switch to Preview Image": "Bildvorschau aufrufen",
     "Sync to SD1": "Synchronisation mit SD1",
-    "This is disabled in kiosk mode!": "Im Kioskmodus deaktiviert!",
+    "This is disabled in kiosk mode!": "Ist im Kioskmodus deaktiviert!",
     "Unknown": "Unbekannt",
     "Use": "Benutzen",
     "User Defined": "Benutzerdefiniert"
@@ -41,19 +41,19 @@
     "APPLICATIONS": "PROGRAMME",
     "Archive Manager": "Archivinstaller",
     "Loading Application": "Lade Programm",
-    "No Applications Found": "Keine Programme vorhanden",
+    "No Applications Found": "Derzeit sind keine Programme vorhanden",
     "Task Toolkit": "Systemverwaltung"
   },
   "muxarchive": {
     "ARCHIVE MANAGER": "ARCHIV MANAGER",
-    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Archivdateien können hier gefunden und installiert werden - gespeicherte Spielstände, Updates und Skins",
-    "INSTALLED": "INSTALLIERT",
+    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Archivdateien können hier gefunden und installiert werden - gespeicherte Spielstände, Updates, Skins sowie auch Biosdateien",
+    "INSTALLED": "ERFOLGREICH INSTALLIERT",
     "No Archives Found": "Keine Archive vorhanden"
   },
   "muxassign": {
     "ASSIGN": "ZUWEISEN",
     "Assigned to directory": "Wird aktuell genutzt",
-    "Assigned to file": "Einer Datei zugewiesen",
+    "Assigned to file": "Ist einer Datei zugewiesen",
     "No Cores Found…": "Keine Kerne gefunden…",
     "This is where you can assign a core or external emulator to content": "Hier kannst du einen Kern zuweisen oder einen Standalone-Emulator einstellen"
   },
@@ -65,24 +65,24 @@
   },
   "muxcollect": {
     "COLLECTIONS": "BIBLIOTHEK",
-    "Collection folder is not empty": "Bibliothek ist nicht leer",
-    "Error loading content file": "Fehler beim Laden der Datei",
-    "Error removing from Collections": "Fehler beim Entfernen aus der Bibliothek",
-    "Nothing Saved Yet…": "Bisher wurde nichts gespeichert…"
+    "Collection folder is not empty": "In der Bibliothek ist bereits etwas enthalten",
+    "Error loading content file": "Es ist ein Fehler beim Laden der Datei aufgetreten",
+    "Error removing from Collections": "Es gab einen Fehler beim Entfernen aus der Bibliothek",
+    "Nothing Saved Yet…": "Bisher wurde noch nichts hinzugefügt…"
   },
   "muxconfig": {
     "CONFIGURATION": "EINSTELLUNGEN",
     "Connectivity": "Verbindungen",
     "Customisation": "Anpassen",
-    "Customise your muOS setup with user created packages": "muOS-Setup mit benutzerdefinierten Skripte anpassen",
+    "Customise your muOS setup with user created packages": "muOS-Setup mit benutzerdefinierten Paketen anpassen",
     "Device specific and muOS frontend settings can be found here": "Gerätespezifische und muOS-Frontend-Einstellungen",
-    "Find out what storage device core settings and configurations are mounted": "Finden Sie heraus, welche Speichergerätekerneinstellungen und -konfigurationen eingebunden sind",
+    "Find out what storage device core settings and configurations are mounted": "Hier können Sie verschiedene Speicherorte festlegen",
     "General Settings": "Allgemeine Einstellungen",
     "Interface Options": "Interfaceoptionen",
     "Language": "Spracheinstellung",
-    "Power Settings": "Energieeinstellungen",
+    "Power Settings": "Energieverwaltung",
     "Select your preferred language": "Bevorzugte Sprache einstellen",
-    "Settings to change the power features of the device": "Einstellungen zum Ändern der Energieeinstellungen des Geräts",
+    "Settings to change the power features of the device": "Einstellungen zum ändern der Energieverwaltung des Geräts",
     "Settings to change the visual aspects of the frontend": "Einstellungen zur Änderung des Interface vom Frontend",
     "Storage": "Speichereinstellungen"
   },
@@ -98,7 +98,7 @@
     "Wi-Fi Network": "Wlannetzwerk"
   },
   "muxcustom": {
-    "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
+    "Allows for testing different theme resolutions": "Erlaubt das Testen verschiedener Skinauflösungen",
     "Alternative Theme": "Alternativer Skin",
     "Background Animation": "Hintergrundanimation",
     "Background Music": "Hintergrundsmusik",
@@ -108,7 +108,7 @@
     "Bottom Middle": "Unten mittig",
     "Bottom Right": "Unten rechts",
     "CUSTOMISATION": "ANPASSEN",
-    "Catalogue Sets": "Katalogsets",
+    "Catalogue Sets": "Boxartsammlungen",
     "Center": "Mitte",
     "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font": "Anpassen, wie die Schriftart im Frontend funktioniert: \"Theme\" stellt sicher, dass das Frontend die Schriftarten innerhalb der Themes verwendet und bei Bedarf die Sprachschriftarten. \"Sprache\"“ verwendet speziell die sprachbasierte Schriftart",
     "Change the appearance of the muOS frontend launcher": "Erscheinungsbild des muOS-Frontend-Launchers anpassen",
@@ -129,10 +129,10 @@
     "Middle Right": "Mittig rechts",
     "Navigation Sound": "Tastenton",
     "RetroArch Configurations": "RetroArch-Einstellungen",
-    "Screen": "Screen",
+    "Screen": "Bildschirm",
     "Theme": "Skin",
     "Theme Picker": "Skinauswahl",
-    "Theme Resolution": "Theme Resolution",
+    "Theme Resolution": "Skinauflösung",
     "Toggle the background animation of the current selected theme": "Hintergrundanimation des aktuell ausgewählten Skins ein- oder ausschalten",
     "Toggle the background music of the frontend - This will stop if content is launched": "Hintergrundmusik des Frontends ein- oder ausschalten. Sie wird gestoppt, wenn eine Datei gestartet wird",
     "Toggle the fade to black animation on content launching": "Schwarze Ausblendeanimation beim Starten von Dateien ein- oder auschalten",
@@ -185,7 +185,7 @@
     "Storage Space": "Speicherplatz",
     "Supporters": "Unterstützer",
     "System Details": "Systemdetails",
-    "Test the controls of the device": "Bedienelemente des Geräts testen",
+    "Test the controls of the device": "Tastenknöpfe des Geräts testen",
     "View all of the current muOS supporters": "Alle aktuellen muOS-Unterstützer anzeigen",
     "View all of the screenshots taken on the device": "Alle mit dem Gerät aufgenommenen Screenshots anzeigen",
     "View the current used space of the mounted storage devices": "Aktuell belegter Speicherplatz aller Geräte anzeigen"
@@ -197,8 +197,8 @@
     "Select your preferred language": "Bevorzugte Sprache auswählen"
   },
   "muxlaunch": {
-    "Applications": "Programme",
-    "Apps": "Apps",
+    "Applications": "Programmübersicht",
+    "Apps": "Programme",
     "Collection": "Bibliothek",
     "Config": "Einstellung",
     "Configuration": "Einstellungen",
@@ -286,12 +286,12 @@
     "PASSCODE": "PASSWORT"
   },
   "muxpicker": {
-    "CATALOGUE PICKER": "KATALOGE",
+    "CATALOGUE PICKER": "BOXARTPAKETE",
     "CONFIG PICKER": "EINSTELLUNGSAUSWAHL",
     "CUSTOM PICKER": "BENUTZERDEFINIERTE AUSWAHL",
     "Incompatible Theme Resolution Detected": "Inkompatible Skinauflösung erkannt",
     "Incompatible Theme Version Detected": "Inkompatible Skinversion erkannt",
-    "No Catalogue Packages Found": "Keine Katalogpakete gefunden",
+    "No Catalogue Packages Found": "Keine Boxartpakete gefunden",
     "No Configuration Packages Found": "Keine Konfigurationspakete gefunden",
     "No Custom Packages Found": "Keine benutzerdefinierten Pakete gefunden",
     "No Theme Packages Found": "Keine Skinpakete gefunden",
@@ -359,7 +359,7 @@
     "Search Local": "Lokal suchen",
     "Search all current active storage devices": "Auf allen Speichermedien suchen",
     "Search within the current selected folder and folders within": "Im aktuell ausgewählten Ordner und Unter-Ordnern suchen",
-    "Searching…": "Sucht…"
+    "Searching…": "Durchsucht…"
   },
   "muxshot": {
     "No Screenshots Found": "Keine Bildschirmaufnahmen gefunden",
@@ -378,7 +378,7 @@
   "muxstorage": {
     "Assigned Core/Governor System": "Eingestellter Systemkern/Regler",
     "Background Music": "Hintergrundmusik",
-    "Catalogue Packages": "Katalogpakete",
+    "Catalogue Packages": "Boxartpakete",
     "Content Collection": "Dateiensammlung",
     "Friendly Name System": "System für FriendlyName",
     "History": "Verlauf",
@@ -391,7 +391,7 @@
     "Location of User Initialisation scripts": "Speicherort der benutzerdefinierten Initialisierungsskripte",
     "Location of assigned core and governor configurations": "Speicherort der eingestellten Kerne und CPU-Regler Einstellungen",
     "Location of background music": "Speicherort der Hintergrundmusik",
-    "Location of catalogue packages": "Speicherort der Katalogpakete",
+    "Location of catalogue packages": "Speicherort der Boxartpakete",
     "Location of content collection": "Speicherort der Dateibibliothek",
     "Location of content images and text": "Speicherort der Bilder und Texte der Dateien",
     "Location of friendly name configurations": "Speicherort der FriendlyName Konfigurationen",
@@ -401,7 +401,7 @@
     "Location of system BIOS files": "Speicherort von BIOS-Dateien",
     "Location of the RetroArch emulator": "Speicherort des RetroArch Emulator",
     "Location of themes": "Speicherort von Skins",
-    "Metadata Catalogue": "Metadatenkatalog",
+    "Metadata Catalogue": "Metadaten",
     "Network Profiles": "Netzwerkprofile",
     "RetroArch Config Packages": "RetroArch-Konfigurationspakete",
     "RetroArch Configs": "RetroArch Einstellungen",
@@ -499,7 +499,7 @@
     "Thermal Zone Control": "Temperaturenkontrolle",
     "Toggle a delayed start of RetroArch until a network connection is established": "Ein- oder auschalten der Option, den Start von RetroArch zu verzögeren, bis eine Netzwerkverbindung hergestellt wurde",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Detaillierte Meldungen beim Geräte-Start und Ausschalten ein- oder ausschalten, die zur Fehlersuche verwendet werden",
-    "Toggle the audio overdrive moving it from 100% to 200%": "Soundlautstärke von 100% auf 200% umschalten",
+    "Toggle the audio overdrive moving it from 100% to 200%": "Erlaubt das es, die Audiolautstärke von 100% auf 200% umschalten",
     "Toggle the functionality of the power button to switch DPAD mode": "Funktion der Einschalttaste zum Umschalten des DPAD-Modus aktivieren",
     "Toggle the functionality of the user initialisation scripts on device startup": "Funktionalität der benutzerdefinierten Initialisierungsskripte beim Einschalten des Geräts ein- oder ausschalten",
     "Toggle the passcode lock - More information can be found on the muOS website": "Die Passcode-Sperre ein- oder ausschalten. Weitere Informationen sind auf der muOS-Website zu finden",
@@ -507,7 +507,7 @@
     "Toggle the system ability to automatically shut the device down due high temperature": "Ein- oder ausschalten der Option des Systems, das Gerät aufgrund hoher Temperaturen automatisch abzuschalten",
     "Toggle vibration for device startup, sleep, and shutdown": "Vibration bei Gerätestart, Standby und Auschalten ein- oder auschalten",
     "User Init Scripts": "Benutzer-Skripte",
-    "Verbose Messages": "Detaillierte Meldungen",
+    "Verbose Messages": "Detaillierte Meldungen anzeigen",
     "Volume On Boot": "Lautstärke bei Systemstart"
   },
   "muxtweakgen": {
@@ -590,7 +590,7 @@
     "SFTP + Filebrowser": "SFTP + Dateibrowser",
     "Secure Shell": "Secure Shell (SSH)",
     "Syncthing": "Synchronisieren",
-    "Tailscale": "Tailscale",
+    "Tailscale": "Tailscale-App",
     "Toggle Resilio - WebUI can be found on port 6060": "Resilio-Dienste ein- oder auschalten - WebUI über Port 6060 erreichbar",
     "Toggle SFTP support - WebUI can be found on port 9090": "SFTP-Zugang ein- oder ausschalten - WebUI über Port 9090 erreichbar",
     "Toggle SSH support - Access via port 22": "SSH-Zugang ein- oder ausschalten - Erreichbar über Port 22",
