@@ -28,7 +28,7 @@
     "Restore": "Wiederherstellen",
     "Save": "Speichern",
     "Select": "Auswählen",
-    "Shutting Down": "Wird heruntergefahren",
+    "Shutting Down": "System wird heruntergefahren",
     "Switch to Information": "Information aufrufen",
     "Switch to Preview Image": "Bildvorschau aufrufen",
     "Sync to SD1": "Synchronisation mit SD1",
@@ -48,7 +48,7 @@
     "ARCHIVE MANAGER": "ARCHIV MANAGER",
     "Archive items can be found and installed here - Save games and states, updates, themes etc": "Archivdateien können hier gefunden und installiert werden - gespeicherte Spielstände, Updates, Skins sowie auch Biosdateien",
     "INSTALLED": "ERFOLGREICH INSTALLIERT",
-    "No Archives Found": "Keine Archive vorhanden"
+    "No Archives Found": "Derzeit sind Keine Archive vorhanden"
   },
   "muxassign": {
     "ASSIGN": "ZUWEISEN",
@@ -58,7 +58,7 @@
     "This is where you can assign a core or external emulator to content": "Hier kannst du einen Kern zuweisen oder einen Standalone-Emulator einstellen"
   },
   "muxcharge": {
-    "Booting System - Please Wait…": "Betriebssystem wird gestartet - Bitte warten…",
+    "Booting System - Please Wait…": "Betriebssystem wird hochgefahren - Bitte warten…",
     "Capacity": "Akkuladung",
     "Press POWER button to continue booting…": "Drücke die POWER-Taste, um das System hochzufahren…",
     "Voltage": "Spannung"
@@ -75,7 +75,7 @@
     "Connectivity": "Verbindungen",
     "Customisation": "Anpassen",
     "Customise your muOS setup with user created packages": "muOS-Setup mit benutzerdefinierten Paketen anpassen",
-    "Device specific and muOS frontend settings can be found here": "Systemeigenschaften und muOS-Frontend-Einstellungen können hier verwaltet werden",
+    "Device specific and muOS frontend settings can be found here": "Systemeigenschaften und muOS-Frontend-Einstellungen können hier verwaltet und eingestellt werden",
     "Find out what storage device core settings and configurations are mounted": "Hier können Sie verschiedene Speicherorte festlegen",
     "General Settings": "Allgemeine Einstellungen",
     "Interface Options": "Interfaceoptionen",
@@ -100,9 +100,9 @@
   "muxcustom": {
     "Allows for testing different theme resolutions": "Erlaubt das Testen verschiedener Skinauflösungen",
     "Alternative Theme": "Alternativer Skin",
-    "Background Animation": "Hintergrundanimation",
+    "Background Animation": "Hintergrundsanimation",
     "Background Music": "Hintergrundsmusik",
-    "Behind": "Hinter",
+    "Behind": "Dahinter",
     "Black Fade Animation": "Schwarze Ausblendungsanimation",
     "Bottom Left": "Unten links",
     "Bottom Middle": "Unten mittig",
@@ -110,9 +110,9 @@
     "CUSTOMISATION": "ANPASSEN",
     "Catalogue Sets": "Boxartsammlungen",
     "Center": "Mitte",
-    "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font": "Anpassen, wie die Schriftart im Frontend funktioniert: \"Theme\" stellt sicher, dass das Frontend die Schriftarten innerhalb der Themes verwendet und bei Bedarf die Sprachschriftarten. \"Sprache\"“ verwendet speziell die sprachbasierte Schriftart",
+    "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font": "Stellt die Schriftartanzeige ein. Die Skinschriftart ist die, die vom Skin bereitgestellt wird. Die andere Alternative ist die Standardschriftart",
     "Change the appearance of the muOS frontend launcher": "Erscheinungsbild des muOS-Frontend-Launchers anpassen",
-    "Change the display priority of the content images": "Anzeigepriorität der Boxartbilder anpassen",
+    "Change the display priority of the content images": "Anzeigeeigenschaften der Boxartbilder anpassen",
     "Change the screen alignment of the content images": "Bildschirmausrichtung der Boxartbilder anpassen",
     "Content Box Art": "Boxart",
     "Content Box Art Alignment": "Boxartausrichtung",
@@ -124,7 +124,7 @@
     "Interface Font Type": "Interfaceschriftart",
     "Language": "Sprache",
     "Load user created RetroArch configurations": "Eigene RetroArch-Einstellungen laden",
-    "Load user created artwork catalogue for content": "Benutzerspezifische Kataloge für Dateien laden",
+    "Load user created artwork catalogue for content": "Benutzererstellte Metadaten(Screenshots, Boxarts oder Logos) für Dateien laden",
     "Middle Left": "Mittig links",
     "Middle Right": "Mittig rechts",
     "Navigation Sound": "Tastenton",
@@ -136,8 +136,8 @@
     "Toggle the background animation of the current selected theme": "Hintergrundanimation des aktuell ausgewählten Skins ein- oder ausschalten",
     "Toggle the background music of the frontend - This will stop if content is launched": "Hintergrundmusik des Frontends ein- oder ausschalten. Sie wird gestoppt, wenn eine Datei gestartet wird",
     "Toggle the fade to black animation on content launching": "Schwarze Ausblendeanimation beim Starten von Dateien ein- oder auschalten",
-    "Toggle the navigation sound of the frontend if the current theme supports it": "Tastentöne des Frontends ein oder ausschalten, wenn das Skin es unterstützt",
-    "Toggle the splash image on content launching": "Begrüßungsbild beim Starten einer Datei Ein- oder ausschalten",
+    "Toggle the navigation sound of the frontend if the current theme supports it": "Tastentöne des Frontends ein oder ausschalten, wenn der eingestellte Skin es unterstützt",
+    "Toggle the splash image on content launching": "Logobilder beim starten einer Datei ein- oder ausschalten",
     "Top Left": "Oben links",
     "Top Middle": "Oben mittig",
     "Top Right": "Oben rechts"
@@ -164,7 +164,7 @@
     "Set the color depth, such as 8-bit or 10-bit": "Farbtiefe einstellen, z. B. 8-Bit oder 10-Bit",
     "Set the color range of RGB colour space": "Farbbereich des RGB-Farbraums einstellen",
     "Set the color space, such as RGB or YUV": "Farbraum einstellen, z. B. RGB oder YUV",
-    "Switch between device speaker or external monitor audio via HDMI connection": "Zwischen Systemlautsprecher und externem Monitorlautsprecher über HDMI-Anschluss umschalten",
+    "Switch between device speaker or external monitor audio via HDMI connection": "Zwischen Systemlautsprecher und externem Lautsprecher über HDMI-Anschluss umschalten",
     "Switch between overscan or underscan to fit the display screen": "Zwischen Overscan und Underscan zur Anpassung an den Bildschirm umschalten",
     "Under": "Unter"
   },
@@ -172,8 +172,8 @@
     "Error loading content file": "Fehler beim Laden der Datei",
     "Error removing from History": "Fehler beim Entfernen aus dem Verlauf",
     "HISTORY": "VERLAUF",
-    "Nothing Played Yet…": "Noch nichts gespielt…",
-    "Removed from History": "Aus dem Verlauf entfernt"
+    "Nothing Played Yet…": "Bisher wurde noch nichts gestartet oder gespielt…",
+    "Removed from History": "Würde aus dem Verlauf entfernt"
   },
   "muxinfo": {
     "Access statistics of played content and other activity": "Auf Statistiken über abgespielte Inhalte und andere Aktivitäten zugreifen",
@@ -183,7 +183,7 @@
     "Input Tester": "Tastentest",
     "Screenshots": "Bildschirmfoto",
     "Storage Space": "Speicherplatz",
-    "Supporters": "Unterstützer",
+    "Supporters": "Unterstützer und Mitwirkende",
     "System Details": "Systemdetails",
     "Test the controls of the device": "Tastenknöpfe des System testen",
     "View all of the current muOS supporters": "Alle aktuellen muOS-Unterstützer anzeigen",
@@ -193,14 +193,14 @@
   "muxlanguage": {
     "LANGUAGE": "SPRACHE",
     "No Languages Found…": "Keine Sprachen gefunden…",
-    "Saving Language": "Sprache wird gespeichert",
+    "Saving Language": "Sprache wird übernommen",
     "Select your preferred language": "Bevorzugte Sprache auswählen"
   },
   "muxlaunch": {
     "Applications": "Programmübersicht",
     "Apps": "Programme",
     "Collection": "Bibliothek",
-    "Config": "Einstellung",
+    "Config": "Verwaltung",
     "Configuration": "Einstellungen",
     "Content": "Daten",
     "Content added to collections can be found and launched here": "Die in der Bibliothek hinzugefügten Dateien können hier gefunden und gestartet werden",
@@ -278,7 +278,7 @@
     "Name": "Name",
     "Search Content": "Datei durchsuchen",
     "Search for content within the selected directory": "Dateien innerhalb des ausgewählten Verzeichnisses durchsuchen",
-    "Set the CPU governor for the selected content or directory": "Die CPU-Geschwindigkeit für den ausgewählten Inhalt oder das Verzeichnis definieren",
+    "Set the CPU governor for the selected content or directory": "Die CPU-Geschwindigkeit für den ausgewählten Inhalt oder das Verzeichnis einstellen",
     "Set the system core or external emulator for the selected content or directory": "Den System- oder externen Emulator für den ausgewählter Datei oder das Verzeichnis zuweisen",
     "System Governor": "Systemregler"
   },
