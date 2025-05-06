@@ -74,7 +74,7 @@
   "muxconfig": {
     "CONFIGURATION": "系統設置",
     "Connectivity": "連接功能",
-    "Customisation": "自定義",
+    "Customisation": "個人化",
     "Customise your muOS setup with user created packages": "使用用戶創建的設定組合來自訂您的muOS",
     "Device specific and muOS frontend settings can be found here": "在此查看設備具體設定和muOS前端設定",
     "Find out what storage device core settings and configurations are mounted": "找出已掛載哪些儲存設備核心設定和配置",
@@ -108,7 +108,7 @@
     "Bottom Left": "左下",
     "Bottom Middle": "中下",
     "Bottom Right": "右下",
-    "CUSTOMISATION": "自定義",
+    "CUSTOMISATION": "個人化",
     "Catalogue Sets": "目錄集",
     "Center": "正中央",
     "Change how the font type works in the frontend - 'Theme' will ensure frontend will use fonts within themes with a fallback to language fonts - 'Language' will specifically use language based font": "更改字體類型在前端的工作方式 - “主題”優先使用主題內建字體，並以系統語言字體為後備 - “語言”僅使用基於語言的系統字體",
@@ -289,12 +289,12 @@
   "muxpicker": {
     "CATALOGUE PICKER": "目錄選擇器",
     "CONFIG PICKER": "設定檔選擇器",
-    "CUSTOM PICKER": "自定義選擇器",
+    "CUSTOM PICKER": "個人化選擇器",
     "Incompatible Theme Resolution Detected": "檢測到不相容的主題分辨率",
     "Incompatible Theme Version Detected": "檢測到不相容的主題版本",
     "No Catalogue Packages Found": "找不到目錄集",
     "No Configuration Packages Found": "找不到配置集",
-    "No Custom Packages Found": "找不到自定義設置集",
+    "No Custom Packages Found": "找不到個人化設置集",
     "No Theme Packages Found": "找不到主題集",
     "THEME PICKER": "主題選擇器",
     "There are no attributed credits!": "沒有作者署名!"
