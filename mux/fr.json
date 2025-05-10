@@ -200,7 +200,7 @@
   "muxlaunch": {
     "Applications": "Applications",
     "Apps": "Applis",
-    "Collection": "Collections",
+    "Collection": "Collection",
     "Config": "Config",
     "Configuration": "Configuration",
     "Content": "Contenu",
@@ -520,7 +520,7 @@
     "Change where the device will start up into": "Modifiez l'écran de démarrage de la console",
     "Change your current date, time, and timezone": "Modifiez votre date, heure et fuseau horaire actuels",
     "Colour Temperature": "Température de la couleur",
-    "Content Collection": "Collections",
+    "Content Collection": "Contenu de la collection",
     "Content Explorer": "Explorateur de contenu",
     "Date and Time": "Date et heure",
     "Device Startup": "Démarrage de la console",
