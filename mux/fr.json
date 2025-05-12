@@ -505,6 +505,7 @@
     "Toggle the functionality of the power button to switch DPAD mode": "Activez/désactivez la fonctionnalité du bouton d'alimentation pour changer le mode DPAD",
     "Toggle the functionality of the user initialisation scripts on device startup": "Activez/désactivez la fonctionnalité des scripts d'initialisation personnalisés au démarrage de la console",
     "Toggle the passcode lock - More information can be found on the muOS website": "Activez/désactivez le verrouillage par mot de passe. Plus d’informations peuvent être trouvées sur le site Web de muOS",
+	"Toggle the parental lock - More information can be found on the muOS website": "Activez/désactivez le contrôle parental. Plus d’informations peuvent être trouvées sur le site Web de muOS",
     "Toggle the power LED during content launch": "Activez/désactivez le voyant d'alimentation pendant le lancement du contenu",
     "Toggle the system ability to automatically shut the device down due high temperature": "Activez/désactivez la capacité du système à arrêter automatiquement la console en raison d'une température élevée",
     "Toggle vibration for device startup, sleep, and shutdown": "Activez/désactivez les vibrations au démarrage, à la mise en veille et à l'arrêt de la console",

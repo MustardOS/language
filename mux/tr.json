@@ -505,6 +505,7 @@
     "Toggle the functionality of the power button to switch DPAD mode": "Toggle the functionality of the power button to switch DPAD mode",
     "Toggle the functionality of the user initialisation scripts on device startup": "Toggle the functionality of the user initialisation scripts on device startup",
     "Toggle the passcode lock - More information can be found on the muOS website": "Parola kilidini aç - Daha fazla bilgi muOS web sitesinde bulunabilir",
+	"Toggle the parental lock - More information can be found on the muOS website": "Ebeveyn kontrolünü değiştirin - Daha fazla bilgi muOS web sitesinde bulunabilir",
     "Toggle the power LED during content launch": "İçerik başlatılırken güç LED'ini aç/kapat",
     "Toggle the system ability to automatically shut the device down due high temperature": "Yüksek sıcaklık nedeniyle cihazın otomatik olarak kapatılması siztem özelliğini açıp kapatın",
     "Toggle vibration for device startup, sleep, and shutdown": "Cihazın başlatılması, uykuya alınması ve kapatılması için titreşimi aç/kapat",

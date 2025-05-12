@@ -505,6 +505,7 @@
     "Toggle the functionality of the power button to switch DPAD mode": "Funktion der Einschalttaste zum Umschalten des DPAD-Modus aktivieren",
     "Toggle the functionality of the user initialisation scripts on device startup": "Funktionalität der benutzerdefinierten Initialisierungspakete beim Einschalten des System ein- oder ausschalten",
     "Toggle the passcode lock - More information can be found on the muOS website": "Die Passcode-Sperre ein- oder ausschalten. Weitere Informationen sind auf der muOS-Website zu finden",
+	"Toggle the parental lock - More information can be found on the muOS website": "Schalten Sie die Kindersicherung um - Weitere Informationen finden Sie auf der muOS-Website",
     "Toggle the power LED during content launch": "Der Power-LED während des Starts von Inhalten ein- oder ausschalten",
     "Toggle the system ability to automatically shut the device down due high temperature": "Ein- oder ausschalten der Option des Systems, das System aufgrund hoher Temperaturen automatisch abzuschalten",
     "Toggle vibration for device startup, sleep, and shutdown": "Vibration bei Systemstart, Standby und auschalten ein- oder auschalten",

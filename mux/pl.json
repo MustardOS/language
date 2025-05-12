@@ -505,6 +505,7 @@
     "Toggle the functionality of the power button to switch DPAD mode": "Włącz funkcjonalność przycisku POWER, by zmieniać tryby DPADa",
     "Toggle the functionality of the user initialisation scripts on device startup": "Włącz funkcjonalność skryptów inicjalizacji użytkownika podczas uruchamiania",
     "Toggle the passcode lock - More information can be found on the muOS website": "Włącz blokowanie hasłem - Więcej informacji znajdziesz na stronie muOS",
+	"Toggle the parental lock - More information can be found on the muOS website": "Przełącz kontrolę rodzicielską - Więcej informacji można znaleźć na stronie muOS",
     "Toggle the power LED during content launch": "Włącz diodę LED podczas uruchamiania zawartości",
     "Toggle the system ability to automatically shut the device down due high temperature": "Włącz automatyczne zamknięcie urządzenia przez zbyt wysoką temperaturę",
     "Toggle vibration for device startup, sleep, and shutdown": "Włącz wibracje dla włączenia, uśpienia i zamknięcia urządzenia",

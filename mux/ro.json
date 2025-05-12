@@ -505,6 +505,7 @@
     "Toggle the functionality of the power button to switch DPAD mode": "Activează funcționalitatea butonului de alimentare pentru a comuta modul DPAD",
     "Toggle the functionality of the user initialisation scripts on device startup": "Activează/dezactivează scripturile de inițializare a utilizatorului la pornirea dispozitivului",
     "Toggle the passcode lock - More information can be found on the muOS website": "Activează/dezactivează blocarea cu cod de acces - Mai multe informații pot fi găsite pe site-ul muOS",
+	"Toggle the parental lock - More information can be found on the muOS website": "Activează/dezactivează controlul parental - Mai multe informații pot fi găsite pe site-ul muOS",
     "Toggle the power LED during content launch": "Activează LED-ul de alimentare în timpul lansării conținutului",
     "Toggle the system ability to automatically shut the device down due high temperature": "Activează capacitatea sistemului de a opri automat dispozitivul din cauza temperaturii ridicate",
     "Toggle vibration for device startup, sleep, and shutdown": "Activează vibrația dispozitivului la pornire, repaus și oprire",

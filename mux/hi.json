@@ -505,6 +505,7 @@
     "Toggle the functionality of the power button to switch DPAD mode": "Toggle the functionality of the power button to switch DPAD mode",
     "Toggle the functionality of the user initialisation scripts on device startup": "Toggle the functionality of the user initialisation scripts on device startup",
     "Toggle the passcode lock - More information can be found on the muOS website": "Toggle the passcode lock - More information can be found on the muOS website",
+	"Toggle the parental lock - More information can be found on the muOS website": "माता-पिता के नियंत्रण को टॉगल करें - अधिक जानकारी muOS वेबसाइट पर पाई जा सकती है",
     "Toggle the power LED during content launch": "Toggle the power LED during content launch",
     "Toggle the system ability to automatically shut the device down due high temperature": "Toggle the system ability to automatically shut the device down due high temperature",
     "Toggle vibration for device startup, sleep, and shutdown": "Toggle vibration for device startup, sleep, and shutdown",

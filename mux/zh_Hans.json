@@ -505,6 +505,7 @@
     "Toggle the functionality of the power button to switch DPAD mode": "设置是否开启电源按键切换十字键功能",
     "Toggle the functionality of the user initialisation scripts on device startup": "设置在设备启动时切换用户初始化脚本的功能",
     "Toggle the passcode lock - More information can be found on the muOS website": "设置密码锁 - 详情查看muOS官网",
+	"Toggle the parental lock - More information can be found on the muOS website": "切换家长控制 - 详情查看muOS官网",
     "Toggle the power LED during content launch": "设置内容启动时的LED行为",
     "Toggle the system ability to automatically shut the device down due high temperature": "设置是否过热时自动关机",
     "Toggle vibration for device startup, sleep, and shutdown": "设置开关机及睡眠时是否振动",

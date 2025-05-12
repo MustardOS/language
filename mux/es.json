@@ -505,6 +505,7 @@
     "Toggle the functionality of the power button to switch DPAD mode": "Alternar la funcionalidad del botón de encendido para cambiar el modo DPAD",
     "Toggle the functionality of the user initialisation scripts on device startup": "Alternar la funcionalidad de los scripts de inicialización de usuario al encender el dispositivo",
     "Toggle the passcode lock - More information can be found on the muOS website": "Alternar el bloqueo con código de acceso - Puedes encontrar más información en el sitio web de muOS",
+	"Toggle the parental lock - More information can be found on the muOS website": "Alternar el control parental: puede encontrar más información en el sitio web de muOS",
     "Toggle the power LED during content launch": "Alternar el LED de encendido durante el lanzamiento de contenido",
     "Toggle the system ability to automatically shut the device down due high temperature": "Alternar la capacidad del sistema para apagar automáticamente el dispositivo debido altas temperaturas",
     "Toggle vibration for device startup, sleep, and shutdown": "Alternar la vibración para el encendido, suspensión y apagado del dispositivo",

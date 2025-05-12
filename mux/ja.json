@@ -505,6 +505,7 @@
     "Toggle the functionality of the power button to switch DPAD mode": "十字キーの挙動を電源ボタンで切り替えます",
     "Toggle the functionality of the user initialisation scripts on device startup": "デバイス起動時にユーザー初期化スクリプトを実行します",
     "Toggle the passcode lock - More information can be found on the muOS website": "パスコードロックを使用します\n詳細は muOS のホームページをご覧ください",
+	"Toggle the parental lock - More information can be found on the muOS website": "ペアレンタルコントロールの切り替え - 詳細については、muOSのWebサイトを参照してください",
     "Toggle the power LED during content launch": "コンテンツ起動中の LED 点灯を切り替えます",
     "Toggle the system ability to automatically shut the device down due high temperature": "高温時にシステムが自動で電源を切ります",
     "Toggle vibration for device startup, sleep, and shutdown": "起動・スリープ・終了時にデバイスを振動します",

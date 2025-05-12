@@ -505,6 +505,7 @@
     "Toggle the functionality of the power button to switch DPAD mode": "전원 버튼으로 DPAD 모드 기능을 토글",
     "Toggle the functionality of the user initialisation scripts on device startup": "장치 시작 시 사용자 초기화 스크립트 기능 사용 여부 토글",
     "Toggle the passcode lock - More information can be found on the muOS website": "패스코드 락을 토글\n- 자세한 내용은 muOS 웹사이트에서 확인 가능",
+	"Toggle the parental lock - More information can be found on the muOS website": "자녀 보호 전환 - 자세한 내용은 muOS 웹 사이트에서 확인할 수 있습니다.",
     "Toggle the power LED during content launch": "콘텐츠 실행 중에 전원 LED 켜짐 토글",
     "Toggle the system ability to automatically shut the device down due high temperature": "높은 발열로 인해 자동으로 장치를 종료하는 시스템 기능을 토글",
     "Toggle vibration for device startup, sleep, and shutdown": "장치 시작, 슬립 및 시스템 종료 시 진동 여부 전환",

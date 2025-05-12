@@ -505,6 +505,7 @@
     "Toggle the functionality of the power button to switch DPAD mode": "Переключение режима работы крестовины (DPAD/аналоговый стик) при нажатии на кнопку питания",
     "Toggle the functionality of the user initialisation scripts on device startup": "Настройка работы пользовательских скриптов инициализации при запуске устройства",
     "Toggle the passcode lock - More information can be found on the muOS website": "Включение блокировки паролем (дополнительную информацию можно найти на веб-сайте muOS)",
+	"Toggle the parental lock - More information can be found on the muOS website": "Переключение родительского контроля (дополнительную информацию можно найти на веб-сайте muOS)",
     "Toggle the power LED during content launch": "Настройка работы подсветки стика во время запуска игр",
     "Toggle the system ability to automatically shut the device down due high temperature": "Настройка автоматического отключения устройства при достижении слишком высокой температуры",
     "Toggle vibration for device startup, sleep, and shutdown": "Настройка вибрации при запуске, переходе в спящий режим и выключении устройства",

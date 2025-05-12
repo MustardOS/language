@@ -505,6 +505,7 @@
     "Toggle the functionality of the power button to switch DPAD mode": "Вмикання функціоналу кнопки живлення для перемикання режиму DPAD",
     "Toggle the functionality of the user initialisation scripts on device startup": "Вмикання функціоналу виконання користувацьких скриптів під час запуску пристрою",
     "Toggle the passcode lock - More information can be found on the muOS website": "Вмикати блокування паролем - Більше інформації можна знайти на сайті muOS",
+	"Toggle the parental lock - More information can be found on the muOS website": "Увімкніть батьківський контроль - Більш детальну інформацію можна знайти на веб-сайті muOS",
     "Toggle the power LED during content launch": "Вмикати LED-індикацію під час завантаження контенту",
     "Toggle the system ability to automatically shut the device down due high temperature": "Надати можливість системі автоматично вимикати пристрій при перевищенні допустимої температури",
     "Toggle vibration for device startup, sleep, and shutdown": "Вмикати вібрацію пристрою при запуску, сну та вимкненні",

@@ -505,6 +505,7 @@
     "Toggle the functionality of the power button to switch DPAD mode": "Scoránaigh feidhmiúlacht an chnaipe chumhachta chun mód DPAD a athrú",
     "Toggle the functionality of the user initialisation scripts on device startup": "Scoránaigh feidhmiúlacht scripteanna túsaithe an úsáideora ag am tosaithe an ghléis",
     "Toggle the passcode lock - More information can be found on the muOS website": "Scoránaigh an glas passcode - Is féidir tuilleadh eolais a fháil ar shuíomh gréasáin muOS",
+	"Toggle the parental lock - More information can be found on the muOS website": "Tog smachd phàrantan - Gheibhear barrachd fiosrachaidh air làrach-lìn muOS",
     "Toggle the power LED during content launch": "Scoránaigh an chumhacht LED le linn seoladh ábhair",
     "Toggle the system ability to automatically shut the device down due high temperature": "Scoránaigh cumas an chórais chun an gléas a mhúchadh go huathoibríoch mar gheall ar theocht ard",
     "Toggle vibration for device startup, sleep, and shutdown": "Scoránaigh creathadh le haghaidh tosaithe gléis, codladh, agus múchadh",

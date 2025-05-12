@@ -505,6 +505,7 @@
     "Toggle the functionality of the power button to switch DPAD mode": "Odredi funkcionalnost gumba za napajanje da promijeni DPAD način rada",
     "Toggle the functionality of the user initialisation scripts on device startup": "Odredi funkcionalnost korisničkih pokretnij skripta na pokretanje uređaja",
     "Toggle the passcode lock - More information can be found on the muOS website": "Odredi lozinku - Više informacije se nalazi na muOS web-stranici",
+	"Toggle the parental lock - More information can be found on the muOS website": "Kapcsolja be a szülői felügyeletet - További információ a muOS weboldalán található",
     "Toggle the power LED during content launch": "Odredi LED napajanja tijekom učitavanja sadržaja",
     "Toggle the system ability to automatically shut the device down due high temperature": "Odredi sposobnost uređaja da automatski se isključi zbog visokih temperatura",
     "Toggle vibration for device startup, sleep, and shutdown": "Odredi vibracije za pokretanje, mirovanje i isključivanje sistema",

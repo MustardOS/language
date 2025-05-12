@@ -505,6 +505,7 @@
     "Toggle the functionality of the power button to switch DPAD mode": "Bật/tắt chức năng phím nguồn để thay đổi chế độ DPAD",
     "Toggle the functionality of the user initialisation scripts on device startup": "Bật/tắt chức năng của script cài đặt của người dùng khi thiết bị khởi động",
     "Toggle the passcode lock - More information can be found on the muOS website": "Bật tắt khóa mật khẩu - Thông tin chi tiết có thể được tìm thấy ở trang chủ muOS",
+	"Toggle the parental lock - More information can be found on the muOS website": "Chuyển đổi kiểm soát của phụ huynh - Bạn có thể tìm thêm thông tin trên muOS webtrang web",
     "Toggle the power LED during content launch": "Bật/tắt đèn LED nguồn khi nội dung khởi chạy",
     "Toggle the system ability to automatically shut the device down due high temperature": "Bật/tắt khả năng hệ thống cho phép tự động tắt thiết bị khi hoạt động ở nhiệt độ cao",
     "Toggle vibration for device startup, sleep, and shutdown": "Bật/tắt rung khi thiết bị khởi động, ngủ và tắt nguồn",
