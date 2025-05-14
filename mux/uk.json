@@ -170,7 +170,7 @@
     "Under": "Під"
   },
   "muxhistory": {
-    "Error loading content file": "Error loading content file",
+    "Error loading content file": "Помилка завантаження файла контенту",
     "Error removing from History": "Помилка при видаленні з Історії",
     "HISTORY": "ІСТОРІЯ",
     "Nothing Played Yet…": "Ще нічого не зіграно…",
@@ -253,7 +253,7 @@
     "Enter the network identifier (SSID) here": "Введіть ідентифікатор мережі (SSID) тут",
     "Enter the network password here (optional)": "Введіть пароль мережі тут (опціонально)",
     "Gateway IP": "IP адреса Шлюзу",
-    "Hidden Network": "Hidden Network",
+    "Hidden Network": "Прихована мережа",
     "Identifier": "Ідентифікатор",
     "Network Disabled": "Мережа Вимкнена",
     "Network Type": "Тип Мережі",
