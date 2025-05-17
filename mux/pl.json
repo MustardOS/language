@@ -309,10 +309,13 @@
   "muxoption": {
     "Assign Core": "Przypisz rdzeń",
     "CONTENT OPTION": "OPCJE ZAWARTOŚCI",
+    "Core": "Core",
     "Current": "Bieżący",
     "Directory": "Folder",
+    "Governor": "Governor",
     "Individual": "Pojedynczy",
     "Name": "Nazwa",
+    "Not Assigned": "Not Assigned",
     "Search Content": "Szukaj zawartości",
     "Search for content within the selected directory": "Szukaj zawartości w wybranym folderze",
     "Set the CPU governor for the selected content or directory": "Ustaw regulator CPU dla wybranej zawartości lub folderu",

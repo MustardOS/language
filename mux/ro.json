@@ -309,10 +309,13 @@
   "muxoption": {
     "Assign Core": "Atribuie Nucleu",
     "CONTENT OPTION": "OPȚIUNE CONȚINUT",
+    "Core": "Core",
     "Current": "Curent",
     "Directory": "Director",
+    "Governor": "Governor",
     "Individual": "Individual",
     "Name": "Nume",
+    "Not Assigned": "Not Assigned",
     "Search Content": "Caută Conținut",
     "Search for content within the selected directory": "Caută conținut în directorul selectat",
     "Set the CPU governor for the selected content or directory": "Setează guvernatorul CPU pentru conținutul sau directorul selectat",

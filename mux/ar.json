@@ -309,10 +309,13 @@
   "muxoption": {
     "Assign Core": "عين النواة",
     "CONTENT OPTION": "إعدادات المحتوى",
+    "Core": "Core",
     "Current": "الحالي",
     "Directory": "المجلد",
+    "Governor": "Governor",
     "Individual": "فرد",
     "Name": "الإسم",
+    "Not Assigned": "Not Assigned",
     "Search Content": "البحث عن محتوى",
     "Search for content within the selected directory": "البحث عن محتوى داخل المجلد المحدد",
     "Set the CPU governor for the selected content or directory": "تعيين منظم وحدة المعالجة المركزية للمحتوى أو المجلد المحدد",

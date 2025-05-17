@@ -309,10 +309,13 @@
   "muxoption": {
     "Assign Core": "Gán Nhân",
     "CONTENT OPTION": "TÙY CHỌN NỘI DUNG",
+    "Core": "Core",
     "Current": "Hiện tại",
     "Directory": "Thư mục",
+    "Governor": "Governor",
     "Individual": "Riêng Lẻ",
     "Name": "Tên",
+    "Not Assigned": "Not Assigned",
     "Search Content": "Tìm kiếm Nội dung",
     "Search for content within the selected directory": "Tìm kiếm nội dung trong thư mục được chọn",
     "Set the CPU governor for the selected content or directory": "Cài đặt hiệu chỉnh CPU cho nội dung hoặc thư mục được chọn",

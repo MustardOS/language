@@ -309,10 +309,13 @@
   "muxoption": {
     "Assign Core": "Dodeli jezgro (Core)",
     "CONTENT OPTION": "OPCIJE SADRŽAJA",
+    "Core": "Core",
     "Current": "Trenutno",
     "Directory": "Folder",
+    "Governor": "Governor",
     "Individual": "Individualni",
     "Name": "Ime",
+    "Not Assigned": "Not Assigned",
     "Search Content": "Pretraži sadržaj",
     "Search for content within the selected directory": "Pretraži sadržaj u odabranom folderu",
     "Set the CPU governor for the selected content or directory": "Postavite CPU upravljača za odabrani sadržaj ili folder",

@@ -309,10 +309,13 @@
   "muxoption": {
     "Assign Core": "Kern einstellen",
     "CONTENT OPTION": "DATENOPTIONEN",
+    "Core": "Core",
     "Current": "Aktuell",
     "Directory": "Verzeichnis",
+    "Governor": "Governor",
     "Individual": "Individuell",
     "Name": "Name",
+    "Not Assigned": "Not Assigned",
     "Search Content": "Datei durchsuchen",
     "Search for content within the selected directory": "Dateien innerhalb des ausgewählten Verzeichnisses durchsuchen",
     "Set the CPU governor for the selected content or directory": "Die CPU-Geschwindigkeit für den ausgewählten Inhalt oder das Verzeichnis einstellen",

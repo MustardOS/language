@@ -309,10 +309,13 @@
   "muxoption": {
     "Assign Core": "Свързвай Ядро",
     "CONTENT OPTION": "ОПЦИЯ ЗА СЪДЪРЖАНИЕ",
+    "Core": "Core",
     "Current": "Текущ",
     "Directory": "Папка",
+    "Governor": "Governor",
     "Individual": "Индивидуално",
     "Name": "Име",
+    "Not Assigned": "Not Assigned",
     "Search Content": "Търси Съдържание",
     "Search for content within the selected directory": "Търси съдържание в избраната папка",
     "Set the CPU governor for the selected content or directory": "Избирай CPU регулатор за избраното съдържание или папка",

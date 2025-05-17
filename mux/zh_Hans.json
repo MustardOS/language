@@ -309,10 +309,13 @@
   "muxoption": {
     "Assign Core": "分配核心",
     "CONTENT OPTION": "内容选项",
+    "Core": "Core",
     "Current": "现有",
     "Directory": "本文件夹",
+    "Governor": "Governor",
     "Individual": "单文件",
     "Name": "名称",
+    "Not Assigned": "Not Assigned",
     "Search Content": "搜索内容",
     "Search for content within the selected directory": "仅在本文件夹搜索内容",
     "Set the CPU governor for the selected content or directory": "为选中的内容或文件夹设置CPU调度方案",

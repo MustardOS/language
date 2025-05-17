@@ -309,10 +309,13 @@
   "muxoption": {
     "Assign Core": "Atribuir Core",
     "CONTENT OPTION": "OPÇÃO DE CONTEÚDO",
+    "Core": "Core",
     "Current": "Current",
     "Directory": "Directory",
+    "Governor": "Governor",
     "Individual": "Individual",
     "Name": "Name",
+    "Not Assigned": "Not Assigned",
     "Search Content": "Procurar Conteúdo",
     "Search for content within the selected directory": "Procurar conteúdo dentro do directório seleccionado",
     "Set the CPU governor for the selected content or directory": "Defina o controlador do CPU para o conteúdo ou diretório seleccionado",
