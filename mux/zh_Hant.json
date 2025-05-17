@@ -309,10 +309,13 @@
   "muxoption": {
     "Assign Core": "分配核心",
     "CONTENT OPTION": "內容選項",
+    "Core": "Core",
     "Current": "目前的",
     "Directory": "資料夾",
+    "Governor": "Governor",
     "Individual": "個別",
     "Name": "名稱",
+    "Not Assigned": "Not Assigned",
     "Search Content": "搜尋內容",
     "Search for content within the selected directory": "在所選的目錄中搜尋內容",
     "Set the CPU governor for the selected content or directory": "為選定的內容或目錄設定CPU調速器",
