@@ -309,10 +309,13 @@
   "muxoption": {
     "Assign Core": "Призначити Ядро",
     "CONTENT OPTION": "ВАРІАНТ КОНТЕНТУ",
+    "Core": "Core",
     "Current": "Current",
     "Directory": "Директорія",
+    "Governor": "Governor",
     "Individual": "Individual",
     "Name": "Ім'я",
+    "Not Assigned": "Not Assigned",
     "Search Content": "Шукати Вміст",
     "Search for content within the selected directory": "Шукати вміст у вибраній директорії",
     "Set the CPU governor for the selected content or directory": "Встановити CPU менеджер для обраного контенту або директорії",
