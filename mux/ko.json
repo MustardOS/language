@@ -309,10 +309,13 @@
   "muxoption": {
     "Assign Core": "코어 할당",
     "CONTENT OPTION": "콘텐츠 옵션",
+    "Core": "Core",
     "Current": "현재",
     "Directory": "폴더",
+    "Governor": "Governor",
     "Individual": "파일",
     "Name": "파일명",
+    "Not Assigned": "Not Assigned",
     "Search Content": "콘텐츠 검색",
     "Search for content within the selected directory": "선택한 폴더 내의 콘텐츠 검색",
     "Set the CPU governor for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 CPU 거버너를 설정",
