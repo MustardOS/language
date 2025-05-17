@@ -309,10 +309,13 @@
   "muxoption": {
     "Assign Core": "コアを設定する",
     "CONTENT OPTION": "CONTENT OPTION",
+    "Core": "Core",
     "Current": "現在の設定",
     "Directory": "ディレクトリ",
+    "Governor": "Governor",
     "Individual": "コンテンツ",
     "Name": "名前",
+    "Not Assigned": "Not Assigned",
     "Search Content": "コンテンツ検索",
     "Search for content within the selected directory": "選択中のディレクトリ内でコンテンツを検索します",
     "Set the CPU governor for the selected content or directory": "選択したコンテンツまたはディレクトリに\nCPU ガナバーを設定します",
