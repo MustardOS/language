@@ -309,10 +309,13 @@
   "muxoption": {
     "Assign Core": "Tabhair Croí",
     "CONTENT OPTION": "ROGHA INNEACHAIR",
+    "Core": "Core",
     "Current": "Reatha",
     "Directory": "Comhadlann",
+    "Governor": "Governor",
     "Individual": "Aonair",
     "Name": "Ainm",
+    "Not Assigned": "Not Assigned",
     "Search Content": "Cuardaigh Ábhar",
     "Search for content within the selected directory": "Cuardaigh inneachar laistigh den eolaire roghnaithe",
     "Set the CPU governor for the selected content or directory": "Socraigh gobharnóir an LAP don inneachar nó don chomhadlann roghnaithe",
