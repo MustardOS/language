@@ -309,10 +309,13 @@
   "muxoption": {
     "Assign Core": "Dodeli Jedro",
     "CONTENT OPTION": "MOŽNOST VSEBINE",
+    "Core": "Core",
     "Current": "Current",
     "Directory": "Directory",
+    "Governor": "Governor",
     "Individual": "Individual",
     "Name": "Name",
+    "Not Assigned": "Not Assigned",
     "Search Content": "Iskanje vsebine",
     "Search for content within the selected directory": "Išči vsebino v izbrani mapi",
     "Set the CPU governor for the selected content or directory": "Nastavi upravljavca procesorja za izbrano vsebino ali imenik",
