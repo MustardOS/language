@@ -309,10 +309,13 @@
   "muxoption": {
     "Assign Core": "Assigner un émulateur",
     "CONTENT OPTION": "OPTION DU CONTENU",
+    "Core": "Core",
     "Current": "Actuel",
     "Directory": "Dossier",
+    "Governor": "Governor",
     "Individual": "Individuel",
     "Name": "Nom",
+    "Not Assigned": "Not Assigned",
     "Search Content": "Rechercher du contenu",
     "Search for content within the selected directory": "Rechercher du contenu dans le répertoire sélectionné",
     "Set the CPU governor for the selected content or directory": "Définissez le gouverneur du processeur pour le contenu ou le répertoire sélectionné",
