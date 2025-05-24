@@ -308,6 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "عين النواة",
+    "Assign Governor": "Assign Governor",
+    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "إعدادات المحتوى",
     "Core": "Core",
     "Current": "الحالي",
@@ -315,11 +317,14 @@
     "Governor": "Governor",
     "Individual": "فرد",
     "Name": "الإسم",
+    "None": "None",
     "Not Assigned": "Not Assigned",
     "Search Content": "البحث عن محتوى",
     "Search for content within the selected directory": "البحث عن محتوى داخل المجلد المحدد",
     "Set the CPU governor for the selected content or directory": "تعيين منظم وحدة المعالجة المركزية للمحتوى أو المجلد المحدد",
-    "Set the system core or external emulator for the selected content or directory": "تعيين نواة النظام أو المحاكي الخارجي للمحتوى أو المجلد المحدد"
+    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the system core or external emulator for the selected content or directory": "تعيين نواة النظام أو المحاكي الخارجي للمحتوى أو المجلد المحدد",
+    "Tag": "Tag"
   },
   "muxpass": {
     "PASSCODE": "رمز المرور"
@@ -480,6 +485,11 @@
     "The current, and total, memory usage of the device": "الاستخدام الحالي والإجمالي للذاكرة للجهاز",
     "The detected CPU type of the device": "نوع وحدة المعالجة المركزية المكتشفة للجهاز",
     "muOS Version": "إصدار muOS"
+  },
+  "muxtag": {
+    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
+    "No Tags Found…": "No Tags Found…",
+    "TAG": "TAG"
   },
   "muxtask": {
     "No Tasks Found": "لم يتم العثور على مهام",
