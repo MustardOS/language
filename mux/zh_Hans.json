@@ -308,6 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "分配核心",
+    "Assign Governor": "Assign Governor",
+    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "内容选项",
     "Core": "Core",
     "Current": "现有",
@@ -315,11 +317,14 @@
     "Governor": "Governor",
     "Individual": "单文件",
     "Name": "名称",
+    "None": "None",
     "Not Assigned": "Not Assigned",
     "Search Content": "搜索内容",
     "Search for content within the selected directory": "仅在本文件夹搜索内容",
     "Set the CPU governor for the selected content or directory": "为选中的内容或文件夹设置CPU调度方案",
-    "Set the system core or external emulator for the selected content or directory": "为选中的内容或文件夹分配RetroArch核心或独立模拟器"
+    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the system core or external emulator for the selected content or directory": "为选中的内容或文件夹分配RetroArch核心或独立模拟器",
+    "Tag": "Tag"
   },
   "muxpass": {
     "PASSCODE": "密码"
@@ -480,6 +485,11 @@
     "The current, and total, memory usage of the device": "当前的内存用量及总量",
     "The detected CPU type of the device": "探测到的CPU类型",
     "muOS Version": "muOS版本"
+  },
+  "muxtag": {
+    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
+    "No Tags Found…": "No Tags Found…",
+    "TAG": "TAG"
   },
   "muxtask": {
     "No Tasks Found": "找不到任务",
