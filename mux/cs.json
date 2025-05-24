@@ -308,8 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "Přiřadit Core",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
+    "Assign Governor": "Přiřadit Regulátor",
+    "Assign Tag": "Přiřadit značku",
     "CONTENT OPTION": "MOŽNOST OBSAHU",
     "Core": "Jádro",
     "Current": "Současný",
@@ -317,14 +317,14 @@
     "Governor": "Regulátor",
     "Individual": "Individuální",
     "Name": "Jméno",
-    "None": "None",
+    "None": "Žádný",
     "Not Assigned": "Nepřiřazeno",
     "Search Content": "Hledat obsah",
     "Search for content within the selected directory": "Vyhledejte obsah ve vybraném adresáři",
     "Set the CPU governor for the selected content or directory": "Nastavte regulátor CPU pro vybraný obsah nebo adresář",
-    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the specific tag of the content selected to change the glyph": "Chcete-li změnit glyf, nastavte konkrétní značku obsahu vybraného",
     "Set the system core or external emulator for the selected content or directory": "Nastavte jádro systému nebo externí emulátor pro vybraný obsah nebo adresář",
-    "Tag": "Tag"
+    "Tag": "Značka"
   },
   "muxpass": {
     "PASSCODE": "HESLO"
@@ -487,9 +487,9 @@
     "muOS Version": "Verze muOS"
   },
   "muxtag": {
-    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
-    "No Tags Found…": "No Tags Found…",
-    "TAG": "TAG"
+    "Change the tag of your current selected content to make it stand out": "Změňte značku aktuálně vybraného obsahu, aby vynikl",
+    "No Tags Found…": "Nebyly nalezeny žádné značky…",
+    "TAG": "ZNAČKA"
   },
   "muxtask": {
     "No Tasks Found": "Nebyly nalezeny žádné úkoly",
