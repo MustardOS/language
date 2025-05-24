@@ -308,6 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "코어 할당",
+    "Assign Governor": "Assign Governor",
+    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "콘텐츠 옵션",
     "Core": "코어",
     "Current": "현재",
@@ -315,11 +317,14 @@
     "Governor": "거버너",
     "Individual": "파일",
     "Name": "파일명",
+    "None": "None",
     "Not Assigned": "할당되지 않음",
     "Search Content": "콘텐츠 검색",
     "Search for content within the selected directory": "선택한 폴더 내의 콘텐츠 검색",
     "Set the CPU governor for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 CPU 거버너를 설정",
-    "Set the system core or external emulator for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 시스템 코어 또는 외부 에뮬레이터 설정"
+    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the system core or external emulator for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 시스템 코어 또는 외부 에뮬레이터 설정",
+    "Tag": "Tag"
   },
   "muxpass": {
     "PASSCODE": "패스코드"
@@ -480,6 +485,11 @@
     "The current, and total, memory usage of the device": "장치의 현재 및 총 메모리 사용량",
     "The detected CPU type of the device": "장치의 감지된 CPU 유형",
     "muOS Version": "muOS 버전"
+  },
+  "muxtag": {
+    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
+    "No Tags Found…": "No Tags Found…",
+    "TAG": "TAG"
   },
   "muxtask": {
     "No Tasks Found": "태스크가 없음",
