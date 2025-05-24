@@ -308,6 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "Atribuir Core",
+    "Assign Governor": "Assign Governor",
+    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "OPÇÃO DE CONTEÚDO",
     "Core": "Core",
     "Current": "Current",
@@ -315,11 +317,14 @@
     "Governor": "Governor",
     "Individual": "Individual",
     "Name": "Name",
+    "None": "None",
     "Not Assigned": "Not Assigned",
     "Search Content": "Procurar Conteúdo",
     "Search for content within the selected directory": "Procurar conteúdo dentro do directório seleccionado",
     "Set the CPU governor for the selected content or directory": "Defina o controlador do CPU para o conteúdo ou diretório seleccionado",
-    "Set the system core or external emulator for the selected content or directory": "Defina o núcleo do sistema ou emulador externo para o conteúdo ou diretório seleccionado"
+    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the system core or external emulator for the selected content or directory": "Defina o núcleo do sistema ou emulador externo para o conteúdo ou diretório seleccionado",
+    "Tag": "Tag"
   },
   "muxpass": {
     "PASSCODE": "CÓDIGO DE ACESSO"
@@ -480,6 +485,11 @@
     "The current, and total, memory usage of the device": "A utilização atual e total de memória do dispositivo.",
     "The detected CPU type of the device": "O tipo de CPU detetado do dispositivo.",
     "muOS Version": "Versão do muOS"
+  },
+  "muxtag": {
+    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
+    "No Tags Found…": "No Tags Found…",
+    "TAG": "TAG"
   },
   "muxtask": {
     "No Tasks Found": "Nenhuma tarefa encontrada",
