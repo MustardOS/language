@@ -308,6 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "Призначити Ядро",
+    "Assign Governor": "Assign Governor",
+    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "ВАРІАНТ КОНТЕНТУ",
     "Core": "Core",
     "Current": "Current",
@@ -315,11 +317,14 @@
     "Governor": "Governor",
     "Individual": "Individual",
     "Name": "Ім'я",
+    "None": "None",
     "Not Assigned": "Not Assigned",
     "Search Content": "Шукати Вміст",
     "Search for content within the selected directory": "Шукати вміст у вибраній директорії",
     "Set the CPU governor for the selected content or directory": "Встановити CPU менеджер для обраного контенту або директорії",
-    "Set the system core or external emulator for the selected content or directory": "Встановити системне ядро або зовнішній емулятор для обраного контенту або директорії"
+    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the system core or external emulator for the selected content or directory": "Встановити системне ядро або зовнішній емулятор для обраного контенту або директорії",
+    "Tag": "Tag"
   },
   "muxpass": {
     "PASSCODE": "ПАРОЛЬ"
@@ -480,6 +485,11 @@
     "The current, and total, memory usage of the device": "Поточне та повне споживання пам'яті пристрою",
     "The detected CPU type of the device": "Визначений тип CPU пристрою",
     "muOS Version": "Версія muOS"
+  },
+  "muxtag": {
+    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
+    "No Tags Found…": "No Tags Found…",
+    "TAG": "TAG"
   },
   "muxtask": {
     "No Tasks Found": "Задач Не Знайдено",
