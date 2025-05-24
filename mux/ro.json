@@ -308,6 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "Atribuie Nucleu",
+    "Assign Governor": "Assign Governor",
+    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "OPȚIUNE CONȚINUT",
     "Core": "Core",
     "Current": "Curent",
@@ -315,11 +317,14 @@
     "Governor": "Governor",
     "Individual": "Individual",
     "Name": "Nume",
+    "None": "None",
     "Not Assigned": "Not Assigned",
     "Search Content": "Caută Conținut",
     "Search for content within the selected directory": "Caută conținut în directorul selectat",
     "Set the CPU governor for the selected content or directory": "Setează guvernatorul CPU pentru conținutul sau directorul selectat",
-    "Set the system core or external emulator for the selected content or directory": "Setează nucleul sistemului sau un emulator extern pentru conținutul sau directorul selectat"
+    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the system core or external emulator for the selected content or directory": "Setează nucleul sistemului sau un emulator extern pentru conținutul sau directorul selectat",
+    "Tag": "Tag"
   },
   "muxpass": {
     "PASSCODE": "COD DE ACCES"
@@ -480,6 +485,11 @@
     "The current, and total, memory usage of the device": "Utilizarea curentă și totală a memoriei dispozitivului",
     "The detected CPU type of the device": "Tipul de CPU detectat al dispozitivului",
     "muOS Version": "Versiune muOS"
+  },
+  "muxtag": {
+    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
+    "No Tags Found…": "No Tags Found…",
+    "TAG": "TAG"
   },
   "muxtask": {
     "No Tasks Found": "Nicio sarcină găsită",
