@@ -308,6 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "Tabhair Croí",
+    "Assign Governor": "Assign Governor",
+    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "ROGHA INNEACHAIR",
     "Core": "Croí",
     "Current": "Reatha",
@@ -315,11 +317,14 @@
     "Governor": "Gobharnóir",
     "Individual": "Aonair",
     "Name": "Ainm",
+    "None": "None",
     "Not Assigned": "Gan Sannadh",
     "Search Content": "Cuardaigh Ábhar",
     "Search for content within the selected directory": "Cuardaigh inneachar laistigh den eolaire roghnaithe",
     "Set the CPU governor for the selected content or directory": "Socraigh gobharnóir an LAP don inneachar nó don chomhadlann roghnaithe",
-    "Set the system core or external emulator for the selected content or directory": "Socraigh croí an chórais nó aithriseoir seachtrach don inneachar nó don chomhadlann roghnaithe"
+    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the system core or external emulator for the selected content or directory": "Socraigh croí an chórais nó aithriseoir seachtrach don inneachar nó don chomhadlann roghnaithe",
+    "Tag": "Tag"
   },
   "muxpass": {
     "PASSCODE": "PASCHÓD"
@@ -480,6 +485,11 @@
     "The current, and total, memory usage of the device": "Úsáid chuimhne reatha, agus iomlán, an ghléis",
     "The detected CPU type of the device": "An cineál LAP aimsithe den fheiste",
     "muOS Version": "leagan muOS"
+  },
+  "muxtag": {
+    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
+    "No Tags Found…": "No Tags Found…",
+    "TAG": "TAG"
   },
   "muxtask": {
     "No Tasks Found": "Níor aimsíodh tascanna ar bith",
