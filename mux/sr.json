@@ -308,6 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "Dodeli jezgro (Core)",
+    "Assign Governor": "Assign Governor",
+    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "OPCIJE SADRŽAJA",
     "Core": "Core",
     "Current": "Trenutno",
@@ -315,11 +317,14 @@
     "Governor": "Governor",
     "Individual": "Individualni",
     "Name": "Ime",
+    "None": "None",
     "Not Assigned": "Not Assigned",
     "Search Content": "Pretraži sadržaj",
     "Search for content within the selected directory": "Pretraži sadržaj u odabranom folderu",
     "Set the CPU governor for the selected content or directory": "Postavite CPU upravljača za odabrani sadržaj ili folder",
-    "Set the system core or external emulator for the selected content or directory": "Podesite sistemsku jezgru (core) ili eksterni emulator za izabrani sadržaj ili folder"
+    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the system core or external emulator for the selected content or directory": "Podesite sistemsku jezgru (core) ili eksterni emulator za izabrani sadržaj ili folder",
+    "Tag": "Tag"
   },
   "muxpass": {
     "PASSCODE": "LOZINKA"
@@ -480,6 +485,11 @@
     "The current, and total, memory usage of the device": "Trenutno i ukupno korišćenje memorije uređaja",
     "The detected CPU type of the device": "Detektovani tip procesora (CPU) uređaja",
     "muOS Version": "Verzija muOS-a"
+  },
+  "muxtag": {
+    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
+    "No Tags Found…": "No Tags Found…",
+    "TAG": "TAG"
   },
   "muxtask": {
     "No Tasks Found": "Nijedan zadatak nije pronađen",
