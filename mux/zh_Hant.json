@@ -56,7 +56,7 @@
     "No Archives Found": "找不到封裝檔"
   },
   "muxassign": {
-    "ASSIGN": "分配",
+    "ASSIGN": "指派",
     "Assigned to directory": "套用此目錄",
     "Assigned to file": "套用此檔案",
     "No Cores Found…": "找不到核心…",
@@ -307,9 +307,9 @@
     "WI-FI NETWORK": "WI-FI網路"
   },
   "muxoption": {
-    "Assign Core": "分配核心",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
+    "Assign Core": "指派核心",
+    "Assign Governor": "指派調速器",
+    "Assign Tag": "指派標籤",
     "CONTENT OPTION": "內容選項",
     "Core": "核心",
     "Current": "目前的",
@@ -317,14 +317,14 @@
     "Governor": "調速器",
     "Individual": "個別",
     "Name": "名稱",
-    "None": "None",
-    "Not Assigned": "未分配",
+    "None": "無",
+    "Not Assigned": "未指派",
     "Search Content": "搜尋內容",
     "Search for content within the selected directory": "在所選的目錄中搜尋內容",
     "Set the CPU governor for the selected content or directory": "為選定的內容或目錄設定CPU調速器",
-    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the specific tag of the content selected to change the glyph": "為所選內容設定個別標籤以變更標記",
     "Set the system core or external emulator for the selected content or directory": "為所選內容或目錄設定系統核心或外部模擬器",
-    "Tag": "Tag"
+    "Tag": "標籤"
   },
   "muxpass": {
     "PASSCODE": "密碼"
@@ -422,7 +422,7 @@
     "View the current used space of the mounted storage devices": "查看已掛載儲存設備的當前使用空間"
   },
   "muxstorage": {
-    "Assigned Core/Governor System": "分配 核心/調速器 系統",
+    "Assigned Core/Governor System": "指派 核心/調速器 系統",
     "Background Music": "背景音樂",
     "Catalogue Packages": "目錄集",
     "Content Collection": "內容收藏夾",
@@ -435,7 +435,7 @@
     "Location of RetroArch configurations": "RetroArch配置文件路徑",
     "Location of Syncthing configurations": "Syncthing配置文件路徑",
     "Location of User Initialisation scripts": "使用者初始化腳本路徑",
-    "Location of assigned core and governor configurations": "分配核心和調速器的配置文件路徑",
+    "Location of assigned core and governor configurations": "指派核心和調速器的配置文件路徑",
     "Location of background music": "背景音樂檔案路徑",
     "Location of catalogue packages": "目錄集的位置",
     "Location of content collection": "內容收藏夾的位置",
@@ -487,9 +487,9 @@
     "muOS Version": "muOS版本"
   },
   "muxtag": {
-    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
-    "No Tags Found…": "No Tags Found…",
-    "TAG": "TAG"
+    "Change the tag of your current selected content to make it stand out": "更改目前選定內容的標籤，使其更加凸顯",
+    "No Tags Found…": "未找到標籤…",
+    "TAG": "標籤"
   },
   "muxtask": {
     "No Tasks Found": "找不到任務",
