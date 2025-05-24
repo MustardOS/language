@@ -319,8 +319,7 @@
     "Search Content": "Поиск игр",
     "Search for content within the selected directory": "Поиск игр в выбранной папке",
     "Set the CPU governor for the selected content or directory": "Настройка регулятора ЦП для выбранной игры или папки",
-    "Set the system core or external emulator for the selected content or directory": "Выбор ядра или внешнего эмулятора для указанной игры или папки",
-    "System Governor": "Системный регулятор"
+    "Set the system core or external emulator for the selected content or directory": "Выбор ядра или внешнего эмулятора для указанной игры или папки"
   },
   "muxpass": {
     "PASSCODE": "ПАРОЛЬ"

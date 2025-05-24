@@ -319,8 +319,7 @@
     "Search Content": "Search Content",
     "Search for content within the selected directory": "Search for content within the selected directory",
     "Set the CPU governor for the selected content or directory": "Seçili içerik veya dizin için CPU yöneticisini ayarla",
-    "Set the system core or external emulator for the selected content or directory": "Seçili içerik veya dizin için sistem çekirdeğini veya harici emülatörü ayarla",
-    "System Governor": "Sistem yöneticisi"
+    "Set the system core or external emulator for the selected content or directory": "Seçili içerik veya dizin için sistem çekirdeğini veya harici emülatörü ayarla"
   },
   "muxpass": {
     "PASSCODE": "ŞİFRE"

@@ -319,8 +319,7 @@
     "Search Content": "Inhoud doorzoeken",
     "Search for content within the selected directory": "Inhoud in de geselecteerde map doorzoeken",
     "Set the CPU governor for the selected content or directory": "Set the CPU governor for the selected content or directory",
-    "Set the system core or external emulator for the selected content or directory": "Set the system core or external emulator for the selected content or directory",
-    "System Governor": "System Governor"
+    "Set the system core or external emulator for the selected content or directory": "Set the system core or external emulator for the selected content or directory"
   },
   "muxpass": {
     "PASSCODE": "PINCODE"

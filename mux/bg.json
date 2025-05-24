@@ -319,8 +319,7 @@
     "Search Content": "Търси Съдържание",
     "Search for content within the selected directory": "Търси съдържание в избраната папка",
     "Set the CPU governor for the selected content or directory": "Избирай CPU регулатор за избраното съдържание или папка",
-    "Set the system core or external emulator for the selected content or directory": "Избирай системно ядро или външен емулатор за избраното съдържание или папка",
-    "System Governor": "Системен Регулатор"
+    "Set the system core or external emulator for the selected content or directory": "Избирай системно ядро или външен емулатор за избраното съдържание или папка"
   },
   "muxpass": {
     "PASSCODE": "КОД ЗА ДОСТЪП"

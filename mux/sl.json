@@ -319,8 +319,7 @@
     "Search Content": "Iskanje vsebine",
     "Search for content within the selected directory": "Išči vsebino v izbrani mapi",
     "Set the CPU governor for the selected content or directory": "Nastavi upravljavca procesorja za izbrano vsebino ali imenik",
-    "Set the system core or external emulator for the selected content or directory": "Nastavi jedro sistema ali zunanji emulator za izbrano vsebino ali imenik",
-    "System Governor": "Upravljavec sistema"
+    "Set the system core or external emulator for the selected content or directory": "Nastavi jedro sistema ali zunanji emulator za izbrano vsebino ali imenik"
   },
   "muxpass": {
     "PASSCODE": "GESLO"

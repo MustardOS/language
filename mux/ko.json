@@ -319,8 +319,7 @@
     "Search Content": "콘텐츠 검색",
     "Search for content within the selected directory": "선택한 폴더 내의 콘텐츠 검색",
     "Set the CPU governor for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 CPU 거버너를 설정",
-    "Set the system core or external emulator for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 시스템 코어 또는 외부 에뮬레이터 설정",
-    "System Governor": "시스템 거버너"
+    "Set the system core or external emulator for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 시스템 코어 또는 외부 에뮬레이터 설정"
   },
   "muxpass": {
     "PASSCODE": "패스코드"

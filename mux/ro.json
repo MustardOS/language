@@ -319,8 +319,7 @@
     "Search Content": "Caută Conținut",
     "Search for content within the selected directory": "Caută conținut în directorul selectat",
     "Set the CPU governor for the selected content or directory": "Setează guvernatorul CPU pentru conținutul sau directorul selectat",
-    "Set the system core or external emulator for the selected content or directory": "Setează nucleul sistemului sau un emulator extern pentru conținutul sau directorul selectat",
-    "System Governor": "Guvernator Sistem"
+    "Set the system core or external emulator for the selected content or directory": "Setează nucleul sistemului sau un emulator extern pentru conținutul sau directorul selectat"
   },
   "muxpass": {
     "PASSCODE": "COD DE ACCES"

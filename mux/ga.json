@@ -319,8 +319,7 @@
     "Search Content": "Cuardaigh Ábhar",
     "Search for content within the selected directory": "Cuardaigh inneachar laistigh den eolaire roghnaithe",
     "Set the CPU governor for the selected content or directory": "Socraigh gobharnóir an LAP don inneachar nó don chomhadlann roghnaithe",
-    "Set the system core or external emulator for the selected content or directory": "Socraigh croí an chórais nó aithriseoir seachtrach don inneachar nó don chomhadlann roghnaithe",
-    "System Governor": "Gobharnóir an Chórais"
+    "Set the system core or external emulator for the selected content or directory": "Socraigh croí an chórais nó aithriseoir seachtrach don inneachar nó don chomhadlann roghnaithe"
   },
   "muxpass": {
     "PASSCODE": "PASCHÓD"

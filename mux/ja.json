@@ -319,8 +319,7 @@
     "Search Content": "コンテンツ検索",
     "Search for content within the selected directory": "選択中のディレクトリ内でコンテンツを検索します",
     "Set the CPU governor for the selected content or directory": "選択したコンテンツまたはディレクトリに\nCPU ガナバーを設定します",
-    "Set the system core or external emulator for the selected content or directory": "選択したコンテンツまたはディレクトリに\nコアまたは個別のエミュレーターを設定します。",
-    "System Governor": "システムガバナー"
+    "Set the system core or external emulator for the selected content or directory": "選択したコンテンツまたはディレクトリに\nコアまたは個別のエミュレーターを設定します。"
   },
   "muxpass": {
     "PASSCODE": "パスコード"

@@ -319,8 +319,7 @@
     "Search Content": "搜索内容",
     "Search for content within the selected directory": "仅在本文件夹搜索内容",
     "Set the CPU governor for the selected content or directory": "为选中的内容或文件夹设置CPU调度方案",
-    "Set the system core or external emulator for the selected content or directory": "为选中的内容或文件夹分配RetroArch核心或独立模拟器",
-    "System Governor": "系统调度方案"
+    "Set the system core or external emulator for the selected content or directory": "为选中的内容或文件夹分配RetroArch核心或独立模拟器"
   },
   "muxpass": {
     "PASSCODE": "密码"

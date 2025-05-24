@@ -319,8 +319,7 @@
     "Search Content": "Pretraži sadržaj",
     "Search for content within the selected directory": "Pretraži sadržaj u odabranom folderu",
     "Set the CPU governor for the selected content or directory": "Postavite CPU upravljača za odabrani sadržaj ili folder",
-    "Set the system core or external emulator for the selected content or directory": "Podesite sistemsku jezgru (core) ili eksterni emulator za izabrani sadržaj ili folder",
-    "System Governor": "Kontrolor sistema"
+    "Set the system core or external emulator for the selected content or directory": "Podesite sistemsku jezgru (core) ili eksterni emulator za izabrani sadržaj ili folder"
   },
   "muxpass": {
     "PASSCODE": "LOZINKA"

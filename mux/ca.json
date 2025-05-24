@@ -319,8 +319,7 @@
     "Search Content": "Search Content",
     "Search for content within the selected directory": "Search for content within the selected directory",
     "Set the CPU governor for the selected content or directory": "Assigna el governador de CPU pel contingut o directori seleccionat.",
-    "Set the system core or external emulator for the selected content or directory": "Assigna el nucli de sistema o emulador extern pel contingut o directori seleccionat.",
-    "System Governor": "Governador de sistema"
+    "Set the system core or external emulator for the selected content or directory": "Assigna el nucli de sistema o emulador extern pel contingut o directori seleccionat."
   },
   "muxpass": {
     "PASSCODE": "CODI D'ACCÉS"
