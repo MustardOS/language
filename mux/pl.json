@@ -308,6 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "Przypisz rdzeń",
+    "Assign Governor": "Assign Governor",
+    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "OPCJE ZAWARTOŚCI",
     "Core": "Rdzeń",
     "Current": "Bieżący",
@@ -315,11 +317,14 @@
     "Governor": "Regulator",
     "Individual": "Pojedynczy",
     "Name": "Nazwa",
+    "None": "None",
     "Not Assigned": "Nie przypisano",
     "Search Content": "Szukaj zawartości",
     "Search for content within the selected directory": "Szukaj zawartości w wybranym folderze",
     "Set the CPU governor for the selected content or directory": "Ustaw regulator CPU dla wybranej zawartości lub folderu",
-    "Set the system core or external emulator for the selected content or directory": "Ustaw rdzeń lub zewnętrzny emulator dla wybranej zawartości lub folderu"
+    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the system core or external emulator for the selected content or directory": "Ustaw rdzeń lub zewnętrzny emulator dla wybranej zawartości lub folderu",
+    "Tag": "Tag"
   },
   "muxpass": {
     "PASSCODE": "HASŁO"
@@ -480,6 +485,11 @@
     "The current, and total, memory usage of the device": "Bieżące i całkowite zużycie pamięci urządzenia",
     "The detected CPU type of the device": "Wykryty typ CPU urządzenia",
     "muOS Version": "Wersja muOS"
+  },
+  "muxtag": {
+    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
+    "No Tags Found…": "No Tags Found…",
+    "TAG": "TAG"
   },
   "muxtask": {
     "No Tasks Found": "Nie znaleziono zadań",
