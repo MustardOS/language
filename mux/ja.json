@@ -308,6 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "コアを設定する",
+    "Assign Governor": "Assign Governor",
+    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "CONTENT OPTION",
     "Core": "Core",
     "Current": "現在の設定",
@@ -315,11 +317,14 @@
     "Governor": "Governor",
     "Individual": "コンテンツ",
     "Name": "名前",
+    "None": "None",
     "Not Assigned": "Not Assigned",
     "Search Content": "コンテンツ検索",
     "Search for content within the selected directory": "選択中のディレクトリ内でコンテンツを検索します",
     "Set the CPU governor for the selected content or directory": "選択したコンテンツまたはディレクトリに\nCPU ガナバーを設定します",
-    "Set the system core or external emulator for the selected content or directory": "選択したコンテンツまたはディレクトリに\nコアまたは個別のエミュレーターを設定します。"
+    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the system core or external emulator for the selected content or directory": "選択したコンテンツまたはディレクトリに\nコアまたは個別のエミュレーターを設定します。",
+    "Tag": "Tag"
   },
   "muxpass": {
     "PASSCODE": "パスコード"
@@ -480,6 +485,11 @@
     "The current, and total, memory usage of the device": "現在の使用量と合計のメモリを表示します",
     "The detected CPU type of the device": "デバイスの CPU 種別を表示します",
     "muOS Version": "muOS バージョン"
+  },
+  "muxtag": {
+    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
+    "No Tags Found…": "No Tags Found…",
+    "TAG": "TAG"
   },
   "muxtask": {
     "No Tasks Found": "タスクが見つかりませんでした",
