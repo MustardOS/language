@@ -308,6 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "Gán Nhân",
+    "Assign Governor": "Assign Governor",
+    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "TÙY CHỌN NỘI DUNG",
     "Core": "Core",
     "Current": "Hiện tại",
@@ -315,12 +317,14 @@
     "Governor": "Governor",
     "Individual": "Riêng Lẻ",
     "Name": "Tên",
+    "None": "None",
     "Not Assigned": "Not Assigned",
     "Search Content": "Tìm kiếm Nội dung",
     "Search for content within the selected directory": "Tìm kiếm nội dung trong thư mục được chọn",
     "Set the CPU governor for the selected content or directory": "Cài đặt hiệu chỉnh CPU cho nội dung hoặc thư mục được chọn",
+    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
     "Set the system core or external emulator for the selected content or directory": "Cài đặt nhân hệ thống hoặc giả lập bên ngoài cho nội dung hoặc thư mục được chọn",
-    "System Governor": "Hiệu chỉnh Hệ thống"
+    "Tag": "Tag"
   },
   "muxpass": {
     "PASSCODE": "MẬT MÃ"
@@ -481,6 +485,11 @@
     "The current, and total, memory usage of the device": "Mức sử dụng RAM hiện tại/tổng của thiết bị",
     "The detected CPU type of the device": "Nhận diện CPU của thiết bị",
     "muOS Version": "Phiên bản muOS"
+  },
+  "muxtag": {
+    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
+    "No Tags Found…": "No Tags Found…",
+    "TAG": "TAG"
   },
   "muxtask": {
     "No Tasks Found": "Không tìm thấy công cụ",

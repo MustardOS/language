@@ -308,19 +308,23 @@
   },
   "muxoption": {
     "Assign Core": "Přiřadit Core",
+    "Assign Governor": "Assign Governor",
+    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "MOŽNOST OBSAHU",
-    "Core": "Core",
+    "Core": "Jádro",
     "Current": "Současný",
     "Directory": "Adresář",
-    "Governor": "Governor",
+    "Governor": "Regulátor",
     "Individual": "Individuální",
     "Name": "Jméno",
-    "Not Assigned": "Not Assigned",
+    "None": "None",
+    "Not Assigned": "Nepřiřazeno",
     "Search Content": "Hledat obsah",
     "Search for content within the selected directory": "Vyhledejte obsah ve vybraném adresáři",
     "Set the CPU governor for the selected content or directory": "Nastavte regulátor CPU pro vybraný obsah nebo adresář",
+    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
     "Set the system core or external emulator for the selected content or directory": "Nastavte jádro systému nebo externí emulátor pro vybraný obsah nebo adresář",
-    "System Governor": "Regulátor systému"
+    "Tag": "Tag"
   },
   "muxpass": {
     "PASSCODE": "HESLO"
@@ -481,6 +485,11 @@
     "The current, and total, memory usage of the device": "Aktuální a celkové využití paměti zařízením",
     "The detected CPU type of the device": "Zjištěný typ CPU zařízení",
     "muOS Version": "Verze muOS"
+  },
+  "muxtag": {
+    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
+    "No Tags Found…": "No Tags Found…",
+    "TAG": "TAG"
   },
   "muxtask": {
     "No Tasks Found": "Nebyly nalezeny žádné úkoly",

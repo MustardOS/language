@@ -308,19 +308,23 @@
   },
   "muxoption": {
     "Assign Core": "分配核心",
+    "Assign Governor": "Assign Governor",
+    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "內容選項",
-    "Core": "Core",
+    "Core": "核心",
     "Current": "目前的",
     "Directory": "資料夾",
-    "Governor": "Governor",
+    "Governor": "調速器",
     "Individual": "個別",
     "Name": "名稱",
-    "Not Assigned": "Not Assigned",
+    "None": "None",
+    "Not Assigned": "未分配",
     "Search Content": "搜尋內容",
     "Search for content within the selected directory": "在所選的目錄中搜尋內容",
     "Set the CPU governor for the selected content or directory": "為選定的內容或目錄設定CPU調速器",
+    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
     "Set the system core or external emulator for the selected content or directory": "為所選內容或目錄設定系統核心或外部模擬器",
-    "System Governor": "系統調速器"
+    "Tag": "Tag"
   },
   "muxpass": {
     "PASSCODE": "密碼"
@@ -481,6 +485,11 @@
     "The current, and total, memory usage of the device": "設備當前的記憶體使用量和總記憶體大小",
     "The detected CPU type of the device": "檢測到的設備的CPU類型",
     "muOS Version": "muOS版本"
+  },
+  "muxtag": {
+    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
+    "No Tags Found…": "No Tags Found…",
+    "TAG": "TAG"
   },
   "muxtask": {
     "No Tasks Found": "找不到任務",
