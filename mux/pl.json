@@ -308,8 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "Przypisz rdzeń",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
+    "Assign Governor": "Przypisz regulator",
+    "Assign Tag": "Przypisz etykietę",
     "CONTENT OPTION": "OPCJE ZAWARTOŚCI",
     "Core": "Rdzeń",
     "Current": "Bieżący",
@@ -317,12 +317,12 @@
     "Governor": "Regulator",
     "Individual": "Pojedynczy",
     "Name": "Nazwa",
-    "None": "None",
+    "None": "Nic",
     "Not Assigned": "Nie przypisano",
     "Search Content": "Szukaj zawartości",
     "Search for content within the selected directory": "Szukaj zawartości w wybranym folderze",
     "Set the CPU governor for the selected content or directory": "Ustaw regulator CPU dla wybranej zawartości lub folderu",
-    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the specific tag of the content selected to change the glyph": "Wybierz konkretną etykietę zawartości, by zmienić ikonę",
     "Set the system core or external emulator for the selected content or directory": "Ustaw rdzeń lub zewnętrzny emulator dla wybranej zawartości lub folderu",
     "Tag": "Tag"
   },
@@ -487,9 +487,9 @@
     "muOS Version": "Wersja muOS"
   },
   "muxtag": {
-    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
-    "No Tags Found…": "No Tags Found…",
-    "TAG": "TAG"
+    "Change the tag of your current selected content to make it stand out": "Zmień etykietę bieżącej zawartości, by ją wyróżnić",
+    "No Tags Found…": "Nie znaleziono etykiet…",
+    "TAG": "ETYKIETA"
   },
   "muxtask": {
     "No Tasks Found": "Nie znaleziono zadań",
