@@ -308,8 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "Assigner un émulateur",
-    "Assign Governor": "Assigner le gouverneur",
-    "Assign Tag": "Assigner l'étiquette",
+    "Assign Governor": "Assigner un gouverneur",
+    "Assign Tag": "Assigner une étiquette",
     "CONTENT OPTION": "OPTION DU CONTENU",
     "Core": "Émulateur",
     "Current": "Actuel",
