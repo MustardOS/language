@@ -308,8 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "Asignar núcleo",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
+    "Assign Governor": "Asignar Gobernador",
+    "Assign Tag": "Asignar etiqueta",
     "CONTENT OPTION": "CONTENT OPTION",
     "Core": "Núcleo",
     "Current": "Actual",
@@ -317,14 +317,14 @@
     "Governor": "Gobernador",
     "Individual": "Individual",
     "Name": "Nombre",
-    "None": "None",
+    "None": "Ninguno",
     "Not Assigned": "No asignado",
     "Search Content": "Buscar contenido",
     "Search for content within the selected directory": "Buscar contenido dentro del directorio seleccionado",
     "Set the CPU governor for the selected content or directory": "Configura el gobernador de la CPU para el contenido o directorio seleccionado",
-    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the specific tag of the content selected to change the glyph": "Establezca la etiqueta específica del contenido seleccionado para cambiar el glifo",
     "Set the system core or external emulator for the selected content or directory": "Configura el núcleo del sistema o el emulador externo para el contenido o directorio seleccionado",
-    "Tag": "Tag"
+    "Tag": "Etiqueta"
   },
   "muxpass": {
     "PASSCODE": "CÓDIGO DE ACCESO"
@@ -487,9 +487,9 @@
     "muOS Version": "Versión de muOS"
   },
   "muxtag": {
-    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
-    "No Tags Found…": "No Tags Found…",
-    "TAG": "TAG"
+    "Change the tag of your current selected content to make it stand out": "Cambia la etiqueta de tu contenido seleccionado actual para que destaque",
+    "No Tags Found…": "No se han encontrado etiquetas…",
+    "TAG": "ETIQUETA"
   },
   "muxtask": {
     "No Tasks Found": "No se encontraron tareas",
