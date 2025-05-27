@@ -308,8 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "Привязать ядро",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
+    "Assign Governor": "Привязать регулятор",
+    "Assign Tag": "Привязать ярлык",
     "CONTENT OPTION": "НАСТРОЙКА ИГР",
     "Core": "Ядро",
     "Current": "Текущий",
@@ -317,14 +317,14 @@
     "Governor": "Регулятор",
     "Individual": "Приложение",
     "Name": "Имя",
-    "None": "None",
+    "None": "Пусто",
     "Not Assigned": "Не привязано",
     "Search Content": "Поиск игр",
     "Search for content within the selected directory": "Поиск игр в выбранной папке",
     "Set the CPU governor for the selected content or directory": "Настройка регулятора ЦП для выбранной игры или папки",
-    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the specific tag of the content selected to change the glyph": "Выбор определенного ярлыка для выбранной иконки игры",
     "Set the system core or external emulator for the selected content or directory": "Выбор ядра или внешнего эмулятора для указанной игры или папки",
-    "Tag": "Tag"
+    "Tag": "Ярлык"
   },
   "muxpass": {
     "PASSCODE": "ПАРОЛЬ"
@@ -487,9 +487,9 @@
     "muOS Version": "Версия muOS"
   },
   "muxtag": {
-    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
-    "No Tags Found…": "No Tags Found…",
-    "TAG": "TAG"
+    "Change the tag of your current selected content to make it stand out": "Изменение ярлыка выбранной игры для выделения",
+    "No Tags Found…": "Ярлыки не найдены…",
+    "TAG": "ЯРЛЫК"
   },
   "muxtask": {
     "No Tasks Found": "Задачи не найдены",
