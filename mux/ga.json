@@ -308,8 +308,8 @@
   },
   "muxoption": {
     "Assign Core": "Tabhair Croí",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
+    "Assign Governor": "Sannadh Gobharnóir",
+    "Assign Tag": "Sannadh Clib",
     "CONTENT OPTION": "ROGHA INNEACHAIR",
     "Core": "Croí",
     "Current": "Reatha",
@@ -317,14 +317,14 @@
     "Governor": "Gobharnóir",
     "Individual": "Aonair",
     "Name": "Ainm",
-    "None": "None",
+    "None": "Dada",
     "Not Assigned": "Gan Sannadh",
     "Search Content": "Cuardaigh Ábhar",
     "Search for content within the selected directory": "Cuardaigh inneachar laistigh den eolaire roghnaithe",
     "Set the CPU governor for the selected content or directory": "Socraigh gobharnóir an LAP don inneachar nó don chomhadlann roghnaithe",
-    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the specific tag of the content selected to change the glyph": "Socraigh an chlib shonrach den ábhar roghnaithe chun an glifín a athrú",
     "Set the system core or external emulator for the selected content or directory": "Socraigh croí an chórais nó aithriseoir seachtrach don inneachar nó don chomhadlann roghnaithe",
-    "Tag": "Tag"
+    "Tag": "Clib"
   },
   "muxpass": {
     "PASSCODE": "PASCHÓD"
@@ -487,9 +487,9 @@
     "muOS Version": "leagan muOS"
   },
   "muxtag": {
-    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
-    "No Tags Found…": "No Tags Found…",
-    "TAG": "TAG"
+    "Change the tag of your current selected content to make it stand out": "Athraigh clib an ábhair atá roghnaithe agat faoi láthair chun é a chur chun cinn",
+    "No Tags Found…": "Níor aimsíodh aon chlibeanna…",
+    "TAG": "CLIB"
   },
   "muxtask": {
     "No Tasks Found": "Níor aimsíodh tascanna ar bith",
