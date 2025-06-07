@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Access network information",
-    "Access statistics of played content and other activity": "Truy cập vào phần thống kê các nội dung đã được chơi và các hoạt động khác",
     "Access version information and system details": "Truy cập vào thông tin phiên bản và thông tin hệ thống",
-    "Activity Tracker": "Theo dõi hoạt động",
     "INFORMATION": "THÔNG TIN",
     "Input Tester": "Kiểm tra phím",
     "Network Details": "Network Details",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "MẠNG WI-FI"
   },
   "muxoption": {
-    "Assign Core": "Gán Nhân",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "TÙY CHỌN NỘI DUNG",
     "Core": "Core",
     "Current": "Hiện tại",
@@ -319,7 +314,6 @@
     "Name": "Tên",
     "None": "None",
     "Not Assigned": "Not Assigned",
-    "Search Content": "Tìm kiếm Nội dung",
     "Search for content within the selected directory": "Tìm kiếm nội dung trong thư mục được chọn",
     "Set the CPU governor for the selected content or directory": "Cài đặt hiệu chỉnh CPU cho nội dung hoặc thư mục được chọn",
     "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "Không có ảnh chụp màn hình nào được tìm thấy",
     "SCREENSHOTS": "ẢNH CHỤP MÀN HÌNH",
     "View your current screenshots": "Xem các ảnh chụp màn hình hiện tại"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "Không có Snapshots nào đã được lưu lại được tìm thấy",
-    "Restore your saved game progress from a previous snapshot": "Khôi phục lại tiến trình game đã lưu trong snapshot trước đó",
-    "SAVE SNAPSHOT": "SNAPSHOT ĐÃ LƯU"
   },
   "muxspace": {
     "STORAGE SPACE": "DUNG LƯỢNG BỘ NHỚ",

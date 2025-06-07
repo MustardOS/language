@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Access network information",
-    "Access statistics of played content and other activity": "Bekijk statistieken van afgespeelde inhoud en andere activiteiten",
     "Access version information and system details": "Toegang tot versie-informatie en systeemdetails",
-    "Activity Tracker": "Activiteitstracker",
     "INFORMATION": "INFORMATIE",
     "Input Tester": "Test besturing",
     "Network Details": "Network Details",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "NETWERK"
   },
   "muxoption": {
-    "Assign Core": "Core Toewijzen",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "CONTENT OPTION",
     "Core": "Core",
     "Current": "Huidig",
@@ -319,7 +314,6 @@
     "Name": "Naam",
     "None": "None",
     "Not Assigned": "Not Assigned",
-    "Search Content": "Inhoud doorzoeken",
     "Search for content within the selected directory": "Inhoud in de geselecteerde map doorzoeken",
     "Set the CPU governor for the selected content or directory": "Set the CPU governor for the selected content or directory",
     "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "No Screenshots Found",
     "SCREENSHOTS": "SCREENSHOTS",
     "View your current screenshots": "View your current screenshots"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "Geen opslag snapshots gevonden",
-    "Restore your saved game progress from a previous snapshot": "Herstel uw spelvoortgang vanuit een eerdere snapshot",
-    "SAVE SNAPSHOT": "SNAPSHOT OPSLAAN"
   },
   "muxspace": {
     "STORAGE SPACE": "STORAGE SPACE",

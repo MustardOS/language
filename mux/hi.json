@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Access network information",
-    "Access statistics of played content and other activity": "Access statistics of played content and other activity",
     "Access version information and system details": "Access version information and system details",
-    "Activity Tracker": "गतिविधि ट्रैकर",
     "INFORMATION": "जानकारी",
     "Input Tester": "इनपुट परीक्षक",
     "Network Details": "Network Details",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "वाई-फ़ाई नेटवर्क"
   },
   "muxoption": {
-    "Assign Core": "Assign Core",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "CONTENT OPTION",
     "Core": "Core",
     "Current": "Current",
@@ -319,7 +314,6 @@
     "Name": "Name",
     "None": "None",
     "Not Assigned": "Not Assigned",
-    "Search Content": "Search Content",
     "Search for content within the selected directory": "Search for content within the selected directory",
     "Set the CPU governor for the selected content or directory": "Set the CPU governor for the selected content or directory",
     "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "No Screenshots Found",
     "SCREENSHOTS": "SCREENSHOTS",
     "View your current screenshots": "View your current screenshots"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "No Save Snapshots Found",
-    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
-    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
   },
   "muxspace": {
     "STORAGE SPACE": "STORAGE SPACE",

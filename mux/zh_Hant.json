@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "取得網路訊息",
-    "Access statistics of played content and other activity": "已遊玩內容和其他活動的統計數據",
     "Access version information and system details": "版本資訊和系統詳細信息",
-    "Activity Tracker": "活動追蹤器",
     "INFORMATION": "資訊",
     "Input Tester": "按鍵測試",
     "Network Details": "網路詳情",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "WI-FI網路"
   },
   "muxoption": {
-    "Assign Core": "指派核心",
-    "Assign Governor": "指派調速器",
-    "Assign Tag": "指派標籤",
     "CONTENT OPTION": "內容選項",
     "Core": "核心",
     "Current": "目前的",
@@ -319,7 +314,6 @@
     "Name": "名稱",
     "None": "無",
     "Not Assigned": "未指派",
-    "Search Content": "搜尋內容",
     "Search for content within the selected directory": "在所選的目錄中搜尋內容",
     "Set the CPU governor for the selected content or directory": "為選定的內容或目錄設定CPU調速器",
     "Set the specific tag of the content selected to change the glyph": "為所選內容設定個別標籤以變更標記",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "找不到截圖",
     "SCREENSHOTS": "螢幕截圖",
     "View your current screenshots": "查看您目前的螢幕截圖"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "找不到存檔快照",
-    "Restore your saved game progress from a previous snapshot": "從先前的快照恢復您的遊戲進度",
-    "SAVE SNAPSHOT": "存檔快照"
   },
   "muxspace": {
     "STORAGE SPACE": "儲存空間",

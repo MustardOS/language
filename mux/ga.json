@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Faisnéis líonra rochtana",
-    "Access statistics of played content and other activity": "Rochtain a fháil ar staitisticí d'ábhar seinnte agus do ghníomhaíocht eile",
     "Access version information and system details": "Rochtain a fháil ar fhaisnéis leagain agus ar shonraí an chórais",
-    "Activity Tracker": "Lorgaire Gníomhaíochta",
     "INFORMATION": "EOLAS",
     "Input Tester": "Tástálaí Ionchurtha",
     "Network Details": "Sonraí Líonra",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "LÍONRA WI-FI"
   },
   "muxoption": {
-    "Assign Core": "Tabhair Croí",
-    "Assign Governor": "Sannadh Gobharnóir",
-    "Assign Tag": "Sannadh Clib",
     "CONTENT OPTION": "ROGHA INNEACHAIR",
     "Core": "Croí",
     "Current": "Reatha",
@@ -319,7 +314,6 @@
     "Name": "Ainm",
     "None": "Dada",
     "Not Assigned": "Gan Sannadh",
-    "Search Content": "Cuardaigh Ábhar",
     "Search for content within the selected directory": "Cuardaigh inneachar laistigh den eolaire roghnaithe",
     "Set the CPU governor for the selected content or directory": "Socraigh gobharnóir an LAP don inneachar nó don chomhadlann roghnaithe",
     "Set the specific tag of the content selected to change the glyph": "Socraigh an chlib shonrach den ábhar roghnaithe chun an glifín a athrú",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "Níor aimsíodh aon seatanna scáileáin",
     "SCREENSHOTS": "SEATANNA SCÁILEÁIN",
     "View your current screenshots": "Féach ar do seatanna scáileáin reatha"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "Níor aimsíodh aon Ghrianghraif Sábháil",
-    "Restore your saved game progress from a previous snapshot": "Athchóirigh do dhul chun cinn cluiche sábháilte ó ghrianghraf roimhe seo",
-    "SAVE SNAPSHOT": "SÁBHÁIL GAIRM"
   },
   "muxspace": {
     "STORAGE SPACE": "SPÁS STÓRÁIL",

@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Access network information",
-    "Access statistics of played content and other activity": "查看游玩内容或其他活动的统计列表",
     "Access version information and system details": "查看系统与版本信息",
-    "Activity Tracker": "游玩记录",
     "INFORMATION": "信息",
     "Input Tester": "输入测试",
     "Network Details": "Network Details",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "Wi-Fi网络"
   },
   "muxoption": {
-    "Assign Core": "分配核心",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "内容选项",
     "Core": "Core",
     "Current": "现有",
@@ -319,7 +314,6 @@
     "Name": "名称",
     "None": "None",
     "Not Assigned": "Not Assigned",
-    "Search Content": "搜索内容",
     "Search for content within the selected directory": "仅在本文件夹搜索内容",
     "Set the CPU governor for the selected content or directory": "为选中的内容或文件夹设置CPU调度方案",
     "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "未找到截图",
     "SCREENSHOTS": "截图",
     "View your current screenshots": "查看现有截图"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "未找到即时存档",
-    "Restore your saved game progress from a previous snapshot": "从上一个即时存档文件恢复游戏进度",
-    "SAVE SNAPSHOT": "即时存档"
   },
   "muxspace": {
     "STORAGE SPACE": "存储空间",

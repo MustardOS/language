@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Інформація про мережу",
-    "Access statistics of played content and other activity": "Доступ до статистики ігор та інших активностей",
     "Access version information and system details": "Доступ до інформації про версію та даних про систему",
-    "Activity Tracker": "Трекер активності",
     "INFORMATION": "ІНФОРМАЦІЯ",
     "Input Tester": "Тестування Вводу",
     "Network Details": "Деталі мережі",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "МЕРЕЖА WI-FI"
   },
   "muxoption": {
-    "Assign Core": "Призначити Ядро",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "ВАРІАНТ КОНТЕНТУ",
     "Core": "Core",
     "Current": "Current",
@@ -319,7 +314,6 @@
     "Name": "Ім'я",
     "None": "None",
     "Not Assigned": "Not Assigned",
-    "Search Content": "Шукати Вміст",
     "Search for content within the selected directory": "Шукати вміст у вибраній директорії",
     "Set the CPU governor for the selected content or directory": "Встановити CPU менеджер для обраного контенту або директорії",
     "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "Знімків екрану не знайдено",
     "SCREENSHOTS": "ЗНІМКИ ЕКРАНУ",
     "View your current screenshots": "Переглянути наявні знімки екрану"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "No Save Snapshots Found",
-    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
-    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
   },
   "muxspace": {
     "STORAGE SPACE": "СХОВИЩЕ",

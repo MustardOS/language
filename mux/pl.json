@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Zobacz informacje o sieci",
-    "Access statistics of played content and other activity": "Zobacz statystyki zawartości i innych aktywności",
     "Access version information and system details": "Zobacz informacje o wersji i szczegóły systemu",
-    "Activity Tracker": "Monitor aktywności",
     "INFORMATION": "INFORMACJE",
     "Input Tester": "Tester przycisków",
     "Network Details": "Szczegóły sieci",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "SIEĆ WI-FI"
   },
   "muxoption": {
-    "Assign Core": "Przypisz rdzeń",
-    "Assign Governor": "Przypisz regulator",
-    "Assign Tag": "Przypisz etykietę",
     "CONTENT OPTION": "OPCJE ZAWARTOŚCI",
     "Core": "Rdzeń",
     "Current": "Bieżący",
@@ -319,7 +314,6 @@
     "Name": "Nazwa",
     "None": "Nic",
     "Not Assigned": "Nie przypisano",
-    "Search Content": "Szukaj zawartości",
     "Search for content within the selected directory": "Szukaj zawartości w wybranym folderze",
     "Set the CPU governor for the selected content or directory": "Ustaw regulator CPU dla wybranej zawartości lub folderu",
     "Set the specific tag of the content selected to change the glyph": "Wybierz konkretną etykietę zawartości, by zmienić ikonę",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "Nie znaleziono zrzutów ekranu",
     "SCREENSHOTS": "ZRZUTY EKRANU",
     "View your current screenshots": "Zobacz swoje bieżące zrzuty ekranu"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "Nie znaleziono zrzutów zapisów",
-    "Restore your saved game progress from a previous snapshot": "Przywróć swój zapisany postęp w grze przy pomocy ostatniego zrzutu",
-    "SAVE SNAPSHOT": "ZAPISZ ZRZUT"
   },
   "muxspace": {
     "STORAGE SPACE": "MIEJSCE W PAMIĘCI",

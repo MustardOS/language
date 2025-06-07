@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Access network information",
-    "Access statistics of played content and other activity": "Acesse estatísticas de conteúdo jogado e outras atividades",
     "Access version information and system details": "Acesse informações sobre versão e detalhes do sistema",
-    "Activity Tracker": "Registro de Atividades",
     "INFORMATION": "INFORMAÇÕES",
     "Input Tester": "Teste de Botões",
     "Network Details": "Network Details",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "REDE WI-FI"
   },
   "muxoption": {
-    "Assign Core": "Associar sistema",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "OPÇÃO DE CONTEÚDO",
     "Core": "Core",
     "Current": "Atual",
@@ -319,7 +314,6 @@
     "Name": "Nome",
     "None": "None",
     "Not Assigned": "Not Assigned",
-    "Search Content": "Procurar Conteúdo",
     "Search for content within the selected directory": "Procurar conteúdo dentro do diretório selecionado",
     "Set the CPU governor for the selected content or directory": "Defina o governador da CPU para o conteúdo ou diretório selecionado",
     "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "Nenhuma Captura de Tela Encontrada",
     "SCREENSHOTS": "CAPTURAS DE TELA",
     "View your current screenshots": "Ver suas capturas de tela"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "Nenhum Snapshot de Save Encontrado",
-    "Restore your saved game progress from a previous snapshot": "Restaure seu progresso no jogo através de um snapshot salvo anteriormente",
-    "SAVE SNAPSHOT": "SALVAR SNAPSHOT"
   },
   "muxspace": {
     "STORAGE SPACE": "ESPAÇO DE ARMAZENAMENTO",

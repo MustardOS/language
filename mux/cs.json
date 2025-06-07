@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Přístup k informacím o síti",
-    "Access statistics of played content and other activity": "Přístup ke statistikám přehrávaného obsahu a další aktivity",
     "Access version information and system details": "Informace o verzi a podrobnostech o systému",
-    "Activity Tracker": "Sledování aktivity",
     "INFORMATION": "INFORMACE",
     "Input Tester": "Test ovládání",
     "Network Details": "Podrobnosti o síti",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "WI-FI SÍŤ"
   },
   "muxoption": {
-    "Assign Core": "Přiřadit Core",
-    "Assign Governor": "Přiřadit Regulátor",
-    "Assign Tag": "Přiřadit značku",
     "CONTENT OPTION": "MOŽNOST OBSAHU",
     "Core": "Jádro",
     "Current": "Současný",
@@ -319,7 +314,6 @@
     "Name": "Jméno",
     "None": "Žádný",
     "Not Assigned": "Nepřiřazeno",
-    "Search Content": "Hledat obsah",
     "Search for content within the selected directory": "Vyhledejte obsah ve vybraném adresáři",
     "Set the CPU governor for the selected content or directory": "Nastavte regulátor CPU pro vybraný obsah nebo adresář",
     "Set the specific tag of the content selected to change the glyph": "Chcete-li změnit glyf, nastavte konkrétní značku obsahu vybraného",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "Nebyly nalezeny žádné snímky obrazovky",
     "SCREENSHOTS": "SNÍMKY OBRAZOVKY",
     "View your current screenshots": "Prohlédněte si aktuální snímky obrazovky"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "Nebyly nalezeny žádné uložené snímky",
-    "Restore your saved game progress from a previous snapshot": "Obnovte svůj uložený postup ve hře z předchozího snímku",
-    "SAVE SNAPSHOT": "ULOŽIT SNÍMEK"
   },
   "muxspace": {
     "STORAGE SPACE": "ÚLOŽNÝ PROSTOR",

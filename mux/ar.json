@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Access network information",
-    "Access statistics of played content and other activity": "الوصول إلى إحصائيات المحتوى والأنشطة الأخرى",
     "Access version information and system details": "الوصول إلى معلومات الإصدار وتفاصيل النظام",
-    "Activity Tracker": "متتبع النشاط",
     "INFORMATION": "معلومات",
     "Input Tester": "فاحص الإدخال",
     "Network Details": "Network Details",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "شبكة WI-FI"
   },
   "muxoption": {
-    "Assign Core": "عين النواة",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "إعدادات المحتوى",
     "Core": "Core",
     "Current": "الحالي",
@@ -319,7 +314,6 @@
     "Name": "الإسم",
     "None": "None",
     "Not Assigned": "Not Assigned",
-    "Search Content": "البحث عن محتوى",
     "Search for content within the selected directory": "البحث عن محتوى داخل المجلد المحدد",
     "Set the CPU governor for the selected content or directory": "تعيين منظم وحدة المعالجة المركزية للمحتوى أو المجلد المحدد",
     "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "لم يتم العثور على لقطات شاشة",
     "SCREENSHOTS": "لقطات الشاشة",
     "View your current screenshots": "عرض لقطات الشاشة"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "لم يتم العثور على لقطات محفوظة",
-    "Restore your saved game progress from a previous snapshot": "استعادة تقدم اللعبة المحفوظ من اللقطات المحفوظة السابقة",
-    "SAVE SNAPSHOT": "اللقطات المحفوظة"
   },
   "muxspace": {
     "STORAGE SPACE": "مساحة التخزين",

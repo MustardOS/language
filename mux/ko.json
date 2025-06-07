@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "네트워크 정보에 액세스",
-    "Access statistics of played content and other activity": "플레이한 콘텐츠 및 기타 활동 통계에 액세스",
     "Access version information and system details": "버전 정보 및 시스템 세부 정보에 액세스",
-    "Activity Tracker": "액티비티 트래커",
     "INFORMATION": "정보",
     "Input Tester": "인풋 테스트기",
     "Network Details": "네트워크 상세",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "WI-FI 네트워크"
   },
   "muxoption": {
-    "Assign Core": "코어 할당",
-    "Assign Governor": "거버너 할당",
-    "Assign Tag": "태그 할당",
     "CONTENT OPTION": "콘텐츠 옵션",
     "Core": "코어",
     "Current": "현재",
@@ -319,7 +314,6 @@
     "Name": "파일명",
     "None": "없음",
     "Not Assigned": "할당되지 않음",
-    "Search Content": "콘텐츠 검색",
     "Search for content within the selected directory": "선택한 폴더 내의 콘텐츠 검색",
     "Set the CPU governor for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 CPU 거버너를 설정",
     "Set the specific tag of the content selected to change the glyph": "글리프를 변경하기 위해 선택된 콘텐츠의 특정 태그를 설정",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "스크린샷 없음",
     "SCREENSHOTS": "스크린샷",
     "View your current screenshots": "현재 스크린샷을 보여줌"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "저장 스냅샷을 찾을 수 없음",
-    "Restore your saved game progress from a previous snapshot": "이전 스냅샷으로부터 저장된 게임 진행을 복원",
-    "SAVE SNAPSHOT": "스냅샷 저장"
   },
   "muxspace": {
     "STORAGE SPACE": "저장 공간",

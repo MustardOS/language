@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Access network information",
-    "Access statistics of played content and other activity": "Aceda a estatísticas de conteúdo reproduzido e outras atividades",
     "Access version information and system details": "Aceda a informações de versão e detalhes do sistema",
-    "Activity Tracker": "Monitor de Actividade",
     "INFORMATION": "INFORMAÇÕES",
     "Input Tester": "Testar Botões",
     "Network Details": "Network Details",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "REDE WI-FI"
   },
   "muxoption": {
-    "Assign Core": "Atribuir Core",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "OPÇÃO DE CONTEÚDO",
     "Core": "Core",
     "Current": "Current",
@@ -319,7 +314,6 @@
     "Name": "Name",
     "None": "None",
     "Not Assigned": "Not Assigned",
-    "Search Content": "Procurar Conteúdo",
     "Search for content within the selected directory": "Procurar conteúdo dentro do directório seleccionado",
     "Set the CPU governor for the selected content or directory": "Defina o controlador do CPU para o conteúdo ou diretório seleccionado",
     "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "No Screenshots Found",
     "SCREENSHOTS": "SCREENSHOTS",
     "View your current screenshots": "View your current screenshots"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "No Save Snapshots Found",
-    "Restore your saved game progress from a previous snapshot": "Restore your saved game progress from a previous snapshot",
-    "SAVE SNAPSHOT": "SAVE SNAPSHOT"
   },
   "muxspace": {
     "STORAGE SPACE": "STORAGE SPACE",

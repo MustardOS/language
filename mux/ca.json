@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Accés a la informació de la xarxa",
-    "Access statistics of played content and other activity": "Accedeix a estadístiques de contingut jugat i altres activitats",
     "Access version information and system details": "Accedeix a informació sobre la versió i detalls del sistema",
-    "Activity Tracker": "Monitor d'activitat",
     "INFORMATION": "INFORMACIÓ",
     "Input Tester": "Comprovador d'entrada",
     "Network Details": "Informació de la xarxa",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "XARXA WI-FI"
   },
   "muxoption": {
-    "Assign Core": "Assignar nucli",
-    "Assign Governor": "Assignar un governador",
-    "Assign Tag": "Assignar Etiqueta",
     "CONTENT OPTION": "OPCIÓ DE CONTINGUT",
     "Core": "Nucli",
     "Current": "Actual",
@@ -319,7 +314,6 @@
     "Name": "Nom",
     "None": "Cap",
     "Not Assigned": "No assignat",
-    "Search Content": "Buscar contingut",
     "Search for content within the selected directory": "Cerca contingut dins del directori seleccionat",
     "Set the CPU governor for the selected content or directory": "Assigna el governador de CPU pel contingut o directori seleccionat",
     "Set the specific tag of the content selected to change the glyph": "Defineix l’etiqueta específica del contingut seleccionat per modificar la icona",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "No s'han trobat captures de pantalla",
     "SCREENSHOTS": "CAPTURES DE PANTALLA",
     "View your current screenshots": "Veure les teves captures de pantalla actuals"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "No s'han trobat instantànies guardades",
-    "Restore your saved game progress from a previous snapshot": "Restaura la teva partida guardada des d’una instantània anterior",
-    "SAVE SNAPSHOT": "GUARDAR INSTANTÀNIA"
   },
   "muxspace": {
     "STORAGE SPACE": "ESPAI D'EMMAGATZEMATGE",

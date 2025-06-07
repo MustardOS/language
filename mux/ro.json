@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Access network information",
-    "Access statistics of played content and other activity": "Accesează statisticile conținutului redat și alte activități",
     "Access version information and system details": "Accesează informațiile despre versiune și detaliile sistemului",
-    "Activity Tracker": "Monitorizare Activitate",
     "INFORMATION": "INFORMAȚII",
     "Input Tester": "Tester de Intrare",
     "Network Details": "Network Details",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "REȚEA WI-FI"
   },
   "muxoption": {
-    "Assign Core": "Atribuie Nucleu",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "OPȚIUNE CONȚINUT",
     "Core": "Core",
     "Current": "Curent",
@@ -319,7 +314,6 @@
     "Name": "Nume",
     "None": "None",
     "Not Assigned": "Not Assigned",
-    "Search Content": "Caută Conținut",
     "Search for content within the selected directory": "Caută conținut în directorul selectat",
     "Set the CPU governor for the selected content or directory": "Setează guvernatorul CPU pentru conținutul sau directorul selectat",
     "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "Nicio captură de ecran găsită",
     "SCREENSHOTS": "CAPTURI DE ECRAN",
     "View your current screenshots": "Vizualizează capturile de ecran curente"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "Nicio captură de salvare găsită",
-    "Restore your saved game progress from a previous snapshot": "Restabilește progresul jocului salvat dintr-o captură anterioară",
-    "SAVE SNAPSHOT": "SALVEAZĂ CAPTURA"
   },
   "muxspace": {
     "STORAGE SPACE": "SPAȚIU DE STOCARE",

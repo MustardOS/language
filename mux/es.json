@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Acceder a la información de la red",
-    "Access statistics of played content and other activity": "Accede a las estadísticas de contenido reproducido y otra actividad",
     "Access version information and system details": "Accede a la información de versión y los detalles del sistema",
-    "Activity Tracker": "Monitor de actividad",
     "INFORMATION": "INFORMACIÓN",
     "Input Tester": "Probador de entrada",
     "Network Details": "Detalles de la red",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "RED WI-FI"
   },
   "muxoption": {
-    "Assign Core": "Asignar núcleo",
-    "Assign Governor": "Asignar Gobernador",
-    "Assign Tag": "Asignar etiqueta",
     "CONTENT OPTION": "CONTENT OPTION",
     "Core": "Núcleo",
     "Current": "Actual",
@@ -319,7 +314,6 @@
     "Name": "Nombre",
     "None": "Ninguno",
     "Not Assigned": "No asignado",
-    "Search Content": "Buscar contenido",
     "Search for content within the selected directory": "Buscar contenido dentro del directorio seleccionado",
     "Set the CPU governor for the selected content or directory": "Configura el gobernador de la CPU para el contenido o directorio seleccionado",
     "Set the specific tag of the content selected to change the glyph": "Establezca la etiqueta específica del contenido seleccionado para cambiar el glifo",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "No se encontraron capturas de pantalla",
     "SCREENSHOTS": "CAPTURAS DE PANTALLA",
     "View your current screenshots": "Ver tus capturas de pantalla actuales"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "No se han encontrado instantáneas guardadas",
-    "Restore your saved game progress from a previous snapshot": "Restaura el progreso de tu partida guardada desde una instantánea anterior",
-    "SAVE SNAPSHOT": "GUARDAR INSTANTÁNEA"
   },
   "muxspace": {
     "STORAGE SPACE": "ESPACIO DE ALMACENAMIENTO",

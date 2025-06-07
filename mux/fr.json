@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Accédez aux informations du réseau",
-    "Access statistics of played content and other activity": "Accédez aux statistiques des contenus joués et d’autres activités",
     "Access version information and system details": "Accédez aux informations sur la version du logiciel et aux détails du système",
-    "Activity Tracker": "Traceur d'activité",
     "INFORMATION": "INFORMATIONS",
     "Input Tester": "Testeur de commandes",
     "Network Details": "Détails du réseau",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "RÉSEAU WI-FI"
   },
   "muxoption": {
-    "Assign Core": "Assigner un émulateur",
-    "Assign Governor": "Assigner un gouverneur",
-    "Assign Tag": "Assigner une étiquette",
     "CONTENT OPTION": "OPTION DU CONTENU",
     "Core": "Émulateur",
     "Current": "Actuel",
@@ -319,7 +314,6 @@
     "Name": "Nom",
     "None": "Aucune",
     "Not Assigned": "Non assigné",
-    "Search Content": "Rechercher du contenu",
     "Search for content within the selected directory": "Rechercher du contenu dans le répertoire sélectionné",
     "Set the CPU governor for the selected content or directory": "Définissez le gouverneur du processeur pour le contenu ou le répertoire sélectionné",
     "Set the specific tag of the content selected to change the glyph": "Définissez l'étiquette spécifique du contenu sélectionné pour modifier l'icône",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "Aucune capture d'écran trouvée",
     "SCREENSHOTS": "CAPTURES D'ÉCRAN",
     "View your current screenshots": "Affichez vos captures d'écran actuelles"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "Aucun instantané de sauvegarde trouvé",
-    "Restore your saved game progress from a previous snapshot": "Restaurez votre progression de jeu sauvegardée à partir d'un instantané précédent",
-    "SAVE SNAPSHOT": "INSTANTANÉ DE SAUVEGARDE"
   },
   "muxspace": {
     "STORAGE SPACE": "ESPACE DE STOCKAGE",

@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Pristup mrežnim informacijama",
-    "Access statistics of played content and other activity": "Pristupite statistikama igara koje ste igrali i drugim aktivnostima",
     "Access version information and system details": "Pristupite informacijama o verziji i detaljima sistema",
-    "Activity Tracker": "Tracker aktivnosti",
     "INFORMATION": "INFORMACIJE",
     "Input Tester": "Tester tastera",
     "Network Details": "Detalji o mreži",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "WI-FI MREŽA"
   },
   "muxoption": {
-    "Assign Core": "Dodeli jezgro (Core)",
-    "Assign Governor": "Dodeli upravljača (governera)",
-    "Assign Tag": "Dodeli oznaku",
     "CONTENT OPTION": "OPCIJE SADRŽAJA",
     "Core": "Jezgro",
     "Current": "Trenutno",
@@ -319,7 +314,6 @@
     "Name": "Ime",
     "None": "Ništa",
     "Not Assigned": "Nije dodeljeno",
-    "Search Content": "Pretraži sadržaj",
     "Search for content within the selected directory": "Pretraži sadržaj u odabranom folderu",
     "Set the CPU governor for the selected content or directory": "Postavite CPU upravljača za odabrani sadržaj ili folder",
     "Set the specific tag of the content selected to change the glyph": "Podesite određenu oznaku za izabrani sadržaj kako biste promenili prikazani simbol (glif)",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "Screenshots-ovi nisu pronađeni",
     "SCREENSHOTS": "SCREENSHOTS",
     "View your current screenshots": "Pregledaj trenutne screenshots-ove"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "Nisu pronađene sačuvane snimke stanja",
-    "Restore your saved game progress from a previous snapshot": "Vrati sačuvani napredak u igri iz prethodnog snimka stanja",
-    "SAVE SNAPSHOT": "SAČUVAJ SNIMAK STANJA"
   },
   "muxspace": {
     "STORAGE SPACE": "MEMORIJSKI PROSTOR",

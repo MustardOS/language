@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Access network information",
-    "Access statistics of played content and other activity": "コンテンツの利用状況などを確認します",
     "Access version information and system details": "バージョン情報やシステム詳細を表示します",
-    "Activity Tracker": "アクティビティ確認",
     "INFORMATION": "情報",
     "Input Tester": "入力テスト",
     "Network Details": "Network Details",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "WI-FI ネットワーク"
   },
   "muxoption": {
-    "Assign Core": "コアを設定する",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "CONTENT OPTION",
     "Core": "Core",
     "Current": "現在の設定",
@@ -319,7 +314,6 @@
     "Name": "名前",
     "None": "None",
     "Not Assigned": "Not Assigned",
-    "Search Content": "コンテンツ検索",
     "Search for content within the selected directory": "選択中のディレクトリ内でコンテンツを検索します",
     "Set the CPU governor for the selected content or directory": "選択したコンテンツまたはディレクトリに\nCPU ガナバーを設定します",
     "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "スクリーンショットがありません",
     "SCREENSHOTS": "スクリーンショット一覧",
     "View your current screenshots": "現在のスクリーンショット一覧を表示します"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "中断セーブが見つかりませんでした",
-    "Restore your saved game progress from a previous snapshot": "中断セーブから再開します",
-    "SAVE SNAPSHOT": "中断セーブ"
   },
   "muxspace": {
     "STORAGE SPACE": "ストレージ容量",

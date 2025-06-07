@@ -187,9 +187,7 @@
   },
   "muxinfo": {
     "Access network information": "Доступ к информации сети",
-    "Access statistics of played content and other activity": "Доступ к статистике запущенной игры",
     "Access version information and system details": "Доступ к информации о версии системы и другим сведениям",
-    "Activity Tracker": "Счетчик активности",
     "INFORMATION": "ИНФОРМАЦИЯ",
     "Input Tester": "Проверка кнопок",
     "Network Details": "Сведения сети",
@@ -307,9 +305,6 @@
     "WI-FI NETWORK": "WI-FI"
   },
   "muxoption": {
-    "Assign Core": "Привязать ядро",
-    "Assign Governor": "Привязать регулятор",
-    "Assign Tag": "Привязать ярлык",
     "CONTENT OPTION": "НАСТРОЙКА ИГР",
     "Core": "Ядро",
     "Current": "Текущий",
@@ -319,7 +314,6 @@
     "Name": "Имя",
     "None": "Пусто",
     "Not Assigned": "Не привязано",
-    "Search Content": "Поиск игр",
     "Search for content within the selected directory": "Поиск игр в выбранной папке",
     "Set the CPU governor for the selected content or directory": "Настройка регулятора ЦП для выбранной игры или папки",
     "Set the specific tag of the content selected to change the glyph": "Выбор определенного ярлыка для выбранной иконки игры",
@@ -411,11 +405,6 @@
     "No Screenshots Found": "Скриншоты не найдены",
     "SCREENSHOTS": "СКРИНШОТЫ",
     "View your current screenshots": "Cделанные скриншоты"
-  },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "Сохраненных снэпшотов не найдено",
-    "Restore your saved game progress from a previous snapshot": "Восстановление сохраненного игрового прогресса из предыдущего снэпшота",
-    "SAVE SNAPSHOT": "СОХРАНИТЬ СНЭПШОТ"
   },
   "muxspace": {
     "STORAGE SPACE": "ХРАНИЛИЩЕ",
