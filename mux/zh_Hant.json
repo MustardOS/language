@@ -56,7 +56,7 @@
     "No Archives Found": "找不到封裝檔"
   },
   "muxassign": {
-    "ASSIGN": "分配",
+    "ASSIGN": "指派",
     "Assigned to directory": "套用此目錄",
     "Assigned to file": "套用此檔案",
     "No Cores Found…": "找不到核心…",
@@ -92,9 +92,11 @@
     "Storage": "儲存裝置"
   },
   "muxconnect": {
+    "Android Debug Bridge": "Android Debug Bridge",
     "Bluetooth": "藍牙",
     "CONNECTIVITY": "連接功能",
     "Connect to a Wi-Fi network manually or via a saved profile": "手動或透過儲存的設定檔連接到 Wi-Fi 網路",
+    "Media Transfer Protocol": "Media Transfer Protocol",
     "Toggle a range of configurable services you can access via an active network": "切換您可以透過活動網路存取的一系列可設定服務",
     "Toggle between ADB and MTP USB functionality": "在 ADB 和 MTP USB 功能之間切換",
     "Toggle the visibility of the bluetooth glyph": "切換藍牙圖標的顯示",
@@ -187,9 +189,7 @@
   },
   "muxinfo": {
     "Access network information": "取得網路訊息",
-    "Access statistics of played content and other activity": "已遊玩內容和其他活動的統計數據",
     "Access version information and system details": "版本資訊和系統詳細信息",
-    "Activity Tracker": "活動追蹤器",
     "INFORMATION": "資訊",
     "Input Tester": "按鍵測試",
     "Network Details": "網路詳情",
@@ -201,6 +201,40 @@
     "View all of the current muOS supporters": "查看目前所有 muOS 贊助者",
     "View all of the screenshots taken on the device": "查看裝置上拍攝的所有螢幕截圖",
     "View the current used space of the mounted storage devices": "查看已掛載儲存設備的當前使用空間"
+  },
+  "muxkiosk": {
+    "Advanced Settings": "Advanced Settings",
+    "Applications": "Applications",
+    "Archive Manager": "Archive Manager",
+    "Collections": "Collections",
+    "Configuration": "Configuration",
+    "Content Core": "Content Core",
+    "Content Explorer": "Content Explorer",
+    "Content Governor": "Content Governor",
+    "Content Options": "Content Options",
+    "Content Search": "Content Search",
+    "Content Tag": "Content Tag",
+    "Custom Bootlogo": "Custom Bootlogo",
+    "Custom Catalogue": "Custom Catalogue",
+    "Custom RetroArch Configs": "Custom RetroArch Configs",
+    "Custom Themes": "Custom Themes",
+    "Customisation": "Customisation",
+    "Date and Time": "Date and Time",
+    "General Settings": "General Settings",
+    "HDMI Settings": "HDMI Settings",
+    "History": "History",
+    "Information": "Information",
+    "Interface Options": "Interface Options",
+    "KIOSK SETTINGS": "KIOSK SETTINGS",
+    "Kiosk Mode": "Kiosk Mode",
+    "Language": "Language",
+    "Power Settings": "Power Settings",
+    "RetroArch Kiosk": "RetroArch Kiosk",
+    "Storage": "Storage",
+    "Task Toolkit": "Task Toolkit",
+    "Timezone": "Timezone",
+    "Web Services": "Web Services",
+    "Wi-Fi Network": "Wi-Fi Network"
   },
   "muxlanguage": {
     "LANGUAGE": "語言",
@@ -307,9 +341,6 @@
     "WI-FI NETWORK": "WI-FI網路"
   },
   "muxoption": {
-    "Assign Core": "分配核心",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "內容選項",
     "Core": "核心",
     "Current": "目前的",
@@ -317,14 +348,14 @@
     "Governor": "調速器",
     "Individual": "個別",
     "Name": "名稱",
-    "None": "None",
-    "Not Assigned": "未分配",
-    "Search Content": "搜尋內容",
+    "None": "無",
+    "Not Assigned": "未指派",
+    "Search": "Search",
     "Search for content within the selected directory": "在所選的目錄中搜尋內容",
     "Set the CPU governor for the selected content or directory": "為選定的內容或目錄設定CPU調速器",
-    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the specific tag of the content selected to change the glyph": "為所選內容設定個別標籤以變更標記",
     "Set the system core or external emulator for the selected content or directory": "為所選內容或目錄設定系統核心或外部模擬器",
-    "Tag": "Tag"
+    "Tag": "標籤"
   },
   "muxpass": {
     "PASSCODE": "密碼"
@@ -412,18 +443,18 @@
     "SCREENSHOTS": "螢幕截圖",
     "View your current screenshots": "查看您目前的螢幕截圖"
   },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "找不到存檔快照",
-    "Restore your saved game progress from a previous snapshot": "從先前的快照恢復您的遊戲進度",
-    "SAVE SNAPSHOT": "存檔快照"
-  },
   "muxspace": {
+    "External Storage": "External Storage",
+    "Primary Storage": "Primary Storage",
     "STORAGE SPACE": "儲存空間",
+    "Secondary Storage": "Secondary Storage",
+    "System Storage": "System Storage",
     "View the current used space of the mounted storage devices": "查看已掛載儲存設備的當前使用空間"
   },
   "muxstorage": {
-    "Assigned Core/Governor System": "分配 核心/調速器 系統",
+    "Assigned Core/Governor System": "指派 核心/調速器 系統",
     "Background Music": "背景音樂",
+    "Bootlogo Packages": "Bootlogo Packages",
     "Catalogue Packages": "目錄集",
     "Content Collection": "內容收藏夾",
     "Friendly Name System": "友善名稱系統",
@@ -435,8 +466,9 @@
     "Location of RetroArch configurations": "RetroArch配置文件路徑",
     "Location of Syncthing configurations": "Syncthing配置文件路徑",
     "Location of User Initialisation scripts": "使用者初始化腳本路徑",
-    "Location of assigned core and governor configurations": "分配核心和調速器的配置文件路徑",
+    "Location of assigned core and governor configurations": "指派核心和調速器的配置文件路徑",
     "Location of background music": "背景音樂檔案路徑",
+    "Location of bootlogo packages": "Location of bootlogo packages",
     "Location of catalogue packages": "目錄集的位置",
     "Location of content collection": "內容收藏夾的位置",
     "Location of content images and text": "內容圖像和文字的檔案路徑",
@@ -447,7 +479,7 @@
     "Location of system BIOS files": "系統BIOS檔案路徑",
     "Location of the RetroArch emulator": "RetroArch模擬器路徑",
     "Location of themes": "主題存放路徑",
-    "Metadata Catalogue": "Metadata目錄",
+    "Metadata Catalogue": "詮釋資料目錄",
     "Network Profiles": "網路設定檔",
     "RetroArch Config Packages": "RetroArch配置集",
     "RetroArch Configs": "RetroArch配置",
@@ -487,9 +519,9 @@
     "muOS Version": "muOS版本"
   },
   "muxtag": {
-    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
-    "No Tags Found…": "No Tags Found…",
-    "TAG": "TAG"
+    "Change the tag of your current selected content to make it stand out": "更改目前選定內容的標籤，使其更加凸顯",
+    "No Tags Found…": "未找到標籤…",
+    "TAG": "標籤"
   },
   "muxtask": {
     "No Tasks Found": "找不到任務",

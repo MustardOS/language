@@ -92,9 +92,11 @@
     "Storage": "مخزن المعلومات"
   },
   "muxconnect": {
+    "Android Debug Bridge": "Android Debug Bridge",
     "Bluetooth": "بلوتوث",
     "CONNECTIVITY": "الأتصال",
     "Connect to a Wi-Fi network manually or via a saved profile": "الاتصال بشبكة Wi-Fi يدويًا أو عبر ملف تعريف محفوظ",
+    "Media Transfer Protocol": "Media Transfer Protocol",
     "Toggle a range of configurable services you can access via an active network": "تبديل مجموعة من الخدمات التي يمكنك الوصول إليها عبر الشبكة",
     "Toggle between ADB and MTP USB functionality": "التبديل بين وظائف ADB و MTP لوظيفة USB",
     "Toggle the visibility of the bluetooth glyph": "تبديل إمكانية رؤية رمز البلوتوث",
@@ -187,9 +189,7 @@
   },
   "muxinfo": {
     "Access network information": "Access network information",
-    "Access statistics of played content and other activity": "الوصول إلى إحصائيات المحتوى والأنشطة الأخرى",
     "Access version information and system details": "الوصول إلى معلومات الإصدار وتفاصيل النظام",
-    "Activity Tracker": "متتبع النشاط",
     "INFORMATION": "معلومات",
     "Input Tester": "فاحص الإدخال",
     "Network Details": "Network Details",
@@ -201,6 +201,40 @@
     "View all of the current muOS supporters": "عرض جميع داعمي muOS",
     "View all of the screenshots taken on the device": "عرض جميع لقطات الشاشة الملتقطة على الجهاز",
     "View the current used space of the mounted storage devices": "عرض المساحة المستخدمة لأجهزة التخزين المثبتة"
+  },
+  "muxkiosk": {
+    "Advanced Settings": "Advanced Settings",
+    "Applications": "Applications",
+    "Archive Manager": "Archive Manager",
+    "Collections": "Collections",
+    "Configuration": "Configuration",
+    "Content Core": "Content Core",
+    "Content Explorer": "Content Explorer",
+    "Content Governor": "Content Governor",
+    "Content Options": "Content Options",
+    "Content Search": "Content Search",
+    "Content Tag": "Content Tag",
+    "Custom Bootlogo": "Custom Bootlogo",
+    "Custom Catalogue": "Custom Catalogue",
+    "Custom RetroArch Configs": "Custom RetroArch Configs",
+    "Custom Themes": "Custom Themes",
+    "Customisation": "Customisation",
+    "Date and Time": "Date and Time",
+    "General Settings": "General Settings",
+    "HDMI Settings": "HDMI Settings",
+    "History": "History",
+    "Information": "Information",
+    "Interface Options": "Interface Options",
+    "KIOSK SETTINGS": "KIOSK SETTINGS",
+    "Kiosk Mode": "Kiosk Mode",
+    "Language": "Language",
+    "Power Settings": "Power Settings",
+    "RetroArch Kiosk": "RetroArch Kiosk",
+    "Storage": "Storage",
+    "Task Toolkit": "Task Toolkit",
+    "Timezone": "Timezone",
+    "Web Services": "Web Services",
+    "Wi-Fi Network": "Wi-Fi Network"
   },
   "muxlanguage": {
     "LANGUAGE": "اللغة",
@@ -307,9 +341,6 @@
     "WI-FI NETWORK": "شبكة WI-FI"
   },
   "muxoption": {
-    "Assign Core": "عين النواة",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "إعدادات المحتوى",
     "Core": "Core",
     "Current": "الحالي",
@@ -319,7 +350,7 @@
     "Name": "الإسم",
     "None": "None",
     "Not Assigned": "Not Assigned",
-    "Search Content": "البحث عن محتوى",
+    "Search": "Search",
     "Search for content within the selected directory": "البحث عن محتوى داخل المجلد المحدد",
     "Set the CPU governor for the selected content or directory": "تعيين منظم وحدة المعالجة المركزية للمحتوى أو المجلد المحدد",
     "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
@@ -412,18 +443,18 @@
     "SCREENSHOTS": "لقطات الشاشة",
     "View your current screenshots": "عرض لقطات الشاشة"
   },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "لم يتم العثور على لقطات محفوظة",
-    "Restore your saved game progress from a previous snapshot": "استعادة تقدم اللعبة المحفوظ من اللقطات المحفوظة السابقة",
-    "SAVE SNAPSHOT": "اللقطات المحفوظة"
-  },
   "muxspace": {
+    "External Storage": "External Storage",
+    "Primary Storage": "Primary Storage",
     "STORAGE SPACE": "مساحة التخزين",
+    "Secondary Storage": "Secondary Storage",
+    "System Storage": "System Storage",
     "View the current used space of the mounted storage devices": "عرض المساحة المستخدمة لأجهزة التخزين المثبتة"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "النواة المعينة/منظم النظام",
     "Background Music": "الموسيقى الخلفية",
+    "Bootlogo Packages": "Bootlogo Packages",
     "Catalogue Packages": "حزم الكتالوج",
     "Content Collection": "مجموعة المحتوى",
     "Friendly Name System": "نظام الأسماء الصديقة",
@@ -437,6 +468,7 @@
     "Location of User Initialisation scripts": "موقع نصوص تهيئة المستخدم",
     "Location of assigned core and governor configurations": "موقع النواة المعينة وإعدادات المنظم",
     "Location of background music": "موقع الموسيقى الخلفية",
+    "Location of bootlogo packages": "Location of bootlogo packages",
     "Location of catalogue packages": "موقع حزم الكتالوج",
     "Location of content collection": "موقع تجمع المحتويات",
     "Location of content images and text": "موقع صور و نص المحتويات",
