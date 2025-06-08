@@ -92,9 +92,11 @@
     "Storage": "Память"
   },
   "muxconnect": {
+    "Android Debug Bridge": "Android Debug Bridge",
     "Bluetooth": "Bluetooth",
     "CONNECTIVITY": "СОЕДИНЕНИЕ",
     "Connect to a Wi-Fi network manually or via a saved profile": "Подключение к сети Wi-Fi вручную или через сохраненный профиль",
+    "Media Transfer Protocol": "Media Transfer Protocol",
     "Toggle a range of configurable services you can access via an active network": "Управление настройками различных служб, к которым можно получить доступ через подключенную сеть",
     "Toggle between ADB and MTP USB functionality": "Переключение режима работы USB для ADB или MTP",
     "Toggle the visibility of the bluetooth glyph": "Отображение значка Bluetooth",
@@ -187,9 +189,7 @@
   },
   "muxinfo": {
     "Access network information": "Доступ к информации сети",
-    "Access statistics of played content and other activity": "Доступ к статистике запущенной игры",
     "Access version information and system details": "Доступ к информации о версии системы и другим сведениям",
-    "Activity Tracker": "Счетчик активности",
     "INFORMATION": "ИНФОРМАЦИЯ",
     "Input Tester": "Проверка кнопок",
     "Network Details": "Сведения сети",
@@ -201,6 +201,40 @@
     "View all of the current muOS supporters": "Вся команда поддержки muOS",
     "View all of the screenshots taken on the device": "Все скриншоты, сделанные на устройстве",
     "View the current used space of the mounted storage devices": "Используемое пространство на установленных устройствах хранения данных"
+  },
+  "muxkiosk": {
+    "Advanced Settings": "Advanced Settings",
+    "Applications": "Applications",
+    "Archive Manager": "Archive Manager",
+    "Collections": "Collections",
+    "Configuration": "Configuration",
+    "Content Core": "Content Core",
+    "Content Explorer": "Content Explorer",
+    "Content Governor": "Content Governor",
+    "Content Options": "Content Options",
+    "Content Search": "Content Search",
+    "Content Tag": "Content Tag",
+    "Custom Bootlogo": "Custom Bootlogo",
+    "Custom Catalogue": "Custom Catalogue",
+    "Custom RetroArch Configs": "Custom RetroArch Configs",
+    "Custom Themes": "Custom Themes",
+    "Customisation": "Customisation",
+    "Date and Time": "Date and Time",
+    "General Settings": "General Settings",
+    "HDMI Settings": "HDMI Settings",
+    "History": "History",
+    "Information": "Information",
+    "Interface Options": "Interface Options",
+    "KIOSK SETTINGS": "KIOSK SETTINGS",
+    "Kiosk Mode": "Kiosk Mode",
+    "Language": "Language",
+    "Power Settings": "Power Settings",
+    "RetroArch Kiosk": "RetroArch Kiosk",
+    "Storage": "Storage",
+    "Task Toolkit": "Task Toolkit",
+    "Timezone": "Timezone",
+    "Web Services": "Web Services",
+    "Wi-Fi Network": "Wi-Fi Network"
   },
   "muxlanguage": {
     "LANGUAGE": "ЯЗЫК",
@@ -307,9 +341,6 @@
     "WI-FI NETWORK": "WI-FI"
   },
   "muxoption": {
-    "Assign Core": "Привязать ядро",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "НАСТРОЙКА ИГР",
     "Core": "Ядро",
     "Current": "Текущий",
@@ -317,14 +348,14 @@
     "Governor": "Регулятор",
     "Individual": "Приложение",
     "Name": "Имя",
-    "None": "None",
+    "None": "Пусто",
     "Not Assigned": "Не привязано",
-    "Search Content": "Поиск игр",
+    "Search": "Search",
     "Search for content within the selected directory": "Поиск игр в выбранной папке",
     "Set the CPU governor for the selected content or directory": "Настройка регулятора ЦП для выбранной игры или папки",
-    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the specific tag of the content selected to change the glyph": "Выбор определенного ярлыка для выбранной иконки игры",
     "Set the system core or external emulator for the selected content or directory": "Выбор ядра или внешнего эмулятора для указанной игры или папки",
-    "Tag": "Tag"
+    "Tag": "Ярлык"
   },
   "muxpass": {
     "PASSCODE": "ПАРОЛЬ"
@@ -412,18 +443,18 @@
     "SCREENSHOTS": "СКРИНШОТЫ",
     "View your current screenshots": "Cделанные скриншоты"
   },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "Сохраненных снэпшотов не найдено",
-    "Restore your saved game progress from a previous snapshot": "Восстановление сохраненного игрового прогресса из предыдущего снэпшота",
-    "SAVE SNAPSHOT": "СОХРАНИТЬ СНЭПШОТ"
-  },
   "muxspace": {
+    "External Storage": "External Storage",
+    "Primary Storage": "Primary Storage",
     "STORAGE SPACE": "ХРАНИЛИЩЕ",
+    "Secondary Storage": "Secondary Storage",
+    "System Storage": "System Storage",
     "View the current used space of the mounted storage devices": "Используемое пространство на установленных устройствах хранения данных"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Привязанное ядро/регулятор системы",
     "Background Music": "Фоновая музыка",
+    "Bootlogo Packages": "Bootlogo Packages",
     "Catalogue Packages": "Пакеты каталогов",
     "Content Collection": "Коллекция игр",
     "Friendly Name System": "Дружественные названия систем",
@@ -437,6 +468,7 @@
     "Location of User Initialisation scripts": "Расположение пользовательских скриптов инициализации",
     "Location of assigned core and governor configurations": "Расположение привязанного ядра и конфигураций регулятора",
     "Location of background music": "Расположение фоновой музыки",
+    "Location of bootlogo packages": "Location of bootlogo packages",
     "Location of catalogue packages": "Расположение пакетов каталогов",
     "Location of content collection": "Расположение коллекции игр",
     "Location of content images and text": "Расположение обложек и текста игр",
@@ -487,9 +519,9 @@
     "muOS Version": "Версия muOS"
   },
   "muxtag": {
-    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
-    "No Tags Found…": "No Tags Found…",
-    "TAG": "TAG"
+    "Change the tag of your current selected content to make it stand out": "Изменение ярлыка выбранной игры для выделения",
+    "No Tags Found…": "Ярлыки не найдены…",
+    "TAG": "ЯРЛЫК"
   },
   "muxtask": {
     "No Tasks Found": "Задачи не найдены",

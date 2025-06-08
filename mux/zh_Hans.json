@@ -92,9 +92,11 @@
     "Storage": "储存"
   },
   "muxconnect": {
+    "Android Debug Bridge": "Android Debug Bridge",
     "Bluetooth": "蓝牙",
     "CONNECTIVITY": "连接",
     "Connect to a Wi-Fi network manually or via a saved profile": "手动连接Wi-Fi网络或者使用保存的Wi-Fi设定",
+    "Media Transfer Protocol": "Media Transfer Protocol",
     "Toggle a range of configurable services you can access via an active network": "调节多种通过局域网配置的网络服务",
     "Toggle between ADB and MTP USB functionality": "设置USB功能，使用ADB或者MTP",
     "Toggle the visibility of the bluetooth glyph": "设置蓝牙图标可见性开关",
@@ -187,9 +189,7 @@
   },
   "muxinfo": {
     "Access network information": "Access network information",
-    "Access statistics of played content and other activity": "查看游玩内容或其他活动的统计列表",
     "Access version information and system details": "查看系统与版本信息",
-    "Activity Tracker": "游玩记录",
     "INFORMATION": "信息",
     "Input Tester": "输入测试",
     "Network Details": "Network Details",
@@ -201,6 +201,40 @@
     "View all of the current muOS supporters": "查看当前所有muOS赞助者信息",
     "View all of the screenshots taken on the device": "查看本机获取的截图",
     "View the current used space of the mounted storage devices": "查看本机使用存储器的空间"
+  },
+  "muxkiosk": {
+    "Advanced Settings": "Advanced Settings",
+    "Applications": "Applications",
+    "Archive Manager": "Archive Manager",
+    "Collections": "Collections",
+    "Configuration": "Configuration",
+    "Content Core": "Content Core",
+    "Content Explorer": "Content Explorer",
+    "Content Governor": "Content Governor",
+    "Content Options": "Content Options",
+    "Content Search": "Content Search",
+    "Content Tag": "Content Tag",
+    "Custom Bootlogo": "Custom Bootlogo",
+    "Custom Catalogue": "Custom Catalogue",
+    "Custom RetroArch Configs": "Custom RetroArch Configs",
+    "Custom Themes": "Custom Themes",
+    "Customisation": "Customisation",
+    "Date and Time": "Date and Time",
+    "General Settings": "General Settings",
+    "HDMI Settings": "HDMI Settings",
+    "History": "History",
+    "Information": "Information",
+    "Interface Options": "Interface Options",
+    "KIOSK SETTINGS": "KIOSK SETTINGS",
+    "Kiosk Mode": "Kiosk Mode",
+    "Language": "Language",
+    "Power Settings": "Power Settings",
+    "RetroArch Kiosk": "RetroArch Kiosk",
+    "Storage": "Storage",
+    "Task Toolkit": "Task Toolkit",
+    "Timezone": "Timezone",
+    "Web Services": "Web Services",
+    "Wi-Fi Network": "Wi-Fi Network"
   },
   "muxlanguage": {
     "LANGUAGE": "语言",
@@ -307,9 +341,6 @@
     "WI-FI NETWORK": "Wi-Fi网络"
   },
   "muxoption": {
-    "Assign Core": "分配核心",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "内容选项",
     "Core": "Core",
     "Current": "现有",
@@ -319,7 +350,7 @@
     "Name": "名称",
     "None": "None",
     "Not Assigned": "Not Assigned",
-    "Search Content": "搜索内容",
+    "Search": "Search",
     "Search for content within the selected directory": "仅在本文件夹搜索内容",
     "Set the CPU governor for the selected content or directory": "为选中的内容或文件夹设置CPU调度方案",
     "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
@@ -412,18 +443,18 @@
     "SCREENSHOTS": "截图",
     "View your current screenshots": "查看现有截图"
   },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "未找到即时存档",
-    "Restore your saved game progress from a previous snapshot": "从上一个即时存档文件恢复游戏进度",
-    "SAVE SNAPSHOT": "即时存档"
-  },
   "muxspace": {
+    "External Storage": "External Storage",
+    "Primary Storage": "Primary Storage",
     "STORAGE SPACE": "存储空间",
+    "Secondary Storage": "Secondary Storage",
+    "System Storage": "System Storage",
     "View the current used space of the mounted storage devices": "查看本机使用存储器的空间"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "分配核心/调度方案系统",
     "Background Music": "背景音乐",
+    "Bootlogo Packages": "Bootlogo Packages",
     "Catalogue Packages": "封面集",
     "Content Collection": "内容收藏夹",
     "Friendly Name System": "名称友好系统",
@@ -437,6 +468,7 @@
     "Location of User Initialisation scripts": "用户初始化脚本路径",
     "Location of assigned core and governor configurations": "分配核心和调度方案的设置路径",
     "Location of background music": "背景音乐路径",
+    "Location of bootlogo packages": "Location of bootlogo packages",
     "Location of catalogue packages": "封面集存储位置",
     "Location of content collection": "内容收藏夹放置位置",
     "Location of content images and text": "内容图片和文字路径",
