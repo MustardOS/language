@@ -195,10 +195,8 @@
     "Network Details": "Network Details",
     "Screenshots": "لقطات الشاشة",
     "Storage Space": "مساحة التخزين",
-    "Supporters": "الداعمين",
     "System Details": "تفاصيل النظام",
     "Test the controls of the device": "فحص عناصر التحكم في الجهاز",
-    "View all of the current muOS supporters": "عرض جميع داعمي muOS",
     "View all of the screenshots taken on the device": "عرض جميع لقطات الشاشة الملتقطة على الجهاز",
     "View the current used space of the mounted storage devices": "عرض المساحة المستخدمة لأجهزة التخزين المثبتة"
   },
@@ -669,12 +667,10 @@
   },
   "muxwebserv": {
     "Network Time Sync": "مزامنة وقت الشبكة",
-    "Resilio": "Resilio",
     "SFTP + Filebrowser": "SFTP + متصفح الملفات",
     "Secure Shell": "شل الآمن",
     "Syncthing": "Syncthing",
     "Tailscale": "Tailscale",
-    "Toggle Resilio - WebUI can be found on port 6060": "تبديل Resilio - يمكن العثور على WebUI على المنفذ 6060",
     "Toggle SFTP support - WebUI can be found on port 9090": "تبديل دعم SFTP - يمكن العثور على WebUI على المنفذ 9090",
     "Toggle SSH support - Access via port 22": "تبديل دعم SSH - الوصول عبر المنفذ 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "تبديل Syncthing - يمكن العثور على WebUI على المنفذ 7070",

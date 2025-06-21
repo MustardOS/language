@@ -195,10 +195,8 @@
     "Network Details": "Sonraí Líonra",
     "Screenshots": "Seatanna scáileáin",
     "Storage Space": "Spás Stórála",
-    "Supporters": "Lucht tacaíochta",
     "System Details": "Sonraí an Chórais",
     "Test the controls of the device": "Tástáil rialuithe na feiste",
-    "View all of the current muOS supporters": "Féach ar gach ceann de na tacadóirí muOS reatha",
     "View all of the screenshots taken on the device": "Féach ar na screenshots go léir a glacadh ar an ngléas",
     "View the current used space of the mounted storage devices": "Féach ar an spás a úsáidtear faoi láthair de na gléasanna stórála gléasta"
   },
@@ -669,12 +667,10 @@
   },
   "muxwebserv": {
     "Network Time Sync": "Sioncronú Ama Líonra",
-    "Resilio": "Resilio",
     "SFTP + Filebrowser": "SFTP + Brabhsálaí comhaid",
     "Secure Shell": "Blaosc Shlán",
     "Syncthing": "Syncthing",
     "Tailscale": "Tailscála",
-    "Toggle Resilio - WebUI can be found on port 6060": "Scoránaigh Resilio - Is féidir WebUI a fháil ar phort 6060",
     "Toggle SFTP support - WebUI can be found on port 9090": "Scoránaigh tacaíocht SFTP - Is féidir WebUI a fháil ar phort 9090",
     "Toggle SSH support - Access via port 22": "Scoránaigh tacaíocht SSH - Rochtain trí chalafort 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Toggle Syncthing - Is féidir WebUI a fháil ar phort 7070",

@@ -195,10 +195,8 @@
     "Network Details": "Network Details",
     "Screenshots": "Capturi de Ecran",
     "Storage Space": "Spațiu de Stocare",
-    "Supporters": "Susținători",
     "System Details": "Detalii Sistem",
     "Test the controls of the device": "Testează comenzile dispozitivului",
-    "View all of the current muOS supporters": "Vezi toți susținătorii actuali ai muOS",
     "View all of the screenshots taken on the device": "Vezi toate capturile de ecran realizate pe dispozitiv",
     "View the current used space of the mounted storage devices": "Vezi spațiul utilizat curent al dispozitivelor de stocare montate"
   },
@@ -669,12 +667,10 @@
   },
   "muxwebserv": {
     "Network Time Sync": "Sincronizare Timp Rețea",
-    "Resilio": "Resilio",
     "SFTP + Filebrowser": "SFTP + Browser de Fișiere",
     "Secure Shell": "Secure Shell (SSH)",
     "Syncthing": "Syncthing",
     "Tailscale": "Tailscale",
-    "Toggle Resilio - WebUI can be found on port 6060": "Comută Resilio - Interfața WebUI poate fi accesată pe portul 6060",
     "Toggle SFTP support - WebUI can be found on port 9090": "Comută suportul SFTP - Interfața WebUI poate fi accesată pe portul 9090",
     "Toggle SSH support - Access via port 22": "Comută suportul SSH - Acces disponibil prin portul 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Comută Syncthing - Interfața WebUI poate fi accesată pe portul 7070",

@@ -195,10 +195,8 @@
     "Network Details": "Network Details",
     "Screenshots": "Ảnh chụp màn hình",
     "Storage Space": "Dung lượng lưu trữ",
-    "Supporters": "Người ủng hộ",
     "System Details": "Chi tiết hệ thống",
     "Test the controls of the device": "Kiểm tra các phím của thiết bị",
-    "View all of the current muOS supporters": "Xem lại tất cả những người hỗ trợ hiện tại của muOS",
     "View all of the screenshots taken on the device": "Xem tất cả ảnh chụp màn hình trên thiết bị",
     "View the current used space of the mounted storage devices": "Xem dung lượng đã sử dụng của các thiết bị lưu trữ kết nối vào"
   },
@@ -669,12 +667,10 @@
   },
   "muxwebserv": {
     "Network Time Sync": "Đồng bộ thời gian khi bật mạng",
-    "Resilio": "Resilio (Đồng bộ)",
     "SFTP + Filebrowser": "SFTP + Filebrowser (Truy cập thư mục qua mạng)",
     "Secure Shell": "Secure Shell (Terminal Shell bảo mật)",
     "Syncthing": "Đồng bộ hóa",
     "Tailscale": "Tailscale (VPN)",
-    "Toggle Resilio - WebUI can be found on port 6060": "Bật/tắt Resilio - WebUI có thể truy cập ở cổng 6060",
     "Toggle SFTP support - WebUI can be found on port 9090": "Bật/tắt hỗ trợ SFTP - WebUI có thể truy cập ở cổng 9090",
     "Toggle SSH support - Access via port 22": "Bật/tắt hỗ trợ SSH - Truy cập qua cổng 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Bật/tắt Syncthing - WebUI có thể truy cập ở cổng 7070",

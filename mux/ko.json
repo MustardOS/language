@@ -195,10 +195,8 @@
     "Network Details": "네트워크 상세",
     "Screenshots": "스크린샷",
     "Storage Space": "저장 공간",
-    "Supporters": "후원 감사의 말",
     "System Details": "시스템 상세정보",
     "Test the controls of the device": "장치의 컨트롤러를 테스트",
-    "View all of the current muOS supporters": "감사 인사와 현재 muOS 지원자를 모두 확인함",
     "View all of the screenshots taken on the device": "기기에서 촬영한 모든 스크린샷 보기",
     "View the current used space of the mounted storage devices": "마운트된 저장 장치의 현재 사용된 공간 보기"
   },
@@ -669,12 +667,10 @@
   },
   "muxwebserv": {
     "Network Time Sync": "네트워크 시간 동기화",
-    "Resilio": "레실리오",
     "SFTP + Filebrowser": "SFTP + 파일브라우저",
     "Secure Shell": "시큐어 셸",
     "Syncthing": "싱크띵",
     "Tailscale": "테일스케일",
-    "Toggle Resilio - WebUI can be found on port 6060": "레실리오 토글 - 웹UI는 포트 6060 에서 찾음",
     "Toggle SFTP support - WebUI can be found on port 9090": "SFTP 지원 토글 - 웹UI는 포트 9090 에서 찾음",
     "Toggle SSH support - Access via port 22": "SSH 지원 토글 - 포트 22 로 액세스",
     "Toggle Syncthing - WebUI can be found on port 7070": "싱크띵 토글 - 웹UI는 포트 7070 에서 찾음",

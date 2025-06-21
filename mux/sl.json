@@ -195,10 +195,8 @@
     "Network Details": "Podrobnosti omrežja",
     "Screenshots": "Screenshots",
     "Storage Space": "Storage Space",
-    "Supporters": "Podporniki",
     "System Details": "Podrobnosti Sistema",
     "Test the controls of the device": "Preizkusite krmilnike naprave",
-    "View all of the current muOS supporters": "Ogled vseh trenutnih podpornikov muOS",
     "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
     "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
@@ -669,12 +667,10 @@
   },
   "muxwebserv": {
     "Network Time Sync": "Sinhronizacija časa z omrežjem",
-    "Resilio": "Resilio",
     "SFTP + Filebrowser": "SFTP in brskalnik datotek",
     "Secure Shell": "Varna lupina (SSH)",
     "Syncthing": "Syncthing – Orodje za sinhronizacijo datotek",
     "Tailscale": "Tailscale – Orodje za ustvarjanje zasebnega omrežja",
-    "Toggle Resilio - WebUI can be found on port 6060": "Preklopi Resilio - WebUI je dostopen na vratih 6060",
     "Toggle SFTP support - WebUI can be found on port 9090": "Preklopi podporo za SFTP - WebUI je dostopen na vratih 9090",
     "Toggle SSH support - Access via port 22": "Preklopi podporo za SSH - Dostop preko vrat 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Preklopi podporo za Syncthing - WebUI je na voljo na vratih 7070",

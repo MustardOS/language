@@ -195,10 +195,8 @@
     "Network Details": "Network Details",
     "Screenshots": "Screenshots",
     "Storage Space": "Storage Space",
-    "Supporters": "Destekleyenler",
     "System Details": "Sistem ayrıntıları",
     "Test the controls of the device": "Cihaz kontrollerini test et",
-    "View all of the current muOS supporters": "Mevcut tüm muOS destekçilerini görüntüle",
     "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
     "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
@@ -669,12 +667,10 @@
   },
   "muxwebserv": {
     "Network Time Sync": "Ağ zaman senkronizasyonu",
-    "Resilio": "Resilio",
     "SFTP + Filebrowser": "SFTP + Dosya yöneticisi",
     "Secure Shell": "Secure Shell",
     "Syncthing": "Syncthing",
     "Tailscale": "Tailscale",
-    "Toggle Resilio - WebUI can be found on port 6060": "Resilio'yu aç/kapa - WebUI, 6060 numaralı bağlantı noktasında bulunabilir",
     "Toggle SFTP support - WebUI can be found on port 9090": "SFTP desteğini aç/kapat - WebUI 9090 numaralı portta bulunabilir",
     "Toggle SSH support - Access via port 22": "SSH desteğini aç/kapat - 22 numaralı port üzerinden erişim",
     "Toggle Syncthing - WebUI can be found on port 7070": "Syncthing'i değiştir - WebUI 7070 portunda bulunabilir",

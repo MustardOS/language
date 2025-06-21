@@ -195,10 +195,8 @@
     "Network Details": "Network Details",
     "Screenshots": "スクリーンショット",
     "Storage Space": "ストレージ容量",
-    "Supporters": "サポーター",
     "System Details": "システム詳細",
     "Test the controls of the device": "デバイスの入力テストをします",
-    "View all of the current muOS supporters": "現在の muOS のサポーター一覧を表示します",
     "View all of the screenshots taken on the device": "デバイスで保存されたスクリーンショットの一覧を表示します",
     "View the current used space of the mounted storage devices": "現在利用しているストレージの使用量を表示します"
   },
@@ -669,12 +667,10 @@
   },
   "muxwebserv": {
     "Network Time Sync": "ネットワーク時刻同期",
-    "Resilio": "Resilio",
     "SFTP + Filebrowser": "SFTP + ファイルブラウザ",
     "Secure Shell": "Secure Shell (SSH)",
     "Syncthing": "Syncthing",
     "Tailscale": "Tailscale",
-    "Toggle Resilio - WebUI can be found on port 6060": "Resilio を起動します - 6060番ポートでWebUIに接続してください",
     "Toggle SFTP support - WebUI can be found on port 9090": "SFTP を起動します - 9090番ポートからWebUIに接続してください",
     "Toggle SSH support - Access via port 22": "SSH を起動します - 22番ポートで接続してください",
     "Toggle Syncthing - WebUI can be found on port 7070": "Syncthing を起動します - 7070番ポートでWebUIに接続してください",

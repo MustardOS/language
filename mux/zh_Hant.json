@@ -195,10 +195,8 @@
     "Network Details": "網路詳情",
     "Screenshots": "螢幕截圖",
     "Storage Space": "儲存空間",
-    "Supporters": "贊助者",
     "System Details": "系統詳情",
     "Test the controls of the device": "測試設備的按鍵控制",
-    "View all of the current muOS supporters": "查看目前所有 muOS 贊助者",
     "View all of the screenshots taken on the device": "查看裝置上拍攝的所有螢幕截圖",
     "View the current used space of the mounted storage devices": "查看已掛載儲存設備的當前使用空間"
   },
@@ -669,12 +667,10 @@
   },
   "muxwebserv": {
     "Network Time Sync": "網路校時",
-    "Resilio": "Resilio同步工具",
     "SFTP + Filebrowser": "SFTP + 檔案瀏覽器",
     "Secure Shell": "安全殼層(SSH)",
     "Syncthing": "Syncthing同步工具",
     "Tailscale": "Tailscale虛擬區網",
-    "Toggle Resilio - WebUI can be found on port 6060": "Resilio同步工具 - WebUI連接埠 6060",
     "Toggle SFTP support - WebUI can be found on port 9090": "啟用 SFTP - WebUI連接埠 9090",
     "Toggle SSH support - Access via port 22": "啟用SSH - 透過連接埠 22 存取",
     "Toggle Syncthing - WebUI can be found on port 7070": "Syncthing同步工具 - WebUI連接埠 7070",

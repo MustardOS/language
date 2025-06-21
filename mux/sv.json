@@ -195,10 +195,8 @@
     "Network Details": "Network Details",
     "Screenshots": "Screenshots",
     "Storage Space": "Storage Space",
-    "Supporters": "Supporters",
     "System Details": "Systemdetaljer",
     "Test the controls of the device": "Testa enhetens kontroller.",
-    "View all of the current muOS supporters": "Visa alla aktuella muOS-supporters.",
     "View all of the screenshots taken on the device": "View all of the screenshots taken on the device",
     "View the current used space of the mounted storage devices": "View the current used space of the mounted storage devices"
   },
@@ -669,12 +667,10 @@
   },
   "muxwebserv": {
     "Network Time Sync": "Nätverkstidssynkronisering",
-    "Resilio": "Resilio",
     "SFTP + Filebrowser": "SFTP + Filbläddrare",
     "Secure Shell": "Secure Shell",
     "Syncthing": "Syncthing",
     "Tailscale": "Tailscale",
-    "Toggle Resilio - WebUI can be found on port 6060": "Växla Resilio - WebUI finns på port 6060",
     "Toggle SFTP support - WebUI can be found on port 9090": "Växla SFTP-stöd - WebUI finns på port 9090",
     "Toggle SSH support - Access via port 22": "Växla SSH-stöd - Åtkomst via port 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Växla Syncthing - WebUI finns på port 7070",

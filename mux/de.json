@@ -195,10 +195,8 @@
     "Network Details": "Netzwerkeigenschaften",
     "Screenshots": "Bildschirmfoto",
     "Storage Space": "Speicherplatz",
-    "Supporters": "Unterstützer und Mitwirkende",
     "System Details": "Systemdetails",
     "Test the controls of the device": "Tastenknöpfe des System testen",
-    "View all of the current muOS supporters": "Alle aktuellen muOS-Unterstützer anzeigen",
     "View all of the screenshots taken on the device": "Alle mit dem System aufgenommenen Screenshots anzeigen",
     "View the current used space of the mounted storage devices": "Aktuell belegter Speicherplatz aller Systeme anzeigen"
   },
@@ -669,12 +667,10 @@
   },
   "muxwebserv": {
     "Network Time Sync": "Netzwerk Zeitsynchronisierung",
-    "Resilio": "Zurückspringen",
     "SFTP + Filebrowser": "SFTP + Dateibrowser",
     "Secure Shell": "Secure Shell (SSH)",
     "Syncthing": "Synchronisieren",
     "Tailscale": "Tailscale-App",
-    "Toggle Resilio - WebUI can be found on port 6060": "Resilio-Dienste ein- oder auschalten - WebUI über Port 6060 erreichbar",
     "Toggle SFTP support - WebUI can be found on port 9090": "SFTP-Zugang ein- oder ausschalten - WebUI über Port 9090 erreichbar",
     "Toggle SSH support - Access via port 22": "SSH-Zugang ein- oder ausschalten - Erreichbar über Port 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Syncthing-Dienste ein- oder auschalten - WebUI über Port 7070 erreichbar",

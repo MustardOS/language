@@ -195,10 +195,8 @@
     "Network Details": "Network Details",
     "Screenshots": "截图",
     "Storage Space": "存储空间",
-    "Supporters": "赞助者鸣谢",
     "System Details": "系统详情",
     "Test the controls of the device": "测试设备按键控制",
-    "View all of the current muOS supporters": "查看当前所有muOS赞助者信息",
     "View all of the screenshots taken on the device": "查看本机获取的截图",
     "View the current used space of the mounted storage devices": "查看本机使用存储器的空间"
   },
@@ -669,12 +667,10 @@
   },
   "muxwebserv": {
     "Network Time Sync": "网络时间同步",
-    "Resilio": "Resilio文件同步",
     "SFTP + Filebrowser": "SFTP + 文件浏览器",
     "Secure Shell": "安全Shell（SSH）",
     "Syncthing": "Syncthing文件同步",
     "Tailscale": "Tailscale虚拟组网",
-    "Toggle Resilio - WebUI can be found on port 6060": "设置Resilio同步 - 通过端口6060进入WebUI界面",
     "Toggle SFTP support - WebUI can be found on port 9090": "设置SFTP支持 - 通过端口9090连接",
     "Toggle SSH support - Access via port 22": "设置SSH支持 - 通过端口22连接",
     "Toggle Syncthing - WebUI can be found on port 7070": "设置Syncthing同步 - 通过端口7070进入WebUI界面",

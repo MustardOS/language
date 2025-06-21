@@ -195,10 +195,8 @@
     "Network Details": "Podrobnosti o síti",
     "Screenshots": "Snímky obrazovky",
     "Storage Space": "Úložný prostor",
-    "Supporters": "Podporovatelé",
     "System Details": "Podrobnosti o systému",
     "Test the controls of the device": "Vyzkoušejte ovládací prvky zařízení",
-    "View all of the current muOS supporters": "Podívejte se na všechny současné příznivce muOS",
     "View all of the screenshots taken on the device": "Prohlédněte si všechny snímky obrazovky pořízené na zařízení",
     "View the current used space of the mounted storage devices": "Zobrazte aktuálně využitý prostor připojených úložných zařízení"
   },
@@ -669,12 +667,10 @@
   },
   "muxwebserv": {
     "Network Time Sync": "Synchronizace času z Internetu",
-    "Resilio": "Resilio",
     "SFTP + Filebrowser": "SFTP + Prohlížeč souborů",
     "Secure Shell": "Secure Shell",
     "Syncthing": "Synchronizace",
     "Tailscale": "Tailscale",
-    "Toggle Resilio - WebUI can be found on port 6060": "Přepnout Resilio - WebUI najdete na portu 6060",
     "Toggle SFTP support - WebUI can be found on port 9090": "Přepnout podporu SFTP – WebUI najdete na portu 9090",
     "Toggle SSH support - Access via port 22": "Přepnout podporu SSH – Přístup přes port 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Přepnout Synchronizaci – WebUI najdete na portu 7070",

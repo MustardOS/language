@@ -195,10 +195,8 @@
     "Network Details": "Деталі мережі",
     "Screenshots": "Знімки екрану",
     "Storage Space": "Сховище",
-    "Supporters": "Команда Підтримки",
     "System Details": "Дані Системи",
     "Test the controls of the device": "Тестувати елементи управління пристрою",
-    "View all of the current muOS supporters": "Проглянути список поточної команди підтримки muOS",
     "View all of the screenshots taken on the device": "Переглянути всі знімки екрану зроблені на пристрої",
     "View the current used space of the mounted storage devices": "Переглянути використане місце на підключених пристроях зберігання даних"
   },
@@ -669,12 +667,10 @@
   },
   "muxwebserv": {
     "Network Time Sync": "Синхронізація Часу з Мережі",
-    "Resilio": "Resilio",
     "SFTP + Filebrowser": "SFTP + Провідник",
     "Secure Shell": "Secure Shell",
     "Syncthing": "Syncthing",
     "Tailscale": "Tailscale",
-    "Toggle Resilio - WebUI can be found on port 6060": "Увімкнути Resilio - WebUI можна знайти на порті 6060",
     "Toggle SFTP support - WebUI can be found on port 9090": "Увімкнути підтримку SFTP - WebUI можна знайти на порті 9090",
     "Toggle SSH support - Access via port 22": "Увімкнути підтримку SSH - Доступ через порт 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Увімкнути Syncthing - WebUI можна знайти на порті 7070",
