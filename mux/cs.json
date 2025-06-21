@@ -92,9 +92,11 @@
     "Storage": "Uložiště"
   },
   "muxconnect": {
+    "Android Debug Bridge": "Android Debug Bridge",
     "Bluetooth": "Bluetooth",
     "CONNECTIVITY": "KONEKTIVITA",
     "Connect to a Wi-Fi network manually or via a saved profile": "Připojte se k síti Wi-Fi ručně nebo prostřednictvím uloženého profilu",
+    "Media Transfer Protocol": "Media Transfer Protocol",
     "Toggle a range of configurable services you can access via an active network": "Přepínejte řadu konfigurovatelných služeb, ke kterým máte přístup prostřednictvím aktivní sítě",
     "Toggle between ADB and MTP USB functionality": "Přepínání mezi funkcí ADB a MTP USB",
     "Toggle the visibility of the bluetooth glyph": "Přepněte viditelnost bluetooth",
@@ -187,9 +189,7 @@
   },
   "muxinfo": {
     "Access network information": "Přístup k informacím o síti",
-    "Access statistics of played content and other activity": "Přístup ke statistikám přehrávaného obsahu a další aktivity",
     "Access version information and system details": "Informace o verzi a podrobnostech o systému",
-    "Activity Tracker": "Sledování aktivity",
     "INFORMATION": "INFORMACE",
     "Input Tester": "Test ovládání",
     "Network Details": "Podrobnosti o síti",
@@ -201,6 +201,40 @@
     "View all of the current muOS supporters": "Podívejte se na všechny současné příznivce muOS",
     "View all of the screenshots taken on the device": "Prohlédněte si všechny snímky obrazovky pořízené na zařízení",
     "View the current used space of the mounted storage devices": "Zobrazte aktuálně využitý prostor připojených úložných zařízení"
+  },
+  "muxkiosk": {
+    "Advanced Settings": "Advanced Settings",
+    "Applications": "Applications",
+    "Archive Manager": "Archive Manager",
+    "Collections": "Collections",
+    "Configuration": "Configuration",
+    "Content Core": "Content Core",
+    "Content Explorer": "Content Explorer",
+    "Content Governor": "Content Governor",
+    "Content Options": "Content Options",
+    "Content Search": "Content Search",
+    "Content Tag": "Content Tag",
+    "Custom Bootlogo": "Custom Bootlogo",
+    "Custom Catalogue": "Custom Catalogue",
+    "Custom RetroArch Configs": "Custom RetroArch Configs",
+    "Custom Themes": "Custom Themes",
+    "Customisation": "Customisation",
+    "Date and Time": "Date and Time",
+    "General Settings": "General Settings",
+    "HDMI Settings": "HDMI Settings",
+    "History": "History",
+    "Information": "Information",
+    "Interface Options": "Interface Options",
+    "KIOSK SETTINGS": "KIOSK SETTINGS",
+    "Kiosk Mode": "Kiosk Mode",
+    "Language": "Language",
+    "Power Settings": "Power Settings",
+    "RetroArch Kiosk": "RetroArch Kiosk",
+    "Storage": "Storage",
+    "Task Toolkit": "Task Toolkit",
+    "Timezone": "Timezone",
+    "Web Services": "Web Services",
+    "Wi-Fi Network": "Wi-Fi Network"
   },
   "muxlanguage": {
     "LANGUAGE": "JAZYK",
@@ -307,9 +341,6 @@
     "WI-FI NETWORK": "WI-FI SÍŤ"
   },
   "muxoption": {
-    "Assign Core": "Přiřadit Core",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "MOŽNOST OBSAHU",
     "Core": "Jádro",
     "Current": "Současný",
@@ -317,14 +348,14 @@
     "Governor": "Regulátor",
     "Individual": "Individuální",
     "Name": "Jméno",
-    "None": "None",
+    "None": "Žádný",
     "Not Assigned": "Nepřiřazeno",
-    "Search Content": "Hledat obsah",
+    "Search": "Search",
     "Search for content within the selected directory": "Vyhledejte obsah ve vybraném adresáři",
     "Set the CPU governor for the selected content or directory": "Nastavte regulátor CPU pro vybraný obsah nebo adresář",
-    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the specific tag of the content selected to change the glyph": "Chcete-li změnit glyf, nastavte konkrétní značku obsahu vybraného",
     "Set the system core or external emulator for the selected content or directory": "Nastavte jádro systému nebo externí emulátor pro vybraný obsah nebo adresář",
-    "Tag": "Tag"
+    "Tag": "Značka"
   },
   "muxpass": {
     "PASSCODE": "HESLO"
@@ -412,18 +443,18 @@
     "SCREENSHOTS": "SNÍMKY OBRAZOVKY",
     "View your current screenshots": "Prohlédněte si aktuální snímky obrazovky"
   },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "Nebyly nalezeny žádné uložené snímky",
-    "Restore your saved game progress from a previous snapshot": "Obnovte svůj uložený postup ve hře z předchozího snímku",
-    "SAVE SNAPSHOT": "ULOŽIT SNÍMEK"
-  },
   "muxspace": {
+    "External Storage": "External Storage",
+    "Primary Storage": "Primary Storage",
     "STORAGE SPACE": "ÚLOŽNÝ PROSTOR",
+    "Secondary Storage": "Secondary Storage",
+    "System Storage": "System Storage",
     "View the current used space of the mounted storage devices": "Zobrazte aktuálně využitý prostor připojených úložných zařízení"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Přiřazené jádro/Regulátor systému",
     "Background Music": "Hudba na pozadí",
+    "Bootlogo Packages": "Bootlogo Packages",
     "Catalogue Packages": "Katalogové balíčky",
     "Content Collection": "Sbírka obsahu",
     "Friendly Name System": "Přátelský systém jmen",
@@ -437,6 +468,7 @@
     "Location of User Initialisation scripts": "Umístění uživatelských inicializačních skriptů",
     "Location of assigned core and governor configurations": "Umístění přiřazených konfigurací jádra a regulátoru",
     "Location of background music": "Umístění hudby na pozadí",
+    "Location of bootlogo packages": "Location of bootlogo packages",
     "Location of catalogue packages": "Umístění katalogových balíků",
     "Location of content collection": "Umístění sbírky obsahu",
     "Location of content images and text": "Umístění obrázků a textu obsahu",
@@ -487,9 +519,9 @@
     "muOS Version": "Verze muOS"
   },
   "muxtag": {
-    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
-    "No Tags Found…": "No Tags Found…",
-    "TAG": "TAG"
+    "Change the tag of your current selected content to make it stand out": "Změňte značku aktuálně vybraného obsahu, aby vynikl",
+    "No Tags Found…": "Nebyly nalezeny žádné značky…",
+    "TAG": "ZNAČKA"
   },
   "muxtask": {
     "No Tasks Found": "Nebyly nalezeny žádné úkoly",

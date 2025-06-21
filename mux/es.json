@@ -92,9 +92,11 @@
     "Storage": "Almacenamiento"
   },
   "muxconnect": {
+    "Android Debug Bridge": "Puente de depuración Android",
     "Bluetooth": "Bluetooth",
     "CONNECTIVITY": "CONECTIVIDAD",
     "Connect to a Wi-Fi network manually or via a saved profile": "Conecta a una red Wi-Fi manualmente o a través de un perfil guardado",
+    "Media Transfer Protocol": "Protocolo de transferencia de medios",
     "Toggle a range of configurable services you can access via an active network": "Activa o desactiva una variedad de servicios configurables a los que puedes acceder a través de una red activa",
     "Toggle between ADB and MTP USB functionality": "Alterna entre las funciones ADB y MTP USB",
     "Toggle the visibility of the bluetooth glyph": "Alternar la visibilidad del glifo de bluetooth",
@@ -187,9 +189,7 @@
   },
   "muxinfo": {
     "Access network information": "Acceder a la información de la red",
-    "Access statistics of played content and other activity": "Accede a las estadísticas de contenido reproducido y otra actividad",
     "Access version information and system details": "Accede a la información de versión y los detalles del sistema",
-    "Activity Tracker": "Monitor de actividad",
     "INFORMATION": "INFORMACIÓN",
     "Input Tester": "Probador de entrada",
     "Network Details": "Detalles de la red",
@@ -201,6 +201,40 @@
     "View all of the current muOS supporters": "Ver todos los colaboradores actuales de muOS",
     "View all of the screenshots taken on the device": "Ver todas las capturas de pantalla realizadas en el dispositivo",
     "View the current used space of the mounted storage devices": "Ver el espacio utilizado actualmente de los dispositivos de almacenamiento montados"
+  },
+  "muxkiosk": {
+    "Advanced Settings": "Configuración avanzada",
+    "Applications": "Aplicaciones",
+    "Archive Manager": "Gestor de archivos",
+    "Collections": "Colecciones",
+    "Configuration": "Configuración",
+    "Content Core": "Núcleo de contenido",
+    "Content Explorer": "Explorador de contenidos",
+    "Content Governor": "Gobernador de contenidos",
+    "Content Options": "Opciones de contenido",
+    "Content Search": "Búsqueda de contenidos",
+    "Content Tag": "Etiqueta de contenido",
+    "Custom Bootlogo": "Logotipo de arranque personalizado",
+    "Custom Catalogue": "Catálogo personalizado",
+    "Custom RetroArch Configs": "Configuraciones personalizadas de RetroArch",
+    "Custom Themes": "Temas personalizados",
+    "Customisation": "Personalización",
+    "Date and Time": "Fecha y hora",
+    "General Settings": "Ajustes generales",
+    "HDMI Settings": "Ajustes HDMI",
+    "History": "Historial",
+    "Information": "Información",
+    "Interface Options": "Opciones de interfaz",
+    "KIOSK SETTINGS": "CONFIGURACIÓN DEL QUIOSCO",
+    "Kiosk Mode": "Modo quiosco",
+    "Language": "Idioma",
+    "Power Settings": "Ajustes de energía",
+    "RetroArch Kiosk": "Quiosco RetroArch",
+    "Storage": "Almacenamiento",
+    "Task Toolkit": "Kit de herramientas de tareas",
+    "Timezone": "Zona horaria",
+    "Web Services": "Servicios web",
+    "Wi-Fi Network": "Red Wi-Fi"
   },
   "muxlanguage": {
     "LANGUAGE": "IDIOMA",
@@ -307,9 +341,6 @@
     "WI-FI NETWORK": "RED WI-FI"
   },
   "muxoption": {
-    "Assign Core": "Asignar núcleo",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "CONTENT OPTION",
     "Core": "Núcleo",
     "Current": "Actual",
@@ -317,14 +348,14 @@
     "Governor": "Gobernador",
     "Individual": "Individual",
     "Name": "Nombre",
-    "None": "None",
+    "None": "Ninguno",
     "Not Assigned": "No asignado",
-    "Search Content": "Buscar contenido",
+    "Search": "Buscar",
     "Search for content within the selected directory": "Buscar contenido dentro del directorio seleccionado",
     "Set the CPU governor for the selected content or directory": "Configura el gobernador de la CPU para el contenido o directorio seleccionado",
-    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the specific tag of the content selected to change the glyph": "Establezca la etiqueta específica del contenido seleccionado para cambiar el glifo",
     "Set the system core or external emulator for the selected content or directory": "Configura el núcleo del sistema o el emulador externo para el contenido o directorio seleccionado",
-    "Tag": "Tag"
+    "Tag": "Etiqueta"
   },
   "muxpass": {
     "PASSCODE": "CÓDIGO DE ACCESO"
@@ -412,18 +443,18 @@
     "SCREENSHOTS": "CAPTURAS DE PANTALLA",
     "View your current screenshots": "Ver tus capturas de pantalla actuales"
   },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "No se han encontrado instantáneas guardadas",
-    "Restore your saved game progress from a previous snapshot": "Restaura el progreso de tu partida guardada desde una instantánea anterior",
-    "SAVE SNAPSHOT": "GUARDAR INSTANTÁNEA"
-  },
   "muxspace": {
+    "External Storage": "Almacenamiento externo",
+    "Primary Storage": "Almacenamiento primario",
     "STORAGE SPACE": "ESPACIO DE ALMACENAMIENTO",
+    "Secondary Storage": "Almacenamiento secundario",
+    "System Storage": "Almacenamiento del sistema",
     "View the current used space of the mounted storage devices": "Ver el espacio utilizado actualmente de los dispositivos de almacenamiento montados"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "Núcleo asignado/Sistema Gobernador",
     "Background Music": "Música de fondo",
+    "Bootlogo Packages": "Paquetes del logotipo de arranque",
     "Catalogue Packages": "Paquetes de catálogo",
     "Content Collection": "Colección de contenido",
     "Friendly Name System": "Sistema de Nombres Amigables",
@@ -437,6 +468,7 @@
     "Location of User Initialisation scripts": "Ubicación de los scripts de Inicialización de Usuario",
     "Location of assigned core and governor configurations": "Ubicación de las configuraciones asignadas del núcleo y del gobernador",
     "Location of background music": "Ubicación de la música de fondo",
+    "Location of bootlogo packages": "Ubicación de los paquetes del logotipo de arranque",
     "Location of catalogue packages": "Ubicación de los paquetes del catálogo",
     "Location of content collection": "Ubicación de la colección de contenidos",
     "Location of content images and text": "Ubicación de imágenes y textos de contenido",
@@ -487,9 +519,9 @@
     "muOS Version": "Versión de muOS"
   },
   "muxtag": {
-    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
-    "No Tags Found…": "No Tags Found…",
-    "TAG": "TAG"
+    "Change the tag of your current selected content to make it stand out": "Cambia la etiqueta de tu contenido seleccionado actual para que destaque",
+    "No Tags Found…": "No se han encontrado etiquetas…",
+    "TAG": "ETIQUETA"
   },
   "muxtask": {
     "No Tasks Found": "No se encontraron tareas",

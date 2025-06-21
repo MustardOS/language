@@ -92,9 +92,11 @@
     "Storage": "저장소"
   },
   "muxconnect": {
+    "Android Debug Bridge": "안드로이드 디버그 브릿지",
     "Bluetooth": "블루투스",
     "CONNECTIVITY": "연결",
     "Connect to a Wi-Fi network manually or via a saved profile": "수동으로 또는 저장된 프로필을 통해 Wi-Fi 네트워크에 연결",
+    "Media Transfer Protocol": "미디어 트랜스퍼 프로토콜",
     "Toggle a range of configurable services you can access via an active network": "네트워크 활성을 통해 액세스할 수 있는 구성 가능한 서비스를 토글",
     "Toggle between ADB and MTP USB functionality": "USB의 기능을 ADB 또는 MTP 로 전환",
     "Toggle the visibility of the bluetooth glyph": "블루투스 기호 표시 여부를 토글",
@@ -187,9 +189,7 @@
   },
   "muxinfo": {
     "Access network information": "네트워크 정보에 액세스",
-    "Access statistics of played content and other activity": "플레이한 콘텐츠 및 기타 활동 통계에 액세스",
     "Access version information and system details": "버전 정보 및 시스템 세부 정보에 액세스",
-    "Activity Tracker": "액티비티 트래커",
     "INFORMATION": "정보",
     "Input Tester": "인풋 테스트기",
     "Network Details": "네트워크 상세",
@@ -201,6 +201,40 @@
     "View all of the current muOS supporters": "감사 인사와 현재 muOS 지원자를 모두 확인함",
     "View all of the screenshots taken on the device": "기기에서 촬영한 모든 스크린샷 보기",
     "View the current used space of the mounted storage devices": "마운트된 저장 장치의 현재 사용된 공간 보기"
+  },
+  "muxkiosk": {
+    "Advanced Settings": "고급 설정",
+    "Applications": "어플리케이션",
+    "Archive Manager": "아카이브 매니저",
+    "Collections": "컬렉션",
+    "Configuration": "구성",
+    "Content Core": "콘텐츠 코어",
+    "Content Explorer": "콘텐츠 탐색기",
+    "Content Governor": "콘텐츠 거버너",
+    "Content Options": "콘텐츠 옵션",
+    "Content Search": "콘텐츠 검색",
+    "Content Tag": "콘텐츠 태그",
+    "Custom Bootlogo": "커스텀 부트로고",
+    "Custom Catalogue": "커스텀 카탈로그",
+    "Custom RetroArch Configs": "커스텀 레트로아크 컨피그",
+    "Custom Themes": "커스텀 테마",
+    "Customisation": "맞춤화",
+    "Date and Time": "날짜와 시간",
+    "General Settings": "일반 설정",
+    "HDMI Settings": "HDMI 설정",
+    "History": "최근 실행",
+    "Information": "정보",
+    "Interface Options": "인터페이스 옵션",
+    "KIOSK SETTINGS": "키오스크 설정",
+    "Kiosk Mode": "키오스크 모드",
+    "Language": "언어",
+    "Power Settings": "전원 설정",
+    "RetroArch Kiosk": "레트로아크 키오스크",
+    "Storage": "저장소",
+    "Task Toolkit": "태스크 툴킷",
+    "Timezone": "타임존",
+    "Web Services": "웹 서비스",
+    "Wi-Fi Network": "Wi-Fi 네트워크"
   },
   "muxlanguage": {
     "LANGUAGE": "언어",
@@ -229,7 +263,7 @@
     "Reboot your device safely": "장치를 안전하게 재부팅",
     "Shut down your device safely": "장치를 안전하게 시스템 종료",
     "Shutdown": "시스템 종료",
-    "Various applications can be found and launched here": "다양한 애플리케이션을 찾아 실행",
+    "Various applications can be found and launched here": "다양한 어플리케이션을 찾아 실행",
     "Various configurations can be changed here": "다양한 구성을 변경",
     "Various information can be found and launched here": "다양한 정보를 확인하고 실행"
   },
@@ -307,9 +341,6 @@
     "WI-FI NETWORK": "WI-FI 네트워크"
   },
   "muxoption": {
-    "Assign Core": "코어 할당",
-    "Assign Governor": "Assign Governor",
-    "Assign Tag": "Assign Tag",
     "CONTENT OPTION": "콘텐츠 옵션",
     "Core": "코어",
     "Current": "현재",
@@ -317,14 +348,14 @@
     "Governor": "거버너",
     "Individual": "파일",
     "Name": "파일명",
-    "None": "None",
+    "None": "없음",
     "Not Assigned": "할당되지 않음",
-    "Search Content": "콘텐츠 검색",
+    "Search": "검색",
     "Search for content within the selected directory": "선택한 폴더 내의 콘텐츠 검색",
     "Set the CPU governor for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 CPU 거버너를 설정",
-    "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
+    "Set the specific tag of the content selected to change the glyph": "글리프를 변경하기 위해 선택된 콘텐츠의 특정 태그를 설정",
     "Set the system core or external emulator for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 시스템 코어 또는 외부 에뮬레이터 설정",
-    "Tag": "Tag"
+    "Tag": "태그"
   },
   "muxpass": {
     "PASSCODE": "패스코드"
@@ -405,25 +436,25 @@
     "Search Local": "로컬 검색",
     "Search all current active storage devices": "현재 활성화된 모든 저장소 검색",
     "Search within the current selected folder and folders within": "현재 선택된 폴더 및 그 안에 있는 폴더 내에서 검색",
-    "Searching…": "탐색 중…"
+    "Searching…": "검색 중…"
   },
   "muxshot": {
     "No Screenshots Found": "스크린샷 없음",
     "SCREENSHOTS": "스크린샷",
     "View your current screenshots": "현재 스크린샷을 보여줌"
   },
-  "muxsnapshot": {
-    "No Save Snapshots Found": "저장 스냅샷을 찾을 수 없음",
-    "Restore your saved game progress from a previous snapshot": "이전 스냅샷으로부터 저장된 게임 진행을 복원",
-    "SAVE SNAPSHOT": "스냅샷 저장"
-  },
   "muxspace": {
+    "External Storage": "외부 저장소",
+    "Primary Storage": "1차 저장소",
     "STORAGE SPACE": "저장 공간",
+    "Secondary Storage": "2차 저장소",
+    "System Storage": "시스템 저장소",
     "View the current used space of the mounted storage devices": "마운트된 저장 장치의 현재 사용된 공간 보기"
   },
   "muxstorage": {
     "Assigned Core/Governor System": "할당된 코어/거버너 시스템",
     "Background Music": "배경 음악",
+    "Bootlogo Packages": "부트로고 패키지",
     "Catalogue Packages": "카탈로그 패키지",
     "Content Collection": "콘텐츠 컬렉션",
     "Friendly Name System": "친숙한 이름 시스템",
@@ -437,6 +468,7 @@
     "Location of User Initialisation scripts": "사용자 초기화 스크립트의 위치",
     "Location of assigned core and governor configurations": "할당된 코어와 거버너 구성 위치",
     "Location of background music": "배경 음악 위치",
+    "Location of bootlogo packages": "부트로고 패키지 위치",
     "Location of catalogue packages": "카탈로그 패키지 위치",
     "Location of content collection": "콘텐츠 컬렉션 위치",
     "Location of content images and text": "콘텐츠 이미지와 텍스트 위치",
@@ -487,9 +519,9 @@
     "muOS Version": "muOS 버전"
   },
   "muxtag": {
-    "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
-    "No Tags Found…": "No Tags Found…",
-    "TAG": "TAG"
+    "Change the tag of your current selected content to make it stand out": "현재 선택한 콘텐츠의 태그를 변경해 눈에 띄게 하기",
+    "No Tags Found…": "태그가 없음…",
+    "TAG": "태그"
   },
   "muxtask": {
     "No Tasks Found": "태스크가 없음",
