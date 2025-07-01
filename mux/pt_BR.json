@@ -204,9 +204,9 @@
   "muxdanger": {
     "Amount of data preloaded in memory before it's requested\n\nLarger values improve sequential read performance": "Amount of data preloaded in memory before it's requested\n\nLarger values improve sequential read performance",
     "Automatically adjusts scheduler behaviour based on CPU count\n\nDisable for consistent tuning on devices": "Automatically adjusts scheduler behaviour based on CPU count\n\nDisable for consistent tuning on devices",
-    "Background Write Back": "Background Write Back",
-    "Background write back starts when dirty data exceeds this percentage of RAM\n\nLower values help reduce latency": "Background write back starts when dirty data exceeds this percentage of RAM\n\nLower values help reduce latency",
-    "Cache Reclamation": "Cache Reclamation",
+    "Background Write Back": "Write Back em Segundo Plano",
+    "Background write back starts when dirty data exceeds this percentage of RAM\n\nLower values help reduce latency": "Write back começa quando dados excedem essa porcentagem da RAM  \n\nValores baixos ajudam a reduzir latência",
+    "Cache Reclamation": "Recuperação do Cache",
     "Controls how aggressively the system swaps memory to disk\n\nLower values keep processes in RAM longer": "Controls how aggressively the system swaps memory to disk\n\nLower values keep processes in RAM longer",
     "Controls how kernel merges I/O requests\n\nDisabling merges may benefit specific flash storage performance": "Controls how kernel merges I/O requests\n\nDisabling merges may benefit specific flash storage performance",
     "DANGEROUS": "DANGEROUS",
