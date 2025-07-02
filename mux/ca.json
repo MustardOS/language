@@ -25,7 +25,7 @@
     "Not Connected": "No connectat",
     "Open": "Obrir",
     "Previous": "Anterior",
-    "Rebooting…": "Rebooting…",
+    "Rebooting…": "Reiniciant…",
     "Recursive": "Recursiu",
     "Remove": "Eliminar",
     "Rescan": "Reescanejar",
@@ -33,12 +33,12 @@
     "Save": "Guardar",
     "Saving…": "Guardant…",
     "Select": "Seleccionar",
-    "Shutting Down…": "Shutting Down…",
+    "Shutting Down…": "Apagant…",
     "Switch to Information": "Canviar a informació",
     "Switch to Preview Image": "Canviar a previsualització d'imatge",
     "Sync to SD1": "Sincronitzar a SD1",
     "This is disabled in kiosk mode!": "Això està deshabilitat al mode quiosc!",
-    "Top": "Top",
+    "Top": "Dalt",
     "Unknown": "Desconegut",
     "Use": "Utilitzar",
     "User Defined": "Definit per l'usuari"
@@ -64,7 +64,7 @@
     "This is where you can assign a core or external emulator to content": "Aquí pots assignar un nucli o un emulador extern al contingut"
   },
   "muxbackup": {
-    "Assigned Core/Governor System": "Assigned Core/Governor System",
+    "Assigned Core/Governor System": "Nucli asignat/Governador del sistema",
     "Background Music": "Background Music",
     "Backup Target": "Backup Target",
     "Bootlogo Packages": "Bootlogo Packages",
