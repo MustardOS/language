@@ -204,15 +204,15 @@
   "muxdanger": {
     "Amount of data preloaded in memory before it's requested\n\nLarger values improve sequential read performance": "Quantità di dati precaricati in memoria prima di essere richiesti\n\nValori più grandi migliorano le prestazioni di lettura sequenziale",
     "Automatically adjusts scheduler behaviour based on CPU count\n\nDisable for consistent tuning on devices": "Regola automaticamente il comportamento dello scheduler in base al numero di core della CPU\n\nDisabilita per una regolazione coerente sui dispositivi",
-    "Background Write Back": "Background Write Back",
-    "Background write back starts when dirty data exceeds this percentage of RAM\n\nLower values help reduce latency": "Background write back inizia quando i dati sporchi eccedono questa percentuale di RAM\n\nValori più bassi aiutano a ridurre la latenza",
+    "Background Write Back": "Write Back di Background",
+    "Background write back starts when dirty data exceeds this percentage of RAM\n\nLower values help reduce latency": "Il write back di background inizia quando i dati sporchi eccedono questa percentuale di RAM\n\nValori più bassi aiutano a ridurre la latenza",
     "Cache Reclamation": "Recupero Cache",
     "Controls how aggressively the system swaps memory to disk\n\nLower values keep processes in RAM longer": "Controlla l'aggressività con cui il sistema scambia la memoria swap con il disco\n\nValori più bassi mantengono più a lungo i processi nella RAM",
     "Controls how kernel merges I/O requests\n\nDisabling merges may benefit specific flash storage performance": "Controlla come il kernel combina le richieste I/Os\n\nDisabilitare le combinazioni può beneficiare specifici sistemi di archiviazione flash",
     "DANGEROUS": "PERICOLOSO",
     "Enables or disables tracking of per-device I/O statistics\n\nDisabling may improve performance slightly": "Abilita o disabilita il tracciamento delle statistiche di I/O per dispositivo.\n\nLa disattivazione può migliorare leggermente le prestazioni",
     "Flushes dirty data on idle instead of using write back thresholds\n\nUseful for flash storage or reducing idle power": "Elimina i dati sporchi in idle invece di utilizzare le soglie di write back\n\nUtile per memorie flash o per ridurre il consumo in idle",
-    "Fork Optimisation": "Fork Optimisation",
+    "Fork Optimisation": "Ottimizzazione Sottoprocessi",
     "Higher values reclaim cached file data more aggressively\n\nLower values improve performance for repeated file access": "Valori più alti recuperano in modo più aggressivo i dati nella cache\n\nValori più bassi migliorano le prestazioni per l'accesso ripetuto ai file",
     "How long real-time tasks run before switching\n\nLower values favour responsiveness, higher values favour throughput": "Quanto durano le attività in tempo reale prima dello switching\n\nValori più bassi favoriscono la reattività, valori più alti favoriscono il throughput",
     "I/O Merge Policy": "Politica di Combinazione I/O",
@@ -228,7 +228,7 @@
     "Swap Read-Ahead": "Lettura Anticipata Swap",
     "Swap Tendency": "Tendenza Swap",
     "When enabled, a newly forked child process runs before the parent\n\nMay improve load times for some apps": "When enabled, a newly forked child process runs before the parent\n\nPuò migliorare i tempi di caricamento di alcune applicazioni",
-    "Write Back Threshold": "Write Back Threshold"
+    "Write Back Threshold": "Soglia Write Back"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configura i governor della CPU per regolare dinamicamente la frequenza della CPU e aiutare a bilanciare il consumo energetico e le prestazioni",
