@@ -227,7 +227,7 @@
     "Sets the maximum number of queued I/O requests per device\n\nHigher values increase throughput but use more RAM": "Imposta il numero massimo di richieste di I/O in coda per dispositivo.\n\nValori più alti aumentano il throughput ma utilizzano più RAM",
     "Swap Read-Ahead": "Lettura Anticipata Swap",
     "Swap Tendency": "Tendenza Swap",
-    "When enabled, a newly forked child process runs before the parent\n\nMay improve load times for some apps": "When enabled, a newly forked child process runs before the parent\n\nPuò migliorare i tempi di caricamento di alcune applicazioni",
+    "When enabled, a newly forked child process runs before the parent\n\nMay improve load times for some apps": "Quando abilitato, un nuovo sottoprocesso figlio viene eseguito prima del processo padre\n\nPuò migliorare i tempi di caricamento di alcune applicazioni",
     "Write Back Threshold": "Soglia Write Back"
   },
   "muxgov": {
