@@ -202,7 +202,7 @@
     "Top Right": "Alto - Destra"
   },
   "muxdanger": {
-    "Amount of data preloaded in memory before it's requested\n\nLarger values improve sequential read performance": "Quantità di dati precaricati in memoria prima di essere richiesti\n\nValori maggiori migliorano le prestazioni di lettura sequenziale",
+    "Amount of data preloaded in memory before it's requested\n\nLarger values improve sequential read performance": "Quantità di dati precaricati in memoria prima di essere richiesti\n\nValori  alti migliorano le prestazioni di lettura sequenziale",
     "Automatically adjusts scheduler behaviour based on CPU count\n\nDisable for consistent tuning on devices": "Regola automaticamente il comportamento dello scheduler in base al numero di core della CPU\n\nDisabilita per una regolazione coerente sui dispositivi",
     "Background Write Back": "Background Write Back",
     "Background write back starts when dirty data exceeds this percentage of RAM\n\nLower values help reduce latency": "Background write back inizia quando i dati inutili eccedono questa percentuale di RAM\n\nValori più bassi aiutano a ridurre la latenza",
