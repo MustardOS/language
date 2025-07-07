@@ -74,6 +74,7 @@
     "Friendly Name System": "Nome Descrittivo del Sistema",
     "History": "Recenti",
     "Languages": "Linguaggio",
+    "Location of External Emulator files (e.g. PPSSPP, Pico-8, Dreamcast, Drastic)": "Location of External Emulator files (e.g. PPSSPP, Pico-8, Dreamcast, Drastic)",
     "Location of Language files": "Posizione dei file di Linguaggio",
     "Location of Network Profiles": "Posizione dei Profili di Rete",
     "Location of RetroArch configuration packages": "Posizione dei pacchetti di configurazione di RetroArch",
@@ -100,6 +101,7 @@
     "RetroArch System": "RetroArch di Sistema",
     "Save Games + Save States": "Salvataggi Giochi + Salvataggi Stato",
     "Screenshots": "Schermate",
+    "Standalone Emulator Files": "Standalone Emulator Files",
     "Start Backup": "Inizia il Backup",
     "Start the backup process for the selected items": "Inizia il backup per gli elementi selezionati",
     "Syncthing Configs": "Configurazioni Syncthing",
@@ -682,6 +684,7 @@
     "Content Collection": "Collezioni",
     "Content Explorer": "Esplora Contenuti",
     "Date and Time": "Data e Ora",
+    "Device RGB Lights": "Device RGB Lights",
     "Device Startup": "Avvio del Dispositivo",
     "GENERAL SETTINGS": "IMPOSTAZIONI GENERALI",
     "HDMI Output": "Uscita HDMI",
@@ -691,6 +694,7 @@
     "Resume Game": "Riprendi Gioco",
     "Settings that should only be changed by those who know what they are doing!": "Impostazioni che dovrebbero essere cambiate solo da chi sa quello che sta facendo!",
     "Settings to change the HDMI output of the device": "Impostazioni per cambiare l'uscita HDMI del dispositivo",
+    "Toggle the device fancy RGB light system": "Toggle the device fancy RGB light system",
     "Volume": "Volume"
   },
   "muxvisual": {
