@@ -111,16 +111,16 @@
     "User Init Scripts": "Brukerinitieringsskript"
   },
   "muxcharge": {
-    "Booting System - Please Wait…": "Vekker systemet - Vennligst vent…",
+    "Booting System - Please Wait…": "Starter opp systemet - Vennligst vent…",
     "Capacity": "Kapasitet",
-    "Press POWER button to continue booting…": "Trykk på POWER-knaooen for å fortsette oppstart…",
-    "Voltage": "Voltage"
+    "Press POWER button to continue booting…": "Trykk på POWER-knappen for å fortsette oppstart…",
+    "Voltage": "Spenning"
   },
   "muxcollect": {
-    "COLLECTIONS": "COLLECTIONS",
-    "Collection folder is not empty": "Collection folder is not empty",
-    "Error loading content file": "Error loading content file",
-    "Error removing from Collections": "Error removing from Collections",
+    "COLLECTIONS": "SAMLINGER",
+    "Collection folder is not empty": "Samlings-mappe er ikke tom",
+    "Error loading content file": "Feilmelding: kan ikke laste inn innholds-fil",
+    "Error removing from Collections": "Det skjedde en feil under fjerning fra Samlinger",
     "Nothing Saved Yet…": "Nothing Saved Yet…"
   },
   "muxconfig": {
