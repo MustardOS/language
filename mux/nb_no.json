@@ -119,17 +119,17 @@
   "muxcollect": {
     "COLLECTIONS": "SAMLINGER",
     "Collection folder is not empty": "Samlings-mappe er ikke tom",
-    "Error loading content file": "Feilmelding: kan ikke laste inn innholds-fil",
+    "Error loading content file": "Det skjedde en feil under innlasting av innholds-fil",
     "Error removing from Collections": "Det skjedde en feil under fjerning fra Samlinger",
-    "Nothing Saved Yet…": "Nothing Saved Yet…"
+    "Nothing Saved Yet…": "Ingenting Lagret Enda…"
   },
   "muxconfig": {
-    "CONFIGURATION": "CONFIGURATION",
-    "Connectivity": "Connectivity",
-    "Customisation": "Customisation",
-    "Customise your muOS setup with user created packages": "Customise your muOS setup with user created packages",
-    "Device Backup": "Device Backup",
-    "Device specific and muOS frontend settings can be found here": "Device specific and muOS frontend settings can be found here",
+    "CONFIGURATION": "KONFIGURASJON",
+    "Connectivity": "Tilkobling",
+    "Customisation": "Tilpasning",
+    "Customise your muOS setup with user created packages": "Tilpass muOS-oppsettet ditt med pakker laget av brukere",
+    "Device Backup": "Enhet Sikkerhetskopiering",
+    "Device specific and muOS frontend settings can be found here": "Innstillinger særegent for enheten og muOS frontend kan bli funnet her",
     "Find out what storage device core settings and configurations are mounted": "Find out what storage device core settings and configurations are mounted",
     "General Settings": "General Settings",
     "Interface Options": "Interface Options",
