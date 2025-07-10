@@ -74,6 +74,7 @@
     "Friendly Name System": "Friendly Name System",
     "History": "History",
     "Languages": "Languages",
+    "Location of External Emulator files (e.g. PPSSPP, Pico-8, Dreamcast, Drastic)": "Location of External Emulator files (e.g. PPSSPP, Pico-8, Dreamcast, Drastic)",
     "Location of Language files": "Location of Language files",
     "Location of Network Profiles": "Location of Network Profiles",
     "Location of RetroArch configuration packages": "Location of RetroArch configuration packages",
@@ -100,6 +101,7 @@
     "RetroArch System": "RetroArch System",
     "Save Games + Save States": "Save Games + Save States",
     "Screenshots": "Screenshots",
+    "Standalone Emulator Files": "Standalone Emulator Files",
     "Start Backup": "Start Backup",
     "Start the backup process for the selected items": "Start the backup process for the selected items",
     "Syncthing Configs": "Syncthing Configs",
@@ -682,6 +684,7 @@
     "Content Collection": "コンテンツコレクション",
     "Content Explorer": "コンテンツ一覧",
     "Date and Time": "日付と時刻",
+    "Device RGB Lights": "Device RGB Lights",
     "Device Startup": "起動時メニュー",
     "GENERAL SETTINGS": "一般設定",
     "HDMI Output": "HDMI 出力",
@@ -691,6 +694,7 @@
     "Resume Game": "中断しているゲームを再開",
     "Settings that should only be changed by those who know what they are doing!": "詳細を理解している人たちのための設定です!",
     "Settings to change the HDMI output of the device": "デバイスのHDMI出力の設定を変更します",
+    "Toggle the device fancy RGB light system": "Toggle the device fancy RGB light system",
     "Volume": "音量"
   },
   "muxvisual": {

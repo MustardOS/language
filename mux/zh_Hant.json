@@ -74,6 +74,7 @@
     "Friendly Name System": "友善名稱系統",
     "History": "遊玩紀錄",
     "Languages": "語言",
+    "Location of External Emulator files (e.g. PPSSPP, Pico-8, Dreamcast, Drastic)": "外部模擬器檔案路徑(例: PPSSPP, Pico-8, Dreamcast, Drastic)",
     "Location of Language files": "語言檔案路徑",
     "Location of Network Profiles": "網路設定檔路徑",
     "Location of RetroArch configuration packages": "RetroArch配置集的位置",
@@ -100,6 +101,7 @@
     "RetroArch System": "RetroArch系統",
     "Save Games + Save States": "遊戲存檔 + 即時存檔",
     "Screenshots": "螢幕截圖",
+    "Standalone Emulator Files": "獨立模擬器文件",
     "Start Backup": "開始備份",
     "Start the backup process for the selected items": "啟動所選項目的備份進程",
     "Syncthing Configs": "Syncthing配置",
@@ -682,6 +684,7 @@
     "Content Collection": "內容收藏夾",
     "Content Explorer": "內容瀏覽器",
     "Date and Time": "日期和時間",
+    "Device RGB Lights": "裝置RGB燈光",
     "Device Startup": "設備啟動",
     "GENERAL SETTINGS": "通用設定",
     "HDMI Output": "HDMI輸出",
@@ -691,6 +694,7 @@
     "Resume Game": "繼續遊戲",
     "Settings that should only be changed by those who know what they are doing!": "只有您知道自己在做什麼的情況下才能更改!",
     "Settings to change the HDMI output of the device": "更改設備HDMI輸出的設置",
+    "Toggle the device fancy RGB light system": "切換設備RGB燈光效果",
     "Volume": "音量"
   },
   "muxvisual": {
