@@ -89,7 +89,7 @@
     "Location of content images and text": "Ubicació de les imatges i text de contingut",
     "Location of friendly name configurations": "Ubicació de la configuració de noms identificables",
     "Location of history": "Ubicació del historial",
-    "Location of muOS Settings and Configuration": "Location of muOS Settings and Configuration",
+    "Location of muOS Settings and Configuration": "Localització d'Ajustaments i Configuració de muOS",
     "Location of save states and files": "Ubicació dels estats de guardat i fitxers",
     "Location of screenshots": "Ubicació de les captures de pantalla",
     "Location of system BIOS files": "Ubicació dels fitxers BIOS",
@@ -110,7 +110,7 @@
     "Themes": "Temes",
     "Toggle the target storage device for the backup": "Canvia el dispositiu d’emmagatzematge de destinació per a la còpia de seguretat",
     "User Init Scripts": "Scripts d'inicialització personalitzats",
-    "muOS Settings": "muOS Settings"
+    "muOS Settings": "Ajustaments de muOS"
   },
   "muxcharge": {
     "Booting System - Please Wait…": "Arrencant sistema - Un moment…",
@@ -401,8 +401,8 @@
     "DNS Server": "Servidor DNS",
     "Device IP": "IP del dispositiu",
     "Disconnect": "Desconnectar",
-    "Enables network connection to be established automatically at boot": "Enables network connection to be established automatically at boot",
-    "Enables periodic connectivity checks and triggers reconnection if network loss is detected": "Enables periodic connectivity checks and triggers reconnection if network loss is detected",
+    "Enables network connection to be established automatically at boot": "Permet a la connexió a la xarxa ser establida automàticament en arrencar",
+    "Enables periodic connectivity checks and triggers reconnection if network loss is detected": "Activa comprobacions periòdiques de connectivitat i reconecta si es detecta una pèrdua de connexió.",
     "Encrypting Password…": "Xifrant la contrasenya…",
     "Enter the device IP address here (Static only)": "Introdueix l'adreça IP del dispositiu aquí",
     "Enter the device Subnet (CIDR) number here (Static only)": "Introdueix el número de subxarxa (CIDR) del dispositiu aquí",
@@ -420,7 +420,7 @@
     "Please check network settings": "Si us plau, revisa la configuració de xarxa",
     "Profiles": "Perfils",
     "Scan": "Escanejar",
-    "Start Network on Boot": "Start Network on Boot",
+    "Start Network on Boot": "Activar Xarxa al Arrencar",
     "Static": "Estàtica",
     "Subnet CIDR": "CIDR de subxarxa",
     "Toggle between DHCP and Static network types": "Alterna entre tipus de xarxa DHCP i Estàtic",
