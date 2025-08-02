@@ -213,6 +213,7 @@
     "Cache Reclamation": "Oslobađanje keš memorije",
     "Controls how aggressively the system swaps memory to disk\n\nLower values keep processes in RAM longer": "Kontroliše koliko agresivno sistem koristi swap memoriju\n\nNiže vrednosti zadržavaju procese duže u RAM memoriji",
     "Controls how kernel merges I/O requests\n\nDisabling merges may benefit specific flash storage performance": "Kontroliše kako kernel spaja I/O zahteve\n\nIsključivanje spajanja može poboljšati performanse kod određenih flash uređaja",
+    "DANGER SETTINGS": "DANGER SETTINGS",
     "Disk Tuning": "Optimizacija diska",
     "Enables or disables tracking of per-device I/O statistics\n\nDisabling may improve performance slightly": "Omogućava ili onemogućava praćenje I/O statistike po uređaju\n\nIsključivanje može blago poboljšati performanse",
     "Flushes dirty data on idle instead of using write back thresholds\n\nUseful for flash storage or reducing idle power": "Čisti „prljave“ podatke kada je sistem u mirovanju, umesto po zadatim pragovima za upis\n\nKoristno za flash memoriju ili smanjenje potrošnje energije u stanju mirovanja",
@@ -236,6 +237,23 @@
     "Switch between system sleep suspend states\n\nChanges how the device reacts to sleep mode and wake locks": "Switch between system sleep suspend states\n\nChanges how the device reacts to sleep mode and wake locks",
     "When enabled, a newly forked child process runs before the parent\n\nMay improve load times for some apps": "When enabled, a newly forked child process runs before the parent\n\nMay improve load times for some apps",
     "Write Back Threshold": "Write Back Threshold"
+  },
+  "muxdevice": {
+    "Bluetooth Integration": "Bluetooth Integration",
+    "DEVICE SETTINGS": "DEVICE SETTINGS",
+    "HDMI Integration": "HDMI Integration",
+    "Kernel Level DebugFS": "Kernel Level DebugFS",
+    "Lid Switch Integration": "Lid Switch Integration",
+    "Network Integration": "Network Integration",
+    "Portmaster Support": "Portmaster Support",
+    "RGB LED Integration": "RGB LED Integration",
+    "Toggles Bluetooth integration on device": "Toggles Bluetooth integration on device",
+    "Toggles HDMI integration on device": "Toggles HDMI integration on device",
+    "Toggles Network integration on device": "Toggles Network integration on device",
+    "Toggles RGB LED integration on device": "Toggles RGB LED integration on device",
+    "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!",
+    "Toggles internal Portmaster support on device": "Toggles internal Portmaster support on device",
+    "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Podesite upravljače procesora (CPU governors) da dinamički prilagođavaju frekvenciju procesora i pomognu u balansiranju potrošnje energije i performansi",
