@@ -213,6 +213,7 @@
     "Cache Reclamation": "캐시 회수",
     "Controls how aggressively the system swaps memory to disk\n\nLower values keep processes in RAM longer": "시스템이 메모리를 디스크로 얼마나 적극적으로 스왑하는지 제어\n\n값이 낮을수록 프로세스가 RAM에 더 오래 유지함",
     "Controls how kernel merges I/O requests\n\nDisabling merges may benefit specific flash storage performance": "커널이 I/O 요청을 병합하는 방식을 제어\n\n병합을 비활성화하면 특정 플래시 저장소 성능에 도움이 됨",
+    "DANGER SETTINGS": "DANGER SETTINGS",
     "Disk Tuning": "디스크 튜닝",
     "Enables or disables tracking of per-device I/O statistics\n\nDisabling may improve performance slightly": "기기별 I/O 통계 추적을 활성 또는 비활성\n\n비활성시 성능 약간 향상",
     "Flushes dirty data on idle instead of using write back thresholds\n\nUseful for flash storage or reducing idle power": "다시 쓰기 임계값 사용 대신 유휴 상태일 때 더티 데이터를 플러시함\n\n플래시 스토리지 또는 유휴 전력 절감에 유용",
@@ -236,6 +237,23 @@
     "Switch between system sleep suspend states\n\nChanges how the device reacts to sleep mode and wake locks": "시스템 절전 상태 방식 전환\n\n장치가 절전 모드 및 깨우기 잠금에 반응하는 방식을 변경",
     "When enabled, a newly forked child process runs before the parent\n\nMay improve load times for some apps": "활성화하면 새로 포크된 자식 프로세스가 부모 프로세스보다 먼저 실행\n\n일부 앱의 로드 시간이 향상될 수 있음",
     "Write Back Threshold": "다시 쓰기 임계값"
+  },
+  "muxdevice": {
+    "Bluetooth Integration": "Bluetooth Integration",
+    "DEVICE SETTINGS": "DEVICE SETTINGS",
+    "HDMI Integration": "HDMI Integration",
+    "Kernel Level DebugFS": "Kernel Level DebugFS",
+    "Lid Switch Integration": "Lid Switch Integration",
+    "Network Integration": "Network Integration",
+    "Portmaster Support": "Portmaster Support",
+    "RGB LED Integration": "RGB LED Integration",
+    "Toggles Bluetooth integration on device": "Toggles Bluetooth integration on device",
+    "Toggles HDMI integration on device": "Toggles HDMI integration on device",
+    "Toggles Network integration on device": "Toggles Network integration on device",
+    "Toggles RGB LED integration on device": "Toggles RGB LED integration on device",
+    "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!",
+    "Toggles internal Portmaster support on device": "Toggles internal Portmaster support on device",
+    "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU 주파수를 동적으로 조정하고 전력 소비와 성능의 균형을 유지하도록 CPU 거버너를 구성",
