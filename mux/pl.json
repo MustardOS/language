@@ -213,7 +213,6 @@
     "Cache Reclamation": "Odzyskiwanie pamięci podręcznej",
     "Controls how aggressively the system swaps memory to disk\n\nLower values keep processes in RAM longer": "Kontroluje, jak agresywnie system przemieszcza pamięć na dysk\n\nMniejsze wartości utrzymują procesy dłużej w RAM",
     "Controls how kernel merges I/O requests\n\nDisabling merges may benefit specific flash storage performance": "Kontroluje, jak jądro łączy żądania we/wy\n\nWyłączenie może poprawić wydajność pamięci flash",
-    "DANGEROUS": "NIEBEZPIECZNE",
     "Disk Tuning": "Dostrajanie dysku",
     "Enables or disables tracking of per-device I/O statistics\n\nDisabling may improve performance slightly": "Włącza lub wyłącza śledzenie statystyk we/wy urządzenia\n\nWyłączenie może odrobinę poprawić wydajność",
     "Flushes dirty data on idle instead of using write back thresholds\n\nUseful for flash storage or reducing idle power": "Czyści zmodyfikowane dane w stanie spoczynku zamiast używać progów wtórnego zapisu\n\nPrzydatne dla pamięci flash lub zmniejszenia zużycia energii w stanie spoczynku",

@@ -213,7 +213,6 @@
     "Cache Reclamation": "캐시 회수",
     "Controls how aggressively the system swaps memory to disk\n\nLower values keep processes in RAM longer": "시스템이 메모리를 디스크로 얼마나 적극적으로 스왑하는지 제어\n\n값이 낮을수록 프로세스가 RAM에 더 오래 유지함",
     "Controls how kernel merges I/O requests\n\nDisabling merges may benefit specific flash storage performance": "커널이 I/O 요청을 병합하는 방식을 제어\n\n병합을 비활성화하면 특정 플래시 저장소 성능에 도움이 됨",
-    "DANGEROUS": "위험",
     "Disk Tuning": "디스크 튜닝",
     "Enables or disables tracking of per-device I/O statistics\n\nDisabling may improve performance slightly": "기기별 I/O 통계 추적을 활성 또는 비활성\n\n비활성시 성능 약간 향상",
     "Flushes dirty data on idle instead of using write back thresholds\n\nUseful for flash storage or reducing idle power": "다시 쓰기 임계값 사용 대신 유휴 상태일 때 더티 데이터를 플러시함\n\n플래시 스토리지 또는 유휴 전력 절감에 유용",

@@ -213,7 +213,6 @@
     "Cache Reclamation": "Recuperació de Cache",
     "Controls how aggressively the system swaps memory to disk\n\nLower values keep processes in RAM longer": "Controla amb quina intensitat el sistema intercanvia memòria amb el disc.\n\nValors més baixos mantenen els processos a la RAM durant més temps",
     "Controls how kernel merges I/O requests\n\nDisabling merges may benefit specific flash storage performance": "Controla com el nucli combina les peticions d’entrada/sortida (E/S)\n\nDesactivar la combinació pot millorar el rendiment d’alguns dispositius d’emmagatzematge flash",
-    "DANGEROUS": "PERILLÓS",
     "Disk Tuning": "Configuració del disc",
     "Enables or disables tracking of per-device I/O statistics\n\nDisabling may improve performance slightly": "Activa o desactiva el seguiment de les estadístiques d’E/S per dispositiu\n\nDesactivar-ho pot millorar lleugerament el rendiment",
     "Flushes dirty data on idle instead of using write back thresholds\n\nUseful for flash storage or reducing idle power": "Esborra les dades modificades durant la inactivitat en lloc d’utilitzar els llindars d’escriptura\n\nÚtil per a emmagatzematge flash o per reduir el consum d’energia en repòs",

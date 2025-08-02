@@ -213,7 +213,6 @@
     "Cache Reclamation": "Восстановление кэша",
     "Controls how aggressively the system swaps memory to disk\n\nLower values keep processes in RAM longer": "Контролирует интенсивность создания файлов подкачки\n\nПри низких значениях процессы дольше остаются в оперативной памяти",
     "Controls how kernel merges I/O requests\n\nDisabling merges may benefit specific flash storage performance": "Контролирует как ядро объединяет запросы ввода-вывода\n\nОтключение объединений может повысить производительности определенных флэш-накопителей",
-    "DANGEROUS": "ОПАСНО",
     "Disk Tuning": "Disk Tuning",
     "Enables or disables tracking of per-device I/O statistics\n\nDisabling may improve performance slightly": "Управляет отслеживанием статистики ввода-вывода каждого устройства\n\nВыключение может немного увеличить производительность",
     "Flushes dirty data on idle instead of using write back thresholds\n\nUseful for flash storage or reducing idle power": "Удаляет мусорные данные в режиме ожидания вместо использования порога обратной записи\n\nПолезно для флэш-накопителей или снижения энергопотребления в режиме ожидания",

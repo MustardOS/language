@@ -213,7 +213,6 @@
     "Cache Reclamation": "Cache Reclamation",
     "Controls how aggressively the system swaps memory to disk\n\nLower values keep processes in RAM longer": "Controls how aggressively the system swaps memory to disk\n\nLower values keep processes in RAM longer",
     "Controls how kernel merges I/O requests\n\nDisabling merges may benefit specific flash storage performance": "Controls how kernel merges I/O requests\n\nDisabling merges may benefit specific flash storage performance",
-    "DANGEROUS": "危険",
     "Disk Tuning": "ディスク チューニング",
     "Enables or disables tracking of per-device I/O statistics\n\nDisabling may improve performance slightly": "Enables or disables tracking of per-device I/O statistics\n\nDisabling may improve performance slightly",
     "Flushes dirty data on idle instead of using write back thresholds\n\nUseful for flash storage or reducing idle power": "Flushes dirty data on idle instead of using write back thresholds\n\nUseful for flash storage or reducing idle power",

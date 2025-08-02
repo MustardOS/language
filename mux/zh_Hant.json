@@ -213,7 +213,6 @@
     "Cache Reclamation": "快取回收",
     "Controls how aggressively the system swaps memory to disk\n\nLower values keep processes in RAM longer": "控制系統將記憶體交換到磁碟的積極程度\n\n較低的值會使進程在 RAM 中停留更長時間",
     "Controls how kernel merges I/O requests\n\nDisabling merges may benefit specific flash storage performance": "控制核心如何合併 I/O 請求\n\n禁用合併可能會提高特定快閃記憶體的效能",
-    "DANGEROUS": "危險",
     "Disk Tuning": "磁碟讀寫調度",
     "Enables or disables tracking of per-device I/O statistics\n\nDisabling may improve performance slightly": "啟用或停用每個裝置 I/O 統計資訊的跟踪\n\n禁用可能會略微提升效能",
     "Flushes dirty data on idle instead of using write back thresholds\n\nUseful for flash storage or reducing idle power": "閒置時刷新廢棄數據，而非使用回寫閾值\n\n適用於快閃記憶體儲存或降低閒置時功耗",
