@@ -678,6 +678,7 @@
   },
   "muxtester": {
     "INPUT TESTER": "ТЕСТЕР НА БУТОНИТЕ",
+    "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "Натиснете който и да е бутон, за да започнете тестването!"
   },
   "muxtimezone": {
