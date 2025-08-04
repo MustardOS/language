@@ -501,7 +501,8 @@
     "Set the CPU governor for the selected content or directory": "為選定的內容或目錄設定CPU調速器",
     "Set the specific tag of the content selected to change the glyph": "為所選內容設定個別標籤以變更標記",
     "Set the system core or external emulator for the selected content or directory": "為所選內容或目錄設定系統核心或外部模擬器",
-    "Tag": "標籤"
+    "Tag": "標籤",
+    "Time Played": "Time Played"
   },
   "muxpass": {
     "PASSCODE": "密碼"
