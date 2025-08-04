@@ -678,6 +678,7 @@
   },
   "muxtester": {
     "INPUT TESTER": "按鍵測試",
+    "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "按任何鍵開始輸入測試！"
   },
   "muxtimezone": {
