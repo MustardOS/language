@@ -678,6 +678,7 @@
   },
   "muxtester": {
     "INPUT TESTER": "入力テスト",
+    "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "ボタンを押して入力テストを始めましょう!"
   },
   "muxtimezone": {
