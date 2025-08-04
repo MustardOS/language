@@ -678,6 +678,7 @@
   },
   "muxtester": {
     "INPUT TESTER": "TESTEUR DE COMMANDES",
+    "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "Appuyez sur une touche pour démarrer le test!"
   },
   "muxtimezone": {
