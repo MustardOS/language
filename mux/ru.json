@@ -678,6 +678,7 @@
   },
   "muxtester": {
     "INPUT TESTER": "ПРОВЕРКА КНОПОК",
+    "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "Нажмите любую кнопку для запуска проверки!"
   },
   "muxtimezone": {
