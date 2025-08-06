@@ -121,6 +121,7 @@
     "Voltage": "電壓"
   },
   "muxcollect": {
+    "COLLECTION": "COLLECTION",
     "Collection folder is not empty": "收藏夾不是空的",
     "Error loading content file": "載入內容檔案時出錯",
     "Error removing from Collections": "從收藏夾中刪除時出錯",
@@ -325,6 +326,7 @@
     "Allow viewing system information": "允許查看系統訊息",
     "Applications": "應用程式集",
     "Archive Manager": "檔案管理員",
+    "Collection Access": "Collection Access",
     "Collection Adding Content": "收藏夾添加內容",
     "Collection Folder Creation": "創建收藏夾",
     "Collection Removal": "收藏夾移除",
@@ -370,6 +372,7 @@
     "Permit power options such as shutdown or sleep": "允許關機或睡眠等電源選項",
     "Permit tagging and metadata changes": "允許標記和更改詮釋資料",
     "Power Settings": "電源設定",
+    "Restrict to specific 'kiosk' directory within collections": "Restrict to specific 'kiosk' directory within collections",
     "RetroArch Kiosk": "RetroArch資訊亭",
     "Storage": "儲存裝置",
     "Task Toolkit": "任務工具包",
