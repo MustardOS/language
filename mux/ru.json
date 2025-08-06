@@ -121,6 +121,7 @@
     "Voltage": "Напряжение"
   },
   "muxcollect": {
+    "COLLECTION": "COLLECTION",
     "Collection folder is not empty": "Папка коллекции не пуста",
     "Error loading content file": "Ошибка загрузки файла игры",
     "Error removing from Collections": "Ошибка удаления из коллекции",
@@ -325,6 +326,7 @@
     "Allow viewing system information": "Allow viewing system information",
     "Applications": "Приложения",
     "Archive Manager": "Менеджер архивов",
+    "Collection Access": "Collection Access",
     "Collection Adding Content": "Collection Adding Content",
     "Collection Folder Creation": "Collection Folder Creation",
     "Collection Removal": "Collection Removal",
@@ -370,6 +372,7 @@
     "Permit power options such as shutdown or sleep": "Permit power options such as shutdown or sleep",
     "Permit tagging and metadata changes": "Permit tagging and metadata changes",
     "Power Settings": "Настройки питания",
+    "Restrict to specific 'kiosk' directory within collections": "Restrict to specific 'kiosk' directory within collections",
     "RetroArch Kiosk": "RetroArch киоск",
     "Storage": "Память",
     "Task Toolkit": "Инструменты",
