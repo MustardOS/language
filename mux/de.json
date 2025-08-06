@@ -121,7 +121,6 @@
     "Voltage": "Spannung"
   },
   "muxcollect": {
-    "COLLECTIONS": "BIBLIOTHEK",
     "Collection folder is not empty": "In der Bibliothek ist bereits etwas enthalten",
     "Error loading content file": "Es ist ein Fehler beim Laden der Datei aufgetreten",
     "Error removing from Collections": "Es gab einen Fehler beim Entfernen aus der Bibliothek",

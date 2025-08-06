@@ -121,7 +121,6 @@
     "Voltage": "Napětí"
   },
   "muxcollect": {
-    "COLLECTIONS": "SBÍRKY",
     "Collection folder is not empty": "Složka kolekce není prázdná",
     "Error loading content file": "Chyba při načítání souboru obsahu",
     "Error removing from Collections": "Chyba při odebírání ze sbírek",

@@ -121,7 +121,6 @@
     "Voltage": "Voltas"
   },
   "muxcollect": {
-    "COLLECTIONS": "BAILIÚCHÁIN",
     "Collection folder is not empty": "Níl an fillteán bailiúcháin folamh",
     "Error loading content file": "Earráid agus an comhad ábhair á lódáil",
     "Error removing from Collections": "Earráid agus é á bhaint de na Bailiúcháin",

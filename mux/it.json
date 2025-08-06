@@ -121,7 +121,6 @@
     "Voltage": "Tensione"
   },
   "muxcollect": {
-    "COLLECTIONS": "COLLEZIONI",
     "Collection folder is not empty": "La Collezione non è vuota",
     "Error loading content file": "Errore nel caricamento del contenuto",
     "Error removing from Collections": "Errore durante la rimozione dalla Collezione",

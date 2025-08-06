@@ -121,7 +121,6 @@
     "Voltage": "Voltaža"
   },
   "muxcollect": {
-    "COLLECTIONS": "KOLEKCIJE",
     "Collection folder is not empty": "Folder kolekcije nije prazan",
     "Error loading content file": "Greška pri učitavanju fajla sa sadržajem",
     "Error removing from Collections": "Greška prilikom uklanjanja iz kolekcija",

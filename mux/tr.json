@@ -121,7 +121,6 @@
     "Voltage": "Voltaj"
   },
   "muxcollect": {
-    "COLLECTIONS": "COLLECTIONS",
     "Collection folder is not empty": "Collection folder is not empty",
     "Error loading content file": "Error loading content file",
     "Error removing from Collections": "Error removing from Collections",

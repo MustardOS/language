@@ -121,7 +121,6 @@
     "Voltage": "배터리 전압"
   },
   "muxcollect": {
-    "COLLECTIONS": "컬렉션",
     "Collection folder is not empty": "컬렉션 폴더가 비어 있음",
     "Error loading content file": "콘텐츠 파일 불러오기 에러",
     "Error removing from Collections": "컬렉션에서 제거 오류",

@@ -121,7 +121,6 @@
     "Voltage": "電壓"
   },
   "muxcollect": {
-    "COLLECTIONS": "收藏夾",
     "Collection folder is not empty": "收藏夾不是空的",
     "Error loading content file": "載入內容檔案時出錯",
     "Error removing from Collections": "從收藏夾中刪除時出錯",

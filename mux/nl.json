@@ -121,7 +121,6 @@
     "Voltage": "Spanning"
   },
   "muxcollect": {
-    "COLLECTIONS": "COLLECTIES",
     "Collection folder is not empty": "Collectie folder is niet leeg",
     "Error loading content file": "Fout bij laden van bestand",
     "Error removing from Collections": "Fout bij verwijderen van collecties",

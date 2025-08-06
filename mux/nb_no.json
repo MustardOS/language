@@ -121,7 +121,6 @@
     "Voltage": "Spenning"
   },
   "muxcollect": {
-    "COLLECTIONS": "SAMLINGER",
     "Collection folder is not empty": "Samlings-mappe er ikke tom",
     "Error loading content file": "Det skjedde en feil under innlasting av innholds-fil",
     "Error removing from Collections": "Det skjedde en feil under fjerning fra Samlinger",

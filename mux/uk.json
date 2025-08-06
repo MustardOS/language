@@ -121,7 +121,6 @@
     "Voltage": "Напруга"
   },
   "muxcollect": {
-    "COLLECTIONS": "КОЛЕКЦІЇ",
     "Collection folder is not empty": "Папка Колекції не пуста",
     "Error loading content file": "Помилка при завантаженні файлу контенту",
     "Error removing from Collections": "Помилка при видаленні з Колекцій",

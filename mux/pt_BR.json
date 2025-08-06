@@ -121,7 +121,6 @@
     "Voltage": "Voltagem"
   },
   "muxcollect": {
-    "COLLECTIONS": "FAVORITOS",
     "Collection folder is not empty": "A pasta de favoritos não está vazia",
     "Error loading content file": "Erro lendo o arquivo",
     "Error removing from Collections": "Erro removendo dos favoritos",
