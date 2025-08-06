@@ -121,7 +121,7 @@
     "Voltage": "Voltagem"
   },
   "muxcollect": {
-    "COLLECTION": "COLLECTION",
+    "COLLECTION": "COLEÇÃO",
     "Collection folder is not empty": "A pasta de favoritos não está vazia",
     "Error loading content file": "Erro lendo o arquivo",
     "Error removing from Collections": "Erro removendo dos favoritos",
@@ -326,7 +326,7 @@
     "Allow viewing system information": "Permitir a visualização de informações do sistema",
     "Applications": "Aplicativos",
     "Archive Manager": "Gerenciador de Arquivos",
-    "Collection Access": "Collection Access",
+    "Collection Access": "Acesso à Coleção",
     "Collection Adding Content": "Coleção Adicionando Conteúdo",
     "Collection Folder Creation": "Criação de Pasta de Coleção",
     "Collection Removal": "Remoção da Coleção",
@@ -372,7 +372,7 @@
     "Permit power options such as shutdown or sleep": "Permitir opções de energia como desligar ou suspender",
     "Permit tagging and metadata changes": "Permitir alterações nas tags e metadados",
     "Power Settings": "Configurações de Energia",
-    "Restrict to specific 'kiosk' directory within collections": "Restrict to specific 'kiosk' directory within collections",
+    "Restrict to specific 'kiosk' directory within collections": "Restringir a um diretório específico do modo quiosque dentro de coleções",
     "RetroArch Kiosk": "Quiosque do RetroArch",
     "Storage": "Armazenamento",
     "Task Toolkit": "Kit de Ferramentas",
