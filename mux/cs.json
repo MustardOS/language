@@ -121,6 +121,7 @@
     "Voltage": "Napětí"
   },
   "muxcollect": {
+    "COLLECTION": "COLLECTION",
     "Collection folder is not empty": "Složka kolekce není prázdná",
     "Error loading content file": "Chyba při načítání souboru obsahu",
     "Error removing from Collections": "Chyba při odebírání ze sbírek",
@@ -325,6 +326,7 @@
     "Allow viewing system information": "Povolit zobrazení informací o systému",
     "Applications": "Aplikace",
     "Archive Manager": "Správce Archivu",
+    "Collection Access": "Collection Access",
     "Collection Adding Content": "Sbírka přidání obsahu",
     "Collection Folder Creation": "Vytvoření složky kolekce",
     "Collection Removal": "Odstranění sbírky",
@@ -370,6 +372,7 @@
     "Permit power options such as shutdown or sleep": "Povolit možnosti napájení, jako je vypnutí nebo režim spánku",
     "Permit tagging and metadata changes": "Povolit změny označování a metadat",
     "Power Settings": "Nastavení Napájení",
+    "Restrict to specific 'kiosk' directory within collections": "Restrict to specific 'kiosk' directory within collections",
     "RetroArch Kiosk": "Kiosek RetroArch",
     "Storage": "Uložiště",
     "Task Toolkit": "Sada nástrojů",
