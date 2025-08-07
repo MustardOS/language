@@ -157,6 +157,11 @@
     "Web Services": "Web Servisi",
     "Wi-Fi Network": "Wi-Fi Mreža"
   },
+  "muxcontrol": {
+    "CONTROL": "CONTROL",
+    "Change the control scheme of your current selected content": "Change the control scheme of your current selected content",
+    "No Control Schemes Found…": "No Control Schemes Found…"
+  },
   "muxcustom": {
     "Allows for testing different theme resolutions": "Dopušta testiranje različtih rezolucija tema",
     "Alternative Theme": "Alternativna Tema",
@@ -318,6 +323,7 @@
     "Allow editing of network settings": "Dolusti uređivanje mrežnih postavki",
     "Allow modifying HDMI display settings": "Dopusti modificiranje HDMI postavka prikaza",
     "Allow searching for content": "Dopusti pretraživanje za sadržaj",
+    "Allow selection of content control scheme": "Allow selection of content control scheme",
     "Allow selection of content cores": "Dopusti selekciju jezgre sadržaja",
     "Allow selection of content governor": "Dopusti selekciju upravitelja sadržaja",
     "Allow user to migrate or sync user based content": "Dopusti korisniku na migrira ili sinkrinizira korisničke sadržaje",
@@ -332,6 +338,7 @@
     "Collection Removal": "Uklananje Kolekcija",
     "Collection Viewing": "Pregled Kolekcija",
     "Configuration": "Konfiguracija",
+    "Content Control Scheme": "Content Control Scheme",
     "Content Core": "Jezgra Sadržaja",
     "Content Explorer": "Eksplorer Sadržaja",
     "Content Governor": "Upravitelj Sadržaja",
@@ -349,6 +356,7 @@
     "Enable access to general settings": "Uključi pristup na općenite postavke",
     "Enable access to recently used content": "Uključi pristup nedavno korišten sadržaj",
     "Enable access to system configuration": "Uključi pristup konfiguraciji sistema",
+    "Enable or disable kiosk mode messages": "Enable or disable kiosk mode messages",
     "Enable or disable kiosk mode restrictions": "Uključi ili isključi kiosk mod ograničenja",
     "Enable or restrict RetroArch settings": "Uključi ili ograniči RetroArch postavke",
     "Enable use of web based features": "Uključi korištenje web bazirane značajke",
@@ -373,6 +381,7 @@
     "Permit tagging and metadata changes": "Dopusti označivanje i metadata promjene",
     "Power Settings": "Postavke za Napajanje",
     "Restrict to specific 'kiosk' directory within collections": "Ograniči na specifičnu 'kiosk' direktoriju unutar kolekcija",
+    "Restricted Messages": "Restricted Messages",
     "RetroArch Kiosk": "RetroArch Kiosk",
     "Storage": "Pohrana",
     "Task Toolkit": "Alati za Zadatke",
@@ -490,9 +499,11 @@
   },
   "muxoption": {
     "CONTENT OPTION": "OPCIJA ZA SADRŽAJ",
+    "Control Scheme": "Control Scheme",
     "Core": "Jezgra",
     "Current": "Struja",
     "Directory": "Direktorija",
+    "Glyph Tag": "Glyph Tag",
     "Governor": "Upravitelj",
     "Individual": "Pojedinac",
     "Name": "Naziv",
@@ -501,6 +512,7 @@
     "Search": "Potraži",
     "Search for content within the selected directory": "Pretraži sadržaj unutar odabrane direktorije",
     "Set the CPU governor for the selected content or directory": "Odredi CPU upravitelja za izabrani sadržaj ili direktorij",
+    "Set the control scheme for the selected content or directory": "Set the control scheme for the selected content or directory",
     "Set the specific tag of the content selected to change the glyph": "Odredi specifičnu oznaku za sadržaj odabran za promijenu glifa",
     "Set the system core or external emulator for the selected content or directory": "Odredite core sistema ili vanjski emulator za izabrani sadržaj ili direktorij",
     "Time Played": "Vrijeme Igrano"
