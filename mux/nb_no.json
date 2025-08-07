@@ -121,7 +121,7 @@
     "Voltage": "Spenning"
   },
   "muxcollect": {
-    "COLLECTIONS": "SAMLINGER",
+    "COLLECTION": "COLLECTION",
     "Collection folder is not empty": "Samlings-mappe er ikke tom",
     "Error loading content file": "Det skjedde en feil under innlasting av innholds-fil",
     "Error removing from Collections": "Det skjedde en feil under fjerning fra Samlinger",
@@ -326,6 +326,7 @@
     "Allow viewing system information": "Allow viewing system information",
     "Applications": "Applikasjoner",
     "Archive Manager": "Arkivbehandler",
+    "Collection Access": "Collection Access",
     "Collection Adding Content": "Collection Adding Content",
     "Collection Folder Creation": "Collection Folder Creation",
     "Collection Removal": "Collection Removal",
@@ -371,6 +372,7 @@
     "Permit power options such as shutdown or sleep": "Permit power options such as shutdown or sleep",
     "Permit tagging and metadata changes": "Permit tagging and metadata changes",
     "Power Settings": "Power Settings",
+    "Restrict to specific 'kiosk' directory within collections": "Restrict to specific 'kiosk' directory within collections",
     "RetroArch Kiosk": "RetroArch Kiosk",
     "Storage": "Storage",
     "Task Toolkit": "Task Toolkit",

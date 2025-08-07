@@ -121,7 +121,7 @@
     "Voltage": "배터리 전압"
   },
   "muxcollect": {
-    "COLLECTIONS": "컬렉션",
+    "COLLECTION": "COLLECTION",
     "Collection folder is not empty": "컬렉션 폴더가 비어 있음",
     "Error loading content file": "콘텐츠 파일 불러오기 에러",
     "Error removing from Collections": "컬렉션에서 제거 오류",
@@ -326,6 +326,7 @@
     "Allow viewing system information": "Allow viewing system information",
     "Applications": "어플리케이션",
     "Archive Manager": "아카이브 매니저",
+    "Collection Access": "Collection Access",
     "Collection Adding Content": "Collection Adding Content",
     "Collection Folder Creation": "Collection Folder Creation",
     "Collection Removal": "Collection Removal",
@@ -371,6 +372,7 @@
     "Permit power options such as shutdown or sleep": "Permit power options such as shutdown or sleep",
     "Permit tagging and metadata changes": "Permit tagging and metadata changes",
     "Power Settings": "전원 설정",
+    "Restrict to specific 'kiosk' directory within collections": "Restrict to specific 'kiosk' directory within collections",
     "RetroArch Kiosk": "레트로아크 키오스크",
     "Storage": "저장소",
     "Task Toolkit": "태스크 툴킷",

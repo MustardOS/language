@@ -121,7 +121,7 @@
     "Voltage": "Spannung"
   },
   "muxcollect": {
-    "COLLECTIONS": "BIBLIOTHEK",
+    "COLLECTION": "COLLECTION",
     "Collection folder is not empty": "In der Bibliothek ist bereits etwas enthalten",
     "Error loading content file": "Es ist ein Fehler beim Laden der Datei aufgetreten",
     "Error removing from Collections": "Es gab einen Fehler beim Entfernen aus der Bibliothek",
@@ -326,6 +326,7 @@
     "Allow viewing system information": "Allow viewing system information",
     "Applications": "Anwendungen",
     "Archive Manager": "Archiv-Manager",
+    "Collection Access": "Collection Access",
     "Collection Adding Content": "Collection Adding Content",
     "Collection Folder Creation": "Collection Folder Creation",
     "Collection Removal": "Collection Removal",
@@ -371,6 +372,7 @@
     "Permit power options such as shutdown or sleep": "Permit power options such as shutdown or sleep",
     "Permit tagging and metadata changes": "Permit tagging and metadata changes",
     "Power Settings": "Energieeinstellungen",
+    "Restrict to specific 'kiosk' directory within collections": "Restrict to specific 'kiosk' directory within collections",
     "RetroArch Kiosk": "RetroArch-Kiosk",
     "Storage": "Speicher",
     "Task Toolkit": "Aufgaben-Tools",

@@ -121,7 +121,7 @@
     "Voltage": "电压"
   },
   "muxcollect": {
-    "COLLECTIONS": "收藏",
+    "COLLECTION": "COLLECTION",
     "Collection folder is not empty": "收藏夹不为空",
     "Error loading content file": "加载内容文件出错",
     "Error removing from Collections": "从收藏中移除出错",
@@ -326,6 +326,7 @@
     "Allow viewing system information": "Allow viewing system information",
     "Applications": "Applications",
     "Archive Manager": "Archive Manager",
+    "Collection Access": "Collection Access",
     "Collection Adding Content": "Collection Adding Content",
     "Collection Folder Creation": "Collection Folder Creation",
     "Collection Removal": "Collection Removal",
@@ -371,6 +372,7 @@
     "Permit power options such as shutdown or sleep": "Permit power options such as shutdown or sleep",
     "Permit tagging and metadata changes": "Permit tagging and metadata changes",
     "Power Settings": "Power Settings",
+    "Restrict to specific 'kiosk' directory within collections": "Restrict to specific 'kiosk' directory within collections",
     "RetroArch Kiosk": "RetroArch Kiosk",
     "Storage": "Storage",
     "Task Toolkit": "Task Toolkit",
