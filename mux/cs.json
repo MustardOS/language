@@ -503,7 +503,6 @@
     "Set the CPU governor for the selected content or directory": "Nastavte regulátor CPU pro vybraný obsah nebo adresář",
     "Set the specific tag of the content selected to change the glyph": "Chcete-li změnit glyf, nastavte konkrétní značku obsahu vybraného",
     "Set the system core or external emulator for the selected content or directory": "Nastavte jádro systému nebo externí emulátor pro vybraný obsah nebo adresář",
-    "Tag": "Značka",
     "Time Played": "Nahraný čas"
   },
   "muxpass": {
