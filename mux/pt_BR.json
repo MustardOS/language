@@ -157,6 +157,11 @@
     "Web Services": "Serviços Web",
     "Wi-Fi Network": "Rede Wi-Fi"
   },
+  "muxcontrol": {
+    "CONTROL": "CONTROL",
+    "Change the control scheme of your current selected content": "Change the control scheme of your current selected content",
+    "No Control Schemes Found…": "No Control Schemes Found…"
+  },
   "muxcustom": {
     "Allows for testing different theme resolutions": "Permite testar diferentes resoluções de temas",
     "Alternative Theme": "Tema Alternativo",
@@ -318,6 +323,7 @@
     "Allow editing of network settings": "Permitir edição de configurações de rede",
     "Allow modifying HDMI display settings": "Permitir modificar configurações do HDMI",
     "Allow searching for content": "Permitir busca pelo conteúdo",
+    "Allow selection of content control scheme": "Allow selection of content control scheme",
     "Allow selection of content cores": "Permitir a seleção de núcleos de conteúdo",
     "Allow selection of content governor": "Permitir a seleção de governador para o conteúdo",
     "Allow user to migrate or sync user based content": "Permitir ao usuário migrar ou sincronizar seu conteúdo",
@@ -332,6 +338,7 @@
     "Collection Removal": "Remoção da Coleção",
     "Collection Viewing": "Visualização da Coleção",
     "Configuration": "Configuração",
+    "Content Control Scheme": "Content Control Scheme",
     "Content Core": "Núcleo do Conteúdo",
     "Content Explorer": "Explorador de Conteúdo",
     "Content Governor": "Governador do Conteúdo",
@@ -349,6 +356,7 @@
     "Enable access to general settings": "Habilitar acesso às configurações gerais",
     "Enable access to recently used content": "Habilitar acesso ao conteúdo usado recentemente",
     "Enable access to system configuration": "Habilitar acesso às configurações do sistema",
+    "Enable or disable kiosk mode messages": "Enable or disable kiosk mode messages",
     "Enable or disable kiosk mode restrictions": "Habilitar ou desabilitar as restrições do modo quiosque",
     "Enable or restrict RetroArch settings": "Habilitar ou restringir as configurações Retroarch",
     "Enable use of web based features": "Habilitar o uso de funcionalidades web",
@@ -373,6 +381,7 @@
     "Permit tagging and metadata changes": "Permitir alterações nas tags e metadados",
     "Power Settings": "Configurações de Energia",
     "Restrict to specific 'kiosk' directory within collections": "Restringir a um diretório específico do modo quiosque dentro de coleções",
+    "Restricted Messages": "Restricted Messages",
     "RetroArch Kiosk": "Quiosque do RetroArch",
     "Storage": "Armazenamento",
     "Task Toolkit": "Kit de Ferramentas",
@@ -490,9 +499,11 @@
   },
   "muxoption": {
     "CONTENT OPTION": "OPÇÃO DE CONTEÚDO",
+    "Control Scheme": "Control Scheme",
     "Core": "Núcleo",
     "Current": "Atual",
     "Directory": "Diretório",
+    "Glyph Tag": "Glyph Tag",
     "Governor": "Governador",
     "Individual": "Individual",
     "Name": "Nome",
@@ -501,9 +512,9 @@
     "Search": "Busca",
     "Search for content within the selected directory": "Procurar conteúdo dentro do diretório selecionado",
     "Set the CPU governor for the selected content or directory": "Defina o governador da CPU para o conteúdo ou diretório selecionado",
+    "Set the control scheme for the selected content or directory": "Set the control scheme for the selected content or directory",
     "Set the specific tag of the content selected to change the glyph": "Defina a tag específica do conteúdo selecionado para alterar o glifo",
     "Set the system core or external emulator for the selected content or directory": "Defina o sistema principal ou emulador externo para o conteúdo ou diretório selecionado",
-    "Tag": "Tag",
     "Time Played": "Tempo Jogado"
   },
   "muxpass": {

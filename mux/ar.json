@@ -157,6 +157,11 @@
     "Web Services": "خدمات الويب",
     "Wi-Fi Network": "شبكة Wi-Fi"
   },
+  "muxcontrol": {
+    "CONTROL": "CONTROL",
+    "Change the control scheme of your current selected content": "Change the control scheme of your current selected content",
+    "No Control Schemes Found…": "No Control Schemes Found…"
+  },
   "muxcustom": {
     "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
     "Alternative Theme": "الثيمات بديلة",
@@ -318,6 +323,7 @@
     "Allow editing of network settings": "Allow editing of network settings",
     "Allow modifying HDMI display settings": "Allow modifying HDMI display settings",
     "Allow searching for content": "Allow searching for content",
+    "Allow selection of content control scheme": "Allow selection of content control scheme",
     "Allow selection of content cores": "Allow selection of content cores",
     "Allow selection of content governor": "Allow selection of content governor",
     "Allow user to migrate or sync user based content": "Allow user to migrate or sync user based content",
@@ -332,6 +338,7 @@
     "Collection Removal": "Collection Removal",
     "Collection Viewing": "Collection Viewing",
     "Configuration": "Configuration",
+    "Content Control Scheme": "Content Control Scheme",
     "Content Core": "Content Core",
     "Content Explorer": "Content Explorer",
     "Content Governor": "Content Governor",
@@ -349,6 +356,7 @@
     "Enable access to general settings": "Enable access to general settings",
     "Enable access to recently used content": "Enable access to recently used content",
     "Enable access to system configuration": "Enable access to system configuration",
+    "Enable or disable kiosk mode messages": "Enable or disable kiosk mode messages",
     "Enable or disable kiosk mode restrictions": "Enable or disable kiosk mode restrictions",
     "Enable or restrict RetroArch settings": "Enable or restrict RetroArch settings",
     "Enable use of web based features": "Enable use of web based features",
@@ -373,6 +381,7 @@
     "Permit tagging and metadata changes": "Permit tagging and metadata changes",
     "Power Settings": "Power Settings",
     "Restrict to specific 'kiosk' directory within collections": "Restrict to specific 'kiosk' directory within collections",
+    "Restricted Messages": "Restricted Messages",
     "RetroArch Kiosk": "RetroArch Kiosk",
     "Storage": "Storage",
     "Task Toolkit": "Task Toolkit",
@@ -490,9 +499,11 @@
   },
   "muxoption": {
     "CONTENT OPTION": "إعدادات المحتوى",
+    "Control Scheme": "Control Scheme",
     "Core": "Core",
     "Current": "الحالي",
     "Directory": "المجلد",
+    "Glyph Tag": "Glyph Tag",
     "Governor": "Governor",
     "Individual": "فرد",
     "Name": "الإسم",
@@ -501,9 +512,9 @@
     "Search": "Search",
     "Search for content within the selected directory": "البحث عن محتوى داخل المجلد المحدد",
     "Set the CPU governor for the selected content or directory": "تعيين منظم وحدة المعالجة المركزية للمحتوى أو المجلد المحدد",
+    "Set the control scheme for the selected content or directory": "Set the control scheme for the selected content or directory",
     "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
     "Set the system core or external emulator for the selected content or directory": "تعيين نواة النظام أو المحاكي الخارجي للمحتوى أو المجلد المحدد",
-    "Tag": "Tag",
     "Time Played": "Time Played"
   },
   "muxpass": {

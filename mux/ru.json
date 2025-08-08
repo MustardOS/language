@@ -157,6 +157,11 @@
     "Web Services": "Веб сервисы",
     "Wi-Fi Network": "Сеть Wi-Fi"
   },
+  "muxcontrol": {
+    "CONTROL": "CONTROL",
+    "Change the control scheme of your current selected content": "Change the control scheme of your current selected content",
+    "No Control Schemes Found…": "No Control Schemes Found…"
+  },
   "muxcustom": {
     "Allows for testing different theme resolutions": "Позволяет протестировать разные разрешения темы",
     "Alternative Theme": "Альтернативная тема",
@@ -318,6 +323,7 @@
     "Allow editing of network settings": "Allow editing of network settings",
     "Allow modifying HDMI display settings": "Allow modifying HDMI display settings",
     "Allow searching for content": "Allow searching for content",
+    "Allow selection of content control scheme": "Allow selection of content control scheme",
     "Allow selection of content cores": "Allow selection of content cores",
     "Allow selection of content governor": "Allow selection of content governor",
     "Allow user to migrate or sync user based content": "Allow user to migrate or sync user based content",
@@ -332,6 +338,7 @@
     "Collection Removal": "Collection Removal",
     "Collection Viewing": "Collection Viewing",
     "Configuration": "Настройки",
+    "Content Control Scheme": "Content Control Scheme",
     "Content Core": "Ядро игр",
     "Content Explorer": "Библиотека",
     "Content Governor": "Регулятор игр",
@@ -349,6 +356,7 @@
     "Enable access to general settings": "Enable access to general settings",
     "Enable access to recently used content": "Enable access to recently used content",
     "Enable access to system configuration": "Enable access to system configuration",
+    "Enable or disable kiosk mode messages": "Enable or disable kiosk mode messages",
     "Enable or disable kiosk mode restrictions": "Enable or disable kiosk mode restrictions",
     "Enable or restrict RetroArch settings": "Enable or restrict RetroArch settings",
     "Enable use of web based features": "Enable use of web based features",
@@ -373,6 +381,7 @@
     "Permit tagging and metadata changes": "Permit tagging and metadata changes",
     "Power Settings": "Настройки питания",
     "Restrict to specific 'kiosk' directory within collections": "Restrict to specific 'kiosk' directory within collections",
+    "Restricted Messages": "Restricted Messages",
     "RetroArch Kiosk": "RetroArch киоск",
     "Storage": "Память",
     "Task Toolkit": "Инструменты",
@@ -490,9 +499,11 @@
   },
   "muxoption": {
     "CONTENT OPTION": "НАСТРОЙКА ИГР",
+    "Control Scheme": "Control Scheme",
     "Core": "Ядро",
     "Current": "Текущий",
     "Directory": "Папка",
+    "Glyph Tag": "Glyph Tag",
     "Governor": "Регулятор",
     "Individual": "Приложение",
     "Name": "Имя",
@@ -501,9 +512,9 @@
     "Search": "Поиск",
     "Search for content within the selected directory": "Поиск игр в выбранной папке",
     "Set the CPU governor for the selected content or directory": "Настройка регулятора ЦП для выбранной игры или папки",
+    "Set the control scheme for the selected content or directory": "Set the control scheme for the selected content or directory",
     "Set the specific tag of the content selected to change the glyph": "Выбор определенного ярлыка для выбранной иконки игры",
     "Set the system core or external emulator for the selected content or directory": "Выбор ядра или внешнего эмулятора для указанной игры или папки",
-    "Tag": "Ярлык",
     "Time Played": "Time Played"
   },
   "muxpass": {
