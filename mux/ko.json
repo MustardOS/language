@@ -97,6 +97,7 @@
     "Location of system BIOS files": "시스템 바이오스 파일 위치",
     "Location of the RetroArch emulator": "레트로아크 에뮬레이터 위치",
     "Location of themes": "테마 위치",
+    "Location of user's Game Activity Tracker": "Location of user's Game Activity Tracker",
     "Metadata Catalogue": "메타데이터 카탈로그",
     "Network Profiles": "네트워크 프로필",
     "RetroArch Config Packages": "레트로아크 컨피그 패키지",
@@ -111,6 +112,7 @@
     "System BIOS": "시스템 바이오스",
     "Themes": "테마",
     "Toggle the target storage device for the backup": "백업을 위한 대상 저장 장치를 전환",
+    "User Game Activity Tracker": "User Game Activity Tracker",
     "User Init Scripts": "사용자 초기화 스크립트",
     "muOS Settings": "muOS 설정"
   },
@@ -183,6 +185,7 @@
     "Content Box Art": "콘텐츠 박스 아트",
     "Content Box Art Alignment": "콘텐츠 박스 아트 정렬",
     "Content Launch Splash": "콘텐츠 실행 스플래시",
+    "Content Shuffle": "Content Shuffle",
     "Front": "앞에",
     "Fullscreen + Behind": "전체 화면 + 뒤에",
     "Fullscreen + Front": "전체 화면 + 앞에",
@@ -208,6 +211,7 @@
     "Toggle the navigation sound of the frontend": "프런트엔드의 이동 효과음 설정 전환",
     "Toggle the splash image on content launching": "콘텐츠 실행 시 스플래시 이미지 사용 여부 전환",
     "Toggle the startup chime of the frontend": "프런트엔드의 시작 알림음 사용 여부 전환",
+    "Toggles the ability to shuffle content using the R2 button": "Toggles the ability to shuffle content using the R2 button",
     "Top Left": "상단 좌측에",
     "Top Middle": "상단 중앙에",
     "Top Right": "상단 우측에"
@@ -515,7 +519,8 @@
     "Set the control scheme for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 제어 체계를 설정",
     "Set the specific tag of the content selected to change the glyph": "글리프를 변경하기 위해 선택된 콘텐츠의 특정 태그를 설정",
     "Set the system core or external emulator for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 시스템 코어 또는 외부 에뮬레이터 설정",
-    "Time Played": "플레이 시간"
+    "Time Played": "플레이 시간",
+    "Times Launched": "Times Launched"
   },
   "muxpass": {
     "PASSCODE": "패스코드"
