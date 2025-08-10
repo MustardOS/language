@@ -97,6 +97,7 @@
     "Location of system BIOS files": "Localização dos Arquivos de BIOS",
     "Location of the RetroArch emulator": "Localização do Emulador de RetroArch",
     "Location of themes": "Localização dos Temas",
+    "Location of user's Game Activity Tracker": "Location of user's Game Activity Tracker",
     "Metadata Catalogue": "Metadados do Catálogo",
     "Network Profiles": "Perfís de Rede",
     "RetroArch Config Packages": "Pacotes de Configuração do RetroArch",
@@ -111,6 +112,7 @@
     "System BIOS": "BIOS do Sistema",
     "Themes": "Temas",
     "Toggle the target storage device for the backup": "Marque para selecionar o dispositivo de armazenamento do backup",
+    "User Game Activity Tracker": "User Game Activity Tracker",
     "User Init Scripts": "Scripts de Inicialização do Usuário",
     "muOS Settings": "Configurações do muOS"
   },
@@ -183,6 +185,7 @@
     "Content Box Art": "Arte da Capa dos Conteúdos",
     "Content Box Art Alignment": "Alinhamento das Artes das Capas",
     "Content Launch Splash": "Tela de inicialização",
+    "Content Shuffle": "Content Shuffle",
     "Front": "Frente",
     "Fullscreen + Behind": "Tela Cheia + Atrás",
     "Fullscreen + Front": "Tela Cheia + Frente",
@@ -208,6 +211,7 @@
     "Toggle the navigation sound of the frontend": "Habilita os sons de navegação",
     "Toggle the splash image on content launching": "Habilita a imagem de inicialização quando carregando um conteúdo",
     "Toggle the startup chime of the frontend": "Habilita a melodia de inicialização",
+    "Toggles the ability to shuffle content using the R2 button": "Toggles the ability to shuffle content using the R2 button",
     "Top Left": "No Topo e à Esquerda",
     "Top Middle": "No Topo e no Meio",
     "Top Right": "No topo e à Direita"
@@ -515,7 +519,8 @@
     "Set the control scheme for the selected content or directory": "Define a disposição dos botões do controle para o conteúdo ou diretório selecionado",
     "Set the specific tag of the content selected to change the glyph": "Defina a tag específica do conteúdo selecionado para alterar o glifo",
     "Set the system core or external emulator for the selected content or directory": "Defina o sistema principal ou emulador externo para o conteúdo ou diretório selecionado",
-    "Time Played": "Tempo Jogado"
+    "Time Played": "Tempo Jogado",
+    "Times Launched": "Times Launched"
   },
   "muxpass": {
     "PASSCODE": "SENHA"
