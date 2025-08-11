@@ -2,7 +2,7 @@
   "generic": {
     "Add": "Afegir",
     "Added to Collection": "Afegit a Col·lecció",
-    "Allowed": "Allowed",
+    "Allowed": "Permès",
     "Back": "Enrere",
     "Change": "Canviar",
     "Channel": "Canal",
@@ -31,7 +31,7 @@
     "Remove": "Eliminar",
     "Rescan": "Reescanejar",
     "Restore": "Restaurar",
-    "Restricted": "Restricted",
+    "Restricted": "Restringit",
     "Save": "Guardar",
     "Saving…": "Guardant…",
     "Select": "Seleccionar",
@@ -97,7 +97,7 @@
     "Location of system BIOS files": "Ubicació dels fitxers BIOS",
     "Location of the RetroArch emulator": "Ubicació del emulador RetroArch",
     "Location of themes": "Ubicació dels temes",
-    "Location of user's Game Activity Tracker": "Location of user's Game Activity Tracker",
+    "Location of user's Game Activity Tracker": "Ubicació del rastrejador d'activitat de jocs de l'usuari",
     "Metadata Catalogue": "Catàleg de metadades",
     "Network Profiles": "Perfils de xarxa",
     "RetroArch Config Packages": "Paquets de configuració de RetroArch",
@@ -112,7 +112,7 @@
     "System BIOS": "BIOS dels sistemes",
     "Themes": "Temes",
     "Toggle the target storage device for the backup": "Canvia el dispositiu d’emmagatzematge de destinació per a la còpia de seguretat",
-    "User Game Activity Tracker": "User Game Activity Tracker",
+    "User Game Activity Tracker": "Seguiment d'activitat de joc de l'usuari",
     "User Init Scripts": "Scripts d'inicialització personalitzats",
     "muOS Settings": "Ajustaments de muOS"
   },
@@ -123,7 +123,7 @@
     "Voltage": "Voltatge"
   },
   "muxcollect": {
-    "COLLECTION": "COLLECTION",
+    "COLLECTION": "COL·LECCIÓ",
     "Collection folder is not empty": "La carpeta de col·lecció no és buida",
     "Error loading content file": "Error al carregar el fitxer de contingut",
     "Error removing from Collections": "Error a l'eliminar de Col·leccions",
