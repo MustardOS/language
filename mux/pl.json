@@ -150,7 +150,7 @@
     "Storage": "Pamięć"
   },
   "muxconnect": {
-    "Android Debug Bridge": "Android Debug Bridge",
+    "Android Debug Bridge": "Android Debug Bridge (ADB)",
     "Bluetooth": "Bluetooth",
     "CONNECTIVITY": "ŁĄCZNOŚĆ",
     "Connect to a Wi-Fi network manually or via a saved profile": "Połącz się z siecią Wi-Fi ręcznie lub poprzez zapisany profil",
