@@ -7,15 +7,18 @@
     "Change": "Zmień",
     "Channel": "Kanał",
     "Clear": "Wyczyść",
+    "Close": "Close",
     "Collect": "Do kolekcji",
     "Directory": "Katalog",
     "Disabled": "Wyłączony",
+    "Download": "Download",
     "Edit": "Edytuj",
     "Enabled": "Włączony",
     "Extract": "Wypakuj",
     "Filter": "Filtr",
     "Individual": "Pojedynczy",
     "Info": "Info",
+    "Information": "Information",
     "Install": "Instaluj",
     "Launch": "Uruchom",
     "Load": "Wczytaj",
@@ -26,6 +29,7 @@
     "No Information Found": "Nie znaleziono informacji",
     "Not Connected": "Nie połączono",
     "Open": "Otwórz",
+    "Preview Image": "Preview Image",
     "Previous": "Poprzedni",
     "Rebooting…": "Restartowanie…",
     "Recursive": "Rekursywny",
@@ -35,6 +39,7 @@
     "Restricted": "Ograniczone",
     "Save": "Zapisz",
     "Saving…": "Zapisywanie…",
+    "Scroll": "Scroll",
     "Select": "Wybierz",
     "Shutting Down…": "Zamykanie…",
     "Sync to SD1": "Synchronizuj do SD1",
@@ -51,6 +56,14 @@
     "No Applications Found": "Nie znaleziono aplikacji",
     "Task Toolkit": "Przybornik zadań"
   },
+  "muxappcon": {
+    "APPLICATION OPTION": "APPLICATION OPTION",
+    "Control Scheme": "Control Scheme",
+    "Governor": "Governor",
+    "Name": "Name",
+    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
+    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+  },
   "muxarchive": {
     "ARCHIVE MANAGER": "MENEDŻER ARCHIWÓW",
     "Archive items can be found and installed here - Save games and states, updates, themes etc": "Archiwalne elementy można znaleźć i zainstalować tutaj – zapisy gier i stanów, aktualizacje, motywy itp",
@@ -61,6 +74,7 @@
     "ASSIGN": "PRZYPISZ",
     "Assigned to directory": "Przypisane do katalogu",
     "Assigned to file": "Przypisane do pliku",
+    "Core Downloader": "Core Downloader",
     "No Cores Found…": "Nie znaleziono rdzeni…",
     "This is where you can assign a core or external emulator to content": "Tutaj możesz przypisać rdzeń lub zewnętrzny emulator do zawartości"
   },
@@ -120,6 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Uruchamianie systemu - Proszę czekać…",
     "Capacity": "Pojemność",
+    "Press START button to continue booting…": "Press START button to continue booting…",
     "Voltage": "Napięcie"
   },
   "muxcollect": {
@@ -208,6 +223,7 @@
     "Switch between different theme alternatives": "Wybierz między różnymi alternatywami motywu",
     "Switch between pressing A or holding A to launch content save state automatically": "Wybierz między wciskaniem A lub przytrzymaniem A, by automatycznie uruchomić zawartość ze stanu zapisu",
     "Theme": "Motyw",
+    "Theme Download": "Theme Download",
     "Theme Picker": "Wybór motywu",
     "Theme Resolution": "Rozdzielczość motywu",
     "Toggle the background animation of the current selected theme": "Włącz animację tła bieżącego motywu",
@@ -270,6 +286,15 @@
     "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Włącza wsparcie dla przełącznika Halla (klapki) na urządzeniu\n\nNie włączać na urządzeniach bez klapki!",
     "Toggles internal Portmaster support on device": "Włącza wsparcie dla wewnętrznego Portmastera na urządzeniu",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Włącza montowanie DebugFS poziomu jądra podczas uruchamiania\n\nNajlepiej zostawić włączone, chyba że zalecono inaczej!"
+  },
+  "muxdownload": {
+    "APP DOWNLOADER": "APP DOWNLOADER",
+    "Archive Removed": "Archive Removed",
+    "CORE DOWNLOADER": "CORE DOWNLOADER",
+    "Downloading Archive": "Downloading Archive",
+    "Downloading Data": "Downloading Data",
+    "Error Retrieving Data": "Error Retrieving Data",
+    "Refresh": "Refresh"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Skonfiguruj regulatory CPU, aby dynamicznie dostosować częstotliwość CPU i pomóc zrównoważyć zużycie energii i wydajność",
@@ -395,6 +420,7 @@
     "RetroArch Kiosk": "RetroArch kiosku",
     "Storage": "Pamięć",
     "Task Toolkit": "Przybornik zadań",
+    "Theme Download": "Theme Download",
     "Timezone": "Strefa czasowa",
     "Web Services": "Usługi sieciowe",
     "Wi-Fi Network": "Sieć Wi-Fi"
@@ -544,6 +570,7 @@
     "No Custom Packages Found": "Nie znaleziono paczek użytkownika",
     "No Theme Packages Found": "Nie znaleziono paczek motywów",
     "THEME PICKER": "WYBÓR MOTYWU",
+    "Theme Download": "Theme Download",
     "There are no attributed credits!": "Nie przypisano autora!"
   },
   "muxplore": {
@@ -707,6 +734,19 @@
     "INPUT TESTER": "TESTER PRZYCISKÓW",
     "Press DOWN + B to finish testing": "Naciśnij DOWN + B, aby zakończyć testowanie",
     "Press any button to start input testing!": "Wciśnij dowolny przycisk, aby zacząć testowanie!"
+  },
+  "muxthemedown": {
+    "Download": "Download",
+    "Downloading Theme": "Downloading Theme",
+    "Downloading Theme Data": "Downloading Theme Data",
+    "Downloading Theme Previews": "Downloading Theme Previews",
+    "Error Retrieving Theme Data": "Error Retrieving Theme Data",
+    "No Content Found…": "No Content Found…",
+    "Refresh": "Refresh",
+    "Refreshing…": "Refreshing…",
+    "Remove": "Remove",
+    "THEME DOWNLOAD": "THEME DOWNLOAD",
+    "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {
     "All": "Wszystko",
