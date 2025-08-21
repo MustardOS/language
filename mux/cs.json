@@ -7,15 +7,18 @@
     "Change": "Změna",
     "Channel": "Kanál",
     "Clear": "Čistý",
+    "Close": "Close",
     "Collect": "Sbírat",
     "Directory": "Adresář",
     "Disabled": "Zakázáno",
+    "Download": "Download",
     "Edit": "Upravit",
     "Enabled": "Povoleno",
     "Extract": "Rozbalit",
     "Filter": "Filtr",
     "Individual": "Individuální",
     "Info": "Informace",
+    "Information": "Information",
     "Install": "Instalovat",
     "Launch": "Spustit",
     "Load": "Nahrát",
@@ -26,6 +29,7 @@
     "No Information Found": "Nebyly nalezeny žádné informace",
     "Not Connected": "Nepřipojeno",
     "Open": "Otevřít",
+    "Preview Image": "Preview Image",
     "Previous": "Předchozí",
     "Rebooting…": "Restartování…",
     "Recursive": "Rekurzivní",
@@ -35,6 +39,7 @@
     "Restricted": "Omezeno",
     "Save": "Uložit",
     "Saving…": "Ukládání…",
+    "Scroll": "Scroll",
     "Select": "Vybrat",
     "Shutting Down…": "Vypínání…",
     "Sync to SD1": "Synchronizovat na SD1",
@@ -51,6 +56,14 @@
     "No Applications Found": "Nebyly nalezeny žádné aplikace",
     "Task Toolkit": "Sada nástrojů"
   },
+  "muxappcon": {
+    "APPLICATION OPTION": "APPLICATION OPTION",
+    "Control Scheme": "Control Scheme",
+    "Governor": "Governor",
+    "Name": "Name",
+    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
+    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+  },
   "muxarchive": {
     "ARCHIVE MANAGER": "SPRÁVCE ARCHIVU",
     "Archive items can be found and installed here - Save games and states, updates, themes etc": "Archivní položky lze nalézt a nainstalovat zde - Ukládání her a stavů, aktualizací, motivů atd",
@@ -61,6 +74,7 @@
     "ASSIGN": "PŘIŘADIT",
     "Assigned to directory": "Přiřazeno do adresáře",
     "Assigned to file": "Přiřazeno k souboru",
+    "Core Downloader": "Core Downloader",
     "No Cores Found…": "Nebyla nalezena žádná jádra…",
     "This is where you can assign a core or external emulator to content": "Zde můžete přiřadit jádro nebo externí emulátor"
   },
@@ -120,6 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Spouštění systému – čekejte prosím…",
     "Capacity": "Kapacita",
+    "Press START button to continue booting…": "Press START button to continue booting…",
     "Voltage": "Napětí"
   },
   "muxcollect": {
@@ -208,6 +223,7 @@
     "Switch between different theme alternatives": "Přepínejte mezi různými alternativami motivů",
     "Switch between pressing A or holding A to launch content save state automatically": "Přepínáním mezi stisknutím klávesy A a podržením klávesy A automaticky spustíte ukládání obsahu",
     "Theme": "Téma",
+    "Theme Download": "Theme Download",
     "Theme Picker": "Výběr motivu",
     "Theme Resolution": "Rozlišení motivu",
     "Toggle the background animation of the current selected theme": "Přepnout animaci na pozadí aktuálně vybraného motivu",
@@ -270,6 +286,15 @@
     "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Přepíná podporu hallového spínače (víka) na zařízení\n\nNepovolujte tuto funkci na zařízeních bez víka!",
     "Toggles internal Portmaster support on device": "Přepíná podporu interního Portmasteru na zařízení",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Přepíná připojování DebugFS na úrovni jádra při spuštění\n\nNejlepší je nechat tuto možnost zapnutou, pokud není uvedeno jinak!"
+  },
+  "muxdownload": {
+    "APP DOWNLOADER": "APP DOWNLOADER",
+    "Archive Removed": "Archive Removed",
+    "CORE DOWNLOADER": "CORE DOWNLOADER",
+    "Downloading Archive": "Downloading Archive",
+    "Downloading Data": "Downloading Data",
+    "Error Retrieving Data": "Error Retrieving Data",
+    "Refresh": "Refresh"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Nakonfigurujte regulátory CPU tak, aby dynamicky upravovaly frekvenci CPU a pomáhaly vyvážit spotřebu energie a výkon",
@@ -395,6 +420,7 @@
     "RetroArch Kiosk": "Kiosek RetroArch",
     "Storage": "Uložiště",
     "Task Toolkit": "Sada nástrojů",
+    "Theme Download": "Theme Download",
     "Timezone": "Časové pásmo",
     "Web Services": "Webové služby",
     "Wi-Fi Network": "Wi-Fi síť"
@@ -544,6 +570,7 @@
     "No Custom Packages Found": "Nebyly nalezeny žádné vlastní balíčky",
     "No Theme Packages Found": "Nebyly nalezeny žádné balíčky témat",
     "THEME PICKER": "VÝBĚR TÉMAT",
+    "Theme Download": "Theme Download",
     "There are no attributed credits!": "Nejsou žádné přidělené kredity!"
   },
   "muxplore": {
@@ -707,6 +734,19 @@
     "INPUT TESTER": "TESTER VSTUPU",
     "Press DOWN + B to finish testing": "Stiskněte DOWN + B pro dokončení testování",
     "Press any button to start input testing!": "Stisknutím libovolného tlačítka zahájíte testování vstupu!"
+  },
+  "muxthemedown": {
+    "Download": "Download",
+    "Downloading Theme": "Downloading Theme",
+    "Downloading Theme Data": "Downloading Theme Data",
+    "Downloading Theme Previews": "Downloading Theme Previews",
+    "Error Retrieving Theme Data": "Error Retrieving Theme Data",
+    "No Content Found…": "No Content Found…",
+    "Refresh": "Refresh",
+    "Refreshing…": "Refreshing…",
+    "Remove": "Remove",
+    "THEME DOWNLOAD": "THEME DOWNLOAD",
+    "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {
     "All": "Vše",
