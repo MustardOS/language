@@ -7,15 +7,18 @@
     "Change": "Modifier",
     "Channel": "Canal",
     "Clear": "Effacer",
+    "Close": "Close",
     "Collect": "Collecter",
     "Directory": "Répertoire",
     "Disabled": "Désactivé",
+    "Download": "Download",
     "Edit": "Éditer",
     "Enabled": "Activé",
     "Extract": "Extraire",
     "Filter": "Filter",
     "Individual": "Individuel",
     "Info": "Info",
+    "Information": "Information",
     "Install": "Installer",
     "Launch": "Lancer",
     "Load": "Charger",
@@ -26,6 +29,7 @@
     "No Information Found": "Aucune information trouvée",
     "Not Connected": "Non connecté",
     "Open": "Ouvrir",
+    "Preview Image": "Preview Image",
     "Previous": "Précédent",
     "Rebooting…": "Redémarrage en cours…",
     "Recursive": "Récursif",
@@ -35,6 +39,7 @@
     "Restricted": "Restricted",
     "Save": "Sauvegarder",
     "Saving…": "Sauvegarde en cours…",
+    "Scroll": "Scroll",
     "Select": "Sélectionner",
     "Shutting Down…": "Fermeture en cours…",
     "Sync to SD1": "Synchroniser avec SD1",
@@ -51,6 +56,14 @@
     "No Applications Found": "Aucune application trouvée",
     "Task Toolkit": "Utilitaires"
   },
+  "muxappcon": {
+    "APPLICATION OPTION": "APPLICATION OPTION",
+    "Control Scheme": "Control Scheme",
+    "Governor": "Governor",
+    "Name": "Name",
+    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
+    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+  },
   "muxarchive": {
     "ARCHIVE MANAGER": "GESTIONNAIRE D'ARCHIVES",
     "Archive items can be found and installed here - Save games and states, updates, themes etc": "Les éléments d'archive peuvent être trouvés et installés ici - Les sauvegardes et états des jeux, les mises à jour, les thèmes etc",
@@ -61,6 +74,7 @@
     "ASSIGN": "ASSIGNER",
     "Assigned to directory": "Assigné au dossier",
     "Assigned to file": "Assigné au fichier",
+    "Core Downloader": "Core Downloader",
     "No Cores Found…": "Aucun émulateur trouvé…",
     "This is where you can assign a core or external emulator to content": "C'est ici que vous pouvez attribuer un émulateur principal ou externe au contenu"
   },
@@ -120,6 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Démarrage en cours - Veuillez patienter…",
     "Capacity": "Capacité",
+    "Press START button to continue booting…": "Press START button to continue booting…",
     "Voltage": "Tension"
   },
   "muxcollect": {
@@ -208,6 +223,7 @@
     "Switch between different theme alternatives": "Basculer entre différentes alternatives de thème",
     "Switch between pressing A or holding A to launch content save state automatically": "Switch between pressing A or holding A to launch content save state automatically",
     "Theme": "Thème",
+    "Theme Download": "Theme Download",
     "Theme Picker": "Thèmes muOS",
     "Theme Resolution": "Résolution du thème",
     "Toggle the background animation of the current selected theme": "Activez/désactivez l'animation d'arrière-plan du thème actuellement sélectionné",
@@ -270,6 +286,15 @@
     "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!",
     "Toggles internal Portmaster support on device": "Toggles internal Portmaster support on device",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!"
+  },
+  "muxdownload": {
+    "APP DOWNLOADER": "APP DOWNLOADER",
+    "Archive Removed": "Archive Removed",
+    "CORE DOWNLOADER": "CORE DOWNLOADER",
+    "Downloading Archive": "Downloading Archive",
+    "Downloading Data": "Downloading Data",
+    "Error Retrieving Data": "Error Retrieving Data",
+    "Refresh": "Refresh"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configurez les gouverneurs du processeur pour ajuster dynamiquement la fréquence du processeur et aider à équilibrer la consommation d'énergie et les performances",
@@ -395,6 +420,7 @@
     "RetroArch Kiosk": "Kiosk RetroArch",
     "Storage": "Stockage",
     "Task Toolkit": "Utilitaires",
+    "Theme Download": "Theme Download",
     "Timezone": "Fuseau horaire",
     "Web Services": "Services Web",
     "Wi-Fi Network": "Réseau Wi-Fi"
@@ -544,6 +570,7 @@
     "No Custom Packages Found": "Aucun pack de personnalisation disponible",
     "No Theme Packages Found": "Aucun pack de thème disponible",
     "THEME PICKER": "THÈMES MUOS",
+    "Theme Download": "Theme Download",
     "There are no attributed credits!": "Il n'y a pas de crédits attribués!"
   },
   "muxplore": {
@@ -707,6 +734,19 @@
     "INPUT TESTER": "TESTEUR DE COMMANDES",
     "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "Appuyez sur une touche pour démarrer le test!"
+  },
+  "muxthemedown": {
+    "Download": "Download",
+    "Downloading Theme": "Downloading Theme",
+    "Downloading Theme Data": "Downloading Theme Data",
+    "Downloading Theme Previews": "Downloading Theme Previews",
+    "Error Retrieving Theme Data": "Error Retrieving Theme Data",
+    "No Content Found…": "No Content Found…",
+    "Refresh": "Refresh",
+    "Refreshing…": "Refreshing…",
+    "Remove": "Remove",
+    "THEME DOWNLOAD": "THEME DOWNLOAD",
+    "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {
     "All": "All",
