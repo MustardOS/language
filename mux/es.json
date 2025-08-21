@@ -7,18 +7,18 @@
     "Change": "Cambiar",
     "Channel": "Canal",
     "Clear": "Limpiar",
-    "Close": "Close",
+    "Close": "Cerrar",
     "Collect": "Recopila",
     "Directory": "Directorio",
     "Disabled": "Deshabilitado",
-    "Download": "Download",
+    "Download": "Descargar",
     "Edit": "Editar",
     "Enabled": "Habilitado",
     "Extract": "Extraer",
     "Filter": "Filtro",
     "Individual": "Individual",
     "Info": "Información",
-    "Information": "Information",
+    "Information": "Información",
     "Install": "Instalar",
     "Launch": "Lanzar",
     "Load": "Cargar",
@@ -29,7 +29,7 @@
     "No Information Found": "No se encontró información",
     "Not Connected": "No conectado",
     "Open": "Abrir",
-    "Preview Image": "Preview Image",
+    "Preview Image": "Vista previa de la imagen",
     "Previous": "Anterior",
     "Rebooting…": "Reiniciando…",
     "Recursive": "Recursivo",
@@ -39,7 +39,7 @@
     "Restricted": "Restringido",
     "Save": "Guardar",
     "Saving…": "Guardando…",
-    "Scroll": "Scroll",
+    "Scroll": "Desplazar",
     "Select": "Seleccionar",
     "Shutting Down…": "Apagando…",
     "Sync to SD1": "Sincronizar con SD1",
@@ -57,12 +57,12 @@
     "Task Toolkit": "Conjunto de herramientas de tareas"
   },
   "muxappcon": {
-    "APPLICATION OPTION": "APPLICATION OPTION",
-    "Control Scheme": "Control Scheme",
-    "Governor": "Governor",
-    "Name": "Name",
-    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
-    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+    "APPLICATION OPTION": "OPCIÓN DE APLICACIÓN",
+    "Control Scheme": "Esquema de control",
+    "Governor": "Gobernador",
+    "Name": "Nombre",
+    "Set the CPU governor for the selected application": "Configurar el regulador de la CPU para la aplicación seleccionada",
+    "Set the control scheme for the selected application": "Configurar el esquema de control para la aplicación seleccionada"
   },
   "muxarchive": {
     "ARCHIVE MANAGER": "GESTOR DE ARCHIVOS",
@@ -74,7 +74,7 @@
     "ASSIGN": "ASIGNAR",
     "Assigned to directory": "Asignado al directorio",
     "Assigned to file": "Asignado al archivo",
-    "Core Downloader": "Core Downloader",
+    "Core Downloader": "Descargador de núcleos",
     "No Cores Found…": "No se encontraron núcleos…",
     "This is where you can assign a core or external emulator to content": "Aquí es donde puedes asignar un núcleo o emulador externo al contenido"
   },
@@ -134,7 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Arrancando el sistema - Por favor espere…",
     "Capacity": "Capacidad",
-    "Press START button to continue booting…": "Press START button to continue booting…",
+    "Press START button to continue booting…": "Pulse el botón START para continuar con el arranque…",
     "Voltage": "Voltaje"
   },
   "muxcollect": {
@@ -223,7 +223,7 @@
     "Switch between different theme alternatives": "Cambiar entre diferentes alternativas de temas",
     "Switch between pressing A or holding A to launch content save state automatically": "Cambia entre pulsar o mantener A para arrancar el estado guardado del contenido automáticamente",
     "Theme": "Tema",
-    "Theme Download": "Theme Download",
+    "Theme Download": "Descarga del tema",
     "Theme Picker": "Selector de Tema",
     "Theme Resolution": "Resolución del tema",
     "Toggle the background animation of the current selected theme": "Alternar la animación de fondo del tema seleccionado actualmente",
@@ -288,13 +288,13 @@
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Activa el montaje de DebugFS a nivel del kernel al iniciar el sistema.\n\n¡Es mejor dejar esta opción activada a menos que se indique lo contrario!"
   },
   "muxdownload": {
-    "APP DOWNLOADER": "APP DOWNLOADER",
-    "Archive Removed": "Archive Removed",
-    "CORE DOWNLOADER": "CORE DOWNLOADER",
-    "Downloading Archive": "Downloading Archive",
-    "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "APP DOWNLOADER": "DESCARGADOR DE APLICACIONES",
+    "Archive Removed": "Archivo eliminado",
+    "CORE DOWNLOADER": "DESCARGADOR DE NÚCLEOS",
+    "Downloading Archive": "Descargar archivo",
+    "Downloading Data": "Descargando datos",
+    "Error Retrieving Data": "Error al recuperar datos",
+    "Refresh": "Actualizar"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configura los gobernadores de la CPU para ajustar dinámicamente la frecuencia de la CPU y ayudar a equilibrar el consumo de energía y el rendimiento",
@@ -420,7 +420,7 @@
     "RetroArch Kiosk": "Quiosco RetroArch",
     "Storage": "Almacenamiento",
     "Task Toolkit": "Kit de herramientas de tareas",
-    "Theme Download": "Theme Download",
+    "Theme Download": "Descarga del tema",
     "Timezone": "Zona horaria",
     "Web Services": "Servicios web",
     "Wi-Fi Network": "Red Wi-Fi"
@@ -570,7 +570,7 @@
     "No Custom Packages Found": "No se han encontrado paquetes personalizados",
     "No Theme Packages Found": "No se han encontrado paquetes temáticos",
     "THEME PICKER": "SELECCIONADOR DE TEMA",
-    "Theme Download": "Theme Download",
+    "Theme Download": "Descarga del tema",
     "There are no attributed credits!": "¡No hay créditos atribuidos!"
   },
   "muxplore": {
@@ -736,17 +736,17 @@
     "Press any button to start input testing!": "¡Presione cualquier botón para iniciar el comprobador de entradas!"
   },
   "muxthemedown": {
-    "Download": "Download",
-    "Downloading Theme": "Downloading Theme",
-    "Downloading Theme Data": "Downloading Theme Data",
-    "Downloading Theme Previews": "Downloading Theme Previews",
-    "Error Retrieving Theme Data": "Error Retrieving Theme Data",
-    "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
-    "Remove": "Remove",
-    "THEME DOWNLOAD": "THEME DOWNLOAD",
-    "Theme Removed": "Theme Removed"
+    "Download": "Descargar",
+    "Downloading Theme": "Descargar tema",
+    "Downloading Theme Data": "Descargando datos del tema",
+    "Downloading Theme Previews": "Descargando vistas previas de temas",
+    "Error Retrieving Theme Data": "Error al recuperar los datos del tema",
+    "No Content Found…": "No se encontró contenido…",
+    "Refresh": "Actualizar",
+    "Refreshing…": "Actualizando…",
+    "Remove": "Eliminar",
+    "THEME DOWNLOAD": "DESCARGA DEL TEMA",
+    "Theme Removed": "Tema eliminado"
   },
   "muxthemefilter": {
     "All": "Todos",
