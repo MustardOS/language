@@ -37,8 +37,6 @@
     "Saving…": "Ukládání…",
     "Select": "Vybrat",
     "Shutting Down…": "Vypínání…",
-    "Switch to Information": "Přepněte na Informace",
-    "Switch to Preview Image": "Přepněte na náhled obrázku",
     "Sync to SD1": "Synchronizovat na SD1",
     "This is disabled in kiosk mode!": "Toto je zakázáno v režimu kiosku!",
     "Top": "Nahoru",
@@ -122,7 +120,6 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Spouštění systému – čekejte prosím…",
     "Capacity": "Kapacita",
-    "Press POWER button to continue booting…": "Stisknutím tlačítka NAPÁJENÍ pokračujte v zavádění…",
     "Voltage": "Napětí"
   },
   "muxcollect": {
@@ -211,7 +208,6 @@
     "Switch between different theme alternatives": "Přepínejte mezi různými alternativami motivů",
     "Switch between pressing A or holding A to launch content save state automatically": "Přepínáním mezi stisknutím klávesy A a podržením klávesy A automaticky spustíte ukládání obsahu",
     "Theme": "Téma",
-    "Theme Downloader": "Stahovač motivů",
     "Theme Picker": "Výběr motivu",
     "Theme Resolution": "Rozlišení motivu",
     "Toggle the background animation of the current selected theme": "Přepnout animaci na pozadí aktuálně vybraného motivu",
@@ -399,7 +395,6 @@
     "RetroArch Kiosk": "Kiosek RetroArch",
     "Storage": "Uložiště",
     "Task Toolkit": "Sada nástrojů",
-    "Theme Downloader": "Stahovač motivů",
     "Timezone": "Časové pásmo",
     "Web Services": "Webové služby",
     "Wi-Fi Network": "Wi-Fi síť"
@@ -712,19 +707,6 @@
     "INPUT TESTER": "TESTER VSTUPU",
     "Press DOWN + B to finish testing": "Stiskněte DOWN + B pro dokončení testování",
     "Press any button to start input testing!": "Stisknutím libovolného tlačítka zahájíte testování vstupu!"
-  },
-  "muxthemedownloader": {
-    "Download": "Stáhnout",
-    "Downloading Theme": "Stahování motivu",
-    "Downloading Theme Data": "Stahování dat tématu",
-    "Downloading Theme Previews": "Stahování náhledů motivů",
-    "Error Retrieving Theme Data": "Chyba při načítání dat šablony",
-    "No Content Found…": "Nebyl nalezen žádný obsah…",
-    "Refresh": "Obnovit",
-    "Refreshing…": "Obnovuji…",
-    "Remove": "Odstranit",
-    "THEME DOWNLOADER": "STAHOVAČ TÉMATŮ",
-    "Theme Removed": "Motiv odstraněn"
   },
   "muxthemefilter": {
     "All": "Vše",

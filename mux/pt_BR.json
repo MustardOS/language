@@ -37,8 +37,6 @@
     "Saving…": "Salvando…",
     "Select": "Selecionar",
     "Shutting Down…": "Desligando…",
-    "Switch to Information": "Mudar para Informações",
-    "Switch to Preview Image": "Mudar para a Imagem de Prévia",
     "Sync to SD1": "Sincronizar com SD1",
     "This is disabled in kiosk mode!": "Isto é desativado no modo quiosque!",
     "Top": "Em Cima",
@@ -122,7 +120,6 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Incializando Sistema - Por Favor Aguarde…",
     "Capacity": "Capacidade",
-    "Press POWER button to continue booting…": "Pressione o botão de energia para continuar a inicialização…",
     "Voltage": "Voltagem"
   },
   "muxcollect": {
@@ -211,7 +208,6 @@
     "Switch between different theme alternatives": "Alterna entre diferentes opções de temas",
     "Switch between pressing A or holding A to launch content save state automatically": "Alterna entre pressionar A ou segurar A para iniciar o save state do conteúdo automaticamente",
     "Theme": "Tema",
-    "Theme Downloader": "Baixar Temas",
     "Theme Picker": "Escolher Tema",
     "Theme Resolution": "Resolução do Tema",
     "Toggle the background animation of the current selected theme": "Habilita a animação de fundo do tema atual",
@@ -399,7 +395,6 @@
     "RetroArch Kiosk": "Quiosque do RetroArch",
     "Storage": "Armazenamento",
     "Task Toolkit": "Kit de Ferramentas",
-    "Theme Downloader": "Baixar Temas",
     "Timezone": "Fuso Horário",
     "Web Services": "Serviços Web",
     "Wi-Fi Network": "Rede Wi-Fi"
@@ -712,19 +707,6 @@
     "INPUT TESTER": "TESTE DE BOTÕES",
     "Press DOWN + B to finish testing": "Pressione BAIXO + B para terminar o teste",
     "Press any button to start input testing!": "Pressione qualquer botão para iniciar o teste!"
-  },
-  "muxthemedownloader": {
-    "Download": "Baixar",
-    "Downloading Theme": "Baixando Tema",
-    "Downloading Theme Data": "Baixando Dados do Tema",
-    "Downloading Theme Previews": "Baixando Prévias dos Temas",
-    "Error Retrieving Theme Data": "Erro Obtendo Dados dos Temas",
-    "No Content Found…": "Nenhum Conteúdo Encontrado…",
-    "Refresh": "Atualizar",
-    "Refreshing…": "Atualizando…",
-    "Remove": "Remover",
-    "THEME DOWNLOADER": "BAIXAR TEMAS",
-    "Theme Removed": "Tema Removido"
   },
   "muxthemefilter": {
     "All": "Todos",

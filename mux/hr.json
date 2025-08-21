@@ -37,8 +37,6 @@
     "Saving…": "Spremanje…",
     "Select": "Odaberi",
     "Shutting Down…": "Isključivanje…",
-    "Switch to Information": "Promijeni na Informaciju",
-    "Switch to Preview Image": "Promijeni na Preview Sliku",
     "Sync to SD1": "Sinkroniziraj na SD1",
     "This is disabled in kiosk mode!": "Ovo je onemogućeno u kiosk modu!",
     "Top": "Vrh",
@@ -122,7 +120,6 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Pokretanje sistema - Molimo pričekajte…",
     "Capacity": "Kapacitet",
-    "Press POWER button to continue booting…": "Pritisnite gumb za napajanje da nastavite pokretanje…",
     "Voltage": "Voltaža"
   },
   "muxcollect": {
@@ -211,7 +208,6 @@
     "Switch between different theme alternatives": "Izaberi različite tematske alternative",
     "Switch between pressing A or holding A to launch content save state automatically": "Switch between pressing A or holding A to launch content save state automatically",
     "Theme": "Tema",
-    "Theme Downloader": "Theme Downloader",
     "Theme Picker": "Berač Tema",
     "Theme Resolution": "Rezolucija Teme",
     "Toggle the background animation of the current selected theme": "Odredi animaciju pozadinr za trenutno odabranu temu",
@@ -399,7 +395,6 @@
     "RetroArch Kiosk": "RetroArch Kiosk",
     "Storage": "Pohrana",
     "Task Toolkit": "Alati za Zadatke",
-    "Theme Downloader": "Theme Downloader",
     "Timezone": "Vremenska Zona",
     "Web Services": "Web Usluge",
     "Wi-Fi Network": "Wi-Fi Mreža"
@@ -712,19 +707,6 @@
     "INPUT TESTER": "INPUT ISPITIVAČ",
     "Press DOWN + B to finish testing": "Pritisnite DOLJE + B da završite testing",
     "Press any button to start input testing!": "Pretisni bilo koji gumb da započnete input testing!"
-  },
-  "muxthemedownloader": {
-    "Download": "Download",
-    "Downloading Theme": "Downloading Theme",
-    "Downloading Theme Data": "Downloading Theme Data",
-    "Downloading Theme Previews": "Downloading Theme Previews",
-    "Error Retrieving Theme Data": "Error Retrieving Theme Data",
-    "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
-    "Remove": "Remove",
-    "THEME DOWNLOADER": "THEME DOWNLOADER",
-    "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {
     "All": "All",

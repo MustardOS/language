@@ -37,8 +37,6 @@
     "Saving…": "Zapisywanie…",
     "Select": "Wybierz",
     "Shutting Down…": "Zamykanie…",
-    "Switch to Information": "Zmień na informacje",
-    "Switch to Preview Image": "Zmień na obraz podglądu",
     "Sync to SD1": "Synchronizuj do SD1",
     "This is disabled in kiosk mode!": "Wyłączone w trybie kiosku!",
     "Top": "Góra",
@@ -122,7 +120,6 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Uruchamianie systemu - Proszę czekać…",
     "Capacity": "Pojemność",
-    "Press POWER button to continue booting…": "Wciśnij POWER, by kontynuować uruchamianie…",
     "Voltage": "Napięcie"
   },
   "muxcollect": {
@@ -211,7 +208,6 @@
     "Switch between different theme alternatives": "Wybierz między różnymi alternatywami motywu",
     "Switch between pressing A or holding A to launch content save state automatically": "Wybierz między wciskaniem A lub przytrzymaniem A, by automatycznie uruchomić zawartość ze stanu zapisu",
     "Theme": "Motyw",
-    "Theme Downloader": "Pobieranie motywów",
     "Theme Picker": "Wybór motywu",
     "Theme Resolution": "Rozdzielczość motywu",
     "Toggle the background animation of the current selected theme": "Włącz animację tła bieżącego motywu",
@@ -399,7 +395,6 @@
     "RetroArch Kiosk": "RetroArch kiosku",
     "Storage": "Pamięć",
     "Task Toolkit": "Przybornik zadań",
-    "Theme Downloader": "Pobieranie motywów",
     "Timezone": "Strefa czasowa",
     "Web Services": "Usługi sieciowe",
     "Wi-Fi Network": "Sieć Wi-Fi"
@@ -712,19 +707,6 @@
     "INPUT TESTER": "TESTER PRZYCISKÓW",
     "Press DOWN + B to finish testing": "Naciśnij DOWN + B, aby zakończyć testowanie",
     "Press any button to start input testing!": "Wciśnij dowolny przycisk, aby zacząć testowanie!"
-  },
-  "muxthemedownloader": {
-    "Download": "Pobierz",
-    "Downloading Theme": "Pobieranie motywu",
-    "Downloading Theme Data": "Pobieranie danych motywu",
-    "Downloading Theme Previews": "Pobieranie podglądów motywów",
-    "Error Retrieving Theme Data": "Błąd podczas pobierania danych motywu",
-    "No Content Found…": "Nie znaleziono zawartości…",
-    "Refresh": "Odśwież",
-    "Refreshing…": "Odświeżanie…",
-    "Remove": "Usuń",
-    "THEME DOWNLOADER": "POBIERANIE MOTYWÓW",
-    "Theme Removed": "Motyw usunięty"
   },
   "muxthemefilter": {
     "All": "Wszystko",

@@ -37,8 +37,6 @@
     "Saving…": "저장중…",
     "Select": "선택",
     "Shutting Down…": "시스템 종료중…",
-    "Switch to Information": "게임정보로 변경",
-    "Switch to Preview Image": "프리뷰 이미지로 변경",
     "Sync to SD1": "SD1에 싱크",
     "This is disabled in kiosk mode!": "이것은 키오스크 모드에서 비활성화됨!",
     "Top": "상단",
@@ -122,7 +120,6 @@
   "muxcharge": {
     "Booting System - Please Wait…": "시스템 부팅중 - 기다려주세요…",
     "Capacity": "배터리 용량",
-    "Press POWER button to continue booting…": "부팅을 계속하려면 전원 버튼을 누르세요…",
     "Voltage": "배터리 전압"
   },
   "muxcollect": {
@@ -211,7 +208,6 @@
     "Switch between different theme alternatives": "다양한 테마 대체 간 전환",
     "Switch between pressing A or holding A to launch content save state automatically": "A 누르기 또는 A 홀드로 콘텐츠 자동 상태 저장 실행 방법을 스위치",
     "Theme": "테마",
-    "Theme Downloader": "테마 다운로더",
     "Theme Picker": "테마 피커",
     "Theme Resolution": "테마 해상도",
     "Toggle the background animation of the current selected theme": "현재 선택한 테마의 배경 애니메이션 표시 여부 전환",
@@ -399,7 +395,6 @@
     "RetroArch Kiosk": "레트로아크 키오스크",
     "Storage": "저장소",
     "Task Toolkit": "태스크 툴킷",
-    "Theme Downloader": "테마 다운로더",
     "Timezone": "타임존",
     "Web Services": "웹 서비스",
     "Wi-Fi Network": "Wi-Fi 네트워크"
@@ -712,19 +707,6 @@
     "INPUT TESTER": "인풋 테스트기",
     "Press DOWN + B to finish testing": "테스트를 마치려면 아래방향 + B 버튼을 누르세요",
     "Press any button to start input testing!": "인풋 테스트를 시작하려면 아무 버튼이나 누르세요!"
-  },
-  "muxthemedownloader": {
-    "Download": "다운로드",
-    "Downloading Theme": "테마 다운로드 중",
-    "Downloading Theme Data": "테마 데이터 다운로드 중",
-    "Downloading Theme Previews": "테마 미리보기 다운로드 중",
-    "Error Retrieving Theme Data": "테마 데이터 회수 오류",
-    "No Content Found…": "콘텐츠가 없음…",
-    "Refresh": "새로고침",
-    "Refreshing…": "새로 고침중…",
-    "Remove": "제거",
-    "THEME DOWNLOADER": "테마 다운로더",
-    "Theme Removed": "테마 제거됨"
   },
   "muxthemefilter": {
     "All": "모두",

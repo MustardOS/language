@@ -37,8 +37,6 @@
     "Saving…": "Збереження…",
     "Select": "Вибрати",
     "Shutting Down…": "Вимкнення…",
-    "Switch to Information": "Перейти до інформації",
-    "Switch to Preview Image": "Перейти до Попереднього Перегляду Зображення",
     "Sync to SD1": "Синхронізувати на SD1",
     "This is disabled in kiosk mode!": "Це вимикає режим \"кіоску\"!",
     "Top": "Top",
@@ -122,7 +120,6 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Система завантажується - зачекайте будь ласка…",
     "Capacity": "Ємність",
-    "Press POWER button to continue booting…": "Натисніть кнопку POWER для продовження завантаження…",
     "Voltage": "Напруга"
   },
   "muxcollect": {
@@ -211,7 +208,6 @@
     "Switch between different theme alternatives": "Перемикатись між різними варіантами тем",
     "Switch between pressing A or holding A to launch content save state automatically": "Switch between pressing A or holding A to launch content save state automatically",
     "Theme": "Theme",
-    "Theme Downloader": "Theme Downloader",
     "Theme Picker": "Вибрати тему",
     "Theme Resolution": "Роздільна здатність теми",
     "Toggle the background animation of the current selected theme": "Перемикання фонової анімації поточної вибраної теми",
@@ -399,7 +395,6 @@
     "RetroArch Kiosk": "RetroArch Кіоск",
     "Storage": "Storage",
     "Task Toolkit": "Task Toolkit",
-    "Theme Downloader": "Theme Downloader",
     "Timezone": "Часова зона",
     "Web Services": "Веб Сервіси",
     "Wi-Fi Network": "Wi-Fi Network"
@@ -712,19 +707,6 @@
     "INPUT TESTER": "ТЕСТУВАННЯ ВВОДУ",
     "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "Натисніть будь-яку кнопку щоб почати тестування введення!"
-  },
-  "muxthemedownloader": {
-    "Download": "Download",
-    "Downloading Theme": "Downloading Theme",
-    "Downloading Theme Data": "Downloading Theme Data",
-    "Downloading Theme Previews": "Downloading Theme Previews",
-    "Error Retrieving Theme Data": "Error Retrieving Theme Data",
-    "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
-    "Remove": "Remove",
-    "THEME DOWNLOADER": "THEME DOWNLOADER",
-    "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {
     "All": "All",

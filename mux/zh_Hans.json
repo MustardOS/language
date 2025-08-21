@@ -37,8 +37,6 @@
     "Saving…": "Saving…",
     "Select": "选择",
     "Shutting Down…": "Shutting Down…",
-    "Switch to Information": "切换至详情",
-    "Switch to Preview Image": "切换至预览图",
     "Sync to SD1": "同步至SD卡1",
     "This is disabled in kiosk mode!": "访客模式下不可用！",
     "Top": "Top",
@@ -122,7 +120,6 @@
   "muxcharge": {
     "Booting System - Please Wait…": "系统启动中，请稍候…",
     "Capacity": "容量",
-    "Press POWER button to continue booting…": "按电源键继续启动…",
     "Voltage": "电压"
   },
   "muxcollect": {
@@ -211,7 +208,6 @@
     "Switch between different theme alternatives": "Switch between different theme alternatives",
     "Switch between pressing A or holding A to launch content save state automatically": "Switch between pressing A or holding A to launch content save state automatically",
     "Theme": "主题",
-    "Theme Downloader": "Theme Downloader",
     "Theme Picker": "主题中心",
     "Theme Resolution": "Theme Resolution",
     "Toggle the background animation of the current selected theme": "启用 / 禁用当前主题的背景动画",
@@ -399,7 +395,6 @@
     "RetroArch Kiosk": "RetroArch Kiosk",
     "Storage": "Storage",
     "Task Toolkit": "Task Toolkit",
-    "Theme Downloader": "Theme Downloader",
     "Timezone": "Timezone",
     "Web Services": "Web Services",
     "Wi-Fi Network": "Wi-Fi Network"
@@ -712,19 +707,6 @@
     "INPUT TESTER": "输入测试",
     "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "按下任意按键开始测试！"
-  },
-  "muxthemedownloader": {
-    "Download": "Download",
-    "Downloading Theme": "Downloading Theme",
-    "Downloading Theme Data": "Downloading Theme Data",
-    "Downloading Theme Previews": "Downloading Theme Previews",
-    "Error Retrieving Theme Data": "Error Retrieving Theme Data",
-    "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
-    "Remove": "Remove",
-    "THEME DOWNLOADER": "THEME DOWNLOADER",
-    "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {
     "All": "All",

@@ -37,8 +37,6 @@
     "Saving…": "保存中…",
     "Select": "選択する",
     "Shutting Down…": "終了中…",
-    "Switch to Information": "情報に切り替える",
-    "Switch to Preview Image": "プレビュー画像に切り替える",
     "Sync to SD1": "SD1へ同期する",
     "This is disabled in kiosk mode!": "この機能はキオスクモードでは無効です!",
     "Top": "トップ",
@@ -122,7 +120,6 @@
   "muxcharge": {
     "Booting System - Please Wait…": "システム起動中です - お待ちください…",
     "Capacity": "容量",
-    "Press POWER button to continue booting…": "起動を続けるには電源ボタンを押してください…",
     "Voltage": "電圧"
   },
   "muxcollect": {
@@ -211,7 +208,6 @@
     "Switch between different theme alternatives": "テーマの表示を切り替えます",
     "Switch between pressing A or holding A to launch content save state automatically": "中断セーブから自動再開する挙動を A ボタンの押下と長押しで切り替えます",
     "Theme": "テーマ",
-    "Theme Downloader": "テーマダウンロード",
     "Theme Picker": "テーマ選択",
     "Theme Resolution": "テーマ解像度",
     "Toggle the background animation of the current selected theme": "選択中のテーマの背景アニメーションを再生します",
@@ -399,7 +395,6 @@
     "RetroArch Kiosk": "RetroArch キオスク",
     "Storage": "ストレージ",
     "Task Toolkit": "タスクツール集",
-    "Theme Downloader": "テーマダウンロード",
     "Timezone": "タイムゾーン",
     "Web Services": "ウェブ関連機能",
     "Wi-Fi Network": "Wi-Fi ネットワーク"
@@ -712,19 +707,6 @@
     "INPUT TESTER": "入力テスト",
     "Press DOWN + B to finish testing": "↓ + B を押下してテストを終了します",
     "Press any button to start input testing!": "ボタンを押して入力テストを始めましょう!"
-  },
-  "muxthemedownloader": {
-    "Download": "ダウンロード",
-    "Downloading Theme": "テーマをダウンロードしています",
-    "Downloading Theme Data": "テーマのデータをダウンロードしています",
-    "Downloading Theme Previews": "テーマの見本をダウンロードしています",
-    "Error Retrieving Theme Data": "テーマのデータを受信できませんでした",
-    "No Content Found…": "コンテンツが見つかりませんでした…",
-    "Refresh": "再読み込み",
-    "Refreshing…": "再読み込み中…",
-    "Remove": "削除",
-    "THEME DOWNLOADER": "テーマダウンロード",
-    "Theme Removed": "テーマを削除しました"
   },
   "muxthemefilter": {
     "All": "全て",

@@ -37,8 +37,6 @@
     "Saving…": "儲存中…",
     "Select": "選擇",
     "Shutting Down…": "正在關機…",
-    "Switch to Information": "切換到資訊",
-    "Switch to Preview Image": "切換到預覽圖",
     "Sync to SD1": "同步到SD1",
     "This is disabled in kiosk mode!": "這在資訊亭模式下被禁用!",
     "Top": "頂部",
@@ -122,7 +120,6 @@
   "muxcharge": {
     "Booting System - Please Wait…": "系統啟動中 - 請稍待…",
     "Capacity": "容量",
-    "Press POWER button to continue booting…": "按下電源鈕繼續啟動…",
     "Voltage": "電壓"
   },
   "muxcollect": {
@@ -211,7 +208,6 @@
     "Switch between different theme alternatives": "在不同主題選項之間切換",
     "Switch between pressing A or holding A to launch content save state automatically": "切換短按 A 或按住 A 來自動啟動內容即時存檔",
     "Theme": "主題",
-    "Theme Downloader": "主題下載器",
     "Theme Picker": "主題選擇",
     "Theme Resolution": "主題分辨率",
     "Toggle the background animation of the current selected theme": "切換目前主題的背景動畫",
@@ -399,7 +395,6 @@
     "RetroArch Kiosk": "RetroArch資訊亭",
     "Storage": "儲存裝置",
     "Task Toolkit": "任務工具包",
-    "Theme Downloader": "主題下載器",
     "Timezone": "時區",
     "Web Services": "網路服務",
     "Wi-Fi Network": "無線網路"
@@ -712,19 +707,6 @@
     "INPUT TESTER": "按鍵測試",
     "Press DOWN + B to finish testing": "按 方向鍵下 + B 結束測試",
     "Press any button to start input testing!": "按任何鍵開始輸入測試！"
-  },
-  "muxthemedownloader": {
-    "Download": "下載",
-    "Downloading Theme": "主題下載中",
-    "Downloading Theme Data": "主題數據下載中",
-    "Downloading Theme Previews": "主題預覽下載中",
-    "Error Retrieving Theme Data": "檢索主題數據時出錯",
-    "No Content Found…": "找不到內容…",
-    "Refresh": "重新整理",
-    "Refreshing…": "重新整理中…",
-    "Remove": "移除",
-    "THEME DOWNLOADER": "主題下載器",
-    "Theme Removed": "主題已移除"
   },
   "muxthemefilter": {
     "All": "全部",
