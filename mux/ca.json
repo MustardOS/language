@@ -7,15 +7,18 @@
     "Change": "Canviar",
     "Channel": "Canal",
     "Clear": "Buidar",
+    "Close": "Close",
     "Collect": "Col·leccionar",
     "Directory": "Directori",
     "Disabled": "Deshabilitat",
+    "Download": "Download",
     "Edit": "Editar",
     "Enabled": "Habilitat",
     "Extract": "Extreure",
     "Filter": "Filter",
     "Individual": "Individual",
     "Info": "Info",
+    "Information": "Information",
     "Install": "Instal·lar",
     "Launch": "Iniciar",
     "Load": "Carregar",
@@ -26,6 +29,7 @@
     "No Information Found": "No s'ha trobat informació",
     "Not Connected": "No connectat",
     "Open": "Obrir",
+    "Preview Image": "Preview Image",
     "Previous": "Anterior",
     "Rebooting…": "Reiniciant…",
     "Recursive": "Recursiu",
@@ -35,6 +39,7 @@
     "Restricted": "Restringit",
     "Save": "Guardar",
     "Saving…": "Guardant…",
+    "Scroll": "Scroll",
     "Select": "Seleccionar",
     "Shutting Down…": "Apagant…",
     "Sync to SD1": "Sincronitzar a SD1",
@@ -51,6 +56,14 @@
     "No Applications Found": "No s'han trobat aplicacions",
     "Task Toolkit": "Eines per a tasques"
   },
+  "muxappcon": {
+    "APPLICATION OPTION": "APPLICATION OPTION",
+    "Control Scheme": "Control Scheme",
+    "Governor": "Governor",
+    "Name": "Name",
+    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
+    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+  },
   "muxarchive": {
     "ARCHIVE MANAGER": "GESTOR D'ARXIUS",
     "Archive items can be found and installed here - Save games and states, updates, themes etc": "Aquí es poden trobar els elements d'arxiu - Partides i estats guardats, actualitzacions, temes, etc",
@@ -61,6 +74,7 @@
     "ASSIGN": "ASSIGNAR",
     "Assigned to directory": "Assignat al directori",
     "Assigned to file": "Assignat a l'arxiu",
+    "Core Downloader": "Core Downloader",
     "No Cores Found…": "No s'han trobat nuclis…",
     "This is where you can assign a core or external emulator to content": "Aquí pots assignar un nucli o un emulador extern al contingut"
   },
@@ -120,6 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Arrencant sistema - Un moment…",
     "Capacity": "Capacitat",
+    "Press START button to continue booting…": "Press START button to continue booting…",
     "Voltage": "Voltatge"
   },
   "muxcollect": {
@@ -208,6 +223,7 @@
     "Switch between different theme alternatives": "Canvia entre diferents variacions del tema",
     "Switch between pressing A or holding A to launch content save state automatically": "Switch between pressing A or holding A to launch content save state automatically",
     "Theme": "Tema",
+    "Theme Download": "Theme Download",
     "Theme Picker": "Selector de Tema",
     "Theme Resolution": "Resolució del tema",
     "Toggle the background animation of the current selected theme": "Activa o desactiva l’animació de fons del tema actualment seleccionat",
@@ -270,6 +286,15 @@
     "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!",
     "Toggles internal Portmaster support on device": "Toggles internal Portmaster support on device",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!"
+  },
+  "muxdownload": {
+    "APP DOWNLOADER": "APP DOWNLOADER",
+    "Archive Removed": "Archive Removed",
+    "CORE DOWNLOADER": "CORE DOWNLOADER",
+    "Downloading Archive": "Downloading Archive",
+    "Downloading Data": "Downloading Data",
+    "Error Retrieving Data": "Error Retrieving Data",
+    "Refresh": "Refresh"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configura governadors de CPU per ajustar dinàmicament la freqüència de la CPU i ajudar a equilibrar el consum d'energia i rendiment",
@@ -395,6 +420,7 @@
     "RetroArch Kiosk": "Quisoc RetroArch",
     "Storage": "Emmagatzematge",
     "Task Toolkit": "Kit d’eines per a tasques",
+    "Theme Download": "Theme Download",
     "Timezone": "Zona horària",
     "Web Services": "Serveis web",
     "Wi-Fi Network": "Xarxa Wi-Fi"
@@ -544,6 +570,7 @@
     "No Custom Packages Found": "No s’han trobat paquets de personalització",
     "No Theme Packages Found": "No s’han trobat paquets de tema",
     "THEME PICKER": "SELECTOR DE TEMA",
+    "Theme Download": "Theme Download",
     "There are no attributed credits!": "No hi ha crèdits atribuïts!"
   },
   "muxplore": {
@@ -707,6 +734,19 @@
     "INPUT TESTER": "COMPROVADOR D'ENTRADA",
     "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "Prem qualsevol botó per començar la prova d'entrada!"
+  },
+  "muxthemedown": {
+    "Download": "Download",
+    "Downloading Theme": "Downloading Theme",
+    "Downloading Theme Data": "Downloading Theme Data",
+    "Downloading Theme Previews": "Downloading Theme Previews",
+    "Error Retrieving Theme Data": "Error Retrieving Theme Data",
+    "No Content Found…": "No Content Found…",
+    "Refresh": "Refresh",
+    "Refreshing…": "Refreshing…",
+    "Remove": "Remove",
+    "THEME DOWNLOAD": "THEME DOWNLOAD",
+    "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {
     "All": "All",
