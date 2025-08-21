@@ -7,15 +7,18 @@
     "Change": "変更する",
     "Channel": "チャンネル",
     "Clear": "消去する",
+    "Close": "Close",
     "Collect": "集める",
     "Directory": "ディレクトリごと指定",
     "Disabled": "無効",
+    "Download": "Download",
     "Edit": "編集する",
     "Enabled": "有効",
     "Extract": "解凍する",
     "Filter": "抽出",
     "Individual": "個別に指定",
     "Info": "情報",
+    "Information": "Information",
     "Install": "インストールする",
     "Launch": "起動する",
     "Load": "設定を読み込む",
@@ -26,6 +29,7 @@
     "No Information Found": "情報が見つかりませんでした",
     "Not Connected": "未接続",
     "Open": "開く",
+    "Preview Image": "Preview Image",
     "Previous": "現在の設定を使用",
     "Rebooting…": "再起動中…",
     "Recursive": "再帰的に指定",
@@ -35,6 +39,7 @@
     "Restricted": "制限中",
     "Save": "保存して戻る",
     "Saving…": "保存中…",
+    "Scroll": "Scroll",
     "Select": "選択する",
     "Shutting Down…": "終了中…",
     "Sync to SD1": "SD1へ同期する",
@@ -51,6 +56,14 @@
     "No Applications Found": "アプリケーションが見つかりませんでした",
     "Task Toolkit": "タスクツール集"
   },
+  "muxappcon": {
+    "APPLICATION OPTION": "APPLICATION OPTION",
+    "Control Scheme": "Control Scheme",
+    "Governor": "Governor",
+    "Name": "Name",
+    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
+    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+  },
   "muxarchive": {
     "ARCHIVE MANAGER": "アーカイブマネージャー",
     "Archive items can be found and installed here - Save games and states, updates, themes etc": "アーカイブ項目をインストールします\n（セーブデータ・中断セーブ・アップデート・テーマ等）",
@@ -61,6 +74,7 @@
     "ASSIGN": "指定する",
     "Assigned to directory": "ディレクトリに割り当てられています",
     "Assigned to file": "ファイルに割り当てられています",
+    "Core Downloader": "Core Downloader",
     "No Cores Found…": "コアが見つかりませんでした…",
     "This is where you can assign a core or external emulator to content": "コアまたは個別エミュレータをコンテンツに関連づけます"
   },
@@ -120,6 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "システム起動中です - お待ちください…",
     "Capacity": "容量",
+    "Press START button to continue booting…": "Press START button to continue booting…",
     "Voltage": "電圧"
   },
   "muxcollect": {
@@ -208,6 +223,7 @@
     "Switch between different theme alternatives": "テーマの表示を切り替えます",
     "Switch between pressing A or holding A to launch content save state automatically": "中断セーブから自動再開する挙動を A ボタンの押下と長押しで切り替えます",
     "Theme": "テーマ",
+    "Theme Download": "Theme Download",
     "Theme Picker": "テーマ選択",
     "Theme Resolution": "テーマ解像度",
     "Toggle the background animation of the current selected theme": "選択中のテーマの背景アニメーションを再生します",
@@ -270,6 +286,15 @@
     "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!",
     "Toggles internal Portmaster support on device": "Toggles internal Portmaster support on device",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!"
+  },
+  "muxdownload": {
+    "APP DOWNLOADER": "APP DOWNLOADER",
+    "Archive Removed": "Archive Removed",
+    "CORE DOWNLOADER": "CORE DOWNLOADER",
+    "Downloading Archive": "Downloading Archive",
+    "Downloading Data": "Downloading Data",
+    "Error Retrieving Data": "Error Retrieving Data",
+    "Refresh": "Refresh"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU周波数を動的に管理し、消費電力と処理能力を調節するガバナーを設定します",
@@ -395,6 +420,7 @@
     "RetroArch Kiosk": "RetroArch キオスク",
     "Storage": "ストレージ",
     "Task Toolkit": "タスクツール集",
+    "Theme Download": "Theme Download",
     "Timezone": "タイムゾーン",
     "Web Services": "ウェブ関連機能",
     "Wi-Fi Network": "Wi-Fi ネットワーク"
@@ -544,6 +570,7 @@
     "No Custom Packages Found": "カスタムパッケージが見つかりませんでした",
     "No Theme Packages Found": "テーマパッケージが見つかりませんでした",
     "THEME PICKER": "テーマ一覧",
+    "Theme Download": "Theme Download",
     "There are no attributed credits!": "製作者の表記がありません!"
   },
   "muxplore": {
@@ -707,6 +734,19 @@
     "INPUT TESTER": "入力テスト",
     "Press DOWN + B to finish testing": "↓ + B を押下してテストを終了します",
     "Press any button to start input testing!": "ボタンを押して入力テストを始めましょう!"
+  },
+  "muxthemedown": {
+    "Download": "Download",
+    "Downloading Theme": "Downloading Theme",
+    "Downloading Theme Data": "Downloading Theme Data",
+    "Downloading Theme Previews": "Downloading Theme Previews",
+    "Error Retrieving Theme Data": "Error Retrieving Theme Data",
+    "No Content Found…": "No Content Found…",
+    "Refresh": "Refresh",
+    "Refreshing…": "Refreshing…",
+    "Remove": "Remove",
+    "THEME DOWNLOAD": "THEME DOWNLOAD",
+    "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {
     "All": "全て",
