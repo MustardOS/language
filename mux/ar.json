@@ -7,15 +7,18 @@
     "Change": "Change",
     "Channel": "Channel",
     "Clear": "إمسح",
+    "Close": "Close",
     "Collect": "إجمع",
     "Directory": "المجلد",
     "Disabled": "معطل",
+    "Download": "Download",
     "Edit": "Edit",
     "Enabled": "مفعل",
     "Extract": "إستخراج",
     "Filter": "Filter",
     "Individual": "فرد",
     "Info": "معلومات",
+    "Information": "Information",
     "Install": "Install",
     "Launch": "تشغيل",
     "Load": "حمّل",
@@ -26,6 +29,7 @@
     "No Information Found": "لم يتم العثور على المعلومات",
     "Not Connected": "Not Connected",
     "Open": "فتح",
+    "Preview Image": "Preview Image",
     "Previous": "السابق",
     "Rebooting…": "Rebooting…",
     "Recursive": "تكراري",
@@ -35,10 +39,9 @@
     "Restricted": "Restricted",
     "Save": "حفظ",
     "Saving…": "Saving…",
+    "Scroll": "Scroll",
     "Select": "تحديد",
     "Shutting Down…": "Shutting Down…",
-    "Switch to Information": "عرض المعلومات",
-    "Switch to Preview Image": "عرض الصورة",
     "Sync to SD1": "زامن إلى SD1",
     "This is disabled in kiosk mode!": "معطل في وضع الكشك!",
     "Top": "Top",
@@ -53,6 +56,14 @@
     "No Applications Found": "لم يتم العثور على تطبيقات",
     "Task Toolkit": "أدوات المهام"
   },
+  "muxappcon": {
+    "APPLICATION OPTION": "APPLICATION OPTION",
+    "Control Scheme": "Control Scheme",
+    "Governor": "Governor",
+    "Name": "Name",
+    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
+    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+  },
   "muxarchive": {
     "ARCHIVE MANAGER": "مدير الأرشيف",
     "Archive items can be found and installed here - Save games and states, updates, themes etc": "يمكن العثور على عناصر الأرشيف وتثبيتها من هنا - حفظ الألعاب والحالات والتحديثات والثيمات إلخ",
@@ -63,6 +74,7 @@
     "ASSIGN": "عيّن",
     "Assigned to directory": "تم تعيينه إلى المجلد",
     "Assigned to file": "تم تعيينه إلى الملف",
+    "Core Downloader": "Core Downloader",
     "No Cores Found…": "لم يتم العثور على أي نواة…",
     "This is where you can assign a core or external emulator to content": "هذا هو المكان الذي يمكنك تعيين نواة أو محاكي خارجي إلى المحتوى"
   },
@@ -122,7 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "جاري تمهيد النظام - يرجى الانتظار…",
     "Capacity": "سعة البطارية",
-    "Press POWER button to continue booting…": "اضغط زر التشغيل لمواصلة التشغيل…",
+    "Press START button to continue booting…": "Press START button to continue booting…",
     "Voltage": "جهد البطارية"
   },
   "muxcollect": {
@@ -211,7 +223,7 @@
     "Switch between different theme alternatives": "Switch between different theme alternatives",
     "Switch between pressing A or holding A to launch content save state automatically": "Switch between pressing A or holding A to launch content save state automatically",
     "Theme": "ثيم",
-    "Theme Downloader": "Theme Downloader",
+    "Theme Download": "Theme Download",
     "Theme Picker": "أداة اختيار الثيم",
     "Theme Resolution": "Theme Resolution",
     "Toggle the background animation of the current selected theme": "تبديل الرسوم المتحركة الخلفية للثيم المحدد",
@@ -274,6 +286,15 @@
     "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!",
     "Toggles internal Portmaster support on device": "Toggles internal Portmaster support on device",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!"
+  },
+  "muxdownload": {
+    "APP DOWNLOADER": "APP DOWNLOADER",
+    "Archive Removed": "Archive Removed",
+    "CORE DOWNLOADER": "CORE DOWNLOADER",
+    "Downloading Archive": "Downloading Archive",
+    "Downloading Data": "Downloading Data",
+    "Error Retrieving Data": "Error Retrieving Data",
+    "Refresh": "Refresh"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "ضبط منظم وحدة المعالجة المركزية لتعديل التردد بشكل ديناميكي والمساعدة في موازنة استهلاك الطاقة والأداء",
@@ -399,7 +420,7 @@
     "RetroArch Kiosk": "RetroArch Kiosk",
     "Storage": "Storage",
     "Task Toolkit": "Task Toolkit",
-    "Theme Downloader": "Theme Downloader",
+    "Theme Download": "Theme Download",
     "Timezone": "Timezone",
     "Web Services": "Web Services",
     "Wi-Fi Network": "Wi-Fi Network"
@@ -549,6 +570,7 @@
     "No Custom Packages Found": "لم يتم العثور على حزم التخصيصات",
     "No Theme Packages Found": "لم يتم العثور على حزم الثيمات",
     "THEME PICKER": "محدد الثيم",
+    "Theme Download": "Theme Download",
     "There are no attributed credits!": "لا توجد أي اعتمادات منسوبة!"
   },
   "muxplore": {
@@ -713,7 +735,7 @@
     "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "اضغط على أي زر لبدئ فحص الإدخال!"
   },
-  "muxthemedownloader": {
+  "muxthemedown": {
     "Download": "Download",
     "Downloading Theme": "Downloading Theme",
     "Downloading Theme Data": "Downloading Theme Data",
@@ -723,7 +745,7 @@
     "Refresh": "Refresh",
     "Refreshing…": "Refreshing…",
     "Remove": "Remove",
-    "THEME DOWNLOADER": "THEME DOWNLOADER",
+    "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {

@@ -7,15 +7,18 @@
     "Change": "Змінити",
     "Channel": "Канал",
     "Clear": "Очистити",
+    "Close": "Close",
     "Collect": "Додати до колекції",
     "Directory": "Директорія",
     "Disabled": "Вимкнено",
+    "Download": "Download",
     "Edit": "Редагувати",
     "Enabled": "Увімкнено",
     "Extract": "Видобути",
     "Filter": "Filter",
     "Individual": "Власний",
     "Info": "Інформація",
+    "Information": "Information",
     "Install": "Встановлення",
     "Launch": "Запустити",
     "Load": "Завантажити",
@@ -26,6 +29,7 @@
     "No Information Found": "Інформацію не знайдено",
     "Not Connected": "З'єднання відсутнє",
     "Open": "Відкрити",
+    "Preview Image": "Preview Image",
     "Previous": "Встановлена",
     "Rebooting…": "Перезавантаження…",
     "Recursive": "Повторюваний",
@@ -35,10 +39,9 @@
     "Restricted": "Restricted",
     "Save": "Зберегти",
     "Saving…": "Збереження…",
+    "Scroll": "Scroll",
     "Select": "Вибрати",
     "Shutting Down…": "Вимкнення…",
-    "Switch to Information": "Перейти до інформації",
-    "Switch to Preview Image": "Перейти до Попереднього Перегляду Зображення",
     "Sync to SD1": "Синхронізувати на SD1",
     "This is disabled in kiosk mode!": "Це вимикає режим \"кіоску\"!",
     "Top": "Top",
@@ -53,6 +56,14 @@
     "No Applications Found": "Додатків Не Знайдено",
     "Task Toolkit": "Набір завдань"
   },
+  "muxappcon": {
+    "APPLICATION OPTION": "APPLICATION OPTION",
+    "Control Scheme": "Control Scheme",
+    "Governor": "Governor",
+    "Name": "Name",
+    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
+    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+  },
   "muxarchive": {
     "ARCHIVE MANAGER": "МЕНЕДЖЕР АРХІВІВ",
     "Archive items can be found and installed here - Save games and states, updates, themes etc": "Тут можна знайти та встановити архівовані елементи - Ігрові збереження, оновлення, теми та інше",
@@ -63,6 +74,7 @@
     "ASSIGN": "ПРИЗНАЧИТИ",
     "Assigned to directory": "Прив'язаний до директорії",
     "Assigned to file": "Прив'язаний до файлу",
+    "Core Downloader": "Core Downloader",
     "No Cores Found…": "Ядер не знайдено…",
     "This is where you can assign a core or external emulator to content": "Тут Ви можете призначити контенту ядро або зовнішній емулятор"
   },
@@ -122,7 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Система завантажується - зачекайте будь ласка…",
     "Capacity": "Ємність",
-    "Press POWER button to continue booting…": "Натисніть кнопку POWER для продовження завантаження…",
+    "Press START button to continue booting…": "Press START button to continue booting…",
     "Voltage": "Напруга"
   },
   "muxcollect": {
@@ -211,7 +223,7 @@
     "Switch between different theme alternatives": "Перемикатись між різними варіантами тем",
     "Switch between pressing A or holding A to launch content save state automatically": "Switch between pressing A or holding A to launch content save state automatically",
     "Theme": "Theme",
-    "Theme Downloader": "Theme Downloader",
+    "Theme Download": "Theme Download",
     "Theme Picker": "Вибрати тему",
     "Theme Resolution": "Роздільна здатність теми",
     "Toggle the background animation of the current selected theme": "Перемикання фонової анімації поточної вибраної теми",
@@ -274,6 +286,15 @@
     "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!",
     "Toggles internal Portmaster support on device": "Toggles internal Portmaster support on device",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!"
+  },
+  "muxdownload": {
+    "APP DOWNLOADER": "APP DOWNLOADER",
+    "Archive Removed": "Archive Removed",
+    "CORE DOWNLOADER": "CORE DOWNLOADER",
+    "Downloading Archive": "Downloading Archive",
+    "Downloading Data": "Downloading Data",
+    "Error Retrieving Data": "Error Retrieving Data",
+    "Refresh": "Refresh"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Налаштувати CPU менеджер, щоб динамічно керувати частотою процесора зберігаючи баланс між споживанням енергії та швидкодією",
@@ -399,7 +420,7 @@
     "RetroArch Kiosk": "RetroArch Кіоск",
     "Storage": "Storage",
     "Task Toolkit": "Task Toolkit",
-    "Theme Downloader": "Theme Downloader",
+    "Theme Download": "Theme Download",
     "Timezone": "Часова зона",
     "Web Services": "Веб Сервіси",
     "Wi-Fi Network": "Wi-Fi Network"
@@ -549,6 +570,7 @@
     "No Custom Packages Found": "No Custom Packages Found",
     "No Theme Packages Found": "No Theme Packages Found",
     "THEME PICKER": "THEME PICKER",
+    "Theme Download": "Theme Download",
     "There are no attributed credits!": "There are no attributed credits!"
   },
   "muxplore": {
@@ -713,7 +735,7 @@
     "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "Натисніть будь-яку кнопку щоб почати тестування введення!"
   },
-  "muxthemedownloader": {
+  "muxthemedown": {
     "Download": "Download",
     "Downloading Theme": "Downloading Theme",
     "Downloading Theme Data": "Downloading Theme Data",
@@ -723,7 +745,7 @@
     "Refresh": "Refresh",
     "Refreshing…": "Refreshing…",
     "Remove": "Remove",
-    "THEME DOWNLOADER": "THEME DOWNLOADER",
+    "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {

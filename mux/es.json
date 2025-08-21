@@ -7,15 +7,18 @@
     "Change": "Cambiar",
     "Channel": "Canal",
     "Clear": "Limpiar",
+    "Close": "Close",
     "Collect": "Recopila",
     "Directory": "Directorio",
     "Disabled": "Deshabilitado",
+    "Download": "Download",
     "Edit": "Editar",
     "Enabled": "Habilitado",
     "Extract": "Extraer",
-    "Filter": "Filter",
+    "Filter": "Filtro",
     "Individual": "Individual",
     "Info": "Información",
+    "Information": "Information",
     "Install": "Instalar",
     "Launch": "Lanzar",
     "Load": "Cargar",
@@ -26,6 +29,7 @@
     "No Information Found": "No se encontró información",
     "Not Connected": "No conectado",
     "Open": "Abrir",
+    "Preview Image": "Preview Image",
     "Previous": "Anterior",
     "Rebooting…": "Reiniciando…",
     "Recursive": "Recursivo",
@@ -35,10 +39,9 @@
     "Restricted": "Restringido",
     "Save": "Guardar",
     "Saving…": "Guardando…",
+    "Scroll": "Scroll",
     "Select": "Seleccionar",
     "Shutting Down…": "Apagando…",
-    "Switch to Information": "Cambiar a Información",
-    "Switch to Preview Image": "Cambiar a vista previa",
     "Sync to SD1": "Sincronizar con SD1",
     "This is disabled in kiosk mode!": "¡Esta función está deshabilitada en el modo quiosco!",
     "Top": "Arriba",
@@ -53,6 +56,14 @@
     "No Applications Found": "No se encontraron aplicaciones",
     "Task Toolkit": "Conjunto de herramientas de tareas"
   },
+  "muxappcon": {
+    "APPLICATION OPTION": "APPLICATION OPTION",
+    "Control Scheme": "Control Scheme",
+    "Governor": "Governor",
+    "Name": "Name",
+    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
+    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+  },
   "muxarchive": {
     "ARCHIVE MANAGER": "GESTOR DE ARCHIVOS",
     "Archive items can be found and installed here - Save games and states, updates, themes etc": "Elementos archivados se pueden encontrar e instalar aquí - Partidas guardadas, actualizaciones, temas, etc",
@@ -63,6 +74,7 @@
     "ASSIGN": "ASIGNAR",
     "Assigned to directory": "Asignado al directorio",
     "Assigned to file": "Asignado al archivo",
+    "Core Downloader": "Core Downloader",
     "No Cores Found…": "No se encontraron núcleos…",
     "This is where you can assign a core or external emulator to content": "Aquí es donde puedes asignar un núcleo o emulador externo al contenido"
   },
@@ -122,7 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Arrancando el sistema - Por favor espere…",
     "Capacity": "Capacidad",
-    "Press POWER button to continue booting…": "Presione el botón de ENCENDIDO para continuar con el arranque…",
+    "Press START button to continue booting…": "Press START button to continue booting…",
     "Voltage": "Voltaje"
   },
   "muxcollect": {
@@ -190,7 +202,7 @@
     "Content Launch Splash": "Lanzamiento de contenido de bienvenida",
     "Content Save State Launch": "Iniciar Estado de Guardado del contenido",
     "Content Shuffle": "Mezcla de contenidos",
-    "Download themes from the muOS website": "Download themes from the muOS website",
+    "Download themes from the muOS website": "Descargar temas desde el sitio web de muOS",
     "Front": "Delante",
     "Fullscreen + Behind": "A pantalla completa + Detrás",
     "Fullscreen + Front": "A pantalla completa + Delante",
@@ -211,7 +223,7 @@
     "Switch between different theme alternatives": "Cambiar entre diferentes alternativas de temas",
     "Switch between pressing A or holding A to launch content save state automatically": "Cambia entre pulsar o mantener A para arrancar el estado guardado del contenido automáticamente",
     "Theme": "Tema",
-    "Theme Downloader": "Theme Downloader",
+    "Theme Download": "Theme Download",
     "Theme Picker": "Selector de Tema",
     "Theme Resolution": "Resolución del tema",
     "Toggle the background animation of the current selected theme": "Alternar la animación de fondo del tema seleccionado actualmente",
@@ -274,6 +286,15 @@
     "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Activa el soporte para el interruptor de sala (tapa) en el dispositivo\n\n¡No lo actives en dispositivos sin tapa!",
     "Toggles internal Portmaster support on device": "Activa o desactiva la compatibilidad interna con Portmaster en el dispositivo",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Activa el montaje de DebugFS a nivel del kernel al iniciar el sistema.\n\n¡Es mejor dejar esta opción activada a menos que se indique lo contrario!"
+  },
+  "muxdownload": {
+    "APP DOWNLOADER": "APP DOWNLOADER",
+    "Archive Removed": "Archive Removed",
+    "CORE DOWNLOADER": "CORE DOWNLOADER",
+    "Downloading Archive": "Downloading Archive",
+    "Downloading Data": "Downloading Data",
+    "Error Retrieving Data": "Error Retrieving Data",
+    "Refresh": "Refresh"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configura los gobernadores de la CPU para ajustar dinámicamente la frecuencia de la CPU y ayudar a equilibrar el consumo de energía y el rendimiento",
@@ -390,7 +411,7 @@
     "Permit changing system themes": "Permitir cambiar los temas del sistema",
     "Permit changing the system language": "Permitir cambiar el idioma del sistema",
     "Permit deletion of collections": "Permitir la eliminación de colecciones",
-    "Permit downloading of themes": "Permit downloading of themes",
+    "Permit downloading of themes": "Permitir la descarga de temas",
     "Permit power options such as shutdown or sleep": "Permitir opciones de energía como apagar o suspender",
     "Permit tagging and metadata changes": "Permitir el etiquetado y los cambios en los metadatos",
     "Power Settings": "Ajustes de energía",
@@ -399,7 +420,7 @@
     "RetroArch Kiosk": "Quiosco RetroArch",
     "Storage": "Almacenamiento",
     "Task Toolkit": "Kit de herramientas de tareas",
-    "Theme Downloader": "Theme Downloader",
+    "Theme Download": "Theme Download",
     "Timezone": "Zona horaria",
     "Web Services": "Servicios web",
     "Wi-Fi Network": "Red Wi-Fi"
@@ -549,6 +570,7 @@
     "No Custom Packages Found": "No se han encontrado paquetes personalizados",
     "No Theme Packages Found": "No se han encontrado paquetes temáticos",
     "THEME PICKER": "SELECCIONADOR DE TEMA",
+    "Theme Download": "Theme Download",
     "There are no attributed credits!": "¡No hay créditos atribuidos!"
   },
   "muxplore": {
@@ -713,7 +735,7 @@
     "Press DOWN + B to finish testing": "Presiona ABAJO + B para finalizar la prueba",
     "Press any button to start input testing!": "¡Presione cualquier botón para iniciar el comprobador de entradas!"
   },
-  "muxthemedownloader": {
+  "muxthemedown": {
     "Download": "Download",
     "Downloading Theme": "Downloading Theme",
     "Downloading Theme Data": "Downloading Theme Data",
@@ -723,23 +745,23 @@
     "Refresh": "Refresh",
     "Refreshing…": "Refreshing…",
     "Remove": "Remove",
-    "THEME DOWNLOADER": "THEME DOWNLOADER",
+    "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {
-    "All": "All",
-    "Device": "Device",
-    "Filter to theme with a name containing lookup text.": "Filter to theme with a name containing lookup text.",
-    "Filter to themes for this device or all themes.  All themes can work on any device but if the theme does not implement your devices resolution it will be letterboxed.": "Filter to themes for this device or all themes.  All themes can work on any device but if the theme does not implement your devices resolution it will be letterboxed.",
-    "Filter to themes that let muOS handle translating text.  Themes that use static images for the main menu will be filtere out.": "Filter to themes that let muOS handle translating text.  Themes that use static images for the main menu will be filtere out.",
-    "Filter to themes that support HDMI resolution 1280x720.  Themes will still work on HDMI without support for 1280x720 but content will be letterboxed.": "Filter to themes that support HDMI resolution 1280x720.  Themes will still work on HDMI without support for 1280x720 but content will be letterboxed.",
-    "Filter to themes that support displaying content folders in a tile layout": "Filter to themes that support displaying content folders in a tile layout",
-    "Grid": "Grid",
+    "All": "Todos",
+    "Device": "Dispositivo",
+    "Filter to theme with a name containing lookup text.": "Filtrar por tema con un nombre que contenga el texto de búsqueda.",
+    "Filter to themes for this device or all themes.  All themes can work on any device but if the theme does not implement your devices resolution it will be letterboxed.": "Filtra por temas para este dispositivo o todos los temas.  Todos los temas pueden funcionar en cualquier dispositivo, pero si el tema no implementa la resolución de tu dispositivo, se mostrará con bandas negras.",
+    "Filter to themes that let muOS handle translating text.  Themes that use static images for the main menu will be filtere out.": "Filtra los temas que permiten a muOS gestionar la traducción del texto.  Los temas que utilizan imágenes estáticas para el menú principal serán filtrados.",
+    "Filter to themes that support HDMI resolution 1280x720.  Themes will still work on HDMI without support for 1280x720 but content will be letterboxed.": "Filtra los temas que admiten la resolución HDMI 1280x720.  Los temas seguirán funcionando en HDMI sin compatibilidad con 1280x720, pero el contenido se mostrará con bandas negras.",
+    "Filter to themes that support displaying content folders in a tile layout": "Filtrar por temas que admiten la visualización de carpetas de contenido en un diseño de mosaico",
+    "Grid": "Cuadrícula",
     "HDMI": "HDMI",
-    "Language": "Language",
-    "Lookup": "Lookup",
-    "THEME FILTER": "THEME FILTER",
-    "Theme Compatibility": "Theme Compatibility"
+    "Language": "Idioma",
+    "Lookup": "Búsqueda",
+    "THEME FILTER": "FILTRO DE TEMAS",
+    "Theme Compatibility": "Compatibilidad con temas"
   },
   "muxtimezone": {
     "No Timezones Found…": "No se han encontrado zonas horarias…",
@@ -778,7 +800,7 @@
     "Passcode Lock": "Bloqueo con código de acceso",
     "Random Theme on Boot": "Tema aleatorio al arrancar",
     "Retro": "Retro",
-    "RetroArch Config Freedom": "RetroArch Config Freedom",
+    "RetroArch Config Freedom": "Libertad de configuración de RetroArch",
     "RetroArch Network Wait": "RetroArch espera a red",
     "Secondary Partition": "Partición secundaria",
     "Shutdown": "Apagado",
@@ -796,7 +818,7 @@
     "Toggle startup and shutdown verbose messages used for debugging faults": "Conmutar los mensajes detallados de encendido y apagado utilizados para depurar fallos",
     "Toggle the audio overdrive moving it from 100% to 200%": "Alternar la saturación de audio moviéndola del 100% al 200%",
     "Toggle the device display suspend function, however some displays will not like this enabled": "Activa o desactiva la función de suspensión de la pantalla del dispositivo; sin embargo, a algunas pantallas no les gustará que esté activada",
-    "Toggle the forced settings muOS places on RetroArch configurations": "Toggle the forced settings muOS places on RetroArch configurations",
+    "Toggle the forced settings muOS places on RetroArch configurations": "Activa o desactiva los ajustes forzados que muOS aplica a las configuraciones de RetroArch",
     "Toggle the functionality of the power button to switch DPAD mode": "Alternar la funcionalidad del botón de encendido para cambiar el modo DPAD",
     "Toggle the functionality of the user initialisation scripts on device startup": "Alternar la funcionalidad de los scripts de inicialización de usuario al encender el dispositivo",
     "Toggle the lid switch functionality for the device": "Activar la función de interruptor de tapa para el dispositivo",

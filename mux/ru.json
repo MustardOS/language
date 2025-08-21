@@ -7,15 +7,18 @@
     "Change": "Изменить",
     "Channel": "Канал",
     "Clear": "Очистить",
+    "Close": "Close",
     "Collect": "Коллекция",
     "Directory": "К папке",
     "Disabled": "Выкл",
+    "Download": "Download",
     "Edit": "Редактировать",
     "Enabled": "Вкл",
     "Extract": "Извлечь",
     "Filter": "Filter",
     "Individual": "К файлу",
     "Info": "Инфо",
+    "Information": "Information",
     "Install": "Установить",
     "Launch": "Запуск",
     "Load": "Загрузить",
@@ -26,6 +29,7 @@
     "No Information Found": "Информация не найдена",
     "Not Connected": "Не подключено",
     "Open": "Открыть",
+    "Preview Image": "Preview Image",
     "Previous": "Предыдущая",
     "Rebooting…": "Перезагрузка…",
     "Recursive": "К папке с подпапками",
@@ -35,10 +39,9 @@
     "Restricted": "Restricted",
     "Save": "Сохранить",
     "Saving…": "Сохранение…",
+    "Scroll": "Scroll",
     "Select": "Выбрать",
     "Shutting Down…": "Выключение…",
-    "Switch to Information": "Перейти к информации",
-    "Switch to Preview Image": "Перейти к превью",
     "Sync to SD1": "Синхронизировать на SD1",
     "This is disabled in kiosk mode!": "Отключено в режиме киоска!",
     "Top": "Верх",
@@ -53,6 +56,14 @@
     "No Applications Found": "Приложения не найдены",
     "Task Toolkit": "Инструменты"
   },
+  "muxappcon": {
+    "APPLICATION OPTION": "APPLICATION OPTION",
+    "Control Scheme": "Control Scheme",
+    "Governor": "Governor",
+    "Name": "Name",
+    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
+    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+  },
   "muxarchive": {
     "ARCHIVE MANAGER": "МЕНЕДЖЕР АРХИВОВ",
     "Archive items can be found and installed here - Save games and states, updates, themes etc": "Здесь можно найти и установить такие элементы, как сохранения игр и сейв-стейты, обновления, темы и т.д.",
@@ -63,6 +74,7 @@
     "ASSIGN": "ПРИВЯЗАТЬ",
     "Assigned to directory": "Привязано к папке",
     "Assigned to file": "Привязано к файлу",
+    "Core Downloader": "Core Downloader",
     "No Cores Found…": "Ядра не найдены…",
     "This is where you can assign a core or external emulator to content": "Здесь вы можете привязать ядро или внешний эмулятор для игры"
   },
@@ -122,7 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Запуск системы - Пожалуйста, подождите…",
     "Capacity": "Емкость",
-    "Press POWER button to continue booting…": "Нажмите кнопку ПИТАНИЕ для продолжения запуска…",
+    "Press START button to continue booting…": "Press START button to continue booting…",
     "Voltage": "Напряжение"
   },
   "muxcollect": {
@@ -211,7 +223,7 @@
     "Switch between different theme alternatives": "Выбор альтернативного варианта темы",
     "Switch between pressing A or holding A to launch content save state automatically": "Switch between pressing A or holding A to launch content save state automatically",
     "Theme": "Тема",
-    "Theme Downloader": "Theme Downloader",
+    "Theme Download": "Theme Download",
     "Theme Picker": "Выбор темы",
     "Theme Resolution": "Разрешение темы",
     "Toggle the background animation of the current selected theme": "Воспроизведение фоновой анимацию текущей темы",
@@ -274,6 +286,15 @@
     "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!",
     "Toggles internal Portmaster support on device": "Toggles internal Portmaster support on device",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!"
+  },
+  "muxdownload": {
+    "APP DOWNLOADER": "APP DOWNLOADER",
+    "Archive Removed": "Archive Removed",
+    "CORE DOWNLOADER": "CORE DOWNLOADER",
+    "Downloading Archive": "Downloading Archive",
+    "Downloading Data": "Downloading Data",
+    "Error Retrieving Data": "Error Retrieving Data",
+    "Refresh": "Refresh"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Настройка регулятор ЦП для динамической регулировки частоты ЦП и обеспечения сбалансированного энергопотребления и производительности",
@@ -399,7 +420,7 @@
     "RetroArch Kiosk": "RetroArch киоск",
     "Storage": "Память",
     "Task Toolkit": "Инструменты",
-    "Theme Downloader": "Theme Downloader",
+    "Theme Download": "Theme Download",
     "Timezone": "Часовой пояс",
     "Web Services": "Веб сервисы",
     "Wi-Fi Network": "Сеть Wi-Fi"
@@ -549,6 +570,7 @@
     "No Custom Packages Found": "Пакеты кастомов не найдены",
     "No Theme Packages Found": "Пакеты тем не найдены",
     "THEME PICKER": "ВЫБОР ТЕМЫ",
+    "Theme Download": "Theme Download",
     "There are no attributed credits!": "Не найдено применимых атрибутов!"
   },
   "muxplore": {
@@ -713,7 +735,7 @@
     "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "Нажмите любую кнопку для запуска проверки!"
   },
-  "muxthemedownloader": {
+  "muxthemedown": {
     "Download": "Download",
     "Downloading Theme": "Downloading Theme",
     "Downloading Theme Data": "Downloading Theme Data",
@@ -723,7 +745,7 @@
     "Refresh": "Refresh",
     "Refreshing…": "Refreshing…",
     "Remove": "Remove",
-    "THEME DOWNLOADER": "THEME DOWNLOADER",
+    "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {

@@ -7,15 +7,18 @@
     "Change": "Change",
     "Channel": "Channel",
     "Clear": "Изчисти",
+    "Close": "Close",
     "Collect": "Събиране",
     "Directory": "Папка",
     "Disabled": "Изключено",
+    "Download": "Download",
     "Edit": "Edit",
     "Enabled": "Включено",
     "Extract": "Извлечи",
     "Filter": "Filter",
     "Individual": "Индивидуално",
     "Info": "Инфо",
+    "Information": "Information",
     "Install": "Install",
     "Launch": "Старт",
     "Load": "Зареди",
@@ -26,6 +29,7 @@
     "No Information Found": "Няма намерена информация",
     "Not Connected": "Not Connected",
     "Open": "Отвори",
+    "Preview Image": "Preview Image",
     "Previous": "Предишно",
     "Rebooting…": "Rebooting…",
     "Recursive": "Рекурсивен",
@@ -35,10 +39,9 @@
     "Restricted": "Restricted",
     "Save": "Запази",
     "Saving…": "Saving…",
+    "Scroll": "Scroll",
     "Select": "Избор",
     "Shutting Down…": "Shutting Down…",
-    "Switch to Information": "Премини към инфо",
-    "Switch to Preview Image": "Премини към Преглед Изобр.",
     "Sync to SD1": "Синхрон. с SD1",
     "This is disabled in kiosk mode!": "Това е забранено в режим киоск!",
     "Top": "Top",
@@ -53,6 +56,14 @@
     "No Applications Found": "Не са намерени приложения",
     "Task Toolkit": "Инструменти за задачи"
   },
+  "muxappcon": {
+    "APPLICATION OPTION": "APPLICATION OPTION",
+    "Control Scheme": "Control Scheme",
+    "Governor": "Governor",
+    "Name": "Name",
+    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
+    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+  },
   "muxarchive": {
     "ARCHIVE MANAGER": "МЕНИДЖЪР НА АРХИВИ",
     "Archive items can be found and installed here - Save games and states, updates, themes etc": "Тук могат да се намерят и инсталират архиви - Запазени игри и състояния, актуализации, теми и т.н.",
@@ -63,6 +74,7 @@
     "ASSIGN": "СВЪРЗВАЙ",
     "Assigned to directory": "Свъзавано с папка",
     "Assigned to file": "Свъзавано с файл",
+    "Core Downloader": "Core Downloader",
     "No Cores Found…": "Няма намерени Ядра…",
     "This is where you can assign a core or external emulator to content": "Тук можеш да свързваш ядро или външен емулатор към съдържанието"
   },
@@ -122,7 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Стартиране на системата - Моля, изчакайте…",
     "Capacity": "Капацитет",
-    "Press POWER button to continue booting…": "Натисни POWER, за да продължи зареждането…",
+    "Press START button to continue booting…": "Press START button to continue booting…",
     "Voltage": "Напрежение"
   },
   "muxcollect": {
@@ -211,7 +223,7 @@
     "Switch between different theme alternatives": "Switch between different theme alternatives",
     "Switch between pressing A or holding A to launch content save state automatically": "Switch between pressing A or holding A to launch content save state automatically",
     "Theme": "Theme",
-    "Theme Downloader": "Theme Downloader",
+    "Theme Download": "Theme Download",
     "Theme Picker": "Theme Picker",
     "Theme Resolution": "Theme Resolution",
     "Toggle the background animation of the current selected theme": "Toggle the background animation of the current selected theme",
@@ -274,6 +286,15 @@
     "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!",
     "Toggles internal Portmaster support on device": "Toggles internal Portmaster support on device",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!"
+  },
+  "muxdownload": {
+    "APP DOWNLOADER": "APP DOWNLOADER",
+    "Archive Removed": "Archive Removed",
+    "CORE DOWNLOADER": "CORE DOWNLOADER",
+    "Downloading Archive": "Downloading Archive",
+    "Downloading Data": "Downloading Data",
+    "Error Retrieving Data": "Error Retrieving Data",
+    "Refresh": "Refresh"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Конфигурирай CPU регулатори за динамично регулиране на честотата на CPU и подпомагане на баланса между консумацията на енергия и производителност",
@@ -399,7 +420,7 @@
     "RetroArch Kiosk": "RetroArch Kiosk",
     "Storage": "Storage",
     "Task Toolkit": "Task Toolkit",
-    "Theme Downloader": "Theme Downloader",
+    "Theme Download": "Theme Download",
     "Timezone": "Timezone",
     "Web Services": "Web Services",
     "Wi-Fi Network": "Wi-Fi Network"
@@ -549,6 +570,7 @@
     "No Custom Packages Found": "Не са открити Персонализирани Пакети",
     "No Theme Packages Found": "Не са намерени Пакети с Теми",
     "THEME PICKER": "ИЗБОР НА ТЕМА",
+    "Theme Download": "Theme Download",
     "There are no attributed credits!": "Няма приписани кредити!"
   },
   "muxplore": {
@@ -713,7 +735,7 @@
     "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "Натиснете който и да е бутон, за да започнете тестването!"
   },
-  "muxthemedownloader": {
+  "muxthemedown": {
     "Download": "Download",
     "Downloading Theme": "Downloading Theme",
     "Downloading Theme Data": "Downloading Theme Data",
@@ -723,7 +745,7 @@
     "Refresh": "Refresh",
     "Refreshing…": "Refreshing…",
     "Remove": "Remove",
-    "THEME DOWNLOADER": "THEME DOWNLOADER",
+    "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {

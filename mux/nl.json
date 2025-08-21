@@ -7,15 +7,18 @@
     "Change": "Verander",
     "Channel": "Kanaal",
     "Clear": "Wissen",
+    "Close": "Close",
     "Collect": "Verzamelen",
     "Directory": "Map",
     "Disabled": "Uit",
+    "Download": "Download",
     "Edit": "Bewerk",
     "Enabled": "Aan",
     "Extract": "Uitpakken",
     "Filter": "Filter",
     "Individual": "Individueel",
     "Info": "Info",
+    "Information": "Information",
     "Install": "Installeer",
     "Launch": "Starten",
     "Load": "Laden",
@@ -26,6 +29,7 @@
     "No Information Found": "Geen informatie",
     "Not Connected": "Niet verbonden",
     "Open": "Openen",
+    "Preview Image": "Preview Image",
     "Previous": "Vorige",
     "Rebooting…": "Herstarten…",
     "Recursive": "Recursief",
@@ -35,10 +39,9 @@
     "Restricted": "Restricted",
     "Save": "Opslaan",
     "Saving…": "Opslaan…",
+    "Scroll": "Scroll",
     "Select": "Selecteer",
     "Shutting Down…": "Uitschakelen…",
-    "Switch to Information": "Informatie tonen",
-    "Switch to Preview Image": "Voorbeeld tonen",
     "Sync to SD1": "Met SD1 synchroniseren",
     "This is disabled in kiosk mode!": "In kioskmodus niet beschikbaar!",
     "Top": "Boven",
@@ -53,6 +56,14 @@
     "No Applications Found": "Geen Applicaties Gevonden",
     "Task Toolkit": "Gereedschappen"
   },
+  "muxappcon": {
+    "APPLICATION OPTION": "APPLICATION OPTION",
+    "Control Scheme": "Control Scheme",
+    "Governor": "Governor",
+    "Name": "Name",
+    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
+    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+  },
   "muxarchive": {
     "ARCHIVE MANAGER": "ARCHIEFBEHEER",
     "Archive items can be found and installed here - Save games and states, updates, themes etc": "Archiefitems kunnen hier worden gevonden en geïnstalleerd - savegames en -states, updates, thema's enz.",
@@ -63,6 +74,7 @@
     "ASSIGN": "TOEWIJZEN",
     "Assigned to directory": "Toegewezen aan map",
     "Assigned to file": "Toegewezen aan bestand",
+    "Core Downloader": "Core Downloader",
     "No Cores Found…": "Geen cores gevonden…",
     "This is where you can assign a core or external emulator to content": "Hier kun je een core of externe emulator toewijzen aan inhoud"
   },
@@ -122,7 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Opstarten - Een ogenblik geduld a.u.b.",
     "Capacity": "Capaciteit",
-    "Press POWER button to continue booting…": "AAN-knop drukken, om verder op te starten…",
+    "Press START button to continue booting…": "Press START button to continue booting…",
     "Voltage": "Spanning"
   },
   "muxcollect": {
@@ -211,7 +223,7 @@
     "Switch between different theme alternatives": "Switch between different theme alternatives",
     "Switch between pressing A or holding A to launch content save state automatically": "Switch between pressing A or holding A to launch content save state automatically",
     "Theme": "Theme",
-    "Theme Downloader": "Theme Downloader",
+    "Theme Download": "Theme Download",
     "Theme Picker": "Theme Picker",
     "Theme Resolution": "Theme Resolution",
     "Toggle the background animation of the current selected theme": "Toggle the background animation of the current selected theme",
@@ -274,6 +286,15 @@
     "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!",
     "Toggles internal Portmaster support on device": "Toggles internal Portmaster support on device",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!"
+  },
+  "muxdownload": {
+    "APP DOWNLOADER": "APP DOWNLOADER",
+    "Archive Removed": "Archive Removed",
+    "CORE DOWNLOADER": "CORE DOWNLOADER",
+    "Downloading Archive": "Downloading Archive",
+    "Downloading Data": "Downloading Data",
+    "Error Retrieving Data": "Error Retrieving Data",
+    "Refresh": "Refresh"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU-governors configureren om de CPU-frequentie dynamisch aan te passen en energieverbruik en prestaties op elkaar af te stemmen",
@@ -399,7 +420,7 @@
     "RetroArch Kiosk": "RetroArch Kiosk",
     "Storage": "Storage",
     "Task Toolkit": "Task Toolkit",
-    "Theme Downloader": "Theme Downloader",
+    "Theme Download": "Theme Download",
     "Timezone": "Timezone",
     "Web Services": "Web Services",
     "Wi-Fi Network": "Wi-Fi Network"
@@ -549,6 +570,7 @@
     "No Custom Packages Found": "Geen personalisatiepakketten gevonden",
     "No Theme Packages Found": "Geen themapakketten gevonden",
     "THEME PICKER": "THEMA BEHEER",
+    "Theme Download": "Theme Download",
     "There are no attributed credits!": "Er zijn geen toegeschreven erkenningen!"
   },
   "muxplore": {
@@ -713,7 +735,7 @@
     "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "Druk op een knop om de besturing te testen!"
   },
-  "muxthemedownloader": {
+  "muxthemedown": {
     "Download": "Download",
     "Downloading Theme": "Downloading Theme",
     "Downloading Theme Data": "Downloading Theme Data",
@@ -723,7 +745,7 @@
     "Refresh": "Refresh",
     "Refreshing…": "Refreshing…",
     "Remove": "Remove",
-    "THEME DOWNLOADER": "THEME DOWNLOADER",
+    "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {

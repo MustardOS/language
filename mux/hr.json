@@ -7,15 +7,18 @@
     "Change": "Promijeni",
     "Channel": "Kanal",
     "Clear": "Očisti",
+    "Close": "Close",
     "Collect": "Prikupi",
     "Directory": "Directorija",
     "Disabled": "Isključeno",
+    "Download": "Download",
     "Edit": "Editiraj",
     "Enabled": "Uključeno",
     "Extract": "Izvadi",
     "Filter": "Filter",
     "Individual": "Pojedinačno",
     "Info": "Info",
+    "Information": "Information",
     "Install": "Instaliraj",
     "Launch": "Pokreni",
     "Load": "Učitaj",
@@ -26,6 +29,7 @@
     "No Information Found": "Informacije nisu Pronađene",
     "Not Connected": "Nije Povezano",
     "Open": "Otvori",
+    "Preview Image": "Preview Image",
     "Previous": "Prethodno",
     "Rebooting…": "Ponovno pokretanje…",
     "Recursive": "Rekurzivno",
@@ -35,10 +39,9 @@
     "Restricted": "Ograničeno",
     "Save": "Spremi",
     "Saving…": "Spremanje…",
+    "Scroll": "Scroll",
     "Select": "Odaberi",
     "Shutting Down…": "Isključivanje…",
-    "Switch to Information": "Promijeni na Informaciju",
-    "Switch to Preview Image": "Promijeni na Preview Sliku",
     "Sync to SD1": "Sinkroniziraj na SD1",
     "This is disabled in kiosk mode!": "Ovo je onemogućeno u kiosk modu!",
     "Top": "Vrh",
@@ -53,6 +56,14 @@
     "No Applications Found": "Aplikacije nisu Pronađene",
     "Task Toolkit": "Alati za Zadatak"
   },
+  "muxappcon": {
+    "APPLICATION OPTION": "APPLICATION OPTION",
+    "Control Scheme": "Control Scheme",
+    "Governor": "Governor",
+    "Name": "Name",
+    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
+    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+  },
   "muxarchive": {
     "ARCHIVE MANAGER": "UPRAVITELJ ARHIVA",
     "Archive items can be found and installed here - Save games and states, updates, themes etc": "Arhivani predmetu se nalazu i instaliraju ovdje - Save igre i stanja, ažuriranja, teme itd",
@@ -63,6 +74,7 @@
     "ASSIGN": "ODREDI",
     "Assigned to directory": "Zadano na direktoriju",
     "Assigned to file": "Zadano na datoteku",
+    "Core Downloader": "Core Downloader",
     "No Cores Found…": "Jezgre nisu Pronađene…",
     "This is where you can assign a core or external emulator to content": "Ovdje može se odrediti core ili vanjski emulator za sadržaj"
   },
@@ -122,7 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Pokretanje sistema - Molimo pričekajte…",
     "Capacity": "Kapacitet",
-    "Press POWER button to continue booting…": "Pritisnite gumb za napajanje da nastavite pokretanje…",
+    "Press START button to continue booting…": "Press START button to continue booting…",
     "Voltage": "Voltaža"
   },
   "muxcollect": {
@@ -211,7 +223,7 @@
     "Switch between different theme alternatives": "Izaberi različite tematske alternative",
     "Switch between pressing A or holding A to launch content save state automatically": "Switch between pressing A or holding A to launch content save state automatically",
     "Theme": "Tema",
-    "Theme Downloader": "Theme Downloader",
+    "Theme Download": "Theme Download",
     "Theme Picker": "Berač Tema",
     "Theme Resolution": "Rezolucija Teme",
     "Toggle the background animation of the current selected theme": "Odredi animaciju pozadinr za trenutno odabranu temu",
@@ -274,6 +286,15 @@
     "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Odredi hall prekidač (poklopac) podržavanje u uređaju\n\nNe uključiti na uređajima bez poklopca!",
     "Toggles internal Portmaster support on device": "Odredi unutarnje Portmaster podržavanje u uređaju",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Odredi kernel level DebugFS montiranje na pokretanju\n\nBolje ovo ostaviti uključeno osim ako nije drugačije navedeno!"
+  },
+  "muxdownload": {
+    "APP DOWNLOADER": "APP DOWNLOADER",
+    "Archive Removed": "Archive Removed",
+    "CORE DOWNLOADER": "CORE DOWNLOADER",
+    "Downloading Archive": "Downloading Archive",
+    "Downloading Data": "Downloading Data",
+    "Error Retrieving Data": "Error Retrieving Data",
+    "Refresh": "Refresh"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Konfiguriraj CPU upravitelje da dinamično prilagodi CPU frekvenciju da pomaže balancirati učinkovitost baterije i performanse",
@@ -399,7 +420,7 @@
     "RetroArch Kiosk": "RetroArch Kiosk",
     "Storage": "Pohrana",
     "Task Toolkit": "Alati za Zadatke",
-    "Theme Downloader": "Theme Downloader",
+    "Theme Download": "Theme Download",
     "Timezone": "Vremenska Zona",
     "Web Services": "Web Usluge",
     "Wi-Fi Network": "Wi-Fi Mreža"
@@ -549,6 +570,7 @@
     "No Custom Packages Found": "Paketi Prilagođenog nisu Pronađena",
     "No Theme Packages Found": "Paketi Tema nisu Pronađena",
     "THEME PICKER": "BIRAČ TEME",
+    "Theme Download": "Theme Download",
     "There are no attributed credits!": "Nema pripisanih zasluga!"
   },
   "muxplore": {
@@ -713,7 +735,7 @@
     "Press DOWN + B to finish testing": "Pritisnite DOLJE + B da završite testing",
     "Press any button to start input testing!": "Pretisni bilo koji gumb da započnete input testing!"
   },
-  "muxthemedownloader": {
+  "muxthemedown": {
     "Download": "Download",
     "Downloading Theme": "Downloading Theme",
     "Downloading Theme Data": "Downloading Theme Data",
@@ -723,7 +745,7 @@
     "Refresh": "Refresh",
     "Refreshing…": "Refreshing…",
     "Remove": "Remove",
-    "THEME DOWNLOADER": "THEME DOWNLOADER",
+    "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {
