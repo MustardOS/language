@@ -7,15 +7,18 @@
     "Change": "Endre",
     "Channel": "Kanal",
     "Clear": "Slett",
+    "Close": "Close",
     "Collect": "Favoritt",
     "Directory": "Katalog",
     "Disabled": "Deaktivert",
+    "Download": "Download",
     "Edit": "Endre",
     "Enabled": "Aktivert",
     "Extract": "Ekstrakt",
     "Filter": "Filter",
     "Individual": "Individuell",
     "Info": "Informasjon",
+    "Information": "Information",
     "Install": "Installer",
     "Launch": "Start",
     "Load": "Last",
@@ -26,6 +29,7 @@
     "No Information Found": "Ingen Informasjon Funnet",
     "Not Connected": "Ingen Tilkobling",
     "Open": "Åpne",
+    "Preview Image": "Preview Image",
     "Previous": "Forrige",
     "Rebooting…": "Restarter…",
     "Recursive": "Rekursiv",
@@ -35,6 +39,7 @@
     "Restricted": "Restricted",
     "Save": "Lagre",
     "Saving…": "Lagrer…",
+    "Scroll": "Scroll",
     "Select": "Velg",
     "Shutting Down…": "Slår av systemet…",
     "Sync to SD1": "Synkroniser til SD1",
@@ -51,6 +56,14 @@
     "No Applications Found": "Ingen Applikasjoner Funnet",
     "Task Toolkit": "Oppgave Verktøykasse"
   },
+  "muxappcon": {
+    "APPLICATION OPTION": "APPLICATION OPTION",
+    "Control Scheme": "Control Scheme",
+    "Governor": "Governor",
+    "Name": "Name",
+    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
+    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+  },
   "muxarchive": {
     "ARCHIVE MANAGER": "ARKIVBEHANDLER",
     "Archive items can be found and installed here - Save games and states, updates, themes etc": "Arkiv gjenstander ligger her, der de også installeres - Save games og states, oppdateringer, themes osv.",
@@ -61,6 +74,7 @@
     "ASSIGN": "TILORDNE",
     "Assigned to directory": "Tilordnet til katalog",
     "Assigned to file": "Tilordnet til fil",
+    "Core Downloader": "Core Downloader",
     "No Cores Found…": "Ingen Cores Funnet…",
     "This is where you can assign a core or external emulator to content": "Her kan du tilordne en core/ekstern-emulator til innhold"
   },
@@ -120,6 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Starter opp systemet - Vennligst vent…",
     "Capacity": "Kapasitet",
+    "Press START button to continue booting…": "Press START button to continue booting…",
     "Voltage": "Spenning"
   },
   "muxcollect": {
@@ -208,6 +223,7 @@
     "Switch between different theme alternatives": "Veksle mellom forskjellige tema-alternativer",
     "Switch between pressing A or holding A to launch content save state automatically": "Switch between pressing A or holding A to launch content save state automatically",
     "Theme": "Tema",
+    "Theme Download": "Theme Download",
     "Theme Picker": "Tema-velger",
     "Theme Resolution": "Tema Oppløsning",
     "Toggle the background animation of the current selected theme": "Skru av/på bakgrunns-animasjonen til det nåværende temaet",
@@ -270,6 +286,15 @@
     "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!",
     "Toggles internal Portmaster support on device": "Toggles internal Portmaster support on device",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!"
+  },
+  "muxdownload": {
+    "APP DOWNLOADER": "APP DOWNLOADER",
+    "Archive Removed": "Archive Removed",
+    "CORE DOWNLOADER": "CORE DOWNLOADER",
+    "Downloading Archive": "Downloading Archive",
+    "Downloading Data": "Downloading Data",
+    "Error Retrieving Data": "Error Retrieving Data",
+    "Refresh": "Refresh"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Konfigurer CPU-regulatorer for å dynamisk justere CPU-frekvensen og bidra til å balansere strømforbruk og ytelse",
@@ -395,6 +420,7 @@
     "RetroArch Kiosk": "RetroArch Kiosk",
     "Storage": "Storage",
     "Task Toolkit": "Task Toolkit",
+    "Theme Download": "Theme Download",
     "Timezone": "Timezone",
     "Web Services": "Web Services",
     "Wi-Fi Network": "Wi-Fi Network"
@@ -544,6 +570,7 @@
     "No Custom Packages Found": "No Custom Packages Found",
     "No Theme Packages Found": "No Theme Packages Found",
     "THEME PICKER": "THEME PICKER",
+    "Theme Download": "Theme Download",
     "There are no attributed credits!": "There are no attributed credits!"
   },
   "muxplore": {
@@ -707,6 +734,19 @@
     "INPUT TESTER": "INPUT TESTER",
     "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "Press any button to start input testing!"
+  },
+  "muxthemedown": {
+    "Download": "Download",
+    "Downloading Theme": "Downloading Theme",
+    "Downloading Theme Data": "Downloading Theme Data",
+    "Downloading Theme Previews": "Downloading Theme Previews",
+    "Error Retrieving Theme Data": "Error Retrieving Theme Data",
+    "No Content Found…": "No Content Found…",
+    "Refresh": "Refresh",
+    "Refreshing…": "Refreshing…",
+    "Remove": "Remove",
+    "THEME DOWNLOAD": "THEME DOWNLOAD",
+    "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {
     "All": "All",
