@@ -7,15 +7,18 @@
     "Change": "變更",
     "Channel": "頻道",
     "Clear": "清除",
+    "Close": "Close",
     "Collect": "收藏",
     "Directory": "目錄",
     "Disabled": "停用",
+    "Download": "Download",
     "Edit": "編輯",
     "Enabled": "啟用",
     "Extract": "解開",
     "Filter": "篩選",
     "Individual": "此檔案",
     "Info": "資訊",
+    "Information": "Information",
     "Install": "安裝",
     "Launch": "啟動",
     "Load": "讀取",
@@ -26,6 +29,7 @@
     "No Information Found": "找不到資訊",
     "Not Connected": "未連接",
     "Open": "開啟",
+    "Preview Image": "Preview Image",
     "Previous": "先前",
     "Rebooting…": "重啟中…",
     "Recursive": "包括子目錄",
@@ -35,6 +39,7 @@
     "Restricted": "受限制的",
     "Save": "儲存",
     "Saving…": "儲存中…",
+    "Scroll": "Scroll",
     "Select": "選擇",
     "Shutting Down…": "正在關機…",
     "Sync to SD1": "同步到SD1",
@@ -51,6 +56,14 @@
     "No Applications Found": "找不到應用程式",
     "Task Toolkit": "任務工具箱"
   },
+  "muxappcon": {
+    "APPLICATION OPTION": "APPLICATION OPTION",
+    "Control Scheme": "Control Scheme",
+    "Governor": "Governor",
+    "Name": "Name",
+    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
+    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+  },
   "muxarchive": {
     "ARCHIVE MANAGER": "封裝檔管理員",
     "Archive items can be found and installed here - Save games and states, updates, themes etc": "可在此查找並安裝封裝項目 - 系統備份、遊戲存檔和狀態、更新、主題等",
@@ -61,6 +74,7 @@
     "ASSIGN": "指派",
     "Assigned to directory": "套用此目錄",
     "Assigned to file": "套用此檔案",
+    "Core Downloader": "Core Downloader",
     "No Cores Found…": "找不到核心…",
     "This is where you can assign a core or external emulator to content": "您可以在此處為內容指派核心或外部模擬器"
   },
@@ -120,6 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "系統啟動中 - 請稍待…",
     "Capacity": "容量",
+    "Press START button to continue booting…": "Press START button to continue booting…",
     "Voltage": "電壓"
   },
   "muxcollect": {
@@ -208,6 +223,7 @@
     "Switch between different theme alternatives": "在不同主題選項之間切換",
     "Switch between pressing A or holding A to launch content save state automatically": "切換短按 A 或按住 A 來自動啟動內容即時存檔",
     "Theme": "主題",
+    "Theme Download": "Theme Download",
     "Theme Picker": "主題選擇",
     "Theme Resolution": "主題分辨率",
     "Toggle the background animation of the current selected theme": "切換目前主題的背景動畫",
@@ -270,6 +286,15 @@
     "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "切換設備上的翻蓋霍爾開關支持\n\n請勿在無翻蓋的設備上啟用此功能！",
     "Toggles internal Portmaster support on device": "切換裝置上的內部Portmaster支援",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "啟動時切換核心級 DebugFS 掛載\n\n除非另有建議，否則最好保持啟用狀態！"
+  },
+  "muxdownload": {
+    "APP DOWNLOADER": "APP DOWNLOADER",
+    "Archive Removed": "Archive Removed",
+    "CORE DOWNLOADER": "CORE DOWNLOADER",
+    "Downloading Archive": "Downloading Archive",
+    "Downloading Data": "Downloading Data",
+    "Error Retrieving Data": "Error Retrieving Data",
+    "Refresh": "Refresh"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "配置CPU調速器，動態調整CPU頻率，幫助平衡功耗與效能",
@@ -395,6 +420,7 @@
     "RetroArch Kiosk": "RetroArch資訊亭",
     "Storage": "儲存裝置",
     "Task Toolkit": "任務工具包",
+    "Theme Download": "Theme Download",
     "Timezone": "時區",
     "Web Services": "網路服務",
     "Wi-Fi Network": "無線網路"
@@ -544,6 +570,7 @@
     "No Custom Packages Found": "找不到個人化設置集",
     "No Theme Packages Found": "找不到主題集",
     "THEME PICKER": "主題選擇器",
+    "Theme Download": "Theme Download",
     "There are no attributed credits!": "沒有作者署名!"
   },
   "muxplore": {
@@ -707,6 +734,19 @@
     "INPUT TESTER": "按鍵測試",
     "Press DOWN + B to finish testing": "按 方向鍵下 + B 結束測試",
     "Press any button to start input testing!": "按任何鍵開始輸入測試！"
+  },
+  "muxthemedown": {
+    "Download": "Download",
+    "Downloading Theme": "Downloading Theme",
+    "Downloading Theme Data": "Downloading Theme Data",
+    "Downloading Theme Previews": "Downloading Theme Previews",
+    "Error Retrieving Theme Data": "Error Retrieving Theme Data",
+    "No Content Found…": "No Content Found…",
+    "Refresh": "Refresh",
+    "Refreshing…": "Refreshing…",
+    "Remove": "Remove",
+    "THEME DOWNLOAD": "THEME DOWNLOAD",
+    "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {
     "All": "全部",
