@@ -7,15 +7,18 @@
     "Change": "Change",
     "Channel": "Channel",
     "Clear": "Curăță",
+    "Close": "Close",
     "Collect": "Colectează",
     "Directory": "Director",
     "Disabled": "Dezactivat",
+    "Download": "Download",
     "Edit": "Edit",
     "Enabled": "Activat",
     "Extract": "Extrage",
     "Filter": "Filter",
     "Individual": "Individual",
     "Info": "Informații",
+    "Information": "Information",
     "Install": "Install",
     "Launch": "Lansează",
     "Load": "Încarcă",
@@ -26,6 +29,7 @@
     "No Information Found": "Nicio informație găsită",
     "Not Connected": "Not Connected",
     "Open": "Deschide",
+    "Preview Image": "Preview Image",
     "Previous": "Anterior",
     "Rebooting…": "Rebooting…",
     "Recursive": "Recursiv",
@@ -35,6 +39,7 @@
     "Restricted": "Restricted",
     "Save": "Salvează",
     "Saving…": "Saving…",
+    "Scroll": "Scroll",
     "Select": "Selectează",
     "Shutting Down…": "Shutting Down…",
     "Sync to SD1": "Sincronizează cu SD1",
@@ -51,6 +56,14 @@
     "No Applications Found": "Nicio aplicație găsită",
     "Task Toolkit": "Set de instrumente pentru sarcini"
   },
+  "muxappcon": {
+    "APPLICATION OPTION": "APPLICATION OPTION",
+    "Control Scheme": "Control Scheme",
+    "Governor": "Governor",
+    "Name": "Name",
+    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
+    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+  },
   "muxarchive": {
     "ARCHIVE MANAGER": "MANAGER DE ARHIVĂ",
     "Archive items can be found and installed here - Save games and states, updates, themes etc": "Elementele de arhivă pot fi găsite și instalate aici - salvări de jocuri și stări, actualizări, teme etc.",
@@ -61,6 +74,7 @@
     "ASSIGN": "ASIGNEAZĂ",
     "Assigned to directory": "Asignat directorului",
     "Assigned to file": "Asignat fișierului",
+    "Core Downloader": "Core Downloader",
     "No Cores Found…": "Niciun nucleu găsit…",
     "This is where you can assign a core or external emulator to content": "Aici poți asocia un nucleu sau un emulator extern conținutului"
   },
@@ -120,6 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Se pornește sistemul - Vă rugăm să așteptați…",
     "Capacity": "Capacitate",
+    "Press START button to continue booting…": "Press START button to continue booting…",
     "Voltage": "Tensiune"
   },
   "muxcollect": {
@@ -208,6 +223,7 @@
     "Switch between different theme alternatives": "Switch between different theme alternatives",
     "Switch between pressing A or holding A to launch content save state automatically": "Switch between pressing A or holding A to launch content save state automatically",
     "Theme": "Temă",
+    "Theme Download": "Theme Download",
     "Theme Picker": "Selector de Teme",
     "Theme Resolution": "Theme Resolution",
     "Toggle the background animation of the current selected theme": "Comută animația de fundal a temei selectate",
@@ -270,6 +286,15 @@
     "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!",
     "Toggles internal Portmaster support on device": "Toggles internal Portmaster support on device",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!"
+  },
+  "muxdownload": {
+    "APP DOWNLOADER": "APP DOWNLOADER",
+    "Archive Removed": "Archive Removed",
+    "CORE DOWNLOADER": "CORE DOWNLOADER",
+    "Downloading Archive": "Downloading Archive",
+    "Downloading Data": "Downloading Data",
+    "Error Retrieving Data": "Error Retrieving Data",
+    "Refresh": "Refresh"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configurează guvernatorii CPU pentru a ajusta dinamic frecvența procesorului și a ajuta la echilibrarea consumului de energie și a performanței",
@@ -395,6 +420,7 @@
     "RetroArch Kiosk": "RetroArch Kiosk",
     "Storage": "Storage",
     "Task Toolkit": "Task Toolkit",
+    "Theme Download": "Theme Download",
     "Timezone": "Timezone",
     "Web Services": "Web Services",
     "Wi-Fi Network": "Wi-Fi Network"
@@ -544,6 +570,7 @@
     "No Custom Packages Found": "Niciun pachet personalizat găsit",
     "No Theme Packages Found": "Niciun pachet de teme găsit",
     "THEME PICKER": "SELECTOR TEMĂ",
+    "Theme Download": "Theme Download",
     "There are no attributed credits!": "Nu există credite atribuite!"
   },
   "muxplore": {
@@ -707,6 +734,19 @@
     "INPUT TESTER": "TESTER DE INTRARE",
     "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "Apăsați orice buton pentru a începe testarea intrărilor!"
+  },
+  "muxthemedown": {
+    "Download": "Download",
+    "Downloading Theme": "Downloading Theme",
+    "Downloading Theme Data": "Downloading Theme Data",
+    "Downloading Theme Previews": "Downloading Theme Previews",
+    "Error Retrieving Theme Data": "Error Retrieving Theme Data",
+    "No Content Found…": "No Content Found…",
+    "Refresh": "Refresh",
+    "Refreshing…": "Refreshing…",
+    "Remove": "Remove",
+    "THEME DOWNLOAD": "THEME DOWNLOAD",
+    "Theme Removed": "Theme Removed"
   },
   "muxthemefilter": {
     "All": "All",
