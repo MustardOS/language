@@ -11,27 +11,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Quick sanity check of what we actually checked out
-      - name: Debug – repo layout
-        shell: bash
-        run: |
-          set -eu
-          echo "PWD: $(pwd)"
-          echo "Top-level:"
-          ls -la
-          echo
-          echo "Expecting files:"
-          ls -la tr_map.txt || true
-          echo "Sample of mux JSONs:"
-          ls -1 mux/*.json 2>/dev/null | head -n 10 || true
-
       - name: Generate dynamic tag
         run: |
           TAG_NAME="release-$(date +'%Y%m%d-%H%M%S')"
           echo "TAG_NAME=$TAG_NAME" >> "$GITHUB_ENV"
           echo "RELEASE_NAME=Language Pack - $(date +'%Y-%m-%d %H:%M:%S')" >> "$GITHUB_ENV"
 
-      - name: Build lang.zip (root-based)
+      - name: Build lang.muxzip
         shell: bash
         run: |
           set -euxo pipefail
@@ -84,18 +70,18 @@ jobs:
           echo "Preview of staged tree:"
           ( cd "$STAGE" && find . -maxdepth 6 -type f -print | sort )
 
-          ( cd "$STAGE" && zip -r9X lang.zip mnt )
-          mv "$STAGE/lang.zip" artifacts/lang.zip
+          ( cd "$STAGE" && zip -r9X lang.muxzip mnt )
+          mv "$STAGE/lang.muxzip" artifacts/lang.muxzip
 
           echo "Zip contents:"
-          unzip -l artifacts/lang.zip || true
-          sha256sum artifacts/lang.zip
+          unzip -l artifacts/lang.muxzip || true
+          sha256sum artifacts/lang.muxzip
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ env.TAG_NAME }}
           name: ${{ env.RELEASE_NAME }}
-          files: artifacts/lang.zip
+          files: artifacts/lang.muxzip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
