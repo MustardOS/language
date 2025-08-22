@@ -11,24 +11,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # --- DEBUG: show what was checked out ---
+      # Quick sanity check of what we actually checked out
       - name: Debug – repo layout
         shell: bash
         run: |
           set -eu
           echo "PWD: $(pwd)"
-          echo "Git top-level: $(git rev-parse --show-toplevel || true)"
-          echo "Root listing:"
+          echo "Top-level:"
           ls -la
           echo
-          echo "Search for 'language' dirs (maxdepth 3):"
-          find . -maxdepth 3 -type d -name language -print || true
-          echo
-          echo "Search for tr_map.txt (maxdepth 5):"
-          find . -maxdepth 5 -type f -name tr_map.txt -print || true
-          echo
-          echo "Search for 'mux' dirs with JSON (maxdepth 5):"
-          find . -maxdepth 5 -type d -name mux -print -exec sh -c 'ls -1 "{}"/*.json 2>/dev/null | head -n 5 || true' \;
+          echo "Expecting files:"
+          ls -la tr_map.txt || true
+          echo "Sample of mux JSONs:"
+          ls -1 mux/*.json 2>/dev/null | head -n 10 || true
 
       - name: Generate dynamic tag
         run: |
@@ -36,48 +31,47 @@ jobs:
           echo "TAG_NAME=$TAG_NAME" >> "$GITHUB_ENV"
           echo "RELEASE_NAME=Language Pack - $(date +'%Y-%m-%d %H:%M:%S')" >> "$GITHUB_ENV"
 
-      - name: Build lang.zip (with debug)
+      - name: Build lang.zip (root-based)
         shell: bash
-        env:
-          # Adjust if 'language/' lives elsewhere
-          LANG_DIR: language
         run: |
           set -euxo pipefail
 
-          MAP="$LANG_DIR/tr_map.txt"
-          SRC="$LANG_DIR/mux"
+          MAP="tr_map.txt"
+          SRC="mux"
 
-          echo "Using LANG_DIR=$LANG_DIR"
-          echo "Expecting MAP=$MAP"
-          echo "Expecting SRC=$SRC"
           test -f "$MAP"
           test -d "$SRC"
-
-          echo "First 10 JSON files under $SRC:"
-          find "$SRC" -type f -name '*.json' | sort | head -n 10 || true
-          echo "Count of JSON files: $(find "$SRC" -type f -name '*.json' | wc -l || echo 0)"
 
           mkdir -p artifacts
           STAGE="$(mktemp -d)"
           DEST="$STAGE/mnt/mmc/MUOS/language"
           mkdir -p "$DEST"
 
-          echo "Staging dir: $STAGE"
-          echo "Destination inside zip: $DEST"
+          echo "Using MAP=$MAP"
+          echo "Using SRC=$SRC"
+          echo "Staging to $DEST"
 
           added=0
+          # Walk all JSONs and map code -> human name via exact match in tr_map.txt
           while IFS= read -r -d '' f; do
             code="${f##*/}"; code="${code%.json}"
-
-            # Map code -> human name; skip if no mapping
-            name="$(grep -E "^${code}:" "$MAP" | head -n1 | cut -d: -f2- | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')" || true
-            if [ -z "${name:-}" ]; then
+            # Exact key match before first ":"; trims whitespace and CR
+            if ! name="$(awk -F: -v k="$code" '
+                $1==k {
+                  n=$2
+                  sub(/^[[:space:]]+/,"",n)
+                  sub(/[[:space:]\r]+$/,"",n)
+                  print n
+                  found=1
+                }
+                END { if (!found) exit 1 }
+              ' "$MAP" 2>/dev/null)"; then
               echo "::notice::Skipped $code (no mapping in tr_map.txt)"
               continue
             fi
 
             cp "$f" "$DEST/$name.json"
-            echo "Added: $code -> $name  -> $DEST/$name.json"
+            echo "Added: $code -> $name  => $DEST/$name.json"
             added=$((added+1))
           done < <(find "$SRC" -type f -name '*.json' -print0 | sort -z)
 
@@ -87,15 +81,14 @@ jobs:
             exit 1
           fi
 
-          echo "Preview staged tree:"
-          ( cd "$STAGE" && find . -type f -maxdepth 5 -print | sort )
+          echo "Preview of staged tree:"
+          ( cd "$STAGE" && find . -maxdepth 6 -type f -print | sort )
 
           ( cd "$STAGE" && zip -r9X lang.zip mnt )
           mv "$STAGE/lang.zip" artifacts/lang.zip
 
           echo "Zip contents:"
           unzip -l artifacts/lang.zip || true
-
           sha256sum artifacts/lang.zip
 
       - name: Create GitHub Release
