@@ -426,8 +426,11 @@
     "Wi-Fi Network": "Sieć Wi-Fi"
   },
   "muxlanguage": {
+    "Downloading Language Updates": "Downloading Language Updates",
+    "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "JĘZYK",
     "No Languages Found…": "Nie znaleziono języków…",
+    "Refresh": "Refresh",
     "Saving Language": "Zapisywanie języka",
     "Select your preferred language": "Wybierz swój preferowany język"
   },
