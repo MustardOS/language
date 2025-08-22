@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate dynamic tag
         run: |
@@ -23,21 +23,41 @@ jobs:
           set -eu
           export LC_ALL=C.UTF-8
 
-          ROOT="language"
-          MAP="$ROOT/tr_map.txt"
-          SRC="$ROOT/mux"
+          # Allow manual override like: LANGUAGE_DIR=path/to/language
+          : "${LANGUAGE_DIR:=}"
 
-          [ -d "$SRC" ] || { echo "Missing $SRC"; exit 1; }
-          [ -f "$MAP" ] || { echo "Missing $MAP"; exit 1; }
+          if [ -z "$LANGUAGE_DIR" ]; then
+            # Auto-detect a 'language' dir that has both tr_map.txt and mux/
+            LANGUAGE_DIR="$(
+              find . -type d -name language -print \
+              | while IFS= read -r d; do
+                  if [ -f "$d/tr_map.txt" ] && [ -d "$d/mux" ]; then
+                    printf '%s\n' "$d"
+                    break
+                  fi
+                done
+            )"
+          fi
+
+          if [ -z "${LANGUAGE_DIR:-}" ]; then
+            echo "Could not find a 'language' directory with tr_map.txt and mux/. Aborting."
+            exit 1
+          fi
+
+          echo "Using LANGUAGE_DIR: $LANGUAGE_DIR"
+
+          MAP="$LANGUAGE_DIR/tr_map.txt"
+          SRC="$LANGUAGE_DIR/mux"
 
           mkdir -p artifacts
           STAGE="$(mktemp -d)"
           DEST="$STAGE/mnt/mmc/MUOS/language"
           mkdir -p "$DEST"
 
+          # For each JSON in mux/, map code -> human name from tr_map.txt; skip if unmapped
+          added=0
           while IFS= read -r -d '' f; do
             code="$(basename "$f" .json)"
-
             if ! name="$(awk -F: -v k="$code" '
                 $1==k {
                   n=$2
@@ -54,19 +74,20 @@ jobs:
 
             cp "$f" "$DEST/$name.json"
             echo "Added: $code -> $name"
+            added=$((added+1))
           done < <(find "$SRC" -type f -name '*.json' -print0 | sort -z)
 
-          if ! ls -1 "$DEST"/*.json >/dev/null 2>&1; then
+          if [ "$added" -eq 0 ]; then
             echo "No mapped languages found; aborting."
             exit 1
           fi
 
           ( cd "$STAGE" && zip -r9X "lang.zip" mnt )
           mv "$STAGE/lang.zip" "artifacts/lang.zip"
-          echo "Created artifacts/lang.zip"
+          echo "Created artifacts/lang.zip with $added file(s)."
 
       - name: Create GitHub Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ env.TAG_NAME }}
           name: ${{ env.RELEASE_NAME }}
