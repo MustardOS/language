@@ -426,8 +426,11 @@
     "Wi-Fi Network": "Wi-Fi Mreža"
   },
   "muxlanguage": {
+    "Downloading Language Updates": "Downloading Language Updates",
+    "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "JEZIK",
     "No Languages Found…": "Jezici nisu Pronađeni…",
+    "Refresh": "Refresh",
     "Saving Language": "Spremanje Jezika",
     "Select your preferred language": "Odaberi svoj preferirani jezik"
   },
