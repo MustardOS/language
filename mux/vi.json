@@ -426,8 +426,11 @@
     "Wi-Fi Network": "Wi-Fi Network"
   },
   "muxlanguage": {
+    "Downloading Language Updates": "Downloading Language Updates",
+    "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "NGÔN NGỮ",
     "No Languages Found…": "Không có Ngôn ngữ nào được tìm thấy…",
+    "Refresh": "Refresh",
     "Saving Language": "Đang lưu cài đặt ngôn ngữ",
     "Select your preferred language": "Lựa chọn ngôn ngữ mong muốn"
   },
