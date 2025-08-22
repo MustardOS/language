@@ -2,20 +2,58 @@ name: Compress and Release
 
 on:
   workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'mux/*.json'
+      - 'tr_map.txt'
+      - '.github/workflows/compress-and-release-lang.yml'
+  pull_request:
+    paths:
+      - 'mux/*.json'
+      - 'tr_map.txt'
+      - '.github/workflows/compress-and-release-lang.yml'
 
 jobs:
   compress-and-upload:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate dynamic tag
+      - name: Derive tag, name, and target
+        shell: bash
         run: |
-          TAG_NAME="release-$(date +'%Y%m%d-%H%M%S')"
-          echo "TAG_NAME=$TAG_NAME" >> "$GITHUB_ENV"
-          echo "RELEASE_NAME=Language Pack - $(date +'%Y-%m-%d %H:%M:%S')" >> "$GITHUB_ENV"
+          set -eu
+          TS="$(date +'%Y%m%d-%H%M%S')"
+          SHORT_SHA="$(git rev-parse --short HEAD)"
+          NOW_DATE="$(date +'%Y-%m-%d %H:%M:%S')"
+          case "${{ github.event_name }}" in
+            workflow_dispatch)
+              TAG_NAME="release-${TS}"
+              RELEASE_NAME="Language Pack - ${NOW_DATE}"
+              TARGET="${{ github.sha }}"
+              ;;
+            push)
+              TAG_NAME="release-main-${SHORT_SHA}-${TS}"
+              RELEASE_NAME="Language Pack (main @ ${SHORT_SHA}) - ${NOW_DATE}"
+              TARGET="${{ github.sha }}"
+              ;;
+            pull_request)
+              PR="${{ github.event.pull_request.number }}"
+              TAG_NAME="pr-${PR}-${SHORT_SHA}-${TS}"
+              RELEASE_NAME="Language Pack (PR #${PR}) - ${NOW_DATE}"
+              TARGET="${{ github.event.pull_request.head.sha }}"
+              ;;
+          esac
+          {
+            echo "TAG_NAME=$TAG_NAME"
+            echo "RELEASE_NAME=$RELEASE_NAME"
+            echo "TARGET_COMMITISH=$TARGET"
+          } >> "$GITHUB_ENV"
 
       - name: Build lang.muxzip
         shell: bash
@@ -33,15 +71,9 @@ jobs:
           DEST="$STAGE/mnt/mmc/MUOS/language"
           mkdir -p "$DEST"
 
-          echo "Using MAP=$MAP"
-          echo "Using SRC=$SRC"
-          echo "Staging to $DEST"
-
           added=0
-          # Walk all JSONs and map code -> human name via exact match in tr_map.txt
           while IFS= read -r -d '' f; do
             code="${f##*/}"; code="${code%.json}"
-            # Exact key match before first ":"; trims whitespace and CR
             if ! name="$(awk -F: -v k="$code" '
                 $1==k {
                   n=$2
@@ -57,7 +89,7 @@ jobs:
             fi
 
             cp "$f" "$DEST/$name.json"
-            echo "Added: $code -> $name  => $DEST/$name.json"
+            echo "Added: $code -> $name"
             added=$((added+1))
           done < <(find "$SRC" -type f -name '*.json' -print0 | sort -z)
 
@@ -67,21 +99,25 @@ jobs:
             exit 1
           fi
 
-          echo "Preview of staged tree:"
-          ( cd "$STAGE" && find . -maxdepth 6 -type f -print | sort )
-
           ( cd "$STAGE" && zip -r9X lang.muxzip mnt )
           mv "$STAGE/lang.muxzip" artifacts/lang.muxzip
-
-          echo "Zip contents:"
           unzip -l artifacts/lang.muxzip || true
-          sha256sum artifacts/lang.muxzip
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: lang.muxzip
+          path: artifacts/lang.muxzip
+          if-no-files-found: error
+          retention-days: 14
 
       - name: Create GitHub Release
+        if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ env.TAG_NAME }}
           name: ${{ env.RELEASE_NAME }}
+          target_commitish: ${{ env.TARGET_COMMITISH }}
           files: artifacts/lang.muxzip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
