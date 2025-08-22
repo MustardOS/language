@@ -426,8 +426,11 @@
     "Wi-Fi Network": "Wi-Fi Network"
   },
   "muxlanguage": {
+    "Downloading Language Updates": "Downloading Language Updates",
+    "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "МОВА",
     "No Languages Found…": "Не знайдено жодної мови…",
+    "Refresh": "Refresh",
     "Saving Language": "Збереження Мови",
     "Select your preferred language": "Оберіть бажану мову"
   },
