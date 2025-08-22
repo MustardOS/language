@@ -1,0 +1,75 @@
+name: Compress and Release
+
+on:
+  workflow_dispatch:
+
+jobs:
+  compress-and-upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate dynamic tag
+        run: |
+          TAG_NAME="release-$(date +'%Y%m%d-%H%M%S')"
+          echo "TAG_NAME=$TAG_NAME" >> "$GITHUB_ENV"
+          echo "RELEASE_NAME=Language Pack - $(date +'%Y-%m-%d %H:%M:%S')" >> "$GITHUB_ENV"
+
+      - name: Build lang.zip from mapped languages
+        shell: bash
+        run: |
+          set -eu
+          export LC_ALL=C.UTF-8
+
+          ROOT="language"
+          MAP="$ROOT/tr_map.txt"
+          SRC="$ROOT/mux"
+
+          [ -d "$SRC" ] || { echo "Missing $SRC"; exit 1; }
+          [ -f "$MAP" ] || { echo "Missing $MAP"; exit 1; }
+
+          mkdir -p artifacts
+          STAGE="$(mktemp -d)"
+          DEST="$STAGE/mnt/mmc/MUOS/language"
+          mkdir -p "$DEST"
+
+          while IFS= read -r -d '' f; do
+            code="$(basename "$f" .json)"
+
+            if ! name="$(awk -F: -v k="$code" '
+                $1==k {
+                  n=$2
+                  sub(/^[[:space:]]+/,"",n)
+                  sub(/[[:space:]\r]+$/,"",n)
+                  print n
+                  found=1
+                }
+                END { if (!found) exit 1 }
+              ' "$MAP" 2>/dev/null)"; then
+              echo "Skipped: $code (no mapping)"
+              continue
+            fi
+
+            cp "$f" "$DEST/$name.json"
+            echo "Added: $code -> $name"
+          done < <(find "$SRC" -type f -name '*.json' -print0 | sort -z)
+
+          if ! ls -1 "$DEST"/*.json >/dev/null 2>&1; then
+            echo "No mapped languages found; aborting."
+            exit 1
+          fi
+
+          ( cd "$STAGE" && zip -r9X "lang.zip" mnt )
+          mv "$STAGE/lang.zip" "artifacts/lang.zip"
+          echo "Created artifacts/lang.zip"
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ env.TAG_NAME }}
+          name: ${{ env.RELEASE_NAME }}
+          files: artifacts/lang.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
