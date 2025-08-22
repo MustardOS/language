@@ -426,8 +426,11 @@
     "Wi-Fi Network": "Wi-Fi 네트워크"
   },
   "muxlanguage": {
+    "Downloading Language Updates": "Downloading Language Updates",
+    "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "언어",
     "No Languages Found…": "언어 설정 없음…",
+    "Refresh": "Refresh",
     "Saving Language": "언어 저장중",
     "Select your preferred language": "선호하는 언어를 선택"
   },
