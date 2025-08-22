@@ -426,8 +426,11 @@
     "Wi-Fi Network": "Líonra Wi-Fi"
   },
   "muxlanguage": {
+    "Downloading Language Updates": "Downloading Language Updates",
+    "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "TEANGA",
     "No Languages Found…": "Níor aimsíodh aon teanga…",
+    "Refresh": "Refresh",
     "Saving Language": "Teanga a Shábháil",
     "Select your preferred language": "Roghnaigh an teanga is fearr leat"
   },
