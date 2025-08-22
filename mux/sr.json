@@ -33,6 +33,7 @@
     "Previous": "Prethodno",
     "Rebooting…": "Ponovno pokretanje…",
     "Recursive": "Rekurzivno",
+    "Refreshing…": "Refreshing…",
     "Remove": "Ukloni",
     "Rescan": "Ponovo skeniraj",
     "Restore": "Obnovi",
@@ -426,8 +427,11 @@
     "Wi-Fi Network": "Wi-Fi Network"
   },
   "muxlanguage": {
+    "Downloading Language Updates": "Downloading Language Updates",
+    "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "JEZIK",
     "No Languages Found…": "Nema pronađenih jezika…",
+    "Refresh": "Refresh",
     "Saving Language": "Čuvanje jezika",
     "Select your preferred language": "Odaberite željeni jezik"
   },
@@ -704,6 +708,8 @@
     "Device Type": "Vrsta uređaja",
     "Linux Kernel": "Linux Kernel",
     "Memory Cache Dropped": "Memorijski keš je ispražnjen",
+    "Refresh Frontend": "Refresh Frontend",
+    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
     "SYSTEM DETAILS": "DETALJI SISTEMA",
     "System Memory": "Sistemska memorija",
     "System Uptime": "System Uptime",

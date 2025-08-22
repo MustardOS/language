@@ -33,6 +33,7 @@
     "Previous": "Zuletzt",
     "Rebooting…": "Wird neugestartet…",
     "Recursive": "Als Standard",
+    "Refreshing…": "Refreshing…",
     "Remove": "Entfernen",
     "Rescan": "Durchsuchen",
     "Restore": "Wiederherstellen",
@@ -426,8 +427,11 @@
     "Wi-Fi Network": "Wi-Fi-Netzwerk"
   },
   "muxlanguage": {
+    "Downloading Language Updates": "Downloading Language Updates",
+    "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "SPRACHE",
     "No Languages Found…": "Keine Sprachen gefunden…",
+    "Refresh": "Refresh",
     "Saving Language": "Sprache wird übernommen",
     "Select your preferred language": "Bevorzugte Sprache auswählen"
   },
@@ -704,6 +708,8 @@
     "Device Type": "Gerätemodell",
     "Linux Kernel": "Linuxversion",
     "Memory Cache Dropped": "Arbeitsspeicher bereinigt",
+    "Refresh Frontend": "Refresh Frontend",
+    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
     "SYSTEM DETAILS": "SYSTEMINFORMATIONEN",
     "System Memory": "Arbeitsspeicher",
     "System Uptime": "Betriebszeit",

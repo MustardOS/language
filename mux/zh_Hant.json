@@ -33,6 +33,7 @@
     "Previous": "先前",
     "Rebooting…": "重啟中…",
     "Recursive": "包括子目錄",
+    "Refreshing…": "Refreshing…",
     "Remove": "移除",
     "Rescan": "重新掃描",
     "Restore": "恢復",
@@ -426,8 +427,11 @@
     "Wi-Fi Network": "無線網路"
   },
   "muxlanguage": {
+    "Downloading Language Updates": "Downloading Language Updates",
+    "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "語言",
     "No Languages Found…": "找不到語言…",
+    "Refresh": "Refresh",
     "Saving Language": "儲存語言設定",
     "Select your preferred language": "選擇您偏好的語言"
   },
@@ -704,6 +708,8 @@
     "Device Type": "裝置類型",
     "Linux Kernel": "Linux核心",
     "Memory Cache Dropped": "記憶體快取已清除",
+    "Refresh Frontend": "Refresh Frontend",
+    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
     "SYSTEM DETAILS": "系統詳情",
     "System Memory": "系統記憶體",
     "System Uptime": "系統運作時間",

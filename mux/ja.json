@@ -33,6 +33,7 @@
     "Previous": "現在の設定を使用",
     "Rebooting…": "再起動中…",
     "Recursive": "再帰的に指定",
+    "Refreshing…": "Refreshing…",
     "Remove": "削除する",
     "Rescan": "再検索",
     "Restore": "復元する",
@@ -426,8 +427,11 @@
     "Wi-Fi Network": "Wi-Fi ネットワーク"
   },
   "muxlanguage": {
+    "Downloading Language Updates": "Downloading Language Updates",
+    "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "言語",
     "No Languages Found…": "言語が見つかりませんでした…",
+    "Refresh": "Refresh",
     "Saving Language": "言語を設定しています",
     "Select your preferred language": "使用する言語を設定します"
   },
@@ -704,6 +708,8 @@
     "Device Type": "機種",
     "Linux Kernel": "Linux カーネル",
     "Memory Cache Dropped": "削除されたメモリキャッシュ",
+    "Refresh Frontend": "Refresh Frontend",
+    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
     "SYSTEM DETAILS": "システム詳細",
     "System Memory": "システムメモリ",
     "System Uptime": "システム稼働期間",

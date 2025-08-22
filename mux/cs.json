@@ -7,18 +7,18 @@
     "Change": "Změna",
     "Channel": "Kanál",
     "Clear": "Čistý",
-    "Close": "Close",
+    "Close": "Zavřít",
     "Collect": "Sbírat",
     "Directory": "Adresář",
     "Disabled": "Zakázáno",
-    "Download": "Download",
+    "Download": "Stáhnout",
     "Edit": "Upravit",
     "Enabled": "Povoleno",
     "Extract": "Rozbalit",
     "Filter": "Filtr",
     "Individual": "Individuální",
     "Info": "Informace",
-    "Information": "Information",
+    "Information": "Informace",
     "Install": "Instalovat",
     "Launch": "Spustit",
     "Load": "Nahrát",
@@ -29,17 +29,18 @@
     "No Information Found": "Nebyly nalezeny žádné informace",
     "Not Connected": "Nepřipojeno",
     "Open": "Otevřít",
-    "Preview Image": "Preview Image",
+    "Preview Image": "Náhledový obrázek",
     "Previous": "Předchozí",
     "Rebooting…": "Restartování…",
     "Recursive": "Rekurzivní",
+    "Refreshing…": "Refreshing…",
     "Remove": "Odstranit",
     "Rescan": "Znovu proskenovat",
     "Restore": "Obnovit",
     "Restricted": "Omezeno",
     "Save": "Uložit",
     "Saving…": "Ukládání…",
-    "Scroll": "Scroll",
+    "Scroll": "Přetáčet",
     "Select": "Vybrat",
     "Shutting Down…": "Vypínání…",
     "Sync to SD1": "Synchronizovat na SD1",
@@ -57,12 +58,12 @@
     "Task Toolkit": "Sada nástrojů"
   },
   "muxappcon": {
-    "APPLICATION OPTION": "APPLICATION OPTION",
-    "Control Scheme": "Control Scheme",
-    "Governor": "Governor",
-    "Name": "Name",
-    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
-    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+    "APPLICATION OPTION": "MOŽNOST APLIKACE",
+    "Control Scheme": "Kontrolní schéma",
+    "Governor": "Regulátor",
+    "Name": "Jméno",
+    "Set the CPU governor for the selected application": "Nastavení regulátoru CPU pro vybranou aplikaci",
+    "Set the control scheme for the selected application": "Nastavení schématu ovládání pro vybranou aplikaci"
   },
   "muxarchive": {
     "ARCHIVE MANAGER": "SPRÁVCE ARCHIVU",
@@ -74,7 +75,7 @@
     "ASSIGN": "PŘIŘADIT",
     "Assigned to directory": "Přiřazeno do adresáře",
     "Assigned to file": "Přiřazeno k souboru",
-    "Core Downloader": "Core Downloader",
+    "Core Downloader": "Stažení Jádra",
     "No Cores Found…": "Nebyla nalezena žádná jádra…",
     "This is where you can assign a core or external emulator to content": "Zde můžete přiřadit jádro nebo externí emulátor"
   },
@@ -134,7 +135,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Spouštění systému – čekejte prosím…",
     "Capacity": "Kapacita",
-    "Press START button to continue booting…": "Press START button to continue booting…",
+    "Press START button to continue booting…": "Stiskněte tlačítko START pro pokračování spouštění…",
     "Voltage": "Napětí"
   },
   "muxcollect": {
@@ -223,7 +224,7 @@
     "Switch between different theme alternatives": "Přepínejte mezi různými alternativami motivů",
     "Switch between pressing A or holding A to launch content save state automatically": "Přepínáním mezi stisknutím klávesy A a podržením klávesy A automaticky spustíte ukládání obsahu",
     "Theme": "Téma",
-    "Theme Download": "Theme Download",
+    "Theme Download": "Téma ke stažení",
     "Theme Picker": "Výběr motivu",
     "Theme Resolution": "Rozlišení motivu",
     "Toggle the background animation of the current selected theme": "Přepnout animaci na pozadí aktuálně vybraného motivu",
@@ -288,13 +289,13 @@
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Přepíná připojování DebugFS na úrovni jádra při spuštění\n\nNejlepší je nechat tuto možnost zapnutou, pokud není uvedeno jinak!"
   },
   "muxdownload": {
-    "APP DOWNLOADER": "APP DOWNLOADER",
-    "Archive Removed": "Archive Removed",
-    "CORE DOWNLOADER": "CORE DOWNLOADER",
-    "Downloading Archive": "Downloading Archive",
-    "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "APP DOWNLOADER": "STAŽENÍ APLIKACÍ",
+    "Archive Removed": "Archiv odstraněn",
+    "CORE DOWNLOADER": "STAŽENÍ JÁDRA",
+    "Downloading Archive": "Stahování archivu",
+    "Downloading Data": "Stahování dat",
+    "Error Retrieving Data": "Chyba při načítání dat",
+    "Refresh": "Obnovit"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Nakonfigurujte regulátory CPU tak, aby dynamicky upravovaly frekvenci CPU a pomáhaly vyvážit spotřebu energie a výkon",
@@ -420,14 +421,17 @@
     "RetroArch Kiosk": "Kiosek RetroArch",
     "Storage": "Uložiště",
     "Task Toolkit": "Sada nástrojů",
-    "Theme Download": "Theme Download",
+    "Theme Download": "Téma ke stažení",
     "Timezone": "Časové pásmo",
     "Web Services": "Webové služby",
     "Wi-Fi Network": "Wi-Fi síť"
   },
   "muxlanguage": {
+    "Downloading Language Updates": "Downloading Language Updates",
+    "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "JAZYK",
     "No Languages Found…": "Nebyly nalezeny žádné jazyky…",
+    "Refresh": "Refresh",
     "Saving Language": "Uložení jazyka",
     "Select your preferred language": "Vyberte preferovaný jazyk"
   },
@@ -570,7 +574,7 @@
     "No Custom Packages Found": "Nebyly nalezeny žádné vlastní balíčky",
     "No Theme Packages Found": "Nebyly nalezeny žádné balíčky témat",
     "THEME PICKER": "VÝBĚR TÉMAT",
-    "Theme Download": "Theme Download",
+    "Theme Download": "Téma ke stažení",
     "There are no attributed credits!": "Nejsou žádné přidělené kredity!"
   },
   "muxplore": {
@@ -704,6 +708,8 @@
     "Device Type": "Typ zařízení",
     "Linux Kernel": "Linux Kernel",
     "Memory Cache Dropped": "Mezipaměť klesla",
+    "Refresh Frontend": "Refresh Frontend",
+    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
     "SYSTEM DETAILS": "SYSTÉMOVÉ PODROBNOSTI",
     "System Memory": "Systémová paměť",
     "System Uptime": "Doba provozu systému",
@@ -736,17 +742,17 @@
     "Press any button to start input testing!": "Stisknutím libovolného tlačítka zahájíte testování vstupu!"
   },
   "muxthemedown": {
-    "Download": "Download",
-    "Downloading Theme": "Downloading Theme",
-    "Downloading Theme Data": "Downloading Theme Data",
-    "Downloading Theme Previews": "Downloading Theme Previews",
-    "Error Retrieving Theme Data": "Error Retrieving Theme Data",
-    "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
-    "Remove": "Remove",
-    "THEME DOWNLOAD": "THEME DOWNLOAD",
-    "Theme Removed": "Theme Removed"
+    "Download": "Stáhnout",
+    "Downloading Theme": "Stahování motivu",
+    "Downloading Theme Data": "Stahování dat tématu",
+    "Downloading Theme Previews": "Stahování náhledů motivů",
+    "Error Retrieving Theme Data": "Chyba při načítání dat šablony",
+    "No Content Found…": "Nebyl nalezen žádný obsah…",
+    "Refresh": "Obnovit",
+    "Refreshing…": "Obnovuji…",
+    "Remove": "Odstranit",
+    "THEME DOWNLOAD": "STAŽENÍ TÉMATU",
+    "Theme Removed": "Motiv odstraněn"
   },
   "muxthemefilter": {
     "All": "Vše",
