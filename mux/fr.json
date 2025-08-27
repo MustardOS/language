@@ -2,20 +2,20 @@
   "generic": {
     "Add": "Ajouter",
     "Added to Collection": "Ajouté à la collection",
-    "Allowed": "Allowed",
+    "Allowed": "Autorisé",
     "Back": "Retour",
     "Change": "Modifier",
     "Channel": "Canal",
     "Clear": "Effacer",
-    "Close": "Close",
+    "Close": "Fermer",
     "Collect": "Collecter",
     "Directory": "Répertoire",
     "Disabled": "Désactivé",
-    "Download": "Download",
+    "Download": "Télécharger",
     "Edit": "Éditer",
     "Enabled": "Activé",
     "Extract": "Extraire",
-    "Filter": "Filter",
+    "Filter": "Filtrer",
     "Individual": "Individuel",
     "Info": "Info",
     "Information": "Information",
@@ -37,7 +37,7 @@
     "Remove": "Retirer",
     "Rescan": "Re-scanner",
     "Restore": "Restaurer",
-    "Restricted": "Restricted",
+    "Restricted": "Restreint",
     "Save": "Sauvegarder",
     "Saving…": "Sauvegarde en cours…",
     "Scroll": "Scroll",
@@ -59,11 +59,11 @@
   },
   "muxappcon": {
     "APPLICATION OPTION": "APPLICATION OPTION",
-    "Control Scheme": "Control Scheme",
-    "Governor": "Governor",
-    "Name": "Name",
-    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
-    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+    "Control Scheme": "Schéma de contrôle",
+    "Governor": "Gouverneur",
+    "Name": "Nom",
+    "Set the CPU governor for the selected application": "Définir le gouverneur CPU pour l'application sélectionnée",
+    "Set the control scheme for the selected application": "Définir le schéma de contrôle pour l'application sélectionnée"
   },
   "muxarchive": {
     "ARCHIVE MANAGER": "GESTIONNAIRE D'ARCHIVES",
@@ -135,11 +135,11 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Démarrage en cours - Veuillez patienter…",
     "Capacity": "Capacité",
-    "Press START button to continue booting…": "Press START button to continue booting…",
+    "Press START button to continue booting…": "Appuyez sur le bouton START pour continuer le démarrage…",
     "Voltage": "Tension"
   },
   "muxcollect": {
-    "COLLECTION": "COLLECTION",
+    "COLLECTION": "COLLECTIONS",
     "Collection folder is not empty": "Le dossier de collection n'est pas vide",
     "Error loading content file": "Erreur lors du chargement du fichier",
     "Error removing from Collections": "Erreur lors de la suppression des collections",
@@ -176,7 +176,7 @@
     "Wi-Fi Network": "Réseau Wi-Fi"
   },
   "muxcontrol": {
-    "CONTROL": "CONTROL",
+    "CONTROL": "CONTRÔLE",
     "Change the control scheme of your current selected content": "Change the control scheme of your current selected content",
     "No Control Schemes Found…": "No Control Schemes Found…"
   },
