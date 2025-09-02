@@ -59,7 +59,7 @@
     "No Applications Found": "Nenhum Aplicativo Encontrado",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
-    "RGB Controller": "RGB Controller",
+    "RGB Controller": "Controlador RGB",
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Task Toolkit": "Ferramentas de Sistema"
@@ -360,7 +360,7 @@
     "Allow selection of content control scheme": "Permitir a seleção da configuração de controles para o conteúdo",
     "Allow selection of content cores": "Permitir a seleção de núcleos de conteúdo",
     "Allow selection of content governor": "Permitir a seleção de modo da CPU para o conteúdo",
-    "Allow the use of the user based content backup tool": "Allow the use of the user based content backup tool",
+    "Allow the use of the user based content backup tool": "Permite o uso da ferramenta de backup",
     "Allow user to migrate or sync user based content": "Permitir ao usuário migrar ou sincronizar seu conteúdo",
     "Allow users to adjust content options": "Permitir que usuários ajustem opções de conteúdo",
     "Allow users to customise the interface": "Permitir que usuários personalizem a interface",
