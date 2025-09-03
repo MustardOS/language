@@ -144,6 +144,7 @@
   },
   "muxconfig": {
     "CONFIGURATION": "CONFIGURAÇÕES",
+    "Connect your device via Wi-Fi, enable web services, or enable USB functions": "Connect your device via Wi-Fi, enable web services, or enable USB functions",
     "Connectivity": "Conectividade",
     "Customisation": "Personalização",
     "Customise your muOS setup with user created packages": "Personalize suas configurações do muOS com pacotes criados por usuários",
