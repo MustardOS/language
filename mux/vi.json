@@ -144,6 +144,7 @@
   },
   "muxconfig": {
     "CONFIGURATION": "CẤU HÌNH",
+    "Connect your device via Wi-Fi, enable web services, or enable USB functions": "Connect your device via Wi-Fi, enable web services, or enable USB functions",
     "Connectivity": "Kết nối",
     "Customisation": "Cá nhân hóa",
     "Customise your muOS setup with user created packages": "Tùy chỉnh thiết lập muOS với các gói do người dùng tạo ra",
