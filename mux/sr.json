@@ -144,6 +144,7 @@
   },
   "muxconfig": {
     "CONFIGURATION": "PODEŠAVANJE",
+    "Connect your device via Wi-Fi, enable web services, or enable USB functions": "Connect your device via Wi-Fi, enable web services, or enable USB functions",
     "Connectivity": "Povezivanje",
     "Customisation": "Prilagođavanje",
     "Customise your muOS setup with user created packages": "Prilagodite svoj muOS pomoću korisnički kreiranih paketa",
