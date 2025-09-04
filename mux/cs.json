@@ -563,6 +563,8 @@
     "CATALOGUE PICKER": "VÝBĚR KATALOGU",
     "CONFIG PICKER": "VÝBĚR KONFIGURACE",
     "CUSTOM PICKER": "VLASTNÍ VÝBĚR",
+    "Failed to remove item…": "Failed to remove item…",
+    "Hold L2 and press X to confirm deletion!": "Hold L2 and press X to confirm deletion!",
     "Incompatible Theme Resolution Detected": "Bylo zjištěno nekompatibilní rozlišení motivu",
     "Incompatible Theme Version Detected": "Byla zjištěna nekompatibilní verze motivu",
     "No Catalogue Packages Found": "Nebyly nalezeny žádné balíčky katalogu",
@@ -571,7 +573,8 @@
     "No Theme Packages Found": "Nebyly nalezeny žádné balíčky témat",
     "THEME PICKER": "VÝBĚR TÉMAT",
     "Theme Download": "Téma ke stažení",
-    "There are no attributed credits!": "Nejsou žádné přidělené kredity!"
+    "There are no attributed credits!": "Nejsou žádné přidělené kredity!",
+    "This theme is protected from deletion!": "This theme is protected from deletion!"
   },
   "muxplore": {
     "Content is not associated with system or core": "Obsah není spojen se systémem nebo jádrem",
