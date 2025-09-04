@@ -563,6 +563,8 @@
     "CATALOGUE PICKER": "CATALOGUES D'ILLUSTRATIONS",
     "CONFIG PICKER": "CONFIGURATIONS RETROARCH",
     "CUSTOM PICKER": "MENU PERSONNALISATION",
+    "Failed to remove item…": "Failed to remove item…",
+    "Hold L2 and press X to confirm deletion!": "Hold L2 and press X to confirm deletion!",
     "Incompatible Theme Resolution Detected": "Thème incompatible avec la résolution actuelle",
     "Incompatible Theme Version Detected": "Thème incompatible avec la version actuelle du système",
     "No Catalogue Packages Found": "Aucun pack de catalogue disponible",
@@ -571,7 +573,8 @@
     "No Theme Packages Found": "Aucun pack de thème disponible",
     "THEME PICKER": "THÈMES MUOS",
     "Theme Download": "Theme Download",
-    "There are no attributed credits!": "Il n'y a pas de crédits attribués!"
+    "There are no attributed credits!": "Il n'y a pas de crédits attribués!",
+    "This theme is protected from deletion!": "This theme is protected from deletion!"
   },
   "muxplore": {
     "Content is not associated with system or core": "Le jeu n'est pas associé au système ou à un émulateur",
