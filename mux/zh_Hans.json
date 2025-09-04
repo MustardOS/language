@@ -563,6 +563,8 @@
     "CATALOGUE PICKER": "选择封面艺术集",
     "CONFIG PICKER": "选择配置文件",
     "CUSTOM PICKER": "选择自定义内容",
+    "Failed to remove item…": "Failed to remove item…",
+    "Hold L2 and press X to confirm deletion!": "Hold L2 and press X to confirm deletion!",
     "Incompatible Theme Resolution Detected": "检测到不兼容的主题分辨率",
     "Incompatible Theme Version Detected": "检测到不兼容的主题版本",
     "No Catalogue Packages Found": "未找到封面艺术集",
@@ -571,7 +573,8 @@
     "No Theme Packages Found": "未找到主题包",
     "THEME PICKER": "选择主题",
     "Theme Download": "Theme Download",
-    "There are no attributed credits!": "缺少版权声明！"
+    "There are no attributed credits!": "缺少版权声明！",
+    "This theme is protected from deletion!": "This theme is protected from deletion!"
   },
   "muxplore": {
     "Content is not associated with system or core": "内容未关联系统或核心",
