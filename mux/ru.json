@@ -563,6 +563,8 @@
     "CATALOGUE PICKER": "ВЫБОР КАТАЛОГОВ",
     "CONFIG PICKER": "ВЫБОР КОНФИГУРАЦИЙ",
     "CUSTOM PICKER": "КАСТОМНЫЙ ВЫБОР",
+    "Failed to remove item…": "Failed to remove item…",
+    "Hold L2 and press X to confirm deletion!": "Hold L2 and press X to confirm deletion!",
     "Incompatible Theme Resolution Detected": "Обнаружено несовместимое разрешение темы",
     "Incompatible Theme Version Detected": "Обнаружена несовместимая версия темы",
     "No Catalogue Packages Found": "Пакеты каталогов не найдены",
@@ -571,7 +573,8 @@
     "No Theme Packages Found": "Пакеты тем не найдены",
     "THEME PICKER": "ВЫБОР ТЕМЫ",
     "Theme Download": "Загрузка тем",
-    "There are no attributed credits!": "Не найдено применимых атрибутов!"
+    "There are no attributed credits!": "Не найдено применимых атрибутов!",
+    "This theme is protected from deletion!": "This theme is protected from deletion!"
   },
   "muxplore": {
     "Content is not associated with system or core": "К игре не привязаны система или ядро",
