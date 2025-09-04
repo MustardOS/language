@@ -563,6 +563,8 @@
     "CATALOGUE PICKER": "SELECTOR CATALOG",
     "CONFIG PICKER": "SELECTOR CONFIGURAȚIE",
     "CUSTOM PICKER": "SELECTOR PERSONALIZAT",
+    "Failed to remove item…": "Failed to remove item…",
+    "Hold L2 and press X to confirm deletion!": "Hold L2 and press X to confirm deletion!",
     "Incompatible Theme Resolution Detected": "Rezoluție temă incompatibilă detectată",
     "Incompatible Theme Version Detected": "Versiune temă incompatibilă detectată",
     "No Catalogue Packages Found": "Niciun pachet de catalog găsit",
@@ -571,7 +573,8 @@
     "No Theme Packages Found": "Niciun pachet de teme găsit",
     "THEME PICKER": "SELECTOR TEMĂ",
     "Theme Download": "Theme Download",
-    "There are no attributed credits!": "Nu există credite atribuite!"
+    "There are no attributed credits!": "Nu există credite atribuite!",
+    "This theme is protected from deletion!": "This theme is protected from deletion!"
   },
   "muxplore": {
     "Content is not associated with system or core": "Conținutul nu este asociat cu sistemul sau nucleul",
