@@ -563,6 +563,8 @@
     "CATALOGUE PICKER": "PIOCADH CATALÓG",
     "CONFIG PICKER": "ROGHNÓIR CUMRAÍOCHTA",
     "CUSTOM PICKER": "ROGHNÓIR SAINRÉITHE",
+    "Failed to remove item…": "Failed to remove item…",
+    "Hold L2 and press X to confirm deletion!": "Hold L2 and press X to confirm deletion!",
     "Incompatible Theme Resolution Detected": "Braitheadh Taifeach Neamh-chomhoiriúnach don Téama",
     "Incompatible Theme Version Detected": "Braitheadh Leagan Téama Neamh-chomhoiriúnach",
     "No Catalogue Packages Found": "Níor Aimsíodh Pacáistí Catalóga",
@@ -571,7 +573,8 @@
     "No Theme Packages Found": "Níor aimsíodh aon Phacáistí Téama",
     "THEME PICKER": "ROGHNÓIR TÉAMA",
     "Theme Download": "Íoslódáil Téama",
-    "There are no attributed credits!": "Níl aon creidmheasanna leithdháilte!"
+    "There are no attributed credits!": "Níl aon creidmheasanna leithdháilte!",
+    "This theme is protected from deletion!": "This theme is protected from deletion!"
   },
   "muxplore": {
     "Content is not associated with system or core": "Ní bhaineann an t-ábhar le córas nó croí",
