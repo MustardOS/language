@@ -563,6 +563,8 @@
     "CATALOGUE PICKER": "BOXARTPAKETE",
     "CONFIG PICKER": "EINSTELLUNGSAUSWAHL",
     "CUSTOM PICKER": "BENUTZERDEFINIERTE AUSWAHL",
+    "Failed to remove item…": "Failed to remove item…",
+    "Hold L2 and press X to confirm deletion!": "Hold L2 and press X to confirm deletion!",
     "Incompatible Theme Resolution Detected": "Inkompatible Skinauflösung erkannt",
     "Incompatible Theme Version Detected": "Inkompatible Skinversion erkannt",
     "No Catalogue Packages Found": "Keine Boxartpakete gefunden",
@@ -571,7 +573,8 @@
     "No Theme Packages Found": "Keine Skinpakete gefunden",
     "THEME PICKER": "SKIN-AUSWAHL",
     "Theme Download": "Theme Download",
-    "There are no attributed credits!": "Es gibt keine zugeschriebenen Anerkennungen!"
+    "There are no attributed credits!": "Es gibt keine zugeschriebenen Anerkennungen!",
+    "This theme is protected from deletion!": "This theme is protected from deletion!"
   },
   "muxplore": {
     "Content is not associated with system or core": "Dieser Datei wurde keinem System oder einem Kern zugewiesen",
