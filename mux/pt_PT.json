@@ -563,6 +563,8 @@
     "CATALOGUE PICKER": "SELECTOR DE CATÁLOGO",
     "CONFIG PICKER": "SELECTOR DE CONFIGURAÇÕES",
     "CUSTOM PICKER": "SELECTOR PERSONALIZADO",
+    "Failed to remove item…": "Failed to remove item…",
+    "Hold L2 and press X to confirm deletion!": "Hold L2 and press X to confirm deletion!",
     "Incompatible Theme Resolution Detected": "Incompatible Theme Resolution Detected",
     "Incompatible Theme Version Detected": "Incompatible Theme Version Detected",
     "No Catalogue Packages Found": "Nenhum Pacote de Catálogo Encontrado",
@@ -571,7 +573,8 @@
     "No Theme Packages Found": "Nenhum Pacote de Tema Encontrado",
     "THEME PICKER": "SELECTOR DE TEMA",
     "Theme Download": "Theme Download",
-    "There are no attributed credits!": "Não estão atribuídos os créditos!"
+    "There are no attributed credits!": "Não estão atribuídos os créditos!",
+    "This theme is protected from deletion!": "This theme is protected from deletion!"
   },
   "muxplore": {
     "Content is not associated with system or core": "Content is not associated with system or core",
