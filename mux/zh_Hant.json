@@ -563,6 +563,8 @@
     "CATALOGUE PICKER": "目錄選擇器",
     "CONFIG PICKER": "設定檔選擇器",
     "CUSTOM PICKER": "個人化選擇器",
+    "Failed to remove item…": "Failed to remove item…",
+    "Hold L2 and press X to confirm deletion!": "Hold L2 and press X to confirm deletion!",
     "Incompatible Theme Resolution Detected": "檢測到不相容的主題分辨率",
     "Incompatible Theme Version Detected": "檢測到不相容的主題版本",
     "No Catalogue Packages Found": "找不到目錄集",
@@ -571,7 +573,8 @@
     "No Theme Packages Found": "找不到主題集",
     "THEME PICKER": "主題選擇器",
     "Theme Download": "主題下載",
-    "There are no attributed credits!": "沒有作者署名!"
+    "There are no attributed credits!": "沒有作者署名!",
+    "This theme is protected from deletion!": "This theme is protected from deletion!"
   },
   "muxplore": {
     "Content is not associated with system or core": "內容無適配到系統或核心",
