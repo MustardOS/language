@@ -563,6 +563,8 @@
     "CATALOGUE PICKER": "CATALOGUE PICKER",
     "CONFIG PICKER": "CONFIG PICKER",
     "CUSTOM PICKER": "CUSTOM PICKER",
+    "Failed to remove item…": "Failed to remove item…",
+    "Hold L2 and press X to confirm deletion!": "Hold L2 and press X to confirm deletion!",
     "Incompatible Theme Resolution Detected": "Виявлено несумісну роздільну здатність теми",
     "Incompatible Theme Version Detected": "Виявлено несумісну версію теми",
     "No Catalogue Packages Found": "No Catalogue Packages Found",
@@ -571,7 +573,8 @@
     "No Theme Packages Found": "No Theme Packages Found",
     "THEME PICKER": "THEME PICKER",
     "Theme Download": "Theme Download",
-    "There are no attributed credits!": "There are no attributed credits!"
+    "There are no attributed credits!": "There are no attributed credits!",
+    "This theme is protected from deletion!": "This theme is protected from deletion!"
   },
   "muxplore": {
     "Content is not associated with system or core": "Вміст не прив'язаний до системи або ядра",
