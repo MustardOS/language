@@ -563,6 +563,8 @@
     "CATALOGUE PICKER": "カタログ選択",
     "CONFIG PICKER": "設定一覧",
     "CUSTOM PICKER": "カスタマイズ一覧",
+    "Failed to remove item…": "Failed to remove item…",
+    "Hold L2 and press X to confirm deletion!": "Hold L2 and press X to confirm deletion!",
     "Incompatible Theme Resolution Detected": "互換性の無いテーマ解像度です",
     "Incompatible Theme Version Detected": "互換性の無いテーマバージョンです",
     "No Catalogue Packages Found": "カタログパッケージが見つかりませんでした",
@@ -571,7 +573,8 @@
     "No Theme Packages Found": "テーマパッケージが見つかりませんでした",
     "THEME PICKER": "テーマ一覧",
     "Theme Download": "Theme Download",
-    "There are no attributed credits!": "製作者の表記がありません!"
+    "There are no attributed credits!": "製作者の表記がありません!",
+    "This theme is protected from deletion!": "This theme is protected from deletion!"
   },
   "muxplore": {
     "Content is not associated with system or core": "システムまたはコアに関連づけられていません",
