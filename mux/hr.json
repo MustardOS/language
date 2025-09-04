@@ -563,6 +563,8 @@
     "CATALOGUE PICKER": "BIRAČ KATALOGA",
     "CONFIG PICKER": "BIRAČ KONFIGURACIJA",
     "CUSTOM PICKER": "BIRAČ PRILAGOĐENOG",
+    "Failed to remove item…": "Failed to remove item…",
+    "Hold L2 and press X to confirm deletion!": "Hold L2 and press X to confirm deletion!",
     "Incompatible Theme Resolution Detected": "Neskladna Rezolucija Teme Detektirana",
     "Incompatible Theme Version Detected": "Neskladna Verzija Teme Detektirana",
     "No Catalogue Packages Found": "Paketi Kataloga nisu Pronađena",
@@ -571,7 +573,8 @@
     "No Theme Packages Found": "Paketi Tema nisu Pronađena",
     "THEME PICKER": "BIRAČ TEME",
     "Theme Download": "Theme Download",
-    "There are no attributed credits!": "Nema pripisanih zasluga!"
+    "There are no attributed credits!": "Nema pripisanih zasluga!",
+    "This theme is protected from deletion!": "This theme is protected from deletion!"
   },
   "muxplore": {
     "Content is not associated with system or core": "Sadržaj nije asociran s sistemom ili jezgrom",
