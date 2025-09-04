@@ -563,6 +563,8 @@
     "CATALOGUE PICKER": "محدد الكتالوج",
     "CONFIG PICKER": "محدد الإعدادات",
     "CUSTOM PICKER": "محدد التخصيص",
+    "Failed to remove item…": "Failed to remove item…",
+    "Hold L2 and press X to confirm deletion!": "Hold L2 and press X to confirm deletion!",
     "Incompatible Theme Resolution Detected": "تم اكتشاف دقة ثيم غير متوافقة",
     "Incompatible Theme Version Detected": "تم اكتشاف إصدار غير متوافق للثيم",
     "No Catalogue Packages Found": "لم يتم العثور على أي حزم كتالوج",
@@ -571,7 +573,8 @@
     "No Theme Packages Found": "لم يتم العثور على حزم الثيمات",
     "THEME PICKER": "محدد الثيم",
     "Theme Download": "Theme Download",
-    "There are no attributed credits!": "لا توجد أي اعتمادات منسوبة!"
+    "There are no attributed credits!": "لا توجد أي اعتمادات منسوبة!",
+    "This theme is protected from deletion!": "This theme is protected from deletion!"
   },
   "muxplore": {
     "Content is not associated with system or core": "المحتوى غير مرتبط بالنظام أو النواة",
