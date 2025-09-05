@@ -284,7 +284,7 @@
     "Toggles RGB LED integration on device": "Uključi/isključi RGB LED integraciju",
     "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Uključi podršku za senzor poklopca.\n\nNe aktivirati na uređajima bez poklopca!",
     "Toggles internal Portmaster support on device": "Uključi/isključi internu Portmaster podršku",
-    "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Uključi montiranje DebugFS-a pri pokretanju.\n\nPreporučeno ostaviti uključeno."
+    "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Uključi montiranje DebugFS-a pri pokretanju.\n\nPreporučeno ostaviti uključeno!"
   },
   "muxdownload": {
     "APP DOWNLOADER": "PREUZIMANJE APLIKACIJA",
