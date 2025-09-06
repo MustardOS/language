@@ -594,6 +594,7 @@
     "30s": "30Sek",
     "5m": "5Min",
     "60s": "60Sek",
+    "Configure how the power button functions on short press": "Configure how the power button functions on short press",
     "Configure the time the device will sleep when no input is detected": "Die Zeit einstellen, ab wann das System in den Standbymodus wechselt, wenn nach einiger Zeit keine Eingaben mehr gemacht wurden",
     "Configure the time the screen will dim when no input is detected": "Die Zeit einstellen, ab wann der Bildschirm verdunkelt wird, wenn keine Eingabe erkannt wird",
     "Configure when the red LED will display based on the current capacity percentage": "Einstellen wann die rote LED angeht um anzuzeigen, dass der Akku zu neige geht",
