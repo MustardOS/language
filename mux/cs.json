@@ -594,7 +594,6 @@
     "30s": "30s",
     "5m": "5m",
     "60s": "60s",
-    "Configure how the power button functions on long press (2 seconds)": "Nakonfigurujte, jak funguje tlačítko napájení při dlouhém stisknutí (2 sekundy)",
     "Configure the time the device will sleep when no input is detected": "Nakonfigurujte dobu, po kterou zařízení přejde do režimu spánku, když není detekován žádný vstup",
     "Configure the time the screen will dim when no input is detected": "Nakonfigurujte dobu, po kterou obrazovka ztmavne, když není detekován žádný vstup",
     "Configure when the red LED will display based on the current capacity percentage": "Nakonfigurujte, kdy se bude zobrazovat červená LED na základě aktuálního procenta kapacity",

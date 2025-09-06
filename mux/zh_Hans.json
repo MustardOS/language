@@ -594,7 +594,6 @@
     "30s": "30秒",
     "5m": "5分钟",
     "60s": "60秒",
-    "Configure how the power button functions on long press (2 seconds)": "设置长按电源键（2秒）的功能",
     "Configure the time the device will sleep when no input is detected": "设置无操作时设备进入睡眠的等待时长",
     "Configure the time the screen will dim when no input is detected": "设置无操作时屏幕变暗的等待时长",
     "Configure when the red LED will display based on the current capacity percentage": "根据当前电量百分比，设置红色 LED 的亮起时机",

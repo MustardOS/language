@@ -594,7 +594,6 @@
     "30s": "30s",
     "5m": "5m",
     "60s": "60s",
-    "Configure how the power button functions on long press (2 seconds)": "Configure how the power button functions on long press (2 seconds)",
     "Configure the time the device will sleep when no input is detected": "Configure the time the device will sleep when no input is detected",
     "Configure the time the screen will dim when no input is detected": "Configure the time the screen will dim when no input is detected",
     "Configure when the red LED will display based on the current capacity percentage": "Configure when the red LED will display based on the current capacity percentage",

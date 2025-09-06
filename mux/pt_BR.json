@@ -594,7 +594,6 @@
     "30s": "30s",
     "5m": "5m",
     "60s": "60s",
-    "Configure how the power button functions on long press (2 seconds)": "Configure como o botão de energia funciona ao pressionar por um longo período (2 segundos)",
     "Configure the time the device will sleep when no input is detected": "Configure o tempo que o dispositivo leva para suspender quando nenhum comando é detectado",
     "Configure the time the screen will dim when no input is detected": "Configure o tempo que a tela leva pra escurecer quando nenhum comando é detectado",
     "Configure when the red LED will display based on the current capacity percentage": "Defina em que nível de carga o LED vermelho será exibido",

@@ -594,7 +594,6 @@
     "30s": "30 sek",
     "5m": "5 min",
     "60s": "60 sek",
-    "Configure how the power button functions on long press (2 seconds)": "Odredi kako funkcionira tipka za napajanje kod dugog pritiska (2 sekunde)",
     "Configure the time the device will sleep when no input is detected": "Odredi nakon kojeg vremena uređaj ide u mirovanje kada nema unosa",
     "Configure the time the screen will dim when no input is detected": "Odredi nakon kojeg vremena se zatamnjuje ekran kada nema unosa",
     "Configure when the red LED will display based on the current capacity percentage": "Odredi kada će crveni LED svijetliti ovisno o postotku baterije",
