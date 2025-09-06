@@ -594,7 +594,7 @@
     "30s": "30с",
     "5m": "5м",
     "60s": "60с",
-    "Configure how the power button functions on long press (2 seconds)": "Конфигурирай как да действа POWER бутона при продължително натискане (2 секунди)",
+    "Configure how the power button functions on short press": "Configure how the power button functions on short press",
     "Configure the time the device will sleep when no input is detected": "Конфигурирай времето, през което устройството ще заспи, когато не е натиснат никакъв бутон",
     "Configure the time the screen will dim when no input is detected": "Конфигурирай времето, за което екранът ще се затъмни, когато не е натиснат никакъв бутон",
     "Configure when the red LED will display based on the current capacity percentage": "Конфигурирай кога червеният светодиод ще светне от текущия процент на капацитета",

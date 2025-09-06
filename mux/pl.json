@@ -594,7 +594,7 @@
     "30s": "30s",
     "5m": "5m",
     "60s": "60s",
-    "Configure how the power button functions on long press (2 seconds)": "Skonfiguruj zachowanie przycisku zasilania dla długiego wciśnięcia (2 sekundy)",
+    "Configure how the power button functions on short press": "Configure how the power button functions on short press",
     "Configure the time the device will sleep when no input is detected": "Skonfiguruj, kiedy uśpić urządzenie, jeśli nie wykryto żadnej interakcji",
     "Configure the time the screen will dim when no input is detected": "Skonfiguruj, kiedy ekran ma się ściemnić, jeśli nie wykryto żadnej interakcji",
     "Configure when the red LED will display based on the current capacity percentage": "Skonfiguruj, kiedy ma zapalić się czerwona dioda LED na podstawie bieżącej pojemności baterii",

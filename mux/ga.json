@@ -594,7 +594,7 @@
     "30s": "30idí",
     "5m": "5m",
     "60s": "60idí",
-    "Configure how the power button functions on long press (2 seconds)": "Cumraigh conas a fheidhmíonn an cnaipe cumhachta ar an bpreas fada (2 soicind)",
+    "Configure how the power button functions on short press": "Configure how the power button functions on short press",
     "Configure the time the device will sleep when no input is detected": "Cumraigh an t-am a chodlóidh an gléas nuair nach mbraitear ionchur",
     "Configure the time the screen will dim when no input is detected": "Cumraigh an t-am a mhaolóidh an scáileán nuair nach mbraitear aon ionchur",
     "Configure when the red LED will display based on the current capacity percentage": "Cumraigh nuair a thaispeánfaidh an LED dearg bunaithe ar an gcéatadán acmhainne reatha",

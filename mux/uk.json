@@ -594,7 +594,7 @@
     "30s": "30с",
     "5m": "5хв",
     "60s": "60с",
-    "Configure how the power button functions on long press (2 seconds)": "Налаштувати дію кнопки живлення при довгому натисканні (2 секунди)",
+    "Configure how the power button functions on short press": "Configure how the power button functions on short press",
     "Configure the time the device will sleep when no input is detected": "Налаштувати час після якого пристрій перейде у режим сну, якщо жодна з кнопок не натискалася",
     "Configure the time the screen will dim when no input is detected": "Налаштувати час після якого екран буде затемнено, якщо жодна з кнопок не натискалася",
     "Configure when the red LED will display based on the current capacity percentage": "Налаштувати коли LED-індикатор відображатиметься червоним у залежності від поточного рівня заряду у відсотках",

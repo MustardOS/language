@@ -594,7 +594,7 @@
     "30s": "30 s",
     "5m": "5 min",
     "60s": "60 s",
-    "Configure how the power button functions on long press (2 seconds)": "Nastavite delovanje gumba za vklop pri dolgem pritisku (2 sekundi)",
+    "Configure how the power button functions on short press": "Configure how the power button functions on short press",
     "Configure the time the device will sleep when no input is detected": "Nastavite čas, po katerem bo naprava prešla v spanje, če ni zaznanega vnosa",
     "Configure the time the screen will dim when no input is detected": "Nastavite čas, po katerem se bo zaslon zatemnil, če ni zaznanega vnosa",
     "Configure when the red LED will display based on the current capacity percentage": "Nastavite, kdaj se bo rdeča LED lučka vklopila glede na trenutno kapaciteto baterije",
