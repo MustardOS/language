@@ -594,6 +594,7 @@
     "30s": "30s",
     "5m": "5m",
     "60s": "60s",
+    "Configure how the power button functions on short press": "Configure how the power button functions on short press",
     "Configure the time the device will sleep when no input is detected": "Configure o tempo que o dispositivo irá suspender quando não for detectada nenhuma entrada",
     "Configure the time the screen will dim when no input is detected": "Configure o tempo em que o ecrã escurecerá quando não for detectada nenhuma entrada",
     "Configure when the red LED will display based on the current capacity percentage": "Configure quando o LED vermelho será apresentado com base na percentagem de capacidade atual",
