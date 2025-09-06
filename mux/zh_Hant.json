@@ -594,6 +594,7 @@
     "30s": "30秒",
     "5m": "5分鐘",
     "60s": "60秒",
+    "Configure how the power button functions on short press": "Configure how the power button functions on short press",
     "Configure the time the device will sleep when no input is detected": "設定未偵測到輸入時裝置休眠的時間",
     "Configure the time the screen will dim when no input is detected": "設定未偵測到輸入時熄屏的時間",
     "Configure when the red LED will display based on the current capacity percentage": "根據目前電量百分比設定LED紅色燈號何時顯示",
