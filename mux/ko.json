@@ -594,6 +594,7 @@
     "30s": "30초",
     "5m": "5분",
     "60s": "60초",
+    "Configure how the power button functions on short press": "Configure how the power button functions on short press",
     "Configure the time the device will sleep when no input is detected": "입력이 감지되지 않을 때 장치가 슬립 모드로 전환되는 시간을 구성",
     "Configure the time the screen will dim when no input is detected": "입력이 감지되지 않을 때 화면이 어두워지는 시간을 구성",
     "Configure when the red LED will display based on the current capacity percentage": "현재 배터리 용량 백분율을 기준으로 빨간색 LED가 표시되는 시점을 구성",
