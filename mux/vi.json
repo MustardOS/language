@@ -594,6 +594,7 @@
     "30s": "30 giây",
     "5m": "5p",
     "60s": "60 giây",
+    "Configure how the power button functions on short press": "Configure how the power button functions on short press",
     "Configure the time the device will sleep when no input is detected": "Cấu hình thời gian bật sleep khi không sử dụng",
     "Configure the time the screen will dim when no input is detected": "Cấu hình thời gian màn hình giảm độ sáng khi không sử dụng",
     "Configure when the red LED will display based on the current capacity percentage": "Cấu hình đèn LED sáng đỏ khi pin yếu",
