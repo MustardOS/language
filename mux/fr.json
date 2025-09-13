@@ -345,6 +345,18 @@
     "View all of the screenshots taken on the device": "Afficher toutes les captures d'écran prises sur la console",
     "View the current used space of the mounted storage devices": "Afficher l'espace actuellement utilisé sur les périphériques de stockage montés"
   },
+  "muxinstall": {
+    "Change your current date, time, and timezone": "Change your current date, time, and timezone",
+    "Clock": "Clock",
+    "Date and Time": "Date and Time",
+    "INSTALLER": "INSTALLER",
+    "Install": "Install",
+    "Language": "Language",
+    "Prepare and install MustardOS": "Prepare and install MustardOS",
+    "Select your preferred language\n\nTranslations supported by Weblate": "Select your preferred language\n\nTranslations supported by Weblate",
+    "Shut down your device safely": "Shut down your device safely",
+    "Shutdown": "Shutdown"
+  },
   "muxkiosk": {
     "Advanced Settings": "Réglages avancés",
     "Allow access to archive manager": "Autoriser l'accès au gestionnaire d'archives",
