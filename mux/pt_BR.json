@@ -155,7 +155,7 @@
     "Interface Options": "Opções de Interface",
     "Language": "Idioma",
     "Power Settings": "Configurações de Energia",
-    "Select your preferred language\n\nTranslations supported by Weblate": "Selecione seu idioma preferido\n\nTraduções suportadas pelo Weblate",
+    "Select your preferred language\n\nTranslations supported by Weblate": "Selecione seu idioma preferido\n\nTraduções suportadas por Weblate",
     "Settings to change the power features of the device": "Modificar as configurações de energia do dispositivo",
     "Settings to change the visual aspects of the frontend": "Modificar os aspectos visuais do sistema",
     "Storage Options": "Opções de Armazenamento"
@@ -346,16 +346,16 @@
     "View the current used space of the mounted storage devices": "Ver o espaço utilizado atualmente pelos dispositivos montados"
   },
   "muxinstall": {
-    "Change your current date, time, and timezone": "Change your current date, time, and timezone",
-    "Clock": "Clock",
-    "Date and Time": "Date and Time",
-    "INSTALLER": "INSTALLER",
-    "Install": "Install",
-    "Language": "Language",
-    "Prepare and install MustardOS": "Prepare and install MustardOS",
-    "Select your preferred language\n\nTranslations supported by Weblate": "Select your preferred language\n\nTranslations supported by Weblate",
-    "Shut down your device safely": "Shut down your device safely",
-    "Shutdown": "Shutdown"
+    "Change your current date, time, and timezone": "Altere a data, a hora e o fuso horário atuais",
+    "Clock": "Relógio",
+    "Date and Time": "Data e Hora",
+    "INSTALLER": "INSTALADOR",
+    "Install": "Instalar",
+    "Language": "Idioma",
+    "Prepare and install MustardOS": "Preparar e instalar MustardOS",
+    "Select your preferred language\n\nTranslations supported by Weblate": "Selecione seu idioma preferido\n\nTraduções suportadas por Weblate",
+    "Shut down your device safely": "Desligar seu dispositivo de forma segura",
+    "Shutdown": "Desligar"
   },
   "muxkiosk": {
     "Advanced Settings": "Configurações Avançadas",
