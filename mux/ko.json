@@ -345,6 +345,18 @@
     "View all of the screenshots taken on the device": "기기에서 촬영한 모든 스크린샷 보기",
     "View the current used space of the mounted storage devices": "마운트된 저장 장치의 현재 사용된 공간 보기"
   },
+  "muxinstall": {
+    "Change your current date, time, and timezone": "Change your current date, time, and timezone",
+    "Clock": "Clock",
+    "Date and Time": "Date and Time",
+    "INSTALLER": "INSTALLER",
+    "Install": "Install",
+    "Language": "Language",
+    "Prepare and install MustardOS": "Prepare and install MustardOS",
+    "Select your preferred language\n\nTranslations supported by Weblate": "Select your preferred language\n\nTranslations supported by Weblate",
+    "Shut down your device safely": "Shut down your device safely",
+    "Shutdown": "Shutdown"
+  },
   "muxkiosk": {
     "Advanced Settings": "고급 설정",
     "Allow access to archive manager": "아카이브 매니저에 대한 액세스 허용",

@@ -345,6 +345,18 @@
     "View all of the screenshots taken on the device": "查看裝置上拍攝的所有螢幕截圖",
     "View the current used space of the mounted storage devices": "查看已掛載儲存設備的當前使用空間"
   },
+  "muxinstall": {
+    "Change your current date, time, and timezone": "Change your current date, time, and timezone",
+    "Clock": "Clock",
+    "Date and Time": "Date and Time",
+    "INSTALLER": "INSTALLER",
+    "Install": "Install",
+    "Language": "Language",
+    "Prepare and install MustardOS": "Prepare and install MustardOS",
+    "Select your preferred language\n\nTranslations supported by Weblate": "Select your preferred language\n\nTranslations supported by Weblate",
+    "Shut down your device safely": "Shut down your device safely",
+    "Shutdown": "Shutdown"
+  },
   "muxkiosk": {
     "Advanced Settings": "進階設定",
     "Allow access to archive manager": "允許檔案管理器存取",
