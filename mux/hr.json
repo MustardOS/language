@@ -673,6 +673,7 @@
   },
   "muxstorage": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Content Collection": "Kolekcija sadržaja",
     "Custom Packages": "Custom Packages",
     "Friendly Name System": "Sustav prijateljskih naziva",
@@ -686,6 +687,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "Lokacija konfiguracija prijateljskih naziva",
     "Location of history": "Lokacija povijesti",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Lokacija spremljenih igara i stanja",
     "Location of screenshots": "Lokacija slika zaslona",
     "Location of system BIOS files": "Lokacija BIOS datoteka sustava",
