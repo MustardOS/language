@@ -673,6 +673,7 @@
   },
   "muxstorage": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Content Collection": "Colecție de Conținut",
     "Custom Packages": "Custom Packages",
     "Friendly Name System": "Sistem de Nume Prietenoase",
@@ -686,6 +687,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "Locația configurațiilor de nume prietenoase",
     "Location of history": "Locația istoricului",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Locația stărilor de salvare și fișierelor",
     "Location of screenshots": "Locația capturilor de ecran",
     "Location of system BIOS files": "Locația fișierelor BIOS ale sistemului",
