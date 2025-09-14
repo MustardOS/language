@@ -88,6 +88,7 @@
   },
   "muxbackup": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Backup Target": "備份存放位置",
     "Content Collection": "內容收藏",
     "Content Launch Overrides": "Content Launch Overrides",
@@ -106,6 +107,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "友善名稱配置文件路徑",
     "Location of history": "遊玩記錄路徑",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "遊戲存檔與即時存檔的檔案路徑",
     "Location of screenshots": "螢幕截圖保存路徑",
     "Location of system BIOS files": "系統BIOS檔案路徑",
