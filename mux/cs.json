@@ -673,6 +673,7 @@
   },
   "muxstorage": {
     "Activity Tracker": "Sledování aktivity",
+    "Applications": "Applications",
     "Content Collection": "Sbírka obsahu",
     "Custom Packages": "Vlastní balíčky",
     "Friendly Name System": "Přátelský systém jmen",
@@ -686,6 +687,7 @@
     "Location of custom packages": "Umístění vlastních balíčků",
     "Location of friendly name configurations": "Umístění konfigurací popisných názvů",
     "Location of history": "Umístění historie",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Umístění stavů uložení a souborů",
     "Location of screenshots": "Umístění snímků obrazovky",
     "Location of system BIOS files": "Umístění souborů systému BIOS",
