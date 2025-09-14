@@ -346,16 +346,16 @@
     "View the current used space of the mounted storage devices": "마운트된 저장 장치의 현재 사용된 공간 보기"
   },
   "muxinstall": {
-    "Change your current date, time, and timezone": "Change your current date, time, and timezone",
-    "Clock": "Clock",
-    "Date and Time": "Date and Time",
-    "INSTALLER": "INSTALLER",
-    "Install": "Install",
-    "Language": "Language",
-    "Prepare and install MustardOS": "Prepare and install MustardOS",
-    "Select your preferred language\n\nTranslations supported by Weblate": "Select your preferred language\n\nTranslations supported by Weblate",
-    "Shut down your device safely": "Shut down your device safely",
-    "Shutdown": "Shutdown"
+    "Change your current date, time, and timezone": "현재 날짜, 시간, 타임존을 변경함",
+    "Clock": "시계",
+    "Date and Time": "날짜와 시간",
+    "INSTALLER": "설치 프로그램",
+    "Install": "설치",
+    "Language": "언어",
+    "Prepare and install MustardOS": "MustardOS 준비 및 설치",
+    "Select your preferred language\n\nTranslations supported by Weblate": "선호하는 언어를 선택\n\nWeblate에서 지원하는 번역",
+    "Shut down your device safely": "장치를 안전하게 시스템 종료",
+    "Shutdown": "시스템 종료"
   },
   "muxkiosk": {
     "Advanced Settings": "고급 설정",
