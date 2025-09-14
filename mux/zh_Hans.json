@@ -673,6 +673,7 @@
   },
   "muxstorage": {
     "Activity Tracker": "活动追踪器",
+    "Applications": "Applications",
     "Content Collection": "内容收藏",
     "Custom Packages": "自定义包",
     "Friendly Name System": "友好名称系统",
@@ -686,6 +687,7 @@
     "Location of custom packages": "自定义包位置",
     "Location of friendly name configurations": "友好名称配置文件位置",
     "Location of history": "历史记录位置",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "存档状态和文件位置",
     "Location of screenshots": "截图存储位置",
     "Location of system BIOS files": "系统BIOS文件位置",
