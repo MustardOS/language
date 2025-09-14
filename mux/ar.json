@@ -673,6 +673,7 @@
   },
   "muxstorage": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Content Collection": "مجموعة المحتوى",
     "Custom Packages": "Custom Packages",
     "Friendly Name System": "نظام الأسماء الصديقة",
@@ -686,6 +687,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "موقع إعدادات الأسماء الصديقة",
     "Location of history": "موقع التاريخ",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "موقع حالات الحفظ والملفات",
     "Location of screenshots": "موقع لقطات الشاشة",
     "Location of system BIOS files": "موقع ملف نظام الإدخال والإخراج الأساسي (BIOS)",
