@@ -88,6 +88,7 @@
   },
   "muxbackup": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Backup Target": "Mesto za čuvanje rezervne kopije",
     "Content Collection": "Kolekcija sadržaja",
     "Content Launch Overrides": "Content Launch Overrides",
@@ -106,6 +107,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "Lokacija podešavanja korisničkih naziva",
     "Location of history": "Lokacija istorije",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Lokacija sačuvanih stanja i fajlova",
     "Location of screenshots": "Lokacija snimaka ekrana",
     "Location of system BIOS files": "Lokacija BIOS fajlova sistema",
