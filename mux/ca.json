@@ -673,6 +673,7 @@
   },
   "muxstorage": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Content Collection": "Col·lecció de contingut",
     "Custom Packages": "Custom Packages",
     "Friendly Name System": "Sistema de noms amigables",
@@ -686,6 +687,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "Ubicació de la configuració dels noms fàcils d'identificar",
     "Location of history": "Ubicació de la història",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Ubicació dels fitxers i dels estats de partida",
     "Location of screenshots": "Ubicació de las captures de pantalla",
     "Location of system BIOS files": "Ubicació dels fitxers de la BIOS del sistema",
