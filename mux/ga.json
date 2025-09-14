@@ -88,6 +88,7 @@
   },
   "muxbackup": {
     "Activity Tracker": "Rianaitheoir Gníomhaíochta",
+    "Applications": "Applications",
     "Backup Target": "Sprioc Cúltaca",
     "Content Collection": "Bailiúchán Ábhair",
     "Content Launch Overrides": "Sáruithe ar Sheoladh Ábhair",
@@ -106,6 +107,7 @@
     "Location of custom packages": "Suíomh na bpacáistí saincheaptha",
     "Location of friendly name configurations": "Suíomh chumraíochtaí ainmneacha cairdiúla",
     "Location of history": "Suíomh na staire",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Suíomh na stát sábhála agus na gcomhad",
     "Location of screenshots": "Suíomh na ngrianghraf",
     "Location of system BIOS files": "Suíomh chomhaid BIOS an chórais",
