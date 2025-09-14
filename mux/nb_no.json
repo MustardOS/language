@@ -88,6 +88,7 @@
   },
   "muxbackup": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Backup Target": "Sikkerhetskopi Destinasjon",
     "Content Collection": "Innholds Kolleksjon",
     "Content Launch Overrides": "Content Launch Overrides",
@@ -106,6 +107,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "Plassering for vennlige navn konfigurasjoner",
     "Location of history": "Plassering av loggen",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Plassering for save states og filer",
     "Location of screenshots": "Plassering for skjermbilder",
     "Location of system BIOS files": "Plassering for System BIOS filer",
@@ -671,6 +673,7 @@
   },
   "muxstorage": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Content Collection": "Content Collection",
     "Custom Packages": "Custom Packages",
     "Friendly Name System": "Friendly Name System",
@@ -684,6 +687,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "Location of friendly name configurations",
     "Location of history": "Plassering av logg",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Location of save states and files",
     "Location of screenshots": "Location of screenshots",
     "Location of system BIOS files": "Location of system BIOS files",

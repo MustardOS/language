@@ -88,6 +88,7 @@
   },
   "muxbackup": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Backup Target": "Mesto za čuvanje rezervne kopije",
     "Content Collection": "Kolekcija sadržaja",
     "Content Launch Overrides": "Content Launch Overrides",
@@ -106,6 +107,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "Lokacija podešavanja korisničkih naziva",
     "Location of history": "Lokacija istorije",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Lokacija sačuvanih stanja i fajlova",
     "Location of screenshots": "Lokacija snimaka ekrana",
     "Location of system BIOS files": "Lokacija BIOS fajlova sistema",
@@ -671,6 +673,7 @@
   },
   "muxstorage": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Content Collection": "Kolekcija sadržaja",
     "Custom Packages": "Custom Packages",
     "Friendly Name System": "Sistem prilagođenog imena",
@@ -684,6 +687,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "Lokacija konfiguracija prilagođenog imena",
     "Location of history": "Lokacija istorija",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Lokacija sačuvanih state-ova i fajlova",
     "Location of screenshots": "Lokacija snimaka ekrana (screenshots)",
     "Location of system BIOS files": "Lokacija BIOS fajlova sistema",

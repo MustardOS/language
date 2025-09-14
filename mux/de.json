@@ -88,6 +88,7 @@
   },
   "muxbackup": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Backup Target": "Sicherungsziel",
     "Content Collection": "Inhalts-Sammlungen",
     "Content Launch Overrides": "Content Launch Overrides",
@@ -106,6 +107,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "Speicherort der Konfigurationsdatei für Konsolbezeichnungsmapping",
     "Location of history": "Speichort der Historie der aufgerufenen Inhalten",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Speichort der Spiel-Sicherungs- und State-Dateien",
     "Location of screenshots": "Speicherort der Screenshots",
     "Location of system BIOS files": "Speicherort der System-BIOS-Dateien",
@@ -671,6 +673,7 @@
   },
   "muxstorage": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Content Collection": "Dateiensammlung",
     "Custom Packages": "Custom Packages",
     "Friendly Name System": "System für FriendlyName",
@@ -684,6 +687,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "Speicherort der FriendlyName Konfigurationen",
     "Location of history": "Speicherort der Verläufe",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Speicherort von Savestates und Speicherstände",
     "Location of screenshots": "Speicherort der Bildschirmaufnahmen",
     "Location of system BIOS files": "Speicherort von BIOS-Dateien",

@@ -88,6 +88,7 @@
   },
   "muxbackup": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Backup Target": "バックアップ元",
     "Content Collection": "コンテンツコレクション",
     "Content Launch Overrides": "Content Launch Overrides",
@@ -106,6 +107,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "やさしい名称設定の保存先です",
     "Location of history": "履歴の保存先です",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "中断セーブとセーブファイルの保存先です",
     "Location of screenshots": "スクリーンショットの保存先です",
     "Location of system BIOS files": "システム BIOS ファイルの保存先です",
@@ -671,6 +673,7 @@
   },
   "muxstorage": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Content Collection": "コンテンツコレクション",
     "Custom Packages": "Custom Packages",
     "Friendly Name System": "わかりやすいフォルダ名の設定",
@@ -684,6 +687,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "わかりやすいフォルダ名設定の保存先です",
     "Location of history": "履歴の保存先です",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "セーブファイルと中断セーブの保存先です",
     "Location of screenshots": "スクリーンショットの保存先です",
     "Location of system BIOS files": "BIOS ファイルの保存先です",

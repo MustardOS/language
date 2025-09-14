@@ -88,6 +88,7 @@
   },
   "muxbackup": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Backup Target": "Backup Target",
     "Content Collection": "Content Collection",
     "Content Launch Overrides": "Content Launch Overrides",
@@ -106,6 +107,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "Location of friendly name configurations",
     "Location of history": "Location of history",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Location of save states and files",
     "Location of screenshots": "Location of screenshots",
     "Location of system BIOS files": "Location of system BIOS files",
@@ -671,6 +673,7 @@
   },
   "muxstorage": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Content Collection": "Content Collection",
     "Custom Packages": "Custom Packages",
     "Friendly Name System": "Nome de Sistema Amigável",
@@ -684,6 +687,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "Localização das configurações de nome acessível",
     "Location of history": "Localização do histórico",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Localização dos pontos de salvaguarda e ficheiros",
     "Location of screenshots": "Localização das capturas de ecrã",
     "Location of system BIOS files": "Localização dos ficheiros de  BIOS de sistema",

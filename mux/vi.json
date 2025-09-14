@@ -88,6 +88,7 @@
   },
   "muxbackup": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Backup Target": "Backup Target",
     "Content Collection": "Content Collection",
     "Content Launch Overrides": "Content Launch Overrides",
@@ -106,6 +107,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "Location of friendly name configurations",
     "Location of history": "Location of history",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Location of save states and files",
     "Location of screenshots": "Location of screenshots",
     "Location of system BIOS files": "Location of system BIOS files",
@@ -671,6 +673,7 @@
   },
   "muxstorage": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Content Collection": "Bộ sưu tập Nội dung",
     "Custom Packages": "Custom Packages",
     "Friendly Name System": "Hệ thống Tên gợi nhớ",
@@ -684,6 +687,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "Vị trí các cài đặt tên gợi nhớ",
     "Location of history": "Vị trí lịch sử",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Vị trí các trạng thái lưu và tập tin",
     "Location of screenshots": "Vị trí các ảnh chụp màn hình",
     "Location of system BIOS files": "Vị trí của các tập tin hệ thống BIOS",
