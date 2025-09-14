@@ -88,6 +88,7 @@
   },
   "muxbackup": {
     "Activity Tracker": "Monitor de actividad",
+    "Applications": "Applications",
     "Backup Target": "Objetivo de la copia de seguridad",
     "Content Collection": "Colección de contenidos",
     "Content Launch Overrides": "Modificaciones de lanzamiento de contenido",
@@ -106,6 +107,7 @@
     "Location of custom packages": "Ubicación de los paquetes personalizados",
     "Location of friendly name configurations": "Ubicación de las configuraciones de nombres amistosos",
     "Location of history": "Ubicación del historial",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Ubicación de los estados salvados y archivos",
     "Location of screenshots": "Ubicación de las capturas de pantalla",
     "Location of system BIOS files": "Ubicación de los archivos de la BIOS del sistema",
