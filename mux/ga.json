@@ -673,6 +673,7 @@
   },
   "muxstorage": {
     "Activity Tracker": "Rianaitheoir Gníomhaíochta",
+    "Applications": "Applications",
     "Content Collection": "Bailiúchán Ábhar",
     "Custom Packages": "Pacáistí Saincheaptha",
     "Friendly Name System": "Córas Ainmneacha Cairdiúla",
@@ -686,6 +687,7 @@
     "Location of custom packages": "Suíomh na bpacáistí saincheaptha",
     "Location of friendly name configurations": "Suíomh cumraíochtaí ainm cairdiúil",
     "Location of history": "Suíomh na staire",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Suíomh na stát agus na gcomhad sábhála",
     "Location of screenshots": "Suíomh seatanna scáileáin",
     "Location of system BIOS files": "Suíomh comhaid BIOS an chórais",
