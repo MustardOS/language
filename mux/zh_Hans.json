@@ -346,16 +346,16 @@
     "View the current used space of the mounted storage devices": "查看当前已挂载存储设备的使用空间"
   },
   "muxinstall": {
-    "Change your current date, time, and timezone": "Change your current date, time, and timezone",
-    "Clock": "Clock",
-    "Date and Time": "Date and Time",
-    "INSTALLER": "INSTALLER",
-    "Install": "Install",
-    "Language": "Language",
-    "Prepare and install MustardOS": "Prepare and install MustardOS",
-    "Select your preferred language\n\nTranslations supported by Weblate": "Select your preferred language\n\nTranslations supported by Weblate",
-    "Shut down your device safely": "Shut down your device safely",
-    "Shutdown": "Shutdown"
+    "Change your current date, time, and timezone": "更改您当前的日期、时间和时区",
+    "Clock": "时钟",
+    "Date and Time": "日期和时间",
+    "INSTALLER": "安装程序",
+    "Install": "安装",
+    "Language": "语言",
+    "Prepare and install MustardOS": "准备并安装MustardOS",
+    "Select your preferred language\n\nTranslations supported by Weblate": "选择您偏好的语言\n\n翻译由 Weblate 提供支持",
+    "Shut down your device safely": "安全关闭您的设备",
+    "Shutdown": "关机"
   },
   "muxkiosk": {
     "Advanced Settings": "高级设置",
