@@ -673,6 +673,7 @@
   },
   "muxstorage": {
     "Activity Tracker": "Activity Tracker",
+    "Applications": "Applications",
     "Content Collection": "Inhoudscollectie",
     "Custom Packages": "Custom Packages",
     "Friendly Name System": "Systeem voor herkenbare naamgeving",
@@ -686,6 +687,7 @@
     "Location of custom packages": "Location of custom packages",
     "Location of friendly name configurations": "Locatie van configuratie voor herkenbare naamgeving",
     "Location of history": "Locatie van geschiedenis",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Locatie van savestates en savefiles",
     "Location of screenshots": "Locatie van schermafbeeldingen",
     "Location of system BIOS files": "Locatie van BIOS-bestanden",
