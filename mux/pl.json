@@ -673,6 +673,7 @@
   },
   "muxstorage": {
     "Activity Tracker": "Śledzenie aktywności",
+    "Applications": "Applications",
     "Content Collection": "Kolekcja zawartości",
     "Custom Packages": "Paczki użytkownika",
     "Friendly Name System": "System przyjaznych nazw",
@@ -686,6 +687,7 @@
     "Location of custom packages": "Lokalizacja paczek użytkownika",
     "Location of friendly name configurations": "Lokalizacja konfiguracji przyjaznych nazw",
     "Location of history": "Lokalizacja historii",
+    "Location of installed applications": "Location of installed applications",
     "Location of save states and files": "Lokalizacja stanów zapisu i plików zapisu",
     "Location of screenshots": "Lokalizacja zrzutów ekranu",
     "Location of system BIOS files": "Lokalizacja plików BIOS systemów",
