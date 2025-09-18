@@ -741,6 +741,7 @@
   },
   "muxtester": {
     "INPUT TESTER": "ПРОВЕРКА КНОПОК",
+    "Press DOWN + A to finish testing": "Press DOWN + A to finish testing",
     "Press DOWN + B to finish testing": "Нажмите ВНИЗ + B чтобы завершить проверку",
     "Press any button to start input testing!": "Нажмите любую кнопку для запуска проверки!"
   },
