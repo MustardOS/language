@@ -741,6 +741,7 @@
   },
   "muxtester": {
     "INPUT TESTER": "按鍵測試",
+    "Press DOWN + A to finish testing": "Press DOWN + A to finish testing",
     "Press DOWN + B to finish testing": "按 方向鍵下 + B 結束測試",
     "Press any button to start input testing!": "按任何鍵開始輸入測試！"
   },
