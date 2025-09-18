@@ -741,6 +741,7 @@
   },
   "muxtester": {
     "INPUT TESTER": "인풋 테스트기",
+    "Press DOWN + A to finish testing": "Press DOWN + A to finish testing",
     "Press DOWN + B to finish testing": "테스트를 마치려면 아래방향 + B 버튼을 누르세요",
     "Press any button to start input testing!": "인풋 테스트를 시작하려면 아무 버튼이나 누르세요!"
   },
