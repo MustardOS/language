@@ -134,7 +134,7 @@
   "muxcharge": {
     "Booting System - Please Wait…": "Запуск системы - Пожалуйста, подождите…",
     "Capacity": "Емкость",
-    "Press START button to continue booting…": "Нажмите СТАРТ, чтобы продолжить включение…",
+    "Press START button to continue booting…": "Нажмите START для включения",
     "Voltage": "Напряжение"
   },
   "muxcollect": {
@@ -741,9 +741,9 @@
   },
   "muxtester": {
     "INPUT TESTER": "ПРОВЕРКА КНОПОК",
-    "Press DOWN + A to finish testing": "Нажмите ↓ + A для выхода",
-    "Press DOWN + B to finish testing": "Нажмите ВНИЗ + B чтобы завершить проверку",
-    "Press any button to start input testing!": "Нажмите любую кнопку для запуска проверки!"
+    "Press DOWN + A to finish testing": "Нажмите ВНИЗ + A для выхода",
+    "Press DOWN + B to finish testing": "Нажмите ВНИЗ + B для выхода",
+    "Press any button to start input testing!": "Нажмите любую кнопку для запуска проверки"
   },
   "muxthemedown": {
     "Download": "Скачать",
