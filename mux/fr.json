@@ -741,6 +741,7 @@
   },
   "muxtester": {
     "INPUT TESTER": "TESTEUR DE COMMANDES",
+    "Press DOWN + A to finish testing": "Appuyez sur BAS + A pour terminer le test",
     "Press DOWN + B to finish testing": "Appuyez sur BAS + B pour quitter le test",
     "Press any button to start input testing!": "Appuyez sur une touche pour démarrer le test!"
   },

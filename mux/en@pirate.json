@@ -741,6 +741,7 @@
   },
   "muxtester": {
     "INPUT TESTER": "INPUT TESTER",
+    "Press DOWN + A to finish testing": "Press DOWN + A to finish testing",
     "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
     "Press any button to start input testing!": "Press any button to start input testing!"
   },
