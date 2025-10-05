@@ -490,7 +490,7 @@
     "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately": "Włącz kompatybilność urządzenia z modułem sieciowym poprzez jądro Linuxa\n\nNieco zwiększa czas uruchamiania",
     "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed": "Włącz obsługę kompatybilności w tle\n\nZapewnia szybszy czas uruchomienia, jeśli włączono kompatybilność, wyłącz tylko wtedy, gdy wszystko inne zawiodło",
     "Enables network connection to be established automatically at boot": "Włącza automatyczne połączenie z siecią przy uruchomieniu",
-    "Enables periodic connectivity checks and triggers reconnection if network loss is detected": "Włącza okresowe sprawdzanie połączenia i uruchamia ponowne połączenie, jeśli wykryto utratę sieci",
+    "Enables periodic connectivity checks and triggers reconnection if network loss is detected": "Włącza okresowe sprawdzanie połączenia i łączy ponownie, jeśli wykryto utratę sieci",
     "Module Async Load": "Asynchroniczne ładowanie modułu",
     "Module Compatibility": "Kompatybilność modułu",
     "Module Retry": "Ponowienie modułu",
