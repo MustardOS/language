@@ -484,8 +484,8 @@
     "Various information can be found and launched here": "다양한 정보를 확인하고 실행"
   },
   "muxnetadv": {
-    "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.": "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.",
-    "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!": "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!",
+    "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.": "모듈 호환성이 활성화된 상태에서 네트워크 모듈을 로드하는 최대 시도 횟수를 조정함. Wi-Fi에 계속 연결할 수 없으면 이 설정을 높이세요.\n\n이 설정을 높이면 부팅 시간이 크게 늘어날 수 있음.",
+    "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!": "네트워크 인터페이스가 나타날 때까지 기다리는 최대 시간을 조정함.\n\n경고:\n모듈 호환성을 활성화한 경우, 이 설정을 높이지 않는 것이 좋음. 부팅 시간이 길어질 수 있음!",
     "Connection Monitor": "연결 모니터",
     "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately": "리눅스 커널을 통한 네트워크 모듈 로딩으로 장치 호환성을 활성화함\n\n부팅 시간이 다소 증가함",
     "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed": "호환성 처리의 백그라운드 처리를 활성화합니다.\n\n호환성을 활성화하면 부팅 시간이 단축됩니다. 다른 모든 방법이 실패한 경우에만 비활성화하시오",
