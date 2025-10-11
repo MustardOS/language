@@ -68,7 +68,7 @@ jobs:
 
           mkdir -p artifacts
           STAGE="$(mktemp -d)"
-          DEST="$STAGE/mnt/mmc/MUOS/language"
+          DEST="$STAGE/language"
           mkdir -p "$DEST"
 
           added=0
