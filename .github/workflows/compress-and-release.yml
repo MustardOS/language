@@ -99,7 +99,7 @@ jobs:
             exit 1
           fi
 
-          ( cd "$STAGE" && zip -r9X lang.muxzip mnt )
+          ( cd "$STAGE" && zip -r9X lang.muxzip language )
           mv "$STAGE/lang.muxzip" artifacts/lang.muxzip
           unzip -l artifacts/lang.muxzip || true
 
