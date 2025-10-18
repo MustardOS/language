@@ -734,6 +734,7 @@
   "muxsysinfo": {
     "Battery Capacity": "Capacitate Baterie",
     "Battery Voltage": "Tensiune Baterie",
+    "Build ID": "Build ID",
     "CPU Governor": "Guvernator CPU",
     "CPU Information": "Informații CPU",
     "CPU Speed": "Viteză CPU",
@@ -748,14 +749,17 @@
     "Temperature": "Temperatură",
     "The current CPU frequency of the device": "Frecvența CPU curentă a dispozitivului",
     "The current Linux kernel": "Kernel-ul Linux curent",
+    "The current build ID of MustardOS running on the device": "The current build ID of MustardOS running on the device",
     "The current detected battery capacity": "Capacitatea actuală detectată a bateriei",
     "The current detected battery voltage": "Tensiunea actuală detectată a bateriei",
     "The current detected temperature of the device": "Temperatura actuală detectată a dispozitivului",
     "The current device type detected and configured": "Tipul actual de dispozitiv detectat și configurat",
     "The current running governor of the device": "Guvernatorul CPU activ al dispozitivului",
     "The current running time of the system": "Timpul de funcționare curent al sistemului",
+    "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
     "The current, and total, memory usage of the device": "Utilizarea curentă și totală a memoriei dispozitivului",
-    "The detected CPU type of the device": "Tipul de CPU detectat al dispozitivului"
+    "The detected CPU type of the device": "Tipul de CPU detectat al dispozitivului",
+    "Version": "Version"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
@@ -884,6 +888,7 @@
     "Colour Temperature": "Temperatură Culoare",
     "Content Collection": "Colecție de Conținut",
     "Content Explorer": "Explorator de Conținut",
+    "DPAD Swap Hotkey": "DPAD Swap Hotkey",
     "Date and Time": "Data și Ora",
     "Device RGB Lights": "Device RGB Lights",
     "Device Startup": "Pornire Dispozitiv",
@@ -893,8 +898,11 @@
     "Last Game": "Ultimul Joc",
     "Main Menu": "Meniu Principal",
     "Resume Game": "Reia Jocul",
+    "Screenshot Hotkey": "Screenshot Hotkey",
     "Settings that should only be changed by those who know what they are doing!": "Setări care ar trebui modificate doar de cei care știu ce fac!",
     "Settings to change the HDMI output of the device": "Setări pentru modificarea ieșirii HDMI a dispozitivului",
+    "Switch between different hotkeys for taking a screenshot": "Switch between different hotkeys for taking a screenshot",
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
     "Toggle the device fancy RGB light system": "Toggle the device fancy RGB light system",
     "Volume": "Volum"
   },
