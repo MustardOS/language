@@ -734,6 +734,7 @@
   "muxsysinfo": {
     "Battery Capacity": "Kapacitet baterije",
     "Battery Voltage": "Voltaža baterije",
+    "Build ID": "Build ID",
     "CPU Governor": "Upravljanje CPU-om",
     "CPU Information": "CPU Informacije",
     "CPU Speed": "CPU Brzina",
@@ -748,14 +749,17 @@
     "Temperature": "Temperatura",
     "The current CPU frequency of the device": "Trenutna CPU frekvencija uređaja",
     "The current Linux kernel": "Trenutni Linux kernel",
+    "The current build ID of MustardOS running on the device": "The current build ID of MustardOS running on the device",
     "The current detected battery capacity": "Trenutni kapacitet baterije",
     "The current detected battery voltage": "Trenutno voltaža baterije",
     "The current detected temperature of the device": "Trenutna temperatura uređaja",
     "The current device type detected and configured": "Trenutni tip uređaja je detektovan i konfigurisan",
     "The current running governor of the device": "Trenutno aktivni upravljač procesora uređaja",
     "The current running time of the system": "Trenutno vreme rada sistema",
+    "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
     "The current, and total, memory usage of the device": "Trenutno i ukupno korišćenje memorije uređaja",
-    "The detected CPU type of the device": "Detektovani tip procesora (CPU) uređaja"
+    "The detected CPU type of the device": "Detektovani tip procesora (CPU) uređaja",
+    "Version": "Version"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Dodajte ili izmenite oznaku izabranom sadržaju radi lakšeg prepoznavanja",
@@ -884,6 +888,7 @@
     "Colour Temperature": "Boja temperature",
     "Content Collection": "Kolekcija sadržaja",
     "Content Explorer": "Istraživač sadržaja",
+    "DPAD Swap Hotkey": "DPAD Swap Hotkey",
     "Date and Time": "Datum i Vreme",
     "Device RGB Lights": "Device RGB Lights",
     "Device Startup": "Startovanje uređaja",
@@ -893,8 +898,11 @@
     "Last Game": "Poslednja igra",
     "Main Menu": "Glavni meni",
     "Resume Game": "Nastavi igru",
+    "Screenshot Hotkey": "Screenshot Hotkey",
     "Settings that should only be changed by those who know what they are doing!": "Podešavanja koja bi trebalo da menjaju samo oni koji znaju šta rade!",
     "Settings to change the HDMI output of the device": "Podešavanja za promenu HDMI izlaza uređaja",
+    "Switch between different hotkeys for taking a screenshot": "Switch between different hotkeys for taking a screenshot",
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
     "Toggle the device fancy RGB light system": "Toggle the device fancy RGB light system",
     "Volume": "Jačina zvuka"
   },
