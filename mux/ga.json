@@ -734,6 +734,7 @@
   "muxsysinfo": {
     "Battery Capacity": "Cumas Ceallraí",
     "Battery Voltage": "Voltas Ceallraí",
+    "Build ID": "Build ID",
     "CPU Governor": "Gobharnóir LAP",
     "CPU Information": "Eolas LAP",
     "CPU Speed": "Luas LAP",
@@ -748,14 +749,17 @@
     "Temperature": "Teocht",
     "The current CPU frequency of the device": "Minicíocht LAP reatha an ghléis",
     "The current Linux kernel": "An eithne Linux reatha",
+    "The current build ID of MustardOS running on the device": "The current build ID of MustardOS running on the device",
     "The current detected battery capacity": "An cumas ceallraí aimsithe atá ann faoi láthair",
     "The current detected battery voltage": "An voltas ceallraí a braitheadh faoi láthair",
     "The current detected temperature of the device": "An teocht braite reatha an fheiste",
     "The current device type detected and configured": "Braitheadh agus cumraíodh an cineál gléis reatha",
     "The current running governor of the device": "Gobharnóir reatha an ghléis",
     "The current running time of the system": "Am reatha an chórais faoi láthair",
+    "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
     "The current, and total, memory usage of the device": "Úsáid chuimhne reatha, agus iomlán, an ghléis",
-    "The detected CPU type of the device": "An cineál LAP aimsithe den fheiste"
+    "The detected CPU type of the device": "An cineál LAP aimsithe den fheiste",
+    "Version": "Version"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Athraigh clib an ábhair atá roghnaithe agat faoi láthair chun é a chur chun cinn",
@@ -884,6 +888,7 @@
     "Colour Temperature": "Teocht datha",
     "Content Collection": "Bailiúchán Ábhar",
     "Content Explorer": "Taiscéalaí Inneachair",
+    "DPAD Swap Hotkey": "DPAD Swap Hotkey",
     "Date and Time": "Dáta agus Am",
     "Device RGB Lights": "Soilse RGB Gléas",
     "Device Startup": "Tosaithe Gléis",
@@ -893,8 +898,11 @@
     "Last Game": "An Cluiche Deireanach",
     "Main Menu": "Príomh-Roghchlár",
     "Resume Game": "Atosaigh an Cluiche",
+    "Screenshot Hotkey": "Screenshot Hotkey",
     "Settings that should only be changed by those who know what they are doing!": "Socruithe nár chóir a athrú ach amháin ag daoine a bhfuil a fhios acu cad atá á dhéanamh acu!",
     "Settings to change the HDMI output of the device": "Socruithe chun aschur HDMI an ghléis a athrú",
+    "Switch between different hotkeys for taking a screenshot": "Switch between different hotkeys for taking a screenshot",
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
     "Toggle the device fancy RGB light system": "Scoránaigh an córas solais RGB galánta feiste",
     "Volume": "Toirt"
   },
