@@ -734,6 +734,7 @@
   "muxsysinfo": {
     "Battery Capacity": "Pil kapasitesi",
     "Battery Voltage": "Pil voltajı",
+    "Build ID": "Build ID",
     "CPU Governor": "İşlemci yöneticisi",
     "CPU Information": "İşlemci bilgisi",
     "CPU Speed": "İşlemci hızı",
@@ -748,14 +749,17 @@
     "Temperature": "Sıcaklık",
     "The current CPU frequency of the device": "Cihazın mevcut CPU frekansı",
     "The current Linux kernel": "Mevcut Linux kerneli",
+    "The current build ID of MustardOS running on the device": "The current build ID of MustardOS running on the device",
     "The current detected battery capacity": "Mevcut algılanan pil kapasitesi",
     "The current detected battery voltage": "Mevcut algılanan batarya voltajı",
     "The current detected temperature of the device": "Cihazın mevcut algılanan sıcaklığı",
     "The current device type detected and configured": "Algılanan ve yapılandırılan mevcut cihaz türü",
     "The current running governor of the device": "Cihazın mevcut çalışan yöneticisi",
     "The current running time of the system": "Sistemin geçerli çalışma süresi",
+    "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
     "The current, and total, memory usage of the device": "Cihazın mevcut ve toplam bellek kullanımı",
-    "The detected CPU type of the device": "Cihazın algılanan CPU türü"
+    "The detected CPU type of the device": "Cihazın algılanan CPU türü",
+    "Version": "Version"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
@@ -884,6 +888,7 @@
     "Colour Temperature": "Renk sıcaklığı",
     "Content Collection": "Content Collection",
     "Content Explorer": "İçerik gezgini",
+    "DPAD Swap Hotkey": "DPAD Swap Hotkey",
     "Date and Time": "Date and Time",
     "Device RGB Lights": "Device RGB Lights",
     "Device Startup": "Cihaz başlangıcı",
@@ -893,8 +898,11 @@
     "Last Game": "Son oyun",
     "Main Menu": "Ana menü",
     "Resume Game": "Oyuna devam et",
+    "Screenshot Hotkey": "Screenshot Hotkey",
     "Settings that should only be changed by those who know what they are doing!": "Sadece işini bilenlerin değiştirebileceği ayarlar!",
     "Settings to change the HDMI output of the device": "Settings to change the HDMI output of the device",
+    "Switch between different hotkeys for taking a screenshot": "Switch between different hotkeys for taking a screenshot",
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
     "Toggle the device fancy RGB light system": "Toggle the device fancy RGB light system",
     "Volume": "Volume"
   },
