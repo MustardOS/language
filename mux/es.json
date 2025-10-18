@@ -754,10 +754,8 @@
     "The current device type detected and configured": "El tipo de dispositivo actual detectado y configurado",
     "The current running governor of the device": "El gobernador actual en ejecución del dispositivo",
     "The current running time of the system": "El tiempo de ejecución actual del sistema",
-    "The current version of muOS running on the device": "La versión actual de muOS que se ejecuta en el dispositivo",
     "The current, and total, memory usage of the device": "El uso actual y total de memoria del dispositivo",
-    "The detected CPU type of the device": "El tipo de CPU detectado del dispositivo",
-    "muOS Version": "Versión de muOS"
+    "The detected CPU type of the device": "El tipo de CPU detectado del dispositivo"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Cambia la etiqueta de tu contenido seleccionado actual para que destaque",

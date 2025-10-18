@@ -754,10 +754,8 @@
     "The current device type detected and configured": "Визначений і налаштований тип пристрою",
     "The current running governor of the device": "Поточний запущений менеджер пристрою",
     "The current running time of the system": "Поточний час роботи системи",
-    "The current version of muOS running on the device": "Поточна версія muOS на пристрої",
     "The current, and total, memory usage of the device": "Поточне та повне споживання пам'яті пристрою",
-    "The detected CPU type of the device": "Визначений тип CPU пристрою",
-    "muOS Version": "Версія muOS"
+    "The detected CPU type of the device": "Визначений тип CPU пристрою"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",

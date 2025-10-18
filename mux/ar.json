@@ -754,10 +754,8 @@
     "The current device type detected and configured": "نوع الجهاز الحالي المكتشف والمضبوط",
     "The current running governor of the device": "المنظم الحالي للجهاز",
     "The current running time of the system": "وقت التشغيل الحالي للنظام",
-    "The current version of muOS running on the device": "الإصدار الحالي من muOS على الجهاز",
     "The current, and total, memory usage of the device": "الاستخدام الحالي والإجمالي للذاكرة للجهاز",
-    "The detected CPU type of the device": "نوع وحدة المعالجة المركزية المكتشفة للجهاز",
-    "muOS Version": "إصدار muOS"
+    "The detected CPU type of the device": "نوع وحدة المعالجة المركزية المكتشفة للجهاز"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",

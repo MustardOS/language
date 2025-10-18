@@ -754,10 +754,8 @@
     "The current device type detected and configured": "Tipus de consola detectada i configurada",
     "The current running governor of the device": "El controlador de freqüència de CPU usat actualment",
     "The current running time of the system": "El temps de funcionament actual del sistema",
-    "The current version of muOS running on the device": "La versió de muOS que s’executa a la consola actualment",
     "The current, and total, memory usage of the device": "L'ús actual i total de memòria a la consola",
-    "The detected CPU type of the device": "La CPU detectada a la consola",
-    "muOS Version": "Versió de muOS"
+    "The detected CPU type of the device": "La CPU detectada a la consola"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Canvia la etiqueta del contingut seleccionat actualment per destacar-lo",

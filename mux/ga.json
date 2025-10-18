@@ -754,10 +754,8 @@
     "The current device type detected and configured": "Braitheadh agus cumraíodh an cineál gléis reatha",
     "The current running governor of the device": "Gobharnóir reatha an ghléis",
     "The current running time of the system": "Am reatha an chórais faoi láthair",
-    "The current version of muOS running on the device": "An leagan reatha de muOS ag rith ar an ngléas",
     "The current, and total, memory usage of the device": "Úsáid chuimhne reatha, agus iomlán, an ghléis",
-    "The detected CPU type of the device": "An cineál LAP aimsithe den fheiste",
-    "muOS Version": "leagan muOS"
+    "The detected CPU type of the device": "An cineál LAP aimsithe den fheiste"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Athraigh clib an ábhair atá roghnaithe agat faoi láthair chun é a chur chun cinn",

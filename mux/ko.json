@@ -754,10 +754,8 @@
     "The current device type detected and configured": "현재 감지되고 구성중인 장치 유형",
     "The current running governor of the device": "현재 실행 중인 장치의 거버너",
     "The current running time of the system": "현재 시스템 실행 시간",
-    "The current version of muOS running on the device": "현재 장치에서 실행 중인 muOS 버전",
     "The current, and total, memory usage of the device": "장치의 현재 및 총 메모리 사용량",
-    "The detected CPU type of the device": "장치의 감지된 CPU 유형",
-    "muOS Version": "muOS 버전"
+    "The detected CPU type of the device": "장치의 감지된 CPU 유형"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "현재 선택한 콘텐츠의 태그를 변경해 눈에 띄게 하기",

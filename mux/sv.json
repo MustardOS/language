@@ -754,10 +754,8 @@
     "The current device type detected and configured": "Den nuvarande enhetstypen som upptäckts och konfigurerats.",
     "The current running governor of the device": "Enhetens nuvarande CPU-reglerare.",
     "The current running time of the system": "Systemets nuvarande drifttid.",
-    "The current version of muOS running on the device": "Den nuvarande versionen av muOS som körs på enheten.",
     "The current, and total, memory usage of the device": "Enhetens nuvarande och totala minnesanvändning.",
-    "The detected CPU type of the device": "Den upptäckta CPU-typen för enheten.",
-    "muOS Version": "muOS-version"
+    "The detected CPU type of the device": "Den upptäckta CPU-typen för enheten."
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",

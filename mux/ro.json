@@ -754,10 +754,8 @@
     "The current device type detected and configured": "Tipul actual de dispozitiv detectat și configurat",
     "The current running governor of the device": "Guvernatorul CPU activ al dispozitivului",
     "The current running time of the system": "Timpul de funcționare curent al sistemului",
-    "The current version of muOS running on the device": "Versiunea curentă a muOS rulată pe dispozitiv",
     "The current, and total, memory usage of the device": "Utilizarea curentă și totală a memoriei dispozitivului",
-    "The detected CPU type of the device": "Tipul de CPU detectat al dispozitivului",
-    "muOS Version": "Versiune muOS"
+    "The detected CPU type of the device": "Tipul de CPU detectat al dispozitivului"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",

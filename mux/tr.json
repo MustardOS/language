@@ -754,10 +754,8 @@
     "The current device type detected and configured": "Algılanan ve yapılandırılan mevcut cihaz türü",
     "The current running governor of the device": "Cihazın mevcut çalışan yöneticisi",
     "The current running time of the system": "Sistemin geçerli çalışma süresi",
-    "The current version of muOS running on the device": "Cihazda çalışan mevcut muOS sürümü",
     "The current, and total, memory usage of the device": "Cihazın mevcut ve toplam bellek kullanımı",
-    "The detected CPU type of the device": "Cihazın algılanan CPU türü",
-    "muOS Version": "muOS versiyon"
+    "The detected CPU type of the device": "Cihazın algılanan CPU türü"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",

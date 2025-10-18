@@ -754,10 +754,8 @@
     "The current device type detected and configured": "Vrsta uređaja - detektirana i konfigurirana",
     "The current running governor of the device": "Trenutačni CPU upravitelj",
     "The current running time of the system": "Trenutačno vrijeme rada sustava",
-    "The current version of muOS running on the device": "Trenutačna verzija muOS‑a na uređaju",
     "The current, and total, memory usage of the device": "Trenutačna i ukupna potrošnja memorije uređaja",
-    "The detected CPU type of the device": "Detektirani CPU tip uređaja",
-    "muOS Version": "Verzija muOS‑a"
+    "The detected CPU type of the device": "Detektirani CPU tip uređaja"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Promijeni oznaku za odabrani sadržaj radi isticanja",

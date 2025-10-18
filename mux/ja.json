@@ -754,10 +754,8 @@
     "The current device type detected and configured": "使用中のデバイスの機種を表示します",
     "The current running governor of the device": "デバイスで稼働中のガバナーを表示します",
     "The current running time of the system": "システムの稼働時間を表示します",
-    "The current version of muOS running on the device": "このデバイスで稼働中の muOS のバージョンを表示します",
     "The current, and total, memory usage of the device": "現在の使用量と合計のメモリを表示します",
-    "The detected CPU type of the device": "デバイスの CPU 種別を表示します",
-    "muOS Version": "muOS バージョン"
+    "The detected CPU type of the device": "デバイスの CPU 種別を表示します"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "選択中のコンテンツのタグを変更して目立たせましょう",
