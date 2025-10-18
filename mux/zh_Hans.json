@@ -734,6 +734,7 @@
   "muxsysinfo": {
     "Battery Capacity": "电池电量",
     "Battery Voltage": "电池电压",
+    "Build ID": "Build ID",
     "CPU Governor": "CPU性能调节器",
     "CPU Information": "CPU信息",
     "CPU Speed": "CPU频率",
@@ -748,16 +749,17 @@
     "Temperature": "温度",
     "The current CPU frequency of the device": "当前设备CPU的运行频率",
     "The current Linux kernel": "当前系统使用的Linux内核",
+    "The current build ID of MustardOS running on the device": "The current build ID of MustardOS running on the device",
     "The current detected battery capacity": "当前检测的电池电量",
     "The current detected battery voltage": "当前检测的电池电压",
     "The current detected temperature of the device": "当前检测的设备温度",
     "The current device type detected and configured": "当前检测及配置的设备型号",
     "The current running governor of the device": "当前设备使用的CPU性能调节器",
     "The current running time of the system": "当前系统的运行时长",
-    "The current version of muOS running on the device": "当前设备运行的muOS版本",
+    "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
     "The current, and total, memory usage of the device": "设备当前内存使用量/总量",
     "The detected CPU type of the device": "检测到的设备CPU类型",
-    "muOS Version": "muOS版本"
+    "Version": "Version"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "更改所选内容标签以突出显示",
@@ -886,6 +888,7 @@
     "Colour Temperature": "色温",
     "Content Collection": "内容收藏",
     "Content Explorer": "内容浏览器",
+    "DPAD Swap Hotkey": "DPAD Swap Hotkey",
     "Date and Time": "日期和时间",
     "Device RGB Lights": "设备RGB灯光",
     "Device Startup": "开机默认界面",
@@ -895,8 +898,11 @@
     "Last Game": "最近游玩的游戏",
     "Main Menu": "主菜单",
     "Resume Game": "恢复游戏",
+    "Screenshot Hotkey": "Screenshot Hotkey",
     "Settings that should only be changed by those who know what they are doing!": "以下设置仅建议专业用户修改！",
     "Settings to change the HDMI output of the device": "调整设备的HDMI输出设置",
+    "Switch between different hotkeys for taking a screenshot": "Switch between different hotkeys for taking a screenshot",
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
     "Toggle the device fancy RGB light system": "开启/关闭设备RGB灯光效果",
     "Volume": "音量"
   },

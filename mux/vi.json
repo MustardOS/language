@@ -734,6 +734,7 @@
   "muxsysinfo": {
     "Battery Capacity": "Dung lượng pin",
     "Battery Voltage": "Điện áp pin",
+    "Build ID": "Build ID",
     "CPU Governor": "Chế độ CPU",
     "CPU Information": "Thông tin CPU",
     "CPU Speed": "Tốc độ CPU",
@@ -748,16 +749,17 @@
     "Temperature": "Nhiệt độ",
     "The current CPU frequency of the device": "Xung nhịp CPU hiện tại của thiết bị",
     "The current Linux kernel": "Nhân Linux hiện tại",
+    "The current build ID of MustardOS running on the device": "The current build ID of MustardOS running on the device",
     "The current detected battery capacity": "Dung lượng pin hiện tại xác định được",
     "The current detected battery voltage": "Điện áp hiện tại xác định được",
     "The current detected temperature of the device": "Nhiệt độ hiện tại xác định được của thiết bị",
     "The current device type detected and configured": "Kiểu thiết bị xác định được và cài đặt của thiết bị",
     "The current running governor of the device": "Chế độ hiệu chỉnh hiện tại của thiết bị",
     "The current running time of the system": "Thời gian hoạt động của hệ thống",
-    "The current version of muOS running on the device": "Phiên bản muOS hiện tại",
+    "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
     "The current, and total, memory usage of the device": "Mức sử dụng RAM hiện tại/tổng của thiết bị",
     "The detected CPU type of the device": "Nhận diện CPU của thiết bị",
-    "muOS Version": "Phiên bản muOS"
+    "Version": "Version"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Thay đổi thẻ của nội dung được chọn để khiến chúng nổi bật",
@@ -886,6 +888,7 @@
     "Colour Temperature": "Nhiệt độ màu",
     "Content Collection": "Bộ sưu tập Nội dung",
     "Content Explorer": "Khám phá nội dung",
+    "DPAD Swap Hotkey": "DPAD Swap Hotkey",
     "Date and Time": "Ngày và Giờ",
     "Device RGB Lights": "Đèn nền RGB thiết bị",
     "Device Startup": "Cài đặt khởi động thiết bị",
@@ -895,8 +898,11 @@
     "Last Game": "Trò chơi gần nhất",
     "Main Menu": "Menu chính",
     "Resume Game": "Tiếp tục trò chơi",
+    "Screenshot Hotkey": "Screenshot Hotkey",
     "Settings that should only be changed by those who know what they are doing!": "Các cài đặt mà chỉ nên được thay đổi bởi những người biết mình đang làm gì!",
     "Settings to change the HDMI output of the device": "Các cài đặt để thay đổi đầu ra HDMI của thiết bị",
+    "Switch between different hotkeys for taking a screenshot": "Switch between different hotkeys for taking a screenshot",
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
     "Toggle the device fancy RGB light system": "Bật/tắt hệ thống đèn RGB",
     "Volume": "Âm lượng"
   },

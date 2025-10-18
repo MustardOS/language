@@ -734,6 +734,7 @@
   "muxsysinfo": {
     "Battery Capacity": "Ємність Батареї",
     "Battery Voltage": "Напруга Батареї",
+    "Build ID": "Build ID",
     "CPU Governor": "CPU Менеджер",
     "CPU Information": "Інформація про CPU",
     "CPU Speed": "Швидкість CPU",
@@ -748,16 +749,17 @@
     "Temperature": "Температура",
     "The current CPU frequency of the device": "Поточна частота CPU пристрою",
     "The current Linux kernel": "Поточне ядро Linux",
+    "The current build ID of MustardOS running on the device": "The current build ID of MustardOS running on the device",
     "The current detected battery capacity": "Поточна визначена ємність батареї",
     "The current detected battery voltage": "Поточна визначена напруга батареї",
     "The current detected temperature of the device": "Поточна визначена температура пристрою",
     "The current device type detected and configured": "Визначений і налаштований тип пристрою",
     "The current running governor of the device": "Поточний запущений менеджер пристрою",
     "The current running time of the system": "Поточний час роботи системи",
-    "The current version of muOS running on the device": "Поточна версія muOS на пристрої",
+    "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
     "The current, and total, memory usage of the device": "Поточне та повне споживання пам'яті пристрою",
     "The detected CPU type of the device": "Визначений тип CPU пристрою",
-    "muOS Version": "Версія muOS"
+    "Version": "Version"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
@@ -886,6 +888,7 @@
     "Colour Temperature": "Колірна Температура",
     "Content Collection": "Content Collection",
     "Content Explorer": "Перегляд Контенту",
+    "DPAD Swap Hotkey": "DPAD Swap Hotkey",
     "Date and Time": "Date and Time",
     "Device RGB Lights": "Device RGB Lights",
     "Device Startup": "Запуск Пристрою",
@@ -895,8 +898,11 @@
     "Last Game": "Остання Гра",
     "Main Menu": "Головне Меню",
     "Resume Game": "Продовжити Гру",
+    "Screenshot Hotkey": "Screenshot Hotkey",
     "Settings that should only be changed by those who know what they are doing!": "Ці налаштування лише для тих, хто впевнений у своїх діях і знає що робить!",
     "Settings to change the HDMI output of the device": "Settings to change the HDMI output of the device",
+    "Switch between different hotkeys for taking a screenshot": "Switch between different hotkeys for taking a screenshot",
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
     "Toggle the device fancy RGB light system": "Toggle the device fancy RGB light system",
     "Volume": "Volume"
   },

@@ -734,6 +734,7 @@
   "muxsysinfo": {
     "Battery Capacity": "バッテリー容量",
     "Battery Voltage": "バッテリー電圧",
+    "Build ID": "Build ID",
     "CPU Governor": "CPU ガバナー",
     "CPU Information": "CPU 情報",
     "CPU Speed": "CPU 速度",
@@ -748,16 +749,17 @@
     "Temperature": "温度",
     "The current CPU frequency of the device": "現在の CPU 周波数を表示します",
     "The current Linux kernel": "Linux カーネルのバージョンを表示します",
+    "The current build ID of MustardOS running on the device": "The current build ID of MustardOS running on the device",
     "The current detected battery capacity": "現在のバッテリー容量を表示します",
     "The current detected battery voltage": "現在のバッテリー電圧を表示します",
     "The current detected temperature of the device": "デバイスの現在温度を表示します",
     "The current device type detected and configured": "使用中のデバイスの機種を表示します",
     "The current running governor of the device": "デバイスで稼働中のガバナーを表示します",
     "The current running time of the system": "システムの稼働時間を表示します",
-    "The current version of muOS running on the device": "このデバイスで稼働中の muOS のバージョンを表示します",
+    "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
     "The current, and total, memory usage of the device": "現在の使用量と合計のメモリを表示します",
     "The detected CPU type of the device": "デバイスの CPU 種別を表示します",
-    "muOS Version": "muOS バージョン"
+    "Version": "Version"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "選択中のコンテンツのタグを変更して目立たせましょう",
@@ -886,6 +888,7 @@
     "Colour Temperature": "色温度",
     "Content Collection": "コンテンツコレクション",
     "Content Explorer": "コンテンツ一覧",
+    "DPAD Swap Hotkey": "DPAD Swap Hotkey",
     "Date and Time": "日付と時刻",
     "Device RGB Lights": "デバイス RGB 点灯",
     "Device Startup": "起動時メニュー",
@@ -895,8 +898,11 @@
     "Last Game": "前回遊んだゲーム",
     "Main Menu": "メインメニュー",
     "Resume Game": "中断しているゲームを再開",
+    "Screenshot Hotkey": "Screenshot Hotkey",
     "Settings that should only be changed by those who know what they are doing!": "詳細を理解している人たちのための設定です!",
     "Settings to change the HDMI output of the device": "デバイスのHDMI出力の設定を変更します",
+    "Switch between different hotkeys for taking a screenshot": "Switch between different hotkeys for taking a screenshot",
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
     "Toggle the device fancy RGB light system": "デバイス固有の RGB 点灯機能を切り替えます",
     "Volume": "音量"
   },

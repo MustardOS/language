@@ -734,6 +734,7 @@
   "muxsysinfo": {
     "Battery Capacity": "배터리 용량",
     "Battery Voltage": "배터리 전압",
+    "Build ID": "Build ID",
     "CPU Governor": "CPU 거버너",
     "CPU Information": "CPU 정보",
     "CPU Speed": "CPU 속도",
@@ -748,16 +749,17 @@
     "Temperature": "온도",
     "The current CPU frequency of the device": "현재 장치의 CPU 주파수",
     "The current Linux kernel": "현재 리눅스 커널",
+    "The current build ID of MustardOS running on the device": "The current build ID of MustardOS running on the device",
     "The current detected battery capacity": "현재 감지된 배터리 용량",
     "The current detected battery voltage": "현재 감지된 배터리 전압",
     "The current detected temperature of the device": "현재 장치의 감지된 온도",
     "The current device type detected and configured": "현재 감지되고 구성중인 장치 유형",
     "The current running governor of the device": "현재 실행 중인 장치의 거버너",
     "The current running time of the system": "현재 시스템 실행 시간",
-    "The current version of muOS running on the device": "현재 장치에서 실행 중인 muOS 버전",
+    "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
     "The current, and total, memory usage of the device": "장치의 현재 및 총 메모리 사용량",
     "The detected CPU type of the device": "장치의 감지된 CPU 유형",
-    "muOS Version": "muOS 버전"
+    "Version": "Version"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "현재 선택한 콘텐츠의 태그를 변경해 눈에 띄게 하기",
@@ -886,6 +888,7 @@
     "Colour Temperature": "색 온도",
     "Content Collection": "콘텐츠 컬렉션",
     "Content Explorer": "콘텐츠 탐색기",
+    "DPAD Swap Hotkey": "DPAD Swap Hotkey",
     "Date and Time": "날짜와 시간",
     "Device RGB Lights": "장치 RGB 조명",
     "Device Startup": "장치 시작 위치",
@@ -895,8 +898,11 @@
     "Last Game": "마지막 실행 게임",
     "Main Menu": "메인 메뉴",
     "Resume Game": "게임 재개",
+    "Screenshot Hotkey": "Screenshot Hotkey",
     "Settings that should only be changed by those who know what they are doing!": "수행중인 작업을 아는 사람만이 변경해야 하는 설정!",
     "Settings to change the HDMI output of the device": "장치의 HDMI 출력을 변경하기 위한 설정",
+    "Switch between different hotkeys for taking a screenshot": "Switch between different hotkeys for taking a screenshot",
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
     "Toggle the device fancy RGB light system": "장치의 멋진 RGB 조명 시스템을 전환",
     "Volume": "볼륨"
   },

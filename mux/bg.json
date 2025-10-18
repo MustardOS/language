@@ -734,6 +734,7 @@
   "muxsysinfo": {
     "Battery Capacity": "Капацитет на Батерията",
     "Battery Voltage": "Напрежение на Батерията",
+    "Build ID": "Build ID",
     "CPU Governor": "CPU Регулатор",
     "CPU Information": "CPU Инфо",
     "CPU Speed": "CPU Скорост",
@@ -748,16 +749,17 @@
     "Temperature": "Температура",
     "The current CPU frequency of the device": "Текущата честота на процесора на устройството",
     "The current Linux kernel": "Текущото ядро на Linux",
+    "The current build ID of MustardOS running on the device": "The current build ID of MustardOS running on the device",
     "The current detected battery capacity": "Текущият открит капацитет на батерията",
     "The current detected battery voltage": "Текущото установено напрежение на батерията",
     "The current detected temperature of the device": "Текущата установена температура на устройството",
     "The current device type detected and configured": "Текущият открит и конфигуриран тип устройство",
     "The current running governor of the device": "Текущият работещ регулатор на устройството",
     "The current running time of the system": "Текущото време на работа на системата",
-    "The current version of muOS running on the device": "Текущата версия на muOS, работеща на устройството",
+    "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
     "The current, and total, memory usage of the device": "Текущото и общото използване на паметта на устройството",
     "The detected CPU type of the device": "Откритият тип процесор на устройството",
-    "muOS Version": "muOS версия"
+    "Version": "Version"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
@@ -886,6 +888,7 @@
     "Colour Temperature": "Цветова Температура",
     "Content Collection": "Колекция Съдържание",
     "Content Explorer": "Търсач на Съдържание",
+    "DPAD Swap Hotkey": "DPAD Swap Hotkey",
     "Date and Time": "Date and Time",
     "Device RGB Lights": "Device RGB Lights",
     "Device Startup": "Стартиране на Устройството",
@@ -895,8 +898,11 @@
     "Last Game": "Последна Игра",
     "Main Menu": "Главно Меню",
     "Resume Game": "Възобновете Играта",
+    "Screenshot Hotkey": "Screenshot Hotkey",
     "Settings that should only be changed by those who know what they are doing!": "Настройки, които трябва да се променят само от тези, които знаят какво правят!",
     "Settings to change the HDMI output of the device": "Настройки за промяна на HDMI изход на устройството",
+    "Switch between different hotkeys for taking a screenshot": "Switch between different hotkeys for taking a screenshot",
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
     "Toggle the device fancy RGB light system": "Toggle the device fancy RGB light system",
     "Volume": "Volume"
   },

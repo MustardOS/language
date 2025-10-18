@@ -734,6 +734,7 @@
   "muxsysinfo": {
     "Battery Capacity": "Capacità della Batteria",
     "Battery Voltage": "Voltaggio della Batteria",
+    "Build ID": "Build ID",
     "CPU Governor": "Governor CPU",
     "CPU Information": "Informazioni CPU",
     "CPU Speed": "Velocità CPU",
@@ -748,16 +749,17 @@
     "Temperature": "Temperatura",
     "The current CPU frequency of the device": "La frequenza attuale della CPU del dispositivo",
     "The current Linux kernel": "Il kernel Linux attuale",
+    "The current build ID of MustardOS running on the device": "The current build ID of MustardOS running on the device",
     "The current detected battery capacity": "La capacità della batteria attualmente rilevata",
     "The current detected battery voltage": "Il voltaggio della batteria attualmente rilevato",
     "The current detected temperature of the device": "La temperatura del dispositivo attualmente rilevata",
     "The current device type detected and configured": "Il tipo di dispositivo attualmente rilevato",
     "The current running governor of the device": "Il governor attualmente in esecuzione sul dispositivo",
     "The current running time of the system": "Il tempo di esecuzione attuale del sistema",
-    "The current version of muOS running on the device": "La versione attuale di muOS in esecuzione sul dispositivo",
+    "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
     "The current, and total, memory usage of the device": "L'utilizzo attuale e totale della memoria del dispositivo",
     "The detected CPU type of the device": "La CPU rilevata sul dispositivo",
-    "muOS Version": "Versione di muOS"
+    "Version": "Version"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Cambia la categoria del contenuto attualmente selezionata per metterla in primo piano",
@@ -886,6 +888,7 @@
     "Colour Temperature": "Temperatura del Colore",
     "Content Collection": "Collezioni",
     "Content Explorer": "Esplora Contenuti",
+    "DPAD Swap Hotkey": "DPAD Swap Hotkey",
     "Date and Time": "Data e Ora",
     "Device RGB Lights": "Luci RGB del Dispositivo",
     "Device Startup": "Avvio del Dispositivo",
@@ -895,8 +898,11 @@
     "Last Game": "Ultimo Gioco",
     "Main Menu": "Menu Principale",
     "Resume Game": "Riprendi Gioco",
+    "Screenshot Hotkey": "Screenshot Hotkey",
     "Settings that should only be changed by those who know what they are doing!": "Impostazioni che dovrebbero essere cambiate solo da chi sa quello che sta facendo!",
     "Settings to change the HDMI output of the device": "Impostazioni per cambiare l'uscita HDMI del dispositivo",
+    "Switch between different hotkeys for taking a screenshot": "Switch between different hotkeys for taking a screenshot",
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
     "Toggle the device fancy RGB light system": "Abilita/disabilita il sistema di luci RGB del dispositivo",
     "Volume": "Volume"
   },

@@ -734,6 +734,7 @@
   "muxsysinfo": {
     "Battery Capacity": "Batterikapacitet",
     "Battery Voltage": "Batterispänning",
+    "Build ID": "Build ID",
     "CPU Governor": "CPU-reglerare",
     "CPU Information": "CPU-information",
     "CPU Speed": "CPU-hastighet",
@@ -748,16 +749,17 @@
     "Temperature": "Temperatur",
     "The current CPU frequency of the device": "Enhetens nuvarande CPU-frekvens.",
     "The current Linux kernel": "Den nuvarande Linux-kärnan.",
+    "The current build ID of MustardOS running on the device": "The current build ID of MustardOS running on the device",
     "The current detected battery capacity": "Den nuvarande upptäckta batterikapaciteten.",
     "The current detected battery voltage": "Den nuvarande upptäckta batterispänningen.",
     "The current detected temperature of the device": "Den nuvarande upptäckta temperaturen för enheten.",
     "The current device type detected and configured": "Den nuvarande enhetstypen som upptäckts och konfigurerats.",
     "The current running governor of the device": "Enhetens nuvarande CPU-reglerare.",
     "The current running time of the system": "Systemets nuvarande drifttid.",
-    "The current version of muOS running on the device": "Den nuvarande versionen av muOS som körs på enheten.",
+    "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
     "The current, and total, memory usage of the device": "Enhetens nuvarande och totala minnesanvändning.",
     "The detected CPU type of the device": "Den upptäckta CPU-typen för enheten.",
-    "muOS Version": "muOS-version"
+    "Version": "Version"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Change the tag of your current selected content to make it stand out",
@@ -886,6 +888,7 @@
     "Colour Temperature": "Färgtemperatur",
     "Content Collection": "Content Collection",
     "Content Explorer": "Innehållsutforskare",
+    "DPAD Swap Hotkey": "DPAD Swap Hotkey",
     "Date and Time": "Date and Time",
     "Device RGB Lights": "Device RGB Lights",
     "Device Startup": "Enhetsstart",
@@ -895,8 +898,11 @@
     "Last Game": "Senaste Spelet",
     "Main Menu": "Huvudmeny",
     "Resume Game": "Återuppta Spel",
+    "Screenshot Hotkey": "Screenshot Hotkey",
     "Settings that should only be changed by those who know what they are doing!": "Inställningar som endast ska ändras av de som vet vad de gör!",
     "Settings to change the HDMI output of the device": "Settings to change the HDMI output of the device",
+    "Switch between different hotkeys for taking a screenshot": "Switch between different hotkeys for taking a screenshot",
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
     "Toggle the device fancy RGB light system": "Toggle the device fancy RGB light system",
     "Volume": "Volume"
   },
