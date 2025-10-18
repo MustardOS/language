@@ -734,6 +734,7 @@
   "muxsysinfo": {
     "Battery Capacity": "Akkustand",
     "Battery Voltage": "Akkuspannung",
+    "Build ID": "Build ID",
     "CPU Governor": "CPU-Geschwindigkeitregler",
     "CPU Information": "CPU-Modell",
     "CPU Speed": "CPU-Auslastung",
@@ -748,14 +749,17 @@
     "Temperature": "Temperatur",
     "The current CPU frequency of the device": "Die aktuelle CPU-Frequenz des Systems",
     "The current Linux kernel": "Der aktuelle Linux-Kernel",
+    "The current build ID of MustardOS running on the device": "The current build ID of MustardOS running on the device",
     "The current detected battery capacity": "Der aktuell erkannte Akkustatus",
     "The current detected battery voltage": "Die aktuell ermittelte Akkuspannung",
     "The current detected temperature of the device": "Die aktuell ermittelte Temperatur des Systems",
     "The current device type detected and configured": "Der aktuell erkannte und konfigurierte Systemtyp",
     "The current running governor of the device": "Der aktuelle CPU-Einstellung",
     "The current running time of the system": "Die aktuelle Systemlaufzeit",
+    "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
     "The current, and total, memory usage of the device": "Die aktuelle und gesamte Speichernutzung des System",
-    "The detected CPU type of the device": "Die verbaute CPU von diesem Gerät"
+    "The detected CPU type of the device": "Die verbaute CPU von diesem Gerät",
+    "Version": "Version"
   },
   "muxtag": {
     "Change the tag of your current selected content to make it stand out": "Die Markierung des aktuell ausgewählten Inhalts ändern, um ihn hervorzuheben",
@@ -884,6 +888,7 @@
     "Colour Temperature": "Farbtemperatur",
     "Content Collection": "Dateibibliothek",
     "Content Explorer": "Bibliothek durchsuchen",
+    "DPAD Swap Hotkey": "DPAD Swap Hotkey",
     "Date and Time": "Datum und Uhrzeit",
     "Device RGB Lights": "Gerät-RGB-Lichter",
     "Device Startup": "Systemstart",
@@ -893,8 +898,11 @@
     "Last Game": "Vorheriges Spiel",
     "Main Menu": "Hauptmenü",
     "Resume Game": "Spiel wiederaufnehmen",
+    "Screenshot Hotkey": "Screenshot Hotkey",
     "Settings that should only be changed by those who know what they are doing!": "Einstellungen, die nur von Personen geändert werden sollten, die wissen, was sie tun!",
     "Settings to change the HDMI output of the device": "Einstellungen zum ändern des HDMI-Ausgangs des System",
+    "Switch between different hotkeys for taking a screenshot": "Switch between different hotkeys for taking a screenshot",
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
     "Toggle the device fancy RGB light system": "Toggle the device fancy RGB light system",
     "Volume": "Lautstärke"
   },
