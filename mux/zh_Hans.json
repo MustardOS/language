@@ -90,7 +90,7 @@
   "muxbackup": {
     "Activity Tracker": "活动追踪器",
     "Applications": "应用程序",
-    "Background Music": "Background Music",
+    "Background Music": "背景音乐",
     "Backup Target": "备份存放位置",
     "Content Collection": "内容收藏",
     "Content Launch Overrides": "内容启动覆盖",
@@ -104,7 +104,7 @@
     "Location of RetroArch shaders": "RetroArch着色器路径",
     "Location of Syncthing configurations": "Syncthing配置文件路径",
     "Location of User Initialisation scripts": "用户初始化脚本路径",
-    "Location of background music": "Location of background music",
+    "Location of background music": "背景音乐路径",
     "Location of content collection": "内容收藏夹路径",
     "Location of content images and text": "内容图像和文本路径",
     "Location of custom packages": "自定义包路径",
@@ -168,13 +168,13 @@
     "Storage Options": "存储选项"
   },
   "muxconnect": {
-    "Adjust network connectivity settings": "Adjust network connectivity settings",
+    "Adjust network connectivity settings": "调整网络连接设置",
     "Android Debug Bridge": "安卓调试桥（ADB）",
     "Bluetooth": "蓝牙",
     "CONNECTIVITY": "连接",
     "Connect to a Wi-Fi network manually or via a saved profile": "手动连接Wi-Fi网络，或通过已保存的配置文件连接",
     "Media Transfer Protocol": "媒体传输协议（MTP）",
-    "Network Settings": "Network Settings",
+    "Network Settings": "网络设置",
     "Toggle a range of configurable services you can access via an active network": "切换可通过当前网络访问的各类可配置服务",
     "Toggle between ADB and MTP USB functionality": "切换USB功能为ADB或MTP",
     "Toggle the visibility of the bluetooth glyph": "切换蓝牙图标的显示状态",
