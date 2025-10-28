@@ -3,6 +3,7 @@ bg:Bulgarian
 ca:Catalan
 ca@valencia:Valencian
 cs:Czech
+da:Danish
 de:German
 en:English
 en_US:English (American)
