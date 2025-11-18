@@ -810,7 +810,6 @@
     "Device": "Gléas",
     "Filter to theme with a name containing lookup text.": "Scag chuig téama le hainm ina bhfuil téacs cuardaigh.",
     "Filter to themes for this device or all themes. All themes can work on any device but if the theme does not implement your devices resolution it will be letterboxed.": "Scag chuig téamaí don ghléas seo nó do na téamaí uile. Is féidir le gach téama oibriú ar aon ghléas ach mura gcuireann an téama rún do ghléas i bhfeidhm, cuirfear bosca litreacha air.",
-    "Filter to themes that let MustardOS handle translating text. Themes that use static images for the main menu will be filtere out.": "Scag chuig téamaí a ligeann do MustardOS téacs a aistriú. Déanfar téamaí a úsáideann íomhánna statach don phríomh-roghchlár a scagadh amach.",
     "Filter to themes that support HDMI resolution 1280x720. Themes will still work on HDMI without support for 1280x720 but content will be letterboxed.": "Scag chuig téamaí a thacaíonn le taifeach HDMI 1280x720. Oibreoidh téamaí fós ar HDMI gan tacaíocht do 1280x720 ach beidh an t-ábhar i mbosca litreacha.",
     "Filter to themes that support displaying content folders in a tile layout": "Scag chuig téamaí a thacaíonn le fillteáin ábhair a thaispeáint i leagan amach tíleanna",
     "Grid": "Eangach",
