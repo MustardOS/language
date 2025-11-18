@@ -810,7 +810,7 @@
     "Device": "Dispositivo",
     "Filter to theme with a name containing lookup text.": "Filtrar por tema con un nombre que contenga el texto de búsqueda.",
     "Filter to themes for this device or all themes. All themes can work on any device but if the theme does not implement your devices resolution it will be letterboxed.": "Filtra por temas para este dispositivo o todos los temas. Todos los temas pueden funcionar en cualquier dispositivo, pero si el tema no implementa la resolución de tu dispositivo, se mostrará con bandas negras.",
-    "Filter to themes that let MustardOS handle translating text. Themes that use static images for the main menu will be filtered out.": "Filter to themes that let MustardOS handle translating text. Themes that use static images for the main menu will be filtered out.",
+    "Filter to themes that let MustardOS handle translating text. Themes that use static images for the main menu will be filtered out.": "Filtra los temas que permiten a MustardOS gestionar la traducción del texto. Se filtrarán los temas que utilicen imágenes estáticas para el menú principal.",
     "Filter to themes that support HDMI resolution 1280x720. Themes will still work on HDMI without support for 1280x720 but content will be letterboxed.": "Filtra los temas que admiten la resolución HDMI 1280x720. Los temas seguirán funcionando en HDMI sin compatibilidad con 1280x720, pero el contenido se mostrará en formato panorámico.",
     "Filter to themes that support displaying content folders in a tile layout": "Filtrar por temas que admiten la visualización de carpetas de contenido en un diseño de mosaico",
     "Grid": "Cuadrícula",
