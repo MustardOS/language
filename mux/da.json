@@ -810,7 +810,7 @@
     "Device": "Enhed",
     "Filter to theme with a name containing lookup text.": "Filtrer tema med et navn, der indeholder opslagstekst.",
     "Filter to themes for this device or all themes. All themes can work on any device but if the theme does not implement your devices resolution it will be letterboxed.": "Filtrer temaer for denne enhed eller alle temaer. Alle temaer kan fungere på alle enheder, men hvis temaet ikke implementerer din enheds opløsning, vil det blive vist i letterbox-format.",
-    "Filter to themes that let MustardOS handle translating text. Themes that use static images for the main menu will be filtered out.": "Filter to themes that let MustardOS handle translating text. Themes that use static images for the main menu will be filtered out.",
+    "Filter to themes that let MustardOS handle translating text. Themes that use static images for the main menu will be filtered out.": "Filtrer temaer, der lader MustardOS håndtere oversættelse af tekst. Temaer, der bruger statiske billeder til hovedmenuen, vil blive filtreret fra.",
     "Filter to themes that support HDMI resolution 1280x720. Themes will still work on HDMI without support for 1280x720 but content will be letterboxed.": "Filtrer temaer, der understøtter HDMI-opløsning 1280x720. Temaer vil stadig fungere på HDMI uden understøttelse af 1280x720, men indholdet vil være i letterbox-format.",
     "Filter to themes that support displaying content folders in a tile layout": "Filtrer temaer, der understøtter visning af indholdsfoldere i et fliselayout",
     "Grid": "Gitter",
