@@ -616,8 +616,6 @@
     "CATALOGUE PICKER": "카탈로그 피커",
     "CONFIG PICKER": "구성 피커",
     "CUSTOM PICKER": "맞춤 피커",
-    "Failed to remove item…": "아이템 제거 실패함…",
-    "Hold L2 and press X to confirm deletion!": "L2 를 누른 상태로 X를누르면 삭제가 확인됨 !",
     "Incompatible Theme Resolution Detected": "호환되지 않는 테마 해상도가 감지됨",
     "Incompatible Theme Version Detected": "호환되지 않는 테마 버전이 감지됨",
     "No Catalogue Packages Found": "카탈로그 패키지가 없음",
