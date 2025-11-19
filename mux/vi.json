@@ -810,6 +810,7 @@
     "Device": "Thiết bị",
     "Filter to theme with a name containing lookup text.": "Lọc các chủ đề mà tên bao gồm trong text tìm kiếm.",
     "Filter to themes for this device or all themes. All themes can work on any device but if the theme does not implement your devices resolution it will be letterboxed.": "Lọc các chủ đề cho thiết bị hiện tại hoặc tất cả chủ đề. Tất cả chủ đề có thể hoạt động trên mọi thiết bị nhưng những chủ đề không được triển khai với độ phân giải của thiết bị sẽ xuất hiện viền đen.",
+    "Filter to themes that let MustardOS handle translating text. Themes that use static images for the main menu will be filtered out.": "Filter to themes that let MustardOS handle translating text. Themes that use static images for the main menu will be filtered out.",
     "Filter to themes that support HDMI resolution 1280x720. Themes will still work on HDMI without support for 1280x720 but content will be letterboxed.": "Lọc các chủ đề mà hỗ trợ độ phân giải HDMI 1280x720. Các chủ đề vẫn sẽ hoạt động trên HDMI mà không cần phần hỗ trợ 1280x720 nhưng nội dung hiển thị sẽ có viền đen.",
     "Filter to themes that support displaying content folders in a tile layout": "Lọc các chủ đề mà hỗ trợ hiển thị thư mục nội dung theo bố cục dạng ô",
     "Grid": "Lưới",
