@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "ASIGNEAZĂ",
-    "Assigned to directory": "Asignat directorului",
-    "Assigned to file": "Asignat fișierului",
     "Core Downloader": "Core Downloader",
     "No Cores Found…": "Niciun nucleu găsit…",
     "This is where you can assign a core or external emulator to content": "Aici poți asocia un nucleu sau un emulator extern conținutului"

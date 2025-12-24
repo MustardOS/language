@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "指定する",
-    "Assigned to directory": "ディレクトリに割り当てられています",
-    "Assigned to file": "ファイルに割り当てられています",
     "Core Downloader": "Core Downloader",
     "No Cores Found…": "コアが見つかりませんでした…",
     "This is where you can assign a core or external emulator to content": "コアまたは個別エミュレータをコンテンツに関連づけます"

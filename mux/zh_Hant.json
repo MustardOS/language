@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "指派",
-    "Assigned to directory": "套用此目錄",
-    "Assigned to file": "套用此檔案",
     "Core Downloader": "核心下載器",
     "No Cores Found…": "找不到核心…",
     "This is where you can assign a core or external emulator to content": "您可以在此處為內容指派核心或外部模擬器"

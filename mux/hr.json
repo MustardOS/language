@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "DODIJELI",
-    "Assigned to directory": "Dodijeljeno mapi",
-    "Assigned to file": "Dodijeljeno datoteci",
     "Core Downloader": "Preuzimanje jezgri",
     "No Cores Found…": "Nema pronađenih jezgri…",
     "This is where you can assign a core or external emulator to content": "Ovdje možete dodijeliti jezgru ili vanjski emulator sadržaju"

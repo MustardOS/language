@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "分配",
-    "Assigned to directory": "已分配到目录",
-    "Assigned to file": "已分配到文件",
     "Core Downloader": "核心下载器",
     "No Cores Found…": "未找到核心…",
     "This is where you can assign a core or external emulator to content": "在此为游戏内容分配核心或独立模拟器"

@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "ZUWEISEN",
-    "Assigned to directory": "Verzeichnis zugewiesen",
-    "Assigned to file": "Datei zugewiesen",
     "Core Downloader": "Kern Downloader",
     "No Cores Found…": "Keine Kerne gefunden…",
     "This is where you can assign a core or external emulator to content": "Hier kannst du einen Kern zuweisen oder einen Standalone-Emulator einstellen"

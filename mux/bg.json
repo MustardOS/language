@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "СВЪРЗВАЙ",
-    "Assigned to directory": "Свъзавано с папка",
-    "Assigned to file": "Свъзавано с файл",
     "Core Downloader": "Core Downloader",
     "No Cores Found…": "Няма намерени Ядра…",
     "This is where you can assign a core or external emulator to content": "Тук можеш да свързваш ядро или външен емулатор към съдържанието"

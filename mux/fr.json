@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "ASSIGNER",
-    "Assigned to directory": "Assigné au dossier",
-    "Assigned to file": "Assigné au fichier",
     "Core Downloader": "Téléchargeur d'émulateurs",
     "No Cores Found…": "Aucun émulateur trouvé…",
     "This is where you can assign a core or external emulator to content": "C'est ici que vous pouvez attribuer un émulateur principal ou externe au contenu"

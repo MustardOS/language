@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "ASSIGNAR",
-    "Assigned to directory": "Assignat al directori",
-    "Assigned to file": "Assignat a l'arxiu",
     "Core Downloader": "Core Downloader",
     "No Cores Found…": "No s'han trobat nuclis…",
     "This is where you can assign a core or external emulator to content": "Aquí pots assignar un nucli o un emulador extern al contingut"

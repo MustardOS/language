@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "GÁN",
-    "Assigned to directory": "Đã gán cho thư mục",
-    "Assigned to file": "Đã gán cho tệp tin",
     "Core Downloader": "Trình tải Nhân giả lập",
     "No Cores Found…": "Không tìm thấy Core phù hợp…",
     "This is where you can assign a core or external emulator to content": "Đây là nơi bạn có thể gán core hoặc trình giả lập bên ngoài cho nội dung đang chọn"

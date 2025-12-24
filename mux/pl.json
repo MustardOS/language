@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "PRZYPISZ",
-    "Assigned to directory": "Przypisane do katalogu",
-    "Assigned to file": "Przypisane do pliku",
     "Core Downloader": "Pobieranie rdzeni",
     "No Cores Found…": "Nie znaleziono rdzeni…",
     "This is where you can assign a core or external emulator to content": "Tutaj możesz przypisać rdzeń lub zewnętrzny emulator do zawartości"

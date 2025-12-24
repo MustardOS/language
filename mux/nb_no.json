@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "TILORDNE",
-    "Assigned to directory": "Tilordnet til katalog",
-    "Assigned to file": "Tilordnet til fil",
     "Core Downloader": "Core Downloader",
     "No Cores Found…": "Ingen Cores Funnet…",
     "This is where you can assign a core or external emulator to content": "Her kan du tilordne en core/ekstern-emulator til innhold"

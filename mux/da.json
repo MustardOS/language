@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "TILDEL",
-    "Assigned to directory": "Tildelt til mappe",
-    "Assigned to file": "Tildelt til fil",
     "Core Downloader": "Core downloader",
     "No Cores Found…": "Ingen cores fundet…",
     "This is where you can assign a core or external emulator to content": "Det er her, du kan tildele en core- eller ekstern emulator til indhold"

@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "ПРИВЯЗАТЬ",
-    "Assigned to directory": "Привязано к папке",
-    "Assigned to file": "Привязано к файлу",
     "Core Downloader": "Загрузчик ядра",
     "No Cores Found…": "Ядра не найдены…",
     "This is where you can assign a core or external emulator to content": "Здесь вы можете привязать ядро или внешний эмулятор для игры"

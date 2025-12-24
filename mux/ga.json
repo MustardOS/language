@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "SANN",
-    "Assigned to directory": "Sannta don chomhadlann",
-    "Assigned to file": "Sannta do chomhad",
     "Core Downloader": "Íoslódálaí Croí",
     "No Cores Found…": "Níor aimsíodh aon chroí…",
     "This is where you can assign a core or external emulator to content": "Is é seo an áit ar féidir leat aithriseoir lárnach nó seachtrach a shannadh d'ábhar"

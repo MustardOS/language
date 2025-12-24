@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "PŘIŘADIT",
-    "Assigned to directory": "Přiřazeno do adresáře",
-    "Assigned to file": "Přiřazeno k souboru",
     "Core Downloader": "Stažení Jádra",
     "No Cores Found…": "Nebyla nalezena žádná jádra…",
     "This is where you can assign a core or external emulator to content": "Zde můžete přiřadit jádro nebo externí emulátor"

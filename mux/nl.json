@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "TOEWIJZEN",
-    "Assigned to directory": "Toegewezen aan map",
-    "Assigned to file": "Toegewezen aan bestand",
     "Core Downloader": "Core Downloader",
     "No Cores Found…": "Geen cores gevonden…",
     "This is where you can assign a core or external emulator to content": "Hier kun je een core of externe emulator toewijzen aan inhoud"

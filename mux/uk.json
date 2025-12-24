@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "ПРИЗНАЧИТИ",
-    "Assigned to directory": "Прив'язаний до директорії",
-    "Assigned to file": "Прив'язаний до файлу",
     "Core Downloader": "Core Downloader",
     "No Cores Found…": "Ядер не знайдено…",
     "This is where you can assign a core or external emulator to content": "Тут Ви можете призначити контенту ядро або зовнішній емулятор"

@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "عيّن",
-    "Assigned to directory": "تم تعيينه إلى المجلد",
-    "Assigned to file": "تم تعيينه إلى الملف",
     "Core Downloader": "Core Downloader",
     "No Cores Found…": "لم يتم العثور على أي نواة…",
     "This is where you can assign a core or external emulator to content": "هذا هو المكان الذي يمكنك تعيين نواة أو محاكي خارجي إلى المحتوى"

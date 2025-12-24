@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "DODELITI",
-    "Assigned to directory": "Dodeljeno folderu",
-    "Assigned to file": "Dodeljeno fajlu",
     "Core Downloader": "Core Downloader",
     "No Cores Found…": "Nema pronađenih jezgara…",
     "This is where you can assign a core or external emulator to content": "Ovde možete dodeliti core ili eksterni emulator za sadržaj"

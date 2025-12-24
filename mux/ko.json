@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "할당",
-    "Assigned to directory": "폴더에 할당",
-    "Assigned to file": "파일에 할당",
     "Core Downloader": "코어 다운로더",
     "No Cores Found…": "코어 없음…",
     "This is where you can assign a core or external emulator to content": "여기서 코어 또는 외부 에뮬레이터를 콘텐츠에 할당함"

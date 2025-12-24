@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "اختصاص دادن",
-    "Assigned to directory": "به پوشه اختصاص داده شده",
-    "Assigned to file": "به فایل اختصاص داده شده",
     "Core Downloader": "Core Downloader",
     "No Cores Found…": "No Cores Found…",
     "This is where you can assign a core or external emulator to content": "اینجا می توانید یک هسته یا امولاتور خارجی به محتوا اختصاص دهید"

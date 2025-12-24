@@ -93,8 +93,6 @@
   },
   "muxassign": {
     "ASSIGN": "ATA",
-    "Assigned to directory": "Klasöre atandı",
-    "Assigned to file": "Dosyaya atandı",
     "Core Downloader": "Core Downloader",
     "No Cores Found…": "No Cores Found…",
     "This is where you can assign a core or external emulator to content": "Burası içeriğe bir çekirdek veya harici emülatör atayabileceğiniz yerdir"
