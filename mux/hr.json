@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "PREUZIMANJE JEZGRI",
     "Downloading Archive": "Preuzimanje arhive",
     "Downloading Data": "Preuzimanje podataka",
-    "Error Retrieving Data": "Greška pri dohvaćanju podataka",
-    "Refresh": "Osvježi"
+    "Error Retrieving Data": "Greška pri dohvaćanju podataka"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Konfiguriraj CPU upravljače za dinamično podešavanje frekvencije i balansiranje potrošnje i performansi",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "Greška pri dohvaćanju jezičnih podataka",
     "LANGUAGE": "JEZIK",
     "No Languages Found…": "Nema dostupnih jezika…",
-    "Refresh": "Osvježi",
     "Saving Language": "Spremanje jezika",
     "Select your preferred language": "Odaberi željeni jezik"
   },
@@ -717,9 +715,7 @@
     "Could not load content": "Učitavanje sadržaja nije uspjelo",
     "EXPLORE": "ISTRAŽI",
     "Folders cannot be added to collections": "Mape se ne mogu dodavati u kolekcije",
-    "No Content Found…": "Nema pronađenog sadržaja…",
-    "Refresh": "Osvježi",
-    "Refreshing…": "Osvježavanje…"
+    "No Content Found…": "Nema pronađenog sadržaja…"
   },
   "muxpower": {
     "10m": "10 min",
@@ -840,8 +836,6 @@
     "Device Type": "Vrsta uređaja",
     "Linux Kernel": "Linux kernel",
     "Memory Cache Dropped": "Oslobođeni memorijski cache",
-    "Refresh Frontend": "Osvježi sučelje",
-    "Refresh the current frontend configuration values if changed elsewhere": "Osvježi vrijednosti konfiguracije sučelja ako su promijenjene drugdje",
     "SYSTEM DETAILS": "DETALJI SUSTAVA",
     "System Memory": "Sistemska memorija",
     "System Uptime": "Vrijeme rada sustava",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "Preuzimanje pregleda tema",
     "Error Retrieving Theme Data": "Greška pri dohvaćanju podataka teme",
     "No Content Found…": "Nema pronađenog sadržaja…",
-    "Refresh": "Osvježi",
-    "Refreshing…": "Osvježavanje…",
     "Remove": "Ukloni",
     "THEME DOWNLOAD": "PREUZIMANJE TEMA",
     "Theme Extraction In Process": "Theme Extraction In Process",

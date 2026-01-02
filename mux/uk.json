@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "CORE DOWNLOADER",
     "Downloading Archive": "Downloading Archive",
     "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "Error Retrieving Data": "Error Retrieving Data"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Налаштувати CPU менеджер, щоб динамічно керувати частотою процесора зберігаючи баланс між споживанням енергії та швидкодією",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "МОВА",
     "No Languages Found…": "Не знайдено жодної мови…",
-    "Refresh": "Refresh",
     "Saving Language": "Збереження Мови",
     "Select your preferred language": "Оберіть бажану мову"
   },
@@ -717,9 +715,7 @@
     "Could not load content": "Неможливо завантажити контент",
     "EXPLORE": "ПЕРЕГЛЯНУТИ",
     "Folders cannot be added to collections": "Папки не можуть бути додані до колекцій",
-    "No Content Found…": "Вмісту не знайдено…",
-    "Refresh": "Оновити",
-    "Refreshing…": "Оновлення…"
+    "No Content Found…": "Вмісту не знайдено…"
   },
   "muxpower": {
     "10m": "10хв",
@@ -840,8 +836,6 @@
     "Device Type": "Тип Пристрою",
     "Linux Kernel": "Ядро Linux",
     "Memory Cache Dropped": "Memory Cache Dropped",
-    "Refresh Frontend": "Refresh Frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
     "SYSTEM DETAILS": "СИСТЕМНІ ДЕТАЛІ",
     "System Memory": "System Memory",
     "System Uptime": "Час Роботи Системи",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "Downloading Theme Previews",
     "Error Retrieving Theme Data": "Error Retrieving Theme Data",
     "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
     "Remove": "Remove",
     "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Extraction In Process": "Theme Extraction In Process",

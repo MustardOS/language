@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "코어 다운로더",
     "Downloading Archive": "아카이브 다운로드중",
     "Downloading Data": "데이터 다운로드중",
-    "Error Retrieving Data": "데이터 조회 오류",
-    "Refresh": "새로고침"
+    "Error Retrieving Data": "데이터 조회 오류"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU 주파수를 동적으로 조정하고 전력 소비와 성능의 균형을 유지하도록 CPU 거버너를 구성",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "언어 데이터 조회 오류",
     "LANGUAGE": "언어",
     "No Languages Found…": "언어 설정 없음…",
-    "Refresh": "새로고침",
     "Saving Language": "언어 저장중",
     "Select your preferred language": "선호하는 언어를 선택"
   },
@@ -717,9 +715,7 @@
     "Could not load content": "콘텐츠를 불러 올수 없음",
     "EXPLORE": "탐색",
     "Folders cannot be added to collections": "컬렉션에 폴더를 추가할 수 없음",
-    "No Content Found…": "콘텐츠가 없음…",
-    "Refresh": "새로고침",
-    "Refreshing…": "새로 고침중…"
+    "No Content Found…": "콘텐츠가 없음…"
   },
   "muxpower": {
     "10m": "10분",
@@ -840,8 +836,6 @@
     "Device Type": "장치 유형",
     "Linux Kernel": "리눅스 커널",
     "Memory Cache Dropped": "메모리 캐시 삭제됨",
-    "Refresh Frontend": "프런트엔드 새로고침",
-    "Refresh the current frontend configuration values if changed elsewhere": "다른 곳에서 변경된 경우 현재 프런트엔드 구성 값을 새로 고침",
     "SYSTEM DETAILS": "시스템 상세정보",
     "System Memory": "시스템 메모리",
     "System Uptime": "시스템 업타임",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "테마 프리뷰 다운로드중",
     "Error Retrieving Theme Data": "테마 데이터 조회 오류",
     "No Content Found…": "콘텐츠가 없음…",
-    "Refresh": "새로고침",
-    "Refreshing…": "새로 고침중…",
     "Remove": "제거",
     "THEME DOWNLOAD": "테마 다운로드",
     "Theme Extraction In Process": "Theme Extraction In Process",

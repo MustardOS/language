@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "DESCARGADOR DE NÚCLEOS",
     "Downloading Archive": "Descargando archivo",
     "Downloading Data": "Descargando datos",
-    "Error Retrieving Data": "Error al recuperar datos",
-    "Refresh": "Actualizar"
+    "Error Retrieving Data": "Error al recuperar datos"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configura los gobernadores de la CPU para ajustar dinámicamente la frecuencia de la CPU y ayudar a equilibrar el consumo de energía y el rendimiento",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "Error al recuperar los datos del idioma",
     "LANGUAGE": "IDIOMA",
     "No Languages Found…": "No se encontraron idiomas…",
-    "Refresh": "Actualizar",
     "Saving Language": "Guardando idioma",
     "Select your preferred language": "Selecciona tu idioma preferido"
   },
@@ -717,9 +715,7 @@
     "Could not load content": "No se pudo cargar el contenido",
     "EXPLORE": "EXPLORAR",
     "Folders cannot be added to collections": "No se pueden agregar carpetas a las colecciones",
-    "No Content Found…": "No se encontró contenido…",
-    "Refresh": "Actualizar",
-    "Refreshing…": "Actualizando…"
+    "No Content Found…": "No se encontró contenido…"
   },
   "muxpower": {
     "10m": "10 min",
@@ -840,8 +836,6 @@
     "Device Type": "Tipo de dispositivo",
     "Linux Kernel": "Núcleo de Linux",
     "Memory Cache Dropped": "Memoria caché eliminada",
-    "Refresh Frontend": "Actualizar interfaz",
-    "Refresh the current frontend configuration values if changed elsewhere": "Actualiza los valores actuales de configuración del interfaz si se han modificado en otro lugar",
     "SYSTEM DETAILS": "DETALLES DEL SISTEMA",
     "System Memory": "Memoria del sistema",
     "System Uptime": "Tiempo de actividad del sistema",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "Descargando vistas previas de temas",
     "Error Retrieving Theme Data": "Error al recuperar los datos de tema",
     "No Content Found…": "No se encontró contenido…",
-    "Refresh": "Actualizar",
-    "Refreshing…": "Actualizando…",
     "Remove": "Eliminar",
     "THEME DOWNLOAD": "DESCARGA DE TEMAS",
     "Theme Extraction In Process": "Extracción de temas en proceso",

@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "ÍOSLÓDÁLAÍ CROÍ",
     "Downloading Archive": "Cartlann á híoslódáil",
     "Downloading Data": "Sonraí á nÍoslódáil",
-    "Error Retrieving Data": "Earráid ag Aisghabháil Sonraí",
-    "Refresh": "Athnuachan"
+    "Error Retrieving Data": "Earráid ag Aisghabháil Sonraí"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Cumraigh gobharnóirí LAP chun minicíocht an LAP a choigeartú go dinimiciúil agus cabhrú le tomhaltas agus feidhmíocht cumhachta a chothromú",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "Earráid agus Sonraí Teanga á nAisghabháil",
     "LANGUAGE": "TEANGA",
     "No Languages Found…": "Níor aimsíodh aon teanga…",
-    "Refresh": "Athnuachan",
     "Saving Language": "Teanga a Shábháil",
     "Select your preferred language": "Roghnaigh an teanga is fearr leat"
   },
@@ -717,9 +715,7 @@
     "Could not load content": "Níorbh fhéidir an t-ábhar a lódáil",
     "EXPLORE": "DÉAN INIÚCHADH",
     "Folders cannot be added to collections": "Ní féidir fillteáin a chur le bailiúcháin",
-    "No Content Found…": "Níor aimsíodh aon ábhar…",
-    "Refresh": "Athnuaigh",
-    "Refreshing…": "Á athnuachan…"
+    "No Content Found…": "Níor aimsíodh aon ábhar…"
   },
   "muxpower": {
     "10m": "10m",
@@ -840,8 +836,6 @@
     "Device Type": "Cineál Gléis",
     "Linux Kernel": "Eithne Linux",
     "Memory Cache Dropped": "Thit Taisce Cuimhne",
-    "Refresh Frontend": "Athnuachan an Tosach",
-    "Refresh the current frontend configuration values if changed elsewhere": "Athnuaigh luachanna cumraíochta reatha an tosaigh má athraíodh iad in áit eile",
     "SYSTEM DETAILS": "SONRAÍ AN CHÓRAIS",
     "System Memory": "Cuimhne Chórais",
     "System Uptime": "Aga fónaimh an chórais",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "Réamhamhairc Téamaí á nÍoslódáil",
     "Error Retrieving Theme Data": "Earráid agus Sonraí Téama á nAisghabháil",
     "No Content Found…": "Níor aimsíodh aon ábhar…",
-    "Refresh": "Athnuachan",
-    "Refreshing…": "Ag athnuachan…",
     "Remove": "Bain",
     "THEME DOWNLOAD": "ÍOSLÓDÁIL TÉAMA",
     "Theme Extraction In Process": "Eastóscadh Téama ar siúl",

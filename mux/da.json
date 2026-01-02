@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "KERNE-HENTER",
     "Downloading Archive": "Henter arkiv",
     "Downloading Data": "Henter data",
-    "Error Retrieving Data": "Fejl ved hentning af data",
-    "Refresh": "Opdater"
+    "Error Retrieving Data": "Fejl ved hentning af data"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Konfigurer CPU-regulatorer til dynamisk at justere CPU-frekvensen og hjælpe med at afbalancere strømforbrug og ydeevne",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "Fejl ved hentning af sprogdata",
     "LANGUAGE": "SPROG",
     "No Languages Found…": "Ingen sprog fundet…",
-    "Refresh": "Opdater",
     "Saving Language": "Gemmer sprog",
     "Select your preferred language": "Vælg dit foretrukne sprog"
   },
@@ -717,9 +715,7 @@
     "Could not load content": "Kunne ikke indlæse indhold",
     "EXPLORE": "GENNEMSE",
     "Folders cannot be added to collections": "Foldere kan ikke tilføjes til samlinger",
-    "No Content Found…": "Intet indhold fundet…",
-    "Refresh": "Opdater",
-    "Refreshing…": "Opdaterer…"
+    "No Content Found…": "Intet indhold fundet…"
   },
   "muxpower": {
     "10m": "10m",
@@ -840,8 +836,6 @@
     "Device Type": "Enhedstype",
     "Linux Kernel": "Linux-kernen",
     "Memory Cache Dropped": "Hukommelsescache tabt",
-    "Refresh Frontend": "Opdater brugerflade",
-    "Refresh the current frontend configuration values if changed elsewhere": "Opdater de aktuelle brugerflade-konfigurationsværdier, hvis de er ændret et andet sted",
     "SYSTEM DETAILS": "SYSTEMDETALJER",
     "System Memory": "Systemhukommelse",
     "System Uptime": "Systemoppetid",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "Henter temaforhåndsvisninger",
     "Error Retrieving Theme Data": "Fejl ved hentning af temadata",
     "No Content Found…": "Intet indhold fundet…",
-    "Refresh": "Opdater",
-    "Refreshing…": "Opdaterer…",
     "Remove": "Slet",
     "THEME DOWNLOAD": "TEMA HENTNING",
     "Theme Extraction In Process": "Temaudtrækning i gang",

@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "CORE DOWNLOADER",
     "Downloading Archive": "Downloading Archive",
     "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "Error Retrieving Data": "Error Retrieving Data"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU周波数を動的に管理し、消費電力と処理能力を調節するガバナーを設定します",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "言語",
     "No Languages Found…": "言語が見つかりませんでした…",
-    "Refresh": "Refresh",
     "Saving Language": "言語を設定しています",
     "Select your preferred language": "使用する言語を設定します"
   },
@@ -717,9 +715,7 @@
     "Could not load content": "コンテンツを読み込めませんでした",
     "EXPLORE": "コンテンツ一覧",
     "Folders cannot be added to collections": "フォルダはコレクションに追加できません",
-    "No Content Found…": "コンテンツが見つかりませんでした…",
-    "Refresh": "再読み込み",
-    "Refreshing…": "更新中…"
+    "No Content Found…": "コンテンツが見つかりませんでした…"
   },
   "muxpower": {
     "10m": "10分",
@@ -840,8 +836,6 @@
     "Device Type": "機種",
     "Linux Kernel": "Linux カーネル",
     "Memory Cache Dropped": "削除されたメモリキャッシュ",
-    "Refresh Frontend": "Refresh Frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
     "SYSTEM DETAILS": "システム詳細",
     "System Memory": "システムメモリ",
     "System Uptime": "システム稼働期間",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "Downloading Theme Previews",
     "Error Retrieving Theme Data": "Error Retrieving Theme Data",
     "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
     "Remove": "Remove",
     "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Extraction In Process": "Theme Extraction In Process",

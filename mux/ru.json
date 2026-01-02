@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "ЗАГРУЗЧИК ЯДРА",
     "Downloading Archive": "Загрузка архива",
     "Downloading Data": "Загрузка данных",
-    "Error Retrieving Data": "Ошибка извлечения данных",
-    "Refresh": "Обновить"
+    "Error Retrieving Data": "Ошибка извлечения данных"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Настройка регулятор ЦП для динамической регулировки частоты ЦП и обеспечения сбалансированного энергопотребления и производительности",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "Ошибка получения языковых данных",
     "LANGUAGE": "ЯЗЫК",
     "No Languages Found…": "Языки не найдены…",
-    "Refresh": "Обновить",
     "Saving Language": "Сохранение языка",
     "Select your preferred language": "Выберите язык"
   },
@@ -717,9 +715,7 @@
     "Could not load content": "Невозможно загрузить игру",
     "EXPLORE": "БИБЛИОТЕКА",
     "Folders cannot be added to collections": "Папки не могут быть добавлены в коллекции",
-    "No Content Found…": "Игры не найдены…",
-    "Refresh": "Обновить",
-    "Refreshing…": "Обновление…"
+    "No Content Found…": "Игры не найдены…"
   },
   "muxpower": {
     "10m": "10 мин",
@@ -840,8 +836,6 @@
     "Device Type": "Тип устройства",
     "Linux Kernel": "Ядро Linux",
     "Memory Cache Dropped": "Очистка кэша",
-    "Refresh Frontend": "Обновить интерфейс",
-    "Refresh the current frontend configuration values if changed elsewhere": "Обновление текущих настроек интерфейса, если они изменены",
     "SYSTEM DETAILS": "СИСТЕМНАЯ ИНФОРМАЦИЯ",
     "System Memory": "Системная память",
     "System Uptime": "Время работы системы",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "Загрузка превью",
     "Error Retrieving Theme Data": "Ошибка извлечения данных темы",
     "No Content Found…": "Игр не найдено…",
-    "Refresh": "Обновить",
-    "Refreshing…": "Обновление…",
     "Remove": "Удалить",
     "THEME DOWNLOAD": "ЗАГРУЗКА ТЕМ",
     "Theme Extraction In Process": "Theme Extraction In Process",

@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "TÉLÉCHARGEUR DES ÉMULATEURS",
     "Downloading Archive": "Chargement des archives",
     "Downloading Data": "Chargement des données",
-    "Error Retrieving Data": "Erreur de récupération des données des archives",
-    "Refresh": "Actualiser"
+    "Error Retrieving Data": "Erreur de récupération des données des archives"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configurez les gouverneurs du processeur pour ajuster dynamiquement la fréquence du processeur et aider à équilibrer la consommation d'énergie et les performances",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "Erreur lors de la récupération des données des langues",
     "LANGUAGE": "LANGUE",
     "No Languages Found…": "Aucune langue trouvée…",
-    "Refresh": "Actualiser",
     "Saving Language": "Sauvegarde de la langue",
     "Select your preferred language": "Sélectionnez votre langue préférée"
   },
@@ -717,9 +715,7 @@
     "Could not load content": "Impossible de charger le jeu",
     "EXPLORE": "CONTENU",
     "Folders cannot be added to collections": "Les dossiers ne peuvent pas être ajoutés aux collections",
-    "No Content Found…": "Aucun contenu trouvé…",
-    "Refresh": "Rafraîchir",
-    "Refreshing…": "Rafraîchissement en cours…"
+    "No Content Found…": "Aucun contenu trouvé…"
   },
   "muxpower": {
     "10m": "10m",
@@ -840,8 +836,6 @@
     "Device Type": "Type de console",
     "Linux Kernel": "Noyau Linux",
     "Memory Cache Dropped": "Cache mémoire supprimé",
-    "Refresh Frontend": "Actualiser le frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Actualiser les valeurs de configuration actuelles du frontend si elles ont été modifiées ailleurs",
     "SYSTEM DETAILS": "DÉTAILS DU SYSTÈME",
     "System Memory": "Mémoire système",
     "System Uptime": "Durée de fonctionnement",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "Chargement des aperçus",
     "Error Retrieving Theme Data": "Erreur de récupération des données des thèmes",
     "No Content Found…": "Pas de contenu trouvé…",
-    "Refresh": "Actualiser",
-    "Refreshing…": "Actualisation…",
     "Remove": "Supprimer",
     "THEME DOWNLOAD": "TÉLÉCHARGEMENT DES THÈMES",
     "Theme Extraction In Process": "Theme Extraction In Process",

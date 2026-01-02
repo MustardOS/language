@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "CORE DOWNLOADER",
     "Downloading Archive": "Downloading Archive",
     "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "Error Retrieving Data": "Error Retrieving Data"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configurează guvernatorii CPU pentru a ajusta dinamic frecvența procesorului și a ajuta la echilibrarea consumului de energie și a performanței",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "LIMBĂ",
     "No Languages Found…": "Nicio limbă găsită…",
-    "Refresh": "Refresh",
     "Saving Language": "Se salvează limba",
     "Select your preferred language": "Selectează limba preferată"
   },
@@ -717,9 +715,7 @@
     "Could not load content": "Nu s-a putut încărca conținutul",
     "EXPLORE": "EXPLORARE",
     "Folders cannot be added to collections": "Folderele nu pot fi adăugate în colecții",
-    "No Content Found…": "Niciun conținut găsit…",
-    "Refresh": "Reîmprospătează",
-    "Refreshing…": "Se reîmprospătează…"
+    "No Content Found…": "Niciun conținut găsit…"
   },
   "muxpower": {
     "10m": "10m",
@@ -840,8 +836,6 @@
     "Device Type": "Tip Dispozitiv",
     "Linux Kernel": "Kernel Linux",
     "Memory Cache Dropped": "Cache Memorie Eliberată",
-    "Refresh Frontend": "Refresh Frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
     "SYSTEM DETAILS": "DETALII SISTEM",
     "System Memory": "Memorie Sistem",
     "System Uptime": "Timp de Funcționare al Sistemului",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "Downloading Theme Previews",
     "Error Retrieving Theme Data": "Error Retrieving Theme Data",
     "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
     "Remove": "Remove",
     "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Extraction In Process": "Theme Extraction In Process",

@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "CORE DOWNLOADER",
     "Downloading Archive": "Downloading Archive",
     "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "Error Retrieving Data": "Error Retrieving Data"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Konfigurera CPU-reglerare för att dynamiskt justera CPU-frekvensen och hjälpa till att balansera strömförbrukning och prestanda.",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "LANGUAGE",
     "No Languages Found…": "No Languages Found…",
-    "Refresh": "Refresh",
     "Saving Language": "Sparar språk",
     "Select your preferred language": "Välj ditt föredragna språk."
   },
@@ -717,9 +715,7 @@
     "Could not load content": "Could not load content",
     "EXPLORE": "UTFORSKA",
     "Folders cannot be added to collections": "Folders cannot be added to collections",
-    "No Content Found…": "No Content Found…",
-    "Refresh": "Uppdatera",
-    "Refreshing…": "Refreshing…"
+    "No Content Found…": "No Content Found…"
   },
   "muxpower": {
     "10m": "10m",
@@ -840,8 +836,6 @@
     "Device Type": "Enhetstyp",
     "Linux Kernel": "Linux-kärna",
     "Memory Cache Dropped": "Memory Cache Dropped",
-    "Refresh Frontend": "Refresh Frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
     "SYSTEM DETAILS": "SYSTEMDETALJER",
     "System Memory": "System Memory",
     "System Uptime": "Systemdrifttid",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "Downloading Theme Previews",
     "Error Retrieving Theme Data": "Error Retrieving Theme Data",
     "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
     "Remove": "Remove",
     "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Extraction In Process": "Theme Extraction In Process",

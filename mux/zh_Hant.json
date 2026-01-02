@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "核心下載器",
     "Downloading Archive": "正在下載封裝檔",
     "Downloading Data": "正在下載數據",
-    "Error Retrieving Data": "檢索數據時發生錯誤",
-    "Refresh": "刷新"
+    "Error Retrieving Data": "檢索數據時發生錯誤"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "配置CPU調速器，動態調整CPU頻率，幫助平衡功耗與效能",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "檢索語言數據時出錯",
     "LANGUAGE": "語言",
     "No Languages Found…": "找不到語言…",
-    "Refresh": "刷新",
     "Saving Language": "儲存語言設定",
     "Select your preferred language": "選擇您偏好的語言"
   },
@@ -717,9 +715,7 @@
     "Could not load content": "無法載入內容",
     "EXPLORE": "瀏覽",
     "Folders cannot be added to collections": "無法將資料夾新增至收藏中",
-    "No Content Found…": "找不到內容…",
-    "Refresh": "刷新",
-    "Refreshing…": "刷新中…"
+    "No Content Found…": "找不到內容…"
   },
   "muxpower": {
     "10m": "10分鐘",
@@ -840,8 +836,6 @@
     "Device Type": "裝置類型",
     "Linux Kernel": "Linux核心",
     "Memory Cache Dropped": "記憶體快取已清除",
-    "Refresh Frontend": "刷新前端",
-    "Refresh the current frontend configuration values if changed elsewhere": "如果其他地方發生更改，請刷新目前前端配置值",
     "SYSTEM DETAILS": "系統詳情",
     "System Memory": "系統記憶體",
     "System Uptime": "系統運作時間",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "正在下載主題預覽",
     "Error Retrieving Theme Data": "檢索主題數據時出錯",
     "No Content Found…": "找不到內容…",
-    "Refresh": "刷新",
-    "Refreshing…": "刷新中…",
     "Remove": "移除",
     "THEME DOWNLOAD": "主題下載",
     "Theme Extraction In Process": "主題擷取進行中",

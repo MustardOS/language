@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "POBIERANIE RDZENI",
     "Downloading Archive": "Pobieranie archiwum",
     "Downloading Data": "Pobieranie danych",
-    "Error Retrieving Data": "Błąd pobierania danych",
-    "Refresh": "Odśwież"
+    "Error Retrieving Data": "Błąd pobierania danych"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Skonfiguruj regulatory CPU, aby dynamicznie dostosować częstotliwość CPU i pomóc zrównoważyć zużycie energii i wydajność",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "Błąd pobierania danych języka",
     "LANGUAGE": "JĘZYK",
     "No Languages Found…": "Nie znaleziono języków…",
-    "Refresh": "Odśwież",
     "Saving Language": "Zapisywanie języka",
     "Select your preferred language": "Wybierz swój preferowany język"
   },
@@ -717,9 +715,7 @@
     "Could not load content": "Nie można załadować zawartości",
     "EXPLORE": "PRZEGLĄDAJ",
     "Folders cannot be added to collections": "Nie można dodać folderów do kolekcji",
-    "No Content Found…": "Nie znaleziono zawartości…",
-    "Refresh": "Odśwież",
-    "Refreshing…": "Odświeżanie…"
+    "No Content Found…": "Nie znaleziono zawartości…"
   },
   "muxpower": {
     "10m": "10m",
@@ -840,8 +836,6 @@
     "Device Type": "Typ urządzenia",
     "Linux Kernel": "Jądro Linuksa",
     "Memory Cache Dropped": "Wyczyszczono pamięć podręczną",
-    "Refresh Frontend": "Odśwież frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Odśwież bieżącą konfigurację frontendu, jeśli została zmieniona",
     "SYSTEM DETAILS": "SZCZEGÓŁY SYSTEMU",
     "System Memory": "Pamięć systemowa",
     "System Uptime": "Czas działania systemu",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "Pobieranie podglądów motywów",
     "Error Retrieving Theme Data": "Błąd pobierania danych motywu",
     "No Content Found…": "Nie znaleziono zawartości…",
-    "Refresh": "Odśwież",
-    "Refreshing…": "Odświeżanie…",
     "Remove": "Usuń",
     "THEME DOWNLOAD": "POBIERANIE MOTYWÓW",
     "Theme Extraction In Process": "Wyodrębnianie motywu w toku",

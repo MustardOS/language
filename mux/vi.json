@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "TẢI CORE",
     "Downloading Archive": "Kho lưu trữ Tải xuống",
     "Downloading Data": "Đang tải Dữ liệu",
-    "Error Retrieving Data": "Gặp lỗi khi nhận dữ liệu",
-    "Refresh": "Làm mới"
+    "Error Retrieving Data": "Gặp lỗi khi nhận dữ liệu"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Cài đặt bộ hiệu chỉnh CPU để điều chỉnh xung nhịp CPU một cách linh hoạt giúp cân bằng hiệu năng và điện tiêu thụ",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "Lỗi khi tải xuống dữ liệu ngôn ngữ",
     "LANGUAGE": "NGÔN NGỮ",
     "No Languages Found…": "Không có Ngôn ngữ nào được tìm thấy…",
-    "Refresh": "Làm mới",
     "Saving Language": "Đang lưu cài đặt ngôn ngữ",
     "Select your preferred language": "Lựa chọn ngôn ngữ mong muốn"
   },
@@ -717,9 +715,7 @@
     "Could not load content": "Không thể nạp được nội dung",
     "EXPLORE": "KHÁM PHÁ",
     "Folders cannot be added to collections": "Thư mục không thể được thêm vào bộ sưu tập",
-    "No Content Found…": "Không có nội dung nào được tìm thấy…",
-    "Refresh": "Làm mới",
-    "Refreshing…": "Đang làm mới…"
+    "No Content Found…": "Không có nội dung nào được tìm thấy…"
   },
   "muxpower": {
     "10m": "10p",
@@ -840,8 +836,6 @@
     "Device Type": "Kiểu Thiết Bị",
     "Linux Kernel": "Nhân Linux",
     "Memory Cache Dropped": "Giải phóng Bộ Nhớ Đệm",
-    "Refresh Frontend": "Làm mới giao diện",
-    "Refresh the current frontend configuration values if changed elsewhere": "Làm mới giá trị tùy chỉnh giao hiện tại nếu bị thay đổi ở đâu đó",
     "SYSTEM DETAILS": "CHI TIẾT HỆ THỐNG",
     "System Memory": "Dung lượng RAM hệ thống",
     "System Uptime": "Thời gian hoạt động",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "Đang tải xuống Xem trước Chủ đề",
     "Error Retrieving Theme Data": "Lỗi khi tiếp nhận dữ liệu chủ đề",
     "No Content Found…": "Không có nội dung được tìm thấy…",
-    "Refresh": "Làm mới",
-    "Refreshing…": "Đang làm mới…",
     "Remove": "Xóa",
     "THEME DOWNLOAD": "TẢI XUỐNG CHỦ ĐỀ",
     "Theme Extraction In Process": "Theme Extraction In Process",

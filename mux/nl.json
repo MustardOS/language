@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "CORE DOWNLOADER",
     "Downloading Archive": "Downloading Archive",
     "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "Error Retrieving Data": "Error Retrieving Data"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU-governors configureren om de CPU-frequentie dynamisch aan te passen en energieverbruik en prestaties op elkaar af te stemmen",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "TAAL",
     "No Languages Found…": "Geen talen gevonden…",
-    "Refresh": "Refresh",
     "Saving Language": "Taal opslaan",
     "Select your preferred language": "Selecteer de gewenste taal"
   },
@@ -717,9 +715,7 @@
     "Could not load content": "Fout bij het laden van inhoud",
     "EXPLORE": "VERKENNEN",
     "Folders cannot be added to collections": "Mappen kunnen niet aan collecties toegevoegd worden",
-    "No Content Found…": "Geen inhoud gevonden…",
-    "Refresh": "Verversen",
-    "Refreshing…": "Verversen…"
+    "No Content Found…": "Geen inhoud gevonden…"
   },
   "muxpower": {
     "10m": "10m",
@@ -840,8 +836,6 @@
     "Device Type": "Apparaat Type",
     "Linux Kernel": "Linux-kernel",
     "Memory Cache Dropped": "Geheugencache vervallen",
-    "Refresh Frontend": "Refresh Frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
     "SYSTEM DETAILS": "SYSTEEMDETAILS",
     "System Memory": "Systeemgeheugen",
     "System Uptime": "Bedrijfstijd",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "Downloading Theme Previews",
     "Error Retrieving Theme Data": "Error Retrieving Theme Data",
     "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
     "Remove": "Remove",
     "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Extraction In Process": "Theme Extraction In Process",

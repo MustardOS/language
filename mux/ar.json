@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "CORE DOWNLOADER",
     "Downloading Archive": "Downloading Archive",
     "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "Error Retrieving Data": "Error Retrieving Data"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "ضبط منظم وحدة المعالجة المركزية لتعديل التردد بشكل ديناميكي والمساعدة في موازنة استهلاك الطاقة والأداء",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "اللغة",
     "No Languages Found…": "لم يتم العثور على لغات…",
-    "Refresh": "Refresh",
     "Saving Language": "جاري حفظ اللغة",
     "Select your preferred language": "اختر اللغة المفضلة"
   },
@@ -717,9 +715,7 @@
     "Could not load content": "لم يمكن تحميل المحتوى",
     "EXPLORE": "تصفح",
     "Folders cannot be added to collections": "لا يمكن إضافة المجلدات إلى المجموعات",
-    "No Content Found…": "لم يتم العثور على أي محتوى…",
-    "Refresh": "حدث",
-    "Refreshing…": "تحديث…"
+    "No Content Found…": "لم يتم العثور على أي محتوى…"
   },
   "muxpower": {
     "10m": "10 دقائق",
@@ -840,8 +836,6 @@
     "Device Type": "نوع الجهاز",
     "Linux Kernel": "نواة لينكس",
     "Memory Cache Dropped": "تم تفريغ ذاكرة التخزين المؤقت",
-    "Refresh Frontend": "Refresh Frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
     "SYSTEM DETAILS": "تفاصيل النظام",
     "System Memory": "ذاكرة النظام",
     "System Uptime": "وقت التشغيل النظام",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "Downloading Theme Previews",
     "Error Retrieving Theme Data": "Error Retrieving Theme Data",
     "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
     "Remove": "Remove",
     "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Extraction In Process": "Theme Extraction In Process",

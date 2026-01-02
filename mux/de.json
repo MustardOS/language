@@ -398,8 +398,7 @@
     "CORE DOWNLOADER": "CORE DOWNLOADER",
     "Downloading Archive": "Archiv wird heruntergeladen",
     "Downloading Data": "Daten werden heruntergeladen",
-    "Error Retrieving Data": "Fehler beim Abrufen der Daten",
-    "Refresh": "Aktualisieren"
+    "Error Retrieving Data": "Fehler beim Abrufen der Daten"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU Governor konfigurieren, um die CPU-Frequenz dynamisch anzupassen und ein Gleichgewicht zwischen Stromverbrauch und Leistung herzustellen",
@@ -551,7 +550,6 @@
     "Error Retrieving Language Data": "Fehler beim Abrufen der Sprachdaten",
     "LANGUAGE": "SPRACHE",
     "No Languages Found…": "Keine Sprachen gefunden…",
-    "Refresh": "Aktualisieren",
     "Saving Language": "Sprache wird gespeichert",
     "Select your preferred language": "Bevorzugte Sprache auswählen"
   },
@@ -717,9 +715,7 @@
     "Could not load content": "Medium konnte nicht geladen werden",
     "EXPLORE": "DURCHSUCHEN",
     "Folders cannot be added to collections": "Ordner können zu der Bibliothek hinzugefügt werden",
-    "No Content Found…": "Keine Medien vorhanden…",
-    "Refresh": "Aktualisieren",
-    "Refreshing…": "Wird aktualisiert…"
+    "No Content Found…": "Keine Medien vorhanden…"
   },
   "muxpower": {
     "10m": "10m",
@@ -840,8 +836,6 @@
     "Device Type": "Gerätemodell",
     "Linux Kernel": "Linux Kernel",
     "Memory Cache Dropped": "Speichercache bereinigt",
-    "Refresh Frontend": "Frontend aktualisieren",
-    "Refresh the current frontend configuration values if changed elsewhere": "Aktualisiere die aktuelle Frontend-Konfiguration, wenn sie an anderer Stelle geändert wurden",
     "SYSTEM DETAILS": "SYSTEMINFORMATIONEN",
     "System Memory": "Arbeitsspeicher",
     "System Uptime": "Betriebszeit",
@@ -882,8 +876,6 @@
     "Downloading Theme Previews": "Lade Skin-Vorschauen herunter",
     "Error Retrieving Theme Data": "Fehler beim Abrufen der Skin-Daten",
     "No Content Found…": "Kein Medium gefunden…",
-    "Refresh": "Aktualisieren",
-    "Refreshing…": "Aktualisiere…",
     "Remove": "Entfernen",
     "THEME DOWNLOAD": "SKIN DOWNLOAD",
     "Theme Extraction In Process": "Skinextrahierung im gange",
