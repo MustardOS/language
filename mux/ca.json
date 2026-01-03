@@ -744,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Configura el temps d'espera per a que la pantalla s'enfosqueixi en no prémer cap tecla",
     "Configure when the red LED will display based on the current capacity percentage": "Configura l'encesa del LED vermell segons el percentatge de bateria actual",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "El temps d’inactivitat de la pantalla ha de ser menor que el de l’inactivitat del sistema",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Temps d'inactivitat per enfosquir pantalla",
@@ -763,7 +764,8 @@
     "Sleep 60s + Shutdown": "Suspensió 60s + Apagat",
     "Sleep Function": "Funció de suspensió",
     "Sleep Until Wake": "Suspendre fins la reactivació",
-    "Toggle if the audio is muted when display is dimmed": "Activa o desactiva l'àudio quan la pantalla està atenuada"
+    "Toggle if the audio is muted when display is dimmed": "Activa o desactiva l'àudio quan la pantalla està atenuada",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 hores",
