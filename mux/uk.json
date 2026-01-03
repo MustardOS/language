@@ -744,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Налаштувати час після якого екран буде затемнено, якщо жодна з кнопок не натискалася",
     "Configure when the red LED will display based on the current capacity percentage": "Налаштувати коли LED-індикатор відображатиметься червоним у залежності від поточного рівня заряду у відсотках",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Неактивність. Вимикати Дисплей через",
@@ -763,7 +764,8 @@
     "Sleep 60s + Shutdown": "Сон 60с + Вимкнення",
     "Sleep Function": "Функція Сну",
     "Sleep Until Wake": "Sleep Until Wake",
-    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed"
+    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 Годин",
