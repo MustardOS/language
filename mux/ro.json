@@ -744,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Configurează timpul în care ecranul se va estompa când nu este detectată nicio activitate",
     "Configure when the red LED will display based on the current capacity percentage": "Configurează momentul în care LED-ul roșu se va aprinde în funcție de procentul de capacitate curent",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Timp de expirare afișaj inactiv",
@@ -763,7 +764,8 @@
     "Sleep 60s + Shutdown": "Repaus 60s + Oprire",
     "Sleep Function": "Funcție Repaus",
     "Sleep Until Wake": "Repaus până la activare",
-    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed"
+    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 Ore",
