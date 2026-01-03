@@ -744,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Настройка времени, в течение которого при отсутствии нажатий на клавиши экран будет затемняться",
     "Configure when the red LED will display based on the current capacity percentage": "При каком проценте заряда будет загораться красный светодиод",
     "Default Governor": "Стандартный регулятор",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Затемнение экрана должно происходить раньше чем переход в режим сна",
     "Idle Governor": "Регулятор в режиме ожидания",
     "Idle Input Display Timeout": "Затемнение экрана через",
@@ -763,7 +764,8 @@
     "Sleep 60s + Shutdown": "Сон 60 сек + Выкл",
     "Sleep Function": "Функция сна",
     "Sleep Until Wake": "Сон до пробуждения",
-    "Toggle if the audio is muted when display is dimmed": "Выключение звука при затухании экрана"
+    "Toggle if the audio is muted when display is dimmed": "Выключение звука при затухании экрана",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12-часовой",
