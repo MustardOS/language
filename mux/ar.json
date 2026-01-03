@@ -744,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "ضبط الوقت الذي ستصبح فيه الشاشة خافتة بعد عدم اكتشاف أي إدخال",
     "Configure when the red LED will display based on the current capacity percentage": "ضبط وقت عرض مؤشر LED الأحمر استنادًا إلى النسبة المئوية لسعة البطارية",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "مهلة إيقاف الشاشة عند الإدخال الخامل",
@@ -763,7 +764,8 @@
     "Sleep 60s + Shutdown": "السكون ل 60 ثانية + إيقاف التشغيل",
     "Sleep Function": "وظيفة السكون",
     "Sleep Until Wake": "السكون حتى الاستيقاظ",
-    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed"
+    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "بصيغة 12 ساعة",
