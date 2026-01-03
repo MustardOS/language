@@ -744,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Odredi nakon kojeg vremena se zatamnjuje ekran kada nema unosa",
     "Configure when the red LED will display based on the current capacity percentage": "Odredi kada će crveni LED svijetliti ovisno o postotku baterije",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Vrijeme zatamnjenja ekrana mora biti kraće od vremena mirovanja",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Vrijeme do zatamnjenja ekrana",
@@ -763,7 +764,8 @@
     "Sleep 60s + Shutdown": "Mirovanje 60 sek + gašenje",
     "Sleep Function": "Način mirovanja",
     "Sleep Until Wake": "Mirovanje do buđenja",
-    "Toggle if the audio is muted when display is dimmed": "Uključi/isključi automatsko utišavanje zvuka pri zatamnjenju ekrana"
+    "Toggle if the audio is muted when display is dimmed": "Uključi/isključi automatsko utišavanje zvuka pri zatamnjenju ekrana",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12-satni format",
