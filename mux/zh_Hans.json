@@ -744,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "设置无操作时屏幕变暗的等待时长",
     "Configure when the red LED will display based on the current capacity percentage": "根据当前电量百分比，设置红色LED的亮起时机",
     "Default Governor": "默认管理器",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "屏幕变暗时间必须短于睡眠等待时间",
     "Idle Governor": "空闲管理器",
     "Idle Input Display Timeout": "无操作屏幕超时时间",
@@ -763,7 +764,8 @@
     "Sleep 60s + Shutdown": "睡眠60秒后关机",
     "Sleep Function": "睡眠功能",
     "Sleep Until Wake": "保持睡眠至唤醒",
-    "Toggle if the audio is muted when display is dimmed": "开启/关闭屏幕变暗时静音"
+    "Toggle if the audio is muted when display is dimmed": "开启/关闭屏幕变暗时静音",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12小时制",
