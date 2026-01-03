@@ -744,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "入力がない時にディスプレイを自動で消灯するまでの時間を設定します",
     "Configure when the red LED will display based on the current capacity percentage": "現在の電池容量 (%) に合わせて、赤色 LED を点灯します",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "自動ディスプレイ消灯時間は自動スリープより短くしてください",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "自動ディスプレイ消灯",
@@ -763,7 +764,8 @@
     "Sleep 60s + Shutdown": "スリープ 60秒 + 電源を切る",
     "Sleep Function": "スリープ設定",
     "Sleep Until Wake": "スリープ状態を維持",
-    "Toggle if the audio is muted when display is dimmed": "ディスプレイ自動消灯時に消音するかを切り替えます"
+    "Toggle if the audio is muted when display is dimmed": "ディスプレイ自動消灯時に消音するかを切り替えます",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12時間",
