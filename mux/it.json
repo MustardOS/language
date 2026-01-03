@@ -47,8 +47,10 @@
     "Open": "Apri",
     "Preview Image": "Immagine Anteprima",
     "Previous": "Precedente",
+    "Read": "Read",
     "Rebooting…": "Riavviando…",
     "Recursive": "Ricorsivo",
+    "Refresh": "Refresh",
     "Refreshing…": "Aggiornamento…",
     "Remove": "Elimina",
     "Rescan": "Riscansiona",
@@ -398,8 +400,7 @@
     "CORE DOWNLOADER": "SCARICA CORE",
     "Downloading Archive": "Scaricando Archivi",
     "Downloading Data": "Scaricando Dati",
-    "Error Retrieving Data": "Errore durante il recupero dei dati",
-    "Refresh": "Ricarica"
+    "Error Retrieving Data": "Errore durante il recupero dei dati"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configura i governor della CPU per regolare dinamicamente la frequenza della CPU e aiutare a bilanciare il consumo energetico e le prestazioni",
@@ -438,9 +439,11 @@
     "Access network information": "Accedi alle informazioni di rete",
     "Access version information and system details": "Accedi alle informazioni sulla versione e ai dettagli del sistema",
     "Activity Tracker": "Activity Tracker",
+    "Community News": "Community News",
     "INFORMATION": "INFORMAZIONI",
     "Input Tester": "Test degli Input",
     "Network Details": "Dettagli Rete",
+    "Read various community news and other live information": "Read various community news and other live information",
     "Screenshots": "Schermate",
     "Storage Space": "Spazio di Archiviazione",
     "Supporters and Credits": "Supporters e Crediti",
@@ -551,7 +554,6 @@
     "Error Retrieving Language Data": "Errore durante il recupero dei dati relativi alla lingua",
     "LANGUAGE": "LINGUA",
     "No Languages Found…": "Nessuna Lingua Trovata…",
-    "Refresh": "Ricarica",
     "Saving Language": "Salvataggio Lingua",
     "Select your preferred language": "Seleziona la tua lingua preferita"
   },
@@ -673,6 +675,13 @@
     "Trying to Connect…": "Tentativo di Connessione…",
     "WI-FI NETWORK": "RETE WI-FI"
   },
+  "muxnews": {
+    "COMMUNITY NEWS": "COMMUNITY NEWS",
+    "Downloading Community News…": "Downloading Community News…",
+    "Downloading Post…": "Downloading Post…",
+    "Error Obtaining Community News": "Error Obtaining Community News",
+    "No News Found…": "No News Found…"
+  },
   "muxoption": {
     "CONTENT OPTION": "OPZIONI CONTENUTO",
     "Control Scheme": "Schema Controlli",
@@ -717,9 +726,7 @@
     "Could not load content": "Impossibile caricare il contenuto",
     "EXPLORE": "ESPLORA",
     "Folders cannot be added to collections": "Le cartelle non possono essere aggiunte alle collezioni",
-    "No Content Found…": "Nessun Contenuto Trovato…",
-    "Refresh": "Ricarica",
-    "Refreshing…": "Aggiornamento…"
+    "No Content Found…": "Nessun Contenuto Trovato…"
   },
   "muxpower": {
     "10m": "10m",
@@ -737,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Configura il tempo dopo il quale lo schermo si attenuerà quando non viene rilevato alcun input",
     "Configure when the red LED will display based on the current capacity percentage": "Configura quando il LED rosso si accenderà in base alla percentuale di capacità attuale",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Attenuazione Schermo deve essere minore di Sospensione",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Timeout Attenuazione Schermo",
@@ -756,7 +764,8 @@
     "Sleep 60s + Shutdown": "Sospensione 60s + Spegnimento",
     "Sleep Function": "Funzione di Sospensione",
     "Sleep Until Wake": "Sospensione fino al risveglio",
-    "Toggle if the audio is muted when display is dimmed": "Abilita/disabilita il silenzioso quando lo schermo si oscura"
+    "Toggle if the audio is muted when display is dimmed": "Abilita/disabilita il silenzioso quando lo schermo si oscura",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 Ore",
@@ -840,8 +849,9 @@
     "Device Type": "Tipo di Dispositivo",
     "Linux Kernel": "Kernel Linux",
     "Memory Cache Dropped": "Cache di memoria interrotta",
-    "Refresh Frontend": "Ricarica Interfaccia",
-    "Refresh the current frontend configuration values if changed elsewhere": "Ricarica i valori di configurazione dell'interfaccia corrente se modificati altrove",
+    "Reload Frontend": "Reload Frontend",
+    "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
+    "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "DETTAGLI DEL SISTEMA",
     "System Memory": "Memoria di Sistema",
     "System Uptime": "Tempo di Attività del Sistema",
@@ -882,8 +892,6 @@
     "Downloading Theme Previews": "Scaricando Anteprime Tema",
     "Error Retrieving Theme Data": "Errore Recupero Dati Tema",
     "No Content Found…": "Nessun Contenuto Trovato…",
-    "Refresh": "Ricarica",
-    "Refreshing…": "Aggiornamento…",
     "Remove": "Elimina",
     "THEME DOWNLOAD": "SCARICA TEMI",
     "Theme Extraction In Process": "Theme Extraction In Process",

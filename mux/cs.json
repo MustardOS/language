@@ -47,8 +47,10 @@
     "Open": "Otevřít",
     "Preview Image": "Náhledový obrázek",
     "Previous": "Předchozí",
+    "Read": "Read",
     "Rebooting…": "Restartování…",
     "Recursive": "Rekurzivní",
+    "Refresh": "Refresh",
     "Refreshing…": "Obnovuji…",
     "Remove": "Odstranit",
     "Rescan": "Znovu proskenovat",
@@ -398,8 +400,7 @@
     "CORE DOWNLOADER": "STAŽENÍ JÁDRA",
     "Downloading Archive": "Stahování archivu",
     "Downloading Data": "Stahování dat",
-    "Error Retrieving Data": "Chyba při načítání dat",
-    "Refresh": "Obnovit"
+    "Error Retrieving Data": "Chyba při načítání dat"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Nakonfigurujte regulátory CPU tak, aby dynamicky upravovaly frekvenci CPU a pomáhaly vyvážit spotřebu energie a výkon",
@@ -438,9 +439,11 @@
     "Access network information": "Přístup k informacím o síti",
     "Access version information and system details": "Informace o verzi a podrobnostech o systému",
     "Activity Tracker": "Sledování aktivity",
+    "Community News": "Community News",
     "INFORMATION": "INFORMACE",
     "Input Tester": "Test ovládání",
     "Network Details": "Podrobnosti o síti",
+    "Read various community news and other live information": "Read various community news and other live information",
     "Screenshots": "Snímky obrazovky",
     "Storage Space": "Úložný prostor",
     "Supporters and Credits": "Podporovatelé a poděkování",
@@ -551,7 +554,6 @@
     "Error Retrieving Language Data": "Chyba při načítání jazykových dat",
     "LANGUAGE": "JAZYK",
     "No Languages Found…": "Nebyly nalezeny žádné jazyky…",
-    "Refresh": "Obnovit",
     "Saving Language": "Uložení jazyka",
     "Select your preferred language": "Vyberte preferovaný jazyk"
   },
@@ -673,6 +675,13 @@
     "Trying to Connect…": "Pokus o připojení…",
     "WI-FI NETWORK": "WI-FI SÍŤ"
   },
+  "muxnews": {
+    "COMMUNITY NEWS": "COMMUNITY NEWS",
+    "Downloading Community News…": "Downloading Community News…",
+    "Downloading Post…": "Downloading Post…",
+    "Error Obtaining Community News": "Error Obtaining Community News",
+    "No News Found…": "No News Found…"
+  },
   "muxoption": {
     "CONTENT OPTION": "MOŽNOST OBSAHU",
     "Control Scheme": "Kontrolní schéma",
@@ -717,9 +726,7 @@
     "Could not load content": "Obsah se nepodařilo načíst",
     "EXPLORE": "PROZKOUMAT",
     "Folders cannot be added to collections": "Složky nelze přidávat do sbírek",
-    "No Content Found…": "Nebyl nalezen žádný obsah…",
-    "Refresh": "Obnovit",
-    "Refreshing…": "Osvěžující…"
+    "No Content Found…": "Nebyl nalezen žádný obsah…"
   },
   "muxpower": {
     "10m": "10m",
@@ -737,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Nakonfigurujte dobu, po kterou obrazovka ztmavne, když není detekován žádný vstup",
     "Configure when the red LED will display based on the current capacity percentage": "Nakonfigurujte, kdy se bude zobrazovat červená LED na základě aktuálního procenta kapacity",
     "Default Governor": "Hlavní Regulátor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Doba nečinnosti displeje musí být menší než doba nečinnosti a spánku",
     "Idle Governor": "Nečinný Regulátor",
     "Idle Input Display Timeout": "Časový limit nečinného displeje",
@@ -756,7 +764,8 @@
     "Sleep 60s + Shutdown": "Spánek 60s + vypnutí",
     "Sleep Function": "Funkce spánku",
     "Sleep Until Wake": "Spát do probuzení",
-    "Toggle if the audio is muted when display is dimmed": "Přepnout, zda je zvuk ztlumen při ztlumeném displeji"
+    "Toggle if the audio is muted when display is dimmed": "Přepnout, zda je zvuk ztlumen při ztlumeném displeji",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 Hodin",
@@ -840,8 +849,9 @@
     "Device Type": "Typ zařízení",
     "Linux Kernel": "Linux Kernel",
     "Memory Cache Dropped": "Mezipaměť klesla",
-    "Refresh Frontend": "Obnovit frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Obnovit aktuální hodnoty konfigurace frontendu, pokud byly změněny jinde",
+    "Reload Frontend": "Reload Frontend",
+    "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
+    "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "SYSTÉMOVÉ PODROBNOSTI",
     "System Memory": "Systémová paměť",
     "System Uptime": "Doba provozu systému",
@@ -882,8 +892,6 @@
     "Downloading Theme Previews": "Stahování náhledů motivů",
     "Error Retrieving Theme Data": "Chyba při načítání dat šablony",
     "No Content Found…": "Nebyl nalezen žádný obsah…",
-    "Refresh": "Obnovit",
-    "Refreshing…": "Obnovuji…",
     "Remove": "Odstranit",
     "THEME DOWNLOAD": "STAŽENÍ TÉMATU",
     "Theme Extraction In Process": "Probíhá extrakce motivu",

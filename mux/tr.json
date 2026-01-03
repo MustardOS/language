@@ -47,8 +47,10 @@
     "Open": "Aç",
     "Preview Image": "Preview Image",
     "Previous": "Önceki",
+    "Read": "Read",
     "Rebooting…": "Rebooting…",
     "Recursive": "Yinelenmiş",
+    "Refresh": "Refresh",
     "Refreshing…": "Refreshing…",
     "Remove": "Kaldır",
     "Rescan": "Yeniden tara",
@@ -398,8 +400,7 @@
     "CORE DOWNLOADER": "CORE DOWNLOADER",
     "Downloading Archive": "Downloading Archive",
     "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "Error Retrieving Data": "Error Retrieving Data"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU frekansını dinamik olarak ayarlamak ve güç tüketimi ile performansı dengelemeye yardımcı olmak için CPU yöneticilerini yapılandırın",
@@ -438,9 +439,11 @@
     "Access network information": "Access network information",
     "Access version information and system details": "Sürüm bilgilerine ve sistem ayrıntılarına erişim",
     "Activity Tracker": "Activity Tracker",
+    "Community News": "Community News",
     "INFORMATION": "BİLGİ",
     "Input Tester": "Tuş testi",
     "Network Details": "Network Details",
+    "Read various community news and other live information": "Read various community news and other live information",
     "Screenshots": "Screenshots",
     "Storage Space": "Storage Space",
     "Supporters and Credits": "Supporters and Credits",
@@ -551,7 +554,6 @@
     "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "LANGUAGE",
     "No Languages Found…": "No Languages Found…",
-    "Refresh": "Refresh",
     "Saving Language": "Dil kaydediliyor",
     "Select your preferred language": "Tercih ettiğiniz dili seçin"
   },
@@ -673,6 +675,13 @@
     "Trying to Connect…": "Trying to Connect…",
     "WI-FI NETWORK": "Wİ-Fİ AĞI"
   },
+  "muxnews": {
+    "COMMUNITY NEWS": "COMMUNITY NEWS",
+    "Downloading Community News…": "Downloading Community News…",
+    "Downloading Post…": "Downloading Post…",
+    "Error Obtaining Community News": "Error Obtaining Community News",
+    "No News Found…": "No News Found…"
+  },
   "muxoption": {
     "CONTENT OPTION": "CONTENT OPTION",
     "Control Scheme": "Control Scheme",
@@ -717,9 +726,7 @@
     "Could not load content": "Could not load content",
     "EXPLORE": "KEŞFET",
     "Folders cannot be added to collections": "Folders cannot be added to collections",
-    "No Content Found…": "No Content Found…",
-    "Refresh": "Yenile",
-    "Refreshing…": "Refreshing…"
+    "No Content Found…": "No Content Found…"
   },
   "muxpower": {
     "10m": "10 dk",
@@ -737,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Hiçbir giriş algılanmadığında ekranın kararacağı süreyi yapılandır",
     "Configure when the red LED will display based on the current capacity percentage": "Mevcut kapasite yüzdesine bağlı olarak kırmızı LED'in ne zaman görüntüleneceğini yapılandır",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Ekranda boşta geçecek süre",
@@ -756,7 +764,8 @@
     "Sleep 60s + Shutdown": "60 sn uyku + Kapatma",
     "Sleep Function": "Uyku özelliği",
     "Sleep Until Wake": "Sleep Until Wake",
-    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed"
+    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 Saat",
@@ -840,8 +849,9 @@
     "Device Type": "Cihaz türü",
     "Linux Kernel": "Linux Kernel",
     "Memory Cache Dropped": "Memory Cache Dropped",
-    "Refresh Frontend": "Refresh Frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
+    "Reload Frontend": "Reload Frontend",
+    "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
+    "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "SİSTEM AYRINTILARI",
     "System Memory": "System Memory",
     "System Uptime": "Sistem çalışma süresi",
@@ -882,8 +892,6 @@
     "Downloading Theme Previews": "Downloading Theme Previews",
     "Error Retrieving Theme Data": "Error Retrieving Theme Data",
     "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
     "Remove": "Remove",
     "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Extraction In Process": "Theme Extraction In Process",

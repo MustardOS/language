@@ -47,8 +47,10 @@
     "Open": "فتح",
     "Preview Image": "Preview Image",
     "Previous": "السابق",
+    "Read": "Read",
     "Rebooting…": "Rebooting…",
     "Recursive": "تكراري",
+    "Refresh": "Refresh",
     "Refreshing…": "Refreshing…",
     "Remove": "إزالة",
     "Rescan": "أعد المسح",
@@ -398,8 +400,7 @@
     "CORE DOWNLOADER": "CORE DOWNLOADER",
     "Downloading Archive": "Downloading Archive",
     "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "Error Retrieving Data": "Error Retrieving Data"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "ضبط منظم وحدة المعالجة المركزية لتعديل التردد بشكل ديناميكي والمساعدة في موازنة استهلاك الطاقة والأداء",
@@ -438,9 +439,11 @@
     "Access network information": "Access network information",
     "Access version information and system details": "الوصول إلى معلومات الإصدار وتفاصيل النظام",
     "Activity Tracker": "Activity Tracker",
+    "Community News": "Community News",
     "INFORMATION": "معلومات",
     "Input Tester": "فاحص الإدخال",
     "Network Details": "Network Details",
+    "Read various community news and other live information": "Read various community news and other live information",
     "Screenshots": "لقطات الشاشة",
     "Storage Space": "مساحة التخزين",
     "Supporters and Credits": "Supporters and Credits",
@@ -551,7 +554,6 @@
     "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "اللغة",
     "No Languages Found…": "لم يتم العثور على لغات…",
-    "Refresh": "Refresh",
     "Saving Language": "جاري حفظ اللغة",
     "Select your preferred language": "اختر اللغة المفضلة"
   },
@@ -673,6 +675,13 @@
     "Trying to Connect…": "محاولة الاتصال…",
     "WI-FI NETWORK": "شبكة WI-FI"
   },
+  "muxnews": {
+    "COMMUNITY NEWS": "COMMUNITY NEWS",
+    "Downloading Community News…": "Downloading Community News…",
+    "Downloading Post…": "Downloading Post…",
+    "Error Obtaining Community News": "Error Obtaining Community News",
+    "No News Found…": "No News Found…"
+  },
   "muxoption": {
     "CONTENT OPTION": "إعدادات المحتوى",
     "Control Scheme": "Control Scheme",
@@ -717,9 +726,7 @@
     "Could not load content": "لم يمكن تحميل المحتوى",
     "EXPLORE": "تصفح",
     "Folders cannot be added to collections": "لا يمكن إضافة المجلدات إلى المجموعات",
-    "No Content Found…": "لم يتم العثور على أي محتوى…",
-    "Refresh": "حدث",
-    "Refreshing…": "تحديث…"
+    "No Content Found…": "لم يتم العثور على أي محتوى…"
   },
   "muxpower": {
     "10m": "10 دقائق",
@@ -737,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "ضبط الوقت الذي ستصبح فيه الشاشة خافتة بعد عدم اكتشاف أي إدخال",
     "Configure when the red LED will display based on the current capacity percentage": "ضبط وقت عرض مؤشر LED الأحمر استنادًا إلى النسبة المئوية لسعة البطارية",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "مهلة إيقاف الشاشة عند الإدخال الخامل",
@@ -756,7 +764,8 @@
     "Sleep 60s + Shutdown": "السكون ل 60 ثانية + إيقاف التشغيل",
     "Sleep Function": "وظيفة السكون",
     "Sleep Until Wake": "السكون حتى الاستيقاظ",
-    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed"
+    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "بصيغة 12 ساعة",
@@ -840,8 +849,9 @@
     "Device Type": "نوع الجهاز",
     "Linux Kernel": "نواة لينكس",
     "Memory Cache Dropped": "تم تفريغ ذاكرة التخزين المؤقت",
-    "Refresh Frontend": "Refresh Frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
+    "Reload Frontend": "Reload Frontend",
+    "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
+    "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "تفاصيل النظام",
     "System Memory": "ذاكرة النظام",
     "System Uptime": "وقت التشغيل النظام",
@@ -882,8 +892,6 @@
     "Downloading Theme Previews": "Downloading Theme Previews",
     "Error Retrieving Theme Data": "Error Retrieving Theme Data",
     "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
     "Remove": "Remove",
     "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Extraction In Process": "Theme Extraction In Process",

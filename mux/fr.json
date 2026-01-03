@@ -47,8 +47,10 @@
     "Open": "Ouvrir",
     "Preview Image": "Image du jeu",
     "Previous": "Précédent",
+    "Read": "Read",
     "Rebooting…": "Redémarrage en cours…",
     "Recursive": "Récursif",
+    "Refresh": "Refresh",
     "Refreshing…": "Actualisation…",
     "Remove": "Retirer",
     "Rescan": "Re-scanner",
@@ -398,8 +400,7 @@
     "CORE DOWNLOADER": "TÉLÉCHARGEUR DES ÉMULATEURS",
     "Downloading Archive": "Chargement des archives",
     "Downloading Data": "Chargement des données",
-    "Error Retrieving Data": "Erreur de récupération des données des archives",
-    "Refresh": "Actualiser"
+    "Error Retrieving Data": "Erreur de récupération des données des archives"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configurez les gouverneurs du processeur pour ajuster dynamiquement la fréquence du processeur et aider à équilibrer la consommation d'énergie et les performances",
@@ -438,9 +439,11 @@
     "Access network information": "Accédez aux informations du réseau",
     "Access version information and system details": "Accédez aux informations sur la version du logiciel et aux détails du système",
     "Activity Tracker": "Activity Tracker",
+    "Community News": "Community News",
     "INFORMATION": "INFORMATIONS",
     "Input Tester": "Testeur de commandes",
     "Network Details": "Détails du réseau",
+    "Read various community news and other live information": "Read various community news and other live information",
     "Screenshots": "Captures d'écran",
     "Storage Space": "Espace de stockage",
     "Supporters and Credits": "Supporters et crédits",
@@ -551,7 +554,6 @@
     "Error Retrieving Language Data": "Erreur lors de la récupération des données des langues",
     "LANGUAGE": "LANGUE",
     "No Languages Found…": "Aucune langue trouvée…",
-    "Refresh": "Actualiser",
     "Saving Language": "Sauvegarde de la langue",
     "Select your preferred language": "Sélectionnez votre langue préférée"
   },
@@ -673,6 +675,13 @@
     "Trying to Connect…": "Connection en cours…",
     "WI-FI NETWORK": "RÉSEAU WI-FI"
   },
+  "muxnews": {
+    "COMMUNITY NEWS": "COMMUNITY NEWS",
+    "Downloading Community News…": "Downloading Community News…",
+    "Downloading Post…": "Downloading Post…",
+    "Error Obtaining Community News": "Error Obtaining Community News",
+    "No News Found…": "No News Found…"
+  },
   "muxoption": {
     "CONTENT OPTION": "OPTION DU CONTENU",
     "Control Scheme": "Schéma de contrôle",
@@ -717,9 +726,7 @@
     "Could not load content": "Impossible de charger le jeu",
     "EXPLORE": "CONTENU",
     "Folders cannot be added to collections": "Les dossiers ne peuvent pas être ajoutés aux collections",
-    "No Content Found…": "Aucun contenu trouvé…",
-    "Refresh": "Rafraîchir",
-    "Refreshing…": "Rafraîchissement en cours…"
+    "No Content Found…": "Aucun contenu trouvé…"
   },
   "muxpower": {
     "10m": "10m",
@@ -737,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Configurez la durée après laquelle l'écran s'assombrira lorsqu'aucune entrée n'est détectée",
     "Configure when the red LED will display based on the current capacity percentage": "Configurez le moment où la LED rouge s'affichera en fonction du pourcentage de capacité actuel",
     "Default Governor": "Gouverneur par défaut",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "L'affichage inactif doit être inférieur à la veille inactive",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Délai d'extinction de l'écran",
@@ -756,7 +764,8 @@
     "Sleep 60s + Shutdown": "Veille 60s + Arrêt",
     "Sleep Function": "Fonction de veille",
     "Sleep Until Wake": "Veille jusqu'à réactivation",
-    "Toggle if the audio is muted when display is dimmed": "Activer/désactiver la désactivation du son lorsque l'affichage est atténué"
+    "Toggle if the audio is muted when display is dimmed": "Activer/désactiver la désactivation du son lorsque l'affichage est atténué",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 heures",
@@ -840,8 +849,9 @@
     "Device Type": "Type de console",
     "Linux Kernel": "Noyau Linux",
     "Memory Cache Dropped": "Cache mémoire supprimé",
-    "Refresh Frontend": "Actualiser le frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Actualiser les valeurs de configuration actuelles du frontend si elles ont été modifiées ailleurs",
+    "Reload Frontend": "Reload Frontend",
+    "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
+    "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "DÉTAILS DU SYSTÈME",
     "System Memory": "Mémoire système",
     "System Uptime": "Durée de fonctionnement",
@@ -882,8 +892,6 @@
     "Downloading Theme Previews": "Chargement des aperçus",
     "Error Retrieving Theme Data": "Erreur de récupération des données des thèmes",
     "No Content Found…": "Pas de contenu trouvé…",
-    "Refresh": "Actualiser",
-    "Refreshing…": "Actualisation…",
     "Remove": "Supprimer",
     "THEME DOWNLOAD": "TÉLÉCHARGEMENT DES THÈMES",
     "Theme Extraction In Process": "Theme Extraction In Process",

@@ -47,8 +47,10 @@
     "Open": "Открыть",
     "Preview Image": "Предпросмотр",
     "Previous": "Предыдущий",
+    "Read": "Read",
     "Rebooting…": "Перезагрузка…",
     "Recursive": "К папке с подпапками",
+    "Refresh": "Refresh",
     "Refreshing…": "Обновление…",
     "Remove": "Удалить",
     "Rescan": "Пересканировать",
@@ -398,8 +400,7 @@
     "CORE DOWNLOADER": "ЗАГРУЗЧИК ЯДРА",
     "Downloading Archive": "Загрузка архива",
     "Downloading Data": "Загрузка данных",
-    "Error Retrieving Data": "Ошибка извлечения данных",
-    "Refresh": "Обновить"
+    "Error Retrieving Data": "Ошибка извлечения данных"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Настройка регулятор ЦП для динамической регулировки частоты ЦП и обеспечения сбалансированного энергопотребления и производительности",
@@ -438,9 +439,11 @@
     "Access network information": "Доступ к информации сети",
     "Access version information and system details": "Доступ к информации о версии системы и другим сведениям",
     "Activity Tracker": "Activity Tracker",
+    "Community News": "Community News",
     "INFORMATION": "ИНФОРМАЦИЯ",
     "Input Tester": "Проверка кнопок",
     "Network Details": "Сведения сети",
+    "Read various community news and other live information": "Read various community news and other live information",
     "Screenshots": "Скриншоты",
     "Storage Space": "Память",
     "Supporters and Credits": "Поддержавшие и благодарности",
@@ -551,7 +554,6 @@
     "Error Retrieving Language Data": "Ошибка получения языковых данных",
     "LANGUAGE": "ЯЗЫК",
     "No Languages Found…": "Языки не найдены…",
-    "Refresh": "Обновить",
     "Saving Language": "Сохранение языка",
     "Select your preferred language": "Выберите язык"
   },
@@ -673,6 +675,13 @@
     "Trying to Connect…": "Подключение…",
     "WI-FI NETWORK": "WI-FI"
   },
+  "muxnews": {
+    "COMMUNITY NEWS": "COMMUNITY NEWS",
+    "Downloading Community News…": "Downloading Community News…",
+    "Downloading Post…": "Downloading Post…",
+    "Error Obtaining Community News": "Error Obtaining Community News",
+    "No News Found…": "No News Found…"
+  },
   "muxoption": {
     "CONTENT OPTION": "НАСТРОЙКА ИГР",
     "Control Scheme": "Схема управления",
@@ -717,9 +726,7 @@
     "Could not load content": "Невозможно загрузить игру",
     "EXPLORE": "БИБЛИОТЕКА",
     "Folders cannot be added to collections": "Папки не могут быть добавлены в коллекции",
-    "No Content Found…": "Игры не найдены…",
-    "Refresh": "Обновить",
-    "Refreshing…": "Обновление…"
+    "No Content Found…": "Игры не найдены…"
   },
   "muxpower": {
     "10m": "10 мин",
@@ -737,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Настройка времени, в течение которого при отсутствии нажатий на клавиши экран будет затемняться",
     "Configure when the red LED will display based on the current capacity percentage": "При каком проценте заряда будет загораться красный светодиод",
     "Default Governor": "Стандартный регулятор",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Затемнение экрана должно происходить раньше чем переход в режим сна",
     "Idle Governor": "Регулятор в режиме ожидания",
     "Idle Input Display Timeout": "Затемнение экрана через",
@@ -756,7 +764,8 @@
     "Sleep 60s + Shutdown": "Сон 60 сек + Выкл",
     "Sleep Function": "Функция сна",
     "Sleep Until Wake": "Сон до пробуждения",
-    "Toggle if the audio is muted when display is dimmed": "Выключение звука при затухании экрана"
+    "Toggle if the audio is muted when display is dimmed": "Выключение звука при затухании экрана",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12-часовой",
@@ -840,8 +849,9 @@
     "Device Type": "Тип устройства",
     "Linux Kernel": "Ядро Linux",
     "Memory Cache Dropped": "Очистка кэша",
-    "Refresh Frontend": "Обновить интерфейс",
-    "Refresh the current frontend configuration values if changed elsewhere": "Обновление текущих настроек интерфейса, если они изменены",
+    "Reload Frontend": "Reload Frontend",
+    "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
+    "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "СИСТЕМНАЯ ИНФОРМАЦИЯ",
     "System Memory": "Системная память",
     "System Uptime": "Время работы системы",
@@ -882,8 +892,6 @@
     "Downloading Theme Previews": "Загрузка превью",
     "Error Retrieving Theme Data": "Ошибка извлечения данных темы",
     "No Content Found…": "Игр не найдено…",
-    "Refresh": "Обновить",
-    "Refreshing…": "Обновление…",
     "Remove": "Удалить",
     "THEME DOWNLOAD": "ЗАГРУЗКА ТЕМ",
     "Theme Extraction In Process": "Theme Extraction In Process",

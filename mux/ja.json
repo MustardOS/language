@@ -47,8 +47,10 @@
     "Open": "開く",
     "Preview Image": "Preview Image",
     "Previous": "現在の設定を使用",
+    "Read": "Read",
     "Rebooting…": "再起動中…",
     "Recursive": "再帰的に指定",
+    "Refresh": "Refresh",
     "Refreshing…": "Refreshing…",
     "Remove": "削除する",
     "Rescan": "再検索",
@@ -398,8 +400,7 @@
     "CORE DOWNLOADER": "CORE DOWNLOADER",
     "Downloading Archive": "Downloading Archive",
     "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "Error Retrieving Data": "Error Retrieving Data"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU周波数を動的に管理し、消費電力と処理能力を調節するガバナーを設定します",
@@ -438,9 +439,11 @@
     "Access network information": "ネットワークの情報を表示します",
     "Access version information and system details": "バージョン情報やシステム詳細を表示します",
     "Activity Tracker": "Activity Tracker",
+    "Community News": "Community News",
     "INFORMATION": "情報",
     "Input Tester": "入力テスト",
     "Network Details": "ネットワーク詳細",
+    "Read various community news and other live information": "Read various community news and other live information",
     "Screenshots": "スクリーンショット",
     "Storage Space": "ストレージ容量",
     "Supporters and Credits": "サポーターの皆さんと謝辞",
@@ -551,7 +554,6 @@
     "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "言語",
     "No Languages Found…": "言語が見つかりませんでした…",
-    "Refresh": "Refresh",
     "Saving Language": "言語を設定しています",
     "Select your preferred language": "使用する言語を設定します"
   },
@@ -673,6 +675,13 @@
     "Trying to Connect…": "接続しています…",
     "WI-FI NETWORK": "WI-FI ネットワーク"
   },
+  "muxnews": {
+    "COMMUNITY NEWS": "COMMUNITY NEWS",
+    "Downloading Community News…": "Downloading Community News…",
+    "Downloading Post…": "Downloading Post…",
+    "Error Obtaining Community News": "Error Obtaining Community News",
+    "No News Found…": "No News Found…"
+  },
   "muxoption": {
     "CONTENT OPTION": "CONTENT OPTION",
     "Control Scheme": "コントロール法",
@@ -717,9 +726,7 @@
     "Could not load content": "コンテンツを読み込めませんでした",
     "EXPLORE": "コンテンツ一覧",
     "Folders cannot be added to collections": "フォルダはコレクションに追加できません",
-    "No Content Found…": "コンテンツが見つかりませんでした…",
-    "Refresh": "再読み込み",
-    "Refreshing…": "更新中…"
+    "No Content Found…": "コンテンツが見つかりませんでした…"
   },
   "muxpower": {
     "10m": "10分",
@@ -737,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "入力がない時にディスプレイを自動で消灯するまでの時間を設定します",
     "Configure when the red LED will display based on the current capacity percentage": "現在の電池容量 (%) に合わせて、赤色 LED を点灯します",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "自動ディスプレイ消灯時間は自動スリープより短くしてください",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "自動ディスプレイ消灯",
@@ -756,7 +764,8 @@
     "Sleep 60s + Shutdown": "スリープ 60秒 + 電源を切る",
     "Sleep Function": "スリープ設定",
     "Sleep Until Wake": "スリープ状態を維持",
-    "Toggle if the audio is muted when display is dimmed": "ディスプレイ自動消灯時に消音するかを切り替えます"
+    "Toggle if the audio is muted when display is dimmed": "ディスプレイ自動消灯時に消音するかを切り替えます",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12時間",
@@ -840,8 +849,9 @@
     "Device Type": "機種",
     "Linux Kernel": "Linux カーネル",
     "Memory Cache Dropped": "削除されたメモリキャッシュ",
-    "Refresh Frontend": "Refresh Frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
+    "Reload Frontend": "Reload Frontend",
+    "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
+    "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "システム詳細",
     "System Memory": "システムメモリ",
     "System Uptime": "システム稼働期間",
@@ -882,8 +892,6 @@
     "Downloading Theme Previews": "Downloading Theme Previews",
     "Error Retrieving Theme Data": "Error Retrieving Theme Data",
     "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
     "Remove": "Remove",
     "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Extraction In Process": "Theme Extraction In Process",

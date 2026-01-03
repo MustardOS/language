@@ -47,8 +47,10 @@
     "Open": "Open",
     "Preview Image": "Preview Image",
     "Previous": "Previous",
+    "Read": "Read",
     "Rebooting…": "Rebooting…",
     "Recursive": "Recursive",
+    "Refresh": "Refresh",
     "Refreshing…": "Refreshing…",
     "Remove": "Remove",
     "Rescan": "Rescan",
@@ -398,8 +400,7 @@
     "CORE DOWNLOADER": "CORE DOWNLOADER",
     "Downloading Archive": "Downloading Archive",
     "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "Error Retrieving Data": "Error Retrieving Data"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance",
@@ -438,9 +439,11 @@
     "Access network information": "Access network information",
     "Access version information and system details": "Access version information and system details",
     "Activity Tracker": "Activity Tracker",
+    "Community News": "Community News",
     "INFORMATION": "Informació",
     "Input Tester": "Input Tester",
     "Network Details": "Network Details",
+    "Read various community news and other live information": "Read various community news and other live information",
     "Screenshots": "Screenshots",
     "Storage Space": "Storage Space",
     "Supporters and Credits": "Supporters and Credits",
@@ -551,7 +554,6 @@
     "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "LANGUAGE",
     "No Languages Found…": "No Languages Found…",
-    "Refresh": "Refresh",
     "Saving Language": "Saving Language",
     "Select your preferred language": "Select your preferred language"
   },
@@ -673,6 +675,13 @@
     "Trying to Connect…": "Trying to Connect…",
     "WI-FI NETWORK": "WI-FI NETWORK"
   },
+  "muxnews": {
+    "COMMUNITY NEWS": "COMMUNITY NEWS",
+    "Downloading Community News…": "Downloading Community News…",
+    "Downloading Post…": "Downloading Post…",
+    "Error Obtaining Community News": "Error Obtaining Community News",
+    "No News Found…": "No News Found…"
+  },
   "muxoption": {
     "CONTENT OPTION": "CONTENT OPTION",
     "Control Scheme": "Control Scheme",
@@ -717,9 +726,7 @@
     "Could not load content": "Could not load content",
     "EXPLORE": "EXPLORE",
     "Folders cannot be added to collections": "Folders cannot be added to collections",
-    "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…"
+    "No Content Found…": "No Content Found…"
   },
   "muxpower": {
     "10m": "10m",
@@ -737,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Configure the time the screen will dim when no input is detected",
     "Configure when the red LED will display based on the current capacity percentage": "Configure when the red LED will display based on the current capacity percentage",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Idle Input Display Timeout",
@@ -756,7 +764,8 @@
     "Sleep 60s + Shutdown": "Sleep 60s + Shutdown",
     "Sleep Function": "Sleep Function",
     "Sleep Until Wake": "Sleep Until Wake",
-    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed"
+    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 Hour",
@@ -840,8 +849,9 @@
     "Device Type": "Device Type",
     "Linux Kernel": "Linux Kernel",
     "Memory Cache Dropped": "Memory Cache Dropped",
-    "Refresh Frontend": "Refresh Frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
+    "Reload Frontend": "Reload Frontend",
+    "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
+    "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "System Details",
     "System Memory": "System Memory",
     "System Uptime": "System Uptime",
@@ -882,8 +892,6 @@
     "Downloading Theme Previews": "Downloading Theme Previews",
     "Error Retrieving Theme Data": "Error Retrieving Theme Data",
     "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
     "Remove": "Remove",
     "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Extraction In Process": "Theme Extraction In Process",

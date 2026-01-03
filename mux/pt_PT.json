@@ -47,8 +47,10 @@
     "Open": "Abrir",
     "Preview Image": "Pré-Visualização",
     "Previous": "Anterior",
+    "Read": "Read",
     "Rebooting…": "A reiniciar…",
     "Recursive": "Recursivo",
+    "Refresh": "Refresh",
     "Refreshing…": "A atualizar…",
     "Remove": "Remover",
     "Rescan": "Pesquizar novamente",
@@ -398,8 +400,7 @@
     "CORE DOWNLOADER": "DESCARREGADOR DE NÚCLEOS",
     "Downloading Archive": "A descarregar Arquivo",
     "Downloading Data": "A descarregar Dados",
-    "Error Retrieving Data": "Erro a Obter Dados",
-    "Refresh": "Atualizar"
+    "Error Retrieving Data": "Erro a Obter Dados"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configure os controladores do CPU para ajustar dinamicamente a frequência e ajudar a equilibrar o consumo de energia e o desempenho",
@@ -438,9 +439,11 @@
     "Access network information": "Aceder Informações de Rede",
     "Access version information and system details": "Aceda a informações de versão e detalhes do sistema",
     "Activity Tracker": "Activity Tracker",
+    "Community News": "Community News",
     "INFORMATION": "INFORMAÇÕES",
     "Input Tester": "Testar Botões",
     "Network Details": "Pormenores de Rede",
+    "Read various community news and other live information": "Read various community news and other live information",
     "Screenshots": "Capturas de Ecrã",
     "Storage Space": "Espaço de Armazenamento",
     "Supporters and Credits": "Apoiadores e Créditos",
@@ -551,7 +554,6 @@
     "Error Retrieving Language Data": "Erro ao obter dados de língua",
     "LANGUAGE": "LÍNGUA",
     "No Languages Found…": "Nenhuma Língua Encontrado…",
-    "Refresh": "Atualizar",
     "Saving Language": "A Guardar Idioma",
     "Select your preferred language": "Seleccione o seu idioma preferido"
   },
@@ -673,6 +675,13 @@
     "Trying to Connect…": "A tentar Conectar…",
     "WI-FI NETWORK": "REDE WI-FI"
   },
+  "muxnews": {
+    "COMMUNITY NEWS": "COMMUNITY NEWS",
+    "Downloading Community News…": "Downloading Community News…",
+    "Downloading Post…": "Downloading Post…",
+    "Error Obtaining Community News": "Error Obtaining Community News",
+    "No News Found…": "No News Found…"
+  },
   "muxoption": {
     "CONTENT OPTION": "OPÇÃO DE CONTEÚDO",
     "Control Scheme": "Configuração de Controlos",
@@ -717,9 +726,7 @@
     "Could not load content": "Não foi possível carregar o conteúdo",
     "EXPLORE": "EXPLORAR",
     "Folders cannot be added to collections": "Pastas não podem ser adicionadas às coleções",
-    "No Content Found…": "Nenhum Conteúdo Encontrado…",
-    "Refresh": "Actualizar",
-    "Refreshing…": "A atualizar…"
+    "No Content Found…": "Nenhum Conteúdo Encontrado…"
   },
   "muxpower": {
     "10m": "10m",
@@ -737,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Configure o tempo em que o ecrã escurecerá quando não for detectada nenhuma entrada",
     "Configure when the red LED will display based on the current capacity percentage": "Configure quando o LED vermelho será apresentado com base na percentagem de capacidade atual",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "O tempo para desligar o ecrã deve ser menor que o tempo para suspender o sistema",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Tempo de Inatividade para Exibição de Entrada",
@@ -756,7 +764,8 @@
     "Sleep 60s + Shutdown": "Suspender 60s + Desligar",
     "Sleep Function": "Função de Suspensão",
     "Sleep Until Wake": "Suspender até Ligar Novamente",
-    "Toggle if the audio is muted when display is dimmed": "Silenciar quando o ecrã escurece"
+    "Toggle if the audio is muted when display is dimmed": "Silenciar quando o ecrã escurece",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 Horas",
@@ -840,8 +849,9 @@
     "Device Type": "Tipo de Dispositivo",
     "Linux Kernel": "Kernel Linux",
     "Memory Cache Dropped": "Cache de Memória Limpo",
-    "Refresh Frontend": "Atualizar Interface",
-    "Refresh the current frontend configuration values if changed elsewhere": "Atualizar os valores atuais de configuração da interface se alterados noutro lugar",
+    "Reload Frontend": "Reload Frontend",
+    "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
+    "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "Detalhes do Sistema",
     "System Memory": "Memória do Sistema",
     "System Uptime": "Tempo de Atividade do Sistema",
@@ -882,8 +892,6 @@
     "Downloading Theme Previews": "A descarregar pré-visualizações",
     "Error Retrieving Theme Data": "Erro A Obter Dados dos Temas",
     "No Content Found…": "Nenhum Conteúdo Encontrado…",
-    "Refresh": "Atualizar",
-    "Refreshing…": "A atualizar…",
     "Remove": "Remover",
     "THEME DOWNLOAD": "DESCARREGAR TEMA",
     "Theme Extraction In Process": "Theme Extraction In Process",
