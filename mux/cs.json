@@ -744,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Nakonfigurujte dobu, po kterou obrazovka ztmavne, když není detekován žádný vstup",
     "Configure when the red LED will display based on the current capacity percentage": "Nakonfigurujte, kdy se bude zobrazovat červená LED na základě aktuálního procenta kapacity",
     "Default Governor": "Hlavní Regulátor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Doba nečinnosti displeje musí být menší než doba nečinnosti a spánku",
     "Idle Governor": "Nečinný Regulátor",
     "Idle Input Display Timeout": "Časový limit nečinného displeje",
@@ -763,7 +764,8 @@
     "Sleep 60s + Shutdown": "Spánek 60s + vypnutí",
     "Sleep Function": "Funkce spánku",
     "Sleep Until Wake": "Spát do probuzení",
-    "Toggle if the audio is muted when display is dimmed": "Přepnout, zda je zvuk ztlumen při ztlumeném displeji"
+    "Toggle if the audio is muted when display is dimmed": "Přepnout, zda je zvuk ztlumen při ztlumeném displeji",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 Hodin",
