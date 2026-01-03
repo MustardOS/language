@@ -744,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "입력이 감지되지 않을 때 화면이 어두워지는 시간을 구성",
     "Configure when the red LED will display based on the current capacity percentage": "현재 배터리 용량 백분율을 기준으로 빨간색 LED가 표시되는 시점을 구성",
     "Default Governor": "기본 거버너",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "화면 보호 대기 시간은 슬립 모드 대기 시간보다 작아야 함",
     "Idle Governor": "유휴 거버너",
     "Idle Input Display Timeout": "화면 보호기 대기 시간",
@@ -763,7 +764,8 @@
     "Sleep 60s + Shutdown": "슬립 60초 이후 시스템 종료",
     "Sleep Function": "슬립 기능",
     "Sleep Until Wake": "깨울 때까지 슬립",
-    "Toggle if the audio is muted when display is dimmed": "디스플레이가 어두워지면 오디오가 음소거되는지 여부를 전환"
+    "Toggle if the audio is muted when display is dimmed": "디스플레이가 어두워지면 오디오가 음소거되는지 여부를 전환",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 시간제",
