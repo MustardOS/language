@@ -744,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Skonfiguruj, kiedy ekran ma się ściemnić, jeśli nie wykryto żadnej interakcji",
     "Configure when the red LED will display based on the current capacity percentage": "Skonfiguruj, kiedy ma zapalić się czerwona dioda LED na podstawie bieżącej pojemności baterii",
     "Default Governor": "Domyślny regulator",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Czas wyświetlania w stanie spoczynku musi być mniejszy od czasu do uśpienia",
     "Idle Governor": "Regulator trybu bezczynności",
     "Idle Input Display Timeout": "Czas do ściemnienia podczas bezczynności",
@@ -763,7 +764,8 @@
     "Sleep 60s + Shutdown": "Śpij 60s + Zamknij",
     "Sleep Function": "Funkcja uśpienia",
     "Sleep Until Wake": "Śpij do przebudzenia",
-    "Toggle if the audio is muted when display is dimmed": "Włącz wyciszenie dźwięku, jeśli ekran urządzenia jest przygaszony"
+    "Toggle if the audio is muted when display is dimmed": "Włącz wyciszenie dźwięku, jeśli ekran urządzenia jest przygaszony",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12-godzinny",
