@@ -744,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Cấu hình thời gian màn hình giảm độ sáng khi không sử dụng",
     "Configure when the red LED will display based on the current capacity percentage": "Cấu hình đèn LED sáng đỏ khi pin yếu",
     "Default Governor": "Chế độ Hiệu Năng mặc định",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Hiển thị Chờ phải ít hơn chế độ Ngủ Chờ",
     "Idle Governor": "Chế độ Hiệu năng lúc nhàn rỗi",
     "Idle Input Display Timeout": "Thời gian chờ khi phím Display rảnh",
@@ -763,7 +764,8 @@
     "Sleep 60s + Shutdown": "Ngủ 60 giây + Tắt nguồn",
     "Sleep Function": "Chức năng Ngủ",
     "Sleep Until Wake": "Ngủ đến khi được đánh thức",
-    "Toggle if the audio is muted when display is dimmed": "Bặt/tắt nếu như âm thanh bị tắt lúc màn hình đang bị làm mờ"
+    "Toggle if the audio is muted when display is dimmed": "Bặt/tắt nếu như âm thanh bị tắt lúc màn hình đang bị làm mờ",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 giờ",
