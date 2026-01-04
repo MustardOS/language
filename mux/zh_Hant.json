@@ -744,7 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "設定未偵測到輸入時熄屏的時間",
     "Configure when the red LED will display based on the current capacity percentage": "根據目前電量百分比設定LED紅色燈號何時顯示",
     "Default Governor": "預設調速器",
-    "Frontend Screensaver": "Frontend Screensaver",
+    "Frontend Screensaver": "前端螢幕保護程式",
     "Idle Display must be less than Idle Sleep": "閒置熄屏必須小於閒置休眠",
     "Idle Governor": "閒置調速器",
     "Idle Input Display Timeout": "閒置熄屏",
@@ -765,7 +765,7 @@
     "Sleep Function": "休眠功能",
     "Sleep Until Wake": "休眠直到喚醒",
     "Toggle if the audio is muted when display is dimmed": "切換螢幕閒置變暗時音訊是否靜音",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "前端閒置超時啟動螢幕保護程序"
   },
   "muxrtc": {
     "12 Hour": "12時制",
