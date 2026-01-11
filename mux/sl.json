@@ -47,8 +47,10 @@
     "Open": "Odpri",
     "Preview Image": "Preview Image",
     "Previous": "Prejšnja",
+    "Read": "Read",
     "Rebooting…": "Rebooting…",
     "Recursive": "Rekurzivno",
+    "Refresh": "Refresh",
     "Refreshing…": "Refreshing…",
     "Remove": "Odstrani",
     "Rescan": "Ponovno iskanje",
@@ -398,8 +400,7 @@
     "CORE DOWNLOADER": "CORE DOWNLOADER",
     "Downloading Archive": "Downloading Archive",
     "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "Error Retrieving Data": "Error Retrieving Data"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Konfigurirajte upravljavce procesorja (CPU), da dinamično prilagajajo frekvenco procesorja in pomagajo uravnotežiti porabo energije in zmogljivost",
@@ -438,9 +439,11 @@
     "Access network information": "Dostop do omrežnih informacij",
     "Access version information and system details": "Informacije o različici in podrobnosti sistema",
     "Activity Tracker": "Activity Tracker",
+    "Community News": "Community News",
     "INFORMATION": "INFORMACIJE",
     "Input Tester": "Preizkuševalnik vhodnih naprav",
     "Network Details": "Podrobnosti omrežja",
+    "Read various community news and other live information": "Read various community news and other live information",
     "Screenshots": "Screenshots",
     "Storage Space": "Storage Space",
     "Supporters and Credits": "Supporters and Credits",
@@ -551,7 +554,6 @@
     "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "LANGUAGE",
     "No Languages Found…": "No Languages Found…",
-    "Refresh": "Refresh",
     "Saving Language": "Shranjevanje Jezika",
     "Select your preferred language": "Izberite želeni jezik"
   },
@@ -673,6 +675,13 @@
     "Trying to Connect…": "Trying to Connect…",
     "WI-FI NETWORK": "OMREŽJE WI-FI"
   },
+  "muxnews": {
+    "COMMUNITY NEWS": "COMMUNITY NEWS",
+    "Downloading Community News…": "Downloading Community News…",
+    "Downloading Post…": "Downloading Post…",
+    "Error Obtaining Community News": "Error Obtaining Community News",
+    "No News Found…": "No News Found…"
+  },
   "muxoption": {
     "CONTENT OPTION": "MOŽNOST VSEBINE",
     "Control Scheme": "Control Scheme",
@@ -717,9 +726,7 @@
     "Could not load content": "Could not load content",
     "EXPLORE": "RAZIŠČI",
     "Folders cannot be added to collections": "Folders cannot be added to collections",
-    "No Content Found…": "No Content Found…",
-    "Refresh": "Osveži",
-    "Refreshing…": "Refreshing…"
+    "No Content Found…": "No Content Found…"
   },
   "muxpower": {
     "10m": "10 min",
@@ -737,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Nastavite čas, po katerem se bo zaslon zatemnil, če ni zaznanega vnosa",
     "Configure when the red LED will display based on the current capacity percentage": "Nastavite, kdaj se bo rdeča LED lučka vklopila glede na trenutno kapaciteto baterije",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Časovna omejitev za zaslon ob neaktivnosti",
@@ -756,7 +764,8 @@
     "Sleep 60s + Shutdown": "Spanje 60 s + Izklop",
     "Sleep Function": "Funkcija spanja",
     "Sleep Until Wake": "Sleep Until Wake",
-    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed"
+    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 ur",
@@ -840,8 +849,9 @@
     "Device Type": "Vrsta naprave",
     "Linux Kernel": "Linux Jedro",
     "Memory Cache Dropped": "Memory Cache Dropped",
-    "Refresh Frontend": "Refresh Frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
+    "Reload Frontend": "Reload Frontend",
+    "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
+    "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "PODROBNOSTI SISTEMA",
     "System Memory": "System Memory",
     "System Uptime": "Čas delovanja sistema",
@@ -882,8 +892,6 @@
     "Downloading Theme Previews": "Downloading Theme Previews",
     "Error Retrieving Theme Data": "Error Retrieving Theme Data",
     "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
     "Remove": "Remove",
     "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Extraction In Process": "Theme Extraction In Process",

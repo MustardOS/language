@@ -47,8 +47,10 @@
     "Open": "Deschide",
     "Preview Image": "Preview Image",
     "Previous": "Anterior",
+    "Read": "Read",
     "Rebooting…": "Rebooting…",
     "Recursive": "Recursiv",
+    "Refresh": "Refresh",
     "Refreshing…": "Refreshing…",
     "Remove": "Elimină",
     "Rescan": "Rescanează",
@@ -398,8 +400,7 @@
     "CORE DOWNLOADER": "CORE DOWNLOADER",
     "Downloading Archive": "Downloading Archive",
     "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "Error Retrieving Data": "Error Retrieving Data"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configurează guvernatorii CPU pentru a ajusta dinamic frecvența procesorului și a ajuta la echilibrarea consumului de energie și a performanței",
@@ -438,9 +439,11 @@
     "Access network information": "Access network information",
     "Access version information and system details": "Accesează informațiile despre versiune și detaliile sistemului",
     "Activity Tracker": "Activity Tracker",
+    "Community News": "Community News",
     "INFORMATION": "INFORMAȚII",
     "Input Tester": "Tester de Intrare",
     "Network Details": "Network Details",
+    "Read various community news and other live information": "Read various community news and other live information",
     "Screenshots": "Capturi de Ecran",
     "Storage Space": "Spațiu de Stocare",
     "Supporters and Credits": "Supporters and Credits",
@@ -551,7 +554,6 @@
     "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "LIMBĂ",
     "No Languages Found…": "Nicio limbă găsită…",
-    "Refresh": "Refresh",
     "Saving Language": "Se salvează limba",
     "Select your preferred language": "Selectează limba preferată"
   },
@@ -673,6 +675,13 @@
     "Trying to Connect…": "Se încearcă conectarea…",
     "WI-FI NETWORK": "REȚEA WI-FI"
   },
+  "muxnews": {
+    "COMMUNITY NEWS": "COMMUNITY NEWS",
+    "Downloading Community News…": "Downloading Community News…",
+    "Downloading Post…": "Downloading Post…",
+    "Error Obtaining Community News": "Error Obtaining Community News",
+    "No News Found…": "No News Found…"
+  },
   "muxoption": {
     "CONTENT OPTION": "OPȚIUNE CONȚINUT",
     "Control Scheme": "Control Scheme",
@@ -717,9 +726,7 @@
     "Could not load content": "Nu s-a putut încărca conținutul",
     "EXPLORE": "EXPLORARE",
     "Folders cannot be added to collections": "Folderele nu pot fi adăugate în colecții",
-    "No Content Found…": "Niciun conținut găsit…",
-    "Refresh": "Reîmprospătează",
-    "Refreshing…": "Se reîmprospătează…"
+    "No Content Found…": "Niciun conținut găsit…"
   },
   "muxpower": {
     "10m": "10m",
@@ -737,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Configurează timpul în care ecranul se va estompa când nu este detectată nicio activitate",
     "Configure when the red LED will display based on the current capacity percentage": "Configurează momentul în care LED-ul roșu se va aprinde în funcție de procentul de capacitate curent",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Timp de expirare afișaj inactiv",
@@ -756,7 +764,8 @@
     "Sleep 60s + Shutdown": "Repaus 60s + Oprire",
     "Sleep Function": "Funcție Repaus",
     "Sleep Until Wake": "Repaus până la activare",
-    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed"
+    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 Ore",
@@ -840,8 +849,9 @@
     "Device Type": "Tip Dispozitiv",
     "Linux Kernel": "Kernel Linux",
     "Memory Cache Dropped": "Cache Memorie Eliberată",
-    "Refresh Frontend": "Refresh Frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
+    "Reload Frontend": "Reload Frontend",
+    "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
+    "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "DETALII SISTEM",
     "System Memory": "Memorie Sistem",
     "System Uptime": "Timp de Funcționare al Sistemului",
@@ -882,8 +892,6 @@
     "Downloading Theme Previews": "Downloading Theme Previews",
     "Error Retrieving Theme Data": "Error Retrieving Theme Data",
     "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
     "Remove": "Remove",
     "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Extraction In Process": "Theme Extraction In Process",

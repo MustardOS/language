@@ -47,8 +47,10 @@
     "Open": "Отвори",
     "Preview Image": "Preview Image",
     "Previous": "Предишно",
+    "Read": "Read",
     "Rebooting…": "Rebooting…",
     "Recursive": "Рекурсивен",
+    "Refresh": "Refresh",
     "Refreshing…": "Refreshing…",
     "Remove": "Премахвай",
     "Rescan": "Повторно сканиране",
@@ -398,8 +400,7 @@
     "CORE DOWNLOADER": "CORE DOWNLOADER",
     "Downloading Archive": "Downloading Archive",
     "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "Error Retrieving Data": "Error Retrieving Data"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Конфигурирай CPU регулатори за динамично регулиране на честотата на CPU и подпомагане на баланса между консумацията на енергия и производителност",
@@ -438,9 +439,11 @@
     "Access network information": "Access network information",
     "Access version information and system details": "Достъп до инфо за версията и подробности за системата",
     "Activity Tracker": "Activity Tracker",
+    "Community News": "Community News",
     "INFORMATION": "ИНФОРМАЦИЯ",
     "Input Tester": "Тестер на бутоните",
     "Network Details": "Network Details",
+    "Read various community news and other live information": "Read various community news and other live information",
     "Screenshots": "Screenshots",
     "Storage Space": "Storage Space",
     "Supporters and Credits": "Supporters and Credits",
@@ -551,7 +554,6 @@
     "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "ЕЗИК",
     "No Languages Found…": "Няма намерени езици…",
-    "Refresh": "Refresh",
     "Saving Language": "Запази Език",
     "Select your preferred language": "Избери предпочитания от вас език"
   },
@@ -673,6 +675,13 @@
     "Trying to Connect…": "Опит за свързване…",
     "WI-FI NETWORK": "WI-FI МРЕЖА"
   },
+  "muxnews": {
+    "COMMUNITY NEWS": "COMMUNITY NEWS",
+    "Downloading Community News…": "Downloading Community News…",
+    "Downloading Post…": "Downloading Post…",
+    "Error Obtaining Community News": "Error Obtaining Community News",
+    "No News Found…": "No News Found…"
+  },
   "muxoption": {
     "CONTENT OPTION": "ОПЦИЯ ЗА СЪДЪРЖАНИЕ",
     "Control Scheme": "Control Scheme",
@@ -717,9 +726,7 @@
     "Could not load content": "Не може да се зареди съдържание",
     "EXPLORE": "ТЪРСАЧ",
     "Folders cannot be added to collections": "Папки не могат да се добавят към колекции",
-    "No Content Found…": "Не е намерено съдържание…",
-    "Refresh": "Обнови",
-    "Refreshing…": "Опресняване…"
+    "No Content Found…": "Не е намерено съдържание…"
   },
   "muxpower": {
     "10m": "10м",
@@ -737,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Конфигурирай времето, за което екранът ще се затъмни, когато не е натиснат никакъв бутон",
     "Configure when the red LED will display based on the current capacity percentage": "Конфигурирай кога червеният светодиод ще светне от текущия процент на капацитета",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Време за изчакване на неактивен вход",
@@ -756,7 +764,8 @@
     "Sleep 60s + Shutdown": "Заспиване 60с + Изключване",
     "Sleep Function": "Функция за Заспиване",
     "Sleep Until Wake": "Sleep Until Wake",
-    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed"
+    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 Часа",
@@ -840,8 +849,9 @@
     "Device Type": "Тип Устройство",
     "Linux Kernel": "Linux Ядро",
     "Memory Cache Dropped": "Отпадане на кеш паметта",
-    "Refresh Frontend": "Refresh Frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
+    "Reload Frontend": "Reload Frontend",
+    "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
+    "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "ПОДРОБНОСТИ ЗА СИСТЕМАТА",
     "System Memory": "Системна памет",
     "System Uptime": "Времетраене на Системата",
@@ -882,8 +892,6 @@
     "Downloading Theme Previews": "Downloading Theme Previews",
     "Error Retrieving Theme Data": "Error Retrieving Theme Data",
     "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
     "Remove": "Remove",
     "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Extraction In Process": "Theme Extraction In Process",

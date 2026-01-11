@@ -8,7 +8,7 @@
     "Change": "Verander",
     "Channel": "Kanaal",
     "Check": "Verifiëren",
-    "Clean": "Clean",
+    "Clean": "Leegmaken",
     "Clear": "Wissen",
     "Close": "Sluiten",
     "Collect": "Verzamelen",
@@ -34,7 +34,7 @@
     "Load": "Laden",
     "Loading…": "Laden…",
     "Migrate to SD2": "Overzetten naar SD2",
-    "Modified": "Modified",
+    "Modified": "Aangepast",
     "Monday": "Maandag",
     "Network connection required…": "Netwerk-connectie vereist…",
     "New": "Nieuw",
@@ -42,13 +42,15 @@
     "No Help Information Found": "Geen Hulpinformatie Gevonden",
     "No Information Found": "Geen Informatie Gevonden",
     "Not Connected": "Niet Verbonden",
-    "Offline": "Offline",
-    "Online": "Online",
+    "Offline": "Niet verbonden met het internet",
+    "Online": "Verbonden met het internet",
     "Open": "Openen",
     "Preview Image": "Voorvertoning Afbeelding",
     "Previous": "Vorige",
+    "Read": "Lees",
     "Rebooting…": "Herstarten…",
     "Recursive": "Recursief",
+    "Refresh": "Actualiseer",
     "Refreshing…": "Verversen…",
     "Remove": "Verwijderen",
     "Rescan": "Opnieuw scannen",
@@ -134,7 +136,7 @@
   "muxapp": {
     "APPLICATIONS": "APPLICATIES",
     "Archive Manager": "Archiefbeheer",
-    "Dingux Commander": "Dingux Commander",
+    "Dingux Commander": "Bestandsverkenner",
     "Loading Application": "Applicatie wordt geladen",
     "Moonlight": "Maanlicht",
     "No Applications Found": "Geen Applicaties Gevonden",
@@ -148,10 +150,10 @@
   "muxappcon": {
     "APPLICATION OPTION": "APPLICATIE-INSTELLING",
     "Control Scheme": "Controleschema",
-    "Governor": "Governor",
+    "Governor": "CPU-regulator",
     "Name": "Naam",
-    "Set the CPU governor for the selected application": "Set the CPU governor for the selected application",
-    "Set the control scheme for the selected application": "Set the control scheme for the selected application"
+    "Set the CPU governor for the selected application": "Pas de CPU-regulator aan voor het geselecteerde programma",
+    "Set the control scheme for the selected application": "Pas het controleschema aan voor het geselecteerde programma"
   },
   "muxarchive": {
     "ARCHIVE MANAGER": "ARCHIEFBEHEER",
@@ -161,16 +163,16 @@
   },
   "muxassign": {
     "ASSIGN": "TOEWIJZEN",
-    "Assigned to Content": "Assigned to Content",
-    "Assigned to Directory": "Assigned to Directory",
-    "Core Downloader": "Core Downloader",
+    "Assigned to Content": "Toegewezen aan inhoud",
+    "Assigned to Directory": "Toegewezen aan mappen",
+    "Core Downloader": "Kern Downloader",
     "No Cores Found…": "Geen Kernen Gevonden…",
     "This is where you can assign a core or external emulator to content": "Hier kun je een kern of externe emulator toewijzen aan bestanden"
   },
   "muxbackup": {
-    "Activity Tracker": "Activity Tracker",
-    "Applications": "Applications",
-    "Background Music": "Background Music",
+    "Activity Tracker": "Activiteitenrapport",
+    "Applications": "Programma's",
+    "Background Music": "Achtergrondmuziek",
     "Backup Target": "Locatie Reservekopie",
     "Content Collection": "Verzameling",
     "Content Launch Overrides": "Content Launch Overrides",
@@ -398,8 +400,7 @@
     "CORE DOWNLOADER": "CORE DOWNLOADER",
     "Downloading Archive": "Downloading Archive",
     "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "Error Retrieving Data": "Error Retrieving Data"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU-governors configureren om de CPU-frequentie dynamisch aan te passen en energieverbruik en prestaties op elkaar af te stemmen",
@@ -438,9 +439,11 @@
     "Access network information": "Access network information",
     "Access version information and system details": "Toegang tot versie-informatie en systeemdetails",
     "Activity Tracker": "Activity Tracker",
+    "Community News": "Community News",
     "INFORMATION": "INFORMATIE",
     "Input Tester": "Test besturing",
     "Network Details": "Network Details",
+    "Read various community news and other live information": "Read various community news and other live information",
     "Screenshots": "Screenshots",
     "Storage Space": "Storage Space",
     "Supporters and Credits": "Supporters and Credits",
@@ -551,7 +554,6 @@
     "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "TAAL",
     "No Languages Found…": "Geen talen gevonden…",
-    "Refresh": "Refresh",
     "Saving Language": "Taal opslaan",
     "Select your preferred language": "Selecteer de gewenste taal"
   },
@@ -673,6 +675,13 @@
     "Trying to Connect…": "Bezig met verbinden…",
     "WI-FI NETWORK": "NETWERK"
   },
+  "muxnews": {
+    "COMMUNITY NEWS": "COMMUNITY NEWS",
+    "Downloading Community News…": "Downloading Community News…",
+    "Downloading Post…": "Downloading Post…",
+    "Error Obtaining Community News": "Error Obtaining Community News",
+    "No News Found…": "No News Found…"
+  },
   "muxoption": {
     "CONTENT OPTION": "CONTENT OPTION",
     "Control Scheme": "Control Scheme",
@@ -717,9 +726,7 @@
     "Could not load content": "Fout bij het laden van inhoud",
     "EXPLORE": "VERKENNEN",
     "Folders cannot be added to collections": "Mappen kunnen niet aan collecties toegevoegd worden",
-    "No Content Found…": "Geen inhoud gevonden…",
-    "Refresh": "Verversen",
-    "Refreshing…": "Verversen…"
+    "No Content Found…": "Geen inhoud gevonden…"
   },
   "muxpower": {
     "10m": "10m",
@@ -737,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Configure the time the screen will dim when no input is detected",
     "Configure when the red LED will display based on the current capacity percentage": "Configure when the red LED will display based on the current capacity percentage",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Idle Input Display Timeout",
@@ -756,7 +764,8 @@
     "Sleep 60s + Shutdown": "Sleep 60s + Shutdown",
     "Sleep Function": "Sleep Function",
     "Sleep Until Wake": "Sleep Until Wake",
-    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed"
+    "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 uursklok",
@@ -840,8 +849,9 @@
     "Device Type": "Apparaat Type",
     "Linux Kernel": "Linux-kernel",
     "Memory Cache Dropped": "Geheugencache vervallen",
-    "Refresh Frontend": "Refresh Frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
+    "Reload Frontend": "Reload Frontend",
+    "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
+    "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "SYSTEEMDETAILS",
     "System Memory": "Systeemgeheugen",
     "System Uptime": "Bedrijfstijd",
@@ -882,8 +892,6 @@
     "Downloading Theme Previews": "Downloading Theme Previews",
     "Error Retrieving Theme Data": "Error Retrieving Theme Data",
     "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
     "Remove": "Remove",
     "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Extraction In Process": "Theme Extraction In Process",

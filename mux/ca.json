@@ -47,8 +47,10 @@
     "Open": "Obrir",
     "Preview Image": "Preview Image",
     "Previous": "Anterior",
+    "Read": "Read",
     "Rebooting…": "Reiniciant…",
     "Recursive": "Recursiu",
+    "Refresh": "Refresh",
     "Refreshing…": "Refreshing…",
     "Remove": "Eliminar",
     "Rescan": "Reescanejar",
@@ -398,8 +400,7 @@
     "CORE DOWNLOADER": "CORE DOWNLOADER",
     "Downloading Archive": "Downloading Archive",
     "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Refresh": "Refresh"
+    "Error Retrieving Data": "Error Retrieving Data"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configura governadors de CPU per ajustar dinàmicament la freqüència de la CPU i ajudar a equilibrar el consum d'energia i rendiment",
@@ -438,9 +439,11 @@
     "Access network information": "Accés a la informació de la xarxa",
     "Access version information and system details": "Accedeix a informació sobre la versió i detalls del sistema",
     "Activity Tracker": "Activity Tracker",
+    "Community News": "Community News",
     "INFORMATION": "INFORMACIÓ",
     "Input Tester": "Comprovador d'entrada",
     "Network Details": "Informació de la xarxa",
+    "Read various community news and other live information": "Read various community news and other live information",
     "Screenshots": "Captures de pantalla",
     "Storage Space": "Espai d'emmagatzemant",
     "Supporters and Credits": "Col·laboradors i crèdits",
@@ -551,7 +554,6 @@
     "Error Retrieving Language Data": "Error Retrieving Language Data",
     "LANGUAGE": "IDIOMA",
     "No Languages Found…": "No s'han trobat idiomes…",
-    "Refresh": "Refresh",
     "Saving Language": "Guardant idioma",
     "Select your preferred language": "Tria l'idioma que prefereixes"
   },
@@ -673,6 +675,13 @@
     "Trying to Connect…": "Connexió en curs…",
     "WI-FI NETWORK": "XARXA WI-FI"
   },
+  "muxnews": {
+    "COMMUNITY NEWS": "COMMUNITY NEWS",
+    "Downloading Community News…": "Downloading Community News…",
+    "Downloading Post…": "Downloading Post…",
+    "Error Obtaining Community News": "Error Obtaining Community News",
+    "No News Found…": "No News Found…"
+  },
   "muxoption": {
     "CONTENT OPTION": "OPCIÓ DE CONTINGUT",
     "Control Scheme": "Control Scheme",
@@ -717,9 +726,7 @@
     "Could not load content": "No s'ha pogut carregat el contingut",
     "EXPLORE": "EXPLORAR",
     "Folders cannot be added to collections": "No es poden carregar carpetes a les col·leccions",
-    "No Content Found…": "No s'ha trobat contingut…",
-    "Refresh": "Actualitzar",
-    "Refreshing…": "Actualitzant…"
+    "No Content Found…": "No s'ha trobat contingut…"
   },
   "muxpower": {
     "10m": "10m",
@@ -737,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Configura el temps d'espera per a que la pantalla s'enfosqueixi en no prémer cap tecla",
     "Configure when the red LED will display based on the current capacity percentage": "Configura l'encesa del LED vermell segons el percentatge de bateria actual",
     "Default Governor": "Default Governor",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "El temps d’inactivitat de la pantalla ha de ser menor que el de l’inactivitat del sistema",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Temps d'inactivitat per enfosquir pantalla",
@@ -756,7 +764,8 @@
     "Sleep 60s + Shutdown": "Suspensió 60s + Apagat",
     "Sleep Function": "Funció de suspensió",
     "Sleep Until Wake": "Suspendre fins la reactivació",
-    "Toggle if the audio is muted when display is dimmed": "Activa o desactiva l'àudio quan la pantalla està atenuada"
+    "Toggle if the audio is muted when display is dimmed": "Activa o desactiva l'àudio quan la pantalla està atenuada",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 hores",
@@ -840,8 +849,9 @@
     "Device Type": "Tipus de dispositiu",
     "Linux Kernel": "Kernel de Linux",
     "Memory Cache Dropped": "Memòria cache descartada",
-    "Refresh Frontend": "Refresh Frontend",
-    "Refresh the current frontend configuration values if changed elsewhere": "Refresh the current frontend configuration values if changed elsewhere",
+    "Reload Frontend": "Reload Frontend",
+    "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
+    "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "DETALLS DEL SISTEMA",
     "System Memory": "Memòria del sistema",
     "System Uptime": "Temps d'activitat del sistema",
@@ -882,8 +892,6 @@
     "Downloading Theme Previews": "Downloading Theme Previews",
     "Error Retrieving Theme Data": "Error Retrieving Theme Data",
     "No Content Found…": "No Content Found…",
-    "Refresh": "Refresh",
-    "Refreshing…": "Refreshing…",
     "Remove": "Remove",
     "THEME DOWNLOAD": "THEME DOWNLOAD",
     "Theme Extraction In Process": "Theme Extraction In Process",

@@ -47,8 +47,10 @@
     "Open": "Mở",
     "Preview Image": "Hình ảnh xem trước",
     "Previous": "Gần đây",
+    "Read": "Read",
     "Rebooting…": "Khởi động lại…",
     "Recursive": "Quy nạp",
+    "Refresh": "Refresh",
     "Refreshing…": "Làm mới…",
     "Remove": "Xóa",
     "Rescan": "Quét lại",
@@ -398,8 +400,7 @@
     "CORE DOWNLOADER": "TẢI CORE",
     "Downloading Archive": "Kho lưu trữ Tải xuống",
     "Downloading Data": "Đang tải Dữ liệu",
-    "Error Retrieving Data": "Gặp lỗi khi nhận dữ liệu",
-    "Refresh": "Làm mới"
+    "Error Retrieving Data": "Gặp lỗi khi nhận dữ liệu"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Cài đặt bộ hiệu chỉnh CPU để điều chỉnh xung nhịp CPU một cách linh hoạt giúp cân bằng hiệu năng và điện tiêu thụ",
@@ -438,9 +439,11 @@
     "Access network information": "Truy cập thông tin mạng",
     "Access version information and system details": "Truy cập vào thông tin phiên bản và thông tin hệ thống",
     "Activity Tracker": "Activity Tracker",
+    "Community News": "Community News",
     "INFORMATION": "THÔNG TIN",
     "Input Tester": "Kiểm tra phím",
     "Network Details": "Chi tiết Mạng",
+    "Read various community news and other live information": "Read various community news and other live information",
     "Screenshots": "Ảnh chụp màn hình",
     "Storage Space": "Dung lượng lưu trữ",
     "Supporters and Credits": "Người ủng hộ và ghi nhận đóng góp",
@@ -551,7 +554,6 @@
     "Error Retrieving Language Data": "Lỗi khi tải xuống dữ liệu ngôn ngữ",
     "LANGUAGE": "NGÔN NGỮ",
     "No Languages Found…": "Không có Ngôn ngữ nào được tìm thấy…",
-    "Refresh": "Làm mới",
     "Saving Language": "Đang lưu cài đặt ngôn ngữ",
     "Select your preferred language": "Lựa chọn ngôn ngữ mong muốn"
   },
@@ -673,6 +675,13 @@
     "Trying to Connect…": "Cố gắng Kết nối…",
     "WI-FI NETWORK": "MẠNG WI-FI"
   },
+  "muxnews": {
+    "COMMUNITY NEWS": "COMMUNITY NEWS",
+    "Downloading Community News…": "Downloading Community News…",
+    "Downloading Post…": "Downloading Post…",
+    "Error Obtaining Community News": "Error Obtaining Community News",
+    "No News Found…": "No News Found…"
+  },
   "muxoption": {
     "CONTENT OPTION": "TÙY CHỌN NỘI DUNG",
     "Control Scheme": "Cách điều khiển",
@@ -717,9 +726,7 @@
     "Could not load content": "Không thể nạp được nội dung",
     "EXPLORE": "KHÁM PHÁ",
     "Folders cannot be added to collections": "Thư mục không thể được thêm vào bộ sưu tập",
-    "No Content Found…": "Không có nội dung nào được tìm thấy…",
-    "Refresh": "Làm mới",
-    "Refreshing…": "Đang làm mới…"
+    "No Content Found…": "Không có nội dung nào được tìm thấy…"
   },
   "muxpower": {
     "10m": "10p",
@@ -737,6 +744,7 @@
     "Configure the time the screen will dim when no input is detected": "Cấu hình thời gian màn hình giảm độ sáng khi không sử dụng",
     "Configure when the red LED will display based on the current capacity percentage": "Cấu hình đèn LED sáng đỏ khi pin yếu",
     "Default Governor": "Chế độ Hiệu Năng mặc định",
+    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Hiển thị Chờ phải ít hơn chế độ Ngủ Chờ",
     "Idle Governor": "Chế độ Hiệu năng lúc nhàn rỗi",
     "Idle Input Display Timeout": "Thời gian chờ khi phím Display rảnh",
@@ -756,7 +764,8 @@
     "Sleep 60s + Shutdown": "Ngủ 60 giây + Tắt nguồn",
     "Sleep Function": "Chức năng Ngủ",
     "Sleep Until Wake": "Ngủ đến khi được đánh thức",
-    "Toggle if the audio is muted when display is dimmed": "Bặt/tắt nếu như âm thanh bị tắt lúc màn hình đang bị làm mờ"
+    "Toggle if the audio is muted when display is dimmed": "Bặt/tắt nếu như âm thanh bị tắt lúc màn hình đang bị làm mờ",
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
   },
   "muxrtc": {
     "12 Hour": "12 giờ",
@@ -840,8 +849,9 @@
     "Device Type": "Kiểu Thiết Bị",
     "Linux Kernel": "Nhân Linux",
     "Memory Cache Dropped": "Giải phóng Bộ Nhớ Đệm",
-    "Refresh Frontend": "Làm mới giao diện",
-    "Refresh the current frontend configuration values if changed elsewhere": "Làm mới giá trị tùy chỉnh giao hiện tại nếu bị thay đổi ở đâu đó",
+    "Reload Frontend": "Reload Frontend",
+    "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
+    "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "CHI TIẾT HỆ THỐNG",
     "System Memory": "Dung lượng RAM hệ thống",
     "System Uptime": "Thời gian hoạt động",
@@ -882,8 +892,6 @@
     "Downloading Theme Previews": "Đang tải xuống Xem trước Chủ đề",
     "Error Retrieving Theme Data": "Lỗi khi tiếp nhận dữ liệu chủ đề",
     "No Content Found…": "Không có nội dung được tìm thấy…",
-    "Refresh": "Làm mới",
-    "Refreshing…": "Đang làm mới…",
     "Remove": "Xóa",
     "THEME DOWNLOAD": "TẢI XUỐNG CHỦ ĐỀ",
     "Theme Extraction In Process": "Theme Extraction In Process",
