@@ -1137,7 +1137,6 @@
     "Vertical Lines (4px)": "Linee Verticali (4px)"
   },
   "muxwebserv": {
-    "Network Time Sync": "Sincronizzazione Orario in Rete",
     "SFTP + Filebrowser": "SFTP + Filebrowser",
     "Secure Shell": "Secure Shell",
     "Syncthing": "Syncthing",
@@ -1146,7 +1145,6 @@
     "Toggle SSH support - Access via port 22": "Attiva/disattiva il supporto SSH - Accesso tramite la porta 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Attiva/disattiva Syncthing - L'interfaccia WebUI è disponibile sulla porta 7070",
     "Toggle Tailscale - Need to login via SSH first to configure it": "Attiva/disattiva Tailscale - È necessario accedere prima tramite SSH per configurarlo",
-    "Toggle network time protocol for active network connections": "Attiva/disattiva il protocollo di tempo di rete per le connessioni di rete attive",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Attiva/disattiva il terminale virtuale - L'interfaccia WebUI è disponibile sulla porta 8080",
     "Virtual Terminal": "Terminale Virtuale",
     "WEB SERVICES": "SERVIZI WEB"

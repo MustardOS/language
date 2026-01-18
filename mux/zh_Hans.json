@@ -1137,7 +1137,6 @@
     "Vertical Lines (4px)": "垂直线 (4px)"
   },
   "muxwebserv": {
-    "Network Time Sync": "网络时间同步",
     "SFTP + Filebrowser": "SFTP + 文件浏览器",
     "Secure Shell": "安全外壳协议（SSH）",
     "Syncthing": "Syncthing文件同步",
@@ -1146,7 +1145,6 @@
     "Toggle SSH support - Access via port 22": "开启/关闭SSH支持 - 可通过22端口访问",
     "Toggle Syncthing - WebUI can be found on port 7070": "开启/关闭Syncthing同步 - 可通过7070端口访问WebUI",
     "Toggle Tailscale - Need to login via SSH first to configure it": "开启/关闭Tailscale（需先通过SSH登录配置）",
-    "Toggle network time protocol for active network connections": "开启/关闭NTP网络时间协议（需网络连接）",
     "Toggle virtual terminal - WebUI can be found on port 8080": "开启/关闭虚拟终端 - 可通过8080端口访问WebUI",
     "Virtual Terminal": "虚拟终端",
     "WEB SERVICES": "网络服务"

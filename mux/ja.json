@@ -1137,7 +1137,6 @@
     "Vertical Lines (4px)": "垂直線 (4px)"
   },
   "muxwebserv": {
-    "Network Time Sync": "ネットワーク時刻同期",
     "SFTP + Filebrowser": "SFTP + ファイルブラウザ",
     "Secure Shell": "Secure Shell (SSH)",
     "Syncthing": "Syncthing",
@@ -1146,7 +1145,6 @@
     "Toggle SSH support - Access via port 22": "SSH を起動します - 22番ポートで接続してください",
     "Toggle Syncthing - WebUI can be found on port 7070": "Syncthing を起動します - 7070番ポートでWebUIに接続してください",
     "Toggle Tailscale - Need to login via SSH first to configure it": "Tailscaleを起動します - 設定するためにまずSSH経由でログインする必要があります",
-    "Toggle network time protocol for active network connections": "有効なネットワークに接続時、\nネットワークタイムサーバーを使用します",
     "Toggle virtual terminal - WebUI can be found on port 8080": "仮想ターミナルを起動します - 8080番ポートで接続してください",
     "Virtual Terminal": "仮想ターミナル",
     "WEB SERVICES": "ウェブサービス"

@@ -1137,7 +1137,6 @@
     "Vertical Lines (4px)": "Vertical Lines (4px)"
   },
   "muxwebserv": {
-    "Network Time Sync": "Синхронізація Часу з Мережі",
     "SFTP + Filebrowser": "SFTP + Провідник",
     "Secure Shell": "Secure Shell",
     "Syncthing": "Syncthing",
@@ -1146,7 +1145,6 @@
     "Toggle SSH support - Access via port 22": "Увімкнути підтримку SSH - Доступ через порт 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Увімкнути Syncthing - WebUI можна знайти на порті 7070",
     "Toggle Tailscale - Need to login via SSH first to configure it": "Toggle Tailscale - Need to login via SSH first to configure it",
-    "Toggle network time protocol for active network connections": "Увімкнути протокол мережевого часу для активних підключень",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Увімкнути Віртуальний Термінал - WebUI можна знайти на порті 8080",
     "Virtual Terminal": "Віртуальний Термінал",
     "WEB SERVICES": "ВЕБ СЕРВІСИ"

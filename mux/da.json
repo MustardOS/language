@@ -1137,7 +1137,6 @@
     "Vertical Lines (4px)": "Lodrette linier (4px)"
   },
   "muxwebserv": {
-    "Network Time Sync": "Synkronisering af netværkstid",
     "SFTP + Filebrowser": "SFTP + Filbrowser",
     "Secure Shell": "Sikker Shell",
     "Syncthing": "Synkroniser",
@@ -1146,7 +1145,6 @@
     "Toggle SSH support - Access via port 22": "Slå SSH-understøttelse til/fra - Adgang via port 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Slå synkronisering til/fra - WebUI kan findes på port 7070",
     "Toggle Tailscale - Need to login via SSH first to configure it": "Slå haleskala til/fra - Du skal først logge ind via SSH for at konfigurere det",
-    "Toggle network time protocol for active network connections": "Slå netværkstidsprotokol til/fra for aktive netværksforbindelser",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Slå virtuel terminal til/fra - WebUI kan findes på port 8080",
     "Virtual Terminal": "Virtuel terminal",
     "WEB SERVICES": "WEBTJENESTER"

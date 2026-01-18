@@ -1137,7 +1137,6 @@
     "Vertical Lines (4px)": "Línte Ingearach (4px)"
   },
   "muxwebserv": {
-    "Network Time Sync": "Sioncronú Ama Líonra",
     "SFTP + Filebrowser": "SFTP + Brabhsálaí comhaid",
     "Secure Shell": "Blaosc Shlán",
     "Syncthing": "Syncthing",
@@ -1146,7 +1145,6 @@
     "Toggle SSH support - Access via port 22": "Scoránaigh tacaíocht SSH - Rochtain trí chalafort 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Toggle Syncthing - Is féidir WebUI a fháil ar phort 7070",
     "Toggle Tailscale - Need to login via SSH first to configure it": "Athraigh Tailscale - Ní mór logáil isteach trí SSH ar dtús chun é a chumrú",
-    "Toggle network time protocol for active network connections": "Scoránaigh prótacal ama líonra le haghaidh naisc ghníomhacha líonra",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Scoránaigh teirminéal fíorúil - Is féidir WebUI a fháil ar phort 8080",
     "Virtual Terminal": "Teirminéal Fíorúil",
     "WEB SERVICES": "SEIRBHÍSÍ GRÉASÁIN"
