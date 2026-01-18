@@ -1137,7 +1137,6 @@
     "Vertical Lines (4px)": "Đường Kẻ Dọc (4px)"
   },
   "muxwebserv": {
-    "Network Time Sync": "Đồng bộ thời gian khi bật mạng",
     "SFTP + Filebrowser": "SFTP + Filebrowser (Truy cập thư mục qua mạng)",
     "Secure Shell": "Secure Shell (Terminal Shell bảo mật)",
     "Syncthing": "Đồng bộ hóa",
@@ -1146,7 +1145,6 @@
     "Toggle SSH support - Access via port 22": "Bật/tắt hỗ trợ SSH - Truy cập qua cổng 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Bật/tắt Syncthing - WebUI có thể truy cập ở cổng 7070",
     "Toggle Tailscale - Need to login via SSH first to configure it": "Bật/tắt Tailscale - Cần phải đăng nhập qua SSH trước để tinh chỉnh",
-    "Toggle network time protocol for active network connections": "Bật/tắt giao thức thời gian mạng cho các kết nối mạng đã được kích hoạt",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Bật/tắt terminal ảo - WebUI có thể truy cập ở cổng 8080",
     "Virtual Terminal": "Terminal ảo",
     "WEB SERVICES": "DỊCH VỤ WEB"

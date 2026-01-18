@@ -1137,7 +1137,6 @@
     "Vertical Lines (4px)": "Okomite linije (4px)"
   },
   "muxwebserv": {
-    "Network Time Sync": "Sinkronizacija vremena putem mreže",
     "SFTP + Filebrowser": "SFTP + Preglednik datoteka",
     "Secure Shell": "Sigurna ljuska (SSH)",
     "Syncthing": "Syncthing",
@@ -1146,7 +1145,6 @@
     "Toggle SSH support - Access via port 22": "Uključi SSH podršku – pristup preko porta 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Uključi Syncthing – WebUI na portu 7070",
     "Toggle Tailscale - Need to login via SSH first to configure it": "Uključi Tailscale – Potrebna prijava putem SSH za konfiguraciju",
-    "Toggle network time protocol for active network connections": "Uključi mrežnu sinkronizaciju vremena (NTP)",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Uključi virtualni terminal – WebUI na portu 8080",
     "Virtual Terminal": "Virtualni terminal",
     "WEB SERVICES": "WEB USLUGE"

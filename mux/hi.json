@@ -1137,7 +1137,6 @@
     "Vertical Lines (4px)": "Vertical Lines (4px)"
   },
   "muxwebserv": {
-    "Network Time Sync": "नेटवर्क समय सिंक",
     "SFTP + Filebrowser": "SFTP + फ़ाइल ब्राउज़रr",
     "Secure Shell": "सुरक्षित शेल",
     "Syncthing": "Syncthing",
@@ -1146,7 +1145,6 @@
     "Toggle SSH support - Access via port 22": "Toggle SSH support - Access via port 22",
     "Toggle Syncthing - WebUI can be found on port 7070": "Toggle Syncthing - WebUI can be found on port 7070",
     "Toggle Tailscale - Need to login via SSH first to configure it": "Toggle Tailscale - Need to login via SSH first to configure it",
-    "Toggle network time protocol for active network connections": "Toggle network time protocol for active network connections",
     "Toggle virtual terminal - WebUI can be found on port 8080": "Toggle virtual terminal - WebUI can be found on port 8080",
     "Virtual Terminal": "आभासी टर्मिनल",
     "WEB SERVICES": "वेब सेवाएं"

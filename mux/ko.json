@@ -1137,7 +1137,6 @@
     "Vertical Lines (4px)": "수직선 (4px)"
   },
   "muxwebserv": {
-    "Network Time Sync": "네트워크 시간 동기화",
     "SFTP + Filebrowser": "SFTP + 파일브라우저",
     "Secure Shell": "시큐어 셸",
     "Syncthing": "싱크띵",
@@ -1146,7 +1145,6 @@
     "Toggle SSH support - Access via port 22": "SSH 지원 여부 전환 - 포트 22 로 액세스",
     "Toggle Syncthing - WebUI can be found on port 7070": "싱크띵 사용 여부 전환 - 웹UI는 포트 7070 에서 찾음",
     "Toggle Tailscale - Need to login via SSH first to configure it": "테일스케일 사용 여부 전환 - SSH 로그인이 우선적으로 필요",
-    "Toggle network time protocol for active network connections": "원활한 네트워크 연결을 위한 네트워크 시간 프로토콜 전환",
     "Toggle virtual terminal - WebUI can be found on port 8080": "버추얼 터미널 사용 여부 전환 - 웹UI는 포트 8080 에서 찾음",
     "Virtual Terminal": "버추얼 터미널",
     "WEB SERVICES": "웹 서비스"
