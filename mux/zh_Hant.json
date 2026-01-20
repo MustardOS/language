@@ -30,7 +30,7 @@
     "Info": "資訊",
     "Information": "資訊",
     "Install": "安裝",
-    "Invalid date and time detected…": "Invalid date and time detected…",
+    "Invalid date and time detected…": "偵測到無效的日期和時間…",
     "Launch": "啟動",
     "Load": "讀取",
     "Loading…": "讀取中…",
@@ -227,7 +227,7 @@
     "Voltage": "電壓"
   },
   "muxchrony": {
-    "Current synchronisation status of the system clock": "Current synchronisation status of the system clock",
+    "Current synchronisation status of the system clock": "目前系統時鐘的同步狀態",
     "Estimated clock frequency error": "Estimated clock frequency error",
     "Estimated maximum error relative to the reference": "Estimated maximum error relative to the reference",
     "Frequency": "Frequency",
