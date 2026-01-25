@@ -616,9 +616,11 @@
     "Various information can be found and launched here": "可在此查看各类系统信息"
   },
   "muxnetadv": {
+    "Adjusts how many retries the network connection script goes through before giving up": "Adjusts how many retries the network connection script goes through before giving up",
     "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.": "调整启用模块兼容性时加载网络模块的最大尝试次数。如果仍无法连接WiFi，请增加此设置。\n\n增加此设置可能会显著增加启动时间。",
     "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!": "调整等待网络接口出现的最长时间。\n\n警告：\n如果启用了模块兼容性，不建议增加此设置，因为这会增加启动时间！",
     "Connection Monitor": "连接监控器",
+    "Connection Retry": "Connection Retry",
     "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately": "启用设备通过Linux内核加载网络模块的兼容性\n\n会适度增加启动时间",
     "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed": "启用兼容性处理的后台处理\n\n在启用兼容性的情况下提供更快的启动时间，仅在其他所有方法都失败时才禁用此项",
     "Enables network connection to be established automatically at boot": "启用开机时自动建立网络连接",
@@ -674,12 +676,17 @@
     "Scanning for Wi-Fi Networks…": "正在扫描Wi-Fi网络…"
   },
   "muxnetwork": {
+    "AP Connect Error": "AP Connect Error",
+    "Associating": "Associating",
+    "Auth Timeout": "Auth Timeout",
+    "Authenticating": "Authenticating",
     "Cannot modify while connected": "连接时无法修改",
     "Changes Saved": "更改已保存",
     "Connect": "连接",
     "Connect to the network using options entered above": "使用上述输入的选项连接网络",
     "Connected": "已连接",
     "DHCP": "DHCP",
+    "DHCP Failure": "DHCP Failure",
     "DNS Server": "DNS服务器",
     "Device IP": "设备IP地址",
     "Disconnect": "断开连接",
@@ -691,9 +698,13 @@
     "Enter the network identifier (SSID) here": "在此输入网络标识 (SSID)",
     "Enter the network password here (optional)": "在此输入网络密码（可选）",
     "Gateway IP": "网关IP地址",
+    "Getting IP": "Getting IP",
     "Hidden Network": "隐藏网络",
     "Identifier": "网络标识",
+    "Invalid Password": "Invalid Password",
+    "Link Timeout": "Link Timeout",
     "Network Disabled": "网络已禁用",
+    "Network Not Found": "Network Not Found",
     "Network Type": "网络类型",
     "No Password Detected…": "未检测到密码…",
     "Not Connected": "未连接",
@@ -706,6 +717,7 @@
     "Toggle between DHCP and Static network types": "切换网络类型为DHCP或静态IP",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "尝试连接隐藏网络",
     "Trying to Connect…": "正在尝试连接…",
+    "Validating": "Validating",
     "WI-FI NETWORK": "Wi-Fi网络"
   },
   "muxnews": {
