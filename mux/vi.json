@@ -616,9 +616,11 @@
     "Various information can be found and launched here": "Các thông tin khác nhau có thể được tìm thấy và khởi động ở đây"
   },
   "muxnetadv": {
+    "Adjusts how many retries the network connection script goes through before giving up": "Adjusts how many retries the network connection script goes through before giving up",
     "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.": "Tinh chỉnh số lần nạp mô-dun mạng với Tương Thích Mô-đun được kích hoạt. Tăng giá trị tùy chọn này nếu như bạn vẫn không thể kết nối tới wifi\n\nTăng giá trị tùy chọn này có thể dẫn đến thời gian khởi động tăng lên một cách đáng kể.",
     "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!": "Tinh chỉnh số thời gian đợi để giao diện mạng hiển thị.\n\nCHÚ Ý:\nNếu như bạn kích hoạt Tương Thích Mo-đun, thì không khuyến khích tăng giá trị của tùy chọn này vì nó sẽ dẫn đến thời gian khởi động bị tăng theo!",
     "Connection Monitor": "Theo Dõi Kết Nối",
+    "Connection Retry": "Connection Retry",
     "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately": "Kích hoạt tương thích thiết bị với nạp mo-đun mạng thông qua nhân Linux\n\nTăng thời gian khởi động lên một chút",
     "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed": "Kích hoạt cơ chế xử lý tương thích nền \n\nTăng tốc quá trình khởi động khi tương thích được bật. Việc tắt tùy chọn này chỉ nên thực hiện trong trường hợp không còn giải pháp nào khác",
     "Enables network connection to be established automatically at boot": "Kích hoạt kết nối mạng được thiết lập tự động khi khởi động",
@@ -674,12 +676,17 @@
     "Scanning for Wi-Fi Networks…": "Quét các mạng Wi-Fi …"
   },
   "muxnetwork": {
+    "AP Connect Error": "AP Connect Error",
+    "Associating": "Associating",
+    "Auth Timeout": "Auth Timeout",
+    "Authenticating": "Authenticating",
     "Cannot modify while connected": "Không thể thay đổi khi đang kết nối",
     "Changes Saved": "Đã lưu thay đổi",
     "Connect": "Kết nối",
     "Connect to the network using options entered above": "Kết nối mạng bằng các tùy chọn đã nhập ở trên",
     "Connected": "Đã kết nối",
     "DHCP": "DHCP",
+    "DHCP Failure": "DHCP Failure",
     "DNS Server": "Máy chủ DNS",
     "Device IP": "IP thiết bị",
     "Disconnect": "Ngắt kết nối",
@@ -691,9 +698,13 @@
     "Enter the network identifier (SSID) here": "Nhập tên mạng (SSID) ở đây",
     "Enter the network password here (optional)": "Nhập mật khẩu của mạng ở đây (tùy chọn)",
     "Gateway IP": "IP cổng",
+    "Getting IP": "Getting IP",
     "Hidden Network": "Mạng Ẩn",
     "Identifier": "Tên mạng",
+    "Invalid Password": "Invalid Password",
+    "Link Timeout": "Link Timeout",
     "Network Disabled": "Mạng bị tắt",
+    "Network Not Found": "Network Not Found",
     "Network Type": "Loại mạng",
     "No Password Detected…": "Không quét thấy mật khẩu…",
     "Not Connected": "Chưa kết nối",
@@ -706,6 +717,7 @@
     "Toggle between DHCP and Static network types": "Thay đổi giữa mạng DHCP và Mạng tĩnh",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Thay đổi giữa nên hay không cố gắng kết nối tới các truyền phát SSID ẩn",
     "Trying to Connect…": "Cố gắng Kết nối…",
+    "Validating": "Validating",
     "WI-FI NETWORK": "MẠNG WI-FI"
   },
   "muxnews": {
