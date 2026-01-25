@@ -616,9 +616,11 @@
     "Various information can be found and launched here": "Várias informações podem ser encontradas e inicializadas aqui"
   },
   "muxnetadv": {
+    "Adjusts how many retries the network connection script goes through before giving up": "Adjusts how many retries the network connection script goes through before giving up",
     "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.": "Ajusta a quantidade máxima de tentativas de carregamento do módulo de rede com a Compatibilidade de Módulos ativada. Aumente essa configuração se ainda não conseguir se conectar ao wi-fi.\n\nAlterar essa configuração pode aumentar significativamente os tempos de inicialização.",
     "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!": "Ajusta o tempo máximo de espera para que a interface de rede apareça. \n\nAVISO:\nSe você habilitar a compatibilidade do módulo, não é aconselhável aumentar essa configuração, pois isso aumentará os tempos de inicialização!",
     "Connection Monitor": "Monitor de Conexão",
+    "Connection Retry": "Connection Retry",
     "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately": "Habilite a compatibilidade do dispositivo com o carregamento do módulo de rede por meio do kernel do Linux.\n\nAumenta moderadamente os tempos de inicialização",
     "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed": "Habilita o tratamento de compatibilidade em segundo plano.\n\nFornece tempos de inicialização mais rápidos com compatibilidade habilitada, desative isso apenas se tudo mais falhar",
     "Enables network connection to be established automatically at boot": "Permite que a conexão de rede seja estabelecida automaticamente na inicialização",
@@ -674,12 +676,17 @@
     "Scanning for Wi-Fi Networks…": "Buscando por Redes Wi-Fi…"
   },
   "muxnetwork": {
+    "AP Connect Error": "AP Connect Error",
+    "Associating": "Associating",
+    "Auth Timeout": "Auth Timeout",
+    "Authenticating": "Authenticating",
     "Cannot modify while connected": "Não é possível modificar enquanto estiver conectado",
     "Changes Saved": "Alterações Salvas",
     "Connect": "Conectar",
     "Connect to the network using options entered above": "Conecte-se à rede usando as opções inseridas acima",
     "Connected": "Conectado",
     "DHCP": "DHCP",
+    "DHCP Failure": "DHCP Failure",
     "DNS Server": "Servidor DNS",
     "Device IP": "IP do Dispositivo",
     "Disconnect": "Desconectar",
@@ -691,9 +698,13 @@
     "Enter the network identifier (SSID) here": "Insira o nome da rede (SSID) aqui",
     "Enter the network password here (optional)": "Insira a senha da rede aqui (opcional)",
     "Gateway IP": "IP do Gateway",
+    "Getting IP": "Getting IP",
     "Hidden Network": "Rede Oculta",
     "Identifier": "Nome da Rede",
+    "Invalid Password": "Invalid Password",
+    "Link Timeout": "Link Timeout",
     "Network Disabled": "Rede Desativada",
+    "Network Not Found": "Network Not Found",
     "Network Type": "Tipo de Rede",
     "No Password Detected…": "Nenhuma Senha Detectada…",
     "Not Connected": "Não Conectado",
@@ -706,6 +717,7 @@
     "Toggle between DHCP and Static network types": "Alterne entre os tipos de rede DHCP e Estático",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Alterne se deve ou não conectar a um SSID oculto",
     "Trying to Connect…": "Tentando Conectar…",
+    "Validating": "Validating",
     "WI-FI NETWORK": "REDE WI-FI"
   },
   "muxnews": {
