@@ -616,9 +616,11 @@
     "Various information can be found and launched here": "Diferite informații pot fi găsite și accesate aici"
   },
   "muxnetadv": {
+    "Adjusts how many retries the network connection script goes through before giving up": "Adjusts how many retries the network connection script goes through before giving up",
     "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.": "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.",
     "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!": "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!",
     "Connection Monitor": "Connection Monitor",
+    "Connection Retry": "Connection Retry",
     "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately": "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately",
     "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed": "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed",
     "Enables network connection to be established automatically at boot": "Enables network connection to be established automatically at boot",
@@ -674,12 +676,17 @@
     "Scanning for Wi-Fi Networks…": "Se scanează rețelele Wi-Fi…"
   },
   "muxnetwork": {
+    "AP Connect Error": "AP Connect Error",
+    "Associating": "Associating",
+    "Auth Timeout": "Auth Timeout",
+    "Authenticating": "Authenticating",
     "Cannot modify while connected": "Nu se poate modifica în timp ce este conectat",
     "Changes Saved": "Modificări salvate",
     "Connect": "Conectează",
     "Connect to the network using options entered above": "Conectează-te la rețea folosind opțiunile introduse mai sus",
     "Connected": "Conectat",
     "DHCP": "DHCP",
+    "DHCP Failure": "DHCP Failure",
     "DNS Server": "Server DNS",
     "Device IP": "IP dispozitiv",
     "Disconnect": "Deconectează",
@@ -691,9 +698,13 @@
     "Enter the network identifier (SSID) here": "Introdu identificatorul rețelei (SSID) aici",
     "Enter the network password here (optional)": "Introdu parola rețelei aici (opțional)",
     "Gateway IP": "IP Gateway",
+    "Getting IP": "Getting IP",
     "Hidden Network": "Rețea ascunsă",
     "Identifier": "Identificator",
+    "Invalid Password": "Invalid Password",
+    "Link Timeout": "Link Timeout",
     "Network Disabled": "Rețea dezactivată",
+    "Network Not Found": "Network Not Found",
     "Network Type": "Tip rețea",
     "No Password Detected…": "Nicio parolă detectată…",
     "Not Connected": "Neconectat",
@@ -706,6 +717,7 @@
     "Toggle between DHCP and Static network types": "Comută între tipurile de rețea DHCP și Static",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Comută opțiunea de a încerca să te conectezi la un SSID ascuns",
     "Trying to Connect…": "Se încearcă conectarea…",
+    "Validating": "Validating",
     "WI-FI NETWORK": "REȚEA WI-FI"
   },
   "muxnews": {
