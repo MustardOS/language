@@ -616,9 +616,11 @@
     "Various information can be found and launched here": "Različite informacije mogu se pronaći i pokrenuti ovde"
   },
   "muxnetadv": {
+    "Adjusts how many retries the network connection script goes through before giving up": "Adjusts how many retries the network connection script goes through before giving up",
     "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.": "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.",
     "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!": "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!",
     "Connection Monitor": "Connection Monitor",
+    "Connection Retry": "Connection Retry",
     "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately": "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately",
     "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed": "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed",
     "Enables network connection to be established automatically at boot": "Enables network connection to be established automatically at boot",
@@ -674,12 +676,17 @@
     "Scanning for Wi-Fi Networks…": "Skeniranje Wi-Fi mreža…"
   },
   "muxnetwork": {
+    "AP Connect Error": "AP Connect Error",
+    "Associating": "Associating",
+    "Auth Timeout": "Auth Timeout",
+    "Authenticating": "Authenticating",
     "Cannot modify while connected": "Ne može se modifikovati dok je povezano",
     "Changes Saved": "Promene su sačuvane",
     "Connect": "Poveži se",
     "Connect to the network using options entered above": "Povežite se na mrežu koristeći opcije unete iznad",
     "Connected": "Povezan",
     "DHCP": "DHCP",
+    "DHCP Failure": "DHCP Failure",
     "DNS Server": "DNS Server",
     "Device IP": "IP adresa uređaja",
     "Disconnect": "Diskonektovanje",
@@ -691,9 +698,13 @@
     "Enter the network identifier (SSID) here": "Unesite naziv mreže (SSID)",
     "Enter the network password here (optional)": "Unesite lozinku za mrežu ovde (nije obavezno)",
     "Gateway IP": "IP adresa mrežnog prolaza (gateway)",
+    "Getting IP": "Getting IP",
     "Hidden Network": "Skrivena mreža",
     "Identifier": "Identifikator",
+    "Invalid Password": "Invalid Password",
+    "Link Timeout": "Link Timeout",
     "Network Disabled": "Mreža onemogućena",
+    "Network Not Found": "Network Not Found",
     "Network Type": "Vrsta mreže",
     "No Password Detected…": "Šifra nije otkrivena…",
     "Not Connected": "Nije povezano",
@@ -706,6 +717,7 @@
     "Toggle between DHCP and Static network types": "Odaberite između DHCP i statičkog tipa mreže",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Omogućite ili onemogućite povezivanje na mrežu sa skrivenim SSID-om",
     "Trying to Connect…": "Pokušaj povezivanja…",
+    "Validating": "Validating",
     "WI-FI NETWORK": "WI-FI MREŽA"
   },
   "muxnews": {
