@@ -616,9 +616,11 @@
     "Various information can be found and launched here": "Is féidir eolas éagsúil a fháil agus a sheoladh anseo"
   },
   "muxnetadv": {
+    "Adjusts how many retries the network connection script goes through before giving up": "Adjusts how many retries the network connection script goes through before giving up",
     "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.": "Coigeartaíonn sé seo an líon uasta iarrachtaí chun an modúl líonra a luchtú agus Comhoiriúnacht an Mhodúil cumasaithe. Méadaigh an socrú seo mura bhfuil tú fós in ann ceangal le wifi.\n\nD’fhéadfadh méadú suntasach a bheith ar amanna tosaithe trí an socrú seo a mhéadú.",
     "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!": "Coigeartaíonn sé seo an t-uasmhéid ama a chaithfidh tú fanacht leis an gcomhéadan líonra a bheith le feiceáil.\n\nRABHADH:\nMura gcuireann tú Comhoiriúnacht Modúl ar siúl, moltar an socrú seo a mhéadú mar go méadóidh sé amanna tosaithe!",
     "Connection Monitor": "Monatóir Ceangail",
+    "Connection Retry": "Connection Retry",
     "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately": "Cumasaigh comhoiriúnacht gléasanna le luchtú modúl líonra tríd an eithne Linux\n\nMéadaíonn sé amanna tosaithe go measartha",
     "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed": "Cumasaigh láimhseáil chomhoiriúnachta sa chúlra\n\nSoláthraíonn sé amanna tosaithe níos tapúla nuair a bhíonn an chomhoiriúnacht cumasaithe, díchumasaigh é seo ach amháin má theip ar gach rud eile",
     "Enables network connection to be established automatically at boot": "Cumasaíonn sé nasc líonra a bhunú go huathoibríoch ag an tosaithe",
@@ -674,12 +676,17 @@
     "Scanning for Wi-Fi Networks…": "Ag scanadh do líonraí Wi-Fi…"
   },
   "muxnetwork": {
+    "AP Connect Error": "AP Connect Error",
+    "Associating": "Associating",
+    "Auth Timeout": "Auth Timeout",
+    "Authenticating": "Authenticating",
     "Cannot modify while connected": "Ní féidir a mhodhnú agus tú nasctha",
     "Changes Saved": "Athruithe Sábháilte",
     "Connect": "Ceangail",
     "Connect to the network using options entered above": "Ceangail leis an líonra ag úsáid roghanna a iontráiltear thuas",
     "Connected": "Ceangailte",
     "DHCP": "DHCP",
+    "DHCP Failure": "DHCP Failure",
     "DNS Server": "Freastalaí DNS",
     "Device IP": "IP Gléas",
     "Disconnect": "Dícheangail",
@@ -691,9 +698,13 @@
     "Enter the network identifier (SSID) here": "Iontráil aitheantóir an líonra (SSID) anseo",
     "Enter the network password here (optional)": "Iontráil pasfhocal an líonra anseo (roghnach)",
     "Gateway IP": "IP an Gheata",
+    "Getting IP": "Getting IP",
     "Hidden Network": "Líonra i bhfolach",
     "Identifier": "Aitheantóir",
+    "Invalid Password": "Invalid Password",
+    "Link Timeout": "Link Timeout",
     "Network Disabled": "Líonra Díchumasaithe",
+    "Network Not Found": "Network Not Found",
     "Network Type": "Cineál Líonra",
     "No Password Detected…": "Níor aimsíodh aon phasfhocal…",
     "Not Connected": "Gan Ceangal",
@@ -706,6 +717,7 @@
     "Toggle between DHCP and Static network types": "Scoránaigh idir DHCP agus cineálacha líonra statacha",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Scoránaigh cé acu an ndéanfar iarracht nó nach ndéanfar iarracht ceangal a dhéanamh le craoladh SSID folaithe",
     "Trying to Connect…": "Ag iarraidh Ceangail…",
+    "Validating": "Validating",
     "WI-FI NETWORK": "LÍONRA WI-FI"
   },
   "muxnews": {
