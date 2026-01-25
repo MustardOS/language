@@ -616,9 +616,11 @@
     "Various information can be found and launched here": "様々な情報を確認します"
   },
   "muxnetadv": {
+    "Adjusts how many retries the network connection script goes through before giving up": "Adjusts how many retries the network connection script goes through before giving up",
     "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.": "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.",
     "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!": "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!",
     "Connection Monitor": "Connection Monitor",
+    "Connection Retry": "Connection Retry",
     "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately": "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately",
     "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed": "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed",
     "Enables network connection to be established automatically at boot": "Enables network connection to be established automatically at boot",
@@ -674,12 +676,17 @@
     "Scanning for Wi-Fi Networks…": "Wi-Fi ネットワークを検出しています…"
   },
   "muxnetwork": {
+    "AP Connect Error": "AP Connect Error",
+    "Associating": "Associating",
+    "Auth Timeout": "Auth Timeout",
+    "Authenticating": "Authenticating",
     "Cannot modify while connected": "接続中は変更できません",
     "Changes Saved": "変更を保存しました",
     "Connect": "接続する",
     "Connect to the network using options entered above": "上記の設定でネットワークに接続します",
     "Connected": "接続済み",
     "DHCP": "DHCP",
+    "DHCP Failure": "DHCP Failure",
     "DNS Server": "DNS サーバー",
     "Device IP": "デバイス IP",
     "Disconnect": "接続を切る",
@@ -691,9 +698,13 @@
     "Enter the network identifier (SSID) here": "ネットワーク名 (SSID) を入力してください",
     "Enter the network password here (optional)": "ネットワークパスワードを入力してください (任意)",
     "Gateway IP": "ゲートウェイ IP",
+    "Getting IP": "Getting IP",
     "Hidden Network": "非公開ネットワーク",
     "Identifier": "ネットワーク名",
+    "Invalid Password": "Invalid Password",
+    "Link Timeout": "Link Timeout",
     "Network Disabled": "ネットワークが無効です",
+    "Network Not Found": "Network Not Found",
     "Network Type": "ネットワーク種別",
     "No Password Detected…": "パスワードが検出できませんでした…",
     "Not Connected": "未接続",
@@ -706,6 +717,7 @@
     "Toggle between DHCP and Static network types": "DHCP と 静的ネットワークを切り替えます",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "非公開ネットワークの SSID を検出して接続を試みます",
     "Trying to Connect…": "接続しています…",
+    "Validating": "Validating",
     "WI-FI NETWORK": "WI-FI ネットワーク"
   },
   "muxnews": {
