@@ -616,9 +616,11 @@
     "Various information can be found and launched here": "Various information can be found and launched here"
   },
   "muxnetadv": {
+    "Adjusts how many retries the network connection script goes through before giving up": "Adjusts how many retries the network connection script goes through before giving up",
     "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.": "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.",
     "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!": "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!",
     "Connection Monitor": "Connection Monitor",
+    "Connection Retry": "Connection Retry",
     "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately": "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately",
     "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed": "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed",
     "Enables network connection to be established automatically at boot": "Enables network connection to be established automatically at boot",
@@ -674,12 +676,17 @@
     "Scanning for Wi-Fi Networks…": "Naar wifi netwerken zoeken…"
   },
   "muxnetwork": {
+    "AP Connect Error": "AP Connect Error",
+    "Associating": "Associating",
+    "Auth Timeout": "Auth Timeout",
+    "Authenticating": "Authenticating",
     "Cannot modify while connected": "Kan tijdens verbinding niet gewijzigd worden",
     "Changes Saved": "Veranderingen opgeslagen",
     "Connect": "Verbind",
     "Connect to the network using options entered above": "Connect to the network using options entered above",
     "Connected": "Verbonden",
     "DHCP": "DHCP",
+    "DHCP Failure": "DHCP Failure",
     "DNS Server": "DNS-server",
     "Device IP": "IP-Adres",
     "Disconnect": "Verbinding verbreken",
@@ -691,9 +698,13 @@
     "Enter the network identifier (SSID) here": "Enter the network identifier (SSID) here",
     "Enter the network password here (optional)": "Netwerkwachtwoord invoeren (optioneel)",
     "Gateway IP": "Gateway",
+    "Getting IP": "Getting IP",
     "Hidden Network": "Verborgen netwerk",
     "Identifier": "Netwerknaam",
+    "Invalid Password": "Invalid Password",
+    "Link Timeout": "Link Timeout",
     "Network Disabled": "Netwerk uitgeschakeld",
+    "Network Not Found": "Network Not Found",
     "Network Type": "Netwerktype",
     "No Password Detected…": "Geen wachtwoord gevonden…",
     "Not Connected": "Niet verbonden",
@@ -706,6 +717,7 @@
     "Toggle between DHCP and Static network types": "Toggle between DHCP and Static network types",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Wel of niet proberen met een verborgen SSID te verbinden",
     "Trying to Connect…": "Bezig met verbinden…",
+    "Validating": "Validating",
     "WI-FI NETWORK": "NETWERK"
   },
   "muxnews": {
