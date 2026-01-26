@@ -574,6 +574,7 @@
     "Power Settings": "Strømindstillinger",
     "Restrict to specific 'kiosk' directory within collections": "Begræns til specifik 'kiosk'-mappe i samlinger",
     "Restricted Messages": "Begrænsede beskeder",
+    "RetroArch Settings": "RetroArch Settings",
     "Storage": "Lager",
     "Task Toolkit": "Opgaveværktøjskasse",
     "Theme Download": "Hentning af tema",
@@ -744,8 +745,10 @@
     "Set the control scheme for the selected content or directory": "Angiv kontrol skemaet for det valgte indhold eller mappe",
     "Set the specific tag of the content selected to change the glyph": "Angiv det specifikke tag for det valgte indhold for at ændre glyffen",
     "Set the system core or external emulator for the selected content or directory": "Indstil systemkernen eller den eksterne emulator for det valgte indhold eller mappe",
+    "Threaded Video": "Threaded Video",
     "Time Played": "Spilletid",
-    "Times Launched": "Antal gange startet"
+    "Times Launched": "Antal gange startet",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxoverlay": {
     "Bottom Left": "Nederst til venstre",
@@ -849,6 +852,10 @@
     "Sleep Until Wake": "Sov til du vågner",
     "Toggle if the audio is muted when display is dimmed": "Slå lyden til/fra, når skærmen er dæmpet",
     "Toggle the frontend screensaver on Idle Display Timeout activation": "Slå brugerflade-pauseskærm til/fra ved aktivering af timeout for inaktiv skærm"
+  },
+  "muxraopt": {
+    "THREADED VIDEO": "THREADED VIDEO",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxrtc": {
     "12 Hour": "12 timers",
