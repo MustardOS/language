@@ -46,7 +46,7 @@
     "Offline": "Offline",
     "Online": "Online",
     "Open": "Otevřít",
-    "Options": "Options",
+    "Options": "Možnosti",
     "Preview Image": "Náhledový obrázek",
     "Previous": "Předchozí",
     "Read": "Číst",
@@ -574,7 +574,7 @@
     "Power Settings": "Nastavení Napájení",
     "Restrict to specific 'kiosk' directory within collections": "Omezit na konkrétní adresář „kiosk“ v rámci kolekcí",
     "Restricted Messages": "Omezené zprávy",
-    "RetroArch Settings": "RetroArch Settings",
+    "RetroArch Settings": "Nastavení RetroArch",
     "Storage": "Uložiště",
     "Task Toolkit": "Sada nástrojů",
     "Theme Download": "Téma ke stažení",
@@ -616,11 +616,11 @@
     "Various information can be found and launched here": "Zde lze nalézt a spustit různé informace"
   },
   "muxnetadv": {
-    "Adjusts how many retries the network connection script goes through before giving up": "Adjusts how many retries the network connection script goes through before giving up",
+    "Adjusts how many retries the network connection script goes through before giving up": "Upravuje počet opakování síťového připojení, které skript provede, než se ukončí",
     "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.": "Upravuje maximální počet pokusů o načtení síťového modulu, pokud je povolena možnost Kompatibilita modulů. Zvyšte toto nastavení, pokud se stále nemůžete připojit k Wi-Fi.\n\nZvýšení tohoto nastavení může výrazně prodloužit dobu spouštění.",
     "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!": "Upravuje maximální dobu čekání na zobrazení síťového rozhraní.\n\nVAROVÁNÍ:\nPokud povolíte kompatibilitu modulů, nedoporučuje se toto nastavení zvyšovat, protože by se tím prodloužila doba spouštění!",
     "Connection Monitor": "Monitor připojení",
-    "Connection Retry": "Connection Retry",
+    "Connection Retry": "Opakovat připojení",
     "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately": "Povolit kompatibilitu zařízení s načítáním síťových modulů prostřednictvím linuxového jádra\n\nMírně prodlužuje dobu spouštění",
     "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed": "Povolit zpracování kompatibility na pozadí\n\nPoskytuje rychlejší bootování s povolenou kompatibilitou, tuto funkci vypněte pouze v případě, že vše ostatní selhalo",
     "Enables network connection to be established automatically at boot": "Umožňuje automatické navázání síťového připojení při spuštění",
@@ -676,17 +676,17 @@
     "Scanning for Wi-Fi Networks…": "Vyhledávání sítí Wi-Fi…"
   },
   "muxnetwork": {
-    "AP Connect Error": "AP Connect Error",
-    "Associating": "Associating",
-    "Auth Timeout": "Auth Timeout",
-    "Authenticating": "Authenticating",
+    "AP Connect Error": "Chyba připojení AP",
+    "Associating": "Sdružování",
+    "Auth Timeout": "Časový limit ověření",
+    "Authenticating": "Ověřování",
     "Cannot modify while connected": "Během připojení nelze upravit",
     "Changes Saved": "Změny uloženy",
     "Connect": "Připojit",
     "Connect to the network using options entered above": "Připojte se k síti pomocí možností zadaných výše",
     "Connected": "Připojeno",
     "DHCP": "DHCP",
-    "DHCP Failure": "DHCP Failure",
+    "DHCP Failure": "Selhání DHCP",
     "DNS Server": "Server DNS",
     "Device IP": "IP adresa zařízení",
     "Disconnect": "Odpojit",
@@ -698,13 +698,13 @@
     "Enter the network identifier (SSID) here": "Zde zadejte identifikátor sítě (SSID)",
     "Enter the network password here (optional)": "Zde zadejte síťové heslo (volitelné)",
     "Gateway IP": "Brána IP",
-    "Getting IP": "Getting IP",
+    "Getting IP": "Získání IP",
     "Hidden Network": "Skrytá síť",
     "Identifier": "SSID",
-    "Invalid Password": "Invalid Password",
-    "Link Timeout": "Link Timeout",
+    "Invalid Password": "Neplatné heslo",
+    "Link Timeout": "Časový limit odkazu",
     "Network Disabled": "Vypnutá síť",
-    "Network Not Found": "Network Not Found",
+    "Network Not Found": "Síť nenalezena",
     "Network Type": "Typ sítě",
     "No Password Detected…": "Nebylo zjištěno žádné heslo…",
     "Not Connected": "Nepřipojeno",
@@ -717,7 +717,7 @@
     "Toggle between DHCP and Static network types": "Přepínání mezi DHCP a Statickou sítí",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Přepněte, zda se chcete nebo nechcete pokusit připojit ke skrytému vysílání SSID",
     "Trying to Connect…": "Pokus o připojení…",
-    "Validating": "Validating",
+    "Validating": "Ověřování",
     "WI-FI NETWORK": "WI-FI SÍŤ"
   },
   "muxnews": {
@@ -745,10 +745,10 @@
     "Set the control scheme for the selected content or directory": "Nastavení schématu řízení pro vybraný obsah nebo adresář",
     "Set the specific tag of the content selected to change the glyph": "Chcete-li změnit glyf, nastavte konkrétní značku obsahu vybraného",
     "Set the system core or external emulator for the selected content or directory": "Nastavte jádro systému nebo externí emulátor pro vybraný obsah nebo adresář",
-    "Threaded Video": "Threaded Video",
+    "Threaded Video": "Závitové video",
     "Time Played": "Nahraný čas",
     "Times Launched": "Časy spuštěny",
-    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Dokud RetroArch nevyřeší problém s možností vláknového videa, můžete ji přepnout zde.\n\nZ toho se v budoucnu může stát i větší sada možností!"
   },
   "muxoverlay": {
     "Bottom Left": "Vlevo dole",
@@ -854,8 +854,8 @@
     "Toggle the frontend screensaver on Idle Display Timeout activation": "Přepnout spořič obrazovky frontendu při aktivaci časového limitu nečinného displeje"
   },
   "muxraopt": {
-    "THREADED VIDEO": "THREADED VIDEO",
-    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
+    "THREADED VIDEO": "VLÁKNĚNÉ VIDEO",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Dokud RetroArch nevyřeší problém s možností vláknového videa, můžete ji přepnout zde.\n\nZ toho se v budoucnu může stát i větší sada možností!"
   },
   "muxrtc": {
     "12 Hour": "12 Hodin",
