@@ -574,6 +574,7 @@
     "Power Settings": "Energieeinstellungen",
     "Restrict to specific 'kiosk' directory within collections": "Einschränkung auf ein bestimmtes 'Kiosk'-Verzeichnis innerhalb von Sammlungen",
     "Restricted Messages": "Eingeschränkte Nachrichten",
+    "RetroArch Settings": "RetroArch Settings",
     "Storage": "Speicher",
     "Task Toolkit": "Tasktool",
     "Theme Download": "Skin Download",
@@ -744,8 +745,10 @@
     "Set the control scheme for the selected content or directory": "Das Steuerungsschema für das ausgewählte Medium oder das Verzeichnis einstellen",
     "Set the specific tag of the content selected to change the glyph": "Markierung des ausgewählten Mediums definieren, um das Symbol zu ändern",
     "Set the system core or external emulator for the selected content or directory": "Den System- oder externen Emulator für das ausgewählte Medium oder das Verzeichnis zuweisen",
+    "Threaded Video": "Threaded Video",
     "Time Played": "Gespielte Zeit",
-    "Times Launched": "Anzahl der Starts"
+    "Times Launched": "Anzahl der Starts",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxoverlay": {
     "Bottom Left": "Unten Links",
@@ -849,6 +852,10 @@
     "Sleep Until Wake": "Standby bis zum Wecken",
     "Toggle if the audio is muted when display is dimmed": "Ein- oder ausschalten, ob der Ton stumm geschaltet wird, wenn das Display abgeblendet ist",
     "Toggle the frontend screensaver on Idle Display Timeout activation": "Stelle den Bildschirmschoner und dir Aktivitätszeit ein"
+  },
+  "muxraopt": {
+    "THREADED VIDEO": "THREADED VIDEO",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxrtc": {
     "12 Hour": "12 Stunden",
