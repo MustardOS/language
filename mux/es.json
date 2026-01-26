@@ -574,7 +574,7 @@
     "Power Settings": "Ajustes de energía",
     "Restrict to specific 'kiosk' directory within collections": "Restringir a un directorio específico «kiosk» dentro de las colecciones",
     "Restricted Messages": "Mensajes restringidos",
-    "RetroArch Settings": "RetroArch Settings",
+    "RetroArch Settings": "Configuración de RetroArch",
     "Storage": "Almacenamiento",
     "Task Toolkit": "Kit de herramientas de tareas",
     "Theme Download": "Descarga del tema",
@@ -745,10 +745,10 @@
     "Set the control scheme for the selected content or directory": "Configura el esquema de control para el contenido o directorio seleccionado",
     "Set the specific tag of the content selected to change the glyph": "Establece la etiqueta específica del contenido seleccionado para cambiar el glifo",
     "Set the system core or external emulator for the selected content or directory": "Configura el núcleo del sistema o el emulador externo para el contenido o directorio seleccionado",
-    "Threaded Video": "Threaded Video",
+    "Threaded Video": "Vídeo enlazado",
     "Time Played": "Tiempo jugado",
     "Times Launched": "Veces lanzado",
-    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Hasta que RetroArch resuelva el problema con la opción de video enlazado, puedes activarla aquí.\n\n¡Esto también podría ampliar el conjunto de opciones en el futuro!"
   },
   "muxoverlay": {
     "Bottom Left": "Abajo izquierda",
@@ -854,8 +854,8 @@
     "Toggle the frontend screensaver on Idle Display Timeout activation": "Activar el salvapantallas del interfaz al activarse el tiempo de espera de la pantalla inactiva"
   },
   "muxraopt": {
-    "THREADED VIDEO": "THREADED VIDEO",
-    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
+    "THREADED VIDEO": "VIDEO ENLAZADO",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Hasta que RetroArch resuelva el problema con la opción de video enlazado, puedes activarla aquí.\n\n¡Esto también podría ampliar el conjunto de opciones en el futuro!"
   },
   "muxrtc": {
     "12 Hour": "12 horas",
