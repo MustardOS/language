@@ -574,6 +574,7 @@
     "Power Settings": "Nastavení Napájení",
     "Restrict to specific 'kiosk' directory within collections": "Omezit na konkrétní adresář „kiosk“ v rámci kolekcí",
     "Restricted Messages": "Omezené zprávy",
+    "RetroArch Settings": "RetroArch Settings",
     "Storage": "Uložiště",
     "Task Toolkit": "Sada nástrojů",
     "Theme Download": "Téma ke stažení",
@@ -744,8 +745,10 @@
     "Set the control scheme for the selected content or directory": "Nastavení schématu řízení pro vybraný obsah nebo adresář",
     "Set the specific tag of the content selected to change the glyph": "Chcete-li změnit glyf, nastavte konkrétní značku obsahu vybraného",
     "Set the system core or external emulator for the selected content or directory": "Nastavte jádro systému nebo externí emulátor pro vybraný obsah nebo adresář",
+    "Threaded Video": "Threaded Video",
     "Time Played": "Nahraný čas",
-    "Times Launched": "Časy spuštěny"
+    "Times Launched": "Časy spuštěny",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxoverlay": {
     "Bottom Left": "Vlevo dole",
@@ -849,6 +852,10 @@
     "Sleep Until Wake": "Spát do probuzení",
     "Toggle if the audio is muted when display is dimmed": "Přepnout, zda je zvuk ztlumen při ztlumeném displeji",
     "Toggle the frontend screensaver on Idle Display Timeout activation": "Přepnout spořič obrazovky frontendu při aktivaci časového limitu nečinného displeje"
+  },
+  "muxraopt": {
+    "THREADED VIDEO": "THREADED VIDEO",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxrtc": {
     "12 Hour": "12 Hodin",
