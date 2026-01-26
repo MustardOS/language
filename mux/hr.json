@@ -574,6 +574,7 @@
     "Power Settings": "Postavke napajanja",
     "Restrict to specific 'kiosk' directory within collections": "Ograniči na 'kiosk' mapu unutar kolekcija",
     "Restricted Messages": "Ograničene poruke",
+    "RetroArch Settings": "RetroArch Settings",
     "Storage": "Pohrana",
     "Task Toolkit": "Alati zadataka",
     "Theme Download": "Preuzimanje tema",
@@ -744,8 +745,10 @@
     "Set the control scheme for the selected content or directory": "Odaberi shemu kontrola za sadržaj ili mapu",
     "Set the specific tag of the content selected to change the glyph": "Postavi oznaku za promjenu ikone",
     "Set the system core or external emulator for the selected content or directory": "Dodijeli jezgru sustava ili vanjski emulator za sadržaj/mapu",
+    "Threaded Video": "Threaded Video",
     "Time Played": "Vrijeme igranja",
-    "Times Launched": "Broj pokretanja"
+    "Times Launched": "Broj pokretanja",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxoverlay": {
     "Bottom Left": "Bottom Left",
@@ -849,6 +852,10 @@
     "Sleep Until Wake": "Mirovanje do buđenja",
     "Toggle if the audio is muted when display is dimmed": "Uključi/isključi automatsko utišavanje zvuka pri zatamnjenju ekrana",
     "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
+  },
+  "muxraopt": {
+    "THREADED VIDEO": "THREADED VIDEO",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxrtc": {
     "12 Hour": "12-satni format",
