@@ -574,6 +574,7 @@
     "Power Settings": "전원 설정",
     "Restrict to specific 'kiosk' directory within collections": "컬렉션 내 특정 '키오스크' 폴더로 제한",
     "Restricted Messages": "제한된 메시지",
+    "RetroArch Settings": "RetroArch Settings",
     "Storage": "저장소",
     "Task Toolkit": "태스크 툴킷",
     "Theme Download": "테마 다운로드",
@@ -744,8 +745,10 @@
     "Set the control scheme for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 제어 체계를 설정",
     "Set the specific tag of the content selected to change the glyph": "글리프를 변경하기 위해 선택된 콘텐츠의 특정 태그를 설정",
     "Set the system core or external emulator for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 시스템 코어 또는 외부 에뮬레이터 설정",
+    "Threaded Video": "Threaded Video",
     "Time Played": "플레이 시간",
-    "Times Launched": "실행 횟수"
+    "Times Launched": "실행 횟수",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxoverlay": {
     "Bottom Left": "Bottom Left",
@@ -849,6 +852,10 @@
     "Sleep Until Wake": "깨울 때까지 슬립",
     "Toggle if the audio is muted when display is dimmed": "디스플레이가 어두워지면 오디오가 음소거되는지 여부를 전환",
     "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
+  },
+  "muxraopt": {
+    "THREADED VIDEO": "THREADED VIDEO",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxrtc": {
     "12 Hour": "12 시간제",
