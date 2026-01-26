@@ -46,7 +46,7 @@
     "Offline": "離線",
     "Online": "上線",
     "Open": "開啟",
-    "Options": "Options",
+    "Options": "選項",
     "Preview Image": "預覽影像",
     "Previous": "先前",
     "Read": "讀取",
@@ -574,7 +574,7 @@
     "Power Settings": "電源設定",
     "Restrict to specific 'kiosk' directory within collections": "限制在收藏夾內的特定 'kiosk' 目錄",
     "Restricted Messages": "受限訊息",
-    "RetroArch Settings": "RetroArch Settings",
+    "RetroArch Settings": "RetroArch設定",
     "Storage": "儲存裝置",
     "Task Toolkit": "任務工具包",
     "Theme Download": "主題下載",
@@ -616,11 +616,11 @@
     "Various information can be found and launched here": "可以在這裡查看各種資訊"
   },
   "muxnetadv": {
-    "Adjusts how many retries the network connection script goes through before giving up": "Adjusts how many retries the network connection script goes through before giving up",
+    "Adjusts how many retries the network connection script goes through before giving up": "調整網路連線腳本在放棄之前嘗試重試的次數",
     "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.": "調整啟用模組相容性後載入網路模組的最大嘗試次數。如果您仍然無法連線到Wi-Fi，請增加此設定。\n\n增加此設定可能會顯著增加啟動時間。",
     "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!": "調整等待網路介面出現的最長時間。\n\n警告：\n如果您啟用了模組相容性，則不建議增加此設置，因為這會增加啟動時間！",
     "Connection Monitor": "連接監測",
-    "Connection Retry": "Connection Retry",
+    "Connection Retry": "連線重試",
     "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately": "透過Linux核心啟用網路模組載入的裝置相容性\n\n適度增加啟動時間",
     "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed": "啟用相容性的後台處理\n\n啟用相容性後，啟動速度更快，僅在其他所有方法失敗時才停用此功能",
     "Enables network connection to be established automatically at boot": "啟用開機時自動建立網路連接",
@@ -676,17 +676,17 @@
     "Scanning for Wi-Fi Networks…": "正在掃描Wi-Fi網路…"
   },
   "muxnetwork": {
-    "AP Connect Error": "AP Connect Error",
-    "Associating": "Associating",
-    "Auth Timeout": "Auth Timeout",
-    "Authenticating": "Authenticating",
+    "AP Connect Error": "AP連線錯誤",
+    "Associating": "連線中",
+    "Auth Timeout": "驗證逾時",
+    "Authenticating": "驗證中",
     "Cannot modify while connected": "連線時無法修改",
     "Changes Saved": "變更已儲存",
     "Connect": "連接",
     "Connect to the network using options entered above": "使用上面輸入的選項連接到網絡",
     "Connected": "已連接",
     "DHCP": "DHCP",
-    "DHCP Failure": "DHCP Failure",
+    "DHCP Failure": "DHCP失敗",
     "DNS Server": "DNS伺服器",
     "Device IP": "裝置IP",
     "Disconnect": "斷開",
@@ -698,13 +698,13 @@
     "Enter the network identifier (SSID) here": "在此輸入網路識別碼(SSID)",
     "Enter the network password here (optional)": "在此輸入網路密碼(可選)",
     "Gateway IP": "閘道IP",
-    "Getting IP": "Getting IP",
+    "Getting IP": "正在取得IP",
     "Hidden Network": "隱藏的網路",
     "Identifier": "SSID",
-    "Invalid Password": "Invalid Password",
-    "Link Timeout": "Link Timeout",
+    "Invalid Password": "密碼無效",
+    "Link Timeout": "連接逾時",
     "Network Disabled": "網路已關閉",
-    "Network Not Found": "Network Not Found",
+    "Network Not Found": "未找到網絡",
     "Network Type": "網路類型",
     "No Password Detected…": "未偵測到密碼…",
     "Not Connected": "未連接",
@@ -717,7 +717,7 @@
     "Toggle between DHCP and Static network types": "在DHCP和靜態網路類型之間切換",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "是否連接到隱藏SSID的WiFi熱點",
     "Trying to Connect…": "嘗試連接中…",
-    "Validating": "Validating",
+    "Validating": "正在驗證",
     "WI-FI NETWORK": "WI-FI網路"
   },
   "muxnews": {
@@ -745,10 +745,10 @@
     "Set the control scheme for the selected content or directory": "為選定的內容或目錄設定控制方案",
     "Set the specific tag of the content selected to change the glyph": "為所選內容設定個別標籤以變更標記",
     "Set the system core or external emulator for the selected content or directory": "為所選內容或目錄設定系統核心或外部模擬器",
-    "Threaded Video": "Threaded Video",
+    "Threaded Video": "多線程視訊",
     "Time Played": "遊玩時間",
     "Times Launched": "啟動時間",
-    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "在 RetroArch 解決多線程視訊選項的問題之前，您可以先在這裡切換該選項。\n\n未來這裡可能會提供更多選項！"
   },
   "muxoverlay": {
     "Bottom Left": "左下",
@@ -854,8 +854,8 @@
     "Toggle the frontend screensaver on Idle Display Timeout activation": "前端閒置超時啟動螢幕保護程序"
   },
   "muxraopt": {
-    "THREADED VIDEO": "THREADED VIDEO",
-    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
+    "THREADED VIDEO": "多線程視訊",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "在RetroArch解決多線程視訊選項的問題之前，您可以先在這裡切換該選項。\n\n未來這裡可能會提供更多選項！"
   },
   "muxrtc": {
     "12 Hour": "12時制",
