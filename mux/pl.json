@@ -574,7 +574,7 @@
     "Power Settings": "Ustawienia zasilania",
     "Restrict to specific 'kiosk' directory within collections": "Ogranicz do folderu 'kiosk' w kolekcjach",
     "Restricted Messages": "Zastrzeżone wiadomości",
-    "RetroArch Settings": "RetroArch Settings",
+    "RetroArch Settings": "Ustawienia RetroArch",
     "Storage": "Pamięć",
     "Task Toolkit": "Przybornik zadań",
     "Theme Download": "Pobieranie motywu",
@@ -745,10 +745,10 @@
     "Set the control scheme for the selected content or directory": "Wybierz schemat sterowania dla wybranej zawartości lub folderu",
     "Set the specific tag of the content selected to change the glyph": "Wybierz konkretną etykietę zawartości, by zmienić ikonę",
     "Set the system core or external emulator for the selected content or directory": "Ustaw rdzeń lub zewnętrzny emulator dla wybranej zawartości lub folderu",
-    "Threaded Video": "Threaded Video",
+    "Threaded Video": "Wideo w wątkach",
     "Time Played": "Czas gry",
     "Times Launched": "Liczba uruchomień",
-    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Dopóki RetroArch nie naprawi problemu z wideo w wątkach, możesz włączyć to ustawienie tutaj. \n\nMoże się to stać większym zbiorem ustawień w przyszłości!"
   },
   "muxoverlay": {
     "Bottom Left": "Dolne lewo",
@@ -854,8 +854,8 @@
     "Toggle the frontend screensaver on Idle Display Timeout activation": "Włącz wygaszacz ekranu podczas aktywacji czasu bezczynności"
   },
   "muxraopt": {
-    "THREADED VIDEO": "THREADED VIDEO",
-    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
+    "THREADED VIDEO": "WIDEO W WĄTKACH",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Dopóki RetroArch nie naprawi problemu z wideo w wątkach, możesz włączyć to ustawienie tutaj. \n\nMoże się to stać większym zbiorem ustawień w przyszłości!"
   },
   "muxrtc": {
     "12 Hour": "12-godzinny",
