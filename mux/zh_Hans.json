@@ -574,6 +574,7 @@
     "Power Settings": "电源设置",
     "Restrict to specific 'kiosk' directory within collections": "限制在收藏夹内的特定'访客'目录",
     "Restricted Messages": "受限消息",
+    "RetroArch Settings": "RetroArch Settings",
     "Storage": "存储",
     "Task Toolkit": "任务工具箱",
     "Theme Download": "主题下载",
@@ -744,8 +745,10 @@
     "Set the control scheme for the selected content or directory": "为选定内容或目录设置控制方案",
     "Set the specific tag of the content selected to change the glyph": "为所选内容设置特定标签以更改图标",
     "Set the system core or external emulator for the selected content or directory": "为选定内容或目录配置核心或独立模拟器",
+    "Threaded Video": "Threaded Video",
     "Time Played": "游玩时间",
-    "Times Launched": "启动次数"
+    "Times Launched": "启动次数",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxoverlay": {
     "Bottom Left": "Bottom Left",
@@ -849,6 +852,10 @@
     "Sleep Until Wake": "保持睡眠至唤醒",
     "Toggle if the audio is muted when display is dimmed": "开启/关闭屏幕变暗时静音",
     "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
+  },
+  "muxraopt": {
+    "THREADED VIDEO": "THREADED VIDEO",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxrtc": {
     "12 Hour": "12小时制",
