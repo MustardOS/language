@@ -574,6 +574,7 @@
     "Power Settings": "Power Settings",
     "Restrict to specific 'kiosk' directory within collections": "Restrict to specific 'kiosk' directory within collections",
     "Restricted Messages": "Restricted Messages",
+    "RetroArch Settings": "RetroArch Settings",
     "Storage": "Storage",
     "Task Toolkit": "Task Toolkit",
     "Theme Download": "Theme Download",
@@ -744,8 +745,10 @@
     "Set the control scheme for the selected content or directory": "Set the control scheme for the selected content or directory",
     "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
     "Set the system core or external emulator for the selected content or directory": "Setează nucleul sistemului sau un emulator extern pentru conținutul sau directorul selectat",
+    "Threaded Video": "Threaded Video",
     "Time Played": "Time Played",
-    "Times Launched": "Times Launched"
+    "Times Launched": "Times Launched",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxoverlay": {
     "Bottom Left": "Bottom Left",
@@ -849,6 +852,10 @@
     "Sleep Until Wake": "Repaus până la activare",
     "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
     "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
+  },
+  "muxraopt": {
+    "THREADED VIDEO": "THREADED VIDEO",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxrtc": {
     "12 Hour": "12 Ore",
