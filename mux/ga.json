@@ -574,7 +574,7 @@
     "Power Settings": "Socruithe Cumhachta",
     "Restrict to specific 'kiosk' directory within collections": "Srian le heolaire 'ciosc' ar leith laistigh de bhailiúcháin",
     "Restricted Messages": "Teachtaireachtaí Srianta",
-    "RetroArch Settings": "RetroArch Settings",
+    "RetroArch Settings": "Socruithe RetroArch",
     "Storage": "Stóráil",
     "Task Toolkit": "Tacar Uirlisí Tascanna",
     "Theme Download": "Íoslódáil Téama",
@@ -745,10 +745,10 @@
     "Set the control scheme for the selected content or directory": "Socraigh an scéim rialaithe don ábhar nó don eolaire roghnaithe",
     "Set the specific tag of the content selected to change the glyph": "Socraigh an chlib shonrach den ábhar roghnaithe chun an glifín a athrú",
     "Set the system core or external emulator for the selected content or directory": "Socraigh croí an chórais nó aithriseoir seachtrach don inneachar nó don chomhadlann roghnaithe",
-    "Threaded Video": "Threaded Video",
+    "Threaded Video": "Físeán Snáithithe",
     "Time Played": "Am Imeartha",
     "Times Launched": "Amanna Seolta",
-    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Go dtí go réiteoidh RetroArch a gceist leis an rogha físe snáithithe, is féidir leat é a athrú anseo ina ionad.\n\nD’fhéadfadh sé seo a bheith ina shraith roghanna níos mó amach anseo freisin!"
   },
   "muxoverlay": {
     "Bottom Left": "Bun ar Chlé",
@@ -854,8 +854,8 @@
     "Toggle the frontend screensaver on Idle Display Timeout activation": "Scoránaigh an spárálaíscáileáin tosaigh ar ghníomhachtú Amchorrúcháin Taispeántais Díomhaoin"
   },
   "muxraopt": {
-    "THREADED VIDEO": "THREADED VIDEO",
-    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
+    "THREADED VIDEO": "FÍSEÁN SNÁITHE",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Go dtí go réiteoidh RetroArch a gceist leis an rogha físe snáithithe, is féidir leat é a athrú anseo ina ionad.\n\nD’fhéadfadh sé seo a bheith ina shraith roghanna níos mó amach anseo freisin!"
   },
   "muxrtc": {
     "12 Hour": "12 uair an chloig",
