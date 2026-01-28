@@ -574,7 +574,7 @@
     "Power Settings": "Paramètres d'alimentation",
     "Restrict to specific 'kiosk' directory within collections": "Restreindre à un répertoire « kiosk » spécifique au sein des collections",
     "Restricted Messages": "Messages restreints\"",
-    "RetroArch Kiosk": "Kiosk RetroArch",
+    "RetroArch Settings": "RetroArch Settings",
     "Storage": "Stockage",
     "Task Toolkit": "Utilitaires",
     "Theme Download": "Téléchargement du thème",
@@ -616,9 +616,11 @@
     "Various information can be found and launched here": "Diverses informations peuvent être trouvées et lancées ici"
   },
   "muxnetadv": {
+    "Adjusts how many retries the network connection script goes through before giving up": "Adjusts how many retries the network connection script goes through before giving up",
     "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.": "Ajuste le nombre maximal de tentatives de chargement du module réseau lorsque la compatibilité des modules est activée. Augmentez ce paramètre si vous ne parvenez toujours pas à vous connecter au Wi-Fi.\n\nL'augmentation de ce paramètre peut augmenter considérablement les temps de démarrage.",
     "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!": "Ajuste le délai maximal d'attente avant l'affichage de l'interface réseau.\n\nAVERTISSEMENT :\nSi vous activez la compatibilité des modules, il est déconseillé d'augmenter ce paramètre, car cela augmenterait les temps de démarrage !",
     "Connection Monitor": "Moniteur de connexion",
+    "Connection Retry": "Connection Retry",
     "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately": "Activer la compatibilité des appareils avec le chargement des modules réseau via le noyau Linux\n\nAugmente modérément les temps de démarrage",
     "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed": "Activer la gestion de la compatibilité en arrière-plan\n\nOffre des temps de démarrage plus rapides lorsque la compatibilité est activée, désactiver cette option uniquement en cas d'échec",
     "Enables network connection to be established automatically at boot": "Permet d'établir automatiquement la connexion réseau au démarrage",
@@ -674,12 +676,17 @@
     "Scanning for Wi-Fi Networks…": "Recherche des réseaux Wi-Fi…"
   },
   "muxnetwork": {
+    "AP Connect Error": "AP Connect Error",
+    "Associating": "Associating",
+    "Auth Timeout": "Auth Timeout",
+    "Authenticating": "Authenticating",
     "Cannot modify while connected": "Modification impossible en étant connecté",
     "Changes Saved": "Modifications enregistrées",
     "Connect": "Connecter",
     "Connect to the network using options entered above": "Connectez-vous au réseau en utilisant les options saisies ci-dessus",
     "Connected": "Connecté",
     "DHCP": "DHCP",
+    "DHCP Failure": "DHCP Failure",
     "DNS Server": "Serveur DNS",
     "Device IP": "IP de la console",
     "Disconnect": "Déconnecter",
@@ -691,9 +698,13 @@
     "Enter the network identifier (SSID) here": "Entrez ici l'identifiant du réseau (SSID)",
     "Enter the network password here (optional)": "Entrez le mot de passe du réseau ici (facultatif)",
     "Gateway IP": "IP de la passerelle",
+    "Getting IP": "Getting IP",
     "Hidden Network": "Réseau masqué",
     "Identifier": "Identifiant",
+    "Invalid Password": "Invalid Password",
+    "Link Timeout": "Link Timeout",
     "Network Disabled": "Réseau désactivé",
+    "Network Not Found": "Network Not Found",
     "Network Type": "Type de réseau",
     "No Password Detected…": "Aucun mot de passe détecté…",
     "Not Connected": "Non connecté",
@@ -706,6 +717,7 @@
     "Toggle between DHCP and Static network types": "Basculez entre les types de réseau DHCP et statique",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Indiquez s'il faut ou non essayer de se connecter à un réseau masqué",
     "Trying to Connect…": "Connection en cours…",
+    "Validating": "Validating",
     "WI-FI NETWORK": "RÉSEAU WI-FI"
   },
   "muxnews": {
@@ -733,8 +745,10 @@
     "Set the control scheme for the selected content or directory": "Définir le schéma de contrôle pour le contenu ou le répertoire sélectionné",
     "Set the specific tag of the content selected to change the glyph": "Définissez l'étiquette spécifique du contenu sélectionné pour modifier l'icône",
     "Set the system core or external emulator for the selected content or directory": "Définissez l'émulateur principal ou externe pour le contenu ou le répertoire sélectionné",
+    "Threaded Video": "Threaded Video",
     "Time Played": "Temps joué",
-    "Times Launched": "Nombres de lancement"
+    "Times Launched": "Nombres de lancement",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxoverlay": {
     "Bottom Left": "Inférieur gauche",
@@ -838,6 +852,10 @@
     "Sleep Until Wake": "Veille jusqu'à réactivation",
     "Toggle if the audio is muted when display is dimmed": "Activer/désactiver la désactivation du son lorsque l'affichage est atténué",
     "Toggle the frontend screensaver on Idle Display Timeout activation": "Activer l'écran de veille lorsque le délai d'affichage d'inactivité est atteint"
+  },
+  "muxraopt": {
+    "THREADED VIDEO": "THREADED VIDEO",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxrtc": {
     "12 Hour": "12 heures",

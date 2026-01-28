@@ -574,7 +574,7 @@
     "Power Settings": "Power Settings",
     "Restrict to specific 'kiosk' directory within collections": "Restrict to specific 'kiosk' directory within collections",
     "Restricted Messages": "Restricted Messages",
-    "RetroArch Kiosk": "RetroArch Kiosk",
+    "RetroArch Settings": "RetroArch Settings",
     "Storage": "Storage",
     "Task Toolkit": "Task Toolkit",
     "Theme Download": "Theme Download",
@@ -616,9 +616,11 @@
     "Various information can be found and launched here": "Various information can be found and launched here"
   },
   "muxnetadv": {
+    "Adjusts how many retries the network connection script goes through before giving up": "Adjusts how many retries the network connection script goes through before giving up",
     "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.": "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.",
     "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!": "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!",
     "Connection Monitor": "Connection Monitor",
+    "Connection Retry": "Connection Retry",
     "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately": "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately",
     "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed": "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed",
     "Enables network connection to be established automatically at boot": "Enables network connection to be established automatically at boot",
@@ -674,12 +676,17 @@
     "Scanning for Wi-Fi Networks…": "Scanning for Wi-Fi Networks…"
   },
   "muxnetwork": {
+    "AP Connect Error": "AP Connect Error",
+    "Associating": "Associating",
+    "Auth Timeout": "Auth Timeout",
+    "Authenticating": "Authenticating",
     "Cannot modify while connected": "Cannot modify while connected",
     "Changes Saved": "Changes Saved",
     "Connect": "Connect",
     "Connect to the network using options entered above": "Connect to the network using options entered above",
     "Connected": "Connected",
     "DHCP": "DHCP",
+    "DHCP Failure": "DHCP Failure",
     "DNS Server": "DNS Server",
     "Device IP": "Device IP",
     "Disconnect": "Disconnect",
@@ -691,9 +698,13 @@
     "Enter the network identifier (SSID) here": "Enter the network identifier (SSID) here",
     "Enter the network password here (optional)": "Enter the network password here (optional)",
     "Gateway IP": "Gateway IP",
+    "Getting IP": "Getting IP",
     "Hidden Network": "Hidden Network",
     "Identifier": "Identifier",
+    "Invalid Password": "Invalid Password",
+    "Link Timeout": "Link Timeout",
     "Network Disabled": "Network Disabled",
+    "Network Not Found": "Network Not Found",
     "Network Type": "Network Type",
     "No Password Detected…": "No Password Detected…",
     "Not Connected": "Not Connected",
@@ -706,6 +717,7 @@
     "Toggle between DHCP and Static network types": "Toggle between DHCP and Static network types",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Toggle whether or not to try and connect to a hidden SSID broadcast",
     "Trying to Connect…": "Trying to Connect…",
+    "Validating": "Validating",
     "WI-FI NETWORK": "WI-FI NETWORK"
   },
   "muxnews": {
@@ -733,8 +745,10 @@
     "Set the control scheme for the selected content or directory": "Set the control scheme for the selected content or directory",
     "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
     "Set the system core or external emulator for the selected content or directory": "Set the system core or external emulator for the selected content or directory",
+    "Threaded Video": "Threaded Video",
     "Time Played": "Time Played",
-    "Times Launched": "Times Launched"
+    "Times Launched": "Times Launched",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxoverlay": {
     "Bottom Left": "Bottom Left",
@@ -838,6 +852,10 @@
     "Sleep Until Wake": "Sleep Until Wake",
     "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
     "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
+  },
+  "muxraopt": {
+    "THREADED VIDEO": "THREADED VIDEO",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxrtc": {
     "12 Hour": "12 Hour",

@@ -574,7 +574,7 @@
     "Power Settings": "Configuració d’energia",
     "Restrict to specific 'kiosk' directory within collections": "Restrict to specific 'kiosk' directory within collections",
     "Restricted Messages": "Restricted Messages",
-    "RetroArch Kiosk": "Quisoc RetroArch",
+    "RetroArch Settings": "RetroArch Settings",
     "Storage": "Emmagatzematge",
     "Task Toolkit": "Kit d’eines per a tasques",
     "Theme Download": "Theme Download",
@@ -616,9 +616,11 @@
     "Various information can be found and launched here": "Aquí es pot trobar informació diversa"
   },
   "muxnetadv": {
+    "Adjusts how many retries the network connection script goes through before giving up": "Adjusts how many retries the network connection script goes through before giving up",
     "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.": "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.",
     "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!": "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!",
     "Connection Monitor": "Connection Monitor",
+    "Connection Retry": "Connection Retry",
     "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately": "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately",
     "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed": "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed",
     "Enables network connection to be established automatically at boot": "Enables network connection to be established automatically at boot",
@@ -674,12 +676,17 @@
     "Scanning for Wi-Fi Networks…": "Buscant xarxes Wi-Fi…"
   },
   "muxnetwork": {
+    "AP Connect Error": "AP Connect Error",
+    "Associating": "Associating",
+    "Auth Timeout": "Auth Timeout",
+    "Authenticating": "Authenticating",
     "Cannot modify while connected": "No es pot modificar mentre està connectat",
     "Changes Saved": "Canvis guardats",
     "Connect": "Connectar",
     "Connect to the network using options entered above": "Connecta't a la xarxa amb les opcions introduïdes a dalt",
     "Connected": "Connectat",
     "DHCP": "DHCP",
+    "DHCP Failure": "DHCP Failure",
     "DNS Server": "Servidor DNS",
     "Device IP": "IP del dispositiu",
     "Disconnect": "Desconnectar",
@@ -691,9 +698,13 @@
     "Enter the network identifier (SSID) here": "Introdueix l'identificador de la xarxa (SSID) aquí",
     "Enter the network password here (optional)": "Introdueix aquí la contrasenya de la xarxa (opcional)",
     "Gateway IP": "IP de porta d'enllaç",
+    "Getting IP": "Getting IP",
     "Hidden Network": "Xarxa oculta",
     "Identifier": "Identificador",
+    "Invalid Password": "Invalid Password",
+    "Link Timeout": "Link Timeout",
     "Network Disabled": "Xarxa deshabilitada",
+    "Network Not Found": "Network Not Found",
     "Network Type": "Tipus de xarxa",
     "No Password Detected…": "No s’ha detectat cap contrasenya…",
     "Not Connected": "No connectat",
@@ -706,6 +717,7 @@
     "Toggle between DHCP and Static network types": "Alterna entre tipus de xarxa DHCP i Estàtic",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "Activa o desactiva l’opció d’intentar connectar-se a un SSID ocult",
     "Trying to Connect…": "Connexió en curs…",
+    "Validating": "Validating",
     "WI-FI NETWORK": "XARXA WI-FI"
   },
   "muxnews": {
@@ -733,8 +745,10 @@
     "Set the control scheme for the selected content or directory": "Set the control scheme for the selected content or directory",
     "Set the specific tag of the content selected to change the glyph": "Defineix l’etiqueta específica del contingut seleccionat per modificar la icona",
     "Set the system core or external emulator for the selected content or directory": "Assigna el nucli de sistema o emulador extern pel contingut o directori seleccionat",
+    "Threaded Video": "Threaded Video",
     "Time Played": "Time Played",
-    "Times Launched": "Times Launched"
+    "Times Launched": "Times Launched",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxoverlay": {
     "Bottom Left": "Bottom Left",
@@ -838,6 +852,10 @@
     "Sleep Until Wake": "Suspendre fins la reactivació",
     "Toggle if the audio is muted when display is dimmed": "Activa o desactiva l'àudio quan la pantalla està atenuada",
     "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
+  },
+  "muxraopt": {
+    "THREADED VIDEO": "THREADED VIDEO",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxrtc": {
     "12 Hour": "12 hores",

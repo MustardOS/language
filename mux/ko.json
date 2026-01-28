@@ -574,7 +574,7 @@
     "Power Settings": "전원 설정",
     "Restrict to specific 'kiosk' directory within collections": "컬렉션 내 특정 '키오스크' 폴더로 제한",
     "Restricted Messages": "제한된 메시지",
-    "RetroArch Kiosk": "레트로아크 키오스크",
+    "RetroArch Settings": "RetroArch Settings",
     "Storage": "저장소",
     "Task Toolkit": "태스크 툴킷",
     "Theme Download": "테마 다운로드",
@@ -616,9 +616,11 @@
     "Various information can be found and launched here": "다양한 정보를 확인하고 실행"
   },
   "muxnetadv": {
+    "Adjusts how many retries the network connection script goes through before giving up": "Adjusts how many retries the network connection script goes through before giving up",
     "Adjusts the maximum amount of attempts at loading the network module with Module Compatibility enabled. Increase this setting if you are still unable to connect to wifi.\n\nIncreasing this setting may increase boot times importantly.": "모듈 호환성이 활성화된 상태에서 네트워크 모듈을 로드하는 최대 시도 횟수를 조정함. Wi-Fi에 계속 연결할 수 없으면 이 설정을 높이세요.\n\n이 설정을 높이면 부팅 시간이 크게 늘어날 수 있음.",
     "Adjusts the maximum amount of time waiting for the network interface to appear.\n\nWARNING:\nIf you enable Module Compatibility, it is not advisable to increase this setting as it will increase boot times!": "네트워크 인터페이스가 나타날 때까지 기다리는 최대 시간을 조정함.\n\n경고:\n모듈 호환성을 활성화한 경우, 이 설정을 높이지 않는 것이 좋음. 부팅 시간이 길어질 수 있음!",
     "Connection Monitor": "연결 모니터",
+    "Connection Retry": "Connection Retry",
     "Enable device compatibility with network module loading via the Linux kernel\n\nIncreases boot times moderately": "리눅스 커널을 통한 네트워크 모듈 로딩으로 장치 호환성을 활성화함\n\n부팅 시간이 다소 증가함",
     "Enable the background handling of compatibility handling\n\nProvides faster boot times with compatibility enabled, disable this only if all else has failed": "호환성 처리의 백그라운드 처리를 활성화합니다.\n\n호환성을 활성화하면 부팅 시간이 단축됩니다. 다른 모든 방법이 실패한 경우에만 비활성화하시오",
     "Enables network connection to be established automatically at boot": "부팅 시 네트워크 연결이 자동으로 설정될 수 있도록 함",
@@ -674,12 +676,17 @@
     "Scanning for Wi-Fi Networks…": "Wi-Fi 네트워크 스캔 중…"
   },
   "muxnetwork": {
+    "AP Connect Error": "AP Connect Error",
+    "Associating": "Associating",
+    "Auth Timeout": "Auth Timeout",
+    "Authenticating": "Authenticating",
     "Cannot modify while connected": "연결된 상태에서는 변경이 불가",
     "Changes Saved": "변경 저장됨",
     "Connect": "연결",
     "Connect to the network using options entered above": "위에서 입력한 옵션으로 네트워크에 연결함",
     "Connected": "연결됨",
     "DHCP": "DHCP 방식",
+    "DHCP Failure": "DHCP Failure",
     "DNS Server": "DNS 서버",
     "Device IP": "장치 IP",
     "Disconnect": "연결 해제",
@@ -691,9 +698,13 @@
     "Enter the network identifier (SSID) here": "여기에 네트워크 식별자(SSID)를 입력",
     "Enter the network password here (optional)": "여기에 네트워크 비밀번호를 입력 (선택 사항)",
     "Gateway IP": "게이트웨이 IP",
+    "Getting IP": "Getting IP",
     "Hidden Network": "숨겨진 네트워크",
     "Identifier": "네트워크 식별자",
+    "Invalid Password": "Invalid Password",
+    "Link Timeout": "Link Timeout",
     "Network Disabled": "네트워크 비활성화",
+    "Network Not Found": "Network Not Found",
     "Network Type": "네트워크 유형",
     "No Password Detected…": "비밀번호가 없음…",
     "Not Connected": "연결되지 않음",
@@ -706,6 +717,7 @@
     "Toggle between DHCP and Static network types": "DHCP와 Static 네트워크 유형 간 전환",
     "Toggle whether or not to try and connect to a hidden SSID broadcast": "숨겨진 SSID 브로드캐스트에 연결을 시도할지 여부를 전환",
     "Trying to Connect…": "연결 시도중…",
+    "Validating": "Validating",
     "WI-FI NETWORK": "WI-FI 네트워크"
   },
   "muxnews": {
@@ -733,8 +745,10 @@
     "Set the control scheme for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 제어 체계를 설정",
     "Set the specific tag of the content selected to change the glyph": "글리프를 변경하기 위해 선택된 콘텐츠의 특정 태그를 설정",
     "Set the system core or external emulator for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 시스템 코어 또는 외부 에뮬레이터 설정",
+    "Threaded Video": "Threaded Video",
     "Time Played": "플레이 시간",
-    "Times Launched": "실행 횟수"
+    "Times Launched": "실행 횟수",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxoverlay": {
     "Bottom Left": "Bottom Left",
@@ -838,6 +852,10 @@
     "Sleep Until Wake": "깨울 때까지 슬립",
     "Toggle if the audio is muted when display is dimmed": "디스플레이가 어두워지면 오디오가 음소거되는지 여부를 전환",
     "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
+  },
+  "muxraopt": {
+    "THREADED VIDEO": "THREADED VIDEO",
+    "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!": "Until RetroArch sorts their issue out with the threaded video option, you can toggle it here instead\n\nThis also may turn into a larger set of options in the future!"
   },
   "muxrtc": {
     "12 Hour": "12 시간제",
