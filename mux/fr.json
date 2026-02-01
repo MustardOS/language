@@ -1161,7 +1161,6 @@
   "muxvisual": {
     "Alpha Group": "Alpha Group",
     "Battery": "Afficher la batterie",
-    "Changes how tagged content is grouped and ordered in Explore Content": "Changes how tagged content is grouped and ordered in Explore Content",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Modifie l'étiquette de titre supérieure dans \"Explorer le contenu\" pour afficher le périphérique de stockage actuel ainsi que le nom du dossier",
     "Changes the transparency of the overlay image for the frontend only": "Modifie la transparence de l'image de superposition pour l'interface uniquement",
     "Checkerboard (1px)": "Damier (1px)",
