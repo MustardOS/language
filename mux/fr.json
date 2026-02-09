@@ -293,7 +293,7 @@
     "Device Backup": "Sauvegarde de la console",
     "Device specific and MustardOS frontend settings can be found here": "Les paramètres spécifiques à la console et à l'interface MustardOS se trouvent ici",
     "Find out what storage device core settings and configurations are mounted": "Découvrez quels paramètres et configurations de base du périphérique de stockage sont montés",
-    "General Settings": "Paramètres systèmes",
+    "General Settings": "Paramètres généraux",
     "Interface Options": "Options de l'interface",
     "Language": "Langue",
     "Overlay Options": "Options des overlays",
@@ -427,7 +427,7 @@
     "Swap Read-Ahead": "Lecture anticipée de l'échange",
     "Swap Tendency": "Tendance au swap",
     "Switch between different storage tuning options\n\nMay improve performance on certain mSD cards": "Basculer entre différentes options de réglage du stockage\n\nPeut améliorer les performances de certaines cartes mSD",
-    "Switch between system sleep suspend states\n\nChanges how the device reacts to sleep mode and wake locks": "Switch between system sleep suspend states\n\nChanges how the device reacts to sleep mode and wake locks",
+    "Switch between system sleep suspend states\n\nChanges how the device reacts to sleep mode and wake locks": "Basculer entre les différents états de veille du système. \n\nModifie le comportement de l'appareil face aux actions de mise en veille et de réveil.",
     "When enabled, a newly forked child process runs before the parent\n\nMay improve load times for some apps": "Lorsque cette option est activée, un processus enfant nouvellement créé s'exécute avant le processus parent.\n\nPeut améliorer les temps de chargement de certaines applications",
     "Write Back Threshold": "Seuil de réécriture"
   },
@@ -444,7 +444,7 @@
     "Toggles HDMI integration on device": "Active l'intégration HDMI sur l'appareil",
     "Toggles Network integration on device": "Active/désactive l'intégration réseau sur l'appareil",
     "Toggles RGB LED integration on device": "Active/désactive l'intégration des LED RVB sur l'appareil",
-    "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Active/désactive la prise en charge des consoles avec clapet (modèle SP).\n\nNe pas activer cette option sur les consoles sans clapet!",
+    "Toggles hall switch (lid) support on device\n\nDo not enable this on non-lid devices!": "Active/désactive la prise en charge des consoles avec clapet (modèle SP).\n\nNe pas activer cette option sur les consoles sans clapet !",
     "Toggles internal Portmaster support on device": "Active/désactive la prise en charge interne de Portmaster sur l'appareil",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Active/désactive le montage DebugFS au niveau du noyau au démarrage\n\nIl est préférable de laisser cette option activée, sauf avis contraire !"
   },
@@ -569,7 +569,7 @@
     "Date and Time": "Date et heure",
     "Enable access to advanced settings": "Activer l'accès aux paramètres avancés",
     "Enable access to applications": "Activer l'accès aux applications",
-    "Enable access to general settings": "Activer l'accès aux paramètres systèmes",
+    "Enable access to general settings": "Activer l'accès aux paramètres généraux",
     "Enable access to network settings": "Autoriser l'accès aux paramètres réseau",
     "Enable access to recently used content": "Activer l'accès au contenu récemment utilisé",
     "Enable access to system configuration": "Activer l'accès à la configuration du système",
@@ -578,7 +578,7 @@
     "Enable or restrict RetroArch settings": "Activer ou restreindre les paramètres de RetroArch",
     "Enable use of web based features": "Activer l'utilisation des fonctionnalités Web",
     "Enable viewing of content collections": "Activer la visualisation des contenus des Collections",
-    "General Settings": "Paramètres systèmes",
+    "General Settings": "Paramètres généraux",
     "HDMI Settings": "Réglages HDMI",
     "History Removal": "Suppression de l'historique",
     "History Viewing": "Affichage de l'historique",
@@ -839,7 +839,7 @@
     "No Theme Packages Found": "Aucun pack de thème disponible",
     "THEME PICKER": "THÈMES MUSTARDOS",
     "Theme Download": "Téléchargement des thèmes",
-    "There are no attributed credits!": "Il n'y a pas de crédits attribués!",
+    "There are no attributed credits!": "Il n'y a pas de crédits attribués !",
     "This theme is protected from deletion!": "Ce thème est protégé contre la suppression !"
   },
   "muxplore": {
@@ -1031,7 +1031,7 @@
     "INPUT TESTER": "TESTEUR DE COMMANDES",
     "Press DOWN + A to finish testing": "Appuyez sur BAS + A pour terminer le test",
     "Press DOWN + B to finish testing": "Appuyez sur BAS + B pour quitter le test",
-    "Press any button to start input testing!": "Appuyez sur une touche pour démarrer le test!"
+    "Press any button to start input testing!": "Appuyez sur une touche pour démarrer le test !"
   },
   "muxthemedown": {
     "Download": "Télécharger",
@@ -1166,7 +1166,7 @@
     "Device RGB Lights": "LED RVB de la console",
     "Device Startup": "Démarrage de la console",
     "Device Volume": "Volume de la console",
-    "GENERAL SETTINGS": "PARAMÈTRES SYSTÈMES",
+    "GENERAL SETTINGS": "PARAMÈTRES GÉNÉRAUX",
     "HDMI Output": "Sortie HDMI",
     "History": "Historique",
     "Last Game": "Dernier jeu joué",
@@ -1175,7 +1175,7 @@
     "Screenshot Hotkey": "Raccourci capture d'écran",
     "Setting Device Brightness": "Réglage de la luminosité de la console",
     "Setting Device Volume": "Réglage du volume de la console",
-    "Settings that should only be changed by those who know what they are doing!": "Des paramètres qui ne devraient être modifiés que par ceux qui savent ce qu’ils font!",
+    "Settings that should only be changed by those who know what they are doing!": "Des paramètres qui ne devraient être modifiés que par ceux qui savent ce qu’ils font !",
     "Settings to change the HDMI output of the device": "Paramètres pour modifier la sortie HDMI de la console",
     "Switch between different hotkeys for taking a screenshot": "Modifier la touche de raccourci pour les captures d'écran",
     "Switch between different hotkeys for toggling DPAD swap": "Modifier le raccourci pour l'inversion de la croix directionnelle (DPAD) et joysticks",
