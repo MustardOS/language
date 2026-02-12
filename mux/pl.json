@@ -1011,7 +1011,7 @@
     "The current detected battery voltage": "Bieżące napięcie baterii",
     "The current detected temperature of the device": "Bieżąca temperatura urządzenia",
     "The current device type detected and configured": "Bieżący i skonfigurowany typ urządzenia",
-    "The current running governor of the device": "Aktywny regulator CPU urządzenia",
+    "The current running governor of the device": "Bieżący regulator urządzenia",
     "The current running time of the system": "Czas od włączenia urządzenia",
     "The current version of MustardOS running on the device": "Bieżąca wersja MustardOS na urządzeniu",
     "The current, and total, memory usage of the device": "Bieżące i całkowite zużycie pamięci urządzenia",
