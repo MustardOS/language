@@ -222,7 +222,7 @@
     "System BIOS": "BIOS systemów",
     "Themes": "Motywy",
     "Toggle the target storage device for the backup": "Wybierz docelowe urządzenie pamięci dla kopii zapasowej",
-    "User Init Scripts": "Skrypty inicjalizacji użytkownika"
+    "User Init Scripts": "Skrypty inicjalizacyjne użytkownika"
   },
   "muxcharge": {
     "Booting System - Please Wait…": "Uruchamianie systemu - Proszę czekać…",
@@ -983,7 +983,7 @@
     "Syncthing Configs": "Konfiguracje Syncthing",
     "System BIOS": "BIOS systemów",
     "Themes": "Motywy",
-    "User Init Scripts": "Skrypty inicjalizacji użytkownika"
+    "User Init Scripts": "Skrypty inicjalizacyjne użytkownika"
   },
   "muxsysinfo": {
     "Battery Capacity": "Pojemność baterii",
@@ -1147,7 +1147,7 @@
     "Toggle the swap of left and right channels of audio": "Włącz zamianę lewego i prawego kanału audio",
     "Toggle the system ability to automatically shut the device down due high temperature": "Włącz automatyczne zamknięcie urządzenia przez zbyt wysoką temperaturę",
     "Toggle vibration for device startup, sleep, and shutdown": "Włącz wibracje dla włączenia, uśpienia i zamknięcia urządzenia",
-    "User Init Scripts": "Skrypty inicjalizacji użytkownika",
+    "User Init Scripts": "Skrypty inicjalizacyjne użytkownika",
     "Verbose Messages": "Pełne wiadomości",
     "Volume Increment": "Przyrost głośności",
     "Volume On Boot": "Głośność przy uruchomieniu"
