@@ -260,7 +260,7 @@
     "Adjusts the difference between light and dark areas of content": "Регулирование разницы между светлыми и темными областями игры",
     "Adjusts the overall warmth or coolness of the display by shifting colour balance": "Регулирование экрана в теплые или холодные оттенки изменением цветового баланса",
     "Brightness": "Яркость",
-    "COLOUR OPTIONS": "ЦВЕТОВЫЕ НАСТРОЙКИ",
+    "COLOUR OPTIONS": "ЭКРАН",
     "Contrast": "Контраст",
     "Controls the intensity and richness of colours": "Регулирование интенсивности и насыщенности цветов",
     "Controls the overall lightness or darkness of content": "Регулирование общей яркости или затемнения игры",
@@ -285,7 +285,7 @@
   "muxconfig": {
     "Back up your content to a restorable archive for your device or others": "Сделайте резервное копирование ваших игр в архив для вашего устройства или для других",
     "CONFIGURATION": "НАСТРОЙКИ",
-    "Colour Options": "Цветовые настройки",
+    "Colour Options": "Экран",
     "Connect your device via Wi-Fi, enable web services, or enable USB functions": "Подключение к сети по Wi-Fi, веб сервисы, режимы USB",
     "Connectivity": "Соединение",
     "Customisation": "Кастомизация",
@@ -296,7 +296,7 @@
     "General Settings": "Основные",
     "Interface Options": "Интерфейс",
     "Language": "Язык",
-    "Overlay Options": "Настройки оверлея",
+    "Overlay Options": "Оверлей",
     "Power Settings": "Питание",
     "Select your preferred language\n\nTranslations supported by Weblate": "Выберите предпочитаемый язык\n\nПереводы, поддерживаемые в Weblate",
     "Settings to change the colour settings of content": "Настройки цветов игры",
@@ -553,7 +553,7 @@
     "Collection Removal": "Удаление коллекций",
     "Collection Viewing": "Просмотр коллекции",
     "Colour Filter": "Цветовой фильтр",
-    "Colour Options": "Цветовые настройки",
+    "Colour Options": "Экран",
     "Configuration": "Настройки",
     "Content Control Scheme": "Схема управления игрой",
     "Content Core": "Ядро игр",
@@ -865,7 +865,7 @@
     "Configure the time the screen will dim when no input is detected": "Настройка времени, в течение которого при отсутствии нажатий на клавиши экран будет затемняться",
     "Configure when the red LED will display based on the current capacity percentage": "При каком проценте заряда будет загораться красный светодиод",
     "Default Governor": "Стандартный регулятор",
-    "Frontend Screensaver": "Заставка интерфейса",
+    "Frontend Screensaver": "Заставка при бездействии",
     "Idle Display must be less than Idle Sleep": "Затемнение экрана должно происходить раньше чем переход в режим сна",
     "Idle Governor": "Регулятор в режиме ожидания",
     "Idle Input Display Timeout": "Затемнение экрана через",
@@ -886,7 +886,7 @@
     "Sleep Function": "Функция сна",
     "Sleep Until Wake": "Сон до пробуждения",
     "Toggle if the audio is muted when display is dimmed": "Выключение звука при затухании экрана",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Настройка заставки интерфейса в режиме ожидания"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Отображение заставки в режиме ожидания"
   },
   "muxraopt": {
     "THREADED VIDEO": "ПОТОКОВЫЙ РЕНДЕР",
@@ -941,7 +941,7 @@
     "Set Content Explorer sorting level for Collection items (100 top of list 1 bottom of list)": "Выбор уровня сортировки в библиотеке игр из коллекции (100 в начале списка 1 в конце списка)",
     "Set Content Explorer sorting level for Default items (100 top of list 1 bottom of list)": "Выбор уровня сортировки в библиотеке обычных игр (100 в начале списка 1 в конце списка)",
     "Set Content Explorer sorting level for History items (100 top of list 1 bottom of list)": "Выбор уровня сортировки в библиотеке игр из истории (100 в начале списка 1 в конце списка)",
-    "Set Content Explorer sorting level for items tagged as %s (100 top of list 1 bottom of list)": "Выбор уровня сортировки в библиотеке игр с ярлыком %s (100 в начале списка 1 в конце списка)",
+    "Set Content Explorer sorting level for items tagged as %s (100 top of list 1 bottom of list)": "Выбор уровня сортировки в библиотеке игр с ярлыком \"%s\" (100 в начале списка 1 в конце списка)",
     "Translated": "Переведено"
   },
   "muxspace": {
