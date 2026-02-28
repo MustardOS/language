@@ -866,7 +866,10 @@
     "Configure the time the device will sleep when no input is detected": "Konfigurera hur lång tid det tar innan enheten går i viloläge när ingen inmatning upptäcks.",
     "Configure the time the screen will dim when no input is detected": "Konfigurera hur lång tid det tar innan skärmen dimmar när ingen inmatning upptäcks.",
     "Configure when the red LED will display based on the current capacity percentage": "Konfigurera när den röda LED-lampan ska visas baserat på den nuvarande kapacitetsprocenten.",
+    "Crawl": "Crawl",
+    "Cruise": "Cruise",
     "Default Governor": "Default Governor",
+    "Fast": "Fast",
     "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
@@ -874,6 +877,7 @@
     "Idle Input Sleep Timeout": "Tidsgräns för inaktiv sömnläge",
     "Instant Shutdown": "Omedelbar avstängning",
     "Low Battery Indicator": "Låg batterinivåindikator",
+    "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "Mute on Display Timeout",
     "POWER SETTINGS": "STRÖMINSTÄLLNINGAR",
     "Sleep 10m + Shutdown": "Sömn 10m + Avstängning",
@@ -888,7 +892,8 @@
     "Sleep Function": "Sömnfunktion",
     "Sleep Until Wake": "Sleep Until Wake",
     "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation",
+    "Turbo": "Turbo"
   },
   "muxraopt": {
     "THREADED VIDEO": "THREADED VIDEO",
