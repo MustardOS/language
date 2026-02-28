@@ -866,7 +866,10 @@
     "Configure the time the device will sleep when no input is detected": "Skonfiguruj, kiedy uśpić urządzenie, jeśli nie wykryto żadnej interakcji",
     "Configure the time the screen will dim when no input is detected": "Skonfiguruj, kiedy ekran ma się ściemnić, jeśli nie wykryto żadnej interakcji",
     "Configure when the red LED will display based on the current capacity percentage": "Skonfiguruj, kiedy ma zapalić się czerwona dioda LED na podstawie bieżącej pojemności baterii",
+    "Crawl": "Crawl",
+    "Cruise": "Cruise",
     "Default Governor": "Domyślny regulator",
+    "Fast": "Fast",
     "Frontend Screensaver": "Wygaszacz ekranu",
     "Idle Display must be less than Idle Sleep": "Czas wyświetlania w stanie spoczynku musi być mniejszy od czasu do uśpienia",
     "Idle Governor": "Regulator trybu bezczynności",
@@ -874,6 +877,7 @@
     "Idle Input Sleep Timeout": "Czas do uśpienia po bezczynności",
     "Instant Shutdown": "Zamknij od razu",
     "Low Battery Indicator": "Wskaźnik niskiego poziomu baterii",
+    "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "Wyciszenie podczas ściemnienia ekranu",
     "POWER SETTINGS": "OPCJE ZASILANIA",
     "Sleep 10m + Shutdown": "Śpij 10m + Zamknij",
@@ -888,7 +892,8 @@
     "Sleep Function": "Funkcja uśpienia",
     "Sleep Until Wake": "Śpij do przebudzenia",
     "Toggle if the audio is muted when display is dimmed": "Włącz wyciszenie dźwięku, jeśli ekran urządzenia jest przygaszony",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Włącz wygaszacz ekranu podczas aktywacji czasu bezczynności"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Włącz wygaszacz ekranu podczas aktywacji czasu bezczynności",
+    "Turbo": "Turbo"
   },
   "muxraopt": {
     "THREADED VIDEO": "WIDEO W WĄTKACH",
