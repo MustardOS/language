@@ -866,7 +866,10 @@
     "Configure the time the device will sleep when no input is detected": "Ajusta el tiempo de espera antes de que el dispositivo entre en suspensión",
     "Configure the time the screen will dim when no input is detected": "Ajusta el tiempo de espera de entrada antes de que la pantalla se atenúe",
     "Configure when the red LED will display based on the current capacity percentage": "Configura cuándo se mostrará el LED rojo según el porcentaje de capacidad actual",
+    "Crawl": "Crawl",
+    "Cruise": "Cruise",
     "Default Governor": "Gobernador predeterminado",
+    "Fast": "Fast",
     "Frontend Screensaver": "Salvapantallas del interfaz",
     "Idle Display must be less than Idle Sleep": "La pantalla inactiva debe ser menor que la suspensión por inactividad",
     "Idle Governor": "Gobernador inactivo",
@@ -874,6 +877,7 @@
     "Idle Input Sleep Timeout": "Tiempo de inactividad para suspender",
     "Instant Shutdown": "Apagado instantáneo",
     "Low Battery Indicator": "Indicador de batería baja",
+    "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "Silenciar con inactividad de la pantalla",
     "POWER SETTINGS": "CONFIGURACIÓN DE ENERGÍA",
     "Sleep 10m + Shutdown": "Suspender 10 min + apagar",
@@ -888,7 +892,8 @@
     "Sleep Function": "Función de suspensión",
     "Sleep Until Wake": "Suspender hasta que despierte",
     "Toggle if the audio is muted when display is dimmed": "Activa/desactiva el audio cuando la pantalla está atenuada",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Activar el salvapantallas del interfaz al activarse el tiempo de espera de la pantalla inactiva"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Activar el salvapantallas del interfaz al activarse el tiempo de espera de la pantalla inactiva",
+    "Turbo": "Turbo"
   },
   "muxraopt": {
     "THREADED VIDEO": "VIDEO ENLAZADO",
