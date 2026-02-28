@@ -866,7 +866,10 @@
     "Configure the time the device will sleep when no input is detected": "Podesite vreme nakon kojeg će uređaj preći u stanje mirovanja kada se ne detektuje unos",
     "Configure the time the screen will dim when no input is detected": "Podesite vreme nakon kojeg će se ekran zatamniti kada se ne detektuje unos",
     "Configure when the red LED will display based on the current capacity percentage": "Podesite kada će se crvena LED lampica prikazivati na osnovu trenutnog procenta kapaciteta baterije",
+    "Crawl": "Crawl",
+    "Cruise": "Cruise",
     "Default Governor": "Default Governor",
+    "Fast": "Fast",
     "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
@@ -874,6 +877,7 @@
     "Idle Input Sleep Timeout": "Vreme prelaska u stanje mirovanja u slučaju neaktivnosti",
     "Instant Shutdown": "Momentalno gašenje",
     "Low Battery Indicator": "Indikator niskog nivoa baterije",
+    "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "Mute on Display Timeout",
     "POWER SETTINGS": "PODEŠAVANJE NAPAJANJA",
     "Sleep 10m + Shutdown": "Mirovanje 10m + Isključivanje",
@@ -888,7 +892,8 @@
     "Sleep Function": "Funkcija mirovanja",
     "Sleep Until Wake": "Stanje mirovanja do buđenja",
     "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation",
+    "Turbo": "Turbo"
   },
   "muxraopt": {
     "THREADED VIDEO": "THREADED VIDEO",
