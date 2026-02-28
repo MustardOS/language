@@ -866,7 +866,10 @@
     "Configure the time the device will sleep when no input is detected": "Налаштувати час після якого пристрій перейде у режим сну, якщо жодна з кнопок не натискалася",
     "Configure the time the screen will dim when no input is detected": "Налаштувати час після якого екран буде затемнено, якщо жодна з кнопок не натискалася",
     "Configure when the red LED will display based on the current capacity percentage": "Налаштувати коли LED-індикатор відображатиметься червоним у залежності від поточного рівня заряду у відсотках",
+    "Crawl": "Crawl",
+    "Cruise": "Cruise",
     "Default Governor": "Default Governor",
+    "Fast": "Fast",
     "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
@@ -874,6 +877,7 @@
     "Idle Input Sleep Timeout": "Неактивність. Переходити в режим Сну через",
     "Instant Shutdown": "Миттєве Вимкнення",
     "Low Battery Indicator": "Індикатор Низького Заряду Батареї",
+    "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "Mute on Display Timeout",
     "POWER SETTINGS": "НАЛАШТУВАННЯ ЖИВЛЕННЯ",
     "Sleep 10m + Shutdown": "Сон 10хв + Вимкнення",
@@ -888,7 +892,8 @@
     "Sleep Function": "Функція Сну",
     "Sleep Until Wake": "Sleep Until Wake",
     "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation",
+    "Turbo": "Turbo"
   },
   "muxraopt": {
     "THREADED VIDEO": "THREADED VIDEO",
