@@ -866,7 +866,10 @@
     "Configure the time the device will sleep when no input is detected": "Configurez la durée après laquelle la console se mettra en veille lorsqu'aucune entrée n'est détectée",
     "Configure the time the screen will dim when no input is detected": "Configurez la durée après laquelle l'écran s'assombrira lorsqu'aucune entrée n'est détectée",
     "Configure when the red LED will display based on the current capacity percentage": "Configurez le moment où la LED rouge s'affichera en fonction du pourcentage de capacité actuel",
+    "Crawl": "Crawl",
+    "Cruise": "Cruise",
     "Default Governor": "Gouverneur par défaut",
+    "Fast": "Fast",
     "Frontend Screensaver": "Écran de veille de l'interface",
     "Idle Display must be less than Idle Sleep": "L'affichage inactif doit être inférieur à la veille inactive",
     "Idle Governor": "Gestion de l'énergie en veille",
@@ -874,6 +877,7 @@
     "Idle Input Sleep Timeout": "Délai de mise en veille",
     "Instant Shutdown": "Arrêt immédiat",
     "Low Battery Indicator": "Indicateur de batterie faible",
+    "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "Mode muet après le délai d'affichage",
     "POWER SETTINGS": "PARAMÈTRES D'ALIMENTATION",
     "Sleep 10m + Shutdown": "Veille 10m + Arrêt",
@@ -888,7 +892,8 @@
     "Sleep Function": "Fonction de veille",
     "Sleep Until Wake": "Veille jusqu'à réactivation",
     "Toggle if the audio is muted when display is dimmed": "Activer/désactiver la désactivation du son lorsque l'affichage est atténué",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Activer l'écran de veille lorsque le délai d'affichage d'inactivité est atteint"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Activer l'écran de veille lorsque le délai d'affichage d'inactivité est atteint",
+    "Turbo": "Turbo"
   },
   "muxraopt": {
     "THREADED VIDEO": "VIDEO MULTITHREAD",
