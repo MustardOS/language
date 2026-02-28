@@ -866,7 +866,10 @@
     "Configure the time the device will sleep when no input is detected": "ضبط وقت سكون الجهاز بعد عدم اكتشاف أي إدخال",
     "Configure the time the screen will dim when no input is detected": "ضبط الوقت الذي ستصبح فيه الشاشة خافتة بعد عدم اكتشاف أي إدخال",
     "Configure when the red LED will display based on the current capacity percentage": "ضبط وقت عرض مؤشر LED الأحمر استنادًا إلى النسبة المئوية لسعة البطارية",
+    "Crawl": "Crawl",
+    "Cruise": "Cruise",
     "Default Governor": "Default Governor",
+    "Fast": "Fast",
     "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
@@ -874,6 +877,7 @@
     "Idle Input Sleep Timeout": "مهلة السكون عند الإدخال الخامل",
     "Instant Shutdown": "إيقاف التشغيل الفوري",
     "Low Battery Indicator": "مؤشر البطارية منخفضة",
+    "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "Mute on Display Timeout",
     "POWER SETTINGS": "إعدادات الطاقة",
     "Sleep 10m + Shutdown": "السكون ل 10 دقائق + إيقاف التشغيل",
@@ -888,7 +892,8 @@
     "Sleep Function": "وظيفة السكون",
     "Sleep Until Wake": "السكون حتى الاستيقاظ",
     "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation",
+    "Turbo": "Turbo"
   },
   "muxraopt": {
     "THREADED VIDEO": "THREADED VIDEO",
