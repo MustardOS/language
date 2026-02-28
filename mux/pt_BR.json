@@ -866,7 +866,10 @@
     "Configure the time the device will sleep when no input is detected": "Configure o tempo que o dispositivo leva para suspender quando nenhum comando é detectado",
     "Configure the time the screen will dim when no input is detected": "Configure o tempo que a tela leva pra escurecer quando nenhum comando é detectado",
     "Configure when the red LED will display based on the current capacity percentage": "Defina em que nível de carga o LED vermelho será exibido",
+    "Crawl": "Crawl",
+    "Cruise": "Cruise",
     "Default Governor": "Modo padrão da CPU",
+    "Fast": "Fast",
     "Frontend Screensaver": "Protetor de tela do frontend",
     "Idle Display must be less than Idle Sleep": "O tempo para desligar a tela deve ser menor que o tempo para suspender o sistema",
     "Idle Governor": "Modo ocioso da CPU",
@@ -874,6 +877,7 @@
     "Idle Input Sleep Timeout": "Tempo Inativo até Suspender",
     "Instant Shutdown": "Desligamento Instantâneo",
     "Low Battery Indicator": "Indicador de Bateria Baixa",
+    "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "Silenciar ao escurecer a tela",
     "POWER SETTINGS": "CONFIGURAÇÕES DE ENERGIA",
     "Sleep 10m + Shutdown": "Suspender por 10m + Desligar",
@@ -888,7 +892,8 @@
     "Sleep Function": "Suspender",
     "Sleep Until Wake": "Suspender até Ligar Novamente",
     "Toggle if the audio is muted when display is dimmed": "Silenciar quando a tela escurece",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Desative o protetor de tela do frontend na ativação do tempo limite de repouso"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Desative o protetor de tela do frontend na ativação do tempo limite de repouso",
+    "Turbo": "Turbo"
   },
   "muxraopt": {
     "THREADED VIDEO": "VÍDEO EM THREAD SEPARADA",
