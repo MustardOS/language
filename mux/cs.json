@@ -866,7 +866,10 @@
     "Configure the time the device will sleep when no input is detected": "Nakonfigurujte dobu, po kterou zařízení přejde do režimu spánku, když není detekován žádný vstup",
     "Configure the time the screen will dim when no input is detected": "Nakonfigurujte dobu, po kterou obrazovka ztmavne, když není detekován žádný vstup",
     "Configure when the red LED will display based on the current capacity percentage": "Nakonfigurujte, kdy se bude zobrazovat červená LED na základě aktuálního procenta kapacity",
+    "Crawl": "Crawl",
+    "Cruise": "Cruise",
     "Default Governor": "Hlavní Regulátor",
+    "Fast": "Fast",
     "Frontend Screensaver": "Spořič obrazovky pro frontend",
     "Idle Display must be less than Idle Sleep": "Doba nečinnosti displeje musí být menší než doba nečinnosti a spánku",
     "Idle Governor": "Nečinný Regulátor",
@@ -874,6 +877,7 @@
     "Idle Input Sleep Timeout": "Časový limit spánku",
     "Instant Shutdown": "Okamžité vypnutí",
     "Low Battery Indicator": "Indikátor slabé baterie",
+    "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "Ztlumit při časovém limitu zobrazení",
     "POWER SETTINGS": "NASTAVENÍ NAPÁJENÍ",
     "Sleep 10m + Shutdown": "Spánek 10m + vypnutí",
@@ -888,7 +892,8 @@
     "Sleep Function": "Funkce spánku",
     "Sleep Until Wake": "Spát do probuzení",
     "Toggle if the audio is muted when display is dimmed": "Přepnout, zda je zvuk ztlumen při ztlumeném displeji",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Přepnout spořič obrazovky frontendu při aktivaci časového limitu nečinného displeje"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Přepnout spořič obrazovky frontendu při aktivaci časového limitu nečinného displeje",
+    "Turbo": "Turbo"
   },
   "muxraopt": {
     "THREADED VIDEO": "VLÁKNĚNÉ VIDEO",
