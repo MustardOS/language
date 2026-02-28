@@ -866,7 +866,10 @@
     "Configure the time the device will sleep when no input is detected": "Cumraigh an t-am a chodlóidh an gléas nuair nach mbraitear ionchur",
     "Configure the time the screen will dim when no input is detected": "Cumraigh an t-am a mhaolóidh an scáileán nuair nach mbraitear aon ionchur",
     "Configure when the red LED will display based on the current capacity percentage": "Cumraigh nuair a thaispeánfaidh an LED dearg bunaithe ar an gcéatadán acmhainne reatha",
+    "Crawl": "Crawl",
+    "Cruise": "Cruise",
     "Default Governor": "Gobharnóir Réamhshocraithe",
+    "Fast": "Fast",
     "Frontend Screensaver": "Sábhálaí Scáileáin Tosaigh",
     "Idle Display must be less than Idle Sleep": "Ní mór don Taispeántas Díomhaoin a bheith níos lú ná don Chodladh Díomhaoin",
     "Idle Governor": "Gobharnóir Díomhaoin",
@@ -874,6 +877,7 @@
     "Idle Input Sleep Timeout": "Teorainn Ama Codlata Ionchur Díomhaoin",
     "Instant Shutdown": "Múchadh Meandaracha",
     "Low Battery Indicator": "Táscaire Ceallraí Íseal",
+    "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "Balbhaigh ar Am Teorann Taispeána",
     "POWER SETTINGS": "SOCRUITHE CUMHACHTA",
     "Sleep 10m + Shutdown": "Codladh 10m + Múchadh",
@@ -888,7 +892,8 @@
     "Sleep Function": "Feidhm Chodlata",
     "Sleep Until Wake": "Codladh Go Dúisigh",
     "Toggle if the audio is muted when display is dimmed": "Scoránaigh má tá an fhuaim múchta nuair a bhíonn an taispeáint dorcha",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Scoránaigh an spárálaíscáileáin tosaigh ar ghníomhachtú Amchorrúcháin Taispeántais Díomhaoin"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Scoránaigh an spárálaíscáileáin tosaigh ar ghníomhachtú Amchorrúcháin Taispeántais Díomhaoin",
+    "Turbo": "Turbo"
   },
   "muxraopt": {
     "THREADED VIDEO": "FÍSEÁN SNÁITHE",
