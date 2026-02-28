@@ -866,7 +866,10 @@
     "Configure the time the device will sleep when no input is detected": "Настройка времени, в течение которого при отсутствии нажатий на клавиши устройство будет засыпать",
     "Configure the time the screen will dim when no input is detected": "Настройка времени, в течение которого при отсутствии нажатий на клавиши экран будет затемняться",
     "Configure when the red LED will display based on the current capacity percentage": "При каком проценте заряда будет загораться красный светодиод",
+    "Crawl": "Crawl",
+    "Cruise": "Cruise",
     "Default Governor": "Стандартный регулятор",
+    "Fast": "Fast",
     "Frontend Screensaver": "Заставка при бездействии",
     "Idle Display must be less than Idle Sleep": "Затемнение экрана должно происходить раньше чем переход в режим сна",
     "Idle Governor": "Регулятор в режиме ожидания",
@@ -874,6 +877,7 @@
     "Idle Input Sleep Timeout": "Переход устройства в режим сна через",
     "Instant Shutdown": "Мгновенное выключение",
     "Low Battery Indicator": "Индикация низкого заряда",
+    "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "Заглушить при затемнении экрана",
     "POWER SETTINGS": "ПИТАНИЕ",
     "Sleep 10m + Shutdown": "Сон 10 мин + Выкл",
@@ -888,7 +892,8 @@
     "Sleep Function": "Функция сна",
     "Sleep Until Wake": "Сон до пробуждения",
     "Toggle if the audio is muted when display is dimmed": "Выключение звука при затухании экрана",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Отображение заставки в режиме ожидания"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Отображение заставки в режиме ожидания",
+    "Turbo": "Turbo"
   },
   "muxraopt": {
     "THREADED VIDEO": "ПОТОКОВЫЙ РЕНДЕР",
