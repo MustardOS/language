@@ -1021,7 +1021,6 @@
     "The current running governor of the device": "Gobharnóir reatha an ghléis",
     "The current running time of the system": "Am reatha an chórais faoi láthair",
     "The current version of MustardOS running on the device": "An leagan reatha de MustardOS atá ag rith ar an ngléas",
-    "The current, and total, memory usage of the device": "Úsáid chuimhne reatha, agus iomlán, an ghléis",
     "The detected CPU type of the device": "An cineál LAP aimsithe den fheiste",
     "Version": "Leagan"
   },

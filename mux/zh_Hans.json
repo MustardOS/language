@@ -1021,7 +1021,6 @@
     "The current running governor of the device": "当前设备使用的CPU性能调节器",
     "The current running time of the system": "当前系统的运行时长",
     "The current version of MustardOS running on the device": "设备上运行的MustardOS的当前版本",
-    "The current, and total, memory usage of the device": "设备当前内存使用量/总量",
     "The detected CPU type of the device": "检测到的设备CPU类型",
     "Version": "版本"
   },

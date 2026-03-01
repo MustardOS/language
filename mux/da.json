@@ -1021,7 +1021,6 @@
     "The current running governor of the device": "Den nuværende kørende styreenhed for enheden",
     "The current running time of the system": "Systemets aktuelle driftstid",
     "The current version of MustardOS running on the device": "Den nuværende version af MustardOS, der kører på enheden",
-    "The current, and total, memory usage of the device": "Enhedens nuværende og samlede hukommelsesforbrug",
     "The detected CPU type of the device": "Den registrerede CPU-type for enheden",
     "Version": "Version"
   },

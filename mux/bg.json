@@ -1021,7 +1021,6 @@
     "The current running governor of the device": "Текущият работещ регулатор на устройството",
     "The current running time of the system": "Текущото време на работа на системата",
     "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
-    "The current, and total, memory usage of the device": "Текущото и общото използване на паметта на устройството",
     "The detected CPU type of the device": "Откритият тип процесор на устройството",
     "Version": "Version"
   },

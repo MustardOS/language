@@ -1021,7 +1021,6 @@
     "The current running governor of the device": "Chế độ hiệu chỉnh hiện tại của thiết bị",
     "The current running time of the system": "Thời gian hoạt động của hệ thống",
     "The current version of MustardOS running on the device": "Phiên bản hiện tại của MustardOS đang chạy trên thiết bị",
-    "The current, and total, memory usage of the device": "Mức sử dụng RAM hiện tại/tổng của thiết bị",
     "The detected CPU type of the device": "Nhận diện CPU của thiết bị",
     "Version": "Phiên bản"
   },

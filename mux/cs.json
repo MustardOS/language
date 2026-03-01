@@ -1021,7 +1021,6 @@
     "The current running governor of the device": "Aktuální běžící regulátor zařízení",
     "The current running time of the system": "Aktuální doba běhu systému",
     "The current version of MustardOS running on the device": "Aktuální verze MustardOS spuštěná na zařízení",
-    "The current, and total, memory usage of the device": "Aktuální a celkové využití paměti zařízením",
     "The detected CPU type of the device": "Zjištěný typ CPU zařízení",
     "Version": "Verze"
   },

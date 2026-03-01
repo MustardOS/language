@@ -1021,7 +1021,6 @@
     "The current running governor of the device": "Cihazın mevcut çalışan yöneticisi",
     "The current running time of the system": "Sistemin geçerli çalışma süresi",
     "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
-    "The current, and total, memory usage of the device": "Cihazın mevcut ve toplam bellek kullanımı",
     "The detected CPU type of the device": "Cihazın algılanan CPU türü",
     "Version": "Version"
   },

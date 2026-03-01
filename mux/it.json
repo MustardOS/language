@@ -1021,7 +1021,6 @@
     "The current running governor of the device": "Il governor attualmente in esecuzione sul dispositivo",
     "The current running time of the system": "Il tempo di esecuzione attuale del sistema",
     "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
-    "The current, and total, memory usage of the device": "L'utilizzo attuale e totale della memoria del dispositivo",
     "The detected CPU type of the device": "La CPU rilevata sul dispositivo",
     "Version": "Version"
   },

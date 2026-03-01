@@ -1021,7 +1021,6 @@
     "The current running governor of the device": "デバイスで稼働中のガバナーを表示します",
     "The current running time of the system": "システムの稼働時間を表示します",
     "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
-    "The current, and total, memory usage of the device": "現在の使用量と合計のメモリを表示します",
     "The detected CPU type of the device": "デバイスの CPU 種別を表示します",
     "Version": "Version"
   },

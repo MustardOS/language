@@ -1021,7 +1021,6 @@
     "The current running governor of the device": "Enhetens nuvarande CPU-reglerare.",
     "The current running time of the system": "Systemets nuvarande drifttid.",
     "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
-    "The current, and total, memory usage of the device": "Enhetens nuvarande och totala minnesanvändning.",
     "The detected CPU type of the device": "Den upptäckta CPU-typen för enheten.",
     "Version": "Version"
   },

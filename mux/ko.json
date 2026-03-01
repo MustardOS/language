@@ -1021,7 +1021,6 @@
     "The current running governor of the device": "현재 실행 중인 장치의 거버너",
     "The current running time of the system": "현재 시스템 실행 시간",
     "The current version of MustardOS running on the device": "장치에서 실행 중인 MustardOS의 현재 버전",
-    "The current, and total, memory usage of the device": "장치의 현재 및 총 메모리 사용량",
     "The detected CPU type of the device": "장치의 감지된 CPU 유형",
     "Version": "버전"
   },
