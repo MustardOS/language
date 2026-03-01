@@ -1008,6 +1008,7 @@
     "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
     "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "DETTAGLI DEL SISTEMA",
+    "Swap Memory": "Swap Memory",
     "System Memory": "Memoria di Sistema",
     "System Uptime": "Tempo di Attività del Sistema",
     "Temperature": "Temperatura",
@@ -1021,6 +1022,8 @@
     "The current running governor of the device": "Il governor attualmente in esecuzione sul dispositivo",
     "The current running time of the system": "Il tempo di esecuzione attuale del sistema",
     "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
+    "The current, and total, device memory usage of the device": "The current, and total, device memory usage of the device",
+    "The current, and total, swap memory usage of the device": "The current, and total, swap memory usage of the device",
     "The detected CPU type of the device": "La CPU rilevata sul dispositivo",
     "Version": "Version"
   },
