@@ -1008,6 +1008,7 @@
     "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
     "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "ПОДРОБНОСТИ ЗА СИСТЕМАТА",
+    "Swap Memory": "Swap Memory",
     "System Memory": "Системна памет",
     "System Uptime": "Времетраене на Системата",
     "Temperature": "Температура",
@@ -1021,6 +1022,8 @@
     "The current running governor of the device": "Текущият работещ регулатор на устройството",
     "The current running time of the system": "Текущото време на работа на системата",
     "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
+    "The current, and total, device memory usage of the device": "The current, and total, device memory usage of the device",
+    "The current, and total, swap memory usage of the device": "The current, and total, swap memory usage of the device",
     "The detected CPU type of the device": "Откритият тип процесор на устройството",
     "Version": "Version"
   },
