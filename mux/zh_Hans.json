@@ -1008,6 +1008,7 @@
     "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
     "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "系统详情",
+    "Swap Memory": "Swap Memory",
     "System Memory": "系统内存",
     "System Uptime": "系统运行时间",
     "Temperature": "温度",
@@ -1021,6 +1022,8 @@
     "The current running governor of the device": "当前设备使用的CPU性能调节器",
     "The current running time of the system": "当前系统的运行时长",
     "The current version of MustardOS running on the device": "设备上运行的MustardOS的当前版本",
+    "The current, and total, device memory usage of the device": "The current, and total, device memory usage of the device",
+    "The current, and total, swap memory usage of the device": "The current, and total, swap memory usage of the device",
     "The detected CPU type of the device": "检测到的设备CPU类型",
     "Version": "版本"
   },
