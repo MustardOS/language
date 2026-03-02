@@ -869,7 +869,7 @@
     "Crawl": "Медленная",
     "Cruise": "Средняя",
     "Default Governor": "Стандартный регулятор",
-    "Fast": "Быстро",
+    "Fast": "Быстрая",
     "Frontend Screensaver": "Заставка при бездействии",
     "Idle Display must be less than Idle Sleep": "Затемнение экрана должно происходить раньше чем переход в режим сна",
     "Idle Governor": "Регулятор в режиме ожидания",
@@ -893,7 +893,7 @@
     "Sleep Until Wake": "Сон до пробуждения",
     "Toggle if the audio is muted when display is dimmed": "Выключение звука при затухании экрана",
     "Toggle the frontend screensaver on Idle Display Timeout activation": "Отображение заставки в режиме ожидания",
-    "Turbo": "Быстрая"
+    "Turbo": "Очень быстрая"
   },
   "muxraopt": {
     "THREADED VIDEO": "ПОТОКОВЫЙ РЕНДЕР",
