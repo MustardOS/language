@@ -866,7 +866,10 @@
     "Configure the time the device will sleep when no input is detected": "Hiçbir giriş algılanmadığında cihazın uyku moduna geçeceği zamanı yapılandır",
     "Configure the time the screen will dim when no input is detected": "Hiçbir giriş algılanmadığında ekranın kararacağı süreyi yapılandır",
     "Configure when the red LED will display based on the current capacity percentage": "Mevcut kapasite yüzdesine bağlı olarak kırmızı LED'in ne zaman görüntüleneceğini yapılandır",
+    "Crawl": "Crawl",
+    "Cruise": "Cruise",
     "Default Governor": "Default Governor",
+    "Fast": "Fast",
     "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
@@ -874,6 +877,7 @@
     "Idle Input Sleep Timeout": "Uykuda boşta geçecek süre",
     "Instant Shutdown": "Anında kapatma",
     "Low Battery Indicator": "Düşük pil göstergesi",
+    "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "Mute on Display Timeout",
     "POWER SETTINGS": "GÜÇ AYARLARI",
     "Sleep 10m + Shutdown": "10 dk uyku + Kapatma",
@@ -888,7 +892,8 @@
     "Sleep Function": "Uyku özelliği",
     "Sleep Until Wake": "Sleep Until Wake",
     "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation",
+    "Turbo": "Turbo"
   },
   "muxraopt": {
     "THREADED VIDEO": "THREADED VIDEO",
@@ -1003,6 +1008,7 @@
     "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
     "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "SİSTEM AYRINTILARI",
+    "Swap Memory": "Swap Memory",
     "System Memory": "System Memory",
     "System Uptime": "Sistem çalışma süresi",
     "Temperature": "Sıcaklık",
@@ -1016,7 +1022,8 @@
     "The current running governor of the device": "Cihazın mevcut çalışan yöneticisi",
     "The current running time of the system": "Sistemin geçerli çalışma süresi",
     "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
-    "The current, and total, memory usage of the device": "Cihazın mevcut ve toplam bellek kullanımı",
+    "The current, and total, device memory usage of the device": "The current, and total, device memory usage of the device",
+    "The current, and total, swap memory usage of the device": "The current, and total, swap memory usage of the device",
     "The detected CPU type of the device": "Cihazın algılanan CPU türü",
     "Version": "Version"
   },

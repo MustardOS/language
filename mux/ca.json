@@ -866,7 +866,10 @@
     "Configure the time the device will sleep when no input is detected": "Configura el temps d'espera per a que el dispositiu es suspengui en no prémer cap tecla",
     "Configure the time the screen will dim when no input is detected": "Configura el temps d'espera per a que la pantalla s'enfosqueixi en no prémer cap tecla",
     "Configure when the red LED will display based on the current capacity percentage": "Configura l'encesa del LED vermell segons el percentatge de bateria actual",
+    "Crawl": "Crawl",
+    "Cruise": "Cruise",
     "Default Governor": "Default Governor",
+    "Fast": "Fast",
     "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "El temps d’inactivitat de la pantalla ha de ser menor que el de l’inactivitat del sistema",
     "Idle Governor": "Idle Governor",
@@ -874,6 +877,7 @@
     "Idle Input Sleep Timeout": "Temps d'inactivitat per suspensió",
     "Instant Shutdown": "Apagat instantani",
     "Low Battery Indicator": "Indicador de baixa bateria",
+    "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "Silencia durant el temps d'espera de la pantalla",
     "POWER SETTINGS": "OPCIONS D'ENERGIA",
     "Sleep 10m + Shutdown": "Suspensió 10m + Apagat",
@@ -888,7 +892,8 @@
     "Sleep Function": "Funció de suspensió",
     "Sleep Until Wake": "Suspendre fins la reactivació",
     "Toggle if the audio is muted when display is dimmed": "Activa o desactiva l'àudio quan la pantalla està atenuada",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation",
+    "Turbo": "Turbo"
   },
   "muxraopt": {
     "THREADED VIDEO": "THREADED VIDEO",
@@ -1003,6 +1008,7 @@
     "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
     "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "DETALLS DEL SISTEMA",
+    "Swap Memory": "Swap Memory",
     "System Memory": "Memòria del sistema",
     "System Uptime": "Temps d'activitat del sistema",
     "Temperature": "Temperatura",
@@ -1016,7 +1022,8 @@
     "The current running governor of the device": "El controlador de freqüència de CPU usat actualment",
     "The current running time of the system": "El temps de funcionament actual del sistema",
     "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
-    "The current, and total, memory usage of the device": "L'ús actual i total de memòria a la consola",
+    "The current, and total, device memory usage of the device": "The current, and total, device memory usage of the device",
+    "The current, and total, swap memory usage of the device": "The current, and total, swap memory usage of the device",
     "The detected CPU type of the device": "La CPU detectada a la consola",
     "Version": "Version"
   },

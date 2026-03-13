@@ -866,7 +866,10 @@
     "Configure the time the device will sleep when no input is detected": "入力がない時にデバイスが自動でスリープするまでの時間を設定します",
     "Configure the time the screen will dim when no input is detected": "入力がない時にディスプレイを自動で消灯するまでの時間を設定します",
     "Configure when the red LED will display based on the current capacity percentage": "現在の電池容量 (%) に合わせて、赤色 LED を点灯します",
+    "Crawl": "Crawl",
+    "Cruise": "Cruise",
     "Default Governor": "Default Governor",
+    "Fast": "Fast",
     "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "自動ディスプレイ消灯時間は自動スリープより短くしてください",
     "Idle Governor": "Idle Governor",
@@ -874,6 +877,7 @@
     "Idle Input Sleep Timeout": "自動スリープ",
     "Instant Shutdown": "すぐに電源を切る",
     "Low Battery Indicator": "低電力表示",
+    "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "自動ディスプレイ消灯時に消音する",
     "POWER SETTINGS": "電力設定",
     "Sleep 10m + Shutdown": "スリープ 10分 + 電源を切る",
@@ -888,7 +892,8 @@
     "Sleep Function": "スリープ設定",
     "Sleep Until Wake": "スリープ状態を維持",
     "Toggle if the audio is muted when display is dimmed": "ディスプレイ自動消灯時に消音するかを切り替えます",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation",
+    "Turbo": "Turbo"
   },
   "muxraopt": {
     "THREADED VIDEO": "THREADED VIDEO",
@@ -1003,6 +1008,7 @@
     "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
     "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "システム詳細",
+    "Swap Memory": "Swap Memory",
     "System Memory": "システムメモリ",
     "System Uptime": "システム稼働期間",
     "Temperature": "温度",
@@ -1016,7 +1022,8 @@
     "The current running governor of the device": "デバイスで稼働中のガバナーを表示します",
     "The current running time of the system": "システムの稼働時間を表示します",
     "The current version of MustardOS running on the device": "The current version of MustardOS running on the device",
-    "The current, and total, memory usage of the device": "現在の使用量と合計のメモリを表示します",
+    "The current, and total, device memory usage of the device": "The current, and total, device memory usage of the device",
+    "The current, and total, swap memory usage of the device": "The current, and total, swap memory usage of the device",
     "The detected CPU type of the device": "デバイスの CPU 種別を表示します",
     "Version": "Version"
   },

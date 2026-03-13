@@ -866,7 +866,10 @@
     "Configure the time the device will sleep when no input is detected": "Cấu hình thời gian bật sleep khi không sử dụng",
     "Configure the time the screen will dim when no input is detected": "Cấu hình thời gian màn hình giảm độ sáng khi không sử dụng",
     "Configure when the red LED will display based on the current capacity percentage": "Cấu hình đèn LED sáng đỏ khi pin yếu",
+    "Crawl": "Crawl",
+    "Cruise": "Cruise",
     "Default Governor": "Chế độ Hiệu Năng mặc định",
+    "Fast": "Fast",
     "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Hiển thị Chờ phải ít hơn chế độ Ngủ Chờ",
     "Idle Governor": "Chế độ Hiệu năng lúc nhàn rỗi",
@@ -874,6 +877,7 @@
     "Idle Input Sleep Timeout": "Thời gian chờ khi phím Sleep rảnh",
     "Instant Shutdown": "Tắt ngay lập tức",
     "Low Battery Indicator": "Chỉ báo Pin yếu",
+    "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "Tắt âm khi hết thời gian hiển thị",
     "POWER SETTINGS": "CÀI ĐẶT NGUÔN ĐIỆN",
     "Sleep 10m + Shutdown": "Ngủ 10p + Tắt nguồn",
@@ -888,7 +892,8 @@
     "Sleep Function": "Chức năng Ngủ",
     "Sleep Until Wake": "Ngủ đến khi được đánh thức",
     "Toggle if the audio is muted when display is dimmed": "Bặt/tắt nếu như âm thanh bị tắt lúc màn hình đang bị làm mờ",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation",
+    "Turbo": "Turbo"
   },
   "muxraopt": {
     "THREADED VIDEO": "THREADED VIDEO",
@@ -1003,6 +1008,7 @@
     "Reload the current frontend configuration values if changed elsewhere": "Reload the current frontend configuration values if changed elsewhere",
     "Reloading Frontend…": "Reloading Frontend…",
     "SYSTEM DETAILS": "CHI TIẾT HỆ THỐNG",
+    "Swap Memory": "Swap Memory",
     "System Memory": "Dung lượng RAM hệ thống",
     "System Uptime": "Thời gian hoạt động",
     "Temperature": "Nhiệt độ",
@@ -1016,7 +1022,8 @@
     "The current running governor of the device": "Chế độ hiệu chỉnh hiện tại của thiết bị",
     "The current running time of the system": "Thời gian hoạt động của hệ thống",
     "The current version of MustardOS running on the device": "Phiên bản hiện tại của MustardOS đang chạy trên thiết bị",
-    "The current, and total, memory usage of the device": "Mức sử dụng RAM hiện tại/tổng của thiết bị",
+    "The current, and total, device memory usage of the device": "The current, and total, device memory usage of the device",
+    "The current, and total, swap memory usage of the device": "The current, and total, swap memory usage of the device",
     "The detected CPU type of the device": "Nhận diện CPU của thiết bị",
     "Version": "Phiên bản"
   },

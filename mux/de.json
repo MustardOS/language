@@ -866,7 +866,10 @@
     "Configure the time the device will sleep when no input is detected": "Die Zeit einstellen, ab wann das System in den Standbymodus wechselt, wenn nach einiger Zeit keine Eingaben mehr gemacht wurden",
     "Configure the time the screen will dim when no input is detected": "Die Zeit einstellen, ab wann der Bildschirm verdunkelt wird, wenn keine Eingabe erkannt wird",
     "Configure when the red LED will display based on the current capacity percentage": "Konfiguriere, basierend auf der aktuellen prozentualen Akkukapazität, wann die rote LED an geht",
+    "Crawl": "Crawl",
+    "Cruise": "Cruise",
     "Default Governor": "Standard Governor",
+    "Fast": "Fast",
     "Frontend Screensaver": "Frontend Bildschirmschoner",
     "Idle Display must be less than Idle Sleep": "Idle-Display muss kleiner als Idle-Sleep sein",
     "Idle Governor": "Idle-Governor",
@@ -874,6 +877,7 @@
     "Idle Input Sleep Timeout": "Standby-Modus aktivieren",
     "Instant Shutdown": "Sofortiges ausschalten",
     "Low Battery Indicator": "Anzeige bei niedrigen Akkustand",
+    "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "Stummstellen nach Display-Timeout",
     "POWER SETTINGS": "ENERGIE-EINSTELLUNGEN",
     "Sleep 10m + Shutdown": "Standby 10m + Ausschalten",
@@ -888,7 +892,8 @@
     "Sleep Function": "Schlaffunktion",
     "Sleep Until Wake": "Standby bis zum Wecken",
     "Toggle if the audio is muted when display is dimmed": "Ein- oder ausschalten, ob der Ton stumm geschaltet wird, wenn das Display abgeblendet ist",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Stelle den Bildschirmschoner und dir Aktivitätszeit ein"
+    "Toggle the frontend screensaver on Idle Display Timeout activation": "Stelle den Bildschirmschoner und dir Aktivitätszeit ein",
+    "Turbo": "Turbo"
   },
   "muxraopt": {
     "THREADED VIDEO": "THREADED VIDEO",
@@ -1003,6 +1008,7 @@
     "Reload the current frontend configuration values if changed elsewhere": "Stelle die Standardeinstellungen vom Frontend wieder her",
     "Reloading Frontend…": "Wird neu geladen - Frontend…",
     "SYSTEM DETAILS": "SYSTEMINFORMATIONEN",
+    "Swap Memory": "Swap Memory",
     "System Memory": "Arbeitsspeicher",
     "System Uptime": "Betriebszeit",
     "Temperature": "Temperatur",
@@ -1016,7 +1022,8 @@
     "The current running governor of the device": "Der aktuell benutzte CPU-Governor des Geräts",
     "The current running time of the system": "Die aktuelle Systemlaufzeit",
     "The current version of MustardOS running on the device": "Die aktuelle Version von MustardOS, die auf dem Gerät ausgeführt wird",
-    "The current, and total, memory usage of the device": "Die aktuelle und gesamte Speichernutzung des Systems",
+    "The current, and total, device memory usage of the device": "The current, and total, device memory usage of the device",
+    "The current, and total, swap memory usage of the device": "The current, and total, swap memory usage of the device",
     "The detected CPU type of the device": "Der erkannte CPU Typ dieses Geräts",
     "Version": "Version"
   },
