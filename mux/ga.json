@@ -760,14 +760,10 @@
     "No News Found…": "Níor aimsíodh aon nuacht…"
   },
   "muxoption": {
-    "CONTENT OPTION": "ROGHA INNEACHAIR",
     "Colour Filter": "Scagaire Dathanna",
     "Content Tag": "Clib Ábhair",
     "Control Scheme": "Scéim Rialaithe",
-    "Core": "Croí",
     "Current": "Reatha",
-    "Governor": "Gobharnóir",
-    "Name": "Ainm",
     "None": "Dada",
     "Not Assigned": "Gan Sannadh",
     "Remove Config": "Bain Cumraíocht",
@@ -775,8 +771,6 @@
     "Removing Content Config…": "Cumraíocht Ábhair á baint…",
     "Removing Core Config…": "Cumraíocht Chroí á baint…",
     "Removing Directory Config…": "Cumraíocht Eolaire á baint…",
-    "Search": "Cuardaigh",
-    "Search for content within the selected directory": "Cuardaigh inneachar laistigh den eolaire roghnaithe",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Roghnaigh scagaire datha a athróidh aschur taispeána an ábhair reatha. B’fhéidir nach n-oibreoidh sé le gach rud!",
     "Set the CPU governor for the selected content or directory": "Socraigh gobharnóir an LAP don inneachar nó don chomhadlann roghnaithe",
     "Set the control scheme for the selected content or directory": "Socraigh an scéim rialaithe don ábhar nó don eolaire roghnaithe",

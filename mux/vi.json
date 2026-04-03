@@ -760,14 +760,10 @@
     "No News Found…": "No News Found…"
   },
   "muxoption": {
-    "CONTENT OPTION": "TÙY CHỌN NỘI DUNG",
     "Colour Filter": "Colour Filter",
     "Content Tag": "Content Tag",
     "Control Scheme": "Cách điều khiển",
-    "Core": "Nhân",
     "Current": "Hiện tại",
-    "Governor": "Hiệu chỉnh",
-    "Name": "Tên",
     "None": "Không có",
     "Not Assigned": "Không được gán",
     "Remove Config": "Remove Config",
@@ -775,8 +771,6 @@
     "Removing Content Config…": "Removing Content Config…",
     "Removing Core Config…": "Removing Core Config…",
     "Removing Directory Config…": "Removing Directory Config…",
-    "Search": "Tìm kiếm",
-    "Search for content within the selected directory": "Tìm kiếm nội dung trong thư mục được chọn",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Select a colour filter that will change the display output of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Cài đặt hiệu chỉnh CPU cho nội dung hoặc thư mục được chọn",
     "Set the control scheme for the selected content or directory": "Thiết lập cách điều khiển cho thư mục hoặc nội dung được chọn",

@@ -760,14 +760,10 @@
     "No News Found…": "Ingen nyheder fundet…"
   },
   "muxoption": {
-    "CONTENT OPTION": "INDHOLDSMULIGHED",
     "Colour Filter": "Farvefilter",
     "Content Tag": "Indholdstag",
     "Control Scheme": "Kontrol skema",
-    "Core": "Kerne",
     "Current": "Aktuel",
-    "Governor": "Regulator",
-    "Name": "Navn",
     "None": "Ingen",
     "Not Assigned": "Ikke tildelt",
     "Remove Config": "Fjern konfiguration",
@@ -775,8 +771,6 @@
     "Removing Content Config…": "Fjerner indholdskonfiguration…",
     "Removing Core Config…": "Fjerner kernekonfiguration…",
     "Removing Directory Config…": "Fjerner mappekonfiguration…",
-    "Search": "Søg",
-    "Search for content within the selected directory": "Søg efter indhold i den valgte mappe",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Vælg et farvefilter, der ændrer visningen af det aktive indhold. Virker muligvis ikke med alt!",
     "Set the CPU governor for the selected content or directory": "Indstil CPU-regulatoren for det valgte indhold eller den valgte mappe",
     "Set the control scheme for the selected content or directory": "Angiv kontrol skemaet for det valgte indhold eller mappe",

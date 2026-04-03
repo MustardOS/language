@@ -760,14 +760,10 @@
     "No News Found…": "Новостей не найдено"
   },
   "muxoption": {
-    "CONTENT OPTION": "НАСТРОЙКА ИГР",
     "Colour Filter": "Цветовой фильтр",
     "Content Tag": "Ярлык игр",
     "Control Scheme": "Схема управления",
-    "Core": "Ядро",
     "Current": "Текущий",
-    "Governor": "Регулятор",
-    "Name": "Имя",
     "None": "Нет",
     "Not Assigned": "Не привязано",
     "Remove Config": "Удалить конфигурации",
@@ -775,8 +771,6 @@
     "Removing Content Config…": "Удаление настроек игры",
     "Removing Core Config…": "Удаление настроек ядра",
     "Removing Directory Config…": "Удаление настроек папки",
-    "Search": "Поиск",
-    "Search for content within the selected directory": "Поиск игр в выбранной папке",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Выбор цветового фильтра для игры. Может быть не совместимо с некоторыми играми!",
     "Set the CPU governor for the selected content or directory": "Настройка регулятора ЦП для выбранной игры или папки",
     "Set the control scheme for the selected content or directory": "Выбор схемы управления для выбранной игры или папки",

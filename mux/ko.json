@@ -760,14 +760,10 @@
     "No News Found…": "뉴스가 없음…"
   },
   "muxoption": {
-    "CONTENT OPTION": "콘텐츠 옵션",
     "Colour Filter": "컬러 필터",
     "Content Tag": "콘텐츠 태그",
     "Control Scheme": "제어 방식",
-    "Core": "코어",
     "Current": "현재",
-    "Governor": "거버너",
-    "Name": "파일명",
     "None": "없음",
     "Not Assigned": "할당되지 않음",
     "Remove Config": "구성 제거",
@@ -775,8 +771,6 @@
     "Removing Content Config…": "콘텐츠 구성 제거 중…",
     "Removing Core Config…": "코어 구성 제거 중…",
     "Removing Directory Config…": "디렉토리 구성 제거 중…",
-    "Search": "검색",
-    "Search for content within the selected directory": "선택한 폴더 내의 콘텐츠 검색",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "실행 중인 콘텐츠의 화면 출력을 변경할 컬러 필터를 선택함. 일부 콘텐츠에서는 작동하지 않을 수 있음!",
     "Set the CPU governor for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 CPU 거버너를 설정",
     "Set the control scheme for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 제어 체계를 설정",

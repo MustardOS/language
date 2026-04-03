@@ -760,14 +760,10 @@
     "No News Found…": "Aucune actualité trouvée…"
   },
   "muxoption": {
-    "CONTENT OPTION": "OPTION DU CONTENU",
     "Colour Filter": "Filtre de couleur",
     "Content Tag": "Étiquette de contenu",
     "Control Scheme": "Schéma de contrôle",
-    "Core": "Émulateur",
     "Current": "Actuel",
-    "Governor": "Gouverneur",
-    "Name": "Nom",
     "None": "Aucun",
     "Not Assigned": "Non assigné",
     "Remove Config": "Supprimer la configuration",
@@ -775,8 +771,6 @@
     "Removing Content Config…": "Suppression de la configuration du contenu…",
     "Removing Core Config…": "Suppression de la configuration de l'émulateur…",
     "Removing Directory Config…": "Suppression de la configuration du répertoire…",
-    "Search": "Rechercher",
-    "Search for content within the selected directory": "Rechercher du contenu dans le répertoire sélectionné",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Sélectionnez un filtre de couleur pour modifier l'affichage du contenu en cours. Peut ne pas fonctionner avec tous les contenus !",
     "Set the CPU governor for the selected content or directory": "Définissez le gouverneur du processeur pour le contenu ou le répertoire sélectionné",
     "Set the control scheme for the selected content or directory": "Définir le schéma de contrôle pour le contenu ou le répertoire sélectionné",

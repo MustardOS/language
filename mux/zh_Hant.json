@@ -760,14 +760,10 @@
     "No News Found…": "未發現新消息…"
   },
   "muxoption": {
-    "CONTENT OPTION": "內容選項",
     "Colour Filter": "顏色濾鏡",
     "Content Tag": "內容標籤",
     "Control Scheme": "控制方案",
-    "Core": "核心",
     "Current": "目前的",
-    "Governor": "調速器",
-    "Name": "名稱",
     "None": "無",
     "Not Assigned": "未指派",
     "Remove Config": "刪除設定",
@@ -775,8 +771,6 @@
     "Removing Content Config…": "內容配置移除中…",
     "Removing Core Config…": "核心配置移除中…",
     "Removing Directory Config…": "目錄配置移除中…",
-    "Search": "搜尋",
-    "Search for content within the selected directory": "在所選的目錄中搜尋內容",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "選擇一種顏色濾鏡，它將改變正在運行內容的顯示輸出。可能無法適用於所有情況！",
     "Set the CPU governor for the selected content or directory": "為選定的內容或目錄設定CPU調速器",
     "Set the control scheme for the selected content or directory": "為選定的內容或目錄設定控制方案",

@@ -760,14 +760,10 @@
     "No News Found…": "No News Found…"
   },
   "muxoption": {
-    "CONTENT OPTION": "CONTENT OPTION",
     "Colour Filter": "Colour Filter",
     "Content Tag": "Content Tag",
     "Control Scheme": "コントロール法",
-    "Core": "コア",
     "Current": "現在の設定",
-    "Governor": "ガバナー",
-    "Name": "名前",
     "None": "なし",
     "Not Assigned": "関連付けられていません",
     "Remove Config": "Remove Config",
@@ -775,8 +771,6 @@
     "Removing Content Config…": "Removing Content Config…",
     "Removing Core Config…": "Removing Core Config…",
     "Removing Directory Config…": "Removing Directory Config…",
-    "Search": "検索する",
-    "Search for content within the selected directory": "選択中のディレクトリ内でコンテンツを検索します",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Select a colour filter that will change the display output of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "選択したコンテンツまたはディレクトリに\nCPU ガナバーを設定します",
     "Set the control scheme for the selected content or directory": "選択中のコンテンツまたはデレクトリにコントロール法を設定します",

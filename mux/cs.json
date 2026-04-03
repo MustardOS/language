@@ -760,14 +760,10 @@
     "No News Found…": "Nebyly nalezeny žádné zprávy…"
   },
   "muxoption": {
-    "CONTENT OPTION": "MOŽNOST OBSAHU",
     "Colour Filter": "Barevný filtr",
     "Content Tag": "Obsahová značka",
     "Control Scheme": "Kontrolní schéma",
-    "Core": "Jádro",
     "Current": "Současný",
-    "Governor": "Regulátor",
-    "Name": "Jméno",
     "None": "Žádný",
     "Not Assigned": "Nepřiřazeno",
     "Remove Config": "Odebrat Config",
@@ -775,8 +771,6 @@
     "Removing Content Config…": "Odebírání konfigurace obsahu…",
     "Removing Core Config…": "Odebírání základní konfigurace…",
     "Removing Directory Config…": "Odebírání konfigurace adresáře…",
-    "Search": "Vyhledávání",
-    "Search for content within the selected directory": "Vyhledejte obsah ve vybraném adresáři",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Vyberte barevný filtr, který změní zobrazení běžícího obsahu. Nemusí fungovat se vším!",
     "Set the CPU governor for the selected content or directory": "Nastavte regulátor CPU pro vybraný obsah nebo adresář",
     "Set the control scheme for the selected content or directory": "Nastavení schématu řízení pro vybraný obsah nebo adresář",

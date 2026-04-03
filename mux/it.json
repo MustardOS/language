@@ -760,14 +760,10 @@
     "No News Found…": "No News Found…"
   },
   "muxoption": {
-    "CONTENT OPTION": "OPZIONI CONTENUTO",
     "Colour Filter": "Colour Filter",
     "Content Tag": "Content Tag",
     "Control Scheme": "Schema Controlli",
-    "Core": "Core",
     "Current": "Attuale",
-    "Governor": "Governor",
-    "Name": "Nome",
     "None": "Nulla",
     "Not Assigned": "Non Assegnato",
     "Remove Config": "Remove Config",
@@ -775,8 +771,6 @@
     "Removing Content Config…": "Removing Content Config…",
     "Removing Core Config…": "Removing Core Config…",
     "Removing Directory Config…": "Removing Directory Config…",
-    "Search": "Cerca",
-    "Search for content within the selected directory": "Cerca contenuto all'interno della cartella selezionata",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Select a colour filter that will change the display output of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Imposta il governor della CPU per il contenuto o la directory selezionati",
     "Set the control scheme for the selected content or directory": "Imposta lo schema di controllo per il contenuto o la cartella selezionata",

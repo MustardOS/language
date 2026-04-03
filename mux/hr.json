@@ -760,14 +760,10 @@
     "No News Found…": "No News Found…"
   },
   "muxoption": {
-    "CONTENT OPTION": "OPCIJE SADRŽAJA",
     "Colour Filter": "Colour Filter",
     "Content Tag": "Content Tag",
     "Control Scheme": "Shema kontrola",
-    "Core": "Jezgra",
     "Current": "Trenutno",
-    "Governor": "Upravitelj CPU‑a",
-    "Name": "Naziv",
     "None": "Nema",
     "Not Assigned": "Nije dodijeljeno",
     "Remove Config": "Remove Config",
@@ -775,8 +771,6 @@
     "Removing Content Config…": "Removing Content Config…",
     "Removing Core Config…": "Removing Core Config…",
     "Removing Directory Config…": "Removing Directory Config…",
-    "Search": "Traži",
-    "Search for content within the selected directory": "Pretraži sadržaj u odabranoj mapi",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Select a colour filter that will change the display output of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Odaberi CPU upravitelja za sadržaj ili mapu",
     "Set the control scheme for the selected content or directory": "Odaberi shemu kontrola za sadržaj ili mapu",
