@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "APLIKAĴOJ",
     "Archive Manager": "Administrilo de arkivo",
-    "Dingux Commander": "Dingux Komandanto",
     "Loading Application": "Ŝarganta aplikaĵon",
-    "Moonlight": "Moonlight",
     "No Applications Found": "Neniuj aplikaĵoj trovitaj",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +488,8 @@
     "Under": "Sub"
   },
   "muxhistory": {
-    "Error loading content file": "Eraro ŝargante enhavan dosieron",
-    "Error removing from History": "Eraro forigante de Historio",
     "HISTORY": "HISTORIO",
-    "Nothing Played Yet…": "Ankoraŭ nenio ludita…",
-    "Removed from History": "Forigita de Historio"
+    "Nothing Played Yet…": "Ankoraŭ nenio ludita…"
   },
   "muxinfo": {
     "Access network information": "Aliro al retaj informoj",

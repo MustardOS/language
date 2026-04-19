@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "APLICAȚII",
     "Archive Manager": "Manager de arhivă",
-    "Dingux Commander": "Dingux Commander",
     "Loading Application": "Se încarcă aplicația",
-    "Moonlight": "Moonlight",
     "No Applications Found": "Nicio aplicație găsită",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +488,8 @@
     "Under": "Sub"
   },
   "muxhistory": {
-    "Error loading content file": "Eroare la încărcarea fișierului de conținut",
-    "Error removing from History": "Eroare la eliminarea din istoric",
     "HISTORY": "ISTORIC",
-    "Nothing Played Yet…": "Nimic redat încă…",
-    "Removed from History": "Eliminat din istoric"
+    "Nothing Played Yet…": "Nimic redat încă…"
   },
   "muxinfo": {
     "Access network information": "Access network information",

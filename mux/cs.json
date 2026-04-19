@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "APLIKACE",
     "Archive Manager": "Správce archivu",
-    "Dingux Commander": "Dingux Commander",
     "Loading Application": "Načítání aplikace",
-    "Moonlight": "Moonlight",
     "No Applications Found": "Nebyly nalezeny žádné aplikace",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +488,8 @@
     "Under": "Pod"
   },
   "muxhistory": {
-    "Error loading content file": "Chyba při načítání souboru obsahu",
-    "Error removing from History": "Chyba při odebírání z historie",
     "HISTORY": "HISTORIE",
-    "Nothing Played Yet…": "Zatím nic nehráno…",
-    "Removed from History": "Odebráno z historie"
+    "Nothing Played Yet…": "Zatím nic nehráno…"
   },
   "muxinfo": {
     "Access network information": "Přístup k informacím o síti",

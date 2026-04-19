@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "ПРИЛОЖЕНИЯ",
     "Archive Manager": "Менеджер архивов",
-    "Dingux Commander": "Файлы",
     "Loading Application": "Загрузка приложения",
-    "Moonlight": "Moonlight",
     "No Applications Found": "Приложения не найдены",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +488,8 @@
     "Under": "Без вылета"
   },
   "muxhistory": {
-    "Error loading content file": "Ошибка загрузки файла игры",
-    "Error removing from History": "Ошибка при удалении из истории",
     "HISTORY": "ИСТОРИЯ",
-    "Nothing Played Yet…": "Пока ничего не запускалось",
-    "Removed from History": "Удалено из истории"
+    "Nothing Played Yet…": "Пока ничего не запускалось"
   },
   "muxinfo": {
     "Access network information": "Доступ к информации сети",

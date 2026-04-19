@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "應用程式",
     "Archive Manager": "封裝檔管理員",
-    "Dingux Commander": "檔案總管",
     "Loading Application": "載入應用程式",
-    "Moonlight": "Moonlight串流工具",
     "No Applications Found": "找不到應用程式",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster移殖遊戲管理",
@@ -490,11 +488,8 @@
     "Under": "欠掃描(原比例)"
   },
   "muxhistory": {
-    "Error loading content file": "載入內容檔案時出錯",
-    "Error removing from History": "從遊玩紀錄中刪除時出錯",
     "HISTORY": "遊玩紀錄",
-    "Nothing Played Yet…": "還沒有遊玩任何內容…",
-    "Removed from History": "已從遊玩記錄中刪除"
+    "Nothing Played Yet…": "還沒有遊玩任何內容…"
   },
   "muxinfo": {
     "Access network information": "取得網路訊息",

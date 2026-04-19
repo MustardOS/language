@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "PROGRAMME",
     "Archive Manager": "Archiv Manager",
-    "Dingux Commander": "Dateiexplorer",
     "Loading Application": "Lade Programm",
-    "Moonlight": "Moonlicht",
     "No Applications Found": "Keine Programme gefunden",
     "PPSSPP": "PPSSPP",
     "PortMaster": "Port-Master",
@@ -490,11 +488,8 @@
     "Under": "Underscan"
   },
   "muxhistory": {
-    "Error loading content file": "Fehler beim Laden des Mediums",
-    "Error removing from History": "Fehler beim Entfernen aus dem Verlauf",
     "HISTORY": "VERLAUF",
-    "Nothing Played Yet…": "Bisher wurde noch nichts gestartet oder gespielt…",
-    "Removed from History": "Würde aus dem Verlauf entfernt"
+    "Nothing Played Yet…": "Bisher wurde noch nichts gestartet oder gespielt…"
   },
   "muxinfo": {
     "Access network information": "Überprüfe Netzwerk Informationen",

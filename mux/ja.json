@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "アプリケーション",
     "Archive Manager": "アーカイブマネージャー",
-    "Dingux Commander": "Dingux Commander",
     "Loading Application": "アプリケーションを起動しています",
-    "Moonlight": "Moonlight",
     "No Applications Found": "アプリケーションが見つかりませんでした",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +488,8 @@
     "Under": "アンダー"
   },
   "muxhistory": {
-    "Error loading content file": "コンテンツを読み込み中にエラーが起きました",
-    "Error removing from History": "履歴から削除中にエラーが起きました",
     "HISTORY": "コンテンツ履歴",
-    "Nothing Played Yet…": "まだ何もプレイしていません…",
-    "Removed from History": "履歴から削除しました"
+    "Nothing Played Yet…": "まだ何もプレイしていません…"
   },
   "muxinfo": {
     "Access network information": "ネットワークの情報を表示します",

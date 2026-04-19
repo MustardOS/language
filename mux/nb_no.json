@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "APPLIKASJONER",
     "Archive Manager": "Arkivbehandler",
-    "Dingux Commander": "Dingux Commander",
     "Loading Application": "Laster inn Applikasjon",
-    "Moonlight": "Moonlight",
     "No Applications Found": "Ingen Applikasjoner Funnet",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +488,8 @@
     "Under": "Under"
   },
   "muxhistory": {
-    "Error loading content file": "Feil ved lasting av innholdsfil",
-    "Error removing from History": "Feil ved fjerning fra loggen",
     "HISTORY": "LOGG",
-    "Nothing Played Yet…": "Ingenting Spilt Enda…",
-    "Removed from History": "Fjernet fra Logg"
+    "Nothing Played Yet…": "Ingenting Spilt Enda…"
   },
   "muxinfo": {
     "Access network information": "Tilgang til nettverksinformasjon",

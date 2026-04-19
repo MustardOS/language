@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "التطبيقات",
     "Archive Manager": "مدير الأرشيف",
-    "Dingux Commander": "Dingux Commander",
     "Loading Application": "جاري تحميل التطبيق",
-    "Moonlight": "Moonlight",
     "No Applications Found": "لم يتم العثور على تطبيقات",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +488,8 @@
     "Under": "تحجيم ناقص"
   },
   "muxhistory": {
-    "Error loading content file": "خطأ في تحميل الملف",
-    "Error removing from History": "خطأ في الإزالة من التاريخ",
     "HISTORY": "التاريخ",
-    "Nothing Played Yet…": "لم يتم لعب أي شيء…",
-    "Removed from History": "تمت إزالته من التاريخ"
+    "Nothing Played Yet…": "لم يتم لعب أي شيء…"
   },
   "muxinfo": {
     "Access network information": "Access network information",

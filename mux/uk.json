@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "ДОДАТКИ",
     "Archive Manager": "Менеджер архівів",
-    "Dingux Commander": "Dingux Commander",
     "Loading Application": "Додаток завантажується",
-    "Moonlight": "Moonlight",
     "No Applications Found": "Додатків не знайдено",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +488,8 @@
     "Under": "Без вильоту"
   },
   "muxhistory": {
-    "Error loading content file": "Помилка завантаження файлу гри",
-    "Error removing from History": "Помилка при видаленні з Історії",
     "HISTORY": "ІСТОРІЯ",
-    "Nothing Played Yet…": "Ще нічого не зіграно…",
-    "Removed from History": "Видалено з історії"
+    "Nothing Played Yet…": "Ще нічого не зіграно…"
   },
   "muxinfo": {
     "Access network information": "Доступ до інформації про мережу",

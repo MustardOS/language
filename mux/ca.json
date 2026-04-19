@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "APLICACIONS",
     "Archive Manager": "Gestor d'arxius",
-    "Dingux Commander": "Dingux Commander",
     "Loading Application": "Carregant aplicació",
-    "Moonlight": "Moonlight",
     "No Applications Found": "No s'han trobat aplicacions",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +488,8 @@
     "Under": "Marges"
   },
   "muxhistory": {
-    "Error loading content file": "Error al carregar contingut",
-    "Error removing from History": "Error al eliminar l'historial",
     "HISTORY": "HISTORIAL",
-    "Nothing Played Yet…": "Cap joc jugat encara…",
-    "Removed from History": "Eliminat de l'historial"
+    "Nothing Played Yet…": "Cap joc jugat encara…"
   },
   "muxinfo": {
     "Access network information": "Accés a la informació de la xarxa",

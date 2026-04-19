@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "어플리케이션",
     "Archive Manager": "아카이브 매니저",
-    "Dingux Commander": "Dingux 커맨더",
     "Loading Application": "어플리케이션 실행 중",
-    "Moonlight": "문라이트",
     "No Applications Found": "어플리케이션 없음",
     "PPSSPP": "PPSSPP 실행",
     "PortMaster": "포트마스터",
@@ -490,11 +488,8 @@
     "Under": "언더"
   },
   "muxhistory": {
-    "Error loading content file": "콘텐츠 파일 불러오기 에러",
-    "Error removing from History": "최근 실행에서 제거 오류",
     "HISTORY": "최근 실행",
-    "Nothing Played Yet…": "아직 아무것도 플레이 하지 않음…",
-    "Removed from History": "최근 실행에서 제거됨"
+    "Nothing Played Yet…": "아직 아무것도 플레이 하지 않음…"
   },
   "muxinfo": {
     "Access network information": "네트워크 정보에 액세스",

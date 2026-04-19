@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "FEIDHMCHLÁIR",
     "Archive Manager": "Bainisteoir Cartlainne",
-    "Dingux Commander": "Ceannasaí Dingux",
     "Loading Application": "Feidhmchlár á Luchtú",
-    "Moonlight": "Gealaí",
     "No Applications Found": "Níor aimsíodh aon iarratas",
     "PPSSPP": "PPSSPP",
     "PortMaster": "Máistir Port",
@@ -490,11 +488,8 @@
     "Under": "Faoi"
   },
   "muxhistory": {
-    "Error loading content file": "Earráid agus an comhad ábhair á lódáil",
-    "Error removing from History": "Earráid agus é á bhaint den Stair",
     "HISTORY": "STAIR",
-    "Nothing Played Yet…": "Níor imir aon rud go fóill…",
-    "Removed from History": "Bainte den Stair"
+    "Nothing Played Yet…": "Níor imir aon rud go fóill…"
   },
   "muxinfo": {
     "Access network information": "Faisnéis líonra rochtana",

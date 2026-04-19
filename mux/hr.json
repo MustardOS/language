@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "APLIKACIJE",
     "Archive Manager": "Upravitelj arhiva",
-    "Dingux Commander": "Dingux Commander",
     "Loading Application": "Učitavanje aplikacije",
-    "Moonlight": "Moonlight",
     "No Applications Found": "Nema pronađenih aplikacija",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +488,8 @@
     "Under": "Podrezano"
   },
   "muxhistory": {
-    "Error loading content file": "Greška pri učitavanju datoteke sadržaja",
-    "Error removing from History": "Greška pri uklanjanju iz povijesti",
     "HISTORY": "POVIJEST",
-    "Nothing Played Yet…": "Još ništa nije pokrenuto…",
-    "Removed from History": "Uklonjeno iz povijesti"
+    "Nothing Played Yet…": "Još ništa nije pokrenuto…"
   },
   "muxinfo": {
     "Access network information": "Pristupi mrežnim podacima",

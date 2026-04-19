@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "APPLIKATIONER",
     "Archive Manager": "Arkivhåndtering",
-    "Dingux Commander": "Dingux Commander",
     "Loading Application": "Henter applikation",
-    "Moonlight": "Moonlight",
     "No Applications Found": "Ingen applikationer fundet",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +488,8 @@
     "Under": "Under"
   },
   "muxhistory": {
-    "Error loading content file": "Fejl ved indlæsning af indholdsfil",
-    "Error removing from History": "Fejl ved fjernelse fra historik",
     "HISTORY": "HISTORIE",
-    "Nothing Played Yet…": "Intet spillet endnu…",
-    "Removed from History": "Slettet fra historikken"
+    "Nothing Played Yet…": "Intet spillet endnu…"
   },
   "muxinfo": {
     "Access network information": "Adgang til netværksoplysninger",

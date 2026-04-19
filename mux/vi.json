@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "ỨNG DỤNG",
     "Archive Manager": "Quản lý tệp nén",
-    "Dingux Commander": "Dingux Commander (Quản lý tệp tin)",
     "Loading Application": "Khởi động Ứng dụng",
-    "Moonlight": "Moonlight (Phát game trực tuyến)",
     "No Applications Found": "Không tìm thấy Ứng dụng nào",
     "PPSSPP": "PPSSPP (Giả lập PSP)",
     "PortMaster": "PortMaster (Game Port PC)",
@@ -490,11 +488,8 @@
     "Under": "Dưới"
   },
   "muxhistory": {
-    "Error loading content file": "Có lỗi xảy ra khi nạp nội dung tệp",
-    "Error removing from History": "Có lỗi xảy ra khi xóa khỏi Lịch Sử",
     "HISTORY": "LỊCH SỬ",
-    "Nothing Played Yet…": "Chưa Có Gì Khởi Động Cả…",
-    "Removed from History": "Xóa khỏi Lịch sử"
+    "Nothing Played Yet…": "Chưa Có Gì Khởi Động Cả…"
   },
   "muxinfo": {
     "Access network information": "Truy cập thông tin mạng",

@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "APPLICATIES",
     "Archive Manager": "Archiefbeheer",
-    "Dingux Commander": "Bestandsverkenner",
     "Loading Application": "Applicatie wordt geladen",
-    "Moonlight": "Maanlicht",
     "No Applications Found": "Geen Applicaties Gevonden",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +488,8 @@
     "Under": "Onder"
   },
   "muxhistory": {
-    "Error loading content file": "Fout bij laden van bestand",
-    "Error removing from History": "Fout bij verwijderen van geschiedenis",
     "HISTORY": "GESCHIEDENIS",
-    "Nothing Played Yet…": "Nog Niets Gespeeld…",
-    "Removed from History": "Uit Geschiedenis Verwijderd"
+    "Nothing Played Yet…": "Nog Niets Gespeeld…"
   },
   "muxinfo": {
     "Access network information": "Access network information",

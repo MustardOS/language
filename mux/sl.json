@@ -147,9 +147,7 @@
   "muxapp": {
     "APPLICATIONS": "APLIKACIJE",
     "Archive Manager": "Upravitelj Arhiva",
-    "Dingux Commander": "Dingux Commander",
     "Loading Application": "Nalaganje Aplikacije",
-    "Moonlight": "Moonlight",
     "No Applications Found": "Ni Najdenih Aplikacij",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +488,8 @@
     "Under": "Pod"
   },
   "muxhistory": {
-    "Error loading content file": "Napaka pri nalaganju datoteke vsebine",
-    "Error removing from History": "Napaka pri odstranjevanju iz zgodovine",
     "HISTORY": "ZGODOVINA",
-    "Nothing Played Yet…": "Ni zgodovine igranja…",
-    "Removed from History": "Odstranjeno iz zgodovine"
+    "Nothing Played Yet…": "Ni zgodovine igranja…"
   },
   "muxinfo": {
     "Access network information": "Dostop do omrežnih informacij",
