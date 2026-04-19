@@ -147,9 +147,8 @@
   "muxapp": {
     "APPLICATIONS": "APPLICATIONS",
     "Archive Manager": "Archive Manager",
-    "Dingux Commander": "Dingux Commander",
     "Loading Application": "Loading Application",
-    "Moonlight": "Moonlight",
+    "Mustard Terminal": "Mustard Terminal",
     "No Applications Found": "No Applications Found",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +489,8 @@
     "Under": "Under"
   },
   "muxhistory": {
-    "Error loading content file": "Error loading content file",
-    "Error removing from History": "Error removing from History",
     "HISTORY": "HISTORY",
-    "Nothing Played Yet…": "Nothing Played Yet…",
-    "Removed from History": "Removed from History"
+    "Nothing Played Yet…": "Nothing Played Yet…"
   },
   "muxinfo": {
     "Access network information": "Access network information",
@@ -1217,6 +1213,7 @@
     "Dot Lattice (4px)": "Dot Lattice (4px)",
     "Empty Folders": "Empty Folders",
     "Folder Item Count": "Folder Item Count",
+    "Forward History": "Forward History",
     "Friendly Folder Names": "Friendly Folder Names",
     "Frontend Overlay Image": "Frontend Overlay Image",
     "Frontend Overlay Transparency": "Frontend Overlay Transparency",
@@ -1245,6 +1242,7 @@
     "Theme Provided": "Theme Provided",
     "Title Include Root Drive": "Title Include Root Drive",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it",
+    "Toggle remembering last selected item when returning to folders in Explore Content": "Toggle remembering last selected item when returning to folders in Explore Content",
     "Toggle the collection visibility withing Explore Content": "Toggle the collection visibility withing Explore Content",
     "Toggle the history visibility within Explore Content": "Toggle the history visibility within Explore Content",
     "Toggle the visibility of currently selected file along with total in Explore Content": "Toggle the visibility of currently selected file along with total in Explore Content",
