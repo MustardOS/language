@@ -274,7 +274,7 @@
     "Hue Shift": "การเปลี่ยนเฉดสี",
     "Rotates colours around the colour wheel without changing brightness": "หมุนสีรอบวงล้อสีโดยไม่เปลี่ยนความสว่าง",
     "Saturation": "ความอิ่มตัวของสี",
-    "Temperature": "อุณหภูมิสี"
+    "Temperature": "อุณภูมิสี"
   },
   "muxcolfilter": {
     "COLOUR FILTER": "ตัวกรองสี",
@@ -819,7 +819,7 @@
     "Low Battery Scale": "Low Battery Scale",
     "Low Battery Transparency": "Low Battery Transparency",
     "None": "None",
-    "OVERLAY OPTIONS": "OVERLAY OPTIONS",
+    "OVERLAY OPTIONS": "ตัวเลือก OVERLAY",
     "Scale": "Scale",
     "Sets the screen position where the base content overlay is anchored": "Sets the screen position where the base content overlay is anchored",
     "Sets the screen position where the brightness indicator is displayed": "Sets the screen position where the brightness indicator is displayed",
@@ -886,7 +886,7 @@
     "Low Battery Indicator": "Low Battery Indicator",
     "Ludicrous": "Ludicrous",
     "Mute on Display Timeout": "Mute on Display Timeout",
-    "POWER SETTINGS": "ตั้งค่าพลังงาน",
+    "POWER SETTINGS": "การตั้งค่าพลังงาน",
     "Sleep 10m + Shutdown": "Sleep 10m + Shutdown",
     "Sleep 10s + Shutdown": "Sleep 10s + Shutdown",
     "Sleep 15m + Shutdown": "Sleep 15m + Shutdown",
@@ -1246,7 +1246,7 @@
     "Toggle the collection visibility withing Explore Content": "Toggle the collection visibility withing Explore Content",
     "Toggle the history visibility within Explore Content": "Toggle the history visibility within Explore Content",
     "Toggle the visibility of currently selected file along with total in Explore Content": "Toggle the visibility of currently selected file along with total in Explore Content",
-    "Toggle the visibility of currently selected folder along with total in Explore Content": "Toggle the visibility of currently selected folder along with total in Explore Content",
+    "Toggle the visibility of currently selected folder along with total in Explore Content": "สลับการแสดงผลโฟลเดอร์ที่เลือกพร้อมจำนวนทั้งหมด",
     "Toggle the visibility of empty folders in Explore Content": "สลับการแสดงผลโฟลเดอร์ว่างในตัวสำรวจเนื้อหา",
     "Toggle the visibility of the battery glyph": "สลับการแสดงสัญลักษณ์แบตเตอรี่",
     "Toggle the visibility of the clock": "สลับการแสดงนาฬิกา",
