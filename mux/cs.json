@@ -781,10 +781,12 @@
     "Removing Core Config…": "Odebírání základní konfigurace…",
     "Removing Directory Config…": "Odebírání konfigurace adresáře…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Vyberte barevný filtr, který změní zobrazení běžícího obsahu. Nemusí fungovat se vším!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Nastavte regulátor CPU pro vybraný obsah nebo adresář",
     "Set the control scheme for the selected content or directory": "Nastavení schématu řízení pro vybraný obsah nebo adresář",
     "Set the specific tag of the content selected to change the glyph": "Chcete-li změnit glyf, nastavte konkrétní značku obsahu vybraného",
     "Set the system core or external emulator for the selected content or directory": "Nastavte jádro systému nebo externí emulátor pro vybraný obsah nebo adresář",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "Zobrazuje nadřazený adresář vybraného obsahu",
     "Shows the total accumulated play time for the selected content": "Zobrazuje celkovou dobu přehrávání vybraného obsahu",
     "Storage": "Uložiště",
@@ -929,6 +931,11 @@
     "Search all current active storage devices": "Prohledejte všechna aktuální aktivní úložná zařízení",
     "Search within the current selected folder and folders within": "Hledat v aktuálně vybrané složce a složkách uvnitř",
     "Searching…": "Vyhledávání…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "Nebyly nalezeny žádné snímky obrazovky",
