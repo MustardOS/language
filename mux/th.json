@@ -781,10 +781,12 @@
     "Removing Core Config…": "กำลังลบการตั้งค่า Core…",
     "Removing Directory Config…": "กำลังลบการตั้งค่าไดเรกทอรี…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "เลือกตัวกรองสีที่จะเปลี่ยนการแสดงผลของเนื้อหาที่กำลังเล่น (อาจใช้ไม่ได้กับทุกอย่าง!)",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "ตั้งค่า CPU governor สำหรับเนื้อหาหรือไดเรกทอรีที่เลือก",
     "Set the control scheme for the selected content or directory": "ตั้งค่าแผนผังการควบคุมสำหรับเนื้อหาหรือไดเรกทอรีที่เลือก",
     "Set the specific tag of the content selected to change the glyph": "ตั้งแท็กเฉพาะของเนื้อหาเพื่อเปลี่ยนสัญลักษณ์",
     "Set the system core or external emulator for the selected content or directory": "ตั้งค่า Core หรืออีมูเลเตอร์ภายนอกสำหรับเนื้อหาหรือไดเรกทอรีที่เลือก",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "แสดงไดเรกทอรีหลักของเนื้อหาที่เลือก",
     "Shows the total accumulated play time for the selected content": "แสดงเวลาเล่นสะสมทั้งหมดสำหรับเนื้อหาที่เลือก",
     "Storage": "ที่เก็บข้อมูล",
@@ -929,6 +931,11 @@
     "Search all current active storage devices": "ค้นหาในอุปกรณ์เก็บข้อมูลทั้งหมดที่ใช้งานอยู่",
     "Search within the current selected folder and folders within": "ค้นหาภายในโฟลเดอร์ที่เลือกและโฟลเดอร์ย่อย",
     "Searching…": "กำลังค้นหา…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "ไม่พบภาพหน้าจอ",
