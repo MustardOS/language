@@ -781,10 +781,12 @@
     "Removing Core Config…": "Eliminando la configuración principal…",
     "Removing Directory Config…": "Eliminar configuración de directorio…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Selecciona un filtro de color que cambie la visualización del contenido en ejecución. ¡Puede que no funcione con todo!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Configura el gobernador de la CPU para el contenido o directorio seleccionado",
     "Set the control scheme for the selected content or directory": "Configura el esquema de control para el contenido o directorio seleccionado",
     "Set the specific tag of the content selected to change the glyph": "Establece la etiqueta específica del contenido seleccionado para cambiar el glifo",
     "Set the system core or external emulator for the selected content or directory": "Configura el núcleo del sistema o el emulador externo para el contenido o directorio seleccionado",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "Muestra el directorio principal del contenido seleccionado",
     "Shows the total accumulated play time for the selected content": "Muestra el tiempo total de reproducción acumulado para el contenido seleccionado",
     "Storage": "Almacenamiento",
@@ -929,6 +931,11 @@
     "Search all current active storage devices": "Buscar todos los dispositivos de almacenamiento activos actuales",
     "Search within the current selected folder and folders within": "Buscar dentro de la carpeta seleccionada actualmente y las carpetas dentro de ella",
     "Searching…": "Buscando…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "No se encontraron capturas de pantalla",
