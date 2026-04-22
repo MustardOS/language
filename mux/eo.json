@@ -781,10 +781,12 @@
     "Removing Core Config…": "Foriganta kernan konfiguron…",
     "Removing Directory Config…": "Foriganta dosierujan konfiguron…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Elektu kolorfiltron kiu ŝanĝos la ekranan eligon de la rulanta enhavo. Eble ne funkcias kun ĉio!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Agordu la CPU-regulilon por la elektita enhavo aŭ dosierujo",
     "Set the control scheme for the selected content or directory": "Agordu la kontrolan skemon por la elektita enhavo aŭ dosierujo",
     "Set the specific tag of the content selected to change the glyph": "Agordu la specifan etikedon de la elektita enhavo por ŝanĝi la glifon",
     "Set the system core or external emulator for the selected content or directory": "Agordu la sistemkernon aŭ eksteran emulilon por la elektita enhavo aŭ dosierujo",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "Montras la gepatran dosierujon de la elektita enhavo",
     "Shows the total accumulated play time for the selected content": "Montras la totalan akumulan ludtempon por la elektita enhavo",
     "Storage": "Memoro",
@@ -929,6 +931,11 @@
     "Search all current active storage devices": "Serĉu ĉiujn nunajn aktivajn stokaparatojn",
     "Search within the current selected folder and folders within": "Serĉu en la nuntempe elektita dosierujo kaj ĝiajn subdosierujojn",
     "Searching…": "Serĉante…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "Neniuj ekrankopioj trovitaj",
