@@ -781,10 +781,12 @@
     "Removing Core Config…": "Removing Core Config…",
     "Removing Directory Config…": "Removing Directory Config…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Select a colour filter that will change the display output of the running content. May not work with everything!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Postavite CPU upravljača za odabrani sadržaj ili folder",
     "Set the control scheme for the selected content or directory": "Set the control scheme for the selected content or directory",
     "Set the specific tag of the content selected to change the glyph": "Podesite određenu oznaku za izabrani sadržaj kako biste promenili prikazani simbol (glif)",
     "Set the system core or external emulator for the selected content or directory": "Podesite sistemsku jezgru (core) ili eksterni emulator za izabrani sadržaj ili folder",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "Shows the parent directory of the selected content",
     "Shows the total accumulated play time for the selected content": "Shows the total accumulated play time for the selected content",
     "Storage": "Storage",
@@ -929,6 +931,11 @@
     "Search all current active storage devices": "Pretraži sve trenutno aktivne uređaje za skladištenje",
     "Search within the current selected folder and folders within": "Pretraži unutar trenutno odabranog foldera i njegovih podfoldera",
     "Searching…": "Pretraga…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "Screenshots-ovi nisu pronađeni",
