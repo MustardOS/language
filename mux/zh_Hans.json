@@ -781,10 +781,12 @@
     "Removing Core Config…": "核心配置删除中…",
     "Removing Directory Config…": "目录配置删除中…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "选择一种素材滤镜，这将改变正在运行内容的显示输出。可能无法在任何情况下都正常工作！",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "为选定内容或目录设置CPU性能调节器",
     "Set the control scheme for the selected content or directory": "为选定内容或目录设置控制方案",
     "Set the specific tag of the content selected to change the glyph": "为所选内容设置特定标签以更改图标",
     "Set the system core or external emulator for the selected content or directory": "为选定内容或目录配置核心或独立模拟器",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "显示所选内容的上级目录",
     "Shows the total accumulated play time for the selected content": "显示所选内容的总累计游玩时长",
     "Storage": "存储",
@@ -929,6 +931,11 @@
     "Search all current active storage devices": "在所有当前启用的存储设备中搜索",
     "Search within the current selected folder and folders within": "在当前选定文件夹及其子文件夹中搜索",
     "Searching…": "正在搜索…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "未找到截图",
