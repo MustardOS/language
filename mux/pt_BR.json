@@ -781,10 +781,12 @@
     "Removing Core Config…": "Removendo configuração dos núcleos…",
     "Removing Directory Config…": "Removendo configuração dos diretórios…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Selecione um filtro de cor que alterará a saída de vídeo do conteúdo em execução. Pode não funcionar com tudo!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Defina o modo da CPU para o conteúdo ou diretório selecionado",
     "Set the control scheme for the selected content or directory": "Define a configuração de controles para o conteúdo ou diretório selecionado",
     "Set the specific tag of the content selected to change the glyph": "Defina a tag específica do conteúdo selecionado para modificar o glifo",
     "Set the system core or external emulator for the selected content or directory": "Defina o sistema principal ou emulador externo para o conteúdo ou diretório selecionado",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "Exibe o diretório pai do conteúdo selecionado",
     "Shows the total accumulated play time for the selected content": "Exibe o total de horas de jogo acumuladas do conteúdo selecionado",
     "Storage": "Armazenamento",
@@ -929,6 +931,11 @@
     "Search all current active storage devices": "Procurar em todos os dispositivos de armazenamento ativos",
     "Search within the current selected folder and folders within": "Procurar dentro da pasta selecionada e suas subpastas",
     "Searching…": "Buscando…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "Nenhuma Captura de Tela Encontrada",
