@@ -147,9 +147,8 @@
   "muxapp": {
     "APPLICATIONS": "APPLICATIONS",
     "Archive Manager": "Gestionnaire d'archives",
-    "Dingux Commander": "Dingux Commander",
     "Loading Application": "Chargement de l'application",
-    "Moonlight": "Moonlight",
+    "Mustard Terminal": "Mustard Terminal",
     "No Applications Found": "Aucune application trouvée",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +489,8 @@
     "Under": "Sous-balayage"
   },
   "muxhistory": {
-    "Error loading content file": "Erreur lors du chargement du fichier",
-    "Error removing from History": "Erreur lors de la suppression de l'historique",
     "HISTORY": "HISTORIQUE",
-    "Nothing Played Yet…": "Pas d'historique disponible…",
-    "Removed from History": "Supprimé de l'historique"
+    "Nothing Played Yet…": "Pas d'historique disponible…"
   },
   "muxinfo": {
     "Access network information": "Accédez aux informations du réseau",
@@ -785,10 +781,12 @@
     "Removing Core Config…": "Suppression de la configuration de l'émulateur…",
     "Removing Directory Config…": "Suppression de la configuration du répertoire…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Sélectionnez un filtre de couleur pour modifier l'affichage du contenu en cours. Peut ne pas fonctionner avec tous les contenus !",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Définissez le gouverneur du processeur pour le contenu ou le répertoire sélectionné",
     "Set the control scheme for the selected content or directory": "Définir le schéma de contrôle pour le contenu ou le répertoire sélectionné",
     "Set the specific tag of the content selected to change the glyph": "Définissez l'étiquette spécifique du contenu sélectionné pour modifier l'icône",
     "Set the system core or external emulator for the selected content or directory": "Définissez l'émulateur principal ou externe pour le contenu ou le répertoire sélectionné",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "Shows the parent directory of the selected content",
     "Shows the total accumulated play time for the selected content": "Shows the total accumulated play time for the selected content",
     "Storage": "Storage",
@@ -933,6 +931,11 @@
     "Search all current active storage devices": "Rechercher sur tous les périphériques de stockage actifs actuels",
     "Search within the current selected folder and folders within": "Rechercher dans le dossier sélectionné et dans ses sous dossiers",
     "Searching…": "Recherche en cours…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "Aucune capture d'écran trouvée",
@@ -1217,6 +1220,7 @@
     "Dot Lattice (4px)": "Treillis à points (4px)",
     "Empty Folders": "Dossiers vides",
     "Folder Item Count": "Afficher le nombre de fichiers d'un dossier",
+    "Forward History": "Forward History",
     "Friendly Folder Names": "Noms de dossiers conviviaux",
     "Frontend Overlay Image": "Image d'overlay de l'interface",
     "Frontend Overlay Transparency": "Transparence de l'overlay de l'interface",
@@ -1245,6 +1249,7 @@
     "Theme Provided": "Fournie par le thème",
     "Title Include Root Drive": "Périphérique de stockage dans le titre",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "Activer/désactiver l'affichage du contenu masqué dans l'explorateur de contenu - Placez un '.' ou le caractère '_' au début d'un nom de fichier ou de dossier pour le masquer",
+    "Toggle remembering last selected item when returning to folders in Explore Content": "Toggle remembering last selected item when returning to folders in Explore Content",
     "Toggle the collection visibility withing Explore Content": "Afficher/masquer les collections dans l'explorateur de contenu",
     "Toggle the history visibility within Explore Content": "Activer/désactiver la visibilité de l'historique dans l'explorateur de contenu",
     "Toggle the visibility of currently selected file along with total in Explore Content": "Activer/désactiver l'affichage du fichier actuellement sélectionné ainsi que le nombre total de fichiers dans ''Explorer le contenu''",

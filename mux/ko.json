@@ -147,9 +147,8 @@
   "muxapp": {
     "APPLICATIONS": "어플리케이션",
     "Archive Manager": "아카이브 매니저",
-    "Dingux Commander": "Dingux 커맨더",
     "Loading Application": "어플리케이션 실행 중",
-    "Moonlight": "문라이트",
+    "Mustard Terminal": "Mustard 터미널",
     "No Applications Found": "어플리케이션 없음",
     "PPSSPP": "PPSSPP 실행",
     "PortMaster": "포트마스터",
@@ -490,11 +489,8 @@
     "Under": "언더"
   },
   "muxhistory": {
-    "Error loading content file": "콘텐츠 파일 불러오기 에러",
-    "Error removing from History": "최근 실행에서 제거 오류",
     "HISTORY": "최근 실행",
-    "Nothing Played Yet…": "아직 아무것도 플레이 하지 않음…",
-    "Removed from History": "최근 실행에서 제거됨"
+    "Nothing Played Yet…": "아직 아무것도 플레이 하지 않음…"
   },
   "muxinfo": {
     "Access network information": "네트워크 정보에 액세스",
@@ -785,10 +781,12 @@
     "Removing Core Config…": "코어 구성 제거 중…",
     "Removing Directory Config…": "디렉토리 구성 제거 중…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "실행 중인 콘텐츠의 화면 출력을 변경할 컬러 필터를 선택함. 일부 콘텐츠에서는 작동하지 않을 수 있음!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 CPU 거버너를 설정",
     "Set the control scheme for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 제어 체계를 설정",
     "Set the specific tag of the content selected to change the glyph": "글리프를 변경하기 위해 선택된 콘텐츠의 특정 태그를 설정",
     "Set the system core or external emulator for the selected content or directory": "선택한 콘텐츠 또는 폴더에 대한 시스템 코어 또는 외부 에뮬레이터 설정",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "선택한 콘텐츠의 상위 디렉토리를 표시",
     "Shows the total accumulated play time for the selected content": "선택한 콘텐츠의 총 누적 재생 시간을 보여줌",
     "Storage": "저장소",
@@ -933,6 +931,11 @@
     "Search all current active storage devices": "현재 활성화된 모든 저장소 검색",
     "Search within the current selected folder and folders within": "현재 선택된 폴더 및 그 안에 있는 폴더 내에서 검색",
     "Searching…": "검색 중…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "스크린샷 없음",
@@ -1217,6 +1220,7 @@
     "Dot Lattice (4px)": "도트 격자 (4px)",
     "Empty Folders": "빈 폴더",
     "Folder Item Count": "폴더 아이템 수",
+    "Forward History": "이전 위치 기억",
     "Friendly Folder Names": "친숙한 폴더 이름",
     "Frontend Overlay Image": "프런트엔드 오버레이 이미지",
     "Frontend Overlay Transparency": "프런트엔드 오버레이 투명도",
@@ -1245,6 +1249,7 @@
     "Theme Provided": "테마 제공",
     "Title Include Root Drive": "제목에 드라이브 표시",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "콘텐츠 탐색에 숨겨진 콘텐츠 표시 전환\n- 숨기려면 파일이나 폴더 이름 시작 부분에 '.' 또는 '_' 문자를 입력하세요",
+    "Toggle remembering last selected item when returning to folders in Explore Content": "콘텐츠 탐색에서 폴더로 돌아갈 때 마지막으로 선택한 항목을 기억할지 여부를 전환",
     "Toggle the collection visibility withing Explore Content": "콘텐츠 탐색 내에서 컬렉션 가시성을 전환함",
     "Toggle the history visibility within Explore Content": "콘텐츠 탐색 내에서 최근 실행 가시성을 전환함",
     "Toggle the visibility of currently selected file along with total in Explore Content": "콘텐츠 탐색에서 현재 선택한 파일을 전체와 함께 표시할지 여부 전환",

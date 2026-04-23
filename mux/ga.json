@@ -86,7 +86,7 @@
   "muxactivity": {
     "ACTIVITY TRACKER": "RIANAITHEOIR GNÍOMHAÍOCHTA",
     "Abandoned": "Tréigthe",
-    "Activity statistics exported": "Activity statistics exported",
+    "Activity statistics exported": "Staitisticí gníomhaíochta onnmhairithe",
     "Average Play Time": "Meán-Am Súgartha",
     "Average Time": "Meán-Am",
     "Binger": "Binger",
@@ -95,12 +95,12 @@
     "Completionist": "Comhlánaitheoir",
     "Content Collector": "Bailitheoir Ábhair",
     "Content Name": "Ainm an Ábhair",
-    "Content playtime removed": "Content playtime removed",
+    "Content playtime removed": "Am súgartha ábhair bainte",
     "Core Gamer": "Cluichire Croí",
     "Core Used": "Croí Úsáidte",
     "Device Nomad": "Gléas Nomad",
     "Duration": "Fad",
-    "Error exporting statistics": "Error exporting statistics",
+    "Error exporting statistics": "Earráid easpórtáil staitisticí",
     "Explorer": "Taiscéalaí",
     "Export": "Easpórtáil",
     "Favourite Day": "Lá is Fearr Leat",
@@ -147,9 +147,8 @@
   "muxapp": {
     "APPLICATIONS": "FEIDHMCHLÁIR",
     "Archive Manager": "Bainisteoir Cartlainne",
-    "Dingux Commander": "Ceannasaí Dingux",
     "Loading Application": "Feidhmchlár á Luchtú",
-    "Moonlight": "Gealaí",
+    "Mustard Terminal": "Teirminéal Mustaird",
     "No Applications Found": "Níor aimsíodh aon iarratas",
     "PPSSPP": "PPSSPP",
     "PortMaster": "Máistir Port",
@@ -490,11 +489,8 @@
     "Under": "Faoi"
   },
   "muxhistory": {
-    "Error loading content file": "Earráid agus an comhad ábhair á lódáil",
-    "Error removing from History": "Earráid agus é á bhaint den Stair",
     "HISTORY": "STAIR",
-    "Nothing Played Yet…": "Níor imir aon rud go fóill…",
-    "Removed from History": "Bainte den Stair"
+    "Nothing Played Yet…": "Níor imir aon rud go fóill…"
   },
   "muxinfo": {
     "Access network information": "Faisnéis líonra rochtana",
@@ -785,10 +781,12 @@
     "Removing Core Config…": "Cumraíocht Chroí á baint…",
     "Removing Directory Config…": "Cumraíocht Eolaire á baint…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Roghnaigh scagaire datha a athróidh aschur taispeána an ábhair reatha. B’fhéidir nach n-oibreoidh sé le gach rud!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Socraigh gobharnóir an LAP don inneachar nó don chomhadlann roghnaithe",
     "Set the control scheme for the selected content or directory": "Socraigh an scéim rialaithe don ábhar nó don eolaire roghnaithe",
     "Set the specific tag of the content selected to change the glyph": "Socraigh an chlib shonrach den ábhar roghnaithe chun an glifín a athrú",
     "Set the system core or external emulator for the selected content or directory": "Socraigh croí an chórais nó aithriseoir seachtrach don inneachar nó don chomhadlann roghnaithe",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "Taispeánann sé eolaire tuismitheora an ábhair roghnaithe",
     "Shows the total accumulated play time for the selected content": "Taispeánann sé an t-am imeartha carntha iomlán don ábhar roghnaithe",
     "Storage": "Stóráil",
@@ -933,6 +931,11 @@
     "Search all current active storage devices": "Cuardaigh gach gléas stórála gníomhach reatha",
     "Search within the current selected folder and folders within": "Cuardaigh laistigh den fhillteán roghnaithe reatha agus fillteáin laistigh",
     "Searching…": "Ag cuardach…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "Níor aimsíodh aon seatanna scáileáin",
@@ -1217,6 +1220,7 @@
     "Dot Lattice (4px)": "Ponc Lacht (4px)",
     "Empty Folders": "Fillteáin Fholamh",
     "Folder Item Count": "Líon na Míreanna Fillteáin",
+    "Forward History": "Stair Ar Aghaidh",
     "Friendly Folder Names": "Ainmneacha Fillteán Cairdiúla",
     "Frontend Overlay Image": "Íomhá Forleagan Tosaigh",
     "Frontend Overlay Transparency": "Trédhearcacht Forleagan Tosaigh",
@@ -1245,6 +1249,7 @@
     "Theme Provided": "Téama curtha ar fáil",
     "Title Include Root Drive": "Teideal Áirigh Fréamh Tiomántán",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "Scoránaigh ábhar i bhfolach ar taispeáint in Iniúchadh Ábhar - Cuir '.' nó '_' carachtar ag tús ainm comhaid nó fillteáin chun é a chur i bhfolach",
+    "Toggle remembering last selected item when returning to folders in Explore Content": "Scoraigh cuimhneamh ar an mír roghnaithe dheireanach agus tú ag filleadh ar fhillteáin in Iniúchadh Ábhar",
     "Toggle the collection visibility withing Explore Content": "Athraigh infheictheacht an bhailiúcháin laistigh de Iniúchadh Ábhar",
     "Toggle the history visibility within Explore Content": "Scoraigh infheictheacht na staire laistigh d'Iniúchadh Ábhar",
     "Toggle the visibility of currently selected file along with total in Explore Content": "Scoránaigh infheictheacht an chomhaid atá roghnaithe faoi láthair mar aon leis an iomlán in Explore Content",

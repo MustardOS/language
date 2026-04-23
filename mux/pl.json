@@ -138,7 +138,7 @@
     "Total Play Time": "Łączny czas gry",
     "Total Time": "Łączny czas",
     "Tracks what you play, how often, and for how long. View detailed stats per game, overall play habits, and export your activity data to a HTML file": "Śledzi, w co grasz, jak często i jak długo. Zobacz szczegółowe statystyki dla gier, ogólne nawyki grania i eksportuj swoje dane aktywności do pliku HTML",
-    "Unique": "Unikalne",
+    "Unique": "Unikalny",
     "Unique Content Played": "Grano w unikalną zawartość",
     "Unique Cores Used": "Użyto unikalnych rdzeni",
     "Weekend Warrior": "Weekendowy wojownik",
@@ -147,9 +147,8 @@
   "muxapp": {
     "APPLICATIONS": "APLIKACJE",
     "Archive Manager": "Menedżer archiwów",
-    "Dingux Commander": "Komandor Dingux",
     "Loading Application": "Ładowanie aplikacji",
-    "Moonlight": "Moonlight",
+    "Mustard Terminal": "Mustard Terminal",
     "No Applications Found": "Nie znaleziono aplikacji",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +489,8 @@
     "Under": "Niedoskanowanie"
   },
   "muxhistory": {
-    "Error loading content file": "Błąd podczas ładowania pliku zawartości",
-    "Error removing from History": "Błąd podczas usuwania z historii",
     "HISTORY": "HISTORIA",
-    "Nothing Played Yet…": "W nic jeszcze nie grano…",
-    "Removed from History": "Usunięto z historii"
+    "Nothing Played Yet…": "W nic jeszcze nie grano…"
   },
   "muxinfo": {
     "Access network information": "Zobacz informacje o sieci",
@@ -785,10 +781,12 @@
     "Removing Core Config…": "Usuwanie ustawień rdzenia…",
     "Removing Directory Config…": "Usuwanie ustawień folderu…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Wybierz filtr kolorów, który zmieni wyświetlanie wyjścia dla uruchomionej zawartości. Może nie działać ze wszystkim!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Ustaw regulator CPU dla wybranej zawartości lub folderu",
     "Set the control scheme for the selected content or directory": "Wybierz schemat sterowania dla wybranej zawartości lub folderu",
     "Set the specific tag of the content selected to change the glyph": "Wybierz konkretną etykietę zawartości, by zmienić ikonę",
     "Set the system core or external emulator for the selected content or directory": "Ustaw rdzeń lub zewnętrzny emulator dla wybranej zawartości lub folderu",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "Wyświetla nadrzędny folder wybranej zawartości",
     "Shows the total accumulated play time for the selected content": "Wyświetla zsumowany czas gry dla wybranej zawartości",
     "Storage": "Przechowywanie",
@@ -933,6 +931,11 @@
     "Search all current active storage devices": "Wyszukaj we wszystkich aktywnych urządzeniach przechowywania",
     "Search within the current selected folder and folders within": "Wyszukaj w wybranym folderze i folderach wewnątrz",
     "Searching…": "Wyszukiwanie…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "Nie znaleziono zrzutów ekranu",
@@ -1217,6 +1220,7 @@
     "Dot Lattice (4px)": "Kratka kropkowa (4px)",
     "Empty Folders": "Puste foldery",
     "Folder Item Count": "Licznik elementów folderu",
+    "Forward History": "Historia nawigacji",
     "Friendly Folder Names": "Przyjazne nazwy folderów",
     "Frontend Overlay Image": "Obraz nakładki frontendu",
     "Frontend Overlay Transparency": "Przezroczystość nakładki frontendu",
@@ -1245,6 +1249,7 @@
     "Theme Provided": "Z motywu",
     "Title Include Root Drive": "Lokalizacja w tytule",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "Włącz wyświetlanie ukrytej zawartości - Dodaj '.' lub '_' na początku nazwy pliku lub folderu, by je ukryć",
+    "Toggle remembering last selected item when returning to folders in Explore Content": "Włącz zapamiętywanie ostatnio wybranego elementu podczas powrotu do folderów w Przeglądaniu zawartości",
     "Toggle the collection visibility withing Explore Content": "Zmień widoczność kolekcji w Przeglądaniu Zawartości",
     "Toggle the history visibility within Explore Content": "Zmień widoczność historii w Przeglądaniu Zawartości",
     "Toggle the visibility of currently selected file along with total in Explore Content": "Włącz widoczność licznika aktualnie wybranego pliku wraz z liczbą całkowitą w Przeglądaniu zawartości",

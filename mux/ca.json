@@ -147,9 +147,8 @@
   "muxapp": {
     "APPLICATIONS": "APLICACIONS",
     "Archive Manager": "Gestor d'arxius",
-    "Dingux Commander": "Dingux Commander",
     "Loading Application": "Carregant aplicació",
-    "Moonlight": "Moonlight",
+    "Mustard Terminal": "Mustard Terminal",
     "No Applications Found": "No s'han trobat aplicacions",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +489,8 @@
     "Under": "Marges"
   },
   "muxhistory": {
-    "Error loading content file": "Error al carregar contingut",
-    "Error removing from History": "Error al eliminar l'historial",
     "HISTORY": "HISTORIAL",
-    "Nothing Played Yet…": "Cap joc jugat encara…",
-    "Removed from History": "Eliminat de l'historial"
+    "Nothing Played Yet…": "Cap joc jugat encara…"
   },
   "muxinfo": {
     "Access network information": "Accés a la informació de la xarxa",
@@ -785,10 +781,12 @@
     "Removing Core Config…": "Removing Core Config…",
     "Removing Directory Config…": "Removing Directory Config…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Select a colour filter that will change the display output of the running content. May not work with everything!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Assigna el governador de CPU pel contingut o directori seleccionat",
     "Set the control scheme for the selected content or directory": "Set the control scheme for the selected content or directory",
     "Set the specific tag of the content selected to change the glyph": "Defineix l’etiqueta específica del contingut seleccionat per modificar la icona",
     "Set the system core or external emulator for the selected content or directory": "Assigna el nucli de sistema o emulador extern pel contingut o directori seleccionat",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "Shows the parent directory of the selected content",
     "Shows the total accumulated play time for the selected content": "Shows the total accumulated play time for the selected content",
     "Storage": "Storage",
@@ -933,6 +931,11 @@
     "Search all current active storage devices": "Cerca a tots els dispositius d'emmagatzematge actius actualment",
     "Search within the current selected folder and folders within": "Cerca dins la carpeta seleccionada actualment i les carpetes que conté",
     "Searching…": "Cerca en curs…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "No s'han trobat captures de pantalla",
@@ -1217,6 +1220,7 @@
     "Dot Lattice (4px)": "Retícula de punts (4px)",
     "Empty Folders": "Empty Folders",
     "Folder Item Count": "Nombre d'elements a la carpeta",
+    "Forward History": "Forward History",
     "Friendly Folder Names": "Noms de carpeta amigables",
     "Frontend Overlay Image": "Frontend Overlay Image",
     "Frontend Overlay Transparency": "Frontend Overlay Transparency",
@@ -1245,6 +1249,7 @@
     "Theme Provided": "Tema proporcionat",
     "Title Include Root Drive": "Incloure l'arrel d'unitat al títol",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "Mostra o amaga el contingut ocult a Explorar contingut - Col·loca un caràcter '.' o '_' al començament del nom d’un fitxer o carpeta per amagar-lo",
+    "Toggle remembering last selected item when returning to folders in Explore Content": "Toggle remembering last selected item when returning to folders in Explore Content",
     "Toggle the collection visibility withing Explore Content": "Toggle the collection visibility withing Explore Content",
     "Toggle the history visibility within Explore Content": "Toggle the history visibility within Explore Content",
     "Toggle the visibility of currently selected file along with total in Explore Content": "Mostra o amaga el fitxer actualment seleccionat juntament amb el total a Explora contingut",

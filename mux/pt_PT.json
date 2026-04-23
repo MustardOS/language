@@ -147,9 +147,8 @@
   "muxapp": {
     "APPLICATIONS": "Aplicações",
     "Archive Manager": "Gestor de ficheiros",
-    "Dingux Commander": "Dingux Commander",
     "Loading Application": "A carregar aplicação",
-    "Moonlight": "Moonlight",
+    "Mustard Terminal": "Mustard Terminal",
     "No Applications Found": "Nenhuma Aplicação Encontrada",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +489,8 @@
     "Under": "Em baixo"
   },
   "muxhistory": {
-    "Error loading content file": "Erro a carregar o conteúdo",
-    "Error removing from History": "Erro ao remover do Histórico",
     "HISTORY": "HISTÓRICO",
-    "Nothing Played Yet…": "Nada Foi Jogado Ainda…",
-    "Removed from History": "Removido do Histórico"
+    "Nothing Played Yet…": "Nada Foi Jogado Ainda…"
   },
   "muxinfo": {
     "Access network information": "Aceder Informações de Rede",
@@ -785,10 +781,12 @@
     "Removing Core Config…": "Removing Core Config…",
     "Removing Directory Config…": "Removing Directory Config…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Select a colour filter that will change the display output of the running content. May not work with everything!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Defina o controlador do CPU para o conteúdo ou diretório seleccionado",
     "Set the control scheme for the selected content or directory": "Define a configuração de controlos para o conteúdo ou diretório selecionado",
     "Set the specific tag of the content selected to change the glyph": "Defina a tag específica do conteúdo selecionado para modificar o glifo",
     "Set the system core or external emulator for the selected content or directory": "Defina o núcleo do sistema ou emulador externo para o conteúdo ou diretório seleccionado",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "Shows the parent directory of the selected content",
     "Shows the total accumulated play time for the selected content": "Shows the total accumulated play time for the selected content",
     "Storage": "Storage",
@@ -933,6 +931,11 @@
     "Search all current active storage devices": "Procura em todos os dispositivos de armazenamento activos",
     "Search within the current selected folder and folders within": "Procura na pasta seleccionada e nas subpastas",
     "Searching…": "A pesquisar…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "Nenhuma Captura de Ecrã Encontrada",
@@ -1217,6 +1220,7 @@
     "Dot Lattice (4px)": "Grade Pontilhada (4px)",
     "Empty Folders": "Empty Folders",
     "Folder Item Count": "Contagem de Itens da Pasta",
+    "Forward History": "Forward History",
     "Friendly Folder Names": "Nomes Amigáveis para Pastas",
     "Frontend Overlay Image": "Frontend Overlay Image",
     "Frontend Overlay Transparency": "Frontend Overlay Transparency",
@@ -1245,6 +1249,7 @@
     "Theme Provided": "Provido pelo Tema",
     "Title Include Root Drive": "Título Inclui Unidade Raiz",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "Alterna entre a exibição ou não de conteúdo oculto no ecrã de Explorar Conteúdo - Ponha um '.' ou '_' no início do nome do ficheiro ou pasta para oculta-lo",
+    "Toggle remembering last selected item when returning to folders in Explore Content": "Toggle remembering last selected item when returning to folders in Explore Content",
     "Toggle the collection visibility withing Explore Content": "Toggle the collection visibility withing Explore Content",
     "Toggle the history visibility within Explore Content": "Toggle the history visibility within Explore Content",
     "Toggle the visibility of currently selected file along with total in Explore Content": "Toggle the visibility of currently selected file along with total in Explore Content",

@@ -147,9 +147,8 @@
   "muxapp": {
     "APPLICATIONS": "التطبيقات",
     "Archive Manager": "مدير الأرشيف",
-    "Dingux Commander": "Dingux Commander",
     "Loading Application": "جاري تحميل التطبيق",
-    "Moonlight": "Moonlight",
+    "Mustard Terminal": "Mustard Terminal",
     "No Applications Found": "لم يتم العثور على تطبيقات",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +489,8 @@
     "Under": "تحجيم ناقص"
   },
   "muxhistory": {
-    "Error loading content file": "خطأ في تحميل الملف",
-    "Error removing from History": "خطأ في الإزالة من التاريخ",
     "HISTORY": "التاريخ",
-    "Nothing Played Yet…": "لم يتم لعب أي شيء…",
-    "Removed from History": "تمت إزالته من التاريخ"
+    "Nothing Played Yet…": "لم يتم لعب أي شيء…"
   },
   "muxinfo": {
     "Access network information": "Access network information",
@@ -785,10 +781,12 @@
     "Removing Core Config…": "Removing Core Config…",
     "Removing Directory Config…": "Removing Directory Config…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Select a colour filter that will change the display output of the running content. May not work with everything!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "تعيين منظم وحدة المعالجة المركزية للمحتوى أو المجلد المحدد",
     "Set the control scheme for the selected content or directory": "Set the control scheme for the selected content or directory",
     "Set the specific tag of the content selected to change the glyph": "Set the specific tag of the content selected to change the glyph",
     "Set the system core or external emulator for the selected content or directory": "تعيين نواة النظام أو المحاكي الخارجي للمحتوى أو المجلد المحدد",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "Shows the parent directory of the selected content",
     "Shows the total accumulated play time for the selected content": "Shows the total accumulated play time for the selected content",
     "Storage": "Storage",
@@ -933,6 +931,11 @@
     "Search all current active storage devices": "البحث في جميع أجهزة التخزين النشطة",
     "Search within the current selected folder and folders within": "البحث داخل المجلد المحدد والمجلدات الموجودة داخله",
     "Searching…": "جاري البحث…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "لم يتم العثور على لقطات شاشة",
@@ -1217,6 +1220,7 @@
     "Dot Lattice (4px)": "شبكة النقاط (4px)",
     "Empty Folders": "Empty Folders",
     "Folder Item Count": "عدد عناصر المجلد",
+    "Forward History": "Forward History",
     "Friendly Folder Names": "أسماء المجلدات الصديقة",
     "Frontend Overlay Image": "Frontend Overlay Image",
     "Frontend Overlay Transparency": "Frontend Overlay Transparency",
@@ -1245,6 +1249,7 @@
     "Theme Provided": "الثيم المقدم",
     "Title Include Root Drive": "العنوان يتضمن محرك الجذر",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "تبديل إمكانية رؤية المحتوى المخفي المعروض في \"استكشاف المحتوى\" - ضع حرف \".\" أو \"_\" في بداية اسم الملف أو المجلد لإخفائه",
+    "Toggle remembering last selected item when returning to folders in Explore Content": "Toggle remembering last selected item when returning to folders in Explore Content",
     "Toggle the collection visibility withing Explore Content": "Toggle the collection visibility withing Explore Content",
     "Toggle the history visibility within Explore Content": "Toggle the history visibility within Explore Content",
     "Toggle the visibility of currently selected file along with total in Explore Content": "تبديل إمكانية رؤية الملف المحدد مع العدد الإجمالي في \"استكشاف المحتوى\"",

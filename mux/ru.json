@@ -86,7 +86,7 @@
   "muxactivity": {
     "ACTIVITY TRACKER": "ТРЕКЕР АКТИВНОСТИ",
     "Abandoned": "Заброшено",
-    "Activity statistics exported": "Activity statistics exported",
+    "Activity statistics exported": "Статистика активности экспортирована",
     "Average Play Time": "Среднее время игры",
     "Average Time": "Среднее время",
     "Binger": "Запойщик",
@@ -95,12 +95,12 @@
     "Completionist": "Перфекционист",
     "Content Collector": "Коллекционер",
     "Content Name": "Название игры",
-    "Content playtime removed": "Content playtime removed",
+    "Content playtime removed": "Время в игре удалено",
     "Core Gamer": "Хардкорщик",
     "Core Used": "Использованное ядро",
     "Device Nomad": "Девайсовый кочевник",
     "Duration": "Общее время",
-    "Error exporting statistics": "Error exporting statistics",
+    "Error exporting statistics": "Ошибка экспорта статистики",
     "Explorer": "Исследователь",
     "Export": "Экспорт",
     "Favourite Day": "Любимый день",
@@ -147,9 +147,8 @@
   "muxapp": {
     "APPLICATIONS": "ПРИЛОЖЕНИЯ",
     "Archive Manager": "Менеджер архивов",
-    "Dingux Commander": "Файлы",
     "Loading Application": "Загрузка приложения",
-    "Moonlight": "Moonlight",
+    "Mustard Terminal": "Терминал Mustard",
     "No Applications Found": "Приложения не найдены",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +489,8 @@
     "Under": "Без вылета"
   },
   "muxhistory": {
-    "Error loading content file": "Ошибка загрузки файла игры",
-    "Error removing from History": "Ошибка при удалении из истории",
     "HISTORY": "ИСТОРИЯ",
-    "Nothing Played Yet…": "Пока ничего не запускалось",
-    "Removed from History": "Удалено из истории"
+    "Nothing Played Yet…": "Пока ничего не запускалось"
   },
   "muxinfo": {
     "Access network information": "Доступ к информации сети",
@@ -785,10 +781,12 @@
     "Removing Core Config…": "Удаление настроек ядра",
     "Removing Directory Config…": "Удаление настроек папки",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Выбор цветового фильтра для игры. Может быть не совместимо с некоторыми играми!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Настройка регулятора ЦП для выбранной игры или папки",
     "Set the control scheme for the selected content or directory": "Выбор схемы управления для выбранной игры или папки",
     "Set the specific tag of the content selected to change the glyph": "Выбор определенного ярлыка для выбранной иконки игры",
     "Set the system core or external emulator for the selected content or directory": "Выбор ядра или внешнего эмулятора для указанной игры или папки",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "Показывает родительскую папку выбранной игры",
     "Shows the total accumulated play time for the selected content": "Показывает общее суммарное время в выбранной игре",
     "Storage": "Память",
@@ -933,6 +931,11 @@
     "Search all current active storage devices": "Поиск во всех текущих устройствах хранения данных",
     "Search within the current selected folder and folders within": "Поиск в текущей выбранной папке и папках внутри",
     "Searching…": "Поиск"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "Скриншоты не найдены",
@@ -1217,6 +1220,7 @@
     "Dot Lattice (4px)": "Точки (4 пкс)",
     "Empty Folders": "Пустые папки",
     "Folder Item Count": "Счетчик элементов в папке",
+    "Forward History": "Запоминать выбор",
     "Friendly Folder Names": "Дружественные названия папок",
     "Frontend Overlay Image": "Оверлей системы",
     "Frontend Overlay Transparency": "Прозрачность оверлея системы",
@@ -1245,6 +1249,7 @@
     "Theme Provided": "Тема",
     "Title Include Root Drive": "Карта памяти в названии",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "Отображение скрытых игр в Библиотеке - Поместите символ '.' или '_' в начало названия файла или папки, чтобы скрыть их",
+    "Toggle remembering last selected item when returning to folders in Explore Content": "Запоминать последний выбор при перемещении назад в папках библиотеки",
     "Toggle the collection visibility withing Explore Content": "Видимость коллекции в библиотеке игр",
     "Toggle the history visibility within Explore Content": "Видимость истории в библиотеке игр",
     "Toggle the visibility of currently selected file along with total in Explore Content": "Настройка отображения выбранного файла в Библиотеке",

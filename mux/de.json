@@ -147,9 +147,8 @@
   "muxapp": {
     "APPLICATIONS": "PROGRAMME",
     "Archive Manager": "Archiv Manager",
-    "Dingux Commander": "Dateiexplorer",
     "Loading Application": "Lade Programm",
-    "Moonlight": "Moonlicht",
+    "Mustard Terminal": "Mustard Terminal",
     "No Applications Found": "Keine Programme gefunden",
     "PPSSPP": "PPSSPP",
     "PortMaster": "Port-Master",
@@ -490,11 +489,8 @@
     "Under": "Underscan"
   },
   "muxhistory": {
-    "Error loading content file": "Fehler beim Laden des Mediums",
-    "Error removing from History": "Fehler beim Entfernen aus dem Verlauf",
     "HISTORY": "VERLAUF",
-    "Nothing Played Yet…": "Bisher wurde noch nichts gestartet oder gespielt…",
-    "Removed from History": "Würde aus dem Verlauf entfernt"
+    "Nothing Played Yet…": "Bisher wurde noch nichts gestartet oder gespielt…"
   },
   "muxinfo": {
     "Access network information": "Überprüfe Netzwerk Informationen",
@@ -785,10 +781,12 @@
     "Removing Core Config…": "Removing Core Config…",
     "Removing Directory Config…": "Removing Directory Config…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Select a colour filter that will change the display output of the running content. May not work with everything!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Den CPU-Governor für das ausgewählte Medium oder das Verzeichnis einstellen",
     "Set the control scheme for the selected content or directory": "Das Steuerungsschema für das ausgewählte Medium oder das Verzeichnis einstellen",
     "Set the specific tag of the content selected to change the glyph": "Markierung des ausgewählten Mediums definieren, um das Symbol zu ändern",
     "Set the system core or external emulator for the selected content or directory": "Den System- oder externen Emulator für das ausgewählte Medium oder das Verzeichnis zuweisen",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "Shows the parent directory of the selected content",
     "Shows the total accumulated play time for the selected content": "Shows the total accumulated play time for the selected content",
     "Storage": "Storage",
@@ -933,6 +931,11 @@
     "Search all current active storage devices": "Auf allen Speichermedien suchen",
     "Search within the current selected folder and folders within": "Im aktuell ausgewählten Ordner und Unter-Ordnern suchen",
     "Searching…": "Durchsucht…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "Keine Bildschirmfotos gefunden",
@@ -1217,6 +1220,7 @@
     "Dot Lattice (4px)": "Punktgitter (4px)",
     "Empty Folders": "Leere Verzeichnisse",
     "Folder Item Count": "Dateianzahl anzeigen",
+    "Forward History": "Forward History",
     "Friendly Folder Names": "Lesefreundliche Ordnernamen",
     "Frontend Overlay Image": "Frontend Overlay Image",
     "Frontend Overlay Transparency": "Frontend Overlay Transparency",
@@ -1245,6 +1249,7 @@
     "Theme Provided": "Vom Skin voreingestellt",
     "Title Include Root Drive": "Speicherort des Titels",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "Ausgeblendete Medien in der Mediensuche anzeigen oder nicht. Ein '.' oder '_' Zeichen an den Anfang eines Datei- oder Ordnernamens setzen, um Medien auszublenden",
+    "Toggle remembering last selected item when returning to folders in Explore Content": "Toggle remembering last selected item when returning to folders in Explore Content",
     "Toggle the collection visibility withing Explore Content": "Wechsle die Sichtbarkeit der Sammlung innerhalb von Inhalt erkunden",
     "Toggle the history visibility within Explore Content": "Wechsle die Sichtbarkeit des Verlaufs innerhalb von Inhalt erkunden um",
     "Toggle the visibility of currently selected file along with total in Explore Content": "Sichtbarkeit der aktuell ausgewählten Datei mit der Zusammenfassung bei der Mediensuche ändern",

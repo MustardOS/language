@@ -147,9 +147,8 @@
   "muxapp": {
     "APPLICATIONS": "ỨNG DỤNG",
     "Archive Manager": "Quản lý tệp nén",
-    "Dingux Commander": "Dingux Commander (Quản lý tệp tin)",
     "Loading Application": "Khởi động Ứng dụng",
-    "Moonlight": "Moonlight (Phát game trực tuyến)",
+    "Mustard Terminal": "Mustard Terminal",
     "No Applications Found": "Không tìm thấy Ứng dụng nào",
     "PPSSPP": "PPSSPP (Giả lập PSP)",
     "PortMaster": "PortMaster (Game Port PC)",
@@ -490,11 +489,8 @@
     "Under": "Dưới"
   },
   "muxhistory": {
-    "Error loading content file": "Có lỗi xảy ra khi nạp nội dung tệp",
-    "Error removing from History": "Có lỗi xảy ra khi xóa khỏi Lịch Sử",
     "HISTORY": "LỊCH SỬ",
-    "Nothing Played Yet…": "Chưa Có Gì Khởi Động Cả…",
-    "Removed from History": "Xóa khỏi Lịch sử"
+    "Nothing Played Yet…": "Chưa Có Gì Khởi Động Cả…"
   },
   "muxinfo": {
     "Access network information": "Truy cập thông tin mạng",
@@ -785,10 +781,12 @@
     "Removing Core Config…": "Removing Core Config…",
     "Removing Directory Config…": "Removing Directory Config…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Select a colour filter that will change the display output of the running content. May not work with everything!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Cài đặt hiệu chỉnh CPU cho nội dung hoặc thư mục được chọn",
     "Set the control scheme for the selected content or directory": "Thiết lập cách điều khiển cho thư mục hoặc nội dung được chọn",
     "Set the specific tag of the content selected to change the glyph": "Thiết lập thẻ nhất định cho nội dung được chọn để thay đổi glyph",
     "Set the system core or external emulator for the selected content or directory": "Cài đặt nhân hệ thống hoặc giả lập bên ngoài cho nội dung hoặc thư mục được chọn",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "Shows the parent directory of the selected content",
     "Shows the total accumulated play time for the selected content": "Shows the total accumulated play time for the selected content",
     "Storage": "Storage",
@@ -933,6 +931,11 @@
     "Search all current active storage devices": "Tìm kiếm trên tất cả các thiết bị lưu trữ đang kích hoạt",
     "Search within the current selected folder and folders within": "Tìm kiếm trong thư mục đang chọn và các thư mục con trong đó",
     "Searching…": "Đang tìm kiếm…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "Không có ảnh chụp màn hình nào được tìm thấy",
@@ -1217,6 +1220,7 @@
     "Dot Lattice (4px)": "Lưới điểm (4px)",
     "Empty Folders": "Các Thư Mục Trống",
     "Folder Item Count": "Số lượng Tệp tin trong Thư mục",
+    "Forward History": "Forward History",
     "Friendly Folder Names": "Các Tên Thư mục Gợi nhớ",
     "Frontend Overlay Image": "Frontend Overlay Image",
     "Frontend Overlay Transparency": "Frontend Overlay Transparency",
@@ -1245,6 +1249,7 @@
     "Theme Provided": "Bên cung cấp Theme",
     "Title Include Root Drive": "Tiêu đề bao gồm cả Ổ đĩa chính",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "Bật/tắt nội dung ẩn hiển thị trong Khám phá Nội Dung - Đặt kí tự “.” hoặc “_” vào đầu tên tập tin hoặc thư mục để ẩn nó đi",
+    "Toggle remembering last selected item when returning to folders in Explore Content": "Toggle remembering last selected item when returning to folders in Explore Content",
     "Toggle the collection visibility withing Explore Content": "Bật/tắt chế độ hiển thị bộ sưu tập trong phần Khám phá Nội dung",
     "Toggle the history visibility within Explore Content": "Bật tắt chế độ hiển thị lịch sử trong Khám phá Nội dung",
     "Toggle the visibility of currently selected file along with total in Explore Content": "Bật/tắt khả năng hiển thị của tệp tin hiện tại cùng với tất cả trong Khám phá Nội Dung",

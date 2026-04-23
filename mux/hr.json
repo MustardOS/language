@@ -147,9 +147,8 @@
   "muxapp": {
     "APPLICATIONS": "APLIKACIJE",
     "Archive Manager": "Upravitelj arhiva",
-    "Dingux Commander": "Dingux Commander",
     "Loading Application": "Učitavanje aplikacije",
-    "Moonlight": "Moonlight",
+    "Mustard Terminal": "Mustard Terminal",
     "No Applications Found": "Nema pronađenih aplikacija",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -490,11 +489,8 @@
     "Under": "Podrezano"
   },
   "muxhistory": {
-    "Error loading content file": "Greška pri učitavanju datoteke sadržaja",
-    "Error removing from History": "Greška pri uklanjanju iz povijesti",
     "HISTORY": "POVIJEST",
-    "Nothing Played Yet…": "Još ništa nije pokrenuto…",
-    "Removed from History": "Uklonjeno iz povijesti"
+    "Nothing Played Yet…": "Još ništa nije pokrenuto…"
   },
   "muxinfo": {
     "Access network information": "Pristupi mrežnim podacima",
@@ -785,10 +781,12 @@
     "Removing Core Config…": "Removing Core Config…",
     "Removing Directory Config…": "Removing Directory Config…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Select a colour filter that will change the display output of the running content. May not work with everything!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
     "Set the CPU governor for the selected content or directory": "Odaberi CPU upravitelja za sadržaj ili mapu",
     "Set the control scheme for the selected content or directory": "Odaberi shemu kontrola za sadržaj ili mapu",
     "Set the specific tag of the content selected to change the glyph": "Postavi oznaku za promjenu ikone",
     "Set the system core or external emulator for the selected content or directory": "Dodijeli jezgru sustava ili vanjski emulator za sadržaj/mapu",
+    "Shader": "Shader",
     "Shows the parent directory of the selected content": "Shows the parent directory of the selected content",
     "Shows the total accumulated play time for the selected content": "Shows the total accumulated play time for the selected content",
     "Storage": "Storage",
@@ -933,6 +931,11 @@
     "Search all current active storage devices": "Pretraži sve aktivne uređaje za pohranu",
     "Search within the current selected folder and folders within": "Pretraži unutar odabrane mape i njezinih podmapa",
     "Searching…": "Pretraživanje…"
+  },
+  "muxshader": {
+    "Change the shader of your current selected content": "Change the shader of your current selected content",
+    "No Shaders Found…": "No Shaders Found…",
+    "SHADERS": "SHADERS"
   },
   "muxshot": {
     "No Screenshots Found": "Nema pronađenih slika zaslona",
@@ -1217,6 +1220,7 @@
     "Dot Lattice (4px)": "Točkasta mreža (4px)",
     "Empty Folders": "Empty Folders",
     "Folder Item Count": "Broj stavki u mapi",
+    "Forward History": "Forward History",
     "Friendly Folder Names": "Prijateljski nazivi mapa",
     "Frontend Overlay Image": "Frontend Overlay Image",
     "Frontend Overlay Transparency": "Frontend Overlay Transparency",
@@ -1245,6 +1249,7 @@
     "Theme Provided": "Tema određuje",
     "Title Include Root Drive": "Naslov uključuje glavni disk",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "Prikaži/skrivaj sadržaj u Istraži – dodaj '.' ili '_' na početak naziva datoteke/mape za skrivanje",
+    "Toggle remembering last selected item when returning to folders in Explore Content": "Toggle remembering last selected item when returning to folders in Explore Content",
     "Toggle the collection visibility withing Explore Content": "Toggle the collection visibility withing Explore Content",
     "Toggle the history visibility within Explore Content": "Toggle the history visibility within Explore Content",
     "Toggle the visibility of currently selected file along with total in Explore Content": "Prikaži broj i odabranu datoteku u Istraži sadržaj",
