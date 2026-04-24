@@ -774,14 +774,14 @@
     "Displays which storage device the selected content is located on": "แสดงว่าเนื้อหาที่เลือกถูกเก็บไว้ในอุปกรณ์เก็บข้อมูลใด",
     "Folder Path": "พาธโฟลเดอร์",
     "None": "ไม่มี",
-    "Not Assigned": "ไม่ได้ผูก",
+    "Not Assigned": "ไม่ได้เชื่อมโยง",
     "Remove Config": "ลบการตั้งค่า",
     "Remove specific RetroArch configuration, just in case something goes horribly wrong": "ลบการตั้งค่า RetroArch เฉพาะอย่าง ในกรณีที่มีบางอย่างผิดพลาดรุนแรง",
     "Removing Content Config…": "กำลังลบการตั้งค่าเนื้อหา…",
     "Removing Core Config…": "กำลังลบการตั้งค่า Core…",
     "Removing Directory Config…": "กำลังลบการตั้งค่าไดเรกทอรี…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "เลือกตัวกรองสีที่จะเปลี่ยนการแสดงผลของเนื้อหาที่กำลังเล่น (อาจใช้ไม่ได้กับทุกอย่าง!)",
-    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "เลือก Shader เพื่อเปลี่ยนหน้าตาและกลิ่นอายของเนื้อหาที่กำลังรันอยู่ ซึ่งอาจไม่สามารถใช้งานได้กับทุกเนื้อหา!",
     "Set the CPU governor for the selected content or directory": "ตั้งค่า CPU governor สำหรับเนื้อหาหรือไดเรกทอรีที่เลือก",
     "Set the control scheme for the selected content or directory": "ตั้งค่าแผนผังการควบคุมสำหรับเนื้อหาหรือไดเรกทอรีที่เลือก",
     "Set the specific tag of the content selected to change the glyph": "ตั้งแท็กเฉพาะของเนื้อหาเพื่อเปลี่ยนสัญลักษณ์",
@@ -933,8 +933,8 @@
     "Searching…": "กำลังค้นหา…"
   },
   "muxshader": {
-    "Change the shader of your current selected content": "Change the shader of your current selected content",
-    "No Shaders Found…": "No Shaders Found…",
+    "Change the shader of your current selected content": "เปลี่ยน Shader ของเนื้อหาที่คุณเลือกอยู่ในขณะนี้",
+    "No Shaders Found…": "ไม่พบ Shaders …",
     "SHADERS": "SHADERS"
   },
   "muxshot": {
