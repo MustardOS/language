@@ -781,12 +781,12 @@
     "Removing Core Config…": "Cumraíocht Chroí á baint…",
     "Removing Directory Config…": "Cumraíocht Eolaire á baint…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Roghnaigh scagaire datha a athróidh aschur taispeána an ábhair reatha. B’fhéidir nach n-oibreoidh sé le gach rud!",
-    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Roghnaigh scáthaitheoir a mbeidh tionchar aige ar chuma agus ar mhothú an ábhair atá ag rith. B’fhéidir nach n-oibreoidh sé le gach rud!",
     "Set the CPU governor for the selected content or directory": "Socraigh gobharnóir an LAP don inneachar nó don chomhadlann roghnaithe",
     "Set the control scheme for the selected content or directory": "Socraigh an scéim rialaithe don ábhar nó don eolaire roghnaithe",
     "Set the specific tag of the content selected to change the glyph": "Socraigh an chlib shonrach den ábhar roghnaithe chun an glifín a athrú",
     "Set the system core or external emulator for the selected content or directory": "Socraigh croí an chórais nó aithriseoir seachtrach don inneachar nó don chomhadlann roghnaithe",
-    "Shader": "Shader",
+    "Shader": "Scáthadóir",
     "Shows the parent directory of the selected content": "Taispeánann sé eolaire tuismitheora an ábhair roghnaithe",
     "Shows the total accumulated play time for the selected content": "Taispeánann sé an t-am imeartha carntha iomlán don ábhar roghnaithe",
     "Storage": "Stóráil",
@@ -933,9 +933,9 @@
     "Searching…": "Ag cuardach…"
   },
   "muxshader": {
-    "Change the shader of your current selected content": "Change the shader of your current selected content",
-    "No Shaders Found…": "No Shaders Found…",
-    "SHADERS": "SHADERS"
+    "Change the shader of your current selected content": "Athraigh scáthlán an ábhair atá roghnaithe agat faoi láthair",
+    "No Shaders Found…": "Níor aimsíodh aon scáthóirí…",
+    "SHADERS": "SCÁTHAIRÍ"
   },
   "muxshot": {
     "No Screenshots Found": "Níor aimsíodh aon seatanna scáileáin",

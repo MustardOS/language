@@ -148,7 +148,7 @@
     "APPLICATIONS": "APPLIKATIONER",
     "Archive Manager": "Arkivhåndtering",
     "Loading Application": "Henter applikation",
-    "Mustard Terminal": "Mustard Terminal",
+    "Mustard Terminal": "Mustard terminal",
     "No Applications Found": "Ingen applikationer fundet",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -781,7 +781,7 @@
     "Removing Core Config…": "Fjerner kernekonfiguration…",
     "Removing Directory Config…": "Fjerner mappekonfiguration…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Vælg et farvefilter, der ændrer visningen af det aktive indhold. Virker muligvis ikke med alt!",
-    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Vælg en shader, der påvirker udseendet og fornemmelsen af det kørende indhold. Virker muligvis ikke med alt!",
     "Set the CPU governor for the selected content or directory": "Indstil CPU-regulatoren for det valgte indhold eller den valgte mappe",
     "Set the control scheme for the selected content or directory": "Angiv kontrol skemaet for det valgte indhold eller mappe",
     "Set the specific tag of the content selected to change the glyph": "Angiv det specifikke tag for det valgte indhold for at ændre glyffen",
@@ -933,8 +933,8 @@
     "Searching…": "Søger…"
   },
   "muxshader": {
-    "Change the shader of your current selected content": "Change the shader of your current selected content",
-    "No Shaders Found…": "No Shaders Found…",
+    "Change the shader of your current selected content": "Skift shaderen for dit aktuelle valgte indhold",
+    "No Shaders Found…": "Ingen shaders fundet…",
     "SHADERS": "SHADERS"
   },
   "muxshot": {
@@ -1220,7 +1220,7 @@
     "Dot Lattice (4px)": "Prikgitter (4px)",
     "Empty Folders": "Tomme foldere",
     "Folder Item Count": "Antal folderelementer",
-    "Forward History": "Forward History",
+    "Forward History": "Fremadrettet historie",
     "Friendly Folder Names": "Læsevenlige foldernavne",
     "Frontend Overlay Image": "Brugerflade overlejringsbillede",
     "Frontend Overlay Transparency": "Brugerflade overlejringsgennemsigtighed",
@@ -1249,7 +1249,7 @@
     "Theme Provided": "Tema forudsat",
     "Title Include Root Drive": "Titel Inkluder rod drev",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "Slå skjult indhold til/fra i indholdsviser - Indsæt et '.' eller '_' tegn i starten af et fil- eller foldernavn for at skjule det",
-    "Toggle remembering last selected item when returning to folders in Explore Content": "Toggle remembering last selected item when returning to folders in Explore Content",
+    "Toggle remembering last selected item when returning to folders in Explore Content": "Slå hukommelse af sidst valgte element til/fra, når du vender tilbage til mapper i indholdsviser",
     "Toggle the collection visibility withing Explore Content": "Slå samlingens synlighed til/fra inden for indholdsviser",
     "Toggle the history visibility within Explore Content": "Slå historikkens synlighed til/fra i indholdsviser",
     "Toggle the visibility of currently selected file along with total in Explore Content": "Slå synligheden af den aktuelt valgte fil sammen med totalvisningen til/fra i indholdsviser",
