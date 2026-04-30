@@ -148,7 +148,7 @@
     "APPLICATIONS": "APLICATIVOS",
     "Archive Manager": "Gerenciador de Pacotes",
     "Loading Application": "Carregando Aplicativo",
-    "Mustard Terminal": "Mustard Terminal",
+    "Mustard Terminal": "Terminal Mustard",
     "No Applications Found": "Nenhum Aplicativo Encontrado",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
@@ -781,7 +781,7 @@
     "Removing Core Config…": "Removendo configuração dos núcleos…",
     "Removing Directory Config…": "Removendo configuração dos diretórios…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Selecione um filtro de cor que alterará a saída de vídeo do conteúdo em execução. Pode não funcionar com tudo!",
-    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Selecione um shader que vai afetar a aparência do conteúdo em execução. Pode não funcionar para tudo!",
     "Set the CPU governor for the selected content or directory": "Defina o modo da CPU para o conteúdo ou diretório selecionado",
     "Set the control scheme for the selected content or directory": "Define a configuração de controles para o conteúdo ou diretório selecionado",
     "Set the specific tag of the content selected to change the glyph": "Defina a tag específica do conteúdo selecionado para modificar o glifo",
@@ -933,8 +933,8 @@
     "Searching…": "Buscando…"
   },
   "muxshader": {
-    "Change the shader of your current selected content": "Change the shader of your current selected content",
-    "No Shaders Found…": "No Shaders Found…",
+    "Change the shader of your current selected content": "Altera o shader para o conteúdo selecionado atualmente",
+    "No Shaders Found…": "Nenhum shader encontrado…",
     "SHADERS": "SHADERS"
   },
   "muxshot": {
@@ -1220,7 +1220,7 @@
     "Dot Lattice (4px)": "Grade Pontilhada (4px)",
     "Empty Folders": "Pastas Vazias",
     "Folder Item Count": "Contagem de Itens da Pasta",
-    "Forward History": "Forward History",
+    "Forward History": "Avançar histórico",
     "Friendly Folder Names": "Nomes de Pasta Amigáveis",
     "Frontend Overlay Image": "Imagem da moldura",
     "Frontend Overlay Transparency": "Transparência da moldura",
@@ -1249,7 +1249,7 @@
     "Theme Provided": "Provido pelo Tema",
     "Title Include Root Drive": "Título Inclui Unidade Raiz",
     "Toggle hidden content displayed in Explore Content - Place a '.' or '_' character at the start of a file or folder name to hide it": "Alterna entre a exibição ou não de conteúdo oculto na tela de Explorar Conteúdo - Coloque um '.' ou '_' no começo do arquivo ou pasta para oculta-lo",
-    "Toggle remembering last selected item when returning to folders in Explore Content": "Toggle remembering last selected item when returning to folders in Explore Content",
+    "Toggle remembering last selected item when returning to folders in Explore Content": "Alterna entre lembrar o último item selecionado quando você retorna para pastas do Explorar Conteúdo",
     "Toggle the collection visibility withing Explore Content": "Alternar a visibilidade da Coleção em Explorar Conteúdo",
     "Toggle the history visibility within Explore Content": "Alternar a visibilidade do Histórico em Explorar conteúdo",
     "Toggle the visibility of currently selected file along with total in Explore Content": "Alterna a visibilidade do arquivo atualmente selecionado junto com o total ao Explorar Conteúdo",

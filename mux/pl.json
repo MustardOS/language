@@ -781,7 +781,7 @@
     "Removing Core Config…": "Usuwanie ustawień rdzenia…",
     "Removing Directory Config…": "Usuwanie ustawień folderu…",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Wybierz filtr kolorów, który zmieni wyświetlanie wyjścia dla uruchomionej zawartości. Może nie działać ze wszystkim!",
-    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Wybierz shader, który zmieni wygląd działającej zawartości. Może nie działać ze wszystkim!",
     "Set the CPU governor for the selected content or directory": "Ustaw regulator CPU dla wybranej zawartości lub folderu",
     "Set the control scheme for the selected content or directory": "Wybierz schemat sterowania dla wybranej zawartości lub folderu",
     "Set the specific tag of the content selected to change the glyph": "Wybierz konkretną etykietę zawartości, by zmienić ikonę",
@@ -933,9 +933,9 @@
     "Searching…": "Wyszukiwanie…"
   },
   "muxshader": {
-    "Change the shader of your current selected content": "Change the shader of your current selected content",
-    "No Shaders Found…": "No Shaders Found…",
-    "SHADERS": "SHADERS"
+    "Change the shader of your current selected content": "Zmień shader dla aktualnie wybranej zawartości",
+    "No Shaders Found…": "Nie znaleziono shaderów…",
+    "SHADERS": "SHADERY"
   },
   "muxshot": {
     "No Screenshots Found": "Nie znaleziono zrzutów ekranu",
