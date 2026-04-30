@@ -304,7 +304,7 @@
     "Language": "Язык",
     "Overlay Options": "Оверлей",
     "Power Settings": "Питание",
-    "Select your preferred language\n\nTranslations supported by Weblate": "Выберите предпочитаемый язык\n\nПереводы, поддерживаемые в Weblate",
+    "Select your preferred language\n\nTranslations supported by Weblate": "Выбор предпочитаемого языка\n\nПереводы поддерживаются в Weblate",
     "Settings to change the colour settings of content": "Настройки цветов игры",
     "Settings to change the hardware overlays of content": "Настройки оверлеев игры",
     "Settings to change the power features of the device": "Настройки для изменения параметров питания устройства",
@@ -521,7 +521,7 @@
     "Install": "Установить",
     "Language": "Язык",
     "Prepare and install MustardOS": "Подготовка и установка MustardOS",
-    "Select your preferred language\n\nTranslations supported by Weblate": "Выберите предпочитаемый язык\n\nПереводы, поддерживаемые в Weblate",
+    "Select your preferred language\n\nTranslations supported by Weblate": "Выбор предпочитаемого языка\n\nПереводы поддерживаются в Weblate",
     "Shut down your device safely": "Безопасное выключение устройства",
     "Shutdown": "Выключение"
   },
@@ -621,7 +621,7 @@
     "LANGUAGE": "ЯЗЫК",
     "No Languages Found…": "Языки не найдены",
     "Saving Language": "Сохранение языка",
-    "Select your preferred language": "Выберите язык"
+    "Select your preferred language": "Выбор языка"
   },
   "muxlaunch": {
     "Applications": "Приложения",
@@ -781,12 +781,12 @@
     "Removing Core Config…": "Удаление настроек ядра",
     "Removing Directory Config…": "Удаление настроек папки",
     "Select a colour filter that will change the display output of the running content. May not work with everything!": "Выбор цветового фильтра для игры. Может быть не совместимо с некоторыми играми!",
-    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Select a shader that will affect the look and feel of the running content. May not work with everything!",
+    "Select a shader that will affect the look and feel of the running content. May not work with everything!": "Выбор шейдера, который определяет вид и ощущение запущенной игры. Может работать не со всеми!",
     "Set the CPU governor for the selected content or directory": "Настройка регулятора ЦП для выбранной игры или папки",
     "Set the control scheme for the selected content or directory": "Выбор схемы управления для выбранной игры или папки",
     "Set the specific tag of the content selected to change the glyph": "Выбор определенного ярлыка для выбранной иконки игры",
     "Set the system core or external emulator for the selected content or directory": "Выбор ядра или внешнего эмулятора для указанной игры или папки",
-    "Shader": "Shader",
+    "Shader": "Шейдер",
     "Shows the parent directory of the selected content": "Показывает родительскую папку выбранной игры",
     "Shows the total accumulated play time for the selected content": "Показывает общее суммарное время в выбранной игре",
     "Storage": "Память",
@@ -933,9 +933,9 @@
     "Searching…": "Поиск"
   },
   "muxshader": {
-    "Change the shader of your current selected content": "Change the shader of your current selected content",
-    "No Shaders Found…": "No Shaders Found…",
-    "SHADERS": "SHADERS"
+    "Change the shader of your current selected content": "Изменение шейдера выбранной игры",
+    "No Shaders Found…": "Шейдеры не найдены",
+    "SHADERS": "ШЕЙДЕРЫ"
   },
   "muxshot": {
     "No Screenshots Found": "Скриншоты не найдены",
@@ -1177,7 +1177,7 @@
     "Advanced Settings": "Расширенные настройки",
     "Change the brightness of the device to a specific level": "Изменение яркости устройства до заданного уровня",
     "Change the volume of the device to a specific level": "Изменение громкости устройства до определенного уровня",
-    "Change where the device will start up into": "Выберите экран, куда перейдет система при запуске",
+    "Change where the device will start up into": "Выбор меню, в котором будет запускаться система",
     "Change your current date, time, and timezone": "Изменение текущей даты, времени и часового пояса",
     "Content Collection": "Коллекция игр",
     "Content Explorer": "Библиотека",
