@@ -152,7 +152,6 @@
     "No Applications Found": "Neniuj aplikaĵoj trovitaj",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
-    "RGB Controller": "Regilo de RGB",
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Task Toolkit": "Ilaro de taskoj"
@@ -481,9 +480,6 @@
     "Resolution": "Distingivo",
     "Scan Scaling": "Skan-skalo",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Elektu la distingivon por HDMI-eligo, kiel 720p aŭ 1080p",
-    "Set the color depth, such as 8-bit or 10-bit": "Agordu la kolorprofundon, kiel 8-bita aŭ 10-bita",
-    "Set the color range of RGB colour space": "Agordu la kolorgamon de RGB-kolora spaco",
-    "Set the color space, such as RGB or YUV": "Agordu la kolorspacon, kiel RGB aŭ YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Ŝaltu inter aparato-parolilo aŭ ekstera monitora aŭdio per HDMI-konekto",
     "Switch between overscan or underscan to fit the display screen": "Ŝaltu inter super-skanado aŭ sub-skanado por adapti la ekranon",
     "Under": "Sub"
@@ -879,7 +875,6 @@
     "Cruise": "Kruizu",
     "Default Governor": "Defaŭlta regulilo",
     "Fast": "Rapida",
-    "Frontend Screensaver": "Fasada ekrankonservilo",
     "Idle Display must be less than Idle Sleep": "Senokupa ekrano devas esti malpli ol senokupa dormo",
     "Idle Governor": "Senokupa regulilo",
     "Idle Input Display Timeout": "Senokupa eniga ekrana tempolimo",
@@ -901,7 +896,6 @@
     "Sleep Function": "Dorma funkcio",
     "Sleep Until Wake": "Dormi ĝis vekiĝo",
     "Toggle if the audio is muted when display is dimmed": "Baskuligu ĉu la aŭdio estas silentigita kiam ekrano malheligas",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Baskuligu la fasadan ekrankonservilon ĉe senokupa ekrana tempolimo-aktivigo",
     "Turbo": "Turbo"
   },
   "muxraopt": {
@@ -1199,8 +1193,7 @@
     "Settings that should only be changed by those who know what they are doing!": "Agordoj kiuj devus esti ŝanĝitaj nur de tiuj kiuj scias kion ili faras!",
     "Settings to change the HDMI output of the device": "Agordoj por ŝanĝi la HDMI-eligon de la aparato",
     "Switch between different hotkeys for taking a screenshot": "Ŝaltu inter malsamaj fulmoklavoj por fari ekrankopion",
-    "Switch between different hotkeys for toggling DPAD swap": "Ŝaltu inter malsamaj fulmoklavoj por baskuligi DPAD-interŝanĝon",
-    "Toggle the device fancy RGB light system": "Baskuligu la aparatan fantazian RGB-luman sistemon"
+    "Switch between different hotkeys for toggling DPAD swap": "Ŝaltu inter malsamaj fulmoklavoj por baskuligi DPAD-interŝanĝon"
   },
   "muxvisual": {
     "Battery": "Baterio",

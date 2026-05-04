@@ -152,7 +152,6 @@
     "No Applications Found": "找不到應用程式",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster移殖遊戲管理",
-    "RGB Controller": "RGB燈效控制器",
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Task Toolkit": "任務工具箱"
@@ -481,9 +480,6 @@
     "Resolution": "分辨率",
     "Scan Scaling": "掃描縮放",
     "Select the resolution for HDMI output, such as 720p or 1080p": "選擇HDMI輸出的分辨率，例如720p或1080p",
-    "Set the color depth, such as 8-bit or 10-bit": "設定顏色深度，例如8位元或10位元",
-    "Set the color range of RGB colour space": "設定RGB色彩空間的色彩範圍",
-    "Set the color space, such as RGB or YUV": "設定色彩空間，例如RGB或YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "HDMI連接時音訊使用裝置揚聲器或外部顯示器輸出",
     "Switch between overscan or underscan to fit the display screen": "在過掃描或欠掃描之間切換以適應顯示屏幕",
     "Under": "欠掃描(原比例)"
@@ -879,7 +875,6 @@
     "Cruise": "巡航",
     "Default Governor": "預設調速器",
     "Fast": "快速",
-    "Frontend Screensaver": "前端螢幕保護程式",
     "Idle Display must be less than Idle Sleep": "閒置熄屏必須小於閒置休眠",
     "Idle Governor": "閒置調速器",
     "Idle Input Display Timeout": "閒置熄屏",
@@ -901,7 +896,6 @@
     "Sleep Function": "休眠功能",
     "Sleep Until Wake": "休眠直到喚醒",
     "Toggle if the audio is muted when display is dimmed": "切換螢幕閒置變暗時音訊是否靜音",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "前端閒置超時啟動螢幕保護程序",
     "Turbo": "渦輪"
   },
   "muxraopt": {
@@ -1199,8 +1193,7 @@
     "Settings that should only be changed by those who know what they are doing!": "只有您知道自己在做什麼的情況下才能更改!",
     "Settings to change the HDMI output of the device": "更改設備HDMI輸出的設置",
     "Switch between different hotkeys for taking a screenshot": "切換不同的熱鍵以截取螢幕截圖",
-    "Switch between different hotkeys for toggling DPAD swap": "切換不同的熱鍵以進行方向鍵交換",
-    "Toggle the device fancy RGB light system": "切換設備RGB燈光效果"
+    "Switch between different hotkeys for toggling DPAD swap": "切換不同的熱鍵以進行方向鍵交換"
   },
   "muxvisual": {
     "Battery": "電池",

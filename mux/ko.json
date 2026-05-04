@@ -152,7 +152,6 @@
     "No Applications Found": "어플리케이션 없음",
     "PPSSPP": "PPSSPP 실행",
     "PortMaster": "포트마스터",
-    "RGB Controller": "RGB 조절기",
     "RetroArch": "레트로아크 실행",
     "ScummVM": "ScummVM 실행",
     "Task Toolkit": "태스크 툴킷"
@@ -481,9 +480,6 @@
     "Resolution": "해상도",
     "Scan Scaling": "스케일링 스캔",
     "Select the resolution for HDMI output, such as 720p or 1080p": "720p 또는 1080p 등 HDMI 출력 해상도를 선택",
-    "Set the color depth, such as 8-bit or 10-bit": "8비트, 10비트 등 색상 심도를 설정",
-    "Set the color range of RGB colour space": "RGB 색상 공간의 색상 범위를 설정",
-    "Set the color space, such as RGB or YUV": "RGB 또는 YUV와 같은 색상 공간을 설정",
     "Switch between device speaker or external monitor audio via HDMI connection": "HDMI 연결을 통해 장치 스피커 또는 외부 모니터 오디오 간을 전환",
     "Switch between overscan or underscan to fit the display screen": "디스플레이 화면에 맞게 오버스캔 또는 언더스캔 간을 전환",
     "Under": "언더"
@@ -879,7 +875,6 @@
     "Cruise": "보통 성능",
     "Default Governor": "기본 거버너",
     "Fast": "고성능",
-    "Frontend Screensaver": "프런트엔드 화면 보호기",
     "Idle Display must be less than Idle Sleep": "화면 보호 대기 시간은 슬립 모드 대기 시간보다 작아야 함",
     "Idle Governor": "유휴 거버너",
     "Idle Input Display Timeout": "화면 보호기 대기 시간",
@@ -901,7 +896,6 @@
     "Sleep Function": "슬립 기능",
     "Sleep Until Wake": "깨울 때까지 슬립",
     "Toggle if the audio is muted when display is dimmed": "디스플레이가 어두워지면 오디오가 음소거되는지 여부를 전환",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "유휴 디스플레이 타임아웃 활성화 시 프런트엔드 화면 보호기 사용 여부 전환",
     "Turbo": "Turbo"
   },
   "muxraopt": {
@@ -1199,8 +1193,7 @@
     "Settings that should only be changed by those who know what they are doing!": "수행중인 작업을 아는 사람만이 변경해야 하는 설정!",
     "Settings to change the HDMI output of the device": "장치의 HDMI 출력을 변경하기 위한 설정",
     "Switch between different hotkeys for taking a screenshot": "스크린샷을 찍기 위한 핫키 조합 변경",
-    "Switch between different hotkeys for toggling DPAD swap": "DPAD 스왑을 전환하기 위한 핫키 조합 변경",
-    "Toggle the device fancy RGB light system": "장치의 멋진 RGB 조명 시스템을 전환"
+    "Switch between different hotkeys for toggling DPAD swap": "DPAD 스왑을 전환하기 위한 핫키 조합 변경"
   },
   "muxvisual": {
     "Battery": "배터리",

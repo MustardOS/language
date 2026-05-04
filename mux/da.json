@@ -152,7 +152,6 @@
     "No Applications Found": "Ingen applikationer fundet",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
-    "RGB Controller": "RGB controller",
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Task Toolkit": "Opgaveværktøjskasse"
@@ -481,9 +480,6 @@
     "Resolution": "Opløsning",
     "Scan Scaling": "Scanningsskalering",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Vælg opløsningen for HDMI-udgang, f.eks. 720p eller 1080p",
-    "Set the color depth, such as 8-bit or 10-bit": "Indstil farvedybden, f.eks. 8-bit eller 10-bit",
-    "Set the color range of RGB colour space": "Indstil farveområdet for RGB-farverummet",
-    "Set the color space, such as RGB or YUV": "Indstil farverummet, f.eks. RGB eller YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Skift mellem enhedens højttaler eller ekstern skærmlyd via HDMI-forbindelse",
     "Switch between overscan or underscan to fit the display screen": "Skift mellem overscan eller underscan for at tilpasse den til skærmen",
     "Under": "Under"
@@ -879,7 +875,6 @@
     "Cruise": "Cruise",
     "Default Governor": "Standardregulator",
     "Fast": "Hurtig",
-    "Frontend Screensaver": "Brugerflade pauseskærm",
     "Idle Display must be less than Idle Sleep": "Inaktiv skærm skal være mindre end inaktiv dvaletilstand",
     "Idle Governor": "Tomgangsregulator",
     "Idle Input Display Timeout": "Ingen input timeout for display",
@@ -901,7 +896,6 @@
     "Sleep Function": "Søvnfunktion",
     "Sleep Until Wake": "Sov til du vågner",
     "Toggle if the audio is muted when display is dimmed": "Slå lyden til/fra, når skærmen er dæmpet",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Slå brugerflade-pauseskærm til/fra ved aktivering af timeout for inaktiv skærm",
     "Turbo": "Turbo"
   },
   "muxraopt": {
@@ -1199,8 +1193,7 @@
     "Settings that should only be changed by those who know what they are doing!": "Indstillinger, der kun bør ændres af dem, der ved, hvad de laver!",
     "Settings to change the HDMI output of the device": "Indstillinger for at ændre enhedens HDMI-udgang",
     "Switch between different hotkeys for taking a screenshot": "Skift mellem forskellige genvejstaster for at tage et skærmbillede",
-    "Switch between different hotkeys for toggling DPAD swap": "Skift mellem forskellige genvejstaster for at slå DPAD-skift til/fra",
-    "Toggle the device fancy RGB light system": "Slå enhedens smarte RGB-lyssystem til/fra"
+    "Switch between different hotkeys for toggling DPAD swap": "Skift mellem forskellige genvejstaster for at slå DPAD-skift til/fra"
   },
   "muxvisual": {
     "Battery": "Batteri",

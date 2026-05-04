@@ -152,7 +152,6 @@
     "No Applications Found": "アプリケーションが見つかりませんでした",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
-    "RGB Controller": "RGB Controller",
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Task Toolkit": "タスクツール集"
@@ -481,9 +480,6 @@
     "Resolution": "解像度",
     "Scan Scaling": "スキャンスケール",
     "Select the resolution for HDMI output, such as 720p or 1080p": "720p や 1080p など HDMI 出力の解像度を選択します",
-    "Set the color depth, such as 8-bit or 10-bit": "8-bit や 10-bit など色深度を設定します",
-    "Set the color range of RGB colour space": "RGB 色空間の色域を設定します",
-    "Set the color space, such as RGB or YUV": "RGB や YUV など色空間を設定します",
     "Switch between device speaker or external monitor audio via HDMI connection": "内蔵スピーカーと HDMI 接続された機器からの出力を切り替えます",
     "Switch between overscan or underscan to fit the display screen": "ディスプレイに合わせてオーバーまたはアンダースキャンを切り替えます",
     "Under": "アンダー"
@@ -879,7 +875,6 @@
     "Cruise": "ふつう",
     "Default Governor": "通常時のガバナー",
     "Fast": "はやい",
-    "Frontend Screensaver": "スクリーンセーバー",
     "Idle Display must be less than Idle Sleep": "自動ディスプレイ消灯時間は自動スリープより短くしてください",
     "Idle Governor": "アイドル時のガバナー",
     "Idle Input Display Timeout": "自動ディスプレイ消灯",
@@ -901,7 +896,6 @@
     "Sleep Function": "スリープ設定",
     "Sleep Until Wake": "スリープ状態を維持",
     "Toggle if the audio is muted when display is dimmed": "ディスプレイ自動消灯時に消音するかを切り替えます",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "「自動ディスプレイ消灯」が有効になった際に起動する、フロントエンドのスクリーンセーバーのロゴの移動速度を設定します",
     "Turbo": "ターボ"
   },
   "muxraopt": {
@@ -1199,8 +1193,7 @@
     "Settings that should only be changed by those who know what they are doing!": "詳細を理解している人たちのための設定です!",
     "Settings to change the HDMI output of the device": "デバイスのHDMI出力の設定を変更します",
     "Switch between different hotkeys for taking a screenshot": "スクリーンショットを撮るためのホットキーを切り替えます",
-    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
-    "Toggle the device fancy RGB light system": "デバイス固有の RGB 点灯機能を切り替えます"
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap"
   },
   "muxvisual": {
     "Battery": "バッテリー",

@@ -152,7 +152,6 @@
     "No Applications Found": "Додатків не знайдено",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
-    "RGB Controller": "RGB Controller",
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Task Toolkit": "Набір завдань"
@@ -481,9 +480,6 @@
     "Resolution": "Роздільна здатність",
     "Scan Scaling": "Масштабування зображення",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Вибір роздільної здатності HDMI, наприклад 720р або 1080р",
-    "Set the color depth, such as 8-bit or 10-bit": "Налаштування глибини кольору, наприклад, 8 біт або 10 біт",
-    "Set the color range of RGB colour space": "Налаштування діапазону колірного простору RGB",
-    "Set the color space, such as RGB or YUV": "Налаштування колірного простору, наприклад, RGB або YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Вибір між динаміком пристрою та звуком зовнішнього монітора через HDMI-підключення",
     "Switch between overscan or underscan to fit the display screen": "Вибір вильоту розгортки для відповідності зображення екрану",
     "Under": "Без вильоту"
@@ -879,7 +875,6 @@
     "Cruise": "Круїз",
     "Default Governor": "Default Governor",
     "Fast": "Швидко",
-    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Неактивність. Вимикати Дисплей через",
@@ -901,7 +896,6 @@
     "Sleep Function": "Функція Сну",
     "Sleep Until Wake": "Sleep Until Wake",
     "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation",
     "Turbo": "Турбо"
   },
   "muxraopt": {
@@ -1199,8 +1193,7 @@
     "Settings that should only be changed by those who know what they are doing!": "Ці налаштування лише для тих, хто впевнений у своїх діях і знає що робить!",
     "Settings to change the HDMI output of the device": "Settings to change the HDMI output of the device",
     "Switch between different hotkeys for taking a screenshot": "Switch between different hotkeys for taking a screenshot",
-    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
-    "Toggle the device fancy RGB light system": "Toggle the device fancy RGB light system"
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap"
   },
   "muxvisual": {
     "Battery": "Батарея",

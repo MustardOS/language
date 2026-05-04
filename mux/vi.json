@@ -152,7 +152,6 @@
     "No Applications Found": "Không tìm thấy Ứng dụng nào",
     "PPSSPP": "PPSSPP (Giả lập PSP)",
     "PortMaster": "PortMaster (Game Port PC)",
-    "RGB Controller": "RGB Controller (Đổi màu tay cầm hỗ trợ RGB)",
     "RetroArch": "RetroArch (Giả lập chính)",
     "ScummVM": "ScummVM(Gỉa lập game Point n'Click cũ)",
     "Task Toolkit": "Công cụ Tác vụ"
@@ -481,9 +480,6 @@
     "Resolution": "Độ phân giải",
     "Scan Scaling": "Tỉ lệ quét",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Lựa chọn độ phân giải cho đầu ra HDMI, như là 720p hay 1080p",
-    "Set the color depth, such as 8-bit or 10-bit": "Cài đặt độ sâu màu sắc, như là 8-bit hay 10-bit",
-    "Set the color range of RGB colour space": "Cài đặt dải màu cho không gian màu RGB",
-    "Set the color space, such as RGB or YUV": "Cài đặt không gian màu, như là RGB hay YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Chuyển đổi giữa loa thiết bị hay âm thanh trên màn hình ngoài thông qua kết nối HDMI",
     "Switch between overscan or underscan to fit the display screen": "Chuyển đổi giữa chế độ quét trên hay quét dưới để phù hợp với thiết bị hiển thị",
     "Under": "Dưới"
@@ -879,7 +875,6 @@
     "Cruise": "Cruise",
     "Default Governor": "Chế độ Hiệu Năng mặc định",
     "Fast": "Fast",
-    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Hiển thị Chờ phải ít hơn chế độ Ngủ Chờ",
     "Idle Governor": "Chế độ Hiệu năng lúc nhàn rỗi",
     "Idle Input Display Timeout": "Thời gian chờ khi phím Display rảnh",
@@ -901,7 +896,6 @@
     "Sleep Function": "Chức năng Ngủ",
     "Sleep Until Wake": "Ngủ đến khi được đánh thức",
     "Toggle if the audio is muted when display is dimmed": "Bặt/tắt nếu như âm thanh bị tắt lúc màn hình đang bị làm mờ",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation",
     "Turbo": "Turbo"
   },
   "muxraopt": {
@@ -1199,8 +1193,7 @@
     "Settings that should only be changed by those who know what they are doing!": "Các cài đặt mà chỉ nên được thay đổi bởi những người biết mình đang làm gì!",
     "Settings to change the HDMI output of the device": "Các cài đặt để thay đổi đầu ra HDMI của thiết bị",
     "Switch between different hotkeys for taking a screenshot": "Thay đổi giữa các phím tắt khác nhau để chụp màn hình",
-    "Switch between different hotkeys for toggling DPAD swap": "Thay đổi giữa các phím tắt khác nhau cho phần tráo DPAD",
-    "Toggle the device fancy RGB light system": "Bật/tắt hệ thống đèn RGB"
+    "Switch between different hotkeys for toggling DPAD swap": "Thay đổi giữa các phím tắt khác nhau cho phần tráo DPAD"
   },
   "muxvisual": {
     "Battery": "Pin",

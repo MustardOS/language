@@ -152,7 +152,6 @@
     "No Applications Found": "ไม่พบแอปพลิเคชัน",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
-    "RGB Controller": "ตัวควบคุม RGB",
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Task Toolkit": "ชุดเครื่องมือจัดการงาน"
@@ -481,9 +480,6 @@
     "Resolution": "ความละเอียด",
     "Scan Scaling": "การสเกลสแกนหน้าจอ",
     "Select the resolution for HDMI output, such as 720p or 1080p": "เลือกความละเอียด HDMI เช่น 720p หรือ 1080p",
-    "Set the color depth, such as 8-bit or 10-bit": "ตั้งความลึกสี เช่น 8-bit หรือ 10-bit",
-    "Set the color range of RGB colour space": "ตั้งค่าช่วงสีของ RGB",
-    "Set the color space, such as RGB or YUV": "ตั้งค่าปริภูมิสี เช่น RGB หรือ YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "สลับเสียงระหว่างลำโพงเครื่องหรือจอภายนอก",
     "Switch between overscan or underscan to fit the display screen": "สลับระหว่าง Overscan หรือ Underscan ให้พอดีจอ",
     "Under": "น้อยเกิน (Under)"
@@ -879,7 +875,6 @@
     "Cruise": "Cruise (ปกติ)",
     "Default Governor": "ตัวควบคุม เริ่มต้น",
     "Fast": "Fast (เร็ว)",
-    "Frontend Screensaver": "ภาพพักหน้าจอ",
     "Idle Display must be less than Idle Sleep": "เวลาหรี่จอต้องน้อยกว่าเวลาพักเครื่อง",
     "Idle Governor": "ตัวควบคุม เมื่อเครื่องว่าง",
     "Idle Input Display Timeout": "เวลาหรี่จอเมื่อไม่มีการใช้งาน",
@@ -901,7 +896,6 @@
     "Sleep Function": "ฟังก์ชันพักเครื่อง",
     "Sleep Until Wake": "พักเครื่องจนกว่าจะปลุก",
     "Toggle if the audio is muted when display is dimmed": "สลับว่าจะปิดเสียงหรือไม่เมื่อหน้าจอหรี่ลง",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "สลับการใช้งานภาพพักหน้าจอเมื่อถึงเวลาหรี่จอ",
     "Turbo": "Turbo"
   },
   "muxraopt": {
@@ -1199,8 +1193,7 @@
     "Settings that should only be changed by those who know what they are doing!": "การตั้งค่าที่ควรเปลี่ยนโดยผู้ที่เข้าใจระบบเท่านั้น!",
     "Settings to change the HDMI output of the device": "ตั้งค่าเอาต์พุต HDMI ของเครื่อง",
     "Switch between different hotkeys for taking a screenshot": "เลือกปุ่มลัดต่างๆ สำหรับการถ่ายภาพหน้าจอ",
-    "Switch between different hotkeys for toggling DPAD swap": "เลือกปุ่มลัดต่างๆ สำหรับการสลับโหมด D-Pad",
-    "Toggle the device fancy RGB light system": "สลับระบบไฟ RGB ของเครื่อง"
+    "Switch between different hotkeys for toggling DPAD swap": "เลือกปุ่มลัดต่างๆ สำหรับการสลับโหมด D-Pad"
   },
   "muxvisual": {
     "Battery": "แบตเตอรี่",

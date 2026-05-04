@@ -152,7 +152,6 @@
     "No Applications Found": "Keine Programme gefunden",
     "PPSSPP": "PPSSPP",
     "PortMaster": "Port-Master",
-    "RGB Controller": "RGB Einstellungen",
     "RetroArch": "Retroarch",
     "ScummVM": "ScummVm",
     "Task Toolkit": "Tasktool"
@@ -481,9 +480,6 @@
     "Resolution": "Auflösung",
     "Scan Scaling": "Scanskalierung",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Auflösung für die HDMI-Ausgabe wählen, z. B. 720p oder 1080p",
-    "Set the color depth, such as 8-bit or 10-bit": "Farbtiefe einstellen, z. B. 8-Bit oder 10-Bit",
-    "Set the color range of RGB colour space": "Farbbereich des RGB-Farbraums einstellen",
-    "Set the color space, such as RGB or YUV": "Farbraum einstellen, z. B. RGB oder YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Zwischen Systemlautsprecher und externem Lautsprecher über HDMI-Anschluss umschalten",
     "Switch between overscan or underscan to fit the display screen": "Zwischen Overscan und Underscan zur Anpassung an den Bildschirm umschalten",
     "Under": "Underscan"
@@ -879,7 +875,6 @@
     "Cruise": "Cruise",
     "Default Governor": "Standard Governor",
     "Fast": "Fast",
-    "Frontend Screensaver": "Frontend Bildschirmschoner",
     "Idle Display must be less than Idle Sleep": "Idle-Display muss kleiner als Idle-Sleep sein",
     "Idle Governor": "Idle-Governor",
     "Idle Input Display Timeout": "Bildschirm-Timeout",
@@ -901,7 +896,6 @@
     "Sleep Function": "Schlaffunktion",
     "Sleep Until Wake": "Standby bis zum Wecken",
     "Toggle if the audio is muted when display is dimmed": "Ein- oder ausschalten, ob der Ton stumm geschaltet wird, wenn das Display abgeblendet ist",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Stelle den Bildschirmschoner und dir Aktivitätszeit ein",
     "Turbo": "Turbo"
   },
   "muxraopt": {
@@ -1199,8 +1193,7 @@
     "Settings that should only be changed by those who know what they are doing!": "Einstellungen, die nur von Personen geändert werden sollten, die wissen, was sie tun!",
     "Settings to change the HDMI output of the device": "Einstellungen zum ändern des HDMI-Ausgangs des System",
     "Switch between different hotkeys for taking a screenshot": "Wechseln Sie zwischen verschiedenen Hotkeys zum Aufnehmen eines Screenshots",
-    "Switch between different hotkeys for toggling DPAD swap": "Wechseln Sie zwischen verschiedenen Hotkeys zum Umschalten des DPAD-Swaps",
-    "Toggle the device fancy RGB light system": "Das ausgefallene RGB-Lichtsystem des Geräts ein- oder ausschalten"
+    "Switch between different hotkeys for toggling DPAD swap": "Wechseln Sie zwischen verschiedenen Hotkeys zum Umschalten des DPAD-Swaps"
   },
   "muxvisual": {
     "Battery": "Akku",

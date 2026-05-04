@@ -152,7 +152,6 @@
     "No Applications Found": "Aplikacije nisu pronađene",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
-    "RGB Controller": "RGB Controller",
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Task Toolkit": "Alati za zadatke"
@@ -481,9 +480,6 @@
     "Resolution": "Rezolucija",
     "Scan Scaling": "Skeniraj skaliranje",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Izaberite rezoluciju za HDMI izlaz, kao što je 720p ili 1080p",
-    "Set the color depth, such as 8-bit or 10-bit": "Postavite dubinu boje, kao što je 8-bitna ili 10-bitna",
-    "Set the color range of RGB colour space": "Postavite opseg boja RGB kolor palete",
-    "Set the color space, such as RGB or YUV": "Postavite kolor paletu, kao što su RGB ili YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Prebacite između zvučnika uređaja ili spoljnog monitora putem HDMI veze",
     "Switch between overscan or underscan to fit the display screen": "Prebaci između overscan i underscan opcija za optimizaciju prikaza na ekranu",
     "Under": "Under"
@@ -879,7 +875,6 @@
     "Cruise": "Cruise",
     "Default Governor": "Default Governor",
     "Fast": "Fast",
-    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Vreme isteka prikaza na ekranu u slučaju neaktivnosti",
@@ -901,7 +896,6 @@
     "Sleep Function": "Funkcija mirovanja",
     "Sleep Until Wake": "Stanje mirovanja do buđenja",
     "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation",
     "Turbo": "Turbo"
   },
   "muxraopt": {
@@ -1199,8 +1193,7 @@
     "Settings that should only be changed by those who know what they are doing!": "Podešavanja koja bi trebalo da menjaju samo oni koji znaju šta rade!",
     "Settings to change the HDMI output of the device": "Podešavanja za promenu HDMI izlaza uređaja",
     "Switch between different hotkeys for taking a screenshot": "Switch between different hotkeys for taking a screenshot",
-    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
-    "Toggle the device fancy RGB light system": "Toggle the device fancy RGB light system"
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap"
   },
   "muxvisual": {
     "Battery": "Baterija",

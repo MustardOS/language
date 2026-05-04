@@ -152,7 +152,6 @@
     "No Applications Found": "No Applications Found",
     "PPSSPP": "PPSSPP",
     "PortMaster": "PortMaster",
-    "RGB Controller": "RGB Controller",
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Task Toolkit": "Task Toolkit"
@@ -481,9 +480,6 @@
     "Resolution": "Resolution",
     "Scan Scaling": "Scan Scaling",
     "Select the resolution for HDMI output, such as 720p or 1080p": "Select the resolution for HDMI output, such as 720p or 1080p",
-    "Set the color depth, such as 8-bit or 10-bit": "Set the color depth, such as 8-bit or 10-bit",
-    "Set the color range of RGB colour space": "Set the color range of RGB colour space",
-    "Set the color space, such as RGB or YUV": "Set the color space, such as RGB or YUV",
     "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
     "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
     "Under": "Under"
@@ -879,7 +875,6 @@
     "Cruise": "Cruise",
     "Default Governor": "Default Governor",
     "Fast": "Fast",
-    "Frontend Screensaver": "Frontend Screensaver",
     "Idle Display must be less than Idle Sleep": "Idle Display must be less than Idle Sleep",
     "Idle Governor": "Idle Governor",
     "Idle Input Display Timeout": "Idle Input Display Timeout",
@@ -901,7 +896,6 @@
     "Sleep Function": "Sleep Function",
     "Sleep Until Wake": "Sleep Until Wake",
     "Toggle if the audio is muted when display is dimmed": "Toggle if the audio is muted when display is dimmed",
-    "Toggle the frontend screensaver on Idle Display Timeout activation": "Toggle the frontend screensaver on Idle Display Timeout activation",
     "Turbo": "Turbo"
   },
   "muxraopt": {
@@ -1199,8 +1193,7 @@
     "Settings that should only be changed by those who know what they are doing!": "Settings that should only be changed by those who know what they are doing!",
     "Settings to change the HDMI output of the device": "Settings to change the HDMI output of the device",
     "Switch between different hotkeys for taking a screenshot": "Switch between different hotkeys for taking a screenshot",
-    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap",
-    "Toggle the device fancy RGB light system": "Toggle the device fancy RGB light system"
+    "Switch between different hotkeys for toggling DPAD swap": "Switch between different hotkeys for toggling DPAD swap"
   },
   "muxvisual": {
     "Battery": "Battery",
