@@ -1109,8 +1109,7 @@
   "muxtester": {
     "INPUT TESTER": "INPUTTESTER",
     "Press DOWN + A to finish testing": "Tryk NED + A for at afslutte testen",
-    "Press DOWN + B to finish testing": "Tryk NED + B for at afslutte testen",
-    "Press any button to start input testing!": "Tryk på en vilkårlig knap for at starte inputtest!"
+    "Press DOWN + B to finish testing": "Tryk NED + B for at afslutte testen"
   },
   "muxthemedown": {
     "Download": "Hent",

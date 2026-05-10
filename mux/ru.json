@@ -1109,8 +1109,7 @@
   "muxtester": {
     "INPUT TESTER": "ПРОВЕРКА КНОПОК",
     "Press DOWN + A to finish testing": "Нажмите ВНИЗ + A для выхода",
-    "Press DOWN + B to finish testing": "Нажмите ВНИЗ + B для выхода",
-    "Press any button to start input testing!": "Нажмите любую кнопку для запуска проверки"
+    "Press DOWN + B to finish testing": "Нажмите ВНИЗ + B для выхода"
   },
   "muxthemedown": {
     "Download": "Скачать",

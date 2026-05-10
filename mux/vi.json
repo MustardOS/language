@@ -1109,8 +1109,7 @@
   "muxtester": {
     "INPUT TESTER": "KIỂM TRA PHÍM",
     "Press DOWN + A to finish testing": "Nhấn XUỐNG + A để hoàn tất kiểm tra",
-    "Press DOWN + B to finish testing": "Ấn XUỐNG + B để hoàn tất kiểm tra",
-    "Press any button to start input testing!": "Nhấn phím bất kỳ để kiểm tra phím!"
+    "Press DOWN + B to finish testing": "Ấn XUỐNG + B để hoàn tất kiểm tra"
   },
   "muxthemedown": {
     "Download": "Tải xuống",

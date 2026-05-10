@@ -1109,8 +1109,7 @@
   "muxtester": {
     "INPUT TESTER": "EINGABE TESTER",
     "Press DOWN + A to finish testing": "Drücke UNTEN + A, um den Test abzuschließen",
-    "Press DOWN + B to finish testing": "Drücke UNTEN + B, um den Test abzuschließen",
-    "Press any button to start input testing!": "Drücke eine beliebige Taste, um den Eingabe-Test zu starten!"
+    "Press DOWN + B to finish testing": "Drücke UNTEN + B, um den Test abzuschließen"
   },
   "muxthemedown": {
     "Download": "Download",

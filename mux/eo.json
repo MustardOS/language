@@ -1109,8 +1109,7 @@
   "muxtester": {
     "INPUT TESTER": "ENIGO-TESTILO",
     "Press DOWN + A to finish testing": "Premu MALSUPREN + A por fini testadon",
-    "Press DOWN + B to finish testing": "Premu MALSUPREN + B por fini testadon",
-    "Press any button to start input testing!": "Premu ajnan butonon por komenci enigo-testadon!"
+    "Press DOWN + B to finish testing": "Premu MALSUPREN + B por fini testadon"
   },
   "muxthemedown": {
     "Download": "Elŝuti",

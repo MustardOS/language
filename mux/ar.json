@@ -1109,8 +1109,7 @@
   "muxtester": {
     "INPUT TESTER": "فاحص الإدخال",
     "Press DOWN + A to finish testing": "Press DOWN + A to finish testing",
-    "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
-    "Press any button to start input testing!": "اضغط على أي زر لبدئ فحص الإدخال!"
+    "Press DOWN + B to finish testing": "Press DOWN + B to finish testing"
   },
   "muxthemedown": {
     "Download": "Download",

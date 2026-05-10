@@ -1109,8 +1109,7 @@
   "muxtester": {
     "INPUT TESTER": "ตัวทดสอบการกดปุ่ม",
     "Press DOWN + A to finish testing": "กด ลง + A เพื่อจบการทดสอบ",
-    "Press DOWN + B to finish testing": "กด ลง + B เพื่อจบการทดสอบ",
-    "Press any button to start input testing!": "กดปุ่มใดก็ได้เพื่อเริ่มทดสอบการกด!"
+    "Press DOWN + B to finish testing": "กด ลง + B เพื่อจบการทดสอบ"
   },
   "muxthemedown": {
     "Download": "ดาวน์โหลด",

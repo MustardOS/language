@@ -1109,8 +1109,7 @@
   "muxtester": {
     "INPUT TESTER": "TESTER DE INTRARE",
     "Press DOWN + A to finish testing": "Press DOWN + A to finish testing",
-    "Press DOWN + B to finish testing": "Press DOWN + B to finish testing",
-    "Press any button to start input testing!": "Apăsați orice buton pentru a începe testarea intrărilor!"
+    "Press DOWN + B to finish testing": "Press DOWN + B to finish testing"
   },
   "muxthemedown": {
     "Download": "Download",
