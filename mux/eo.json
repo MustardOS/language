@@ -1028,11 +1028,22 @@
     "Translated": "Tradukita"
   },
   "muxspace": {
+    "Date": "Date",
     "External Storage": "Ekstera memoro",
+    "Fake": "Fake",
+    "Filesystem": "Filesystem",
+    "Genuine": "Genuine",
+    "Likely Genuine": "Likely Genuine",
+    "Manufacturer": "Manufacturer",
+    "Model": "Model",
     "Primary Storage": "Ĉefa memoro",
+    "Quality Check": "Quality Check",
     "STORAGE SPACE": "MEMORA SPACO",
     "Secondary Storage": "Duaranga memoro",
+    "Suspected Fake": "Suspected Fake",
+    "Suspicious": "Suspicious",
     "System Storage": "Sistema memoro",
+    "Trash": "Trash",
     "View the current used space of the mounted storage devices": "Vidu la nunan uzitan spacon de la muntitaj memoriloj"
   },
   "muxstorage": {
