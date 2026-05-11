@@ -1028,11 +1028,22 @@
     "Translated": "Translated"
   },
   "muxspace": {
+    "Date": "Date",
     "External Storage": "Bộ nhớ Ngoài",
+    "Fake": "Fake",
+    "Filesystem": "Filesystem",
+    "Genuine": "Genuine",
+    "Likely Genuine": "Likely Genuine",
+    "Manufacturer": "Manufacturer",
+    "Model": "Model",
     "Primary Storage": "Bộ nhớ Chính",
+    "Quality Check": "Quality Check",
     "STORAGE SPACE": "DUNG LƯỢNG BỘ NHỚ",
     "Secondary Storage": "Bộ nhớ thứ hai",
+    "Suspected Fake": "Suspected Fake",
+    "Suspicious": "Suspicious",
     "System Storage": "Bộ nhớ hệ thống",
+    "Trash": "Trash",
     "View the current used space of the mounted storage devices": "Xem không gian đã sử dụng của các thiết bị lưu trữ đã kết nối"
   },
   "muxstorage": {
