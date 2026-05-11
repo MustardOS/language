@@ -1028,11 +1028,22 @@
     "Translated": "Přeloženo"
   },
   "muxspace": {
+    "Date": "Date",
     "External Storage": "Externí úložiště",
+    "Fake": "Fake",
+    "Filesystem": "Filesystem",
+    "Genuine": "Genuine",
+    "Likely Genuine": "Likely Genuine",
+    "Manufacturer": "Manufacturer",
+    "Model": "Model",
     "Primary Storage": "Primární úložiště",
+    "Quality Check": "Quality Check",
     "STORAGE SPACE": "ÚLOŽNÝ PROSTOR",
     "Secondary Storage": "Sekundární úložiště",
+    "Suspected Fake": "Suspected Fake",
+    "Suspicious": "Suspicious",
     "System Storage": "Systémové úložiště",
+    "Trash": "Trash",
     "View the current used space of the mounted storage devices": "Zobrazte aktuálně využitý prostor připojených úložných zařízení"
   },
   "muxstorage": {
