@@ -1028,11 +1028,22 @@
     "Translated": "已翻譯"
   },
   "muxspace": {
+    "Date": "Date",
     "External Storage": "外部儲存裝置",
+    "Fake": "Fake",
+    "Filesystem": "Filesystem",
+    "Genuine": "Genuine",
+    "Likely Genuine": "Likely Genuine",
+    "Manufacturer": "Manufacturer",
+    "Model": "Model",
     "Primary Storage": "主要儲存裝置",
+    "Quality Check": "Quality Check",
     "STORAGE SPACE": "儲存空間",
     "Secondary Storage": "二級儲存裝置",
+    "Suspected Fake": "Suspected Fake",
+    "Suspicious": "Suspicious",
     "System Storage": "系統儲存裝置",
+    "Trash": "Trash",
     "View the current used space of the mounted storage devices": "查看已掛載儲存設備的當前使用空間"
   },
   "muxstorage": {
