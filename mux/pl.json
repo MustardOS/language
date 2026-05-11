@@ -1028,11 +1028,22 @@
     "Translated": "Przetłumaczone"
   },
   "muxspace": {
+    "Date": "Date",
     "External Storage": "Zewnętrzna pamięć",
+    "Fake": "Fake",
+    "Filesystem": "Filesystem",
+    "Genuine": "Genuine",
+    "Likely Genuine": "Likely Genuine",
+    "Manufacturer": "Manufacturer",
+    "Model": "Model",
     "Primary Storage": "Główna pamięć",
+    "Quality Check": "Quality Check",
     "STORAGE SPACE": "MIEJSCE W PAMIĘCI",
     "Secondary Storage": "Dodatkowa pamięć",
+    "Suspected Fake": "Suspected Fake",
+    "Suspicious": "Suspicious",
     "System Storage": "Pamięć systemowa",
+    "Trash": "Trash",
     "View the current used space of the mounted storage devices": "Zobacz stan miejsca na zamontowanych urządzeniach przechowywania"
   },
   "muxstorage": {
