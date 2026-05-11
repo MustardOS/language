@@ -1028,11 +1028,22 @@
     "Translated": "Translated"
   },
   "muxspace": {
+    "Date": "Date",
     "External Storage": "外部ストレージ",
+    "Fake": "Fake",
+    "Filesystem": "Filesystem",
+    "Genuine": "Genuine",
+    "Likely Genuine": "Likely Genuine",
+    "Manufacturer": "Manufacturer",
+    "Model": "Model",
     "Primary Storage": "一次ストレージ",
+    "Quality Check": "Quality Check",
     "STORAGE SPACE": "ストレージ容量",
     "Secondary Storage": "ニ次ストレージ",
+    "Suspected Fake": "Suspected Fake",
+    "Suspicious": "Suspicious",
     "System Storage": "システムストレージ",
+    "Trash": "Trash",
     "View the current used space of the mounted storage devices": "利用しているストレージの使用量を表示します"
   },
   "muxstorage": {
