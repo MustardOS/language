@@ -1028,11 +1028,22 @@
     "Translated": "Translated"
   },
   "muxspace": {
+    "Date": "Date",
     "External Storage": "Vanjska pohrana",
+    "Fake": "Fake",
+    "Filesystem": "Filesystem",
+    "Genuine": "Genuine",
+    "Likely Genuine": "Likely Genuine",
+    "Manufacturer": "Manufacturer",
+    "Model": "Model",
     "Primary Storage": "Primarna pohrana",
+    "Quality Check": "Quality Check",
     "STORAGE SPACE": "PROSTOR POHRANE",
     "Secondary Storage": "Sekundarna pohrana",
+    "Suspected Fake": "Suspected Fake",
+    "Suspicious": "Suspicious",
     "System Storage": "Sistemska pohrana",
+    "Trash": "Trash",
     "View the current used space of the mounted storage devices": "Pregledaj iskorištenost prostora montiranih uređaja za pohranu"
   },
   "muxstorage": {
