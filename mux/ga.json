@@ -1028,11 +1028,22 @@
     "Translated": "Aistrithe"
   },
   "muxspace": {
+    "Date": "Date",
     "External Storage": "Stóráil Sheachtrach",
+    "Fake": "Fake",
+    "Filesystem": "Filesystem",
+    "Genuine": "Genuine",
+    "Likely Genuine": "Likely Genuine",
+    "Manufacturer": "Manufacturer",
+    "Model": "Model",
     "Primary Storage": "Stóráil Phríomhúil",
+    "Quality Check": "Quality Check",
     "STORAGE SPACE": "SPÁS STÓRÁIL",
     "Secondary Storage": "Stóráil Thánaisteach",
+    "Suspected Fake": "Suspected Fake",
+    "Suspicious": "Suspicious",
     "System Storage": "Stóráil Córais",
+    "Trash": "Trash",
     "View the current used space of the mounted storage devices": "Féach ar an spás a úsáidtear faoi láthair de na gléasanna stórála gléasta"
   },
   "muxstorage": {
