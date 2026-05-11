@@ -1028,11 +1028,22 @@
     "Translated": "번역됨"
   },
   "muxspace": {
+    "Date": "Date",
     "External Storage": "외부 저장소",
+    "Fake": "Fake",
+    "Filesystem": "Filesystem",
+    "Genuine": "Genuine",
+    "Likely Genuine": "Likely Genuine",
+    "Manufacturer": "Manufacturer",
+    "Model": "Model",
     "Primary Storage": "1차 저장소",
+    "Quality Check": "Quality Check",
     "STORAGE SPACE": "저장 공간",
     "Secondary Storage": "2차 저장소",
+    "Suspected Fake": "Suspected Fake",
+    "Suspicious": "Suspicious",
     "System Storage": "시스템 저장소",
+    "Trash": "Trash",
     "View the current used space of the mounted storage devices": "마운트된 저장 장치의 현재 사용된 공간 보기"
   },
   "muxstorage": {
