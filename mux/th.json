@@ -1028,11 +1028,22 @@
     "Translated": "แปลแล้ว"
   },
   "muxspace": {
+    "Date": "Date",
     "External Storage": "ที่เก็บข้อมูลภายนอก",
+    "Fake": "Fake",
+    "Filesystem": "Filesystem",
+    "Genuine": "Genuine",
+    "Likely Genuine": "Likely Genuine",
+    "Manufacturer": "Manufacturer",
+    "Model": "Model",
     "Primary Storage": "ที่เก็บข้อมูลหลัก",
+    "Quality Check": "Quality Check",
     "STORAGE SPACE": "พื้นที่เก็บข้อมูล",
     "Secondary Storage": "ที่เก็บข้อมูลรอง",
+    "Suspected Fake": "Suspected Fake",
+    "Suspicious": "Suspicious",
     "System Storage": "ที่เก็บข้อมูลระบบ",
+    "Trash": "Trash",
     "View the current used space of the mounted storage devices": "ดูพื้นที่ที่ใช้งานอยู่ของอุปกรณ์เก็บข้อมูลที่ติดตั้ง"
   },
   "muxstorage": {
