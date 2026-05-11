@@ -1028,11 +1028,22 @@
     "Translated": "Переведено"
   },
   "muxspace": {
+    "Date": "Date",
     "External Storage": "Внешняя память",
+    "Fake": "Fake",
+    "Filesystem": "Filesystem",
+    "Genuine": "Genuine",
+    "Likely Genuine": "Likely Genuine",
+    "Manufacturer": "Manufacturer",
+    "Model": "Model",
     "Primary Storage": "Основная память",
+    "Quality Check": "Quality Check",
     "STORAGE SPACE": "ПАМЯТЬ",
     "Secondary Storage": "Дополнительная память",
+    "Suspected Fake": "Suspected Fake",
+    "Suspicious": "Suspicious",
     "System Storage": "Системная память",
+    "Trash": "Trash",
     "View the current used space of the mounted storage devices": "Используемое пространство на установленных устройствах хранения данных"
   },
   "muxstorage": {
