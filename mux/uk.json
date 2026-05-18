@@ -159,7 +159,8 @@
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Songo#5": "Songo#5",
-    "Task Toolkit": "Набір завдань"
+    "Task Toolkit": "Набір завдань",
+    "vTree Gold": "vTree Gold"
   },
   "muxappcon": {
     "APPLICATION OPTION": "ОПЦІЇ ДОДАТКУ",
@@ -1188,6 +1189,7 @@
     "DPAD + R Stick": "DPAD + R Stick",
     "DPAD Only": "DPAD Only",
     "DPAD Swap Function": "Функція заміни DPAD",
+    "Debug Logging": "Debug Logging",
     "Device Lid Switch": "Device Lid Switch",
     "Device Rumble": "Вібро-відклик Пристрою",
     "Display Suspend": "Display Suspend",
@@ -1225,6 +1227,7 @@
     "System ZRam": "System ZRam",
     "Thermal Zone Control": "Контроль Температурної Зони",
     "Toggle a delayed start of RetroArch until a network connection is established": "Включити відкладений старт RetroArch до встановлення з\"єднання з мережею",
+    "Toggle additional debug logging written to the internal log directory for diagnostic purposes only": "Toggle additional debug logging written to the internal log directory for diagnostic purposes only",
     "Toggle if the device will wait for the audio subsystem to initialise during boot": "Toggle if the device will wait for the audio subsystem to initialise during boot",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Вмикати детальні повідомлення при запуску та вимкненні, що використовуються при відладці",
     "Toggle the audio overdrive moving it from 100% to 200%": "Toggle the audio overdrive moving it from 100% to 200%",
