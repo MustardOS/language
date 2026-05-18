@@ -159,7 +159,8 @@
     "RetroArch": "레트로아크 실행",
     "ScummVM": "ScummVM 실행",
     "Songo#5": "Songo#5",
-    "Task Toolkit": "태스크 툴킷"
+    "Task Toolkit": "태스크 툴킷",
+    "vTree Gold": "vTree Gold"
   },
   "muxappcon": {
     "APPLICATION OPTION": "어플리케이션 옵션",
@@ -1188,6 +1189,7 @@
     "DPAD + R Stick": "DPAD + R 스틱",
     "DPAD Only": "DPAD 만",
     "DPAD Swap Function": "DPAD 스왑 기능",
+    "Debug Logging": "Debug Logging",
     "Device Lid Switch": "장치 덮개 스위치",
     "Device Rumble": "장치 진동",
     "Display Suspend": "디스플레이 일시중지",
@@ -1225,6 +1227,7 @@
     "System ZRam": "시스템 ZRam",
     "Thermal Zone Control": "써멀 존 컨트롤",
     "Toggle a delayed start of RetroArch until a network connection is established": "네트워크 연결이 설정될 때까지 레트로아크의 시작 지연 여부 전환",
+    "Toggle additional debug logging written to the internal log directory for diagnostic purposes only": "Toggle additional debug logging written to the internal log directory for diagnostic purposes only",
     "Toggle if the device will wait for the audio subsystem to initialise during boot": "부팅 중에 오디오 서브시스템이 초기화될 때까지 장치가 기다릴지 여부를 전환함",
     "Toggle startup and shutdown verbose messages used for debugging faults": "시작과 종료 시에 오류 디버깅 용도의 메시지 출력 여부 전환",
     "Toggle the audio overdrive moving it from 100% to 200%": "오디오 오버드라이브를 100%에서 200%로 전환",
