@@ -159,7 +159,8 @@
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Songo#5": "Songo#5",
-    "Task Toolkit": "Set de instrumente pentru sarcini"
+    "Task Toolkit": "Set de instrumente pentru sarcini",
+    "vTree Gold": "vTree Gold"
   },
   "muxappcon": {
     "APPLICATION OPTION": "APPLICATION OPTION",
@@ -1188,6 +1189,7 @@
     "DPAD + R Stick": "DPAD + R Stick",
     "DPAD Only": "DPAD Only",
     "DPAD Swap Function": "Funcție Inversare DPAD",
+    "Debug Logging": "Debug Logging",
     "Device Lid Switch": "Device Lid Switch",
     "Device Rumble": "Vibrație Dispozitiv",
     "Display Suspend": "Display Suspend",
@@ -1225,6 +1227,7 @@
     "System ZRam": "System ZRam",
     "Thermal Zone Control": "Control Zonă Termică",
     "Toggle a delayed start of RetroArch until a network connection is established": "Activează o pornire întârziată a RetroArch până când este stabilită o conexiune la rețea",
+    "Toggle additional debug logging written to the internal log directory for diagnostic purposes only": "Toggle additional debug logging written to the internal log directory for diagnostic purposes only",
     "Toggle if the device will wait for the audio subsystem to initialise during boot": "Toggle if the device will wait for the audio subsystem to initialise during boot",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Activează/dezactivează mesajele detaliate de pornire și oprire utilizate pentru depanare",
     "Toggle the audio overdrive moving it from 100% to 200%": "Activează supramodularea audio, crescând-o de la 100% la 200%",
