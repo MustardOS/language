@@ -159,7 +159,8 @@
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Songo#5": "Songo#5",
-    "Task Toolkit": "Alati zadataka"
+    "Task Toolkit": "Alati zadataka",
+    "vTree Gold": "vTree Gold"
   },
   "muxappcon": {
     "APPLICATION OPTION": "OPCIJE APLIKACIJE",
@@ -1188,6 +1189,7 @@
     "DPAD + R Stick": "DPAD + R Stick",
     "DPAD Only": "DPAD Only",
     "DPAD Swap Function": "Zamjena DPAD funkcije",
+    "Debug Logging": "Debug Logging",
     "Device Lid Switch": "Prekidač poklopca uređaja",
     "Device Rumble": "Vibracije uređaja",
     "Display Suspend": "Gašenje zaslona",
@@ -1225,6 +1227,7 @@
     "System ZRam": "Sustavni ZRam",
     "Thermal Zone Control": "Kontrola temperature",
     "Toggle a delayed start of RetroArch until a network connection is established": "Odgodi pokretanje RetroArcha dok se ne uspostavi mreža",
+    "Toggle additional debug logging written to the internal log directory for diagnostic purposes only": "Toggle additional debug logging written to the internal log directory for diagnostic purposes only",
     "Toggle if the device will wait for the audio subsystem to initialise during boot": "Toggle if the device will wait for the audio subsystem to initialise during boot",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Uključi detaljne poruke pri pokretanju/gašenju (debugging)",
     "Toggle the audio overdrive moving it from 100% to 200%": "Uključi pojačanje zvuka (100% → 200%)",
