@@ -159,7 +159,8 @@
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Songo#5": "Songo#5",
-    "Task Toolkit": "ชุดเครื่องมือจัดการงาน"
+    "Task Toolkit": "ชุดเครื่องมือจัดการงาน",
+    "vTree Gold": "vTree Gold"
   },
   "muxappcon": {
     "APPLICATION OPTION": "ตัวเลือกแอปพลิเคชัน",
@@ -1188,6 +1189,7 @@
     "DPAD + R Stick": "D-Pad + อนาล็อกขวา",
     "DPAD Only": "D-Pad เท่านั้น",
     "DPAD Swap Function": "ฟังก์ชันสลับ D-Pad",
+    "Debug Logging": "Debug Logging",
     "Device Lid Switch": "สวิตช์ฝาพับ",
     "Device Rumble": "การสั่นของเครื่อง",
     "Display Suspend": "ปิดหน้าจอชั่วคราว",
@@ -1225,6 +1227,7 @@
     "System ZRam": "ZRam ระบบ",
     "Thermal Zone Control": "ควบคุมอุณหภูมิ",
     "Toggle a delayed start of RetroArch until a network connection is established": "หน่วงเวลาการเริ่ม RetroArch จนกว่าจะเชื่อมต่อเครือข่ายได้",
+    "Toggle additional debug logging written to the internal log directory for diagnostic purposes only": "Toggle additional debug logging written to the internal log directory for diagnostic purposes only",
     "Toggle if the device will wait for the audio subsystem to initialise during boot": "สลับว่าจะให้เครื่องรอระบบเสียงเตรียมการขณะเปิดเครื่องหรือไม่",
     "Toggle startup and shutdown verbose messages used for debugging faults": "สลับการแสดงข้อความละเอียดขณะเปิด/ปิดเครื่องเพื่อแก้ปัญหา",
     "Toggle the audio overdrive moving it from 100% to 200%": "สลับการเร่งเสียงจาก 100% เป็น 200%",
