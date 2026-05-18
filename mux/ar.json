@@ -159,7 +159,8 @@
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Songo#5": "Songo#5",
-    "Task Toolkit": "أدوات المهام"
+    "Task Toolkit": "أدوات المهام",
+    "vTree Gold": "vTree Gold"
   },
   "muxappcon": {
     "APPLICATION OPTION": "APPLICATION OPTION",
@@ -1188,6 +1189,7 @@
     "DPAD + R Stick": "DPAD + R Stick",
     "DPAD Only": "DPAD Only",
     "DPAD Swap Function": "وظيفة تبديل DPAD",
+    "Debug Logging": "Debug Logging",
     "Device Lid Switch": "Device Lid Switch",
     "Device Rumble": "اهتزاز الجهاز",
     "Display Suspend": "Display Suspend",
@@ -1225,6 +1227,7 @@
     "System ZRam": "ذاكرة الوصول العشوائي للنظام",
     "Thermal Zone Control": "إدارة المنطقة الحرارية",
     "Toggle a delayed start of RetroArch until a network connection is established": "تبديل البدء المتأخر لـ RetroArch حتى يتم إنشاء اتصال بالشبكة",
+    "Toggle additional debug logging written to the internal log directory for diagnostic purposes only": "Toggle additional debug logging written to the internal log directory for diagnostic purposes only",
     "Toggle if the device will wait for the audio subsystem to initialise during boot": "Toggle if the device will wait for the audio subsystem to initialise during boot",
     "Toggle startup and shutdown verbose messages used for debugging faults": "تبديل رسائل بدء التشغيل وإيقاف التشغيل المفصلة المستخدمة في تصحيح الأخطاء",
     "Toggle the audio overdrive moving it from 100% to 200%": "تبديل تشغيل تضخيم الصوت من 100% إلى 200%",
