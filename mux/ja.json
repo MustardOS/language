@@ -159,7 +159,8 @@
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Songo#5": "Songo#5",
-    "Task Toolkit": "タスクツール集"
+    "Task Toolkit": "タスクツール集",
+    "vTree Gold": "vTree Gold"
   },
   "muxappcon": {
     "APPLICATION OPTION": "アプリケーションオプション",
@@ -1188,6 +1189,7 @@
     "DPAD + R Stick": "十字キー + Rスティック",
     "DPAD Only": "十字キーのみ",
     "DPAD Swap Function": "十字キーの挙動切り替え",
+    "Debug Logging": "Debug Logging",
     "Device Lid Switch": "デバイス開閉スイッチ",
     "Device Rumble": "デバイスを振動",
     "Display Suspend": "ディスプレイ一時消灯",
@@ -1225,6 +1227,7 @@
     "System ZRam": "システム ZRam",
     "Thermal Zone Control": "サーマルゾーン制御",
     "Toggle a delayed start of RetroArch until a network connection is established": "ネットワークに接続するまで RetroArch の起動を待機します",
+    "Toggle additional debug logging written to the internal log directory for diagnostic purposes only": "Toggle additional debug logging written to the internal log directory for diagnostic purposes only",
     "Toggle if the device will wait for the audio subsystem to initialise during boot": "起動時にデバイスがオーディオサブシステムの初期化を待機するかどうかを設定します",
     "Toggle startup and shutdown verbose messages used for debugging faults": "システムの起動・終了時に詳細を表示します\n（デバッグ用途）",
     "Toggle the audio overdrive moving it from 100% to 200%": "最大音量を 100% から 200% へ切り替えます",
