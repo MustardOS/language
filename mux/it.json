@@ -159,7 +159,8 @@
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Songo#5": "Songo#5",
-    "Task Toolkit": "Strumenti per le Attività"
+    "Task Toolkit": "Strumenti per le Attività",
+    "vTree Gold": "vTree Gold"
   },
   "muxappcon": {
     "APPLICATION OPTION": "OPZIONI APPLICAZIONI",
@@ -1188,6 +1189,7 @@
     "DPAD + R Stick": "DPAD + R Stick",
     "DPAD Only": "DPAD Only",
     "DPAD Swap Function": "Funzione di Scambio DPAD",
+    "Debug Logging": "Debug Logging",
     "Device Lid Switch": "Funzione Chiusura Coperchio",
     "Device Rumble": "Vibrazione del Dispositivo",
     "Display Suspend": "Sospensione Schermo",
@@ -1225,6 +1227,7 @@
     "System ZRam": "ZRam di Sistema",
     "Thermal Zone Control": "Controllo Zona Termica",
     "Toggle a delayed start of RetroArch until a network connection is established": "Abilita/disabilita il ritardo nell'avvio di RetroArch fino a quando non viene stabilita una connessione di rete",
+    "Toggle additional debug logging written to the internal log directory for diagnostic purposes only": "Toggle additional debug logging written to the internal log directory for diagnostic purposes only",
     "Toggle if the device will wait for the audio subsystem to initialise during boot": "Toggle if the device will wait for the audio subsystem to initialise during boot",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Attiva/disattiva i messaggi dettagliati di avvio e spegnimento utilizzati per il debug degli errori",
     "Toggle the audio overdrive moving it from 100% to 200%": "Attiva l'overdrive audio spostandolo dal 100% al 200%",
