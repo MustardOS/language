@@ -159,7 +159,8 @@
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Songo#5": "Songo#5",
-    "Task Toolkit": "Sada nástrojů"
+    "Task Toolkit": "Sada nástrojů",
+    "vTree Gold": "vTree Gold"
   },
   "muxappcon": {
     "APPLICATION OPTION": "MOŽNOST APLIKACE",
@@ -1188,6 +1189,7 @@
     "DPAD + R Stick": "DPAD + pravá páčka",
     "DPAD Only": "Pouze DPAD",
     "DPAD Swap Function": "Funkce výměny DPAD",
+    "Debug Logging": "Debug Logging",
     "Device Lid Switch": "Přepínač víka zařízení",
     "Device Rumble": "Vibrace zařízení",
     "Display Suspend": "Pozastavení zobrazení",
@@ -1225,6 +1227,7 @@
     "System ZRam": "Systém ZRam",
     "Thermal Zone Control": "Ovládání tepelné zóny",
     "Toggle a delayed start of RetroArch until a network connection is established": "Přepněte odložený start RetroArch, dokud nebude navázáno síťové připojení",
+    "Toggle additional debug logging written to the internal log directory for diagnostic purposes only": "Toggle additional debug logging written to the internal log directory for diagnostic purposes only",
     "Toggle if the device will wait for the audio subsystem to initialise during boot": "Přepněte, zda zařízení bude během spouštění čekat na inicializaci zvukového subsystému",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Zapnout a vypnout podrobné zprávy používané pro ladění chyb",
     "Toggle the audio overdrive moving it from 100% to 200%": "Přepínání přebuzení zvuku v rozsahu 100 % až 200 %",
