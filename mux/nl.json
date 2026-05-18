@@ -159,7 +159,8 @@
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Songo#5": "Songo#5",
-    "Task Toolkit": "Gereedschappen"
+    "Task Toolkit": "Gereedschappen",
+    "vTree Gold": "vTree Gold"
   },
   "muxappcon": {
     "APPLICATION OPTION": "APPLICATIE-INSTELLING",
@@ -1188,6 +1189,7 @@
     "DPAD + R Stick": "DPAD + R Stick",
     "DPAD Only": "DPAD Only",
     "DPAD Swap Function": "Selectiepad wisselfunctie",
+    "Debug Logging": "Debug Logging",
     "Device Lid Switch": "Device Lid Switch",
     "Device Rumble": "Trillingsinstelling",
     "Display Suspend": "Display Suspend",
@@ -1225,6 +1227,7 @@
     "System ZRam": "System ZRam",
     "Thermal Zone Control": "Thermische regeling",
     "Toggle a delayed start of RetroArch until a network connection is established": "Toggle a delayed start of RetroArch until a network connection is established",
+    "Toggle additional debug logging written to the internal log directory for diagnostic purposes only": "Toggle additional debug logging written to the internal log directory for diagnostic purposes only",
     "Toggle if the device will wait for the audio subsystem to initialise during boot": "Toggle if the device will wait for the audio subsystem to initialise during boot",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Toggle startup and shutdown verbose messages used for debugging faults",
     "Toggle the audio overdrive moving it from 100% to 200%": "Maximaal audiovolume van 100% op 200% verhogen",
