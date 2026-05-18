@@ -159,7 +159,8 @@
     "RetroArch": "RetroArch (Giả lập chính)",
     "ScummVM": "ScummVM(Gỉa lập game Point n'Click cũ)",
     "Songo#5": "Songo#5",
-    "Task Toolkit": "Công cụ Tác vụ"
+    "Task Toolkit": "Công cụ Tác vụ",
+    "vTree Gold": "vTree Gold"
   },
   "muxappcon": {
     "APPLICATION OPTION": "CÀI ĐẶT ỨNG DỤNG",
@@ -1188,6 +1189,7 @@
     "DPAD + R Stick": "DPAD + R Stick",
     "DPAD Only": "DPAD Only",
     "DPAD Swap Function": "Chức năng tráo DPAD",
+    "Debug Logging": "Debug Logging",
     "Device Lid Switch": "Công tắc Mở nắp Thiết bị",
     "Device Rumble": "Rung Thiết bị",
     "Display Suspend": "Tạm ngừng hiển thị",
@@ -1225,6 +1227,7 @@
     "System ZRam": "ZRam Hệ thống",
     "Thermal Zone Control": "Kiểm soát vùng nhiệt",
     "Toggle a delayed start of RetroArch until a network connection is established": "Bật/tắt một khoảng trì hoãn khi bắt đầu RetroArch cho đến khi kết nối mạng thành công",
+    "Toggle additional debug logging written to the internal log directory for diagnostic purposes only": "Toggle additional debug logging written to the internal log directory for diagnostic purposes only",
     "Toggle if the device will wait for the audio subsystem to initialise during boot": "Bật/tắt cho việc thiết bị sẽ đợi hệ thống âm thanh phụ được khởi tạo khi khởi động",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Bật/tắt thông điệp dạng thô sơ khi khởi động và tắt nguồn sử dụng cho việc gỡ lỗi",
     "Toggle the audio overdrive moving it from 100% to 200%": "Bật tắt việc tăng cường âm lượng cho phép chúng di chuyển từ 100% lên đến 200%",
