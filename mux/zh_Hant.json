@@ -159,7 +159,8 @@
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Songo#5": "Songo#5",
-    "Task Toolkit": "任務工具箱"
+    "Task Toolkit": "任務工具箱",
+    "vTree Gold": "vTree Gold"
   },
   "muxappcon": {
     "APPLICATION OPTION": "應用程式選項",
@@ -1188,6 +1189,7 @@
     "DPAD + R Stick": "方向鍵 + 右搖桿",
     "DPAD Only": "僅限DPAD",
     "DPAD Swap Function": "方向鍵交換功能",
+    "Debug Logging": "Debug Logging",
     "Device Lid Switch": "設備翻蓋開關",
     "Device Rumble": "震動提示",
     "Display Suspend": "顯示暫停",
@@ -1225,6 +1227,7 @@
     "System ZRam": "記憶體壓縮",
     "Thermal Zone Control": "溫控保護",
     "Toggle a delayed start of RetroArch until a network connection is established": "延遲啟動RetroArch直到建立網路連接",
+    "Toggle additional debug logging written to the internal log directory for diagnostic purposes only": "Toggle additional debug logging written to the internal log directory for diagnostic purposes only",
     "Toggle if the device will wait for the audio subsystem to initialise during boot": "切換設備是否在啟動過程中等待音訊子系統完成初始化",
     "Toggle startup and shutdown verbose messages used for debugging faults": "當系統啟動和關閉時儲存用於調試故障的詳細訊息",
     "Toggle the audio overdrive moving it from 100% to 200%": "設置是否允許音量從100%過載至200%",
