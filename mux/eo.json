@@ -159,7 +159,8 @@
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Songo#5": "Songo#5",
-    "Task Toolkit": "Ilaro de taskoj"
+    "Task Toolkit": "Ilaro de taskoj",
+    "vTree Gold": "vTree Gold"
   },
   "muxappcon": {
     "APPLICATION OPTION": "APLIKAĴA OPCIO",
@@ -1188,6 +1189,7 @@
     "DPAD + R Stick": "DPAD + R Bastono",
     "DPAD Only": "Nur DPAD",
     "DPAD Swap Function": "DPAD-interŝanĝa funkcio",
+    "Debug Logging": "Debug Logging",
     "Device Lid Switch": "Aparata kovrilo-ŝaltilo",
     "Device Rumble": "Aparata vibrado",
     "Display Suspend": "Ekrana suspendo",
@@ -1225,6 +1227,7 @@
     "System ZRam": "Sistema ZRam",
     "Thermal Zone Control": "Terma zono-kontrolo",
     "Toggle a delayed start of RetroArch until a network connection is established": "Baskuligu prokrastitan komencadon de RetroArch ĝis reta konekto estas establita",
+    "Toggle additional debug logging written to the internal log directory for diagnostic purposes only": "Toggle additional debug logging written to the internal log directory for diagnostic purposes only",
     "Toggle if the device will wait for the audio subsystem to initialise during boot": "Baskuligu ĉu la aparato atendos la aŭdian subsistemon inicialigi dum praŝargo",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Baskuligu praŝargajn kaj fermajn verbajn mesaĝojn uzitajn por sencimi erarojn",
     "Toggle the audio overdrive moving it from 100% to 200%": "Baskuligu la aŭdian superŝarĝon movante ĝin de 100% al 200%",
