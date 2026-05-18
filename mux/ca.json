@@ -159,7 +159,8 @@
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Songo#5": "Songo#5",
-    "Task Toolkit": "Eines per a tasques"
+    "Task Toolkit": "Eines per a tasques",
+    "vTree Gold": "vTree Gold"
   },
   "muxappcon": {
     "APPLICATION OPTION": "APPLICATION OPTION",
@@ -1188,6 +1189,7 @@
     "DPAD + R Stick": "DPAD + R Stick",
     "DPAD Only": "DPAD Only",
     "DPAD Swap Function": "Funció d'intercanvi de DPAD",
+    "Debug Logging": "Debug Logging",
     "Device Lid Switch": "Interruptor de tapa del dispositiu",
     "Device Rumble": "Vibració del dispositiu",
     "Display Suspend": "Suspendre pantalla",
@@ -1225,6 +1227,7 @@
     "System ZRam": "ZRam del sistema",
     "Thermal Zone Control": "Control de zona tèrmica",
     "Toggle a delayed start of RetroArch until a network connection is established": "Activa o desactiva un retard d'inici a RetroArch fins que s’estableixi una connexió de xarxa",
+    "Toggle additional debug logging written to the internal log directory for diagnostic purposes only": "Toggle additional debug logging written to the internal log directory for diagnostic purposes only",
     "Toggle if the device will wait for the audio subsystem to initialise during boot": "Toggle if the device will wait for the audio subsystem to initialise during boot",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Activa o desactiva els missatges detallats d’inici i apagada utilitzats per a la depuració d’errors",
     "Toggle the audio overdrive moving it from 100% to 200%": "Activa o desactiva l’overdrive d’àudio augmentant-lo del 100% al 200%",
