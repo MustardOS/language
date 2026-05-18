@@ -159,7 +159,8 @@
     "RetroArch": "RetroArch",
     "ScummVM": "ScummVM",
     "Songo#5": "Songo#5",
-    "Task Toolkit": "Инструменты"
+    "Task Toolkit": "Инструменты",
+    "vTree Gold": "vTree Gold"
   },
   "muxappcon": {
     "APPLICATION OPTION": "Настройки приложений",
@@ -1188,6 +1189,7 @@
     "DPAD + R Stick": "Крестовина + П стик",
     "DPAD Only": "Крестовина",
     "DPAD Swap Function": "Эмуляция аналогового стика",
+    "Debug Logging": "Debug Logging",
     "Device Lid Switch": "Выключатель крышки устройства",
     "Device Rumble": "Вибрация",
     "Display Suspend": "Отключение экрана",
@@ -1225,6 +1227,7 @@
     "System ZRam": "Системная память ZRAM",
     "Thermal Zone Control": "Управление тепловой зоной",
     "Toggle a delayed start of RetroArch until a network connection is established": "Настройка отложенного запуска RetroArch до установления сетевого соединения",
+    "Toggle additional debug logging written to the internal log directory for diagnostic purposes only": "Toggle additional debug logging written to the internal log directory for diagnostic purposes only",
     "Toggle if the device will wait for the audio subsystem to initialise during boot": "Настройка ожидания инициализации аудиоподсистемы во время включения",
     "Toggle startup and shutdown verbose messages used for debugging faults": "Настройка подробных сообщений при запуске и завершении работы системы, используемых для отладки",
     "Toggle the audio overdrive moving it from 100% to 200%": "Увеличение максимальной громкости со 100% до 200%",
