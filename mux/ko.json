@@ -329,7 +329,6 @@
     "Network Settings": "네트워크 설정",
     "Toggle a range of configurable services you can access via an active network": "네트워크 활성을 통해 액세스할 수 있는 구성 가능한 서비스를 전환",
     "Toggle between ADB and MTP USB functionality": "USB의 기능을 ADB 또는 MTP 로 전환",
-    "Toggle the visibility of the bluetooth glyph": "블루투스 기호 표시 여부를 전환",
     "USB Function": "USB 기능",
     "Web Services": "웹 서비스",
     "Wi-Fi Network": "Wi-Fi 네트워크"
@@ -775,7 +774,6 @@
     "Password": "비밀번호",
     "Please check network settings": "네트워크 설정을 확인하세요",
     "Profiles": "프로필",
-    "Scan": "스캔",
     "Static": "Static 방식",
     "Subnet CIDR": "서브넷 CIDR",
     "Toggle between DHCP and Static network types": "DHCP와 Static 네트워크 유형 간 전환",

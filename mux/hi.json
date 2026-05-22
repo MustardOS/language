@@ -329,7 +329,6 @@
     "Network Settings": "Network Settings",
     "Toggle a range of configurable services you can access via an active network": "Toggle a range of configurable services you can access via an active network",
     "Toggle between ADB and MTP USB functionality": "Toggle between ADB and MTP USB functionality",
-    "Toggle the visibility of the bluetooth glyph": "Toggle the visibility of the bluetooth glyph",
     "USB Function": "USB Function",
     "Web Services": "Web Services",
     "Wi-Fi Network": "Wi-Fi Network"
@@ -775,7 +774,6 @@
     "Password": "पासवर्ड",
     "Please check network settings": "कृपया नेटवर्क सेटिंग जांचें",
     "Profiles": "प्रोफ़ाइल",
-    "Scan": "स्कैन",
     "Static": "स्थैतिक",
     "Subnet CIDR": "सबनेट सीआईडीआर",
     "Toggle between DHCP and Static network types": "Toggle between DHCP and Static network types",

@@ -329,7 +329,6 @@
     "Network Settings": "網路設定",
     "Toggle a range of configurable services you can access via an active network": "切換您可以透過活動網路存取的一系列可設定服務",
     "Toggle between ADB and MTP USB functionality": "在 ADB 和 MTP USB 功能之間切換",
-    "Toggle the visibility of the bluetooth glyph": "切換藍牙圖標的顯示",
     "USB Function": "USB功能",
     "Web Services": "網路服務",
     "Wi-Fi Network": "無線網路"
@@ -775,7 +774,6 @@
     "Password": "密碼",
     "Please check network settings": "請檢查網路設定",
     "Profiles": "描述檔",
-    "Scan": "掃描",
     "Static": "靜態",
     "Subnet CIDR": "子網路CIDR",
     "Toggle between DHCP and Static network types": "在DHCP和靜態網路類型之間切換",

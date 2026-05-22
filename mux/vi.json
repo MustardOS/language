@@ -329,7 +329,6 @@
     "Network Settings": "Cài đặt Mạng",
     "Toggle a range of configurable services you can access via an active network": "Bật/tắt một loạt các dịch vụ có thể cấu hình mà bạn có thể truy cập thông qua mạng đang hoạt động",
     "Toggle between ADB and MTP USB functionality": "Chuyển đổi giữa chức năng ADB và MTP của USB",
-    "Toggle the visibility of the bluetooth glyph": "Bật/tắt hiển thị biểu tượng Bluetooth",
     "USB Function": "Chức năng USB",
     "Web Services": "Các dịch vụ Web",
     "Wi-Fi Network": "Mạng Wi-Fi"
@@ -775,7 +774,6 @@
     "Password": "Mật khẩu",
     "Please check network settings": "Vui lòng kiểm tra cài đặt mạng",
     "Profiles": "Hồ sơ",
-    "Scan": "Quét",
     "Static": "Tĩnh",
     "Subnet CIDR": "CIDR mạng con",
     "Toggle between DHCP and Static network types": "Thay đổi giữa mạng DHCP và Mạng tĩnh",

@@ -329,7 +329,6 @@
     "Network Settings": "ตั้งค่าเครือข่าย",
     "Toggle a range of configurable services you can access via an active network": "สลับบริการต่างๆ ที่เข้าถึงได้ผ่านเครือข่าย",
     "Toggle between ADB and MTP USB functionality": "สลับการทำงาน USB ระหว่าง ADB และ MTP",
-    "Toggle the visibility of the bluetooth glyph": "สลับการแสดงสัญลักษณ์บลูทูธ",
     "USB Function": "ฟังก์ชัน USB",
     "Web Services": "บริการเว็บ",
     "Wi-Fi Network": "เครือข่าย Wi-Fi"
@@ -775,7 +774,6 @@
     "Password": "รหัสผ่าน",
     "Please check network settings": "กรุณาตรวจสอบการตั้งค่าเครือข่าย",
     "Profiles": "โปรไฟล์",
-    "Scan": "สแกน",
     "Static": "Static",
     "Subnet CIDR": "Subnet CIDR",
     "Toggle between DHCP and Static network types": "สลับประเภทเครือข่ายระหว่าง DHCP และ Static",

@@ -329,7 +329,6 @@
     "Network Settings": "Network Settings",
     "Toggle a range of configurable services you can access via an active network": "Toggle a range of configurable services you can access via an active network",
     "Toggle between ADB and MTP USB functionality": "Toggle between ADB and MTP USB functionality",
-    "Toggle the visibility of the bluetooth glyph": "Toggle the visibility of the bluetooth glyph",
     "USB Function": "USB Function",
     "Web Services": "Web Services",
     "Wi-Fi Network": "Wi-Fi Network"
@@ -775,7 +774,6 @@
     "Password": "Lösenord",
     "Please check network settings": "Kontrollera nätverksinställningarna",
     "Profiles": "Profiler",
-    "Scan": "Skanna",
     "Static": "Statisk",
     "Subnet CIDR": "Subnet CIDR",
     "Toggle between DHCP and Static network types": "Växla mellan DHCP och Statisk nätverkstyp.",

@@ -329,7 +329,6 @@
     "Network Settings": "Network Settings",
     "Toggle a range of configurable services you can access via an active network": "Omogućite ili onemogućite niz usluga koje su dostupne putem aktivne mreže",
     "Toggle between ADB and MTP USB functionality": "Uključivanje/isključivanje ADB i MTP USB opcija",
-    "Toggle the visibility of the bluetooth glyph": "Sakrij/prikaži Bluetooth oznaku",
     "USB Function": "USB režim",
     "Web Services": "Web servisi",
     "Wi-Fi Network": "Wi-Fi Mreža"
@@ -775,7 +774,6 @@
     "Password": "Lozinka",
     "Please check network settings": "Proverite mrežna podešavanja",
     "Profiles": "Profili",
-    "Scan": "Skeniraj",
     "Static": "Statično",
     "Subnet CIDR": "CIDR mrežni opseg",
     "Toggle between DHCP and Static network types": "Odaberite između DHCP i statičkog tipa mreže",

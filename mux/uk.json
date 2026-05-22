@@ -329,7 +329,6 @@
     "Network Settings": "Network Settings",
     "Toggle a range of configurable services you can access via an active network": "Доступ до служб, що можуть налаштовуватись під час активного підключення до мережі",
     "Toggle between ADB and MTP USB functionality": "Вибір режиму роботи USB (ADB / MTP)",
-    "Toggle the visibility of the bluetooth glyph": "Перемкнути видимість значка bluetooth",
     "USB Function": "Функція USB",
     "Web Services": "Web-сервіси",
     "Wi-Fi Network": "Мережа Wi-Fi"
@@ -775,7 +774,6 @@
     "Password": "Пароль",
     "Please check network settings": "Будь ласка, перевірте налаштування мережі",
     "Profiles": "Профілі",
-    "Scan": "Сканувати",
     "Static": "Статичний",
     "Subnet CIDR": "CIDR Підмережі",
     "Toggle between DHCP and Static network types": "Перемикання між DHCP та статичним типом мережі",

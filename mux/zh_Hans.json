@@ -329,7 +329,6 @@
     "Network Settings": "网络设置",
     "Toggle a range of configurable services you can access via an active network": "切换可通过当前网络访问的各类可配置服务",
     "Toggle between ADB and MTP USB functionality": "切换USB功能为ADB或MTP",
-    "Toggle the visibility of the bluetooth glyph": "切换蓝牙图标的显示状态",
     "USB Function": "USB功能",
     "Web Services": "网络服务",
     "Wi-Fi Network": "Wi-Fi网络"
@@ -775,7 +774,6 @@
     "Password": "密码",
     "Please check network settings": "请检查网络设置",
     "Profiles": "配置文件",
-    "Scan": "扫描",
     "Static": "静态IP",
     "Subnet CIDR": "子网掩码 (CIDR)",
     "Toggle between DHCP and Static network types": "切换网络类型为DHCP或静态IP",

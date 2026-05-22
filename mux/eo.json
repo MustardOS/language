@@ -329,7 +329,6 @@
     "Network Settings": "Retaj agordoj",
     "Toggle a range of configurable services you can access via an active network": "Baskuligu gamon da agordeblaj servoj alireblaj per aktiva reto",
     "Toggle between ADB and MTP USB functionality": "Baskuligu inter ADB-funkciojn kaj MTP-USB-funkciojn",
-    "Toggle the visibility of the bluetooth glyph": "Baskuligu la videblecon de la glifo de Bluetooth",
     "USB Function": "Funkcio de USB",
     "Web Services": "Retaj servoj",
     "Wi-Fi Network": "Wi-Fi-reto"
@@ -775,7 +774,6 @@
     "Password": "Pasvorto",
     "Please check network settings": "Bonvolu kontroli retajn agordojn",
     "Profiles": "Profiloj",
-    "Scan": "Skani",
     "Static": "Statika",
     "Subnet CIDR": "Subnet CIDR",
     "Toggle between DHCP and Static network types": "Baskuligu inter DHCP kaj statikaj retaj tipoj",

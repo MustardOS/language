@@ -329,7 +329,6 @@
     "Network Settings": "Netværksindstillinger",
     "Toggle a range of configurable services you can access via an active network": "Skift mellem en række konfigurerbare tjenester, du kan få adgang til via et aktivt netværk",
     "Toggle between ADB and MTP USB functionality": "Skift mellem ADB- og MTP USB-funktionalitet",
-    "Toggle the visibility of the bluetooth glyph": "Slå synligheden af Bluetooth-symbol til/fra",
     "USB Function": "USB-funktion",
     "Web Services": "Webtjenester",
     "Wi-Fi Network": "Wi-Fi-netværk"
@@ -775,7 +774,6 @@
     "Password": "Adgangskode",
     "Please check network settings": "Tjek venligst netværksindstillingerne",
     "Profiles": "Profiler",
-    "Scan": "Søg",
     "Static": "Statisk",
     "Subnet CIDR": "Subnet CIDR",
     "Toggle between DHCP and Static network types": "Skift mellem DHCP og statiske netværkstyper",

@@ -329,7 +329,6 @@
     "Network Settings": "Network Settings",
     "Toggle a range of configurable services you can access via an active network": "Alterne um conjunto de serviços configuráveis que pode aceder através de uma rede activa.",
     "Toggle between ADB and MTP USB functionality": "Alternar entre as funcionalidades USB ADB e MTP",
-    "Toggle the visibility of the bluetooth glyph": "Alternar a visibilidade do ícone do Bluetooth.",
     "USB Function": "Função USB",
     "Web Services": "Serviços Web",
     "Wi-Fi Network": "Rede Wi-Fi"
@@ -775,7 +774,6 @@
     "Password": "Password",
     "Please check network settings": "Verifique as definições de rede",
     "Profiles": "Perfis",
-    "Scan": "Pesquisar",
     "Static": "Estático",
     "Subnet CIDR": "CIDR da Sub-rede",
     "Toggle between DHCP and Static network types": "Alternar entre os tipos de rede DHCP e Estática",

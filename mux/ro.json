@@ -329,7 +329,6 @@
     "Network Settings": "Network Settings",
     "Toggle a range of configurable services you can access via an active network": "Comută o gamă de servicii configurabile accesibile printr-o rețea activă",
     "Toggle between ADB and MTP USB functionality": "Comută între funcționalitatea ADB și MTP USB",
-    "Toggle the visibility of the bluetooth glyph": "Comută vizibilitatea pictogramei Bluetooth",
     "USB Function": "Funcție USB",
     "Web Services": "Servicii Web",
     "Wi-Fi Network": "Rețea Wi-Fi"
@@ -775,7 +774,6 @@
     "Password": "Parolă",
     "Please check network settings": "Verifică setările rețelei",
     "Profiles": "Profiluri",
-    "Scan": "Scanează",
     "Static": "Static",
     "Subnet CIDR": "Subnet CIDR",
     "Toggle between DHCP and Static network types": "Comută între tipurile de rețea DHCP și Static",

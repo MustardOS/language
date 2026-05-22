@@ -329,7 +329,6 @@
     "Network Settings": "Network Settings",
     "Toggle a range of configurable services you can access via an active network": "ネットワーク関連サービスを設定します",
     "Toggle between ADB and MTP USB functionality": "USB の挙動を ADB と MTP で切り替えます",
-    "Toggle the visibility of the bluetooth glyph": "Bluetooth アイコンを表示します",
     "USB Function": "USB 機能",
     "Web Services": "ウェブサービス",
     "Wi-Fi Network": "Wi-Fi ネットワーク"
@@ -775,7 +774,6 @@
     "Password": "パスワード",
     "Please check network settings": "ネットワーク設定を確認してください",
     "Profiles": "保存済みの設定",
-    "Scan": "検索する",
     "Static": "静的",
     "Subnet CIDR": "サブネット CIDR",
     "Toggle between DHCP and Static network types": "DHCP と 静的ネットワークを切り替えます",

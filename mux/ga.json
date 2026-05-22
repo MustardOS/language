@@ -329,7 +329,6 @@
     "Network Settings": "Socruithe Líonra",
     "Toggle a range of configurable services you can access via an active network": "Scoránaigh raon seirbhísí inchumraithe ar féidir leat rochtain a fháil orthu trí líonra gníomhach",
     "Toggle between ADB and MTP USB functionality": "Scoránaigh idir feidhmiúlacht ADB agus MTP USB",
-    "Toggle the visibility of the bluetooth glyph": "Scoránaigh infheictheacht an glyph bluetooth",
     "USB Function": "Feidhm USB",
     "Web Services": "Seirbhísí Gréasáin",
     "Wi-Fi Network": "Líonra Wi Fi"
@@ -775,7 +774,6 @@
     "Password": "Pasfhocal",
     "Please check network settings": "Seiceáil socruithe líonra le do thoil",
     "Profiles": "Próifílí",
-    "Scan": "Scanadh",
     "Static": "Statach",
     "Subnet CIDR": "Folíon CIDR",
     "Toggle between DHCP and Static network types": "Scoránaigh idir DHCP agus cineálacha líonra statacha",

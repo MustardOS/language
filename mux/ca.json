@@ -329,7 +329,6 @@
     "Network Settings": "Network Settings",
     "Toggle a range of configurable services you can access via an active network": "Gestioneu la configuració de diversos serveis als quals podeu accedir mitjançant una xarxa activa",
     "Toggle between ADB and MTP USB functionality": "Canvia les funcionalitats USB entre ADB i MTP",
-    "Toggle the visibility of the bluetooth glyph": "Canvia la visibilitat de la icona Bluetooth",
     "USB Function": "Funció USB",
     "Web Services": "Serveis Web",
     "Wi-Fi Network": "Xarxa Wi-Fi"
@@ -775,7 +774,6 @@
     "Password": "Contrasenya",
     "Please check network settings": "Si us plau, revisa la configuració de xarxa",
     "Profiles": "Perfils",
-    "Scan": "Escanejar",
     "Static": "Estàtica",
     "Subnet CIDR": "CIDR de subxarxa",
     "Toggle between DHCP and Static network types": "Alterna entre tipus de xarxa DHCP i Estàtic",
