@@ -593,6 +593,21 @@
     "Toggles internal Portmaster support on device": "Uključi/isključi internu Portmaster podršku",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Uključi montiranje DebugFS-a pri pokretanju.\n\nPreporučeno ostaviti uključeno!"
   },
+  "muxdistemp": {
+    "Colour temperature applied during sunrise hours": "Colour temperature applied during sunrise hours",
+    "Colour temperature applied during sunset hours": "Colour temperature applied during sunset hours",
+    "Colour temperature applied to the display": "Colour temperature applied to the display",
+    "DISPLAY TEMPERATURE": "DISPLAY TEMPERATURE",
+    "Enable or disable the sunrise and sunset colour temperature schedule": "Enable or disable the sunrise and sunset colour temperature schedule",
+    "Schedule": "Schedule",
+    "Sunrise Temperature": "Sunrise Temperature",
+    "Sunrise Time": "Sunrise Time",
+    "Sunset Temperature": "Sunset Temperature",
+    "Sunset Time": "Sunset Time",
+    "Temperature": "Temperature",
+    "Time of day when the sunrise temperature takes effect": "Time of day when the sunrise temperature takes effect",
+    "Time of day when the sunset temperature takes effect": "Time of day when the sunset temperature takes effect"
+  },
   "muxdownload": {
     "APP DOWNLOADER": "PREUZIMANJE APLIKACIJA",
     "Archive Removed": "Arhiva uklonjena",
@@ -1479,6 +1494,7 @@
     "Change where the device will start up into": "Odaberi gdje će uređaj započeti nakon pokretanja",
     "Change your current date, time, and timezone": "Promijeni datum, vrijeme i vremensku zonu",
     "Configure boot, launch, and settings passcodes": "Configure boot, launch, and settings passcodes",
+    "Configure sunrise and sunset display colour temperature and schedule": "Configure sunrise and sunset display colour temperature and schedule",
     "Configure the device fancy RGB light system": "Configure the device fancy RGB light system",
     "Content Collection": "Kolekcija sadržaja",
     "Content Explorer": "Istraživač sadržaja",
@@ -1488,6 +1504,7 @@
     "Device RGB Lights": "RGB rasvjeta uređaja",
     "Device Startup": "Pokretanje uređaja",
     "Device Volume": "Device Volume",
+    "Display Temperature": "Display Temperature",
     "GENERAL SETTINGS": "OPĆE POSTAVKE",
     "HDMI Output": "HDMI izlaz",
     "History": "Povijest",
@@ -1509,6 +1526,7 @@
   },
   "muxvisual": {
     "Battery": "Baterija",
+    "Bluetooth": "Bluetooth",
     "Bounce": "Bounce",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Promijeni oznaku u Istraži sadržaj tako da prikazuje uređaj za pohranu i naziv mape",
     "Changes the transparency of the overlay image for the frontend only": "Podesi prozirnost sloja (overlay) samo za sučelje",
@@ -1571,6 +1589,7 @@
     "Toggle the visibility of currently selected folder along with total in Explore Content": "Prikaži broj i odabranu mapu u Istraži sadržaj",
     "Toggle the visibility of empty folders in Explore Content": "Prikaži prazne mape u Istraži sadržaj",
     "Toggle the visibility of the battery glyph": "Prikaži ikonu baterije",
+    "Toggle the visibility of the bluetooth glyph": "Toggle the visibility of the bluetooth glyph",
     "Toggle the visibility of the clock": "Prikaži sat",
     "Toggle the visibility of the header title": "Toggle the visibility of the header title",
     "Toggle the visibility of the item count within folders in Explore Content": "Prikaži broj datoteka u mapama",
