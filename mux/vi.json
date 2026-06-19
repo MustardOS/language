@@ -593,6 +593,21 @@
     "Toggles internal Portmaster support on device": "Bật/tắt hộ trợ Portmaster nội bộ trên thiết bị",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Bật/tắt DebugFs cấp độ nhân hệ thống được khi khởi động \n\nTốt nhất nên giữ kích hoạt trừ khi có chỉ dẫn khác!"
   },
+  "muxdistemp": {
+    "Colour temperature applied during sunrise hours": "Colour temperature applied during sunrise hours",
+    "Colour temperature applied during sunset hours": "Colour temperature applied during sunset hours",
+    "Colour temperature applied to the display": "Colour temperature applied to the display",
+    "DISPLAY TEMPERATURE": "DISPLAY TEMPERATURE",
+    "Enable or disable the sunrise and sunset colour temperature schedule": "Enable or disable the sunrise and sunset colour temperature schedule",
+    "Schedule": "Schedule",
+    "Sunrise Temperature": "Sunrise Temperature",
+    "Sunrise Time": "Sunrise Time",
+    "Sunset Temperature": "Sunset Temperature",
+    "Sunset Time": "Sunset Time",
+    "Temperature": "Temperature",
+    "Time of day when the sunrise temperature takes effect": "Time of day when the sunrise temperature takes effect",
+    "Time of day when the sunset temperature takes effect": "Time of day when the sunset temperature takes effect"
+  },
   "muxdownload": {
     "APP DOWNLOADER": "TẢI ỨNG DỤNG",
     "Archive Removed": "Kho lưu trữ đã bị xóa",
@@ -1479,6 +1494,7 @@
     "Change where the device will start up into": "Thay đổi nơi mà thiết bị sẽ khởi động vào",
     "Change your current date, time, and timezone": "Thay đổi ngày, giờ và múi giờ hiện tại",
     "Configure boot, launch, and settings passcodes": "Configure boot, launch, and settings passcodes",
+    "Configure sunrise and sunset display colour temperature and schedule": "Configure sunrise and sunset display colour temperature and schedule",
     "Configure the device fancy RGB light system": "Configure the device fancy RGB light system",
     "Content Collection": "Bộ sưu tập Nội dung",
     "Content Explorer": "Khám phá nội dung",
@@ -1488,6 +1504,7 @@
     "Device RGB Lights": "Đèn nền RGB thiết bị",
     "Device Startup": "Cài đặt khởi động thiết bị",
     "Device Volume": "Device Volume",
+    "Display Temperature": "Display Temperature",
     "GENERAL SETTINGS": "CÀI ĐẶT CHUNG",
     "HDMI Output": "Đầu ra HDMI",
     "History": "Lịch sử",
@@ -1509,6 +1526,7 @@
   },
   "muxvisual": {
     "Battery": "Pin",
+    "Bluetooth": "Bluetooth",
     "Bounce": "Bounce",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Thay đổi tiêu đề trên đầu ở “Khám phá nội dung” để hiển thị cả thiết bị lưu trữ hiện tại cùng với tên thư mục",
     "Changes the transparency of the overlay image for the frontend only": "Thay đổi độ trong suốt của hình ảnh chồng lên ở chỉ giao diện ngoài",
@@ -1571,6 +1589,7 @@
     "Toggle the visibility of currently selected folder along with total in Explore Content": "Bật/tắt khả năng hiển thị của thư mục hiện tại cùng với tất cả trong Khám phá Nội Dung",
     "Toggle the visibility of empty folders in Explore Content": "Bật/tắt khả năng hiển thị của thư mục rỗng trong Khám phá Nội Dung",
     "Toggle the visibility of the battery glyph": "Bật/tắt khả năng hiển thị của biểu tượng Pin",
+    "Toggle the visibility of the bluetooth glyph": "Toggle the visibility of the bluetooth glyph",
     "Toggle the visibility of the clock": "Bật/tắt khả năng hiển thị của đồng hồ",
     "Toggle the visibility of the header title": "Toggle the visibility of the header title",
     "Toggle the visibility of the item count within folders in Explore Content": "Bật/tắt khả năng hiển thị của phần đếm mục trong các thư mục ở Khám phá Nội Dung",
