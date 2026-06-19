@@ -593,6 +593,21 @@
     "Toggles internal Portmaster support on device": "Schaltet die interne Portmaster-Unterstützung auf dem Gerät um",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Schaltet die Kernel-Level-DebugFS-Mount beim Start ein\n\nAm besten aktiviert lassen, es sei denn, es wird anders empfohlen!"
   },
+  "muxdistemp": {
+    "Colour temperature applied during sunrise hours": "Colour temperature applied during sunrise hours",
+    "Colour temperature applied during sunset hours": "Colour temperature applied during sunset hours",
+    "Colour temperature applied to the display": "Colour temperature applied to the display",
+    "DISPLAY TEMPERATURE": "DISPLAY TEMPERATURE",
+    "Enable or disable the sunrise and sunset colour temperature schedule": "Enable or disable the sunrise and sunset colour temperature schedule",
+    "Schedule": "Schedule",
+    "Sunrise Temperature": "Sunrise Temperature",
+    "Sunrise Time": "Sunrise Time",
+    "Sunset Temperature": "Sunset Temperature",
+    "Sunset Time": "Sunset Time",
+    "Temperature": "Temperature",
+    "Time of day when the sunrise temperature takes effect": "Time of day when the sunrise temperature takes effect",
+    "Time of day when the sunset temperature takes effect": "Time of day when the sunset temperature takes effect"
+  },
   "muxdownload": {
     "APP DOWNLOADER": "APP DOWNLOADER",
     "Archive Removed": "Archiv entfernt",
@@ -1479,6 +1494,7 @@
     "Change where the device will start up into": "Einstellen, was nach dem Systemstart passieren soll",
     "Change your current date, time, and timezone": "Datum, Uhrzeit und Zeitzone anpassen",
     "Configure boot, launch, and settings passcodes": "Configure boot, launch, and settings passcodes",
+    "Configure sunrise and sunset display colour temperature and schedule": "Configure sunrise and sunset display colour temperature and schedule",
     "Configure the device fancy RGB light system": "Configure the device fancy RGB light system",
     "Content Collection": "Medienbibliothek",
     "Content Explorer": "Medien Explorer",
@@ -1488,6 +1504,7 @@
     "Device RGB Lights": "Geräte-RGB-Beleuchtung",
     "Device Startup": "Systemstart",
     "Device Volume": "Device Volume",
+    "Display Temperature": "Display Temperature",
     "GENERAL SETTINGS": "ALLGEMEINE EINSTELLUNGEN",
     "HDMI Output": "HDMI Ausgabe",
     "History": "Verlauf",
@@ -1509,6 +1526,7 @@
   },
   "muxvisual": {
     "Battery": "Akku",
+    "Bluetooth": "Bluetooth",
     "Bounce": "Bounce",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Der Text in der oberen Leiste bei „Medien durchsuchen“ ergänzen, so dass das aktuelle Speichersystem zusammen mit dem Ordnernamen angezeigt wird",
     "Changes the transparency of the overlay image for the frontend only": "Transparenz des Overlay-Bildes nur für das Frontend anpassen",
@@ -1571,6 +1589,7 @@
     "Toggle the visibility of currently selected folder along with total in Explore Content": "Sichtbarkeit des aktuell ausgewählten Verzeichnisses mit der Zusammenfassung bei der Mediensuche ändern",
     "Toggle the visibility of empty folders in Explore Content": "Sichtbarkeit von leeren Ordnern beim Medien durchsuchen ein- oder ausschalten",
     "Toggle the visibility of the battery glyph": "Akkusymbol ein- oder ausblenden",
+    "Toggle the visibility of the bluetooth glyph": "Toggle the visibility of the bluetooth glyph",
     "Toggle the visibility of the clock": "Uhr ein- oder ausblenden",
     "Toggle the visibility of the header title": "Toggle the visibility of the header title",
     "Toggle the visibility of the item count within folders in Explore Content": "Die Sichtbarkeit der Objektanzahl innerhalb von Ordnern bei der Mediensuche ein- oder ausschalten",
