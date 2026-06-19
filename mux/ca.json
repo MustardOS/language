@@ -593,6 +593,21 @@
     "Toggles internal Portmaster support on device": "Toggles internal Portmaster support on device",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!"
   },
+  "muxdistemp": {
+    "Colour temperature applied during sunrise hours": "Colour temperature applied during sunrise hours",
+    "Colour temperature applied during sunset hours": "Colour temperature applied during sunset hours",
+    "Colour temperature applied to the display": "Colour temperature applied to the display",
+    "DISPLAY TEMPERATURE": "DISPLAY TEMPERATURE",
+    "Enable or disable the sunrise and sunset colour temperature schedule": "Enable or disable the sunrise and sunset colour temperature schedule",
+    "Schedule": "Schedule",
+    "Sunrise Temperature": "Sunrise Temperature",
+    "Sunrise Time": "Sunrise Time",
+    "Sunset Temperature": "Sunset Temperature",
+    "Sunset Time": "Sunset Time",
+    "Temperature": "Temperature",
+    "Time of day when the sunrise temperature takes effect": "Time of day when the sunrise temperature takes effect",
+    "Time of day when the sunset temperature takes effect": "Time of day when the sunset temperature takes effect"
+  },
   "muxdownload": {
     "APP DOWNLOADER": "APP DOWNLOADER",
     "Archive Removed": "Archive Removed",
@@ -1479,6 +1494,7 @@
     "Change where the device will start up into": "Canvia quin menú es mostra a l'iniciar la consola",
     "Change your current date, time, and timezone": "Canvis la data, hora i zona horària actuals",
     "Configure boot, launch, and settings passcodes": "Configure boot, launch, and settings passcodes",
+    "Configure sunrise and sunset display colour temperature and schedule": "Configure sunrise and sunset display colour temperature and schedule",
     "Configure the device fancy RGB light system": "Configure the device fancy RGB light system",
     "Content Collection": "Col·lecció de continguts",
     "Content Explorer": "Explorador de contingut",
@@ -1488,6 +1504,7 @@
     "Device RGB Lights": "Llums RGB del dispositiu",
     "Device Startup": "Inici del dispositiu",
     "Device Volume": "Device Volume",
+    "Display Temperature": "Display Temperature",
     "GENERAL SETTINGS": "CONFIGURACIÓ GENERAL",
     "HDMI Output": "Sortida HDMI",
     "History": "Historial",
@@ -1509,6 +1526,7 @@
   },
   "muxvisual": {
     "Battery": "Bateria",
+    "Bluetooth": "Bluetooth",
     "Bounce": "Bounce",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Canvia l’etiqueta del títol superior a Explora contingut per mostrar el dispositiu d’emmagatzematge actual juntament amb el nom de la carpeta",
     "Changes the transparency of the overlay image for the frontend only": "Canvia la transparència de la imatge de superposició només per a la interfície d’usuari",
@@ -1571,6 +1589,7 @@
     "Toggle the visibility of currently selected folder along with total in Explore Content": "Mostra o amaga la carpeta actualment seleccionada juntament amb el total a Explorar contingut",
     "Toggle the visibility of empty folders in Explore Content": "Mostra o amaga les carpetes buides a Explorar contingut",
     "Toggle the visibility of the battery glyph": "Activa o desactiva la visualització de la icona de la bateria",
+    "Toggle the visibility of the bluetooth glyph": "Toggle the visibility of the bluetooth glyph",
     "Toggle the visibility of the clock": "Activa o desactiva la visualització del rellotge",
     "Toggle the visibility of the header title": "Toggle the visibility of the header title",
     "Toggle the visibility of the item count within folders in Explore Content": "Activa o desactiva la visualització del nombre d’elements a les carpetes a Explorar contingut",
