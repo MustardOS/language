@@ -358,21 +358,6 @@
     "Total network delay to the reference clock": "Total network delay to the reference clock",
     "Update Interval": "Update Interval"
   },
-  "muxcoladjust": {
-    "Adjusts midtone brightness without affecting pure black or white": "純粋な黒や白に影響を与えない、中間調の明るさを調整します",
-    "Adjusts the difference between light and dark areas of content": "Adjusts the difference between light and dark areas of content",
-    "Adjusts the overall warmth or coolness of the display by shifting colour balance": "Adjusts the overall warmth or coolness of the display by shifting colour balance",
-    "Brightness": "明るさ",
-    "COLOUR OPTIONS": "カラーオプション",
-    "Contrast": "コントラスト（濃淡）",
-    "Controls the intensity and richness of colours": "色の濃淡や深みを調整できます",
-    "Controls the overall lightness or darkness of content": "コンテンツ全体の明るさや暗さを調整できます",
-    "Gamma": "ガンマ（暗部〜中間調の明るさ配分）",
-    "Hue Shift": "色相のシフト",
-    "Rotates colours around the colour wheel without changing brightness": "色相環に沿って色を変換させますが、明度は変更されません",
-    "Saturation": "色飽和",
-    "Temperature": "色温度"
-  },
   "muxcolfilter": {
     "COLOUR FILTER": "カラーフィルター",
     "Change the colour filter of your current selected content": "Change the colour filter of your current selected content",
@@ -388,7 +373,6 @@
   "muxconfig": {
     "Back up your content to a restorable archive for your device or others": "Back up your content to a restorable archive for your device or others",
     "CONFIGURATION": "設定",
-    "Colour Options": "カラーオプション",
     "Connect your device via Wi-Fi, enable web services, or enable USB functions": "Connect your device via Wi-Fi, enable web services, or enable USB functions",
     "Connectivity": "接続",
     "Customisation": "カスタマイズ",
@@ -402,7 +386,6 @@
     "Overlay Options": "OSDオプション",
     "Power Settings": "電力設定",
     "Select your preferred language\n\nTranslations supported by Weblate": "Select your preferred language\n\nTranslations supported by Weblate",
-    "Settings to change the colour settings of content": "Settings to change the colour settings of content",
     "Settings to change the hardware overlays of content": "コンテンツのハードウェアオーバーレイ（OSD）に関する設定です",
     "Settings to change the power features of the device": "デバイスの電力設定を変更します",
     "Settings to change the visual aspects of the frontend": "フロントエンドの外観に関する設定を変更します",
@@ -708,7 +691,6 @@
     "Allow access to archive manager": "Allow access to archive manager",
     "Allow access to install content catalogues": "コンテンツカタログのインストールへのアクセスを許可する",
     "Allow access to use custom RetroArch configs": "カスタム RetroArch 設定の使用を許可する",
-    "Allow changes to content colour adjustments": "Allow changes to content colour adjustments",
     "Allow changes to content overlays": "Allow changes to content overlays",
     "Allow changes to interface visuals": "インターフェース外観への変更を許可する",
     "Allow changing the system clock": "システム時刻の変更を許可する",
@@ -734,7 +716,6 @@
     "Collection Removal": "コレクションから取り除く",
     "Collection Viewing": "コレクションの閲覧",
     "Colour Filter": "Colour Filter",
-    "Colour Options": "カラーオプション",
     "Configuration": "設定",
     "Content Control Scheme": "コンテンツのコントロール法",
     "Content Core": "コンテンツのコア",

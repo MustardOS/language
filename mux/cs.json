@@ -358,21 +358,6 @@
     "Total network delay to the reference clock": "Celkové zpoždění sítě vůči referenčnímu hodinovému signálu",
     "Update Interval": "Interval aktualizace"
   },
-  "muxcoladjust": {
-    "Adjusts midtone brightness without affecting pure black or white": "Upravuje jas středních tónů bez ovlivnění čisté černé nebo bílé",
-    "Adjusts the difference between light and dark areas of content": "Upravuje rozdíl mezi světlými a tmavými oblastmi obsahu",
-    "Adjusts the overall warmth or coolness of the display by shifting colour balance": "Upravuje celkovou teplotu nebo chladnost displeje posunem vyvážení barev",
-    "Brightness": "Jas",
-    "COLOUR OPTIONS": "MOŽNOSTI BAREV",
-    "Contrast": "Kontrast",
-    "Controls the intensity and richness of colours": "Řídí intenzitu a sytost barev",
-    "Controls the overall lightness or darkness of content": "Řídí celkovou světlost nebo tmavost obsahu",
-    "Gamma": "Gamma",
-    "Hue Shift": "Posun odstínu",
-    "Rotates colours around the colour wheel without changing brightness": "Otáčí barvy v barevném kruhu bez změny jasu",
-    "Saturation": "Nasycení",
-    "Temperature": "Teplota"
-  },
   "muxcolfilter": {
     "COLOUR FILTER": "BAREVNÝ FILTR",
     "Change the colour filter of your current selected content": "Změna barevného filtru aktuálně vybraného obsahu",
@@ -388,7 +373,6 @@
   "muxconfig": {
     "Back up your content to a restorable archive for your device or others": "Zálohujte si obsah do obnovitelného archivu pro vaše zařízení nebo jiné uživatele",
     "CONFIGURATION": "KONFIGURACE",
-    "Colour Options": "Možnosti barev",
     "Connect your device via Wi-Fi, enable web services, or enable USB functions": "Připojte zařízení přes Wi-Fi, povolte webové služby nebo funkce USB",
     "Connectivity": "Konektivita",
     "Customisation": "Přizpůsobení",
@@ -402,7 +386,6 @@
     "Overlay Options": "Možnosti překrytí",
     "Power Settings": "Nastavení napájení",
     "Select your preferred language\n\nTranslations supported by Weblate": "Vyberte preferovaný jazyk\n\nPřeklady podporované Weblate",
-    "Settings to change the colour settings of content": "Nastavení pro změnu nastavení barev obsahu",
     "Settings to change the hardware overlays of content": "Nastavení pro změnu hardwarových překryvů obsahu",
     "Settings to change the power features of the device": "Nastavení pro změnu funkcí napájení zařízení",
     "Settings to change the visual aspects of the frontend": "Nastavení pro změnu vizuálních aspektů frontendu",
@@ -708,7 +691,6 @@
     "Allow access to archive manager": "Povolit přístup k správci archivu",
     "Allow access to install content catalogues": "Povolit přístup k instalaci katalogů obsahu",
     "Allow access to use custom RetroArch configs": "Povolit přístup k používání vlastních konfigurací RetroArch",
-    "Allow changes to content colour adjustments": "Povolit změny úprav barev obsahu",
     "Allow changes to content overlays": "Povolit změny v překryvných vrstvách obsahu",
     "Allow changes to interface visuals": "Povolit změny vizuální stránky rozhraní",
     "Allow changing the system clock": "Povolit změnu systémových hodin",
@@ -734,7 +716,6 @@
     "Collection Removal": "Odstranění sbírky",
     "Collection Viewing": "Prohlížení sbírky",
     "Colour Filter": "Barevný filtr",
-    "Colour Options": "Možnosti barev",
     "Configuration": "Nastavení",
     "Content Control Scheme": "Schéma kontroly obsahu",
     "Content Core": "Obsahové Jádro",

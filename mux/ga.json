@@ -358,21 +358,6 @@
     "Total network delay to the reference clock": "Moill iomlán líonra go dtí an clog tagartha",
     "Update Interval": "Eatramh Nuashonraithe"
   },
-  "muxcoladjust": {
-    "Adjusts midtone brightness without affecting pure black or white": "Coigeartaíonn sé gile lár-thon gan cur isteach ar dhubh nó bán íon",
-    "Adjusts the difference between light and dark areas of content": "Coigeartaíonn sé an difríocht idir limistéir geala agus dorcha ábhair",
-    "Adjusts the overall warmth or coolness of the display by shifting colour balance": "Coigeartaíonn sé teas nó fionnuar iomlán an taispeántais trí chothromaíocht dathanna a athrú",
-    "Brightness": "Gile",
-    "COLOUR OPTIONS": "ROGHANNA DATHA",
-    "Contrast": "Codarsnacht",
-    "Controls the intensity and richness of colours": "Rialaíonn sé déine agus saibhreas na ndathanna",
-    "Controls the overall lightness or darkness of content": "Rialaíonn sé gile nó dorchadas foriomlán an ábhair",
-    "Gamma": "Gáma",
-    "Hue Shift": "Athrú Lí",
-    "Rotates colours around the colour wheel without changing brightness": "Rothlaíonn sé dathanna timpeall an roth datha gan an gile a athrú",
-    "Saturation": "Sáithiú",
-    "Temperature": "Teocht"
-  },
   "muxcolfilter": {
     "COLOUR FILTER": "SCAGAIRE DATHA",
     "Change the colour filter of your current selected content": "Athraigh an scagaire datha ar an ábhar atá roghnaithe agat faoi láthair",
@@ -388,7 +373,6 @@
   "muxconfig": {
     "Back up your content to a restorable archive for your device or others": "Déan cúltaca de d’ábhar chuig cartlann in-athchóirithe do do ghléas nó do ghléasanna eile",
     "CONFIGURATION": "CUMRAÍOCHT",
-    "Colour Options": "Roghanna Dathanna",
     "Connect your device via Wi-Fi, enable web services, or enable USB functions": "Ceangail do ghléas trí Wi-Fi, cumasaigh seirbhísí gréasáin, nó cumasaigh feidhmeanna USB",
     "Connectivity": "Nascacht",
     "Customisation": "Saincheapadh",
@@ -402,7 +386,6 @@
     "Overlay Options": "Roghanna Forleagan",
     "Power Settings": "Socruithe Cumhachta",
     "Select your preferred language\n\nTranslations supported by Weblate": "Roghnaigh do theanga is fearr leat\n\nAistriúcháin a dtacaítear leo ag Weblate",
-    "Settings to change the colour settings of content": "Socruithe chun socruithe datha ábhair a athrú",
     "Settings to change the hardware overlays of content": "Socruithe chun forleagan crua-earraí ábhair a athrú",
     "Settings to change the power features of the device": "Socruithe chun gnéithe cumhachta an ghléis a athrú",
     "Settings to change the visual aspects of the frontend": "Socruithe chun gnéithe amhairc an éadain a athrú",
@@ -708,7 +691,6 @@
     "Allow access to archive manager": "Ceadaigh rochtain ar bhainisteoir cartlainne",
     "Allow access to install content catalogues": "Ceadaigh rochtain chun catalóga ábhair a shuiteáil",
     "Allow access to use custom RetroArch configs": "Ceadaigh rochtain chun cumraíochtaí saincheaptha RetroArch a úsáid",
-    "Allow changes to content colour adjustments": "Ceadaigh athruithe ar choigeartuithe datha ábhair",
     "Allow changes to content overlays": "Ceadaigh athruithe ar fhorleagan ábhair",
     "Allow changes to interface visuals": "Ceadaigh athruithe ar íomhánna comhéadain",
     "Allow changing the system clock": "Ceadaigh athrú clog an chórais",
@@ -734,7 +716,6 @@
     "Collection Removal": "Baineadh Bailiúcháin",
     "Collection Viewing": "Amharc ar Bhailiúcháin",
     "Colour Filter": "Scagaire Dathanna",
-    "Colour Options": "Roghanna Dathanna",
     "Configuration": "Cumraíocht",
     "Content Control Scheme": "Scéim Rialaithe Ábhair",
     "Content Core": "Croílár an Ábhair",

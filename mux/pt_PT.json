@@ -358,21 +358,6 @@
     "Total network delay to the reference clock": "Atraso total da rede no clock de referência",
     "Update Interval": "Intervalo de atualização"
   },
-  "muxcoladjust": {
-    "Adjusts midtone brightness without affecting pure black or white": "Ajusta o brilho dos tons médios sem afetar o preto ou o branco puros",
-    "Adjusts the difference between light and dark areas of content": "Ajusta a diferença entre áreas claras e escuras do conteúdo",
-    "Adjusts the overall warmth or coolness of the display by shifting colour balance": "Ajusta a temperatura geral da ecrã, a fazer as cores mais quentes ou frias",
-    "Brightness": "Brilho",
-    "COLOUR OPTIONS": "OPÇÕES DE COR",
-    "Contrast": "Contraste",
-    "Controls the intensity and richness of colours": "Controla a intensidade e a vivacidade das cores",
-    "Controls the overall lightness or darkness of content": "Controla a claridade ou escuridão geral do conteúdo",
-    "Gamma": "Gama",
-    "Hue Shift": "Deslocamento de Matiz",
-    "Rotates colours around the colour wheel without changing brightness": "Gira as cores no círculo cromático sem alterar o brilho",
-    "Saturation": "Saturação",
-    "Temperature": "Temperatura"
-  },
   "muxcolfilter": {
     "COLOUR FILTER": "FILTRO DE COR",
     "Change the colour filter of your current selected content": "Altera o filtro de cor do conteúdo atualmente selecionado",
@@ -388,7 +373,6 @@
   "muxconfig": {
     "Back up your content to a restorable archive for your device or others": "Faça backup do seu conteúdo num arquivo restaurável para o seu dispositivo ou para outros",
     "CONFIGURATION": "Configurações",
-    "Colour Options": "Opções de Cor",
     "Connect your device via Wi-Fi, enable web services, or enable USB functions": "Conecte o seu dispositivo via Wi-Fi, ative os serviços web ou ative funções USB",
     "Connectivity": "Conetividade",
     "Customisation": "Personalização",
@@ -402,7 +386,6 @@
     "Overlay Options": "Opções de Sobreposição",
     "Power Settings": "Definições de energia",
     "Select your preferred language\n\nTranslations supported by Weblate": "Escolha a sua língua preferida\n\nTraduções apoiadas pelo Weblate",
-    "Settings to change the colour settings of content": "Configurações para alterar os ajustes de cor do conteúdo",
     "Settings to change the hardware overlays of content": "Configurações para alterar as molduras de hardware do conteúdo",
     "Settings to change the power features of the device": "Definições para alterar as funcionalidades de energia do dispositivo",
     "Settings to change the visual aspects of the frontend": "Definições para alterar os aspetos visuais da interface",
@@ -708,7 +691,6 @@
     "Allow access to archive manager": "Permitir acesso ao gestor de pacotes",
     "Allow access to install content catalogues": "Permitir a instalação de catálogos de conteúdo",
     "Allow access to use custom RetroArch configs": "Permitir o uso de configurações personalizadas do Retroarch",
-    "Allow changes to content colour adjustments": "Permitir alterações nos ajustes de cor do conteúdo",
     "Allow changes to content overlays": "Permitir alterações nas sobreposições do conteúdo",
     "Allow changes to interface visuals": "Permitir alterações no visual da interface",
     "Allow changing the system clock": "Permitir modificar o relógio do sistema",
@@ -734,7 +716,6 @@
     "Collection Removal": "Remoção das Coleções",
     "Collection Viewing": "Visualização das Coleções",
     "Colour Filter": "Filtro de Cor",
-    "Colour Options": "Opções de Cor",
     "Configuration": "Configuração",
     "Content Control Scheme": "Configuração de Controlos para o Conteúdo",
     "Content Core": "Núcleo do Conteúdo",

@@ -358,21 +358,6 @@
     "Total network delay to the reference clock": "ความล่าช้าของเครือข่ายทั้งหมดไปยังนาฬิกาอ้างอิง",
     "Update Interval": "ช่วงเวลาอัปเดต"
   },
-  "muxcoladjust": {
-    "Adjusts midtone brightness without affecting pure black or white": "ปรับความสว่างโทนกลางโดยไม่กระทบต่อสีดำหรือขาวบริสุทธิ์",
-    "Adjusts the difference between light and dark areas of content": "ปรับความแตกต่างระหว่างพื้นที่สว่างและมืด",
-    "Adjusts the overall warmth or coolness of the display by shifting colour balance": "ปรับความอุ่นหรือเย็นของจอแสดงผลโดยเปลี่ยนสมดุลสี",
-    "Brightness": "ความสว่าง",
-    "COLOUR OPTIONS": "ตัวเลือกสี",
-    "Contrast": "ความคมชัด",
-    "Controls the intensity and richness of colours": "ควบคุมความสดและความเข้มของสี",
-    "Controls the overall lightness or darkness of content": "ควบคุมความสว่างหรือความมืดโดยรวม",
-    "Gamma": "แกมมา",
-    "Hue Shift": "การเปลี่ยนเฉดสี",
-    "Rotates colours around the colour wheel without changing brightness": "หมุนสีรอบวงล้อสีโดยไม่เปลี่ยนความสว่าง",
-    "Saturation": "ความอิ่มตัวของสี",
-    "Temperature": "อุณภูมิสี"
-  },
   "muxcolfilter": {
     "COLOUR FILTER": "ตัวกรองสี",
     "Change the colour filter of your current selected content": "เปลี่ยนตัวกรองสีของเนื้อหาที่เลือก",
@@ -388,7 +373,6 @@
   "muxconfig": {
     "Back up your content to a restorable archive for your device or others": "สำรองข้อมูลเนื้อหาของคุณเพื่อกู้คืนบนเครื่องนี้หรือเครื่องอื่น",
     "CONFIGURATION": "การตั้งค่า",
-    "Colour Options": "ตัวเลือกสี",
     "Connect your device via Wi-Fi, enable web services, or enable USB functions": "เชื่อมต่อ Wi-Fi, เปิดบริการเว็บ หรือฟังก์ชัน USB",
     "Connectivity": "การเชื่อมต่อ",
     "Customisation": "การปรับแต่ง",
@@ -402,7 +386,6 @@
     "Overlay Options": "ตัวเลือก Overlay",
     "Power Settings": "การตั้งค่าพลังงาน",
     "Select your preferred language\n\nTranslations supported by Weblate": "เลือกภาษาที่ต้องการ\n\nสนับสนุนการแปลโดย Weblate",
-    "Settings to change the colour settings of content": "ตั้งค่าสีของเนื้อหา",
     "Settings to change the hardware overlays of content": "ตั้งค่าฮาร์ดแวร์ Overlay",
     "Settings to change the power features of the device": "ตั้งค่าพลังงานของอุปกรณ์",
     "Settings to change the visual aspects of the frontend": "ตั้งค่ารูปลักษณ์ของหน้าอินเตอร์เฟซ",
@@ -708,7 +691,6 @@
     "Allow access to archive manager": "อนุญาตให้เข้าถึงตัวจัดการไฟล์เก็บข้อมูล",
     "Allow access to install content catalogues": "อนุญาตให้ติดตั้งแคตตาล็อกเนื้อหา",
     "Allow access to use custom RetroArch configs": "อนุญาตให้ใช้การตั้งค่า RetroArch แบบกำหนดเอง",
-    "Allow changes to content colour adjustments": "อนุญาตให้ปรับแต่งสีเนื้อหา",
     "Allow changes to content overlays": "อนุญาตให้เปลี่ยน Overlay เนื้อหา",
     "Allow changes to interface visuals": "อนุญาตให้เปลี่ยนรูปลักษณ์อินเตอร์เฟซ",
     "Allow changing the system clock": "อนุญาตให้เปลี่ยนนาฬิการะบบ",
@@ -734,7 +716,6 @@
     "Collection Removal": "การลบคอลเลกชัน",
     "Collection Viewing": "การดูคอลเลกชัน",
     "Colour Filter": "ตัวกรองสี",
-    "Colour Options": "ตัวเลือกสี",
     "Configuration": "การตั้งค่า",
     "Content Control Scheme": "แผนผังการควบคุมเนื้อหา",
     "Content Core": "Core ของเนื้อหา",

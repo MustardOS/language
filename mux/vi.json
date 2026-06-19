@@ -358,21 +358,6 @@
     "Total network delay to the reference clock": "Total network delay to the reference clock",
     "Update Interval": "Update Interval"
   },
-  "muxcoladjust": {
-    "Adjusts midtone brightness without affecting pure black or white": "Adjusts midtone brightness without affecting pure black or white",
-    "Adjusts the difference between light and dark areas of content": "Adjusts the difference between light and dark areas of content",
-    "Adjusts the overall warmth or coolness of the display by shifting colour balance": "Adjusts the overall warmth or coolness of the display by shifting colour balance",
-    "Brightness": "Brightness",
-    "COLOUR OPTIONS": "COLOUR OPTIONS",
-    "Contrast": "Contrast",
-    "Controls the intensity and richness of colours": "Controls the intensity and richness of colours",
-    "Controls the overall lightness or darkness of content": "Controls the overall lightness or darkness of content",
-    "Gamma": "Gamma",
-    "Hue Shift": "Hue Shift",
-    "Rotates colours around the colour wheel without changing brightness": "Rotates colours around the colour wheel without changing brightness",
-    "Saturation": "Saturation",
-    "Temperature": "Temperature"
-  },
   "muxcolfilter": {
     "COLOUR FILTER": "COLOUR FILTER",
     "Change the colour filter of your current selected content": "Change the colour filter of your current selected content",
@@ -388,7 +373,6 @@
   "muxconfig": {
     "Back up your content to a restorable archive for your device or others": "Back up your content to a restorable archive for your device or others",
     "CONFIGURATION": "CẤU HÌNH",
-    "Colour Options": "Colour Options",
     "Connect your device via Wi-Fi, enable web services, or enable USB functions": "Kết nối với thiết bị thông qua Wi-Fi, khởi chạy dịch vụ web, hay khởi chạy các chức năng USB",
     "Connectivity": "Kết nối",
     "Customisation": "Cá nhân hóa",
@@ -402,7 +386,6 @@
     "Overlay Options": "Overlay Options",
     "Power Settings": "Cài đặt Nguồn điện",
     "Select your preferred language\n\nTranslations supported by Weblate": "Lựa chọn ngôn ngữ mong muốn\n\nBản dịch được hỗ trợ bởi Weblate",
-    "Settings to change the colour settings of content": "Settings to change the colour settings of content",
     "Settings to change the hardware overlays of content": "Settings to change the hardware overlays of content",
     "Settings to change the power features of the device": "Cài đặt để thay đổi các tính năng liên quan đến đầu vào nguồn điện của thiết bị",
     "Settings to change the visual aspects of the frontend": "Cài đặt để thay đổi các khía cạnh về giao diện hiển thị tương tác",
@@ -708,7 +691,6 @@
     "Allow access to archive manager": "Cho phép quyền truy cập vào quản lý kho lưu trữ",
     "Allow access to install content catalogues": "Cho phép quyền truy cập để cài đặt danh mục nội dung",
     "Allow access to use custom RetroArch configs": "Cho phép quyền truy cập để sử dụng cài đặt tùy chỉnh RetroArch",
-    "Allow changes to content colour adjustments": "Allow changes to content colour adjustments",
     "Allow changes to content overlays": "Allow changes to content overlays",
     "Allow changes to interface visuals": "Cho phép thay đổi giao diện hiển thị",
     "Allow changing the system clock": "Cho phép thay đổi đồng hồ hệ thống",
@@ -734,7 +716,6 @@
     "Collection Removal": "Xóa bộ sưu tập",
     "Collection Viewing": "Xem Bộ sưu tập",
     "Colour Filter": "Colour Filter",
-    "Colour Options": "Colour Options",
     "Configuration": "Cấu hình",
     "Content Control Scheme": "Cách điều khiển Nội dung",
     "Content Core": "Nhân Nội dung",

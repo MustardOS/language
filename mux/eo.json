@@ -358,21 +358,6 @@
     "Total network delay to the reference clock": "Totala reta prokrasto al la referenca horloĝo",
     "Update Interval": "Ĝisdatiga intervalo"
   },
-  "muxcoladjust": {
-    "Adjusts midtone brightness without affecting pure black or white": "Alĝustigas meztonan brilecon sen influi puran nigran aŭ blankan",
-    "Adjusts the difference between light and dark areas of content": "Alĝustigas la diferencon inter lumaj kaj malhelaj areoj de enhavo",
-    "Adjusts the overall warmth or coolness of the display by shifting colour balance": "Alĝustigas la ĝeneralan varmon aŭ malvarmon de la ekrano per ŝovado de kolorbalanco",
-    "Brightness": "Brileco",
-    "COLOUR OPTIONS": "KOLORAJ OPCIOJ",
-    "Contrast": "Kontrasto",
-    "Controls the intensity and richness of colours": "Regas la intensecon kaj riĉecon de koloroj",
-    "Controls the overall lightness or darkness of content": "Regas la ĝeneralan lumon aŭ malhelon de enhavo",
-    "Gamma": "Gamo",
-    "Hue Shift": "Nuanca ŝovo",
-    "Rotates colours around the colour wheel without changing brightness": "Rotacias kolorojn ĉirkaŭ la kolorrado sen ŝanĝi brilecon",
-    "Saturation": "Saturado",
-    "Temperature": "Temperaturo"
-  },
   "muxcolfilter": {
     "COLOUR FILTER": "KOLORA FILTRO",
     "Change the colour filter of your current selected content": "Ŝanĝu la kolorfiltron de via nuntempe elektita enhavo",
@@ -388,7 +373,6 @@
   "muxconfig": {
     "Back up your content to a restorable archive for your device or others": "Rezervu vian enhavon al restaŭrebla arkivo por via aparato aŭ aliaj",
     "CONFIGURATION": "KONFIGURADO",
-    "Colour Options": "Koloraj opcioj",
     "Connect your device via Wi-Fi, enable web services, or enable USB functions": "Konektu vian aparaton per Wi-Fi, ebligu retajn servojn, aŭ ebligu USB-funkciojn",
     "Connectivity": "Konekteco",
     "Customisation": "Propraĵigo",
@@ -402,7 +386,6 @@
     "Overlay Options": "Kovraĵaj opcioj",
     "Power Settings": "Potencaj agordoj",
     "Select your preferred language\n\nTranslations supported by Weblate": "Elektu vian preferatan lingvon\n\nTradukoj subtenitaj de Weblate",
-    "Settings to change the colour settings of content": "Agordoj por ŝanĝi la kolorajn agordojn de enhavo",
     "Settings to change the hardware overlays of content": "Agordoj por ŝanĝi la aparatajn kovraĵojn de enhavo",
     "Settings to change the power features of the device": "Agordoj por ŝanĝi la potencajn funkciojn de la aparato",
     "Settings to change the visual aspects of the frontend": "Agordoj por ŝanĝi la vidajn aspektojn de la fasado",
@@ -708,7 +691,6 @@
     "Allow access to archive manager": "Permesu aliron al administrilo de arkivo",
     "Allow access to install content catalogues": "Permesu instali enhavajn katalogojn",
     "Allow access to use custom RetroArch configs": "Permesu uzi proprajn RetroArch konfigojn",
-    "Allow changes to content colour adjustments": "Permesu ŝanĝojn al enhavaj koloraj alĝustigoj",
     "Allow changes to content overlays": "Permesu ŝanĝojn al enhavaj kovraĵoj",
     "Allow changes to interface visuals": "Permesu ŝanĝojn al interfacaj vidaĵoj",
     "Allow changing the system clock": "Permesu ŝanĝi la sistemhorloĝon",
@@ -734,7 +716,6 @@
     "Collection Removal": "Kolekta forigo",
     "Collection Viewing": "Kolekta vidado",
     "Colour Filter": "Kolora filtro",
-    "Colour Options": "Koloraj opcioj",
     "Configuration": "Konfigurado",
     "Content Control Scheme": "Enhava kontrola skemo",
     "Content Core": "Enhava kerno",

@@ -358,21 +358,6 @@
     "Total network delay to the reference clock": "Total network delay to the reference clock",
     "Update Interval": "Update Interval"
   },
-  "muxcoladjust": {
-    "Adjusts midtone brightness without affecting pure black or white": "Adjusts midtone brightness without affecting pure black or white",
-    "Adjusts the difference between light and dark areas of content": "Adjusts the difference between light and dark areas of content",
-    "Adjusts the overall warmth or coolness of the display by shifting colour balance": "Adjusts the overall warmth or coolness of the display by shifting colour balance",
-    "Brightness": "Brightness",
-    "COLOUR OPTIONS": "COLOUR OPTIONS",
-    "Contrast": "Contrast",
-    "Controls the intensity and richness of colours": "Controls the intensity and richness of colours",
-    "Controls the overall lightness or darkness of content": "Controls the overall lightness or darkness of content",
-    "Gamma": "Gamma",
-    "Hue Shift": "Hue Shift",
-    "Rotates colours around the colour wheel without changing brightness": "Rotates colours around the colour wheel without changing brightness",
-    "Saturation": "Saturation",
-    "Temperature": "Temperature"
-  },
   "muxcolfilter": {
     "COLOUR FILTER": "COLOUR FILTER",
     "Change the colour filter of your current selected content": "Change the colour filter of your current selected content",
@@ -388,7 +373,6 @@
   "muxconfig": {
     "Back up your content to a restorable archive for your device or others": "Back up your content to a restorable archive for your device or others",
     "CONFIGURATION": "KONFIGURACIJA",
-    "Colour Options": "Colour Options",
     "Connect your device via Wi-Fi, enable web services, or enable USB functions": "Povežite uređaj putem Wi-Fi-a, uključite web usluge ili USB funkcionalnost",
     "Connectivity": "Povezivanje",
     "Customisation": "Prilagodbe",
@@ -402,7 +386,6 @@
     "Overlay Options": "Overlay Options",
     "Power Settings": "Postavke napajanja",
     "Select your preferred language\n\nTranslations supported by Weblate": "Odaberite željeni jezik\n\nPrijevodi podržani putem Weblate",
-    "Settings to change the colour settings of content": "Settings to change the colour settings of content",
     "Settings to change the hardware overlays of content": "Settings to change the hardware overlays of content",
     "Settings to change the power features of the device": "Postavke za upravljanje značajkama napajanja uređaja",
     "Settings to change the visual aspects of the frontend": "Postavke za promjenu vizualnog izgleda sučelja",
@@ -708,7 +691,6 @@
     "Allow access to archive manager": "Dopusti pristup upravitelju arhiva",
     "Allow access to install content catalogues": "Dopusti instaliranje kataloga sadržaja",
     "Allow access to use custom RetroArch configs": "Dopusti korištenje prilagođenih RetroArch konfiguracija",
-    "Allow changes to content colour adjustments": "Allow changes to content colour adjustments",
     "Allow changes to content overlays": "Allow changes to content overlays",
     "Allow changes to interface visuals": "Dopusti promjenu izgleda sučelja",
     "Allow changing the system clock": "Dopusti promjenu sata sustava",
@@ -734,7 +716,6 @@
     "Collection Removal": "Brisanje kolekcija",
     "Collection Viewing": "Pregled kolekcija",
     "Colour Filter": "Colour Filter",
-    "Colour Options": "Colour Options",
     "Configuration": "Konfiguracija",
     "Content Control Scheme": "Kontrolna shema sadržaja",
     "Content Core": "Jezgra sadržaja",

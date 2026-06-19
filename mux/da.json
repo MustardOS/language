@@ -358,21 +358,6 @@
     "Total network delay to the reference clock": "Samlet netværksforsinkelse til referenceuret",
     "Update Interval": "Opdateringsinterval"
   },
-  "muxcoladjust": {
-    "Adjusts midtone brightness without affecting pure black or white": "Justerer mellemtonernes lysstyrke uden at påvirke ren sort eller hvid",
-    "Adjusts the difference between light and dark areas of content": "Justerer forskellen mellem lyse og mørke områder af indholdet",
-    "Adjusts the overall warmth or coolness of the display by shifting colour balance": "Justerer skærmens generelle varme eller kølighed ved at ændre farvebalancen",
-    "Brightness": "Lysstyrke",
-    "COLOUR OPTIONS": "FARVEMULIGHEDER",
-    "Contrast": "Kontrast",
-    "Controls the intensity and richness of colours": "Styrer farvernes intensitet og rigdom",
-    "Controls the overall lightness or darkness of content": "Styrer indholdets generelle lysstyrke eller mørkestyrke",
-    "Gamma": "Gamma",
-    "Hue Shift": "Farvetoneskift",
-    "Rotates colours around the colour wheel without changing brightness": "Roterer farverne rundt på farvehjulet uden at ændre lysstyrken",
-    "Saturation": "Mætning",
-    "Temperature": "Temperatur"
-  },
   "muxcolfilter": {
     "COLOUR FILTER": "FARVEFILTER",
     "Change the colour filter of your current selected content": "Skift farvefilteret for dit valgte indhold",
@@ -388,7 +373,6 @@
   "muxconfig": {
     "Back up your content to a restorable archive for your device or others": "Sikkerhedskopier dit indhold til et gendanneligt arkiv til din enhed eller andre",
     "CONFIGURATION": "KONFIGURATION",
-    "Colour Options": "Farvemuligheder",
     "Connect your device via Wi-Fi, enable web services, or enable USB functions": "Tilslut din enhed via Wi-Fi, aktiver webtjenester eller aktiver USB-funktioner",
     "Connectivity": "Forbindelse",
     "Customisation": "Tilpasning",
@@ -402,7 +386,6 @@
     "Overlay Options": "Overlay-indstillinger",
     "Power Settings": "Strømindstillinger",
     "Select your preferred language\n\nTranslations supported by Weblate": "Vælg dit foretrukne sprog\n\nOversættelser understøttet af Weblate",
-    "Settings to change the colour settings of content": "Indstillinger for at ændre farveindstillingerne for indhold",
     "Settings to change the hardware overlays of content": "Indstillinger for at ændre hardwareoverlejringer af indhold",
     "Settings to change the power features of the device": "Indstillinger for at ændre enhedens strømfunktioner",
     "Settings to change the visual aspects of the frontend": "Indstillinger til at ændre de visuelle aspekter af brugerflade",
@@ -708,7 +691,6 @@
     "Allow access to archive manager": "Tillad adgang til arkivadministrator",
     "Allow access to install content catalogues": "Tillad adgang for at installere indholdskataloger",
     "Allow access to use custom RetroArch configs": "Tillad adgang for at bruge brugerdefinerede RetroArch-konfigurationer",
-    "Allow changes to content colour adjustments": "Tillad ændringer af indholdsfarvejusteringer",
     "Allow changes to content overlays": "Tillad ændringer af indholdsoverlejringer",
     "Allow changes to interface visuals": "Tillad ændringer af brugerfladen",
     "Allow changing the system clock": "Tillad ændring af systemuret",
@@ -734,7 +716,6 @@
     "Collection Removal": "Fjerne samling",
     "Collection Viewing": "Visning af samling",
     "Colour Filter": "Farvefilter",
-    "Colour Options": "Farvemuligheder",
     "Configuration": "Konfiguration",
     "Content Control Scheme": "Indholdskontrolordning",
     "Content Core": "Indholdskerne",

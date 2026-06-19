@@ -358,21 +358,6 @@
     "Total network delay to the reference clock": "對參考時鐘的總網路延遲",
     "Update Interval": "更新間隔"
   },
-  "muxcoladjust": {
-    "Adjusts midtone brightness without affecting pure black or white": "調整中間色調亮度，而不影響純黑或純白",
-    "Adjusts the difference between light and dark areas of content": "調整內容中明暗區域之間的差異",
-    "Adjusts the overall warmth or coolness of the display by shifting colour balance": "透過調整色彩平衡來變更顯示器的整體暖色調或冷色調",
-    "Brightness": "亮度",
-    "COLOUR OPTIONS": "色彩選項",
-    "Contrast": "對比",
-    "Controls the intensity and richness of colours": "控制色彩的強度與飽和度",
-    "Controls the overall lightness or darkness of content": "控制內容的整體明暗程度",
-    "Gamma": "Gamma",
-    "Hue Shift": "色相偏移",
-    "Rotates colours around the colour wheel without changing brightness": "在不改變亮度的情況下，圍繞色輪旋轉顏色",
-    "Saturation": "飽和度",
-    "Temperature": "色溫"
-  },
   "muxcolfilter": {
     "COLOUR FILTER": "顏色濾鏡",
     "Change the colour filter of your current selected content": "變更目前所選內容的顏色濾鏡",
@@ -388,7 +373,6 @@
   "muxconfig": {
     "Back up your content to a restorable archive for your device or others": "將您的內容備份到可還原的檔案中，以便供您的裝置或其他裝置使用",
     "CONFIGURATION": "系統設置",
-    "Colour Options": "色彩選項",
     "Connect your device via Wi-Fi, enable web services, or enable USB functions": "透過Wi-Fi連接您的裝置、啟用Web服務或USB功能",
     "Connectivity": "連接功能",
     "Customisation": "個人化",
@@ -402,7 +386,6 @@
     "Overlay Options": "遮罩選項",
     "Power Settings": "電源設定",
     "Select your preferred language\n\nTranslations supported by Weblate": "選擇您的首選語言\n\n翻譯支援由Weblate提供",
-    "Settings to change the colour settings of content": "用於變更內容顏色選項的設定",
     "Settings to change the hardware overlays of content": "用於變更內容硬體遮罩的設置",
     "Settings to change the power features of the device": "更改設備電源功能的設定",
     "Settings to change the visual aspects of the frontend": "更改前端視覺效果的設定",
@@ -708,7 +691,6 @@
     "Allow access to archive manager": "允許檔案管理器存取",
     "Allow access to install content catalogues": "允許存取安裝內容目錄",
     "Allow access to use custom RetroArch configs": "允許使用自訂RetroArch配置",
-    "Allow changes to content colour adjustments": "允許變更內容顏色調整",
     "Allow changes to content overlays": "允許變更內容遮罩",
     "Allow changes to interface visuals": "允許更改介面視覺效果",
     "Allow changing the system clock": "允許更改系統時鐘",
@@ -734,7 +716,6 @@
     "Collection Removal": "收藏夾移除",
     "Collection Viewing": "收藏夾瀏覽",
     "Colour Filter": "顏色濾鏡",
-    "Colour Options": "色彩選項",
     "Configuration": "配置",
     "Content Control Scheme": "內容控制方案",
     "Content Core": "內容核心",

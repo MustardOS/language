@@ -358,21 +358,6 @@
     "Total network delay to the reference clock": "到参考时钟的总网络延迟",
     "Update Interval": "更新间隔"
   },
-  "muxcoladjust": {
-    "Adjusts midtone brightness without affecting pure black or white": "调整中间色调亮度，而不影响纯黑或纯白",
-    "Adjusts the difference between light and dark areas of content": "调整内容中明暗区域之间的差异",
-    "Adjusts the overall warmth or coolness of the display by shifting colour balance": "通过调整色彩平衡来调节整体显示色温",
-    "Brightness": "亮度",
-    "COLOUR OPTIONS": "色彩选项",
-    "Contrast": "对比度",
-    "Controls the intensity and richness of colours": "控制色彩的强度和饱和度",
-    "Controls the overall lightness or darkness of content": "控制内容的整体亮部或暗部",
-    "Gamma": "伽马值",
-    "Hue Shift": "色相偏移",
-    "Rotates colours around the colour wheel without changing brightness": "在不改变亮度的情况下，围绕色轮旋转颜色",
-    "Saturation": "饱和度",
-    "Temperature": "色温"
-  },
   "muxcolfilter": {
     "COLOUR FILTER": "色彩滤镜",
     "Change the colour filter of your current selected content": "更改目前所选内容的色彩滤镜",
@@ -388,7 +373,6 @@
   "muxconfig": {
     "Back up your content to a restorable archive for your device or others": "将你的内容备份到可还原的档案文件中，以便本设备或其他设备使用",
     "CONFIGURATION": "配置",
-    "Colour Options": "色彩选项",
     "Connect your device via Wi-Fi, enable web services, or enable USB functions": "通过Wi-Fi连接设备、启用网络服务或USB功能",
     "Connectivity": "连接",
     "Customisation": "个性化设置",
@@ -402,7 +386,6 @@
     "Overlay Options": "遮罩选项",
     "Power Settings": "电源设置",
     "Select your preferred language\n\nTranslations supported by Weblate": "选择您首选的语言\n\n翻译由Weblate支持",
-    "Settings to change the colour settings of content": "用于更改内容色彩选项的设置",
     "Settings to change the hardware overlays of content": "用于更改内容硬件遮罩的设置",
     "Settings to change the power features of the device": "用于更改设备电源功能的设置",
     "Settings to change the visual aspects of the frontend": "用于更改前端视觉样式的设置",
@@ -708,7 +691,6 @@
     "Allow access to archive manager": "允许访问归档管理器",
     "Allow access to install content catalogues": "允许安装内容目录",
     "Allow access to use custom RetroArch configs": "允许使用自定义RetroArch配置",
-    "Allow changes to content colour adjustments": "允许更改内容色彩调节",
     "Allow changes to content overlays": "允许更改内容遮罩",
     "Allow changes to interface visuals": "允许更改界面视觉效果",
     "Allow changing the system clock": "允许更改系统时钟",
@@ -734,7 +716,6 @@
     "Collection Removal": "收藏夹移除",
     "Collection Viewing": "收藏夹查看",
     "Colour Filter": "色彩滤镜",
-    "Colour Options": "色彩选项",
     "Configuration": "配置",
     "Content Control Scheme": "内容控制方案",
     "Content Core": "内容核心",
