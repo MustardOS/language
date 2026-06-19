@@ -593,6 +593,21 @@
     "Toggles internal Portmaster support on device": "Toggles internal Portmaster support on device",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!"
   },
+  "muxdistemp": {
+    "Colour temperature applied during sunrise hours": "Colour temperature applied during sunrise hours",
+    "Colour temperature applied during sunset hours": "Colour temperature applied during sunset hours",
+    "Colour temperature applied to the display": "Colour temperature applied to the display",
+    "DISPLAY TEMPERATURE": "DISPLAY TEMPERATURE",
+    "Enable or disable the sunrise and sunset colour temperature schedule": "Enable or disable the sunrise and sunset colour temperature schedule",
+    "Schedule": "Schedule",
+    "Sunrise Temperature": "Sunrise Temperature",
+    "Sunrise Time": "Sunrise Time",
+    "Sunset Temperature": "Sunset Temperature",
+    "Sunset Time": "Sunset Time",
+    "Temperature": "Temperature",
+    "Time of day when the sunrise temperature takes effect": "Time of day when the sunrise temperature takes effect",
+    "Time of day when the sunset temperature takes effect": "Time of day when the sunset temperature takes effect"
+  },
   "muxdownload": {
     "APP DOWNLOADER": "APP DOWNLOADER",
     "Archive Removed": "Archive Removed",
@@ -1479,6 +1494,7 @@
     "Change where the device will start up into": "Change where the device will start up into",
     "Change your current date, time, and timezone": "Change your current date, time, and timezone",
     "Configure boot, launch, and settings passcodes": "Configure boot, launch, and settings passcodes",
+    "Configure sunrise and sunset display colour temperature and schedule": "Configure sunrise and sunset display colour temperature and schedule",
     "Configure the device fancy RGB light system": "Configure the device fancy RGB light system",
     "Content Collection": "Content Collection",
     "Content Explorer": "सामग्री एक्सप्लोरर",
@@ -1488,6 +1504,7 @@
     "Device RGB Lights": "Device RGB Lights",
     "Device Startup": "डिवाइस स्टार्टअप",
     "Device Volume": "Device Volume",
+    "Display Temperature": "Display Temperature",
     "GENERAL SETTINGS": "सामान्य सेटिंग्स",
     "HDMI Output": "HDMI आउटपुट",
     "History": "इतिहास",
@@ -1509,6 +1526,7 @@
   },
   "muxvisual": {
     "Battery": "बैटरी",
+    "Bluetooth": "Bluetooth",
     "Bounce": "Bounce",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "Changes the top title label in Explore Content to show current storage device along with folder name",
     "Changes the transparency of the overlay image for the frontend only": "Changes the transparency of the overlay image for the frontend only",
@@ -1571,6 +1589,7 @@
     "Toggle the visibility of currently selected folder along with total in Explore Content": "Toggle the visibility of currently selected folder along with total in Explore Content",
     "Toggle the visibility of empty folders in Explore Content": "Toggle the visibility of empty folders in Explore Content",
     "Toggle the visibility of the battery glyph": "Toggle the visibility of the battery glyph",
+    "Toggle the visibility of the bluetooth glyph": "Toggle the visibility of the bluetooth glyph",
     "Toggle the visibility of the clock": "Toggle the visibility of the clock",
     "Toggle the visibility of the header title": "Toggle the visibility of the header title",
     "Toggle the visibility of the item count within folders in Explore Content": "Toggle the visibility of the item count within folders in Explore Content",
