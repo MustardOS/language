@@ -593,6 +593,21 @@
     "Toggles internal Portmaster support on device": "切換裝置上的內部Portmaster支援",
     "Toggles kernel level DebugFS mount on startup\n\nBest to leave this enabled unless otherwise advised!": "啟動時切換核心級DebugFS掛載\n\n除非另有建議，否則最好保持啟用狀態！"
   },
+  "muxdistemp": {
+    "Colour temperature applied during sunrise hours": "Colour temperature applied during sunrise hours",
+    "Colour temperature applied during sunset hours": "Colour temperature applied during sunset hours",
+    "Colour temperature applied to the display": "Colour temperature applied to the display",
+    "DISPLAY TEMPERATURE": "DISPLAY TEMPERATURE",
+    "Enable or disable the sunrise and sunset colour temperature schedule": "Enable or disable the sunrise and sunset colour temperature schedule",
+    "Schedule": "Schedule",
+    "Sunrise Temperature": "Sunrise Temperature",
+    "Sunrise Time": "Sunrise Time",
+    "Sunset Temperature": "Sunset Temperature",
+    "Sunset Time": "Sunset Time",
+    "Temperature": "Temperature",
+    "Time of day when the sunrise temperature takes effect": "Time of day when the sunrise temperature takes effect",
+    "Time of day when the sunset temperature takes effect": "Time of day when the sunset temperature takes effect"
+  },
   "muxdownload": {
     "APP DOWNLOADER": "應用程式下載器",
     "Archive Removed": "封裝檔已移除",
@@ -1479,6 +1494,7 @@
     "Change where the device will start up into": "變更裝置啟動時預設開啟的位置",
     "Change your current date, time, and timezone": "更改您目前的日期、時間和時區",
     "Configure boot, launch, and settings passcodes": "設定開機、啟動內容和存取設定頁面密碼",
+    "Configure sunrise and sunset display colour temperature and schedule": "Configure sunrise and sunset display colour temperature and schedule",
     "Configure the device fancy RGB light system": "配置設備的花俏RGB燈光系統",
     "Content Collection": "內容收藏夾",
     "Content Explorer": "內容瀏覽器",
@@ -1488,6 +1504,7 @@
     "Device RGB Lights": "裝置RGB燈光",
     "Device Startup": "設備啟動",
     "Device Volume": "設備音量",
+    "Display Temperature": "Display Temperature",
     "GENERAL SETTINGS": "通用設定",
     "HDMI Output": "HDMI輸出",
     "History": "遊玩記錄",
@@ -1509,6 +1526,7 @@
   },
   "muxvisual": {
     "Battery": "電池",
+    "Bluetooth": "Bluetooth",
     "Bounce": "Bounce",
     "Changes the top title label in Explore Content to show current storage device along with folder name": "瀏覽內容的頂部標題中是否顯示目前儲存裝置以及資料夾名稱",
     "Changes the transparency of the overlay image for the frontend only": "更改前端遮罩影像的透明度",
@@ -1571,6 +1589,7 @@
     "Toggle the visibility of currently selected folder along with total in Explore Content": "切換瀏覽內容導航時資料夾的計數顯示",
     "Toggle the visibility of empty folders in Explore Content": "探索內容時是否顯示空資料夾",
     "Toggle the visibility of the battery glyph": "切換電池圖標的顯示",
+    "Toggle the visibility of the bluetooth glyph": "Toggle the visibility of the bluetooth glyph",
     "Toggle the visibility of the clock": "切換時鐘的顯示",
     "Toggle the visibility of the header title": "切換頂部標題的可見性",
     "Toggle the visibility of the item count within folders in Explore Content": "在資料夾名稱後顯示項目總數",
