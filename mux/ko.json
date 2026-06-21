@@ -181,6 +181,7 @@
     "Window Shopper": "윈도우 쇼퍼"
   },
   "muxapp": {
+    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "어플리케이션",
     "Archive Manager": "아카이브 매니저",
     "Loading Application": "어플리케이션 실행 중",
@@ -410,9 +411,11 @@
     "Adjust network connectivity settings": "네트워크 연결 설정을 조정",
     "Bluetooth": "블루투스",
     "CONNECTIVITY": "연결",
+    "Configure an HTTP, HTTPS, or SOCKS5 proxy for outbound network traffic": "Configure an HTTP, HTTPS, or SOCKS5 proxy for outbound network traffic",
     "Connect to a Wi-Fi network manually or via a saved profile": "수동으로 또는 저장된 프로필을 통해 Wi-Fi 네트워크에 연결",
     "Manage Bluetooth devices and auto-connect settings": "블루투스 기기 관리 및 자동 연결 설정",
     "Network Settings": "네트워크 설정",
+    "Proxy Settings": "Proxy Settings",
     "Toggle a range of configurable services you can access via an active network": "네트워크 활성을 통해 액세스할 수 있는 구성 가능한 서비스를 전환",
     "Web Services": "웹 서비스",
     "Wi-Fi Network": "Wi-Fi 네트워크"
@@ -938,6 +941,28 @@
     "Trying to Connect…": "연결 시도중…",
     "Validating": "검증 중",
     "WI-FI PROFILE": "Wi-Fi 프로필"
+  },
+  "muxnetproxy": {
+    "Comma separated list of hosts that bypass the proxy (e.g. localhost,127.0.0.1,::1)": "Comma separated list of hosts that bypass the proxy (e.g. localhost,127.0.0.1,::1)",
+    "Enable or disable proxy routing for all outbound network traffic": "Enable or disable proxy routing for all outbound network traffic",
+    "Enter the proxy server address in host:port format (e.g. 62.133.62.17:1082)": "Enter the proxy server address in host:port format (e.g. 62.133.62.17:1082)",
+    "HTTP": "HTTP",
+    "HTTPS": "HTTPS",
+    "No Proxy": "No Proxy",
+    "No proxy server configured": "No proxy server configured",
+    "PROXY SETTINGS": "PROXY SETTINGS",
+    "Proxy Enabled": "Proxy Enabled",
+    "Proxy Server": "Proxy Server",
+    "Proxy Type": "Proxy Type",
+    "Proxy reachable": "Proxy reachable",
+    "Proxy settings saved": "Proxy settings saved",
+    "Proxy unreachable": "Proxy unreachable",
+    "Reboot required to apply changes": "Reboot required to apply changes",
+    "SOCKS5": "SOCKS5",
+    "Select the proxy protocol type of either HTTP, HTTPS, or SOCKS5": "Select the proxy protocol type of either HTTP, HTTPS, or SOCKS5",
+    "Test Proxy": "Test Proxy",
+    "Test connectivity through the configured proxy server using a live HTTP request": "Test connectivity through the configured proxy server using a live HTTP request",
+    "Testing…": "Testing…"
   },
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "사용 가능한 Wi-Fi 네트워크를 감지, 표시 및 연결",
