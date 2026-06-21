@@ -181,6 +181,7 @@
     "Window Shopper": "只看不玩"
   },
   "muxapp": {
+    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "應用程式",
     "Archive Manager": "封裝檔管理員",
     "Loading Application": "載入應用程式",
@@ -410,9 +411,11 @@
     "Adjust network connectivity settings": "調整網路連線設定",
     "Bluetooth": "藍牙",
     "CONNECTIVITY": "連接功能",
+    "Configure an HTTP, HTTPS, or SOCKS5 proxy for outbound network traffic": "Configure an HTTP, HTTPS, or SOCKS5 proxy for outbound network traffic",
     "Connect to a Wi-Fi network manually or via a saved profile": "手動或透過儲存的設定檔連接到 Wi-Fi 網路",
     "Manage Bluetooth devices and auto-connect settings": "管理藍牙裝置和自動連線設定",
     "Network Settings": "網路設定",
+    "Proxy Settings": "Proxy Settings",
     "Toggle a range of configurable services you can access via an active network": "切換您可以透過活動網路存取的一系列可設定服務",
     "Web Services": "網路服務",
     "Wi-Fi Network": "無線網路"
@@ -938,6 +941,28 @@
     "Trying to Connect…": "Trying to Connect…",
     "Validating": "Validating",
     "WI-FI PROFILE": "WI-FI PROFILE"
+  },
+  "muxnetproxy": {
+    "Comma separated list of hosts that bypass the proxy (e.g. localhost,127.0.0.1,::1)": "Comma separated list of hosts that bypass the proxy (e.g. localhost,127.0.0.1,::1)",
+    "Enable or disable proxy routing for all outbound network traffic": "Enable or disable proxy routing for all outbound network traffic",
+    "Enter the proxy server address in host:port format (e.g. 62.133.62.17:1082)": "Enter the proxy server address in host:port format (e.g. 62.133.62.17:1082)",
+    "HTTP": "HTTP",
+    "HTTPS": "HTTPS",
+    "No Proxy": "No Proxy",
+    "No proxy server configured": "No proxy server configured",
+    "PROXY SETTINGS": "PROXY SETTINGS",
+    "Proxy Enabled": "Proxy Enabled",
+    "Proxy Server": "Proxy Server",
+    "Proxy Type": "Proxy Type",
+    "Proxy reachable": "Proxy reachable",
+    "Proxy settings saved": "Proxy settings saved",
+    "Proxy unreachable": "Proxy unreachable",
+    "Reboot required to apply changes": "Reboot required to apply changes",
+    "SOCKS5": "SOCKS5",
+    "Select the proxy protocol type of either HTTP, HTTPS, or SOCKS5": "Select the proxy protocol type of either HTTP, HTTPS, or SOCKS5",
+    "Test Proxy": "Test Proxy",
+    "Test connectivity through the configured proxy server using a live HTTP request": "Test connectivity through the configured proxy server using a live HTTP request",
+    "Testing…": "Testing…"
   },
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "偵測、顯示並連接到可用的Wi-Fi網路",
