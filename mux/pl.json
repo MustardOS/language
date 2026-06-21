@@ -181,6 +181,7 @@
     "Window Shopper": "Przeglądający tytuły"
   },
   "muxapp": {
+    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "APLIKACJE",
     "Archive Manager": "Menedżer archiwów",
     "Loading Application": "Ładowanie aplikacji",
@@ -410,9 +411,11 @@
     "Adjust network connectivity settings": "Dostosuj ustawienia połączeń sieciowych",
     "Bluetooth": "Bluetooth",
     "CONNECTIVITY": "ŁĄCZNOŚĆ",
+    "Configure an HTTP, HTTPS, or SOCKS5 proxy for outbound network traffic": "Configure an HTTP, HTTPS, or SOCKS5 proxy for outbound network traffic",
     "Connect to a Wi-Fi network manually or via a saved profile": "Połącz się z siecią Wi-Fi ręcznie lub poprzez zapisany profil",
     "Manage Bluetooth devices and auto-connect settings": "Zarządzaj urządzeniami Bluetooth i ustawieniami automatycznego połączenia",
     "Network Settings": "Ustawienia sieciowe",
+    "Proxy Settings": "Proxy Settings",
     "Toggle a range of configurable services you can access via an active network": "Włącz wiele konfigurowalnych serwisów, do których można się dostać poprzez aktywną sieć",
     "Web Services": "Serwisy sieciowe",
     "Wi-Fi Network": "Sieć Wi-Fi"
@@ -938,6 +941,28 @@
     "Trying to Connect…": "Próba połączenia…",
     "Validating": "Sprawdzanie",
     "WI-FI PROFILE": "PROFIL WI-FI"
+  },
+  "muxnetproxy": {
+    "Comma separated list of hosts that bypass the proxy (e.g. localhost,127.0.0.1,::1)": "Comma separated list of hosts that bypass the proxy (e.g. localhost,127.0.0.1,::1)",
+    "Enable or disable proxy routing for all outbound network traffic": "Enable or disable proxy routing for all outbound network traffic",
+    "Enter the proxy server address in host:port format (e.g. 62.133.62.17:1082)": "Enter the proxy server address in host:port format (e.g. 62.133.62.17:1082)",
+    "HTTP": "HTTP",
+    "HTTPS": "HTTPS",
+    "No Proxy": "No Proxy",
+    "No proxy server configured": "No proxy server configured",
+    "PROXY SETTINGS": "PROXY SETTINGS",
+    "Proxy Enabled": "Proxy Enabled",
+    "Proxy Server": "Proxy Server",
+    "Proxy Type": "Proxy Type",
+    "Proxy reachable": "Proxy reachable",
+    "Proxy settings saved": "Proxy settings saved",
+    "Proxy unreachable": "Proxy unreachable",
+    "Reboot required to apply changes": "Reboot required to apply changes",
+    "SOCKS5": "SOCKS5",
+    "Select the proxy protocol type of either HTTP, HTTPS, or SOCKS5": "Select the proxy protocol type of either HTTP, HTTPS, or SOCKS5",
+    "Test Proxy": "Test Proxy",
+    "Test connectivity through the configured proxy server using a live HTTP request": "Test connectivity through the configured proxy server using a live HTTP request",
+    "Testing…": "Testing…"
   },
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Wyszukaj, wyświetl i połącz się z dostępnymi sieciami Wi-Fi",
