@@ -181,6 +181,7 @@
     "Window Shopper": "Siopadóir Fuinneoige"
   },
   "muxapp": {
+    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "FEIDHMCHLÁIR",
     "Archive Manager": "Bainisteoir Cartlainne",
     "Loading Application": "Feidhmchlár á Luchtú",
@@ -410,9 +411,11 @@
     "Adjust network connectivity settings": "Coigeartaigh socruithe nascachta líonra",
     "Bluetooth": "Bluetooth",
     "CONNECTIVITY": "NASCACHT",
+    "Configure an HTTP, HTTPS, or SOCKS5 proxy for outbound network traffic": "Configure an HTTP, HTTPS, or SOCKS5 proxy for outbound network traffic",
     "Connect to a Wi-Fi network manually or via a saved profile": "Ceangail le líonra Wi-Fi de láimh nó trí phróifíl shábháilte",
     "Manage Bluetooth devices and auto-connect settings": "Bainistigh gléasanna Bluetooth agus socruithe uathcheangail",
     "Network Settings": "Socruithe Líonra",
+    "Proxy Settings": "Proxy Settings",
     "Toggle a range of configurable services you can access via an active network": "Scoránaigh raon seirbhísí inchumraithe ar féidir leat rochtain a fháil orthu trí líonra gníomhach",
     "Web Services": "Seirbhísí Gréasáin",
     "Wi-Fi Network": "Líonra Wi Fi"
@@ -938,6 +941,28 @@
     "Trying to Connect…": "Ag iarraidh ceangal…",
     "Validating": "Ag bailíochtú",
     "WI-FI PROFILE": "PRÓIFÍL WI-FI"
+  },
+  "muxnetproxy": {
+    "Comma separated list of hosts that bypass the proxy (e.g. localhost,127.0.0.1,::1)": "Comma separated list of hosts that bypass the proxy (e.g. localhost,127.0.0.1,::1)",
+    "Enable or disable proxy routing for all outbound network traffic": "Enable or disable proxy routing for all outbound network traffic",
+    "Enter the proxy server address in host:port format (e.g. 62.133.62.17:1082)": "Enter the proxy server address in host:port format (e.g. 62.133.62.17:1082)",
+    "HTTP": "HTTP",
+    "HTTPS": "HTTPS",
+    "No Proxy": "No Proxy",
+    "No proxy server configured": "No proxy server configured",
+    "PROXY SETTINGS": "PROXY SETTINGS",
+    "Proxy Enabled": "Proxy Enabled",
+    "Proxy Server": "Proxy Server",
+    "Proxy Type": "Proxy Type",
+    "Proxy reachable": "Proxy reachable",
+    "Proxy settings saved": "Proxy settings saved",
+    "Proxy unreachable": "Proxy unreachable",
+    "Reboot required to apply changes": "Reboot required to apply changes",
+    "SOCKS5": "SOCKS5",
+    "Select the proxy protocol type of either HTTP, HTTPS, or SOCKS5": "Select the proxy protocol type of either HTTP, HTTPS, or SOCKS5",
+    "Test Proxy": "Test Proxy",
+    "Test connectivity through the configured proxy server using a live HTTP request": "Test connectivity through the configured proxy server using a live HTTP request",
+    "Testing…": "Testing…"
   },
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Líonraí Wi-Fi atá ar fáil a bhrath, a thaispeáint agus ceangal leo",
