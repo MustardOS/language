@@ -339,9 +339,9 @@
     "Status": "Состояние",
     "The Bluetooth address of this device": "Bluetooth адрес устройства",
     "The battery level reported by the device": "Уровень заряда, определенный устройством",
-    "The display name for this Bluetooth device": "The display name for this Bluetooth device",
-    "The type of Bluetooth device": "The type of Bluetooth device",
-    "Unknown": "Unknown"
+    "The display name for this Bluetooth device": "Отображаемое Bluetooth название устройства",
+    "The type of Bluetooth device": "Тип Bluetooth устройства",
+    "Unknown": "Неизвестно"
   },
   "muxcharge": {
     "Booting System - Please Wait…": "Запуск системы. Пожалуйста, подождите.",
@@ -411,7 +411,7 @@
     "Adjust network connectivity settings": "Настройка сетевого подключения",
     "Bluetooth": "Bluetooth",
     "CONNECTIVITY": "СОЕДИНЕНИЕ",
-    "Configure an HTTP, HTTPS, or SOCKS5 proxy for outbound network traffic": "Configure an HTTP, HTTPS, or SOCKS5 proxy for outbound network traffic",
+    "Configure an HTTP, HTTPS, or SOCKS5 proxy for outbound network traffic": "Настройка HTTP, HTTPS, или SOCKS5 прокси для исходящего сетевого трафика",
     "Connect to a Wi-Fi network manually or via a saved profile": "Подключение к сети Wi-Fi вручную или через сохраненный профиль",
     "Manage Bluetooth devices and auto-connect settings": "Manage Bluetooth devices and auto-connect settings",
     "Network Settings": "Настройки сети",
