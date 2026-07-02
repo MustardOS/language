@@ -70,7 +70,6 @@
     "Online": "En línea",
     "Open": "Abrir",
     "Options": "Opciones",
-    "Outward": "Hacia el exterior",
     "Preview": "Avance",
     "Preview Image": "Vista previa de la imagen",
     "Previous": "Anterior",
@@ -91,7 +90,6 @@
     "Scroll": "Desplazar",
     "Select": "Seleccionar",
     "Set": "Establecer",
-    "Shrink": "Reducir",
     "Shutting Down…": "Apagando…",
     "Skip Dialogue": "Saltar diálogo",
     "Slow": "Lento",
@@ -116,8 +114,7 @@
     "Vertical": "Vertical",
     "Visible": "Visible",
     "Warning": "Advertencia",
-    "Wednesday": "Miércoles",
-    "Wobble": "Oscilación"
+    "Wednesday": "Miércoles"
   },
   "muxactivity": {
     "ACTIVITY TRACKER": "MONITOR DE ACTIVIDAD",
@@ -181,19 +178,11 @@
     "Window Shopper": "Mirador de escaparates"
   },
   "muxapp": {
-    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "APLICACIONES",
     "Archive Manager": "Administrador de archivos",
     "Loading Application": "Cargando aplicación",
-    "Mustard Terminal": "Terminal Mustard",
     "No Applications Found": "No se encontraron aplicaciones",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Songo#5": "Songo#5",
-    "Task Toolkit": "Conjunto de herramientas de tareas",
-    "vTree Gold": "vTree Gold"
+    "Task Toolkit": "Conjunto de herramientas de tareas"
   },
   "muxappcon": {
     "APPLICATION OPTION": "OPCIÓN DE APLICACIÓN",
@@ -308,8 +297,7 @@
     "Device Info": "Información del dispositivo",
     "Disconnecting device…": "Desconectando el dispositivo…",
     "No Bluetooth Devices Found": "No se han encontrado dispositivos Bluetooth",
-    "Scan for nearby Bluetooth devices and pair or connect to them": "Busca dispositivos Bluetooth cercanos y empareja o conéctate a ellos",
-    "Scanning for Bluetooth Devices…": "Buscando dispositivos Bluetooth…"
+    "Scan for nearby Bluetooth devices and pair or connect to them": "Busca dispositivos Bluetooth cercanos y empareja o conéctate a ellos"
   },
   "muxbtdev": {
     "Address": "Dirección",
@@ -488,7 +476,6 @@
     "Allow grid mode for content": "Permitir el modo cuadrícula para el contenido",
     "Allows for testing different theme resolutions": "Permite probar diferentes resoluciones de temas",
     "Alternative Theme": "Tema alternativo",
-    "Background Animation": "Animación de fondo",
     "Background Music": "Música de fondo",
     "Background Music Volume": "Volumen de la música de fondo",
     "Behind": "Detrás",
@@ -549,7 +536,6 @@
     "Theme Resolution": "Resolución del tema",
     "Theme Scaling": "Escala del tema",
     "Toggle if content highlight uses full width of device screen": "Activar o desactivar si el resaltado de contenido utiliza todo el ancho de la pantalla del dispositivo",
-    "Toggle the background animation of the current selected theme": "Alternar la animación de fondo del tema seleccionado actualmente",
     "Toggle the background music of the frontend": "Activar o desactivar la música de fondo de la interfaz",
     "Toggle the fade to black animation on content launching": "Activar o desactivar la animación de fundido a negro al iniciar el contenido",
     "Toggle the navigation sound of the frontend": "Activar o desactivar el sonido de navegación de la interfaz",
@@ -661,14 +647,11 @@
     "No Governors Found…": "No se encontraron gobernadores …"
   },
   "muxhdmi": {
-    "Audio Output": "Salida de audio",
     "Colour Depth": "Profundidad de color",
     "Colour Range": "Gama de colores",
     "Colour Space": "Espacio de color",
-    "External": "Externo",
     "Full": "Completo",
     "HDMI SETTINGS": "AJUSTES DE HDMI",
-    "Internal": "Interno",
     "Limited": "Limitado",
     "Over": "Encima",
     "Resolution": "Resolución",
@@ -677,7 +660,6 @@
     "Set the colour depth, such as 8-bit or 10-bit": "Establezca la profundidad de color, por ejemplo, 8 bits o 10 bits",
     "Set the colour range of RGB colour space": "Establezca el rango de color del espacio de color RGB",
     "Set the colour space, such as RGB or YUV": "Establezca el espacio de color, como RGB o YUV",
-    "Switch between device speaker or external monitor audio via HDMI connection": "Cambia entre el altavoz del dispositivo o el audio del monitor externo a través de la conexión HDMI",
     "Switch between overscan or underscan to fit the display screen": "Cambia entre sobreescaneo o subescaneo para ajustar la pantalla",
     "Under": "Debajo"
   },
@@ -967,8 +949,7 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Detecta, muestra y permite conectarte a las redes Wi-Fi disponibles",
     "NETWORK SCAN": "ESCÁNER DE RED",
-    "No Wi-Fi Networks Found": "No se encontraron redes Wi-Fi",
-    "Scanning for Wi-Fi Networks…": "Buscando redes Wi-Fi…"
+    "No Wi-Fi Networks Found": "No se encontraron redes Wi-Fi"
   },
   "muxnetwork": {
     "Auto": "Auto",
@@ -1620,8 +1601,6 @@
     "Replaces the dash (-) with a colon (:) for content labels": "Reemplaza el guion (-) por dos puntos (:) para las etiquetas de contenido",
     "Replaces the label of shortened content folders to more appropriately named labels": "Reemplaza la etiqueta de las carpetas de contenido abreviado con etiquetas con nombres más apropiados",
     "Select the animation used when dialogue boxes appear": "Selecciona la animación que se utilizará cuando aparezcan los cuadros de diálogo",
-    "Selection Animation": "Animación de selección",
-    "Selection Style": "Estilo de selección",
     "Set sorting priority levels for content": "Establecer niveles de prioridad de clasificación para el contenido",
     "Shadow Rendering": "Renderizado de sombras",
     "Show Hidden Content": "Mostrar contenido oculto",

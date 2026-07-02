@@ -70,7 +70,6 @@
     "Online": "接続",
     "Open": "開く",
     "Options": "オプション",
-    "Outward": "Outward",
     "Preview": "Preview",
     "Preview Image": "プレビュー画像",
     "Previous": "現在の設定を使用",
@@ -91,7 +90,6 @@
     "Scroll": "スクロール",
     "Select": "選択する",
     "Set": "設定",
-    "Shrink": "Shrink",
     "Shutting Down…": "電源を切っています…",
     "Skip Dialogue": "Skip Dialogue",
     "Slow": "Slow",
@@ -116,8 +114,7 @@
     "Vertical": "Vertical",
     "Visible": "表示する",
     "Warning": "Warning",
-    "Wednesday": "水曜",
-    "Wobble": "Wobble"
+    "Wednesday": "水曜"
   },
   "muxactivity": {
     "ACTIVITY TRACKER": "アクティビティトラッカー",
@@ -181,19 +178,11 @@
     "Window Shopper": "Window Shopper"
   },
   "muxapp": {
-    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "アプリケーション",
     "Archive Manager": "アーカイブマネージャー",
     "Loading Application": "アプリケーションを起動しています",
-    "Mustard Terminal": "Mustard Terminal",
     "No Applications Found": "アプリケーションが見つかりませんでした",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Songo#5": "Songo#5",
-    "Task Toolkit": "タスクツール集",
-    "vTree Gold": "vTree Gold"
+    "Task Toolkit": "タスクツール集"
   },
   "muxappcon": {
     "APPLICATION OPTION": "アプリケーションオプション",
@@ -308,8 +297,7 @@
     "Device Info": "Device Info",
     "Disconnecting device…": "Disconnecting device…",
     "No Bluetooth Devices Found": "No Bluetooth Devices Found",
-    "Scan for nearby Bluetooth devices and pair or connect to them": "Scan for nearby Bluetooth devices and pair or connect to them",
-    "Scanning for Bluetooth Devices…": "Scanning for Bluetooth Devices…"
+    "Scan for nearby Bluetooth devices and pair or connect to them": "Scan for nearby Bluetooth devices and pair or connect to them"
   },
   "muxbtdev": {
     "Address": "Address",
@@ -488,7 +476,6 @@
     "Allow grid mode for content": "コンテンツをグリッド形式で表示します",
     "Allows for testing different theme resolutions": "さまざまなテーマの解像度をテストできるようになります",
     "Alternative Theme": "バリエーション",
-    "Background Animation": "背景アニメーション",
     "Background Music": "背景音楽",
     "Background Music Volume": "背景音楽の音量",
     "Behind": "背面",
@@ -549,7 +536,6 @@
     "Theme Resolution": "テーマ解像度",
     "Theme Scaling": "Theme Scaling",
     "Toggle if content highlight uses full width of device screen": "コンテンツのハイライト表示でデバイスの画面幅をすべて使用するかどうかを切り替えます",
-    "Toggle the background animation of the current selected theme": "選択中のテーマの背景アニメーションを再生します",
     "Toggle the background music of the frontend": "フロントエンドの背景音楽を切り替えます",
     "Toggle the fade to black animation on content launching": "コンテンツ起動時に黒い画像にフェードするアニメーションを再生します",
     "Toggle the navigation sound of the frontend": "フロントエンドの操作音を切り替えます",
@@ -661,14 +647,11 @@
     "No Governors Found…": "ガバナーが見つかりませんでした…"
   },
   "muxhdmi": {
-    "Audio Output": "音声出力",
     "Colour Depth": "色深度",
     "Colour Range": "色域",
     "Colour Space": "色空間",
-    "External": "外部出力",
     "Full": "フル",
     "HDMI SETTINGS": "HDMI 設定",
-    "Internal": "内蔵",
     "Limited": "限定",
     "Over": "オーバー",
     "Resolution": "解像度",
@@ -677,7 +660,6 @@
     "Set the colour depth, such as 8-bit or 10-bit": "Set the colour depth, such as 8-bit or 10-bit",
     "Set the colour range of RGB colour space": "Set the colour range of RGB colour space",
     "Set the colour space, such as RGB or YUV": "Set the colour space, such as RGB or YUV",
-    "Switch between device speaker or external monitor audio via HDMI connection": "内蔵スピーカーと HDMI 接続された機器からの出力を切り替えます",
     "Switch between overscan or underscan to fit the display screen": "ディスプレイに合わせてオーバーまたはアンダースキャンを切り替えます",
     "Under": "アンダー"
   },
@@ -967,8 +949,7 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "使用できる Wi-Fi ネットワークを表示して接続します",
     "NETWORK SCAN": "ネットワーク検索",
-    "No Wi-Fi Networks Found": "Wi-Fi ネットワークが見つかりませんでした",
-    "Scanning for Wi-Fi Networks…": "Wi-Fi ネットワークを検出しています…"
+    "No Wi-Fi Networks Found": "Wi-Fi ネットワークが見つかりませんでした"
   },
   "muxnetwork": {
     "Auto": "Auto",
@@ -1620,8 +1601,6 @@
     "Replaces the dash (-) with a colon (:) for content labels": "コンテンツ名のダッシュ (-) をコロン (:) で置き換えます",
     "Replaces the label of shortened content folders to more appropriately named labels": "省略されたフォルダ名をより適切なフォルダ名で置き換えます",
     "Select the animation used when dialogue boxes appear": "Select the animation used when dialogue boxes appear",
-    "Selection Animation": "Selection Animation",
-    "Selection Style": "Selection Style",
     "Set sorting priority levels for content": "コンテンツの並べ替え優先順序を設定します",
     "Shadow Rendering": "Shadow Rendering",
     "Show Hidden Content": "不可視コンテンツの表示",

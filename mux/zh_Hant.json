@@ -70,7 +70,6 @@
     "Online": "上線",
     "Open": "開啟",
     "Options": "選項",
-    "Outward": "Outward",
     "Preview": "預覽",
     "Preview Image": "預覽影像",
     "Previous": "先前",
@@ -91,7 +90,6 @@
     "Scroll": "捲動",
     "Select": "選擇",
     "Set": "設定",
-    "Shrink": "Shrink",
     "Shutting Down…": "正在關機…",
     "Skip Dialogue": "Skip Dialogue",
     "Slow": "Slow",
@@ -116,8 +114,7 @@
     "Vertical": "Vertical",
     "Visible": "顯示",
     "Warning": "警告",
-    "Wednesday": "週三",
-    "Wobble": "Wobble"
+    "Wednesday": "週三"
   },
   "muxactivity": {
     "ACTIVITY TRACKER": "活動追蹤器",
@@ -181,19 +178,11 @@
     "Window Shopper": "只看不玩"
   },
   "muxapp": {
-    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "應用程式",
     "Archive Manager": "封裝檔管理員",
     "Loading Application": "載入應用程式",
-    "Mustard Terminal": "Mustard終端",
     "No Applications Found": "找不到應用程式",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster移殖遊戲管理",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Songo#5": "Songo#5音樂播放器",
-    "Task Toolkit": "任務工具箱",
-    "vTree Gold": "vTree Gold檔案管理器"
+    "Task Toolkit": "任務工具箱"
   },
   "muxappcon": {
     "APPLICATION OPTION": "應用程式選項",
@@ -308,8 +297,7 @@
     "Device Info": "設備資訊",
     "Disconnecting device…": "正在斷開設備連線…",
     "No Bluetooth Devices Found": "未找到藍牙設備",
-    "Scan for nearby Bluetooth devices and pair or connect to them": "掃描附近的藍牙設備並與之配對或連線",
-    "Scanning for Bluetooth Devices…": "正在掃描藍牙設備…"
+    "Scan for nearby Bluetooth devices and pair or connect to them": "掃描附近的藍牙設備並與之配對或連線"
   },
   "muxbtdev": {
     "Address": "位址",
@@ -488,7 +476,6 @@
     "Allow grid mode for content": "允許內容的網格模式",
     "Allows for testing different theme resolutions": "允許測試不同的主題分辨率",
     "Alternative Theme": "主題選項",
-    "Background Animation": "背景動畫",
     "Background Music": "背景音樂",
     "Background Music Volume": "背景音樂音量",
     "Behind": "置後",
@@ -549,7 +536,6 @@
     "Theme Resolution": "主題分辨率",
     "Theme Scaling": "主題縮放",
     "Toggle if content highlight uses full width of device screen": "切換內容高亮顯示是否使用裝置螢幕全寬",
-    "Toggle the background animation of the current selected theme": "切換目前主題的背景動畫",
     "Toggle the background music of the frontend": "切換前端的背景音樂",
     "Toggle the fade to black animation on content launching": "在內容啟動時是否顯示黑色淡出動畫",
     "Toggle the navigation sound of the frontend": "切換前端的導航音效",
@@ -661,14 +647,11 @@
     "No Governors Found…": "找不到調速器…"
   },
   "muxhdmi": {
-    "Audio Output": "音訊輸出",
     "Colour Depth": "色彩深度",
     "Colour Range": "色彩範圍",
     "Colour Space": "色彩空間",
-    "External": "外部",
     "Full": "全部",
     "HDMI SETTINGS": "HDMI設定",
-    "Internal": "內部",
     "Limited": "有限的",
     "Over": "過掃描(拉伸)",
     "Resolution": "分辨率",
@@ -677,7 +660,6 @@
     "Set the colour depth, such as 8-bit or 10-bit": "設定色彩深度，例如8bit或10bit",
     "Set the colour range of RGB colour space": "設定RGB色彩空間的色彩範圍",
     "Set the colour space, such as RGB or YUV": "設定色彩空間，例如RGB或YUV",
-    "Switch between device speaker or external monitor audio via HDMI connection": "HDMI連接時音訊使用裝置揚聲器或外部顯示器輸出",
     "Switch between overscan or underscan to fit the display screen": "在過掃描或欠掃描之間切換以適應顯示屏幕",
     "Under": "欠掃描(原比例)"
   },
@@ -967,8 +949,7 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "偵測、顯示並連接到可用的Wi-Fi網路",
     "NETWORK SCAN": "掃描網路",
-    "No Wi-Fi Networks Found": "找不到Wi-Fi網路",
-    "Scanning for Wi-Fi Networks…": "正在掃描Wi-Fi網路…"
+    "No Wi-Fi Networks Found": "找不到Wi-Fi網路"
   },
   "muxnetwork": {
     "Auto": "Auto",
@@ -1620,8 +1601,6 @@
     "Replaces the dash (-) with a colon (:) for content labels": "將內容標籤的破折號 (-) 替換為冒號 (:)",
     "Replaces the label of shortened content folders to more appropriately named labels": "將簡縮的內容資料夾名稱替換為方便辨識的名稱",
     "Select the animation used when dialogue boxes appear": "Select the animation used when dialogue boxes appear",
-    "Selection Animation": "Selection Animation",
-    "Selection Style": "Selection Style",
     "Set sorting priority levels for content": "設定內容排序優先級",
     "Shadow Rendering": "Shadow Rendering",
     "Show Hidden Content": "顯示隱藏內容",

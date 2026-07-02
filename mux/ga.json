@@ -70,7 +70,6 @@
     "Online": "Ar Líne",
     "Open": "Oscail",
     "Options": "Roghanna",
-    "Outward": "Amach",
     "Preview": "Réamhamharc",
     "Preview Image": "Réamhamharc ar an Íomhá",
     "Previous": "Roimhe Seo",
@@ -91,7 +90,6 @@
     "Scroll": "Scrollaigh",
     "Select": "Roghnaigh",
     "Set": "Socraigh",
-    "Shrink": "Laghdaigh",
     "Shutting Down…": "Ag múchadh…",
     "Skip Dialogue": "Léim an Dialóg",
     "Slow": "Mall",
@@ -116,8 +114,7 @@
     "Vertical": "Ingearach",
     "Visible": "Infheicthe",
     "Warning": "Rabhadh",
-    "Wednesday": "Dé Céadaoin",
-    "Wobble": "Creathadh"
+    "Wednesday": "Dé Céadaoin"
   },
   "muxactivity": {
     "ACTIVITY TRACKER": "RIANAITHEOIR GNÍOMHAÍOCHTA",
@@ -181,19 +178,11 @@
     "Window Shopper": "Siopadóir Fuinneoige"
   },
   "muxapp": {
-    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "FEIDHMCHLÁIR",
     "Archive Manager": "Bainisteoir Cartlainne",
     "Loading Application": "Feidhmchlár á Luchtú",
-    "Mustard Terminal": "Teirminéal Mustaird",
     "No Applications Found": "Níor aimsíodh aon iarratas",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "Máistir Port",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Songo#5": "Amhrán #5",
-    "Task Toolkit": "Foireann Uirlisí Tascanna",
-    "vTree Gold": "vTree Gold"
+    "Task Toolkit": "Foireann Uirlisí Tascanna"
   },
   "muxappcon": {
     "APPLICATION OPTION": "ROGHA FEIDHMCHLÁR",
@@ -308,8 +297,7 @@
     "Device Info": "Eolas faoin ngléas",
     "Disconnecting device…": "Ag dícheangal gléas…",
     "No Bluetooth Devices Found": "Níor aimsíodh aon ghléasanna Bluetooth",
-    "Scan for nearby Bluetooth devices and pair or connect to them": "Déan scanadh le haghaidh gléasanna Bluetooth in aice láimhe agus péireáil nó ceangail leo",
-    "Scanning for Bluetooth Devices…": "Ag scanadh le haghaidh gléasanna Bluetooth…"
+    "Scan for nearby Bluetooth devices and pair or connect to them": "Déan scanadh le haghaidh gléasanna Bluetooth in aice láimhe agus péireáil nó ceangail leo"
   },
   "muxbtdev": {
     "Address": "Seoladh",
@@ -488,7 +476,6 @@
     "Allow grid mode for content": "Ceadaigh mód eangaí le haghaidh ábhair",
     "Allows for testing different theme resolutions": "Ceadaíonn sé réitigh téama éagsúla a thástáil",
     "Alternative Theme": "Téama Malartach",
-    "Background Animation": "Beochan Cúlra",
     "Background Music": "Ceol Cúlra",
     "Background Music Volume": "Imleabhar Ceoil Chúlra",
     "Behind": "Taobh thiar",
@@ -549,7 +536,6 @@
     "Theme Resolution": "Rún Téama",
     "Theme Scaling": "Scálú Téama",
     "Toggle if content highlight uses full width of device screen": "Scoraigh má úsáideann aird an ábhair leithead iomlán scáileáin an ghléis",
-    "Toggle the background animation of the current selected theme": "Scoránaigh beochan chúlra an téama roghnaithe reatha",
     "Toggle the background music of the frontend": "Scoraigh ceol cúlra an tosaigh",
     "Toggle the fade to black animation on content launching": "Scoránaigh an beochan céimnithe go dubh ar sheoladh ábhair",
     "Toggle the navigation sound of the frontend": "Scoraigh fuaim nascleanúna an tosaigh",
@@ -661,14 +647,11 @@
     "No Governors Found…": "Níor aimsíodh aon Ghobharnóir…"
   },
   "muxhdmi": {
-    "Audio Output": "Aschur Fuaime",
     "Colour Depth": "Doimhneacht Dath",
     "Colour Range": "Raon Dath",
     "Colour Space": "Spás Dath",
-    "External": "Seachtrach",
     "Full": "Iomlán",
     "HDMI SETTINGS": "SOCRUITHE HDMI",
-    "Internal": "Inmheánach",
     "Limited": "Teoranta",
     "Over": "Thar",
     "Resolution": "Rún",
@@ -677,7 +660,6 @@
     "Set the colour depth, such as 8-bit or 10-bit": "Socraigh an doimhneacht datha, mar shampla 8-giotán nó 10-giotán",
     "Set the colour range of RGB colour space": "Socraigh raon dathanna an spáis dathanna RGB",
     "Set the colour space, such as RGB or YUV": "Socraigh an spás datha, amhail RGB nó YUV",
-    "Switch between device speaker or external monitor audio via HDMI connection": "Athraigh idir callaire gléis nó fuaim mhonatóra sheachtraigh trí nasc HDMI",
     "Switch between overscan or underscan to fit the display screen": "Athraigh idir overscan nó underscan a d'oirfeadh an scáileán taispeána",
     "Under": "Faoi"
   },
@@ -967,8 +949,7 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Líonraí Wi-Fi atá ar fáil a bhrath, a thaispeáint agus ceangal leo",
     "NETWORK SCAN": "SCANADH LÍONRA",
-    "No Wi-Fi Networks Found": "Níor aimsíodh aon líonraí Wi-Fi",
-    "Scanning for Wi-Fi Networks…": "Ag scanadh do líonraí Wi-Fi…"
+    "No Wi-Fi Networks Found": "Níor aimsíodh aon líonraí Wi-Fi"
   },
   "muxnetwork": {
     "Auto": "Uath",
@@ -1620,8 +1601,6 @@
     "Replaces the dash (-) with a colon (:) for content labels": "Cuirtear idirstad (:) in ionad an dash (-) le haghaidh lipéid inneachair",
     "Replaces the label of shortened content folders to more appropriately named labels": "Cuirtear lipéid na bhfillteán inneachair ghiorraithe in ionad lipéid atá ainmnithe níos oiriúnaí",
     "Select the animation used when dialogue boxes appear": "Roghnaigh an beochan a úsáidtear nuair a thaispeántar boscaí dialóige",
-    "Selection Animation": "Beochan Roghnúcháin",
-    "Selection Style": "Stíl Roghnúcháin",
     "Set sorting priority levels for content": "Socraigh leibhéil tosaíochta sórtála le haghaidh ábhair",
     "Shadow Rendering": "Rindreáil Scáthanna",
     "Show Hidden Content": "Taispeáin Ábhar Hidden",

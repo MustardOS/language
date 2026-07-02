@@ -70,7 +70,6 @@
     "Online": "在线",
     "Open": "打开",
     "Options": "选项",
-    "Outward": "Outward",
     "Preview": "预览",
     "Preview Image": "预览图片",
     "Previous": "上一个",
@@ -91,7 +90,6 @@
     "Scroll": "滚动",
     "Select": "选择",
     "Set": "设定",
-    "Shrink": "Shrink",
     "Shutting Down…": "正在关机…",
     "Skip Dialogue": "Skip Dialogue",
     "Slow": "Slow",
@@ -116,8 +114,7 @@
     "Vertical": "Vertical",
     "Visible": "显示",
     "Warning": "Warning",
-    "Wednesday": "周三",
-    "Wobble": "Wobble"
+    "Wednesday": "周三"
   },
   "muxactivity": {
     "ACTIVITY TRACKER": "活动追踪器",
@@ -181,19 +178,11 @@
     "Window Shopper": "只看不玩"
   },
   "muxapp": {
-    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "应用程序",
     "Archive Manager": "归档管理器",
     "Loading Application": "正在加载应用程序",
-    "Mustard Terminal": "Mustard 终端",
     "No Applications Found": "未找到应用程序",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster移植游戏",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Songo#5": "Songo#5音乐播放器",
-    "Task Toolkit": "任务工具箱",
-    "vTree Gold": "黄金版"
+    "Task Toolkit": "任务工具箱"
   },
   "muxappcon": {
     "APPLICATION OPTION": "应用程序选项",
@@ -308,8 +297,7 @@
     "Device Info": "Device Info",
     "Disconnecting device…": "Disconnecting device…",
     "No Bluetooth Devices Found": "No Bluetooth Devices Found",
-    "Scan for nearby Bluetooth devices and pair or connect to them": "Scan for nearby Bluetooth devices and pair or connect to them",
-    "Scanning for Bluetooth Devices…": "Scanning for Bluetooth Devices…"
+    "Scan for nearby Bluetooth devices and pair or connect to them": "Scan for nearby Bluetooth devices and pair or connect to them"
   },
   "muxbtdev": {
     "Address": "Address",
@@ -488,7 +476,6 @@
     "Allow grid mode for content": "允许内容使用网格模式",
     "Allows for testing different theme resolutions": "允许测试不同的主题分辨率",
     "Alternative Theme": "主题样式",
-    "Background Animation": "背景动画",
     "Background Music": "背景音乐",
     "Background Music Volume": "背景音乐音量",
     "Behind": "后置",
@@ -549,7 +536,6 @@
     "Theme Resolution": "主题分辨率",
     "Theme Scaling": "主题缩放",
     "Toggle if content highlight uses full width of device screen": "切换内容高亮显示时是否使用设备屏幕的完整宽度",
-    "Toggle the background animation of the current selected theme": "开启/关闭当前所选主题的背景动画",
     "Toggle the background music of the frontend": "开启/关闭前端的背景音乐",
     "Toggle the fade to black animation on content launching": "开启/关闭内容启动时的黑屏淡出动画",
     "Toggle the navigation sound of the frontend": "开启/关闭前端的导航音效",
@@ -661,14 +647,11 @@
     "No Governors Found…": "未找到可用的CPU性能调节器…"
   },
   "muxhdmi": {
-    "Audio Output": "音频输出",
     "Colour Depth": "色彩深度",
     "Colour Range": "色彩范围",
     "Colour Space": "色彩空间",
-    "External": "外部设备",
     "Full": "全部",
     "HDMI SETTINGS": "HDMI设置",
-    "Internal": "内置扬声器",
     "Limited": "有限的",
     "Over": "过扫描",
     "Resolution": "分辨率",
@@ -677,7 +660,6 @@
     "Set the colour depth, such as 8-bit or 10-bit": "设置色彩深度，例如8bit或10bit",
     "Set the colour range of RGB colour space": "设置RGB色彩空间的色域",
     "Set the colour space, such as RGB or YUV": "设置色彩空间，例如RGB或YUV",
-    "Switch between device speaker or external monitor audio via HDMI connection": "切换内置扬声器或HDMI外接设备音频",
     "Switch between overscan or underscan to fit the display screen": "切换过扫描或欠扫描以适配屏幕",
     "Under": "欠扫描"
   },
@@ -967,8 +949,7 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "扫描、显示并连接可用Wi-Fi网络",
     "NETWORK SCAN": "网络扫描",
-    "No Wi-Fi Networks Found": "未找到Wi-Fi网络",
-    "Scanning for Wi-Fi Networks…": "正在扫描Wi-Fi网络…"
+    "No Wi-Fi Networks Found": "未找到Wi-Fi网络"
   },
   "muxnetwork": {
     "Auto": "Auto",
@@ -1620,8 +1601,6 @@
     "Replaces the dash (-) with a colon (:) for content labels": "将内容名称中的短横线 (-) 替换为冒号 (:)",
     "Replaces the label of shortened content folders to more appropriately named labels": "将内容文件夹的简称替换为对应的平台全名",
     "Select the animation used when dialogue boxes appear": "Select the animation used when dialogue boxes appear",
-    "Selection Animation": "Selection Animation",
-    "Selection Style": "Selection Style",
     "Set sorting priority levels for content": "设置内容排序优先级",
     "Shadow Rendering": "Shadow Rendering",
     "Show Hidden Content": "显示隐藏内容",

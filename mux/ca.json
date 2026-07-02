@@ -70,7 +70,6 @@
     "Online": "Online",
     "Open": "Obrir",
     "Options": "Options",
-    "Outward": "Outward",
     "Preview": "Preview",
     "Preview Image": "Preview Image",
     "Previous": "Anterior",
@@ -91,7 +90,6 @@
     "Scroll": "Scroll",
     "Select": "Seleccionar",
     "Set": "Set",
-    "Shrink": "Shrink",
     "Shutting Down…": "Apagant…",
     "Skip Dialogue": "Skip Dialogue",
     "Slow": "Slow",
@@ -116,8 +114,7 @@
     "Vertical": "Vertical",
     "Visible": "Visible",
     "Warning": "Warning",
-    "Wednesday": "Wednesday",
-    "Wobble": "Wobble"
+    "Wednesday": "Wednesday"
   },
   "muxactivity": {
     "ACTIVITY TRACKER": "ACTIVITY TRACKER",
@@ -181,19 +178,11 @@
     "Window Shopper": "Window Shopper"
   },
   "muxapp": {
-    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "APLICACIONS",
     "Archive Manager": "Gestor d'arxius",
     "Loading Application": "Carregant aplicació",
-    "Mustard Terminal": "Mustard Terminal",
     "No Applications Found": "No s'han trobat aplicacions",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Songo#5": "Songo#5",
-    "Task Toolkit": "Eines per a tasques",
-    "vTree Gold": "vTree Gold"
+    "Task Toolkit": "Eines per a tasques"
   },
   "muxappcon": {
     "APPLICATION OPTION": "APPLICATION OPTION",
@@ -308,8 +297,7 @@
     "Device Info": "Device Info",
     "Disconnecting device…": "Disconnecting device…",
     "No Bluetooth Devices Found": "No Bluetooth Devices Found",
-    "Scan for nearby Bluetooth devices and pair or connect to them": "Scan for nearby Bluetooth devices and pair or connect to them",
-    "Scanning for Bluetooth Devices…": "Scanning for Bluetooth Devices…"
+    "Scan for nearby Bluetooth devices and pair or connect to them": "Scan for nearby Bluetooth devices and pair or connect to them"
   },
   "muxbtdev": {
     "Address": "Address",
@@ -488,7 +476,6 @@
     "Allow grid mode for content": "Allow grid mode for content",
     "Allows for testing different theme resolutions": "Permet provar diferents resolucions de temes",
     "Alternative Theme": "Tema alternatiu",
-    "Background Animation": "Animació de fons",
     "Background Music": "Música de fons",
     "Background Music Volume": "Background Music Volume",
     "Behind": "Darrere",
@@ -549,7 +536,6 @@
     "Theme Resolution": "Resolució del tema",
     "Theme Scaling": "Theme Scaling",
     "Toggle if content highlight uses full width of device screen": "Toggle if content highlight uses full width of device screen",
-    "Toggle the background animation of the current selected theme": "Activa o desactiva l’animació de fons del tema actualment seleccionat",
     "Toggle the background music of the frontend": "Activa o desactiva la música de fons de la interfície",
     "Toggle the fade to black animation on content launching": "Activa o desactiva l’animació de fosa en negre a l'iniciar contingut",
     "Toggle the navigation sound of the frontend": "Activa o desactiva el so de navegació de la interfície",
@@ -661,14 +647,11 @@
     "No Governors Found…": "Cap governador trobat…"
   },
   "muxhdmi": {
-    "Audio Output": "Sortida d’àudio",
     "Colour Depth": "Profunditat de color",
     "Colour Range": "Gamma de colors",
     "Colour Space": "Espai de color",
-    "External": "Externa",
     "Full": "Completa",
     "HDMI SETTINGS": "CONFIGURACIÓ HDMI",
-    "Internal": "Interna",
     "Limited": "Limitada",
     "Over": "Retallar",
     "Resolution": "Resolució",
@@ -677,7 +660,6 @@
     "Set the colour depth, such as 8-bit or 10-bit": "Set the colour depth, such as 8-bit or 10-bit",
     "Set the colour range of RGB colour space": "Set the colour range of RGB colour space",
     "Set the colour space, such as RGB or YUV": "Set the colour space, such as RGB or YUV",
-    "Switch between device speaker or external monitor audio via HDMI connection": "Canvia entre l'altaveu del dispositiu o l'àudio al monitor extern a traves de la connexió HDMI",
     "Switch between overscan or underscan to fit the display screen": "Escull si vols deixar marges o retallar la imatge per ajustar-la a la pantalla",
     "Under": "Marges"
   },
@@ -967,8 +949,7 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Detecta, mostra i connecta't a xarxes Wi-Fi disponibles",
     "NETWORK SCAN": "ESCÀNER DE XARXA",
-    "No Wi-Fi Networks Found": "No s'han trobat xarxes Wi-Fi",
-    "Scanning for Wi-Fi Networks…": "Buscant xarxes Wi-Fi…"
+    "No Wi-Fi Networks Found": "No s'han trobat xarxes Wi-Fi"
   },
   "muxnetwork": {
     "Auto": "Auto",
@@ -1620,8 +1601,6 @@
     "Replaces the dash (-) with a colon (:) for content labels": "Substitueix el guió (-) per dos punts (:) a les etiquetes del contingut",
     "Replaces the label of shortened content folders to more appropriately named labels": "Substitueix l’etiqueta de les carpetes de contingut abreujades per etiquetes amb noms més descriptius",
     "Select the animation used when dialogue boxes appear": "Select the animation used when dialogue boxes appear",
-    "Selection Animation": "Selection Animation",
-    "Selection Style": "Selection Style",
     "Set sorting priority levels for content": "Set sorting priority levels for content",
     "Shadow Rendering": "Shadow Rendering",
     "Show Hidden Content": "Visualitzar contingut ocult",

@@ -70,7 +70,6 @@
     "Online": "Онлайн",
     "Open": "Відкрити",
     "Options": "Налаштування",
-    "Outward": "Outward",
     "Preview": "Preview",
     "Preview Image": "Попередній перегляд зображення",
     "Previous": "Встановлена",
@@ -91,7 +90,6 @@
     "Scroll": "Прокрутка",
     "Select": "Вибрати",
     "Set": "Набір",
-    "Shrink": "Shrink",
     "Shutting Down…": "Вимкнення…",
     "Skip Dialogue": "Skip Dialogue",
     "Slow": "Slow",
@@ -116,8 +114,7 @@
     "Vertical": "Vertical",
     "Visible": "Видимий",
     "Warning": "Warning",
-    "Wednesday": "Середа",
-    "Wobble": "Wobble"
+    "Wednesday": "Середа"
   },
   "muxactivity": {
     "ACTIVITY TRACKER": "ТРЕКЕР АКТИВНОСТІ",
@@ -181,19 +178,11 @@
     "Window Shopper": "Оглядач заголовків"
   },
   "muxapp": {
-    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "ДОДАТКИ",
     "Archive Manager": "Менеджер архівів",
     "Loading Application": "Додаток завантажується",
-    "Mustard Terminal": "Mustard Terminal",
     "No Applications Found": "Додатків не знайдено",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Songo#5": "Songo#5",
-    "Task Toolkit": "Набір завдань",
-    "vTree Gold": "vTree Gold"
+    "Task Toolkit": "Набір завдань"
   },
   "muxappcon": {
     "APPLICATION OPTION": "ОПЦІЇ ДОДАТКУ",
@@ -308,8 +297,7 @@
     "Device Info": "Device Info",
     "Disconnecting device…": "Disconnecting device…",
     "No Bluetooth Devices Found": "No Bluetooth Devices Found",
-    "Scan for nearby Bluetooth devices and pair or connect to them": "Scan for nearby Bluetooth devices and pair or connect to them",
-    "Scanning for Bluetooth Devices…": "Scanning for Bluetooth Devices…"
+    "Scan for nearby Bluetooth devices and pair or connect to them": "Scan for nearby Bluetooth devices and pair or connect to them"
   },
   "muxbtdev": {
     "Address": "Address",
@@ -488,7 +476,6 @@
     "Allow grid mode for content": "Allow grid mode for content",
     "Allows for testing different theme resolutions": "Дозволити для тестування різних роздільних здатностей тем",
     "Alternative Theme": "Альтернативна тема",
-    "Background Animation": "Фонова анімації",
     "Background Music": "Фонова музика",
     "Background Music Volume": "Background Music Volume",
     "Behind": "Позаду",
@@ -549,7 +536,6 @@
     "Theme Resolution": "Роздільна здатність теми",
     "Theme Scaling": "Theme Scaling",
     "Toggle if content highlight uses full width of device screen": "Toggle if content highlight uses full width of device screen",
-    "Toggle the background animation of the current selected theme": "Перемикання фонової анімації поточної вибраної теми",
     "Toggle the background music of the frontend": "Увімкнути/вимкнути фонову музику інтерфейсу",
     "Toggle the fade to black animation on content launching": "Увімкнути/вимкнути анімацію переходу в чорний колір під час запуску контенту",
     "Toggle the navigation sound of the frontend": "Увімкнути/вимкнути звук навігації інтерфейсу",
@@ -661,14 +647,11 @@
     "No Governors Found…": "Регулятори не знайдені…"
   },
   "muxhdmi": {
-    "Audio Output": "Аудіо-вихід",
     "Colour Depth": "Глибина кольору",
     "Colour Range": "Діапазон кольорів",
     "Colour Space": "Колірний простір",
-    "External": "Зовнішній",
     "Full": "Повний",
     "HDMI SETTINGS": "НАЛАШТУВАННЯ HDMI",
-    "Internal": "На пристрої",
     "Limited": "Обмежений",
     "Over": "З вильотом",
     "Resolution": "Роздільна здатність",
@@ -677,7 +660,6 @@
     "Set the colour depth, such as 8-bit or 10-bit": "Set the colour depth, such as 8-bit or 10-bit",
     "Set the colour range of RGB colour space": "Set the colour range of RGB colour space",
     "Set the colour space, such as RGB or YUV": "Set the colour space, such as RGB or YUV",
-    "Switch between device speaker or external monitor audio via HDMI connection": "Вибір між динаміком пристрою та звуком зовнішнього монітора через HDMI-підключення",
     "Switch between overscan or underscan to fit the display screen": "Вибір вильоту розгортки для відповідності зображення екрану",
     "Under": "Без вильоту"
   },
@@ -967,8 +949,7 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Визначити, показати та приєднатися до наявних Wi-Fi мереж",
     "NETWORK SCAN": "СКАНУВАННЯ МЕРЕЖІ",
-    "No Wi-Fi Networks Found": "Не Знайдено Wi-Fi Мереж",
-    "Scanning for Wi-Fi Networks…": "Сканування наявних мереж Wi-Fi…"
+    "No Wi-Fi Networks Found": "Не Знайдено Wi-Fi Мереж"
   },
   "muxnetwork": {
     "Auto": "Auto",
@@ -1620,8 +1601,6 @@
     "Replaces the dash (-) with a colon (:) for content labels": "Замінює дифіс (-) двокрапкою (:) у мітках контенту",
     "Replaces the label of shortened content folders to more appropriately named labels": "Замінює мітку скорочених контентних папок на більш доречно названу мітку",
     "Select the animation used when dialogue boxes appear": "Select the animation used when dialogue boxes appear",
-    "Selection Animation": "Selection Animation",
-    "Selection Style": "Selection Style",
     "Set sorting priority levels for content": "Встановлення рівнів пріоритету сортування для контенту",
     "Shadow Rendering": "Shadow Rendering",
     "Show Hidden Content": "Показати прихований контент",

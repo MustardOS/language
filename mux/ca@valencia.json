@@ -70,7 +70,6 @@
     "Online": "Online",
     "Open": "Open",
     "Options": "Options",
-    "Outward": "Outward",
     "Preview": "Preview",
     "Preview Image": "Preview Image",
     "Previous": "Previous",
@@ -91,7 +90,6 @@
     "Scroll": "Scroll",
     "Select": "Select",
     "Set": "Set",
-    "Shrink": "Shrink",
     "Shutting Down…": "Shutting Down…",
     "Skip Dialogue": "Skip Dialogue",
     "Slow": "Slow",
@@ -116,8 +114,7 @@
     "Vertical": "Vertical",
     "Visible": "Visible",
     "Warning": "Warning",
-    "Wednesday": "Wednesday",
-    "Wobble": "Wobble"
+    "Wednesday": "Wednesday"
   },
   "muxactivity": {
     "ACTIVITY TRACKER": "ACTIVITY TRACKER",
@@ -181,19 +178,11 @@
     "Window Shopper": "Window Shopper"
   },
   "muxapp": {
-    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "Utilitats",
     "Archive Manager": "Gestor d'Arxius",
     "Loading Application": "Loading Application",
-    "Mustard Terminal": "Mustard Terminal",
     "No Applications Found": "No Applications Found",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Songo#5": "Songo#5",
-    "Task Toolkit": "Kit de Tarees",
-    "vTree Gold": "vTree Gold"
+    "Task Toolkit": "Kit de Tarees"
   },
   "muxappcon": {
     "APPLICATION OPTION": "APPLICATION OPTION",
@@ -308,8 +297,7 @@
     "Device Info": "Device Info",
     "Disconnecting device…": "Disconnecting device…",
     "No Bluetooth Devices Found": "No Bluetooth Devices Found",
-    "Scan for nearby Bluetooth devices and pair or connect to them": "Scan for nearby Bluetooth devices and pair or connect to them",
-    "Scanning for Bluetooth Devices…": "Scanning for Bluetooth Devices…"
+    "Scan for nearby Bluetooth devices and pair or connect to them": "Scan for nearby Bluetooth devices and pair or connect to them"
   },
   "muxbtdev": {
     "Address": "Address",
@@ -488,7 +476,6 @@
     "Allow grid mode for content": "Allow grid mode for content",
     "Allows for testing different theme resolutions": "Allows for testing different theme resolutions",
     "Alternative Theme": "Alternative Theme",
-    "Background Animation": "Background Animation",
     "Background Music": "Background Music",
     "Background Music Volume": "Background Music Volume",
     "Behind": "Behind",
@@ -549,7 +536,6 @@
     "Theme Resolution": "Theme Resolution",
     "Theme Scaling": "Theme Scaling",
     "Toggle if content highlight uses full width of device screen": "Toggle if content highlight uses full width of device screen",
-    "Toggle the background animation of the current selected theme": "Toggle the background animation of the current selected theme",
     "Toggle the background music of the frontend": "Toggle the background music of the frontend",
     "Toggle the fade to black animation on content launching": "Toggle the fade to black animation on content launching",
     "Toggle the navigation sound of the frontend": "Toggle the navigation sound of the frontend",
@@ -661,14 +647,11 @@
     "No Governors Found…": "No Governors Found…"
   },
   "muxhdmi": {
-    "Audio Output": "Audio Output",
     "Colour Depth": "Colour Depth",
     "Colour Range": "Colour Range",
     "Colour Space": "Colour Space",
-    "External": "External",
     "Full": "Full",
     "HDMI SETTINGS": "HDMI SETTINGS",
-    "Internal": "Internal",
     "Limited": "Limited",
     "Over": "Over",
     "Resolution": "Resolution",
@@ -677,7 +660,6 @@
     "Set the colour depth, such as 8-bit or 10-bit": "Set the colour depth, such as 8-bit or 10-bit",
     "Set the colour range of RGB colour space": "Set the colour range of RGB colour space",
     "Set the colour space, such as RGB or YUV": "Set the colour space, such as RGB or YUV",
-    "Switch between device speaker or external monitor audio via HDMI connection": "Switch between device speaker or external monitor audio via HDMI connection",
     "Switch between overscan or underscan to fit the display screen": "Switch between overscan or underscan to fit the display screen",
     "Under": "Under"
   },
@@ -967,8 +949,7 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Detect, display and connect to available Wi-Fi networks",
     "NETWORK SCAN": "NETWORK SCAN",
-    "No Wi-Fi Networks Found": "No Wi-Fi Networks Found",
-    "Scanning for Wi-Fi Networks…": "Scanning for Wi-Fi Networks…"
+    "No Wi-Fi Networks Found": "No Wi-Fi Networks Found"
   },
   "muxnetwork": {
     "Auto": "Auto",
@@ -1620,8 +1601,6 @@
     "Replaces the dash (-) with a colon (:) for content labels": "Replaces the dash (-) with a colon (:) for content labels",
     "Replaces the label of shortened content folders to more appropriately named labels": "Replaces the label of shortened content folders to more appropriately named labels",
     "Select the animation used when dialogue boxes appear": "Select the animation used when dialogue boxes appear",
-    "Selection Animation": "Selection Animation",
-    "Selection Style": "Selection Style",
     "Set sorting priority levels for content": "Set sorting priority levels for content",
     "Shadow Rendering": "Shadow Rendering",
     "Show Hidden Content": "Show Hidden Content",

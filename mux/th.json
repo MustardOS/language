@@ -70,7 +70,6 @@
     "Online": "ออนไลน์",
     "Open": "เปิด",
     "Options": "ตัวเลือก",
-    "Outward": "Outward",
     "Preview": "ตัวอย่าง",
     "Preview Image": "รูปตัวอย่าง",
     "Previous": "ก่อนหน้า",
@@ -91,7 +90,6 @@
     "Scroll": "เลื่อน",
     "Select": "เลือก",
     "Set": "ตั้งค่า",
-    "Shrink": "Shrink",
     "Shutting Down…": "กำลังปิดเครื่อง…",
     "Skip Dialogue": "Skip Dialogue",
     "Slow": "Slow",
@@ -116,8 +114,7 @@
     "Vertical": "Vertical",
     "Visible": "มองเห็นได้",
     "Warning": "Warning",
-    "Wednesday": "วันพุธ",
-    "Wobble": "Wobble"
+    "Wednesday": "วันพุธ"
   },
   "muxactivity": {
     "ACTIVITY TRACKER": "ตัวติดตามกิจกรรม",
@@ -181,19 +178,11 @@
     "Window Shopper": "ผู้เล่นแบบเลือกชม"
   },
   "muxapp": {
-    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "แอปพลิเคชัน",
     "Archive Manager": "ตัวจัดการไฟล์เก็บข้อมูล",
     "Loading Application": "กำลังโหลดแอปพลิเคชัน",
-    "Mustard Terminal": "เทอร์มินัล Mustard",
     "No Applications Found": "ไม่พบแอปพลิเคชัน",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Songo#5": "Songo#5",
-    "Task Toolkit": "ชุดเครื่องมือจัดการงาน",
-    "vTree Gold": "vTree Gold"
+    "Task Toolkit": "ชุดเครื่องมือจัดการงาน"
   },
   "muxappcon": {
     "APPLICATION OPTION": "ตัวเลือกแอปพลิเคชัน",
@@ -308,8 +297,7 @@
     "Device Info": "Device Info",
     "Disconnecting device…": "Disconnecting device…",
     "No Bluetooth Devices Found": "No Bluetooth Devices Found",
-    "Scan for nearby Bluetooth devices and pair or connect to them": "Scan for nearby Bluetooth devices and pair or connect to them",
-    "Scanning for Bluetooth Devices…": "Scanning for Bluetooth Devices…"
+    "Scan for nearby Bluetooth devices and pair or connect to them": "Scan for nearby Bluetooth devices and pair or connect to them"
   },
   "muxbtdev": {
     "Address": "Address",
@@ -488,7 +476,6 @@
     "Allow grid mode for content": "อนุญาตโหมดตารางสำหรับเนื้อหา",
     "Allows for testing different theme resolutions": "อนุญาตให้ทดสอบความละเอียดธีมต่างๆ",
     "Alternative Theme": "ธีมทางเลือก",
-    "Background Animation": "แอนิเมชันพื้นหลัง",
     "Background Music": "เพลงประกอบพื้นหลัง",
     "Background Music Volume": "ระดับเสียงเพลงพื้นหลัง",
     "Behind": "ด้านหลัง",
@@ -549,7 +536,6 @@
     "Theme Resolution": "ความละเอียดธีม",
     "Theme Scaling": "การสเกลธีม",
     "Toggle if content highlight uses full width of device screen": "สลับการเน้นเนื้อหาแบบเต็มความกว้าง",
-    "Toggle the background animation of the current selected theme": "สลับแอนิเมชันพื้นหลังของธีม",
     "Toggle the background music of the frontend": "สลับเพลงพื้นหลัง",
     "Toggle the fade to black animation on content launching": "สลับแอนิเมชันจางดำเมื่อเริ่มเนื้อหา",
     "Toggle the navigation sound of the frontend": "สลับเสียงนำทาง",
@@ -661,14 +647,11 @@
     "No Governors Found…": "ไม่พบ ตัวควบคุม…"
   },
   "muxhdmi": {
-    "Audio Output": "เอาต์พุตเสียง",
     "Colour Depth": "ความลึกของสี",
     "Colour Range": "ช่วงสี (Range)",
     "Colour Space": "ปริภูมิสี (Space)",
-    "External": "ภายนอก",
     "Full": "เต็ม (Full)",
     "HDMI SETTINGS": "ตั้งค่า HDMI",
-    "Internal": "ภายใน",
     "Limited": "จำกัด (Limited)",
     "Over": "มากเกิน (Over)",
     "Resolution": "ความละเอียด",
@@ -677,7 +660,6 @@
     "Set the colour depth, such as 8-bit or 10-bit": "ตั้งค่าความลึกของสี เช่น 8-บิต หรือ 10-บิต",
     "Set the colour range of RGB colour space": "ตั้งค่าช่วงสีของปริภูมิสี RGB",
     "Set the colour space, such as RGB or YUV": "ตั้งค่าปริภูมิสี เช่น RGB หรือ YUV",
-    "Switch between device speaker or external monitor audio via HDMI connection": "สลับเสียงระหว่างลำโพงเครื่องหรือจอภายนอก",
     "Switch between overscan or underscan to fit the display screen": "สลับระหว่าง Overscan หรือ Underscan ให้พอดีจอ",
     "Under": "น้อยเกิน (Under)"
   },
@@ -967,8 +949,7 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "ตรวจจับ แสดงผล และเชื่อมต่อกับเครือข่าย Wi-Fi ที่พร้อมใช้งาน",
     "NETWORK SCAN": "สแกนเครือข่าย",
-    "No Wi-Fi Networks Found": "ไม่พบเครือข่าย Wi-Fi",
-    "Scanning for Wi-Fi Networks…": "กำลังค้นหาเครือข่าย Wi-Fi…"
+    "No Wi-Fi Networks Found": "ไม่พบเครือข่าย Wi-Fi"
   },
   "muxnetwork": {
     "Auto": "Auto",
@@ -1620,8 +1601,6 @@
     "Replaces the dash (-) with a colon (:) for content labels": "แทนที่เครื่องหมายแดช (-) ด้วยทวิภาค (:) ในชื่อเนื้อหา",
     "Replaces the label of shortened content folders to more appropriately named labels": "แทนที่ชื่อโฟลเดอร์ที่ถูกย่อให้เป็นชื่อที่เหมาะสมกว่า",
     "Select the animation used when dialogue boxes appear": "Select the animation used when dialogue boxes appear",
-    "Selection Animation": "Selection Animation",
-    "Selection Style": "Selection Style",
     "Set sorting priority levels for content": "ตั้งระดับลำดับความสำคัญในการเรียงเนื้อหา",
     "Shadow Rendering": "Shadow Rendering",
     "Show Hidden Content": "แสดงเนื้อหาที่ซ่อนอยู่",

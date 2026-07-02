@@ -70,7 +70,6 @@
     "Online": "Online",
     "Open": "Otevřít",
     "Options": "Možnosti",
-    "Outward": "Outward",
     "Preview": "Náhled",
     "Preview Image": "Náhledový obrázek",
     "Previous": "Předchozí",
@@ -91,7 +90,6 @@
     "Scroll": "Přetáčet",
     "Select": "Vybrat",
     "Set": "Nastavit",
-    "Shrink": "Shrink",
     "Shutting Down…": "Vypínání…",
     "Skip Dialogue": "Přeskočit dialog",
     "Slow": "Slow",
@@ -116,8 +114,7 @@
     "Vertical": "Vertical",
     "Visible": "Viditelné",
     "Warning": "Varování",
-    "Wednesday": "Středa",
-    "Wobble": "Wobble"
+    "Wednesday": "Středa"
   },
   "muxactivity": {
     "ACTIVITY TRACKER": "SLEDOVAČ AKTIVIT",
@@ -181,19 +178,11 @@
     "Window Shopper": "Window Shopper"
   },
   "muxapp": {
-    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "APLIKACE",
     "Archive Manager": "Správce archivu",
     "Loading Application": "Načítání aplikace",
-    "Mustard Terminal": "Mustard Terminál",
     "No Applications Found": "Nebyly nalezeny žádné aplikace",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Songo#5": "Songo#5",
-    "Task Toolkit": "Sada nástrojů",
-    "vTree Gold": "vTree Gold"
+    "Task Toolkit": "Sada nástrojů"
   },
   "muxappcon": {
     "APPLICATION OPTION": "MOŽNOST APLIKACE",
@@ -308,8 +297,7 @@
     "Device Info": "Informace o zařízení",
     "Disconnecting device…": "Odpojování zařízení…",
     "No Bluetooth Devices Found": "Nebyla nalezena žádná zařízení Bluetooth",
-    "Scan for nearby Bluetooth devices and pair or connect to them": "Vyhledejte zařízení Bluetooth v okolí a spárujte je nebo se k nim připojte",
-    "Scanning for Bluetooth Devices…": "Vyhledávání zařízení Bluetooth…"
+    "Scan for nearby Bluetooth devices and pair or connect to them": "Vyhledejte zařízení Bluetooth v okolí a spárujte je nebo se k nim připojte"
   },
   "muxbtdev": {
     "Address": "Adresa",
@@ -488,7 +476,6 @@
     "Allow grid mode for content": "Povolit režim mřížky pro obsah",
     "Allows for testing different theme resolutions": "Umožňuje testování různých rozlišení témat",
     "Alternative Theme": "Alternativní Téma",
-    "Background Animation": "Animace na pozadí",
     "Background Music": "Hudba na pozadí",
     "Background Music Volume": "Hlasitost hudby na pozadí",
     "Behind": "Za",
@@ -549,7 +536,6 @@
     "Theme Resolution": "Rozlišení motivu",
     "Theme Scaling": "Měřítko motivu",
     "Toggle if content highlight uses full width of device screen": "Přepnout, pokud zvýraznění obsahu využívá celou šířku obrazovky zařízení",
-    "Toggle the background animation of the current selected theme": "Přepnout animaci na pozadí aktuálně vybraného motivu",
     "Toggle the background music of the frontend": "Přepnout hudbu na pozadí frontendu",
     "Toggle the fade to black animation on content launching": "Přepněte animaci prolínání na černou při spouštění obsahu",
     "Toggle the navigation sound of the frontend": "Přepnout zvuk navigace frontendu",
@@ -661,14 +647,11 @@
     "No Governors Found…": "Nebyl nalezen žádný regulator…"
   },
   "muxhdmi": {
-    "Audio Output": "Zvukový výstup",
     "Colour Depth": "Barevná hloubka",
     "Colour Range": "Barevný rozsah",
     "Colour Space": "Barevný prostor",
-    "External": "Externí",
     "Full": "Plný",
     "HDMI SETTINGS": "NASTAVENÍ HDMI",
-    "Internal": "Interní",
     "Limited": "Omezený",
     "Over": "Nad",
     "Resolution": "Rozlišení",
@@ -677,7 +660,6 @@
     "Set the colour depth, such as 8-bit or 10-bit": "Set the colour depth, such as 8-bit or 10-bit",
     "Set the colour range of RGB colour space": "Set the colour range of RGB colour space",
     "Set the colour space, such as RGB or YUV": "Set the colour space, such as RGB or YUV",
-    "Switch between device speaker or external monitor audio via HDMI connection": "Přepínejte mezi reproduktorem zařízení nebo zvukem externího monitoru prostřednictvím připojení HDMI",
     "Switch between overscan or underscan to fit the display screen": "Přepínejte mezi přeskenováním a podskenováním, aby se přizpůsobilo obrazovce displeje",
     "Under": "Pod"
   },
@@ -967,8 +949,7 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Detekce, zobrazení a připojení k dostupným sítím Wi-Fi",
     "NETWORK SCAN": "SKENOVÁNÍ SÍŤĚ",
-    "No Wi-Fi Networks Found": "Nebyly nalezeny žádné sítě Wi-Fi",
-    "Scanning for Wi-Fi Networks…": "Vyhledávání sítí Wi-Fi…"
+    "No Wi-Fi Networks Found": "Nebyly nalezeny žádné sítě Wi-Fi"
   },
   "muxnetwork": {
     "Auto": "Auto",
@@ -1620,8 +1601,6 @@
     "Replaces the dash (-) with a colon (:) for content labels": "Nahradí pomlčku (-) dvojtečkou (:) u štítků obsahu",
     "Replaces the label of shortened content folders to more appropriately named labels": "Nahradí štítek zkrácených složek obsahu za vhodnější pojmenované štítky",
     "Select the animation used when dialogue boxes appear": "Select the animation used when dialogue boxes appear",
-    "Selection Animation": "Selection Animation",
-    "Selection Style": "Selection Style",
     "Set sorting priority levels for content": "Nastavení úrovní priority řazení pro obsah",
     "Shadow Rendering": "Shadow Rendering",
     "Show Hidden Content": "Zobrazit skrytý obsah",

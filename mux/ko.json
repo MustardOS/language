@@ -70,7 +70,6 @@
     "Online": "온라인",
     "Open": "열기",
     "Options": "옵션",
-    "Outward": "Outward",
     "Preview": "프리뷰",
     "Preview Image": "프리뷰 이미지",
     "Previous": "이전 상태",
@@ -91,7 +90,6 @@
     "Scroll": "스크롤",
     "Select": "선택",
     "Set": "설정",
-    "Shrink": "Shrink",
     "Shutting Down…": "시스템 종료중…",
     "Skip Dialogue": "대화 상자 스킵",
     "Slow": "Slow",
@@ -116,8 +114,7 @@
     "Vertical": "Vertical",
     "Visible": "보이기",
     "Warning": "경고",
-    "Wednesday": "수요일",
-    "Wobble": "Wobble"
+    "Wednesday": "수요일"
   },
   "muxactivity": {
     "ACTIVITY TRACKER": "활동 추적기",
@@ -181,19 +178,11 @@
     "Window Shopper": "윈도우 쇼퍼"
   },
   "muxapp": {
-    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "어플리케이션",
     "Archive Manager": "아카이브 매니저",
     "Loading Application": "어플리케이션 실행 중",
-    "Mustard Terminal": "Mustard 터미널",
     "No Applications Found": "어플리케이션 없음",
-    "PPSSPP": "PPSSPP 실행",
-    "PortMaster": "포트마스터",
-    "RetroArch": "레트로아크 실행",
-    "ScummVM": "ScummVM 실행",
-    "Songo#5": "Songo#5",
-    "Task Toolkit": "태스크 툴킷",
-    "vTree Gold": "브이트리 골드"
+    "Task Toolkit": "태스크 툴킷"
   },
   "muxappcon": {
     "APPLICATION OPTION": "어플리케이션 옵션",
@@ -308,8 +297,7 @@
     "Device Info": "기기 정보",
     "Disconnecting device…": "기기 연결 해제중…",
     "No Bluetooth Devices Found": "블루투스 기기를 찾을 수 없습니다",
-    "Scan for nearby Bluetooth devices and pair or connect to them": "주변 블루투스 기기를 스캔하여 페어링하거나 연결합니다",
-    "Scanning for Bluetooth Devices…": "블루투스 기기 스캔 중…"
+    "Scan for nearby Bluetooth devices and pair or connect to them": "주변 블루투스 기기를 스캔하여 페어링하거나 연결합니다"
   },
   "muxbtdev": {
     "Address": "주소",
@@ -488,7 +476,6 @@
     "Allow grid mode for content": "콘텐츠에 그리드 모드 허용",
     "Allows for testing different theme resolutions": "상이한 테마 해상도 테스트 허용",
     "Alternative Theme": "대체 테마",
-    "Background Animation": "배경 애니메이션",
     "Background Music": "배경 음악",
     "Background Music Volume": "배경 음악 음량",
     "Behind": "뒤에",
@@ -549,7 +536,6 @@
     "Theme Resolution": "테마 해상도",
     "Theme Scaling": "테마 크기조절",
     "Toggle if content highlight uses full width of device screen": "콘텐츠 강조 표시가 기기 화면 전체 너비를 사용할지 여부를 전환",
-    "Toggle the background animation of the current selected theme": "현재 선택한 테마의 배경 애니메이션 표시 여부 전환",
     "Toggle the background music of the frontend": "프런트엔드의 배경음악 설정을 전환",
     "Toggle the fade to black animation on content launching": "콘텐츠 실행 시 검은색 애니메이션으로 페이드 적용 여부 전환",
     "Toggle the navigation sound of the frontend": "프런트엔드의 이동 효과음 설정 전환",
@@ -661,14 +647,11 @@
     "No Governors Found…": "거버너가 없음…"
   },
   "muxhdmi": {
-    "Audio Output": "오디오 출력",
     "Colour Depth": "색상 심도",
     "Colour Range": "색상 범위",
     "Colour Space": "색상 공간",
-    "External": "외장",
     "Full": "전체",
     "HDMI SETTINGS": "HDMI 설정",
-    "Internal": "내장",
     "Limited": "제한된",
     "Over": "오버",
     "Resolution": "해상도",
@@ -677,7 +660,6 @@
     "Set the colour depth, such as 8-bit or 10-bit": "8비트 또는 10비트와 같은 색심도를 설정",
     "Set the colour range of RGB colour space": "RGB 색 공간의 색 범위를 설정함",
     "Set the colour space, such as RGB or YUV": "RGB 또는 YUV와 같은 색 공간을 설정",
-    "Switch between device speaker or external monitor audio via HDMI connection": "HDMI 연결을 통해 기기 스피커 또는 외부 모니터 오디오 간을 전환",
     "Switch between overscan or underscan to fit the display screen": "디스플레이 화면에 맞게 오버스캔 또는 언더스캔 간을 전환",
     "Under": "언더"
   },
@@ -967,8 +949,7 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "사용 가능한 Wi-Fi 네트워크를 감지, 표시 및 연결",
     "NETWORK SCAN": "네트워크 스캔",
-    "No Wi-Fi Networks Found": "Wi-Fi 네트워크를 찾을 수 없음",
-    "Scanning for Wi-Fi Networks…": "Wi-Fi 네트워크 스캔 중…"
+    "No Wi-Fi Networks Found": "Wi-Fi 네트워크를 찾을 수 없음"
   },
   "muxnetwork": {
     "Auto": "자동",
@@ -1620,8 +1601,6 @@
     "Replaces the dash (-) with a colon (:) for content labels": "콘텐츠 라벨의 대시(-)를 콜론(:)으로 변경",
     "Replaces the label of shortened content folders to more appropriately named labels": "단축된 콘텐츠 폴더의 라벨을 보다 적절한 이름의 라벨로 바꿉니다",
     "Select the animation used when dialogue boxes appear": "Select the animation used when dialogue boxes appear",
-    "Selection Animation": "Selection Animation",
-    "Selection Style": "Selection Style",
     "Set sorting priority levels for content": "콘텐츠의 정렬 우선순위 수준을 설정",
     "Shadow Rendering": "Shadow Rendering",
     "Show Hidden Content": "숨긴 콘텐츠 보기",

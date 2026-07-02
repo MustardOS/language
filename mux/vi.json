@@ -70,7 +70,6 @@
     "Online": "Online",
     "Open": "Mở",
     "Options": "Tùy chọn",
-    "Outward": "Hướng ra ngoài",
     "Preview": "Xem trước",
     "Preview Image": "Hình ảnh xem trước",
     "Previous": "Gần đây",
@@ -91,7 +90,6 @@
     "Scroll": "Cuộn",
     "Select": "Chọn",
     "Set": "Thiết đặt",
-    "Shrink": "Thu nhỏ",
     "Shutting Down…": "Tắt nguồn…",
     "Skip Dialogue": "Bỏ qua Hộp thoại",
     "Slow": "Chậm",
@@ -116,8 +114,7 @@
     "Vertical": "Chiều dọc",
     "Visible": "Hiển thị",
     "Warning": "Cảnh báo",
-    "Wednesday": "Thứ Tư",
-    "Wobble": "Lung Lay"
+    "Wednesday": "Thứ Tư"
   },
   "muxactivity": {
     "ACTIVITY TRACKER": "THEO DÕI HOẠT ĐỘNG",
@@ -181,19 +178,11 @@
     "Window Shopper": "Xem Dạo"
   },
   "muxapp": {
-    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "ỨNG DỤNG",
     "Archive Manager": "Quản lý tệp nén",
     "Loading Application": "Khởi động Ứng dụng",
-    "Mustard Terminal": "Mustard Terminal",
     "No Applications Found": "Không tìm thấy Ứng dụng nào",
-    "PPSSPP": "PPSSPP (Giả lập PSP)",
-    "PortMaster": "PortMaster (Game Port PC)",
-    "RetroArch": "RetroArch (Giả lập chính)",
-    "ScummVM": "ScummVM (Giả lập game Point n'Click cũ)",
-    "Songo#5": "Songo#5",
-    "Task Toolkit": "Công cụ Tác vụ",
-    "vTree Gold": "vTree Gold (Trình xem tệp)"
+    "Task Toolkit": "Công cụ Tác vụ"
   },
   "muxappcon": {
     "APPLICATION OPTION": "CÀI ĐẶT ỨNG DỤNG",
@@ -308,8 +297,7 @@
     "Device Info": "Thông tin thiết bị",
     "Disconnecting device…": "Đang ngắt kết nối thiết bị…",
     "No Bluetooth Devices Found": "Không tìm thấy thiết bị Bluetooth nào",
-    "Scan for nearby Bluetooth devices and pair or connect to them": "Quét tìm các thiết bị Bluetooth ở gần và ghép nối hoặc kết nối với chúng.",
-    "Scanning for Bluetooth Devices…": "Đang quét tìm thiết bị Bluetooth…"
+    "Scan for nearby Bluetooth devices and pair or connect to them": "Quét tìm các thiết bị Bluetooth ở gần và ghép nối hoặc kết nối với chúng."
   },
   "muxbtdev": {
     "Address": "Địa chỉ",
@@ -488,7 +476,6 @@
     "Allow grid mode for content": "Cho phép chế độ lưới với nội dung",
     "Allows for testing different theme resolutions": "Cho phép kiểm thử chủ đề với độ phân giải khác nhau",
     "Alternative Theme": "Chủ đề Thay thế",
-    "Background Animation": "Hoạt ảnh Nền",
     "Background Music": "Nhạc nền",
     "Background Music Volume": "Âm lượng Nhạc nền",
     "Behind": "Đằng sau",
@@ -549,7 +536,6 @@
     "Theme Resolution": "Độ phân giải Chủ đề",
     "Theme Scaling": "Tỉ lệ Chủ đề",
     "Toggle if content highlight uses full width of device screen": "Bật/tắt chế độ nội dung đang chọn toàn chiều ngang màn hình",
-    "Toggle the background animation of the current selected theme": "Bật/tắt hoạt ảnh nền của chủ đề đang chọn",
     "Toggle the background music of the frontend": "Bật/tắt nhạc nền giao diện người dùng",
     "Toggle the fade to black animation on content launching": "Bật/tắt hoạt ảnh làm mờ thành nền đen khi khởi động nội dung",
     "Toggle the navigation sound of the frontend": "Bật/tắt âm thanh định hướng giao diện người dùng",
@@ -661,14 +647,11 @@
     "No Governors Found…": "Không tìm thấy Hiệu năng nào…"
   },
   "muxhdmi": {
-    "Audio Output": "Đầu ra Âm Thanh",
     "Colour Depth": "Độ sâu Màu sắc",
     "Colour Range": "Dải màu",
     "Colour Space": "Không gian màu",
-    "External": "Bên ngoài",
     "Full": "Đầy",
     "HDMI SETTINGS": "CÀI ĐẶT HDMI",
-    "Internal": "Nội bộ",
     "Limited": "Giới hạn",
     "Over": "Ngoài",
     "Resolution": "Độ phân giải",
@@ -677,7 +660,6 @@
     "Set the colour depth, such as 8-bit or 10-bit": "Thiết lập độ sâu màu, ví dụ như 8-bit hoặc 10-bit",
     "Set the colour range of RGB colour space": "Thiết lập phạm vi màu của không gian màu RGB",
     "Set the colour space, such as RGB or YUV": "Thiết lập không gian màu, chẳng hạn như RGB hoặc YUV",
-    "Switch between device speaker or external monitor audio via HDMI connection": "Chuyển đổi giữa loa thiết bị hay âm thanh trên màn hình ngoài thông qua kết nối HDMI",
     "Switch between overscan or underscan to fit the display screen": "Chuyển đổi giữa chế độ quét trên hay quét dưới để phù hợp với thiết bị hiển thị",
     "Under": "Dưới"
   },
@@ -967,8 +949,7 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Phát hiện, hiển thị và kết nối tới các mạng Wi-Fi có sẵn",
     "NETWORK SCAN": "QUÉT MẠNG",
-    "No Wi-Fi Networks Found": "Không tìm thấy mạng Wi-Fi",
-    "Scanning for Wi-Fi Networks…": "Quét các mạng Wi-Fi…"
+    "No Wi-Fi Networks Found": "Không tìm thấy mạng Wi-Fi"
   },
   "muxnetwork": {
     "Auto": "Tự động",
@@ -1620,8 +1601,6 @@
     "Replaces the dash (-) with a colon (:) for content labels": "Thay thế dấu gạch ngang (-) với dấu hai chấm (:) với tiêu đề nội dung",
     "Replaces the label of shortened content folders to more appropriately named labels": "Thay thế tiêu đề của các tên thư mục nội dung rút gọn thành các tiêu đề chuẩn",
     "Select the animation used when dialogue boxes appear": "Chọn hiệu ứng được sử dụng khi Hộp thoại xuất hiện",
-    "Selection Animation": "Hiệu ứng lựa chọn",
-    "Selection Style": "Kiểu lựa chọn",
     "Set sorting priority levels for content": "Đặt mức độ ưu tiên sắp xếp cho nội dung",
     "Shadow Rendering": "Đổ bóng",
     "Show Hidden Content": "Hiển thị các nội dung ẩn",

@@ -70,7 +70,6 @@
     "Online": "En ligne",
     "Open": "Ouvrir",
     "Options": "Options",
-    "Outward": "Outward",
     "Preview": "Preview",
     "Preview Image": "Aperçu",
     "Previous": "Précédent",
@@ -91,7 +90,6 @@
     "Scroll": "Parcourir",
     "Select": "Sélectionner",
     "Set": "Appliquer",
-    "Shrink": "Shrink",
     "Shutting Down…": "Arrêt en cours…",
     "Skip Dialogue": "Skip Dialogue",
     "Slow": "Slow",
@@ -116,8 +114,7 @@
     "Vertical": "Vertical",
     "Visible": "Visible",
     "Warning": "Warning",
-    "Wednesday": "Mercredi",
-    "Wobble": "Wobble"
+    "Wednesday": "Mercredi"
   },
   "muxactivity": {
     "ACTIVITY TRACKER": "MONITEUR D'ACTIVITÉ",
@@ -181,19 +178,11 @@
     "Window Shopper": "Lèche-vitrine"
   },
   "muxapp": {
-    "2048 Plus": "2048 Plus",
     "APPLICATIONS": "APPLICATIONS",
     "Archive Manager": "Gestionnaire d'archives",
     "Loading Application": "Chargement de l'application",
-    "Mustard Terminal": "Mustard Terminal",
     "No Applications Found": "Aucune application trouvée",
-    "PPSSPP": "PPSSPP",
-    "PortMaster": "PortMaster",
-    "RetroArch": "RetroArch",
-    "ScummVM": "ScummVM",
-    "Songo#5": "Songo#5",
-    "Task Toolkit": "Utilitaires",
-    "vTree Gold": "vTree Gold"
+    "Task Toolkit": "Utilitaires"
   },
   "muxappcon": {
     "APPLICATION OPTION": "OPTION DES APPLICATIONS",
@@ -308,8 +297,7 @@
     "Device Info": "Device Info",
     "Disconnecting device…": "Disconnecting device…",
     "No Bluetooth Devices Found": "No Bluetooth Devices Found",
-    "Scan for nearby Bluetooth devices and pair or connect to them": "Scan for nearby Bluetooth devices and pair or connect to them",
-    "Scanning for Bluetooth Devices…": "Scanning for Bluetooth Devices…"
+    "Scan for nearby Bluetooth devices and pair or connect to them": "Scan for nearby Bluetooth devices and pair or connect to them"
   },
   "muxbtdev": {
     "Address": "Address",
@@ -488,7 +476,6 @@
     "Allow grid mode for content": "Autoriser le mode grille pour le contenu",
     "Allows for testing different theme resolutions": "Permet de tester différentes résolutions du thème",
     "Alternative Theme": "Variantes du thème",
-    "Background Animation": "Animation d'arrière-plan",
     "Background Music": "Musique de fond",
     "Background Music Volume": "Volume de la musique de fond",
     "Behind": "Derrière",
@@ -549,7 +536,6 @@
     "Theme Resolution": "Résolution du thème",
     "Theme Scaling": "Mise à l'échelle du thème",
     "Toggle if content highlight uses full width of device screen": "Utiliser toute la largeur de l'écran pour la mise en avant du contenu",
-    "Toggle the background animation of the current selected theme": "Activer/désactiver l'animation d'arrière-plan du thème actuellement sélectionné",
     "Toggle the background music of the frontend": "Activer/désactiver la musique de fond de l'interface",
     "Toggle the fade to black animation on content launching": "Activer/désactiver l'animation de fondu noir lors du lancement du contenu",
     "Toggle the navigation sound of the frontend": "Activer/désactiver le son de navigation de l'interface",
@@ -661,14 +647,11 @@
     "No Governors Found…": "Aucun gouverneur trouvé…"
   },
   "muxhdmi": {
-    "Audio Output": "Sortie audio",
     "Colour Depth": "Profondeur de couleur",
     "Colour Range": "Gamme de couleurs",
     "Colour Space": "Espace colorimétrique",
-    "External": "Externe",
     "Full": "Complète",
     "HDMI SETTINGS": "RÉGLAGES HDMI",
-    "Internal": "Interne",
     "Limited": "Limitée",
     "Over": "Surbalayage",
     "Resolution": "Résolution",
@@ -677,7 +660,6 @@
     "Set the colour depth, such as 8-bit or 10-bit": "Set the colour depth, such as 8-bit or 10-bit",
     "Set the colour range of RGB colour space": "Set the colour range of RGB colour space",
     "Set the colour space, such as RGB or YUV": "Set the colour space, such as RGB or YUV",
-    "Switch between device speaker or external monitor audio via HDMI connection": "Basculez entre le haut-parleur de la console ou l'audio du moniteur externe via une connexion HDMI",
     "Switch between overscan or underscan to fit the display screen": "Basculez entre le sur-balayage et le sous-balayage pour ajuster l'affichage à l'écran",
     "Under": "Sous-balayage"
   },
@@ -967,8 +949,7 @@
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Détectez, affichez et connectez-vous aux réseaux Wi-Fi disponibles",
     "NETWORK SCAN": "SCAN DES RÉSEAUX",
-    "No Wi-Fi Networks Found": "Aucun réseau Wi-Fi trouvé",
-    "Scanning for Wi-Fi Networks…": "Recherche des réseaux Wi-Fi…"
+    "No Wi-Fi Networks Found": "Aucun réseau Wi-Fi trouvé"
   },
   "muxnetwork": {
     "Auto": "Auto",
@@ -1620,8 +1601,6 @@
     "Replaces the dash (-) with a colon (:) for content labels": "Remplace le tiret (-) par deux points (:) pour les étiquettes de contenu",
     "Replaces the label of shortened content folders to more appropriately named labels": "Remplace l'étiquette des dossiers de contenu raccourcis par des étiquettes nommées de manière plus appropriée",
     "Select the animation used when dialogue boxes appear": "Select the animation used when dialogue boxes appear",
-    "Selection Animation": "Selection Animation",
-    "Selection Style": "Selection Style",
     "Set sorting priority levels for content": "Définissez niveaux de priorité de tri du contenu",
     "Shadow Rendering": "Shadow Rendering",
     "Show Hidden Content": "Afficher le contenu masqué",
