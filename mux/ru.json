@@ -1385,14 +1385,14 @@
     "SysFS": "SysFS",
     "The animation mode driving the RGB lights": "Режим анимации RGB подсветки",
     "Theme Supplied": "Тема",
-    "Two-colour preset used by the Preset Combo mode": "Two-colour preset used by the Preset Combo mode"
+    "Two-colour preset used by the Preset Combo mode": "Двухцветный набор, используемый режимом \"Готовый набор\""
   },
   "muxrtc": {
     "12 Hour": "12-часовой",
     "24 Hour": "24-часовой",
     "Change your current date, time, and timezone": "Настройка текущей даты, времени и часового пояса",
     "Custom": "Собственный",
-    "Custom Format": "Custom Format",
+    "Custom Format": "Собственный формат",
     "DATE AND TIME": "ДАТА И ВРЕМЯ",
     "DD/MM 12 Hour": "ДД/ММ 12 ч",
     "DD/MM 24 Hour": "ДД/ММ 24 ч",
@@ -1451,22 +1451,22 @@
     "Translated": "Переведено"
   },
   "muxspace": {
-    "Date": "Date",
+    "Date": "Дата",
     "External Storage": "Внешняя память",
-    "Fake": "Fake",
-    "Filesystem": "Filesystem",
-    "Genuine": "Genuine",
-    "Likely Genuine": "Likely Genuine",
-    "Manufacturer": "Manufacturer",
-    "Model": "Model",
+    "Fake": "Подделка",
+    "Filesystem": "Файловая система",
+    "Genuine": "Подлинный",
+    "Likely Genuine": "Скорее подлинный",
+    "Manufacturer": "Производитель",
+    "Model": "Модель",
     "Primary Storage": "Основная память",
-    "Quality Check": "Quality Check",
+    "Quality Check": "Проверка качества",
     "STORAGE SPACE": "ПАМЯТЬ",
     "Secondary Storage": "Дополнительная память",
-    "Suspected Fake": "Suspected Fake",
-    "Suspicious": "Suspicious",
+    "Suspected Fake": "Возможно подделка",
+    "Suspicious": "Подозрительный",
     "System Storage": "Системная память",
-    "Trash": "Trash",
+    "Trash": "Мусор",
     "View the current used space of the mounted storage devices": "Используемое пространство на установленных устройствах хранения данных"
   },
   "muxstorage": {
@@ -1503,9 +1503,9 @@
     "User Init Scripts": "Пользовательские скрипты"
   },
   "muxsysinfo": {
-    "Architecture": "Architecture",
-    "Average number of runnable processes over the last 1, 5, and 15 minutes": "Average number of runnable processes over the last 1, 5, and 15 minutes",
-    "Boot Time": "Boot Time",
+    "Architecture": "Архитектура",
+    "Average number of runnable processes over the last 1, 5, and 15 minutes": "Среднее количество выполняемых процессов за последние 1, 5, и 15 минут",
+    "Boot Time": "Время включения",
     "Build ID": "ID сборки",
     "CPU Governor": "Регулятор ЦП",
     "CPU Information": "Архитектура ЦП",
