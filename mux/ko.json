@@ -407,10 +407,8 @@
     "General Settings": "일반 설정",
     "Interface Options": "인터페이스 옵션",
     "Language": "언어",
-    "Overlay Options": "오버레이 옵션",
     "Power Settings": "전원 설정",
     "Select your preferred language\n\nTranslations supported by Weblate": "원하는 언어를 선택하세요\n\nWeblate에서 지원하는 번역",
-    "Settings to change the hardware overlays of content": "콘텐츠의 하드웨어 오버레이를 변경하기 위한 설정",
     "Settings to change the power features of the device": "기기의 전원 기능을 변경하기 위한 설정",
     "Settings to change the visual aspects of the frontend": "프런트엔드의 시각적 측면을 변경하기 위한 설정",
     "Storage Options": "저장소 옵션"

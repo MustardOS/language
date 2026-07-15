@@ -407,10 +407,8 @@
     "General Settings": "การตั้งค่าทั่วไป",
     "Interface Options": "ตัวเลือกอินเตอร์เฟซ",
     "Language": "ภาษา",
-    "Overlay Options": "ตัวเลือก Overlay",
     "Power Settings": "การตั้งค่าพลังงาน",
     "Select your preferred language\n\nTranslations supported by Weblate": "เลือกภาษาที่ต้องการ\n\nสนับสนุนการแปลโดย Weblate",
-    "Settings to change the hardware overlays of content": "ตั้งค่าฮาร์ดแวร์ Overlay",
     "Settings to change the power features of the device": "ตั้งค่าพลังงานของอุปกรณ์",
     "Settings to change the visual aspects of the frontend": "ตั้งค่ารูปลักษณ์ของหน้าอินเตอร์เฟซ",
     "Storage Options": "ตัวเลือกที่เก็บข้อมูล"

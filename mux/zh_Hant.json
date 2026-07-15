@@ -407,10 +407,8 @@
     "General Settings": "通用設定",
     "Interface Options": "介面選項",
     "Language": "語言",
-    "Overlay Options": "遮罩選項",
     "Power Settings": "電源設定",
     "Select your preferred language\n\nTranslations supported by Weblate": "選擇您的首選語言\n\n翻譯支援由Weblate提供",
-    "Settings to change the hardware overlays of content": "用於變更內容硬體遮罩的設置",
     "Settings to change the power features of the device": "更改設備電源功能的設定",
     "Settings to change the visual aspects of the frontend": "更改前端視覺效果的設定",
     "Storage Options": "儲存裝置選項"

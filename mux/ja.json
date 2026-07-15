@@ -407,10 +407,8 @@
     "General Settings": "一般設定",
     "Interface Options": "表示オプション",
     "Language": "言語",
-    "Overlay Options": "OSDオプション",
     "Power Settings": "電力設定",
     "Select your preferred language\n\nTranslations supported by Weblate": "Select your preferred language\n\nTranslations supported by Weblate",
-    "Settings to change the hardware overlays of content": "コンテンツのハードウェアオーバーレイ（OSD）に関する設定です",
     "Settings to change the power features of the device": "デバイスの電力設定を変更します",
     "Settings to change the visual aspects of the frontend": "フロントエンドの外観に関する設定を変更します",
     "Storage Options": "Storage Options"

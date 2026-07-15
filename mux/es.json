@@ -407,10 +407,8 @@
     "General Settings": "Configuración general",
     "Interface Options": "Opciones de interfaz",
     "Language": "Idioma",
-    "Overlay Options": "Opciones de superposición",
     "Power Settings": "Ajustes de energía",
     "Select your preferred language\n\nTranslations supported by Weblate": "Selecciona tu idioma preferido\n\nTraducciones realizadas en Weblate",
-    "Settings to change the hardware overlays of content": "Configuración para cambiar las superposiciones de hardware del contenido",
     "Settings to change the power features of the device": "Ajustes para cambiar las características de energía del dispositivo",
     "Settings to change the visual aspects of the frontend": "Ajustes para cambiar el aspecto visual de la interfaz",
     "Storage Options": "Opciones de almacenamiento"

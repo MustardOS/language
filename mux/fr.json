@@ -407,10 +407,8 @@
     "General Settings": "Paramètres généraux",
     "Interface Options": "Options de l'interface",
     "Language": "Langue",
-    "Overlay Options": "Options des overlays",
     "Power Settings": "Paramètres d'alimentation",
     "Select your preferred language\n\nTranslations supported by Weblate": "Sélectionnez votre langue préférée\n\nTraductions prises en charge par Weblate",
-    "Settings to change the hardware overlays of content": "Paramètres pour changer les overlays du contenu",
     "Settings to change the power features of the device": "Paramètres pour modifier les fonctionnalités d'alimentation de la console",
     "Settings to change the visual aspects of the frontend": "Paramètres pour modifier les aspects visuels de l'interface",
     "Storage Options": "Options de stockage"

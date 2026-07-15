@@ -407,10 +407,8 @@
     "General Settings": "Основные",
     "Interface Options": "Интерфейс",
     "Language": "Язык",
-    "Overlay Options": "Оверлей",
     "Power Settings": "Питание",
     "Select your preferred language\n\nTranslations supported by Weblate": "Выбор предпочитаемого языка\n\nПереводы поддерживаются в Weblate",
-    "Settings to change the hardware overlays of content": "Настройки оверлеев игры",
     "Settings to change the power features of the device": "Настройки для изменения параметров питания устройства",
     "Settings to change the visual aspects of the frontend": "Настройки для изменения визуальных элементов интерфейса",
     "Storage Options": "Память"
