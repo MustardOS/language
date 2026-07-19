@@ -1410,13 +1410,32 @@
     "Zoom": "Zoom"
   },
   "muxrgb": {
+    "All Zones Reset": "All Zones Reset",
     "Auto": "Auto",
     "Backend": "Backend",
     "Brightness": "Brightness",
+    "Colour": "Colour",
+    "Feeling Lucky!": "Feeling Lucky!",
+    "Front Left": "Front Left",
+    "Front Right": "Front Right",
     "Joypad": "Joypad",
+    "Left Stick": "Left Stick",
+    "Left Stick (Arc 1)": "Left Stick (Arc 1)",
+    "Left Stick (Arc 2)": "Left Stick (Arc 2)",
+    "Middle": "Middle",
     "RGB LIGHTS": "RGB LIGHTS",
+    "Right Stick": "Right Stick",
+    "Right Stick (Arc 1)": "Right Stick (Arc 1)",
+    "Right Stick (Arc 2)": "Right Stick (Arc 2)",
     "Serial": "Serial",
-    "SysFS": "SysFS"
+    "Set every zone to Off and 100% brightness?": "Set every zone to Off and 100% brightness?",
+    "Shoulder L1": "Shoulder L1",
+    "Shoulder L2": "Shoulder L2",
+    "Shoulder R1": "Shoulder R1",
+    "Shoulder R2": "Shoulder R2",
+    "SysFS": "SysFS",
+    "This zone's brightness": "This zone's brightness",
+    "This zone's colour": "This zone's colour"
   },
   "muxrtc": {
     "12 Hour": "12-hora",
