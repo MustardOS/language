@@ -1082,8 +1082,8 @@
     "Shouty Titles": "Titler med versaler",
     "Smallest First": "Mindste først",
     "Times Played": "Spillede gange",
-    "Title Length": "Title Length",
-    "Vowel Heavy": "Vowel Heavy",
+    "Title Length": "Titellængde",
+    "Vowel Heavy": "Vokaltung",
     "Z-A": "Z-A"
   },
   "muxoverlay": {
@@ -1250,7 +1250,7 @@
     "#%u %s": "#%u %s",
     "%s - %s": "%s - %s",
     "%s - %u": "%s - %u",
-    "%s - %u points": "%s - %u points",
+    "%s - %u points": "%s - %u point",
     "%s - %u pts": "%s - %u pts",
     "%s: %s": "%s: %s",
     "%u Confirmed - %u Remaining": "%u Confirmed - %u Remaining",
