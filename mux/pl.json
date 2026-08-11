@@ -1164,7 +1164,7 @@
   },
   "muxnetscan": {
     "Detect, display and connect to available Wi-Fi networks": "Wyszukaj, wyświetl i połącz się z dostępnymi sieciami Wi-Fi",
-    "Finds the Wi-Fi networks in range. Select one and enter its password, and it is saved as a profile you can connect to again later.": "Finds the Wi-Fi networks in range. Select one and enter its password, and it is saved as a profile you can connect to again later.",
+    "Finds the Wi-Fi networks in range. Select one and enter its password, and it is saved as a profile you can connect to again later.": "Znajduje sieci Wi-Fi w zasięgu. Wybierz jedną i wpisz jej hasło, a zostanie zapisana jako profil, do którego można połączyć się później.",
     "NETWORK SCAN": "SKANOWANIE SIECI",
     "No Wi-Fi Networks Found": "Nie znaleziono sieci Wi-Fi",
     "Scanning for Wi-Fi Networks": "Skanowanie sieci Wi-Fi"
@@ -1172,11 +1172,11 @@
   "muxnetwork": {
     "Auto": "Auto",
     "Connected": "Połączono",
-    "Lists the Wi-Fi networks you have saved. Connect or disconnect from here, choose which one connects automatically, and forget any you no longer need.": "Lists the Wi-Fi networks you have saved. Connect or disconnect from here, choose which one connects automatically, and forget any you no longer need.",
+    "Lists the Wi-Fi networks you have saved. Connect or disconnect from here, choose which one connects automatically, and forget any you no longer need.": "Listuje sieci Wi-Fi, które zapisano. Połącz lub rozłącz, połącz automatycznie lub zapomnij o sieciach, których już nie potrzebujesz.",
     "Manage saved Wi-Fi networks and auto-connect preferences": "Zarządzaj zapisanymi sieciami Wi-Fi oraz preferencjami automatycznego połączenia",
     "Manual": "Ręcznie",
     "No Saved Networks Found": "Nie znaleziono zapisanych sieci",
-    "Scan for a nearby network and enter its password to save a profile.": "Scan for a nearby network and enter its password to save a profile.",
+    "Scan for a nearby network and enter its password to save a profile.": "Skanuj w poszukiwaniu sieci i wpisz jej hasło, by zapisać profil.",
     "WI-FI NETWORK": "SIEĆ WI-FI"
   },
   "muxnews": {
@@ -1185,7 +1185,7 @@
     "Downloading Post…": "Pobieranie posta…",
     "Error Obtaining Community News": "Błąd podczas pobierania aktualności",
     "No News Found…": "Nie znaleziono aktualności…",
-    "Shows announcements from the MustardOS crew, covering releases, changes and anything worth knowing about your device. Select an entry to read it in full, and scroll with the D-pad.": "Shows announcements from the MustardOS crew, covering releases, changes and anything worth knowing about your device. Select an entry to read it in full, and scroll with the D-pad."
+    "Shows announcements from the MustardOS crew, covering releases, changes and anything worth knowing about your device. Select an entry to read it in full, and scroll with the D-pad.": "Pokazuje ogłoszenia od ekipy MustardOS, w tym wydania, zmiany i wszystko, co warto wiedzieć o tym urządzeniu. Wybierz wpis, by przeczytać go w całości i przewijaj używając D-pada."
   },
   "muxoption": {
     "CONTENT INFO": "DANE ZAWARTOŚCI",
@@ -1220,7 +1220,7 @@
     "Set the overlay alpha, anchor and scale options for the selected content or directory": "Ustaw opcje przezroczystości nakładki, jej zakotwiczenie i skalę dla wybranej zawartości lub folderu",
     "Set the specific tag of the content selected to change the glyph": "Wybierz konkretną etykietę zawartości, by zmienić ikonę",
     "Set the system core or external emulator for the selected content or directory": "Ustaw rdzeń lub zewnętrzny emulator dla wybranej zawartości lub folderu",
-    "Sets how one piece of content behaves, covering its core, control scheme and any overrides. Changes here apply only to the item you opened this from.": "Sets how one piece of content behaves, covering its core, control scheme and any overrides. Changes here apply only to the item you opened this from.",
+    "Sets how one piece of content behaves, covering its core, control scheme and any overrides. Changes here apply only to the item you opened this from.": "Ustawia sposób, w jaki zachowuje się jeden element zawartości, w tym jego rdzeń, schemat sterowania i wszelkie napisania. Zmiany tutaj będą odzwierciedlone tylko dla elementu, z którego otworzono ten widok.",
     "Shader": "Shader",
     "Shows the parent directory of the selected content": "Wyświetla nadrzędny folder wybranej zawartości",
     "Shows the total accumulated play time for the selected content": "Wyświetla zsumowany czas gry dla wybranej zawartości",
@@ -1236,7 +1236,7 @@
     "Active": "Aktywny",
     "Apply Sort Order To": "Zastosuj porządek sortowania do",
     "Backwards": "Do tyłu",
-    "Chooses how this list is arranged, from alphabetical through to how recently or how often something was played. The order can apply just to this folder or to every folder at once.": "Chooses how this list is arranged, from alphabetical through to how recently or how often something was played. The order can apply just to this folder or to every folder at once.",
+    "Chooses how this list is arranged, from alphabetical through to how recently or how often something was played. The order can apply just to this folder or to every folder at once.": "Wybiera, jaki układ mają listy, od alfabetycznego, do tego, jak często w coś grano. Porządkowanie można zastosować tylko do tego folderu, lub do każdego naraz.",
     "Current + Global": "Bieżący + Globalne",
     "Feeling Lucky": "Mam szczęście",
     "File Size": "Rozmiar pliku",
@@ -1290,7 +1290,7 @@
     "Low Battery Transparency": "Przezroczystość niskiego naładowania",
     "None": "Brak",
     "OVERLAY OPTIONS": "OPCJE NAKŁADEK",
-    "Places an image over the screen while content runs, which suits handheld shaders and bezels. Choose the overlay and how strongly it shows.": "Places an image over the screen while content runs, which suits handheld shaders and bezels. Choose the overlay and how strongly it shows.",
+    "Places an image over the screen while content runs, which suits handheld shaders and bezels. Choose the overlay and how strongly it shows.": "Umieszcza obraz na ekranie, kiedy zawartość jest uruchomiona, co pasuje do shaderów i obramowań. Wybierz nakładkę i jak mocno ją widać.",
     "Scale": "Skala",
     "Sets the screen position where the base content overlay is anchored": "Ustawia pozycję na ekranie, do której zakotwiczona jest bazowa nakładka zawartości",
     "Sets the screen position where the brightness indicator is displayed": "Ustawia pozycję na ekranie, na której jest wyświetlany znacznik jasności",
@@ -1305,7 +1305,7 @@
     "Volume Transparency": "Przezroczystość głośności"
   },
   "muxpass": {
-    "Asks for the passcode before letting a protected action continue. Enter the code using the D-pad, in the direction order it was set. Anything protected stays visible but refuses to open until the code is accepted.": "Asks for the passcode before letting a protected action continue. Enter the code using the D-pad, in the direction order it was set. Anything protected stays visible but refuses to open until the code is accepted.",
+    "Asks for the passcode before letting a protected action continue. Enter the code using the D-pad, in the direction order it was set. Anything protected stays visible but refuses to open until the code is accepted.": "Prosi o hasło zanim pozwoli kontynuować chronionej akcji. Wpisz hasło przy użyciu D-pada, w kierunku, w jakim zostało ustawione. Wszystko, co chronione będzie widoczne, ale nastąpi odmowa otworzenia, dopóki hasło nie zostanie zaakceptowane.",
     "PASSCODE": "HASŁO",
     "Shutdown": "Wyłącz"
   },
@@ -1325,7 +1325,7 @@
     "PASSCODE SETTINGS": "USTAWIENIA BLOKADY",
     "Passcode saved": "Kod zapisany",
     "Safety Code": "Kod bezpieczeństwa",
-    "Sets the passcode and chooses which actions ask for it, covering start-up, launching content and changing settings. The code is a sequence of D-pad directions rather than numbers.": "Sets the passcode and chooses which actions ask for it, covering start-up, launching content and changing settings. The code is a sequence of D-pad directions rather than numbers.",
+    "Sets the passcode and chooses which actions ask for it, covering start-up, launching content and changing settings. The code is a sequence of D-pad directions rather than numbers.": "Ustawia hasło i wybiera, które akcje mają o nie pytać, w tym włączenie, uruchamianie zawartości i zmiana ustawień. Hasło jest sekwencją kierunków D-pada, a nie cyfr.",
     "Settings Code": "Kod ustawień",
     "Settings Message": "Wiadomość ustawień"
   },
@@ -1333,8 +1333,8 @@
     "CATALOGUE PICKER": "WYBÓR OKŁADEK",
     "CONFIG PICKER": "WYBÓR KONFIGURACJI",
     "CUSTOM PICKER": "WYBÓR PACZKI UŻYTKOWNIKA",
-    "Catalogue packages go in the MUOS/package/catalogue directory on any storage. Each one is a MUXCAT file that adds box art, previews and text for your content.": "Catalogue packages go in the MUOS/package/catalogue directory on any storage. Each one is a MUXCAT file that adds box art, previews and text for your content.",
-    "Custom packages go in the MUOS/package directory on any storage, and use the MUXCUS extension.": "Custom packages go in the MUOS/package directory on any storage, and use the MUXCUS extension.",
+    "Catalogue packages go in the MUOS/package/catalogue directory on any storage. Each one is a MUXCAT file that adds box art, previews and text for your content.": "Paczki katalogu umieszczone są w folderze MUOS/package/catalogue na dowolnej pamięci. Każda paczka to plik MUXCAT, która dodaje okładki, podglądy i tekst dla zawartości.",
+    "Custom packages go in the MUOS/package directory on any storage, and use the MUXCUS extension.": "Paczki użytkownika idą do folderu MUOS/package na dowolnej pamięci i korzystają z rozszerzenia MUXCUS.",
     "Incompatible Theme Resolution Detected": "Wykryto niekompatybilną rozdzielczość motywu",
     "Incompatible Theme Version Detected": "Wykryto niekompatybilną wersję motywu",
     "Lists the customisation packages available to install, covering themes, catalogues and configuration sets. Select one to apply it.": "Lists the customisation packages available to install, covering themes, catalogues and configuration sets. Select one to apply it.",
