@@ -12,6 +12,7 @@
     "Cancel": "Anuluj",
     "Cancelled": "Anulowano",
     "Cannot Delete Active Theme": "Nie można usunąć bieżącego motywu",
+    "Cannot find original launch content...": "Nie znaleziono oryginalnej zawartości...",
     "Change": "Zmień",
     "Change Nothing": "Nic nie zmieniaj",
     "Channel": "Kanał",
@@ -1026,7 +1027,7 @@
     "This theme is protected from deletion!": "Ten motyw jest chroniony przed usunięciem!"
   },
   "muxplore": {
-    "Content goes in the ROMS directory on your current storage. Folders inside it can be named whatever you like, there are no fixed names to follow.": "Content goes in the ROMS directory on your current storage. Folders inside it can be named whatever you like, there are no fixed names to follow.",
+    "Content goes in the ROMS directory on your current storage. Folders inside it can be named whatever you like, there are no fixed names to follow.": "Zawartość znajduje się w folderze ROMS na bieżącej pamięci. Foldery w środku mogą być nazwane, jak tylko chcesz, nie ma żadnych stałych nazw.",
     "Content is not associated with system or core": "Zawartość nie ma przypisanego systemu lub rdzenia",
     "Could not load content": "Nie można załadować zawartości",
     "Folders cannot be added to collections": "Nie można dodać folderów do kolekcji"
