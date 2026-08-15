@@ -412,32 +412,6 @@
     "Press START button to continue booting...": "Pressione o botão START para continuar a inicialização...",
     "Voltage": "Tensão"
   },
-  "muxchrony": {
-    "Frequency": "Frequência",
-    "How far out the clock was found to be at the most recent check.": "O quanto o relógio estava adiantado ou atrasado na verificação mais recente.",
-    "How far the device clock currently sits from network time.": "O quanto o relógio do dispositivo está atualmente adiantado ou atrasado em relação ao horário da rede.",
-    "How fast or slow the clock would drift on its own, before any correction is applied.": "A velocidade com que o relógio adiantaria ou atrasaria por conta própria antes que qualquer correção fosse aplicada.",
-    "How long messages take to reach the reference clock and come back.": "Quanto tempo as mensagens levam para chegar ao relógio de referência e retornar.",
-    "How many steps this device sits from a proper reference clock.\n\nLower is better, and one means it is talking straight to the source.": "Quantos níveis separam este dispositivo de um relógio de referência adequado.\n\nQuanto menor melhor, um significa que ele está se comunicando diretamente com a fonte.",
-    "How often the device checks the time.": "Com que frequência o dispositivo verifica a hora.",
-    "Last Offset": "Último deslocamento",
-    "Leap Status": "Status do avanço temporal",
-    "RMS Offset": "Deslocamento RMS",
-    "Reference": "Referência",
-    "Reference Time": "Tempo de referência",
-    "Reports how the device is keeping its clock in step with a time server, including the reference in use and how far the clock has drifted. This screen is read only.": "Informa como o dispositivo mantém seu relógio sincronizado com um servidor de horário, incluindo a referência em uso e o quanto o relógio se desviou. Esta tela é somente para leitura.",
-    "Root Delay": "Atraso raiz",
-    "Root Dispersion": "Dispersão raiz",
-    "Stratum": "Estrato",
-    "System Offset": "Deslocamento do sistema",
-    "The average of how far out the clock has been over time.\n\nA small figure here means it is being held steady.": "A média de quanto o relógio esteve adiantado ou atrasado ao longo do tempo.\n\nUm valor pequeno aqui significa que ele está sendo mantido estável.",
-    "The time server the device is currently taking its time from.": "O servidor de horário do qual o dispositivo está obtendo a hora atualmente.",
-    "The worst the error could be, allowing for everything between here and the reference clock.": "O maior erro possível, considerando tudo entre este dispositivo e o relógio de referência.",
-    "Time Sync Details": "Detalhes da sincronização de horário",
-    "Update Interval": "Intervalo de atualização",
-    "When a good update was last received.": "Quando uma atualização válida foi recebida pela última vez.",
-    "Whether the clock is currently in step, and whether a leap second is expected.": "Se o relógio está atualmente sincronizado e se um segundo intercalar é esperado."
-  },
   "muxcolfilter": {
     "Applies a colour filter to the content you selected, which shifts how colours are drawn on screen. Useful for matching the look of the original display.": "Aplica um filtro de cor ao conteúdo selecionado, alterando a forma como as cores são exibidas na tela. Útil para reproduzir a aparência da tela original.",
     "Change the colour filter of your current selected content": "Altera o filtro de cor do conteúdo atualmente selecionado",
@@ -900,7 +874,6 @@
     "Everything about the device itself, its battery and its network connection, grouped into sections.": "Tudo sobre o próprio dispositivo, sua bateria e sua conexão de rede, agrupado em seções.",
     "How long you have played each item and how often, gathered from the activity tracker.": "Quanto tempo e com que frequência você jogou cada item, obtido do registro de atividades.",
     "How much room is left on each mounted storage device.": "Quanto espaço resta em cada dispositivo de armazenamento montado.",
-    "How the device clock is being kept in step with network time.": "Como o relógio do dispositivo está sendo sincronizado com o horário da rede.",
     "Information": "Informações",
     "Input Tester": "Teste de botões",
     "Reload Frontend": "Recarregar interface",
@@ -910,8 +883,7 @@
     "Screenshots": "Capturas de tela",
     "Storage Space": "Espaço de armazenamento",
     "Supporters and Credits": "Apoiadores e créditos",
-    "The people who support MustardOS and everyone who has helped along the way.": "As pessoas que apoiam o MustardOS e todos que ajudaram ao longo do caminho.",
-    "Time Sync Details": "Detalhes da sincronização de hora"
+    "The people who support MustardOS and everyone who has helped along the way.": "As pessoas que apoiam o MustardOS e todos que ajudaram ao longo do caminho."
   },
   "muxinstall": {
     "Access": "Acesso",

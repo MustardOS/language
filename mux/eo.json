@@ -412,32 +412,6 @@
     "Press START button to continue booting...": "Press START button to continue booting...",
     "Voltage": "Voltaĝo"
   },
-  "muxchrony": {
-    "Frequency": "Frekvenco",
-    "How far out the clock was found to be at the most recent check.": "How far out the clock was found to be at the most recent check.",
-    "How far the device clock currently sits from network time.": "How far the device clock currently sits from network time.",
-    "How fast or slow the clock would drift on its own, before any correction is applied.": "How fast or slow the clock would drift on its own, before any correction is applied.",
-    "How long messages take to reach the reference clock and come back.": "How long messages take to reach the reference clock and come back.",
-    "How many steps this device sits from a proper reference clock.\n\nLower is better, and one means it is talking straight to the source.": "How many steps this device sits from a proper reference clock.\n\nLower is better, and one means it is talking straight to the source.",
-    "How often the device checks the time.": "How often the device checks the time.",
-    "Last Offset": "Lasta deŝovo",
-    "Leap Status": "Saltostato",
-    "RMS Offset": "RMS-deŝovo",
-    "Reference": "Referenco",
-    "Reference Time": "Referenca tempo",
-    "Reports how the device is keeping its clock in step with a time server, including the reference in use and how far the clock has drifted. This screen is read only.": "Reports how the device is keeping its clock in step with a time server, including the reference in use and how far the clock has drifted. This screen is read only.",
-    "Root Delay": "Radika prokrasto",
-    "Root Dispersion": "Radika disiĝo",
-    "Stratum": "Tavoloj",
-    "System Offset": "Sistema deŝovo",
-    "The average of how far out the clock has been over time.\n\nA small figure here means it is being held steady.": "The average of how far out the clock has been over time.\n\nA small figure here means it is being held steady.",
-    "The time server the device is currently taking its time from.": "The time server the device is currently taking its time from.",
-    "The worst the error could be, allowing for everything between here and the reference clock.": "The worst the error could be, allowing for everything between here and the reference clock.",
-    "Time Sync Details": "Time Sync Details",
-    "Update Interval": "Ĝisdatiga intervalo",
-    "When a good update was last received.": "When a good update was last received.",
-    "Whether the clock is currently in step, and whether a leap second is expected.": "Whether the clock is currently in step, and whether a leap second is expected."
-  },
   "muxcolfilter": {
     "Applies a colour filter to the content you selected, which shifts how colours are drawn on screen. Useful for matching the look of the original display.": "Applies a colour filter to the content you selected, which shifts how colours are drawn on screen. Useful for matching the look of the original display.",
     "Change the colour filter of your current selected content": "Ŝanĝu la kolorfiltron de via nuntempe elektita enhavo",
@@ -900,7 +874,6 @@
     "Everything about the device itself, its battery and its network connection, grouped into sections.": "Everything about the device itself, its battery and its network connection, grouped into sections.",
     "How long you have played each item and how often, gathered from the activity tracker.": "How long you have played each item and how often, gathered from the activity tracker.",
     "How much room is left on each mounted storage device.": "How much room is left on each mounted storage device.",
-    "How the device clock is being kept in step with network time.": "How the device clock is being kept in step with network time.",
     "Information": "Information",
     "Input Tester": "Enigo-testilo",
     "Reload Frontend": "Reload Frontend",
@@ -910,8 +883,7 @@
     "Screenshots": "Ekrankopioj",
     "Storage Space": "Memora spaco",
     "Supporters and Credits": "Subtenantoj kaj kreditoj",
-    "The people who support MustardOS and everyone who has helped along the way.": "The people who support MustardOS and everyone who has helped along the way.",
-    "Time Sync Details": "Tempo-sinkronigaj detaloj"
+    "The people who support MustardOS and everyone who has helped along the way.": "The people who support MustardOS and everyone who has helped along the way."
   },
   "muxinstall": {
     "Access": "Access",

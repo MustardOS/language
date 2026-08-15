@@ -412,32 +412,6 @@
     "Press START button to continue booting...": "Wciśnij START, aby kontynuować uruchamianie...",
     "Voltage": "Napięcie"
   },
-  "muxchrony": {
-    "Frequency": "Częstotliwość",
-    "How far out the clock was found to be at the most recent check.": "Jak bardzo spóźniał się zegar podczas ostatniego sprawdzenia.",
-    "How far the device clock currently sits from network time.": "Jak bardzo czas urządzenia różni się od czasu sieciowego.",
-    "How fast or slow the clock would drift on its own, before any correction is applied.": "Jak szybko lub wolno zegar powinien móc się rozminąć, zanim wprowadzona zostanie korekta.",
-    "How long messages take to reach the reference clock and come back.": "Jak długo zajmuje wiadomościom dotarcie do referencyjnego zegara i powrót.",
-    "How many steps this device sits from a proper reference clock.\n\nLower is better, and one means it is talking straight to the source.": "Ile kroków dzieli to urządzenie od poprawnego zegara referencyjnego.\n\nMniejsza jest lepsza, a jeden oznacza rozmawia nie bezpośrednio ze źródłem.",
-    "How often the device checks the time.": "Jak często urządzenie sprawdza czas.",
-    "Last Offset": "Ostatnie przesunięcie",
-    "Leap Status": "Stan przestępności",
-    "RMS Offset": "Przesunięcie RMS",
-    "Reference": "Referencja",
-    "Reference Time": "Czas referencyjny",
-    "Reports how the device is keeping its clock in step with a time server, including the reference in use and how far the clock has drifted. This screen is read only.": "Raportuje sposób, w jaki urządzenie synchronizuje swój zegar za pomocą serwera czasu, włącznie z odniesieniem w użyciu oraz tym, jak duże jest odchylenie. Ten ekran jest tylko do odczytu.",
-    "Root Delay": "Bazowe opóźnienie",
-    "Root Dispersion": "Bazowe rozproszenie",
-    "Stratum": "Warstwa",
-    "System Offset": "Systemowe przesunięcie",
-    "The average of how far out the clock has been over time.\n\nA small figure here means it is being held steady.": "Ile średnio zegar uległ odchyleniu po czasie.\n\nNiska wartość oznacza stabilność.",
-    "The time server the device is currently taking its time from.": "Serwer czasu, z którego urządzenie pobiera swój czas.",
-    "The worst the error could be, allowing for everything between here and the reference clock.": "Najgorszy błąd, jaki może zaistnieć i pozwalać na wszystko pomiędzy bieżącym momentem, a zegarem referencyjnym.",
-    "Time Sync Details": "Szczegóły synch. czasu",
-    "Update Interval": "Interwał aktualizacji",
-    "When a good update was last received.": "Kiedy ostatnio otrzymano dobrą aktualizację.",
-    "Whether the clock is currently in step, and whether a leap second is expected.": "Czy zegar nie ma odchylenia i czy sekunda przestępna jest oczekiwana."
-  },
   "muxcolfilter": {
     "Applies a colour filter to the content you selected, which shifts how colours are drawn on screen. Useful for matching the look of the original display.": "Zastosowuje filtr kolorów do zawartości, którą wybrano i przesuwa kolory wyświetlane na ekranie. Przydatne, by dopasować do wyglądu oryginalnego ekranu.",
     "Change the colour filter of your current selected content": "Zmień filtr kolorów dla wybranej zawartości",
@@ -900,7 +874,6 @@
     "Everything about the device itself, its battery and its network connection, grouped into sections.": "Everything about the device itself, its battery and its network connection, grouped into sections.",
     "How long you have played each item and how often, gathered from the activity tracker.": "How long you have played each item and how often, gathered from the activity tracker.",
     "How much room is left on each mounted storage device.": "How much room is left on each mounted storage device.",
-    "How the device clock is being kept in step with network time.": "How the device clock is being kept in step with network time.",
     "Information": "Informacje",
     "Input Tester": "Tester przycisków",
     "Reload Frontend": "Przeładuj frontend",
@@ -910,8 +883,7 @@
     "Screenshots": "Zrzuty ekranu",
     "Storage Space": "Przestrzeń dyskowa",
     "Supporters and Credits": "Wspierający i twórcy",
-    "The people who support MustardOS and everyone who has helped along the way.": "The people who support MustardOS and everyone who has helped along the way.",
-    "Time Sync Details": "Detale synchronizacji czasu"
+    "The people who support MustardOS and everyone who has helped along the way.": "The people who support MustardOS and everyone who has helped along the way."
   },
   "muxinstall": {
     "Access": "Dostęp",

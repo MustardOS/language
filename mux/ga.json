@@ -412,32 +412,6 @@
     "Press START button to continue booting...": "Brúigh an cnaipe TOSAITHE chun leanúint ar aghaidh ag tosaithe...",
     "Voltage": "Voltas"
   },
-  "muxchrony": {
-    "Frequency": "Minicíocht",
-    "How far out the clock was found to be at the most recent check.": "Cé chomh fada amach ón gclog a fuarthas amach ag an tseiceáil is déanaí.",
-    "How far the device clock currently sits from network time.": "Cé chomh fada agus atá clog an ghléis ó am an líonra faoi láthair.",
-    "How fast or slow the clock would drift on its own, before any correction is applied.": "Cé chomh tapa nó mall a imeoidh an clog leis féin, sula gcuirtear aon cheartú i bhfeidhm.",
-    "How long messages take to reach the reference clock and come back.": "An t-am a thógann sé ar theachtaireachtaí an clog tagartha a bhaint amach agus teacht ar ais.",
-    "How many steps this device sits from a proper reference clock.\n\nLower is better, and one means it is talking straight to the source.": "Cé mhéad céim atá an gléas seo suite ón gclog tagartha ceart.\n\nIs fearr níos ísle, agus ciallaíonn ceann amháin go bhfuil sé ag caint go díreach leis an bhfoinse.",
-    "How often the device checks the time.": "Cé chomh minic a sheiceálann an gléas an t-am.",
-    "Last Offset": "Fritháireamh Deireanach",
-    "Leap Status": "Stádas Léim",
-    "RMS Offset": "Fritháireamh RMS",
-    "Reference": "Tagairt",
-    "Reference Time": "Am Tagartha",
-    "Reports how the device is keeping its clock in step with a time server, including the reference in use and how far the clock has drifted. This screen is read only.": "Tuairiscítear conas atá an gléas ag coinneáil a chlog i gcomhréir le freastalaí ama, lena n-áirítear an tagairt atá in úsáid agus cé chomh fada agus atá an clog imithe ar seachrán. Is scáileán léite amháin é seo.",
-    "Root Delay": "Moill Fréimhe",
-    "Root Dispersion": "Scaipeadh Fréimhe",
-    "Stratum": "Stratum",
-    "System Offset": "Fritháireamh an Chórais",
-    "The average of how far out the clock has been over time.\n\nA small figure here means it is being held steady.": "Meán an ama a chuaigh an clog amach.\n\nCiallaíonn figiúr beag anseo go bhfuil sé á choinneáil seasmhach.",
-    "The time server the device is currently taking its time from.": "An freastalaí ama a bhfuil an gléas ag glacadh a ama uaidh faoi láthair.",
-    "The worst the error could be, allowing for everything between here and the reference clock.": "An earráid is measa a d'fhéadfadh a bheith ann, ag cur san áireamh gach rud idir seo agus an clog tagartha.",
-    "Time Sync Details": "Sonraí Sioncrónaithe Ama",
-    "Update Interval": "Eatramh Nuashonraithe",
-    "When a good update was last received.": "Cathain a fuarthas nuashonrú maith go deireanach.",
-    "Whether the clock is currently in step, and whether a leap second is expected.": "Cibé an bhfuil an clog i gcéim faoi láthair, agus an bhfuiltear ag súil le soicind léim."
-  },
   "muxcolfilter": {
     "Applies a colour filter to the content you selected, which shifts how colours are drawn on screen. Useful for matching the look of the original display.": "Cuireann sé scagaire datha i bhfeidhm ar an ábhar a roghnaigh tú, rud a athraíonn an chaoi a dtarraingítear dathanna ar an scáileán. Úsáideach chun cuma an taispeántais bhunaidh a mheaitseáil.",
     "Change the colour filter of your current selected content": "Athraigh an scagaire datha ar an ábhar atá roghnaithe agat faoi láthair",
@@ -900,7 +874,6 @@
     "Everything about the device itself, its battery and its network connection, grouped into sections.": "Everything about the device itself, its battery and its network connection, grouped into sections.",
     "How long you have played each item and how often, gathered from the activity tracker.": "How long you have played each item and how often, gathered from the activity tracker.",
     "How much room is left on each mounted storage device.": "How much room is left on each mounted storage device.",
-    "How the device clock is being kept in step with network time.": "How the device clock is being kept in step with network time.",
     "Information": "Information",
     "Input Tester": "Tástálaí Ionchurtha",
     "Reload Frontend": "Reload Frontend",
@@ -910,8 +883,7 @@
     "Screenshots": "Seatanna scáileáin",
     "Storage Space": "Spás Stórála",
     "Supporters and Credits": "Tacaíochtaí agus Creidmheasanna",
-    "The people who support MustardOS and everyone who has helped along the way.": "The people who support MustardOS and everyone who has helped along the way.",
-    "Time Sync Details": "Sonraí Sioncrónaithe Ama"
+    "The people who support MustardOS and everyone who has helped along the way.": "The people who support MustardOS and everyone who has helped along the way."
   },
   "muxinstall": {
     "Access": "Access",
