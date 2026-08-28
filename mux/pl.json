@@ -737,7 +737,7 @@
     "MAC Address": "Adres MAC",
     "Memory": "Pamięć",
     "Memory Cache Dropped": "Zwolniono przechowaną pamięć",
-    "Minute": "Minuta",
+    "Minute": "Minut",
     "Network": "Sieć",
     "Network Name": "Nazwa sieci",
     "Power History": "Historia zasilania",
@@ -907,7 +907,7 @@
     "Supporters and Credits": "Wspierający i twórcy",
     "The people who support MustardOS and everyone who has helped along the way.": "Ludzie, którzy wspierają MustardOS i wszyscy, którzy pomogli po drodze.",
     "The third party libraries built into this release, with the version of each one.": "Zewnętrzne biblioteki wbudowane w to wydanie, z wersją każdej z nich.",
-    "Third Party": "Zewnętrzna"
+    "Third Party": "Zewnętrzne"
   },
   "muxinstall": {
     "Access": "Dostęp",
@@ -2260,19 +2260,19 @@
     "How the clock is written in the header.\n\nChoose a 12 or 24 hour clock, with the date shown day first or month first, or pick Custom to write your own.": "W jaki sposób zapisywany jest czas w nagłówku.\n\nWybierz zegar 12- lub 24-godzinny, datę zapisywaną z dniem lub miesiącem z przodu lub wybierz Użytkownika, by napisać własny format.",
     "MM/DD 12 Hour": "MM/DD 12 Godzin",
     "MM/DD 24 Hour": "MM/DD 24 Godziny",
-    "Minute": "Minuta",
+    "Minute": "Minuty",
     "Month": "Miesiąc",
     "Sets the date, time and timezone your device keeps. The notation setting chooses how the clock reads, covering twelve or twenty-four hour and the order of day and month.\n\nChoosing Custom lets you write the layout yourself using a strftime format string, so %H:%M gives 14:30 and %a %d %b gives Tue 05 Aug. Anything strftime accepts will work, and an invalid string simply leaves the clock blank.": "Ustawia datę, czas oraz strefę czasową urządzenia. Ustawienie notacji pozwala zmienić ustawienia zegara, w tym format 12- i 24-godzinny oraz kolejność dnia i miesiąca.\n\nWybranie Użytkownika pozwala zapisać układ samodzielnie korzystając z ciągu znaków w formacie strftime, więc %H:%M daje 14:30, a %a %d %b daje Tue 05 Aug. Wszystko, co akceptuje strftime będzie działać, a niepoprawny ciąg sprawia, że zegar jest pusty.",
     "The current day of the month. The range adjusts itself to suit the month and year you have chosen.": "Bieżący dzień miesiąca. Zakres dostosowuje się, by pasować do miesiąca i roku, który wybrano.",
     "The current hour, always entered on a 24 hour clock even when the display is set to 12 hour.": "Bieżąca godzina, zawsze wpisywania w formacie 24-godzinnym, nawet jeśli wyświetlany jest format 12-godzinny.",
-    "The current minute.": "Bieżąca minuta.",
+    "The current minute.": "Bieżące minuty.",
     "The current month, from 1 to 12.": "Bieżący miesiąc, od 1 do 12.",
     "The current year. Only worth touching if the clock has drifted or the battery has been out.": "Bieżący rok. Warto ruszać tylko wtedy, gdy zegar odchylił się lub bateria została wyciągnięta.",
     "The region your device keeps time for. Setting this lets the clock correct itself from the internet, and handles daylight saving for you.": "Region, dla którego urządzenie podtrzymuje czas. Ustawienie tego pozwala zegarowi ustawić się według internetu oraz obsługuje za ciebie zmiany czasy.",
     "Time Notation": "Zapis czasu",
     "Timezone": "Strefa czasowa",
     "Year": "Rok",
-    "Your own clock layout, used when Time Notation is set to Custom.\n\n%H hour (24), %I hour (12), %M minute, %p AM or PM, %d day, %m month, %Y year, %a short day name, %b short month name.\n\nFor example, %a %d %b  %I:%M %p gives Mon 04 Aug  09:18 PM.": "Własny układ zegara, kiedy Notacja czasu jest ustawiona na Użytkownika.\n\n%H godzina (24), %l godzina (12), %M minuta, %p AM lub PM, %d dzień, %m miesiąc, %Y rok, %a krótka nazwa dnia, %b krótka nazwa miesiąca.\n\nNa przykład, %a %d %b  %I:%M %p daje Mon 04 Aug  09:18 PM."
+    "Your own clock layout, used when Time Notation is set to Custom.\n\n%H hour (24), %I hour (12), %M minute, %p AM or PM, %d day, %m month, %Y year, %a short day name, %b short month name.\n\nFor example, %a %d %b  %I:%M %p gives Mon 04 Aug  09:18 PM.": "Własny układ zegara, kiedy Notacja czasu jest ustawiona na Użytkownika.\n\n%H godzina (24), %l godzina (12), %M minuty, %p AM lub PM, %d dzień, %m miesiąc, %Y rok, %a krótka nazwa dnia, %b krótka nazwa miesiąca.\n\nNa przykład, %a %d %b  %I:%M %p daje Mon 04 Aug  09:18 PM."
   },
   "muxsearch": {
     "Finds content by name across your storage. Enter a term, then choose whether to search the current folder or everywhere.": "Znajduje zawartość po nazwie w całej pamięci. Wpisz zapytanie, a potem wybierz, czy szukać w bieżącym folderze, czy wszędzie.",
