@@ -203,7 +203,6 @@
     "Abandoned": "Porzucone",
     "Activity Tracker": "Śledzenie aktywności",
     "Activity is recorded as you play, so launch something to start building a history.": "Aktywność jest zapisywana, kiedy grasz, więc uruchom coś, by zacząć budować historię.",
-    "Activity statistics exported": "Wyeksportowano statystyki aktywności",
     "Average Play Time": "Średni czas gry",
     "Average Time": "Średni czas",
     "Binger": "Miłośnik maratonów",
@@ -216,9 +215,7 @@
     "Core Gamer": "Czołowy gracz",
     "Core Used": "Użyty rdzeń",
     "Device Nomad": "Nomad urządzeń",
-    "Error exporting statistics": "Błąd podczas eksportu statystyk",
     "Explorer": "Odkrywca",
-    "Export": "Eksportuj",
     "Favourite Day": "Ulubiony dzień",
     "Habitual Player": "Nałogowiec",
     "Info": "Info",
@@ -252,13 +249,11 @@
     "Total Launch Count": "Łączna liczba uruchomień",
     "Total Play Time": "Łączny czas gry",
     "Total Time": "Łączny czas",
-    "Tracks what you play, how often and for how long. View detailed stats per game, overall play habits, and export your activity data to a HTML file": "Śledzi, w co grasz, jak często i jak długo. Zobacz szczegółowe statystyki gry, ogólne nawyki grania i eksportuj swoje dane aktywności do pliku HTML",
     "Unique": "Unikalny",
     "Unique Content Played": "Grano w unikalną zawartość",
     "Unique Cores Used": "Użyto unikalnych rdzeni",
     "Weekend Warrior": "Weekendowy wojownik",
-    "Window Shopper": "Przeglądający tytuły",
-    "Your activity has been written to\n\n%s\n\nOpen it with a browser to read through it, or share it with others if you dare!": "Aktywność zapisano do\n\n%s\n\nOtwórz plik w przeglądarce, aby go przeczytać lub podzielić się nim z innymi, jeśli masz odwagę!"
+    "Window Shopper": "Przeglądający tytuły"
   },
   "muxapp": {
     "Applications": "Aplikacje",
@@ -362,8 +357,6 @@
     "Your saved Wi-Fi networks and their details.\n\nSaves retyping passwords after a fresh install.": "Zapisane sieci Wi-Fi i ich szczegóły.\n\nOszczędza przepisywania hasła przy każdej świeżej instalacji."
   },
   "muxbtall": {
-    "Auto Connect": "Połącz automatycznie",
-    "Automatically reconnect to paired devices on startup": "Automatycznie połącz sparowane urządzenia przy starcie",
     "Bluetooth": "Bluetooth",
     "Connect": "Połącz",
     "Connected": "Połączono",
@@ -481,7 +474,6 @@
     "Pair, connect and manage Bluetooth devices such as controllers and headphones.": "Paruj, łącz i zaeządzaj urządzeniami Bluetooth, jak kontrolery i słuchawki.",
     "Proxy Settings": "Ustawienia proxy",
     "Sends outbound traffic through a proxy.\n\nOnly needed on networks that require one, such as some school or workplace connections.": "Przesyła wychodzący ruch sieciowy poprzez proxy.\n\nTylko potrzebne w sieciach, które go wymagają, jak w szkole czy pracy.",
-    "Shows the code a browser needs before it can change anything through the Web Dashboard.\n\nThe code is only ever shown here, so whoever is managing the device has to be holding it.": "Pokazuje kod, którego potrzebuje przeglądarka, zanim można cokolwiek zmienić w Panelu online.\n\nKod jest pokazywany jedynie tutaj, więc ktokolwiek zarządza urządzeniem, musi je trzymać.",
     "The finer network settings, covering DNS, hostname and what happens at boot.": "Dodatkowe ustawienia sieciowe, w tym DNS, nazwa hosta oraz to, co dzieje się podczas uruchamiania.",
     "Web Dashboard Code": "Kod panelu online",
     "Web Services": "Serwisy sieciowe",
@@ -632,7 +624,6 @@
     "Navigation Sound": "Dźwięk nawigacji",
     "Navigation Sound Volume": "Głośność dźwięku nawigacji",
     "None": "Brak",
-    "Open font settings to configure font type, custom TTF font and size overrides for most sections": "Ustawienia czcionek, gdzie można zmienić typ czcionki, dodać czcionkę TTF użytkownika oraz nadpisanie rozmiarów czcionki dla większości sekcji",
     "Override the footer glyph render size in pixels (Default uses the theme value, Auto fits to item height, Native uses the actual size)": "Nadpisz rozmiar ikon stopki w pikselach (Domyślny używa wartości z motywu, Auto dopasowuje do wysokości elementu, Natywny używa prawdziwego rozmiaru)",
     "Override the grid glyph render size in pixels (Default uses the theme value, Auto fits to the cell, Native uses the actual size)": "Nadpisz rozmiar ikon siatki w pikselach (Domyślny używa wartości motywu, Auto dostosowuje do wysokości komórki, Natywny używa prawdziwego rozmiaru)",
     "Override the header glyph render size in pixels (Default uses the theme value, Auto fits to header height, Native uses the actual size)": "Nadpisz rozmiar ikon nagłówka w pikselach (Domyślny używa wartości motywu, Auto dostosowuje do wysokości nagłówka, Natywny używa prawdziwego rozmiaru)",
@@ -890,15 +881,6 @@
     "When the daytime temperature takes over.": "Kiedy temperatura dzienna zostaje zastosowana.",
     "When the evening temperature takes over. Remember to go to bed at an appropriate time!": "Kiedy temperatura nocna zostaje zastosowana. Pamiętaj, by położyć się spać o odpowiedniej porze!"
   },
-  "muxdownload": {
-    "APP DOWNLOADER": "POBIERANIE APLIKACJI",
-    "Archive Removed": "Archiwum usunięte",
-    "CORE DOWNLOADER": "POBIERANIE RDZENI",
-    "Downloading Archive": "Pobieranie archiwum",
-    "Downloading Data": "Pobieranie danych",
-    "Error Retrieving Data": "Błąd pobierania danych",
-    "Fetches additional cores and applications over the network. Select an entry to download it, and it is installed ready to use.": "Pobiera dodatkowe rdzenie i aplikacje przez sieć. Wybierz element, żeby go pobrać, a zostanie zainstalowany i gotowy do użytku."
-  },
   "muxfont": {
     "Chooses the typeface used throughout the interface and how large it appears in each part of the screen, covering lists, headers and footers separately. A custom font file can be supplied if the built-in ones do not suit.": "Wybiera czcionkę używaną przez interfejs oraz jak duża ma być każda część ekranu, w tym osobno listy, nagłówki i stopki. Czcionka użytkownika może zostać użyta, jeśli wbudowane nie są odpowiednie.",
     "Custom": "Użytkownika",
@@ -913,13 +895,11 @@
     "List Font Size": "Wielkość czcionki listy",
     "No Fonts Available": "Brak dostępnych czcionek",
     "Panel Font Size": "Wielkość czcionki panelu",
-    "Select the font type: Language uses the built-in language font, Theme uses fonts provided by the active theme, Custom lets you pick a specific TTF font": "Wybierz typ czcionki: Język używa wbudowanej czcionki dla języka, Motyw używa czcionki z bieżącego motywu, Inna pozwala wybrać ci konkretną czcionkę TTF",
     "Set the font size for grid panel labels (0 uses the device default, only applies in grid mode)": "Wybierz rozmiar czcionki dla etykiet paneli siatki (0 używa domyślnych wartości, tylko dla trybu siatki)",
     "The text size used for list items.\n\nLeave it at 0 to use whatever suits the device.": "Rozmiar tekstu używany dla elementów listy.\n\nPozostaw na 0, by użyć wartości pasującej do urządzenia.",
     "The text size used in the footer bar.\n\nLeave it at 0 to use whatever suits the device.": "Rozmiar tekstu używany dla paska stopki.\n\nPozostaw na 0, by użyć wartości pasującej do urządzenia.",
     "The text size used in the header bar.\n\nLeave it at 0 to use whatever suits the device.": "Rozmiar tekstu używany dla paska nagłówka.\n\nPozostaw na 0, by użyć wartości pasującej do urządzenia.",
-    "Theme": "Motyw",
-    "Which font file to use.\n\nOnly has any effect once Font Type is set to Custom.": "Której czcionki użyć.\n\nMa zastosowanie tylko wtedy, gdy Typ czcionki jest ustawiony na Użytkownika."
+    "Theme": "Motyw"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Skonfiguruj regulatory CPU, aby dynamicznie dostosować częstotliwość CPU i pomóc zrównoważyć zużycie energii i wydajność",
@@ -2984,7 +2964,6 @@
     "Authentication is turned off, so the Web Dashboard cannot change anything and needs no code.": "Uwierzytelnienie jest wyłączone, więc Panel online nie może niczego zmienić oraz nie potrzebuje kodu.",
     "Changes in %d seconds": "Zmienia się za %d sekundy",
     "No network address yet": "Brak adresu sieciowego",
-    "The code the Web Dashboard asks for before it will upload or delete anything. It changes every thirty seconds, and is only ever shown on this screen.": "Kod, o który prosi Panel online zanim cokolwiek wgra lub usunie. Zmienia się co trzydzieści sekund i jest pokazywany jedynie na tym ekranie.",
     "The device code could not be read.": "Nie można odczytać kodu urządzenia.",
     "Turn the Web Dashboard on to use a code.": "Włącz Panel online, by używać kodu.",
     "Web Dashboard Code": "Kod panelu online"
@@ -3025,7 +3004,6 @@
     "Web Dashboard": "Panel online",
     "Web Port": "Port sieciowy",
     "Web Services": "Serwisy sieciowe",
-    "Whether the Web Dashboard may change anything.\n\nDisabled, it can only browse and download. Enabled, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Czy Panel online może cokolwiek zmieniać.\n\nWyłączony, może tylko przeglądać i pobierać. Włączony, pozwala wgrywać i usuwać, a każda zmiana pyta o kod z widoku Kod panelu webowego.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "Czy ta usługa działa.\n\nKażda z nich zwiększa użycie energii oraz pamięci, kiedy jest uruchomiona, więc wyłącz te, których nie używasz."
   }
 }
