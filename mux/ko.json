@@ -203,7 +203,6 @@
     "Abandoned": "중단함",
     "Activity Tracker": "활동 추적기",
     "Activity is recorded as you play, so launch something to start building a history.": "플레이하는 동안 활동이 기록됩니다. 게임이나 콘텐츠를 실행해 활동 기록을 만들어 보세요.",
-    "Activity statistics exported": "내보낸 활동 통계",
     "Average Play Time": "평균 플레이 시간",
     "Average Time": "평균 시간",
     "Binger": "몰입형 유저",
@@ -216,9 +215,7 @@
     "Core Gamer": "코어 게이머",
     "Core Used": "사용된 코어",
     "Device Nomad": "이동형 플레이어",
-    "Error exporting statistics": "통계 내보내기 오류",
     "Explorer": "탐색",
-    "Export": "내보내기",
     "Favourite Day": "선호 요일",
     "Habitual Player": "습관적인 플레이어",
     "Info": "정보",
@@ -252,13 +249,11 @@
     "Total Launch Count": "총 실행 횟수",
     "Total Play Time": "총 플레이 시간",
     "Total Time": "총 시간",
-    "Tracks what you play, how often and for how long. View detailed stats per game, overall play habits, and export your activity data to a HTML file": "무엇을 얼마나 자주, 얼마나 오래 플레이했는지 추적합니다. 게임별 상세 통계와 전체 플레이 습관을 확인하고 활동 데이터를 HTML 파일로 내보낼 수 있습니다",
     "Unique": "유니크",
     "Unique Content Played": "플레이한 유니크 콘텐츠",
     "Unique Cores Used": "사용된 유니크 코어",
     "Weekend Warrior": "주말의 전사",
-    "Window Shopper": "윈도우 쇼퍼",
-    "Your activity has been written to\n\n%s\n\nOpen it with a browser to read through it, or share it with others if you dare!": "활동 기록이 다음 위치에 저장되었습니다\n\n%s\n\n브라우저로 열어 확인하거나, 용기가 난다면 다른 사람과 공유해 보세요!"
+    "Window Shopper": "윈도우 쇼퍼"
   },
   "muxapp": {
     "Applications": "어플리케이션",
@@ -362,8 +357,6 @@
     "Your saved Wi-Fi networks and their details.\n\nSaves retyping passwords after a fresh install.": "저장된 Wi-Fi 네트워크와 상세 정보입니다.\n\n새로 설치한 뒤 비밀번호를 다시 입력하는 수고를 줄여줍니다."
   },
   "muxbtall": {
-    "Auto Connect": "자동 연결",
-    "Automatically reconnect to paired devices on startup": "시작 시 페어링된 기기에 자동으로 다시 연결합니다",
     "Bluetooth": "블루투스",
     "Connect": "연결",
     "Connected": "연결됨",
@@ -481,7 +474,6 @@
     "Pair, connect and manage Bluetooth devices such as controllers and headphones.": "컨트롤러나 헤드폰 같은 블루투스 기기를 페어링, 연결 및 관리합니다.",
     "Proxy Settings": "프록시 설정",
     "Sends outbound traffic through a proxy.\n\nOnly needed on networks that require one, such as some school or workplace connections.": "외부로 나가는 트래픽을 프록시를 통해 전송합니다.\n\n일부 학교나 직장 네트워크처럼 프록시가 필요한 환경에서만 사용합니다.",
-    "Shows the code a browser needs before it can change anything through the Web Dashboard.\n\nThe code is only ever shown here, so whoever is managing the device has to be holding it.": "브라우저에서 웹 대시보드를 통해 설정을 변경하기 전에 필요한 코드를 표시합니다.\n\n이 코드는 여기에서만 표시되므로 기기를 직접 들고 있는 사용자만 확인할 수 있습니다.",
     "The finer network settings, covering DNS, hostname and what happens at boot.": "DNS, 호스트 이름 및 부팅 시 동작을 포함한 세부 네트워크 설정입니다.",
     "Web Dashboard Code": "웹 대시보드 코드",
     "Web Services": "웹 서비스",
@@ -632,7 +624,6 @@
     "Navigation Sound": "이동 효과음",
     "Navigation Sound Volume": "이동 효과음 음량",
     "None": "없음",
-    "Open font settings to configure font type, custom TTF font and size overrides for most sections": "폰트 설정을 열어 글꼴 종류, 사용자 TTF 글꼴 및 대부분 섹션의 크기 오버라이드를 설정",
     "Override the footer glyph render size in pixels (Default uses the theme value, Auto fits to item height, Native uses the actual size)": "푸터 글리프 렌더링 크기를 픽셀 단위로 재정의 (기본값은 테마 값 사용, 자동은 항목 높이에 맞춤, 원본은 실제 크기 사용)",
     "Override the grid glyph render size in pixels (Default uses the theme value, Auto fits to the cell, Native uses the actual size)": "그리드 글리프 렌더링 크기를 픽셀 단위로 재정의 (기본값은 테마 값 사용, 자동은 셀에 맞춤, 원본은 실제 크기 사용)",
     "Override the header glyph render size in pixels (Default uses the theme value, Auto fits to header height, Native uses the actual size)": "헤더 글리프 렌더링 크기를 픽셀 단위로 재정의 (기본값은 테마 값 사용, 자동은 헤더 높이에 맞춤, 원본은 실제 크기 사용)",
@@ -890,15 +881,6 @@
     "When the daytime temperature takes over.": "낮 시간 온도가 적용되기 시작하는 시각입니다.",
     "When the evening temperature takes over. Remember to go to bed at an appropriate time!": "저녁 시간 온도가 적용되기 시작하는 시각입니다. 적당한 시간에 잠자리에 드세요!"
   },
-  "muxdownload": {
-    "APP DOWNLOADER": "앱 다운로더",
-    "Archive Removed": "아카이브 제거됨",
-    "CORE DOWNLOADER": "코어 다운로더",
-    "Downloading Archive": "아카이브 다운로드중",
-    "Downloading Data": "데이터 다운로드중",
-    "Error Retrieving Data": "데이터 조회 오류",
-    "Fetches additional cores and applications over the network. Select an entry to download it, and it is installed ready to use.": "네트워크를 통해 추가 코어와 어플리케이션을 가져옵니다. 항목을 선택해 다운로드하면 바로 사용할 수 있도록 설치됩니다."
-  },
   "muxfont": {
     "Chooses the typeface used throughout the interface and how large it appears in each part of the screen, covering lists, headers and footers separately. A custom font file can be supplied if the built-in ones do not suit.": "인터페이스 전체에서 사용할 글꼴과 목록, 헤더, 푸터의 텍스트 크기를 각각 설정합니다. 내장 글꼴이 마음에 들지 않으면 사용자 글꼴 파일을 사용할 수 있습니다.",
     "Custom": "커스텀",
@@ -913,13 +895,11 @@
     "List Font Size": "목록 폰트 크기",
     "No Fonts Available": "사용 가능한 폰트 없음",
     "Panel Font Size": "패널 폰트 크기",
-    "Select the font type: Language uses the built-in language font, Theme uses fonts provided by the active theme, Custom lets you pick a specific TTF font": "폰트 유형 선택: '언어'는 내장된 언어 폰트를 사용하고, '테마'는 활성화된 테마에서 제공하는 폰트를 사용하며, '커스텀'은 특정 TTF 폰트를 직접 선택할 수 있습니다",
     "Set the font size for grid panel labels (0 uses the device default, only applies in grid mode)": "그리드 패널 라벨의 폰트 크기를 설정합니다 (0은 기기 기본값을 사용하며, 그리드 모드에서만 적용됨)",
     "The text size used for list items.\n\nLeave it at 0 to use whatever suits the device.": "목록 항목에 사용할 텍스트 크기입니다.\n\n기기에 맞는 기본값을 사용하려면 0으로 두세요.",
     "The text size used in the footer bar.\n\nLeave it at 0 to use whatever suits the device.": "푸터 바에 사용할 텍스트 크기입니다.\n\n기기에 맞는 기본값을 사용하려면 0으로 두세요.",
     "The text size used in the header bar.\n\nLeave it at 0 to use whatever suits the device.": "헤더 바에 사용할 텍스트 크기입니다.\n\n기기에 맞는 기본값을 사용하려면 0으로 두세요.",
-    "Theme": "테마",
-    "Which font file to use.\n\nOnly has any effect once Font Type is set to Custom.": "사용할 글꼴 파일입니다.\n\n글꼴 유형을 사용자 지정으로 설정한 경우에만 적용됩니다."
+    "Theme": "테마"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU 주파수를 동적으로 조정하고 전력 소비와 성능의 균형을 유지하도록 CPU 거버너를 구성",
@@ -2984,7 +2964,6 @@
     "Authentication is turned off, so the Web Dashboard cannot change anything and needs no code.": "인증이 꺼져 있어 웹 대시보드에서 아무것도 변경할 수 없으며 코드도 필요하지 않습니다.",
     "Changes in %d seconds": "%d초 후 변경됨",
     "No network address yet": "아직 네트워크 주소가 없음",
-    "The code the Web Dashboard asks for before it will upload or delete anything. It changes every thirty seconds, and is only ever shown on this screen.": "웹 대시보드에서 업로드나 삭제를 하기 전에 요구하는 코드입니다. 30초마다 변경되며 이 화면에서만 표시됩니다.",
     "The device code could not be read.": "기기 코드를 읽을 수 없음.",
     "Turn the Web Dashboard on to use a code.": "코드를 사용하려면 웹 대시보드를 켜세요.",
     "Web Dashboard Code": "웹 대시보드 코드"
@@ -3025,7 +3004,6 @@
     "Web Dashboard": "웹 대시보드",
     "Web Port": "웹 포트",
     "Web Services": "웹 서비스",
-    "Whether the Web Dashboard may change anything.\n\nDisabled, it can only browse and download. Enabled, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "웹 대시보드에서 변경 작업을 허용할지 설정합니다.\n\n비활성화하면 탐색과 다운로드만 가능하고, 활성화하면 업로드와 삭제가 가능하며 각 변경 시 웹 대시보드 코드 입력을 요구합니다.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "이 서비스를 실행할지 설정합니다.\n\n활성화된 서비스는 약간의 배터리와 메모리를 사용하므로 사용하지 않는 것은 꺼두세요."
   }
 }

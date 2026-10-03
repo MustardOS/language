@@ -203,7 +203,6 @@
     "Abandoned": "Abandonado",
     "Activity Tracker": "Registro de atividades",
     "Activity is recorded as you play, so launch something to start building a history.": "As atividades são registradas enquanto você joga. Inicie algo para começar a criar um histórico.",
-    "Activity statistics exported": "Estatísticas de atividade exportadas",
     "Average Play Time": "Média de tempo de jogo",
     "Average Time": "Tempo médio",
     "Binger": "Fanático",
@@ -216,9 +215,7 @@
     "Core Gamer": "Jogador raíz",
     "Core Used": "Núcleo usado",
     "Device Nomad": "Nômade de dispositivos",
-    "Error exporting statistics": "Erro exportanto estatísticas",
     "Explorer": "Explorador",
-    "Export": "Exportar",
     "Favourite Day": "Dia favorito",
     "Habitual Player": "Jogador habitual",
     "Info": "Info",
@@ -252,13 +249,11 @@
     "Total Launch Count": "Total de inicializações",
     "Total Play Time": "Tempo total de jogo",
     "Total Time": "Tempo total",
-    "Tracks what you play, how often and for how long. View detailed stats per game, overall play habits, and export your activity data to a HTML file": "Registra o que você joga, com que frequência e por quanto tempo. Veja estatísticas detalhadas por jogo, seus hábitos gerais de uso e exporte seus dados de atividade para um arquivo HTML",
     "Unique": "Único",
     "Unique Content Played": "Conteúdo único jogado",
     "Unique Cores Used": "Núcleos únicos usados",
     "Weekend Warrior": "Guerreiro do fim de semana",
-    "Window Shopper": "Adora um mostruário",
-    "Your activity has been written to\n\n%s\n\nOpen it with a browser to read through it, or share it with others if you dare!": "Sua atividade foi gravada em\n\n%s\n\nAbra o arquivo em um navegador para lê-lo ou compartilhe com outras pessoas, se tiver coragem!"
+    "Window Shopper": "Adora um mostruário"
   },
   "muxapp": {
     "Applications": "Aplicativos",
@@ -362,8 +357,6 @@
     "Your saved Wi-Fi networks and their details.\n\nSaves retyping passwords after a fresh install.": "Suas redes Wi-Fi salvas e seus dados.\n\nEvita que você precise digitar as senhas novamente após uma instalação limpa."
   },
   "muxbtall": {
-    "Auto Connect": "Conectar automaticamente",
-    "Automatically reconnect to paired devices on startup": "Reconecta os dispositivos pareados automaticamente após ligar o aparelho",
     "Bluetooth": "Bluetooth",
     "Connect": "Conectar",
     "Connected": "Conectado",
@@ -481,7 +474,6 @@
     "Pair, connect and manage Bluetooth devices such as controllers and headphones.": "Emparelhe, conecte e gerencie dispositivos Bluetooth, como controles e fones de ouvido.",
     "Proxy Settings": "Configurações de proxy",
     "Sends outbound traffic through a proxy.\n\nOnly needed on networks that require one, such as some school or workplace connections.": "Envia o tráfego de saída por um proxy.\n\nNecessário apenas em redes que exigem um, como algumas conexões de escolas ou locais de trabalho.",
-    "Shows the code a browser needs before it can change anything through the Web Dashboard.\n\nThe code is only ever shown here, so whoever is managing the device has to be holding it.": "Exibe o código necessário para que um navegador possa fazer alterações pelo Web Dashboard.\n\nO código só é exibido aqui, portanto a pessoa que estiver gerenciando o dispositivo precisa estar com ele em mãos.",
     "The finer network settings, covering DNS, hostname and what happens at boot.": "As configurações de rede mais detalhadas, incluindo DNS, nome do dispositivo e o que acontece na inicialização.",
     "Web Dashboard Code": "Código do Web Dashboard",
     "Web Services": "Serviços web",
@@ -632,7 +624,6 @@
     "Navigation Sound": "Sons de navegação",
     "Navigation Sound Volume": "Volume do som de navegação",
     "None": "Nenhum",
-    "Open font settings to configure font type, custom TTF font and size overrides for most sections": "Abre as configurações de fonte para configurar o tipo de fonte, uma fonte TTF personalizada e substituições de tamanho para a maioria das seções",
     "Override the footer glyph render size in pixels (Default uses the theme value, Auto fits to item height, Native uses the actual size)": "Substitui o tamanho de renderização dos ícones do rodapé em pixels (Padrão usa o valor do tema, Automático ajusta à altura do item e Nativo usa o tamanho real)",
     "Override the grid glyph render size in pixels (Default uses the theme value, Auto fits to the cell, Native uses the actual size)": "Substitui o tamanho de renderização dos ícones da grade em pixels (Padrão usa o valor do tema, Automático ajusta à célula e Nativo usa o tamanho real)",
     "Override the header glyph render size in pixels (Default uses the theme value, Auto fits to header height, Native uses the actual size)": "Substitui o tamanho de renderização dos ícones do cabeçalho em pixels (Padrão usa o valor do tema, Automático ajusta à altura do cabeçalho e Nativo usa o tamanho real)",
@@ -890,15 +881,6 @@
     "When the daytime temperature takes over.": "Quando a temperatura diurna entra em vigor.",
     "When the evening temperature takes over. Remember to go to bed at an appropriate time!": "Quando a temperatura noturna entra em vigor. Lembre-se de ir dormir em um horário adequado!"
   },
-  "muxdownload": {
-    "APP DOWNLOADER": "GERENCIADOR DE DOWNLOADS DE APLICATIVOS",
-    "Archive Removed": "Arquivo removido",
-    "CORE DOWNLOADER": "GERENCIADOR DE DOWNLOADS DE NÚCLEOS",
-    "Downloading Archive": "Baixando arquivo",
-    "Downloading Data": "Baixando dados",
-    "Error Retrieving Data": "Erro obtendo dados",
-    "Fetches additional cores and applications over the network. Select an entry to download it, and it is installed ready to use.": "Baixa núcleos e aplicativos adicionais pela rede. Selecione uma opção para baixá-la, e ela será instalada pronta para uso."
-  },
   "muxfont": {
     "Chooses the typeface used throughout the interface and how large it appears in each part of the screen, covering lists, headers and footers separately. A custom font file can be supplied if the built-in ones do not suit.": "Escolhe a fonte usada em toda a interface e o tamanho em que ela aparece em cada parte da tela, abrangendo listas, cabeçalhos e rodapés separadamente. É possível fornecer um arquivo de fonte personalizado caso as fontes integradas não sejam adequadas.",
     "Custom": "Personalizado",
@@ -913,13 +895,11 @@
     "List Font Size": "Tamanho da fonte da lista",
     "No Fonts Available": "Nenhuma fonte disponível",
     "Panel Font Size": "Tamanho da fonte do painel",
-    "Select the font type: Language uses the built-in language font, Theme uses fonts provided by the active theme, Custom lets you pick a specific TTF font": "Selecione o tipo de fonte: A opção \"Idioma\" usa a fonte integrada do idioma selecionado, \"Tema\" usa fontes fornecidas pelo tema ativo e \"Personalizado\" permite escolher uma fonte TTF específica",
     "Set the font size for grid panel labels (0 uses the device default, only applies in grid mode)": "Defina o tamanho da fonte para os rótulos no modo de visualização de grade (0 usa o padrão do dispositivo, só se aplica no modo grade)",
     "The text size used for list items.\n\nLeave it at 0 to use whatever suits the device.": "O tamanho do texto usado nos itens das listas.\n\nDeixe em 0 para usar o tamanho adequado ao dispositivo.",
     "The text size used in the footer bar.\n\nLeave it at 0 to use whatever suits the device.": "O tamanho do texto usado na barra de rodapé.\n\nDeixe em 0 para usar o tamanho adequado ao dispositivo.",
     "The text size used in the header bar.\n\nLeave it at 0 to use whatever suits the device.": "O tamanho do texto usado na barra de cabeçalho.\n\nDeixe em 0 para usar o tamanho adequado ao dispositivo.",
-    "Theme": "Tema",
-    "Which font file to use.\n\nOnly has any effect once Font Type is set to Custom.": "Qual arquivo de fonte usar.\n\nSó tem efeito quando tipo de fonte estiver definido como Personalizada."
+    "Theme": "Tema"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configure os modos de CPU para ajustar a frequência e equilibrar energia e desempenho",
@@ -2984,7 +2964,6 @@
     "Authentication is turned off, so the Web Dashboard cannot change anything and needs no code.": "A autenticação está desativada, portanto o Web Dashboard não pode fazer alterações e não precisa de código.",
     "Changes in %d seconds": "Muda em %d segundos",
     "No network address yet": "Ainda não há endereço de rede",
-    "The code the Web Dashboard asks for before it will upload or delete anything. It changes every thirty seconds, and is only ever shown on this screen.": "O código solicitado pelo Web Dashboard antes de permitir qualquer upload ou exclusão. Ele muda a cada trinta segundos e só é exibido nesta tela.",
     "The device code could not be read.": "Não foi possível ler o código do dispositivo.",
     "Turn the Web Dashboard on to use a code.": "Ative o Web Dashboard para usar um código.",
     "Web Dashboard Code": "Código do Web Dashboard"
@@ -3025,7 +3004,6 @@
     "Web Dashboard": "Web Dashboard",
     "Web Port": "Porta Web",
     "Web Services": "Serviços Web",
-    "Whether the Web Dashboard may change anything.\n\nDisabled, it can only browse and download. Enabled, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Define se o Web Dashboard pode fazer alterações.\n\nDesativado, ele só pode navegar e baixar. Ativado, o upload e a exclusão são desbloqueados, e cada alteração solicita o código de Código do Web Dashboard.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "Define se este serviço é executado.\n\nCada um consome um pouco de bateria e memória enquanto está ativado, então deixe desativados os que você não usa."
   }
 }
