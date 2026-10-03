@@ -203,7 +203,6 @@
     "Abandoned": "已弃用",
     "Activity Tracker": "活动追踪器",
     "Activity is recorded as you play, so launch something to start building a history.": "游玩时会记录活动数据，启动游戏即可开始积累历史记录。",
-    "Activity statistics exported": "活动统计数据已导出",
     "Average Play Time": "平均游戏时间",
     "Average Time": "平均时间",
     "Binger": "游戏狂",
@@ -216,9 +215,7 @@
     "Core Gamer": "核心玩家",
     "Core Used": "使用的核心",
     "Device Nomad": "多设备玩家",
-    "Error exporting statistics": "导出统计数据时出错",
     "Explorer": "探险家",
-    "Export": "导出",
     "Favourite Day": "最爱的一天",
     "Habitual Player": "老玩家",
     "Info": "信息",
@@ -252,13 +249,11 @@
     "Total Launch Count": "总游玩次数",
     "Total Play Time": "总游玩时间",
     "Total Time": "总游玩时间",
-    "Tracks what you play, how often and for how long. View detailed stats per game, overall play habits, and export your activity data to a HTML file": "追踪您玩的内容、频率和时长。查看每个游戏的详细统计、整体游戏习惯，并将活动数据导出为HTML文件。",
     "Unique": "独特",
     "Unique Content Played": "游玩过的独特内容",
     "Unique Cores Used": "使用过的独特核心",
     "Weekend Warrior": "周末战士",
-    "Window Shopper": "只看不玩",
-    "Your activity has been written to\n\n%s\n\nOpen it with a browser to read through it, or share it with others if you dare!": "您的活动数据已写入\n\n%s\n\n使用浏览器打开以查看内容，或者如果您够大胆，分享给其他人！"
+    "Window Shopper": "只看不玩"
   },
   "muxapp": {
     "Applications": "应用程序",
@@ -362,8 +357,6 @@
     "Your saved Wi-Fi networks and their details.\n\nSaves retyping passwords after a fresh install.": "您保存的Wi-Fi网络及其详细信息。\n\n省去重新安装后重新输入密码的麻烦。"
   },
   "muxbtall": {
-    "Auto Connect": "自动连接",
-    "Automatically reconnect to paired devices on startup": "启动时自动重新连接已配对的设备",
     "Bluetooth": "蓝牙",
     "Connect": "连接",
     "Connected": "已连接",
@@ -481,7 +474,6 @@
     "Pair, connect and manage Bluetooth devices such as controllers and headphones.": "配对、连接和管理蓝牙设备，如手柄和耳机。",
     "Proxy Settings": "代理设置",
     "Sends outbound traffic through a proxy.\n\nOnly needed on networks that require one, such as some school or workplace connections.": "通过代理发送出站流量。\n\n仅在使用需要代理的网络时才需要，例如某些学校或工作场所的网络连接。",
-    "Shows the code a browser needs before it can change anything through the Web Dashboard.\n\nThe code is only ever shown here, so whoever is managing the device has to be holding it.": "Shows the code a browser needs before it can change anything through the Web Dashboard.\n\nThe code is only ever shown here, so whoever is managing the device has to be holding it.",
     "The finer network settings, covering DNS, hostname and what happens at boot.": "更详细的网络设置，涵盖 DNS、主机名以及开机时的行为。",
     "Web Dashboard Code": "Web Dashboard Code",
     "Web Services": "网络服务",
@@ -632,7 +624,6 @@
     "Navigation Sound": "导航音效",
     "Navigation Sound Volume": "导航音量",
     "None": "无",
-    "Open font settings to configure font type, custom TTF font and size overrides for most sections": "打开字体设置，配置字体类型、自定义 TTF 字体以及大部分区域的字号覆盖",
     "Override the footer glyph render size in pixels (Default uses the theme value, Auto fits to item height, Native uses the actual size)": "覆盖底部栏图标的渲染尺寸（像素）（默认使用主题值，自动适配项目高度，原始使用实际尺寸）",
     "Override the grid glyph render size in pixels (Default uses the theme value, Auto fits to the cell, Native uses the actual size)": "覆盖网格图标的渲染尺寸（像素）（默认使用主题值，自动适配单元格，原始使用实际尺寸）",
     "Override the header glyph render size in pixels (Default uses the theme value, Auto fits to header height, Native uses the actual size)": "覆盖顶部栏图标的渲染尺寸（像素）（默认使用主题值，自动适配顶部栏高度，原始使用实际尺寸）",
@@ -890,15 +881,6 @@
     "When the daytime temperature takes over.": "当日间温度接管时。",
     "When the evening temperature takes over. Remember to go to bed at an appropriate time!": "当晚间温度接管时。记得在适当的时间就寝！"
   },
-  "muxdownload": {
-    "APP DOWNLOADER": "应用程序下载器",
-    "Archive Removed": "归档文件已移除",
-    "CORE DOWNLOADER": "核心下载器",
-    "Downloading Archive": "正在下载归档文件",
-    "Downloading Data": "正在下载数据",
-    "Error Retrieving Data": "检索数据时发生错误",
-    "Fetches additional cores and applications over the network. Select an entry to download it, and it is installed ready to use.": "通过网络获取额外的核心和应用程序。选择一个条目进行下载，安装后即可使用。"
-  },
   "muxfont": {
     "Chooses the typeface used throughout the interface and how large it appears in each part of the screen, covering lists, headers and footers separately. A custom font file can be supplied if the built-in ones do not suit.": "选择整个界面使用的字体及其在屏幕各部分中的大小，分别涵盖列表、页眉和页脚。如果内置字体不合适，可以提供自定义字体文件。",
     "Custom": "自定义",
@@ -913,13 +895,11 @@
     "List Font Size": "列表字体大小",
     "No Fonts Available": "没有可用字体",
     "Panel Font Size": "面板字体大小",
-    "Select the font type: Language uses the built-in language font, Theme uses fonts provided by the active theme, Custom lets you pick a specific TTF font": "选择字体类型：语言使用内置语言字体，主题使用当前主题提供的字体，自定义允许您选择特定的 TTF 字体",
     "Set the font size for grid panel labels (0 uses the device default, only applies in grid mode)": "设置网格面板标签的字体大小（0 使用设备默认值，仅在网格模式下生效）",
     "The text size used for list items.\n\nLeave it at 0 to use whatever suits the device.": "列表项使用的文字大小。\n\n保持为0则使用适合设备的默认值。",
     "The text size used in the footer bar.\n\nLeave it at 0 to use whatever suits the device.": "底部栏使用的文字大小。\n\n保持为0则使用适合设备的默认值。",
     "The text size used in the header bar.\n\nLeave it at 0 to use whatever suits the device.": "顶部栏使用的文字大小。\n\n保持为0则使用适合设备的默认值。",
-    "Theme": "主题",
-    "Which font file to use.\n\nOnly has any effect once Font Type is set to Custom.": "使用哪个字体文件。\n\n只有在启用了自定义字体时才生效。"
+    "Theme": "主题"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "配置CPU性能调节器，动态调整CPU频率，帮助平衡功耗与性能",
@@ -2984,7 +2964,6 @@
     "Authentication is turned off, so the Web Dashboard cannot change anything and needs no code.": "Authentication is turned off, so the Web Dashboard cannot change anything and needs no code.",
     "Changes in %d seconds": "Changes in %d seconds",
     "No network address yet": "No network address yet",
-    "The code the Web Dashboard asks for before it will upload or delete anything. It changes every thirty seconds, and is only ever shown on this screen.": "The code the Web Dashboard asks for before it will upload or delete anything. It changes every thirty seconds, and is only ever shown on this screen.",
     "The device code could not be read.": "The device code could not be read.",
     "Turn the Web Dashboard on to use a code.": "Turn the Web Dashboard on to use a code.",
     "Web Dashboard Code": "Web Dashboard Code"
@@ -3025,7 +3004,6 @@
     "Web Dashboard": "Web Dashboard",
     "Web Port": "Web端口",
     "Web Services": "Web服务",
-    "Whether the Web Dashboard may change anything.\n\nDisabled, it can only browse and download. Enabled, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Whether the Web Dashboard may change anything.\n\nDisabled, it can only browse and download. Enabled, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "此服务是否运行。\n\n每个服务在开启时都会消耗一点电量和内存，因此不用的请关闭。"
   }
 }

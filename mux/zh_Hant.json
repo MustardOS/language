@@ -203,7 +203,6 @@
     "Abandoned": "已棄用",
     "Activity Tracker": "Activity Tracker",
     "Activity is recorded as you play, so launch something to start building a history.": "Activity is recorded as you play, so launch something to start building a history.",
-    "Activity statistics exported": "匯出的活動統計數據",
     "Average Play Time": "平均遊戲時間",
     "Average Time": "平均時間",
     "Binger": "過度沉迷",
@@ -216,9 +215,7 @@
     "Core Gamer": "核心玩家",
     "Core Used": "已使用的核心",
     "Device Nomad": "裝置游牧者",
-    "Error exporting statistics": "匯出統計資料時出錯",
     "Explorer": "探險家",
-    "Export": "輸出",
     "Favourite Day": "偏好的日期",
     "Habitual Player": "套路型玩家",
     "Info": "信息",
@@ -252,13 +249,11 @@
     "Total Launch Count": "總啟動次數",
     "Total Play Time": "總遊玩時間",
     "Total Time": "總時間",
-    "Tracks what you play, how often and for how long. View detailed stats per game, overall play habits, and export your activity data to a HTML file": "Tracks what you play, how often and for how long. View detailed stats per game, overall play habits, and export your activity data to a HTML file",
     "Unique": "獨特",
     "Unique Content Played": "已遊玩的獨特內容",
     "Unique Cores Used": "已使用的獨特核心",
     "Weekend Warrior": "週末戰士",
-    "Window Shopper": "只看不玩",
-    "Your activity has been written to\n\n%s\n\nOpen it with a browser to read through it, or share it with others if you dare!": "Your activity has been written to\n\n%s\n\nOpen it with a browser to read through it, or share it with others if you dare!"
+    "Window Shopper": "只看不玩"
   },
   "muxapp": {
     "Applications": "Applications",
@@ -362,8 +357,6 @@
     "Your saved Wi-Fi networks and their details.\n\nSaves retyping passwords after a fresh install.": "Your saved Wi-Fi networks and their details.\n\nSaves retyping passwords after a fresh install."
   },
   "muxbtall": {
-    "Auto Connect": "自動連接",
-    "Automatically reconnect to paired devices on startup": "啟動時自動重新連線到已配對的裝置",
     "Bluetooth": "Bluetooth",
     "Connect": "連接",
     "Connected": "已連接",
@@ -481,7 +474,6 @@
     "Pair, connect and manage Bluetooth devices such as controllers and headphones.": "Pair, connect and manage Bluetooth devices such as controllers and headphones.",
     "Proxy Settings": "Proxy Settings",
     "Sends outbound traffic through a proxy.\n\nOnly needed on networks that require one, such as some school or workplace connections.": "Sends outbound traffic through a proxy.\n\nOnly needed on networks that require one, such as some school or workplace connections.",
-    "Shows the code a browser needs before it can change anything through the Web Dashboard.\n\nThe code is only ever shown here, so whoever is managing the device has to be holding it.": "Shows the code a browser needs before it can change anything through the Web Dashboard.\n\nThe code is only ever shown here, so whoever is managing the device has to be holding it.",
     "The finer network settings, covering DNS, hostname and what happens at boot.": "The finer network settings, covering DNS, hostname and what happens at boot.",
     "Web Dashboard Code": "Web Dashboard Code",
     "Web Services": "網路服務",
@@ -632,7 +624,6 @@
     "Navigation Sound": "導航音效",
     "Navigation Sound Volume": "導航音量",
     "None": "無",
-    "Open font settings to configure font type, custom TTF font and size overrides for most sections": "Open font settings to configure font type, custom TTF font and size overrides for most sections",
     "Override the footer glyph render size in pixels (Default uses the theme value, Auto fits to item height, Native uses the actual size)": "Override the footer glyph render size in pixels (Default uses the theme value, Auto fits to item height, Native uses the actual size)",
     "Override the grid glyph render size in pixels (Default uses the theme value, Auto fits to the cell, Native uses the actual size)": "Override the grid glyph render size in pixels (Default uses the theme value, Auto fits to the cell, Native uses the actual size)",
     "Override the header glyph render size in pixels (Default uses the theme value, Auto fits to header height, Native uses the actual size)": "Override the header glyph render size in pixels (Default uses the theme value, Auto fits to header height, Native uses the actual size)",
@@ -890,15 +881,6 @@
     "When the daytime temperature takes over.": "When the daytime temperature takes over.",
     "When the evening temperature takes over. Remember to go to bed at an appropriate time!": "When the evening temperature takes over. Remember to go to bed at an appropriate time!"
   },
-  "muxdownload": {
-    "APP DOWNLOADER": "應用程式下載器",
-    "Archive Removed": "封裝檔已移除",
-    "CORE DOWNLOADER": "核心下載器",
-    "Downloading Archive": "正在下載封裝檔",
-    "Downloading Data": "正在下載數據",
-    "Error Retrieving Data": "檢索數據時發生錯誤",
-    "Fetches additional cores and applications over the network. Select an entry to download it, and it is installed ready to use.": "Fetches additional cores and applications over the network. Select an entry to download it, and it is installed ready to use."
-  },
   "muxfont": {
     "Chooses the typeface used throughout the interface and how large it appears in each part of the screen, covering lists, headers and footers separately. A custom font file can be supplied if the built-in ones do not suit.": "Chooses the typeface used throughout the interface and how large it appears in each part of the screen, covering lists, headers and footers separately. A custom font file can be supplied if the built-in ones do not suit.",
     "Custom": "Custom",
@@ -913,13 +895,11 @@
     "List Font Size": "列表字體大小",
     "No Fonts Available": "沒有可用字體",
     "Panel Font Size": "面板字體大小",
-    "Select the font type: Language uses the built-in language font, Theme uses fonts provided by the active theme, Custom lets you pick a specific TTF font": "選擇字體類型：語言使用內建語言字體，主題使用目前主題提供的字體，自訂可讓您選擇特定的TTF字體",
     "Set the font size for grid panel labels (0 uses the device default, only applies in grid mode)": "設定網格面板標籤的字體大小（0 使用設備預設值，僅在網格模式下適用）",
     "The text size used for list items.\n\nLeave it at 0 to use whatever suits the device.": "The text size used for list items.\n\nLeave it at 0 to use whatever suits the device.",
     "The text size used in the footer bar.\n\nLeave it at 0 to use whatever suits the device.": "The text size used in the footer bar.\n\nLeave it at 0 to use whatever suits the device.",
     "The text size used in the header bar.\n\nLeave it at 0 to use whatever suits the device.": "The text size used in the header bar.\n\nLeave it at 0 to use whatever suits the device.",
-    "Theme": "主題",
-    "Which font file to use.\n\nOnly has any effect once Font Type is set to Custom.": "Which font file to use.\n\nOnly has any effect once Font Type is set to Custom."
+    "Theme": "主題"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "配置CPU調速器，動態調整CPU頻率，幫助平衡功耗與效能",
@@ -2984,7 +2964,6 @@
     "Authentication is turned off, so the Web Dashboard cannot change anything and needs no code.": "Authentication is turned off, so the Web Dashboard cannot change anything and needs no code.",
     "Changes in %d seconds": "Changes in %d seconds",
     "No network address yet": "No network address yet",
-    "The code the Web Dashboard asks for before it will upload or delete anything. It changes every thirty seconds, and is only ever shown on this screen.": "The code the Web Dashboard asks for before it will upload or delete anything. It changes every thirty seconds, and is only ever shown on this screen.",
     "The device code could not be read.": "The device code could not be read.",
     "Turn the Web Dashboard on to use a code.": "Turn the Web Dashboard on to use a code.",
     "Web Dashboard Code": "Web Dashboard Code"
@@ -3025,7 +3004,6 @@
     "Web Dashboard": "Web Dashboard",
     "Web Port": "Web Port",
     "Web Services": "Web Services",
-    "Whether the Web Dashboard may change anything.\n\nDisabled, it can only browse and download. Enabled, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Whether the Web Dashboard may change anything.\n\nDisabled, it can only browse and download. Enabled, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use."
   }
 }

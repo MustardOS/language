@@ -203,7 +203,6 @@
     "Abandoned": "Tréigthe",
     "Activity Tracker": "Rianaitheoir Gníomhaíochta",
     "Activity is recorded as you play, so launch something to start building a history.": "Déantar gníomhaíocht a thaifeadadh agus tú ag imirt, mar sin seol rud éigin chun tús a chur le stair a thógáil.",
-    "Activity statistics exported": "Staitisticí gníomhaíochta onnmhairithe",
     "Average Play Time": "Meán-Am Súgartha",
     "Average Time": "Meán-Am",
     "Binger": "Binger",
@@ -216,9 +215,7 @@
     "Core Gamer": "Cluichire Croí",
     "Core Used": "Croí Úsáidte",
     "Device Nomad": "Gléas Nomad",
-    "Error exporting statistics": "Earráid easpórtáil staitisticí",
     "Explorer": "Taiscéalaí",
-    "Export": "Easpórtáil",
     "Favourite Day": "Lá is Fearr Leat",
     "Habitual Player": "Imreoir Gnáth",
     "Info": "Eolas",
@@ -252,13 +249,11 @@
     "Total Launch Count": "Líon Iomlán na Lainseála",
     "Total Play Time": "Am Súgartha Iomlán",
     "Total Time": "Am Iomlán",
-    "Tracks what you play, how often and for how long. View detailed stats per game, overall play habits, and export your activity data to a HTML file": "Rianaíonn sé cad a imríonn tú, cé chomh minic agus cé chomh fada. Féach ar staitisticí mionsonraithe in aghaidh an chluiche, nósanna imeartha foriomlána, agus easpórtáil do shonraí gníomhaíochta chuig comhad HTML",
     "Unique": "Uathúil",
     "Unique Content Played": "Ábhar Uathúil Imeartha",
     "Unique Cores Used": "Croíleacáin Uathúla a Úsáideadh",
     "Weekend Warrior": "Laoch Deireadh Seachtaine",
-    "Window Shopper": "Siopadóir Fuinneoige",
-    "Your activity has been written to\n\n%s\n\nOpen it with a browser to read through it, or share it with others if you dare!": "Scríobhadh do ghníomhaíocht chuig\n\n%s\n\nOscail é le brabhsálaí chun é a léamh, nó roinn é le daoine eile más mian leat!"
+    "Window Shopper": "Siopadóir Fuinneoige"
   },
   "muxapp": {
     "Applications": "Feidhmchláir",
@@ -362,8 +357,6 @@
     "Your saved Wi-Fi networks and their details.\n\nSaves retyping passwords after a fresh install.": "Do líonraí Wi-Fi sábháilte agus a sonraí.\n\nSábhálann sé athchlóscríobh pasfhocal tar éis suiteáil úr."
   },
   "muxbtall": {
-    "Auto Connect": "Ceangal Uathoibríoch",
-    "Automatically reconnect to paired devices on startup": "Athcheangail go huathoibríoch le gléasanna péireáilte ag am tosaithe",
     "Bluetooth": "Bluetooth",
     "Connect": "Ceangail",
     "Connected": "Ceangailte",
@@ -481,7 +474,6 @@
     "Pair, connect and manage Bluetooth devices such as controllers and headphones.": "Péireáil, ceangail agus bainistigh gléasanna Bluetooth ar nós rialtóirí agus cluasáin.",
     "Proxy Settings": "Socruithe Seachfhreastalaí",
     "Sends outbound traffic through a proxy.\n\nOnly needed on networks that require one, such as some school or workplace connections.": "Seolann sé trácht amach trí sheachfhreastalaí.\n\nNí gá ach ar líonraí a bhfuil ceann ag teastáil uathu, amhail roinnt naisc scoile nó oibre.",
-    "Shows the code a browser needs before it can change anything through the Web Dashboard.\n\nThe code is only ever shown here, so whoever is managing the device has to be holding it.": "Taispeántar an cód a theastaíonn ó bhrabhsálaí sula bhféadfar aon rud a athrú tríd an Deais Ghréasáin.\n\nNí thaispeántar an cód anseo ach amháin, mar sin caithfidh an té atá i mbun bainistíochta ar an bhfeiste a bheith á coinneáil ina lámh.",
     "The finer network settings, covering DNS, hostname and what happens at boot.": "Na socruithe líonra níos míne, lena n-áirítear DNS, ainm óstach agus cad a tharlaíonn ag an tosaithe.",
     "Web Dashboard Code": "Cód an Deais Ghréasáin",
     "Web Services": "Seirbhísí Gréasáin",
@@ -632,7 +624,6 @@
     "Navigation Sound": "Fuaim Nascleanúna",
     "Navigation Sound Volume": "Toirt Fuaime Nascleanúna",
     "None": "Dada",
-    "Open font settings to configure font type, custom TTF font and size overrides for most sections": "Oscail socruithe cló chun cineál cló, cló TTF saincheaptha agus sáruithe méide a chumrú don chuid is mó de na codanna",
     "Override the footer glyph render size in pixels (Default uses the theme value, Auto fits to item height, Native uses the actual size)": "Sáraigh méid rindreála glifí an bhuntásca i bpicteilíní (Úsáideann an réamhshocrú luach an téama, Oireann sé go huathoibríoch d'airde na míre, úsáideann an Dúchasach an méid iarbhír)",
     "Override the grid glyph render size in pixels (Default uses the theme value, Auto fits to the cell, Native uses the actual size)": "Sáraigh méid rindreála an ghreille i bpicteilíní (Úsáideann an réamhshocrú luach an téama, Oireann go huathoibríoch don chill, úsáideann an Dúchasach an méid iarbhír)",
     "Override the header glyph render size in pixels (Default uses the theme value, Auto fits to header height, Native uses the actual size)": "Sáraigh méid rindreála an ghrifé ceanntásca i bpicteilíní (Úsáideann an réamhshocrú luach an téama, Oireann sé go huathoibríoch d'airde an cheanntásca, úsáideann an Dúchasach an méid iarbhír)",
@@ -890,15 +881,6 @@
     "When the daytime temperature takes over.": "Nuair a ghlacann teocht an lae seilbh.",
     "When the evening temperature takes over. Remember to go to bed at an appropriate time!": "Nuair a thógann an teocht tráthnóna seilbh. Cuimhnigh dul a chodladh ag am oiriúnach!"
   },
-  "muxdownload": {
-    "APP DOWNLOADER": "ÍOSLÓDÓIR AIP",
-    "Archive Removed": "Cartlann Bainte",
-    "CORE DOWNLOADER": "ÍOSLÓDÁLAÍ CROÍ",
-    "Downloading Archive": "Cartlann á híoslódáil",
-    "Downloading Data": "Sonraí á nÍoslódáil",
-    "Error Retrieving Data": "Earráid ag Aisghabháil Sonraí",
-    "Fetches additional cores and applications over the network. Select an entry to download it, and it is installed ready to use.": "Faigheann sé croíleacáin agus feidhmchláir bhreise thar an líonra. Roghnaigh iontráil le híoslódáil, agus tá sé suiteáilte réidh le húsáid."
-  },
   "muxfont": {
     "Chooses the typeface used throughout the interface and how large it appears in each part of the screen, covering lists, headers and footers separately. A custom font file can be supplied if the built-in ones do not suit.": "Roghnaíonn sé seo an cló a úsáidtear ar fud an chomhéadain agus cé chomh mór is a fheictear é i ngach cuid den scáileán, ag clúdach liostaí, ceanntásca agus buntásca ar leithligh. Is féidir comhad cló saincheaptha a sholáthar mura n-oireann na cinn ionsuite.",
     "Custom": "Saincheaptha",
@@ -913,13 +895,11 @@
     "List Font Size": "Méid Cló an Liosta",
     "No Fonts Available": "Gan Clónna Ar Fáil",
     "Panel Font Size": "Méid Cló an Phainéil",
-    "Select the font type: Language uses the built-in language font, Theme uses fonts provided by the active theme, Custom lets you pick a specific TTF font": "Roghnaigh an cineál cló: Úsáideann an teanga an cló teanga ionsuite, úsáideann an téama clónna arna soláthar ag an téama gníomhach, ligeann Saincheaptha duit cló TTF ar leith a roghnú",
     "Set the font size for grid panel labels (0 uses the device default, only applies in grid mode)": "Socraigh méid an chló do lipéid phainéil ghreille (úsáideann 0 an réamhshocrú feiste, ní bhaineann sé ach i mód greille)",
     "The text size used for list items.\n\nLeave it at 0 to use whatever suits the device.": "Méid an téacs a úsáidtear le haghaidh míreanna liosta.\n\nFág ag 0 é chun cibé rud a oireann don ghléas a úsáid.",
     "The text size used in the footer bar.\n\nLeave it at 0 to use whatever suits the device.": "Méid an téacs a úsáidtear sa bharra bunús.\n\nFág ag 0 é chun cibé rud a oireann don ghléas a úsáid.",
     "The text size used in the header bar.\n\nLeave it at 0 to use whatever suits the device.": "Méid an téacs a úsáidtear sa bharra ceanntásca.\n\nFág ag 0 é chun cibé rud a oireann don ghléas a úsáid.",
-    "Theme": "Téama",
-    "Which font file to use.\n\nOnly has any effect once Font Type is set to Custom.": "Cén comhad cló le húsáid.\n\nNí bheidh aon éifeacht aige ach amháin nuair a shocraítear Cineál Cló go Saincheaptha."
+    "Theme": "Téama"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Cumraigh gobharnóirí LAP chun minicíocht an LAP a choigeartú go dinimiciúil agus cabhrú le tomhaltas agus feidhmíocht cumhachta a chothromú",
@@ -2984,7 +2964,6 @@
     "Authentication is turned off, so the Web Dashboard cannot change anything and needs no code.": "Tá an fíordheimhniú múchta, mar sin ní féidir leis an Deais Ghréasáin aon rud a athrú agus níl aon chód ag teastáil uaidh.",
     "Changes in %d seconds": "Athruithe i gceann %d soicind",
     "No network address yet": "Gan seoladh líonra go fóill",
-    "The code the Web Dashboard asks for before it will upload or delete anything. It changes every thirty seconds, and is only ever shown on this screen.": "An cód a iarrann an Deais Ghréasáin sula ndéanann sí aon rud a uaslódáil nó a scriosadh. Athraíonn sé gach tríocha soicind, agus ní thaispeántar é ach ar an scáileán seo.",
     "The device code could not be read.": "Níorbh fhéidir cód na feiste a léamh.",
     "Turn the Web Dashboard on to use a code.": "Cuir an Deais Ghréasáin ar siúl chun cód a úsáid.",
     "Web Dashboard Code": "Cód an Deais Ghréasáin"
@@ -3025,7 +3004,6 @@
     "Web Dashboard": "Deais Ghréasáin",
     "Web Port": "Port Gréasáin",
     "Web Services": "Seirbhísí Gréasáin",
-    "Whether the Web Dashboard may change anything.\n\nDisabled, it can only browse and download. Enabled, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Cibé acu an athróidh an Deais Ghréasáin aon rud nó nach n-athróidh.\n\nNuair atá sé díchumasaithe, ní féidir ach brabhsáil agus íoslódáil a dhéanamh. Nuair atá sé cumasaithe, bíonn an cumas uaslódála agus scriosta ar fáil, agus iarrtar an cód ón Deais Ghréasáin le haghaidh gach athraithe.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "An bhfuil an tseirbhís seo ag rith?\n\nCosnaíonn gach ceann acu beagán ceallraí agus cuimhne agus é ar siúl, mar sin fág ar lár an rud nach n-úsáideann tú."
   }
 }

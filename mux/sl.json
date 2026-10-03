@@ -203,7 +203,6 @@
     "Abandoned": "Abandoned",
     "Activity Tracker": "Activity Tracker",
     "Activity is recorded as you play, so launch something to start building a history.": "Activity is recorded as you play, so launch something to start building a history.",
-    "Activity statistics exported": "Activity statistics exported",
     "Average Play Time": "Average Play Time",
     "Average Time": "Average Time",
     "Binger": "Binger",
@@ -216,9 +215,7 @@
     "Core Gamer": "Core Gamer",
     "Core Used": "Core Used",
     "Device Nomad": "Device Nomad",
-    "Error exporting statistics": "Error exporting statistics",
     "Explorer": "Explorer",
-    "Export": "Export",
     "Favourite Day": "Favourite Day",
     "Habitual Player": "Habitual Player",
     "Info": "Info",
@@ -252,13 +249,11 @@
     "Total Launch Count": "Total Launch Count",
     "Total Play Time": "Total Play Time",
     "Total Time": "Total Time",
-    "Tracks what you play, how often and for how long. View detailed stats per game, overall play habits, and export your activity data to a HTML file": "Tracks what you play, how often and for how long. View detailed stats per game, overall play habits, and export your activity data to a HTML file",
     "Unique": "Unique",
     "Unique Content Played": "Unique Content Played",
     "Unique Cores Used": "Unique Cores Used",
     "Weekend Warrior": "Weekend Warrior",
-    "Window Shopper": "Window Shopper",
-    "Your activity has been written to\n\n%s\n\nOpen it with a browser to read through it, or share it with others if you dare!": "Your activity has been written to\n\n%s\n\nOpen it with a browser to read through it, or share it with others if you dare!"
+    "Window Shopper": "Window Shopper"
   },
   "muxapp": {
     "Applications": "Applications",
@@ -362,8 +357,6 @@
     "Your saved Wi-Fi networks and their details.\n\nSaves retyping passwords after a fresh install.": "Your saved Wi-Fi networks and their details.\n\nSaves retyping passwords after a fresh install."
   },
   "muxbtall": {
-    "Auto Connect": "Auto Connect",
-    "Automatically reconnect to paired devices on startup": "Automatically reconnect to paired devices on startup",
     "Bluetooth": "Bluetooth",
     "Connect": "Connect",
     "Connected": "Connected",
@@ -481,7 +474,6 @@
     "Pair, connect and manage Bluetooth devices such as controllers and headphones.": "Pair, connect and manage Bluetooth devices such as controllers and headphones.",
     "Proxy Settings": "Proxy Settings",
     "Sends outbound traffic through a proxy.\n\nOnly needed on networks that require one, such as some school or workplace connections.": "Sends outbound traffic through a proxy.\n\nOnly needed on networks that require one, such as some school or workplace connections.",
-    "Shows the code a browser needs before it can change anything through the Web Dashboard.\n\nThe code is only ever shown here, so whoever is managing the device has to be holding it.": "Shows the code a browser needs before it can change anything through the Web Dashboard.\n\nThe code is only ever shown here, so whoever is managing the device has to be holding it.",
     "The finer network settings, covering DNS, hostname and what happens at boot.": "The finer network settings, covering DNS, hostname and what happens at boot.",
     "Web Dashboard Code": "Web Dashboard Code",
     "Web Services": "Spletne Storitve",
@@ -632,7 +624,6 @@
     "Navigation Sound": "Zvok navigacije po meniju",
     "Navigation Sound Volume": "Navigation Sound Volume",
     "None": "None",
-    "Open font settings to configure font type, custom TTF font and size overrides for most sections": "Open font settings to configure font type, custom TTF font and size overrides for most sections",
     "Override the footer glyph render size in pixels (Default uses the theme value, Auto fits to item height, Native uses the actual size)": "Override the footer glyph render size in pixels (Default uses the theme value, Auto fits to item height, Native uses the actual size)",
     "Override the grid glyph render size in pixels (Default uses the theme value, Auto fits to the cell, Native uses the actual size)": "Override the grid glyph render size in pixels (Default uses the theme value, Auto fits to the cell, Native uses the actual size)",
     "Override the header glyph render size in pixels (Default uses the theme value, Auto fits to header height, Native uses the actual size)": "Override the header glyph render size in pixels (Default uses the theme value, Auto fits to header height, Native uses the actual size)",
@@ -890,15 +881,6 @@
     "When the daytime temperature takes over.": "When the daytime temperature takes over.",
     "When the evening temperature takes over. Remember to go to bed at an appropriate time!": "When the evening temperature takes over. Remember to go to bed at an appropriate time!"
   },
-  "muxdownload": {
-    "APP DOWNLOADER": "APP DOWNLOADER",
-    "Archive Removed": "Archive Removed",
-    "CORE DOWNLOADER": "CORE DOWNLOADER",
-    "Downloading Archive": "Downloading Archive",
-    "Downloading Data": "Downloading Data",
-    "Error Retrieving Data": "Error Retrieving Data",
-    "Fetches additional cores and applications over the network. Select an entry to download it, and it is installed ready to use.": "Fetches additional cores and applications over the network. Select an entry to download it, and it is installed ready to use."
-  },
   "muxfont": {
     "Chooses the typeface used throughout the interface and how large it appears in each part of the screen, covering lists, headers and footers separately. A custom font file can be supplied if the built-in ones do not suit.": "Chooses the typeface used throughout the interface and how large it appears in each part of the screen, covering lists, headers and footers separately. A custom font file can be supplied if the built-in ones do not suit.",
     "Custom": "Custom",
@@ -913,13 +895,11 @@
     "List Font Size": "List Font Size",
     "No Fonts Available": "No Fonts Available",
     "Panel Font Size": "Panel Font Size",
-    "Select the font type: Language uses the built-in language font, Theme uses fonts provided by the active theme, Custom lets you pick a specific TTF font": "Select the font type: Language uses the built-in language font, Theme uses fonts provided by the active theme, Custom lets you pick a specific TTF font",
     "Set the font size for grid panel labels (0 uses the device default, only applies in grid mode)": "Set the font size for grid panel labels (0 uses the device default, only applies in grid mode)",
     "The text size used for list items.\n\nLeave it at 0 to use whatever suits the device.": "The text size used for list items.\n\nLeave it at 0 to use whatever suits the device.",
     "The text size used in the footer bar.\n\nLeave it at 0 to use whatever suits the device.": "The text size used in the footer bar.\n\nLeave it at 0 to use whatever suits the device.",
     "The text size used in the header bar.\n\nLeave it at 0 to use whatever suits the device.": "The text size used in the header bar.\n\nLeave it at 0 to use whatever suits the device.",
-    "Theme": "Theme",
-    "Which font file to use.\n\nOnly has any effect once Font Type is set to Custom.": "Which font file to use.\n\nOnly has any effect once Font Type is set to Custom."
+    "Theme": "Theme"
   },
   "muxgov": {
     "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Konfigurirajte upravljavce procesorja (CPU), da dinamično prilagajajo frekvenco procesorja in pomagajo uravnotežiti porabo energije in zmogljivost",
@@ -2984,7 +2964,6 @@
     "Authentication is turned off, so the Web Dashboard cannot change anything and needs no code.": "Authentication is turned off, so the Web Dashboard cannot change anything and needs no code.",
     "Changes in %d seconds": "Changes in %d seconds",
     "No network address yet": "No network address yet",
-    "The code the Web Dashboard asks for before it will upload or delete anything. It changes every thirty seconds, and is only ever shown on this screen.": "The code the Web Dashboard asks for before it will upload or delete anything. It changes every thirty seconds, and is only ever shown on this screen.",
     "The device code could not be read.": "The device code could not be read.",
     "Turn the Web Dashboard on to use a code.": "Turn the Web Dashboard on to use a code.",
     "Web Dashboard Code": "Web Dashboard Code"
@@ -3025,7 +3004,6 @@
     "Web Dashboard": "Web Dashboard",
     "Web Port": "Web Port",
     "Web Services": "Web Services",
-    "Whether the Web Dashboard may change anything.\n\nDisabled, it can only browse and download. Enabled, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Whether the Web Dashboard may change anything.\n\nDisabled, it can only browse and download. Enabled, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use."
   }
 }
