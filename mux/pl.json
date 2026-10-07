@@ -225,7 +225,7 @@
     "Boot Modifications": "Modyfikacje bootowania",
     "Boot Resources": "Zasoby bootowania",
     "Boot Time": "Czas bootowania",
-    "Booted %s": "Zbootowano %s",
+    "Booted %s": "Uruchomiono %s",
     "Bootloader": "Bootloader",
     "Breadcrumb": "Okruszek",
     "Build": "Build",
@@ -241,7 +241,7 @@
     "Channel %s": "Kanał %s",
     "Channel %s of %s": "Kanał %s z %s",
     "Charger": "Ładowarka",
-    "Charging": "Ładuje",
+    "Charging": "Ładowanie",
     "Choose an existing collection": "Wybierz istniejącą kolekcję",
     "Choose where %s should go.": "Wybierz, gdzie powinno znaleźć się %s.",
     "Collection created": "Utworzono kolekcję",
@@ -296,7 +296,7 @@
     "Device Package": "Paczka urządzenia",
     "Device Tree": "Drzewo urządzenia",
     "Device code": "Kod urządzenia",
-    "Discharging": "Rozładowuje",
+    "Discharging": "Rozładowywanie",
     "Display": "Wyświetlanie",
     "Documentation": "Dokumentacja",
     "Download": "Pobieranie",
@@ -866,7 +866,7 @@
     "Themes, catalogue artwork, fonts, and anything else installed to change how MustardOS looks and sounds.\n\nContent options, backups and the advanced settings live here too.": "Motywy, okładki, czcionki i wszystko, co zainstalowano, a co zmienia wygląd i dźwięki MustardOS.\n\nOpcje zawartości, kopie zapasowe i zaawansowane ustawienia także są tutaj.",
     "What is mounted where, how much room is left, and the tools for moving content between cards.\n\nCome here if content is not showing up or a card seems fuller than it should be.": "Co jest gdzie zamontowane, ile miejsca pozostało oraz narzędzia do przenoszenia zawartości między kartami.\n\nSprawdź tutaj, jeśli zawartość nie pojawia się lub karta wydaje się pełniejsza, niż powinna.",
     "Which emulator cores are installed, what each was built from, and whether a newer build has been published.\n\nRefresh to check, then pick a core to bring it up to date.": "Które rdzenia emulatorów są zainstalowane, z czego każdy został zbudowany oraz czy nowszy build został opublikowany.\n\nOdśwież, by sprawdzić, a potem wybierz rdzeń, by go zaktualizować.",
-    "Wi-Fi, Bluetooth, web services, and what happens when you plug the device into a computer.\n\nStart here if you need to get online or talk to something else.": "Wi-Fi, Bluetooth, serwisy sieciowe oraz co się stanie, jeśli oodepniesz urządzenie do komputera.\n\nZacznij tutaj, jeśli musisz się połączyć z internetem lub z czymś innym."
+    "Wi-Fi, Bluetooth, web services, and what happens when you plug the device into a computer.\n\nStart here if you need to get online or talk to something else.": "Wi-Fi, Bluetooth, usługi sieciowe oraz co się stanie, jeśli oodepniesz urządzenie do komputera.\n\nZacznij tutaj, jeśli musisz się połączyć z internetem lub z czymś innym."
   },
   "muxconnect": {
     "Bluetooth": "Bluetooth",
@@ -882,8 +882,8 @@
     "Shows the addresses used to open the Web Dashboard and the code required before it can change anything.": "Pokazuje adresy używane do otwierania Panelu online oraz kodu wymaganego, zanim cokolwiek będzie można zmienić.",
     "The finer network settings, covering DNS, hostname and what happens at boot.": "Dodatkowe ustawienia sieciowe, w tym DNS, nazwa hosta oraz to, co dzieje się podczas uruchamiania.",
     "Web Dashboard Code": "Kod panelu online",
-    "Web Services": "Serwisy sieciowe",
-    "Web based services such as file transfer, a terminal and remote access.\n\nThese need an active network connection to be of any use.": "Serwisy sieciowe, jak transfer plików, terminal i dostęp zdalny.\n\nWymagają aktywnego połączenia sieciowego, aby działać.",
+    "Web Services": "Usługi sieciowe",
+    "Web based services such as file transfer, a terminal and remote access.\n\nThese need an active network connection to be of any use.": "Usługi sieciowe, jak transfer plików, terminal i dostęp zdalny.\n\nWymagają aktywnego połączenia sieciowego, aby działać.",
     "Wi-Fi Network": "Sieć Wi-Fi"
   },
   "muxcontent": {
@@ -1517,7 +1517,7 @@
     "Whether the system language can be changed.": "Czy można zmienić język systemowy.",
     "Whether the system theme can be changed.": "Czy można zmieniać motyw systemowy.",
     "Whether the timezone can be changed.": "Czy można zmieniać strefę czasową.",
-    "Whether the web based services can be turned on, including the terminal and file transfer.": "Czy można włączać serwisy sieciowe, w tym terminal i transfer plików.",
+    "Whether the web based services can be turned on, including the terminal and file transfer.": "Czy można włączać usługi sieciowe, w tym terminal i transfer plików.",
     "Wi-Fi Network": "Sieć Wi-Fi"
   },
   "muxlanguage": {
@@ -3731,7 +3731,7 @@
     "Virtual Terminal": "Wirtualny terminal",
     "Web Dashboard": "Panel online",
     "Web Port": "Port sieciowy",
-    "Web Services": "Serwisy sieciowe",
+    "Web Services": "Usługi sieciowe",
     "Whether Remote View protects what is on the screen.\n\nEnabled, Remote View needs the code from Web Dashboard Code and never captures private screens such as Web Dashboard Code, passcodes and passwords. Disabled, anyone on your network can open Remote View without unlocking and every screen is captured, including the Web Dashboard Code, which lets them unlock the dashboard too.": "Czy Zdalny widok chroni to, co jest na ekranie.\n\nWłączony, Zdalny widok potrzebuje kodu z Kodu panelu online i nigdy nie robi zrzutów prywatnych ekranów, jak Kod panelu online oraz hasła. Wyłączony, każdy w sieci może otworzyć zdalny widok bez odblokowywania, a każdy ekran może zostać zrzucony, w tym Kod panelu online, co pozwala im odblokować panel.",
     "Whether changes made through the Web Dashboard need a code.\n\nDisabled, it can browse and download, and anyone on your network can change History and Collections without a code. Enabled, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Czy zmiany dokonane w Panelu online potrzebują kodu.\n\nWyłączony, można przeglądać i pobierać, a każdy w sieci może zmienić Historię i Kolekcje bez kodu. Włączony, wgrywanie i usuwanie są odblokowanem a każda zmiana wymaga kodu z Kodu panelu online.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "Czy ta usługa działa.\n\nKażda z nich zwiększa użycie energii oraz pamięci, kiedy jest uruchomiona, więc wyłącz te, których nie używasz."
