@@ -691,8 +691,6 @@
     "Core Downloader": "코어 다운로더",
     "Core Incorrectly Configured": "코어가 잘못 구성됨",
     "No Cores Found...": "코어 없음...",
-    "Other Consoles": "Other Consoles",
-    "Other Handhelds": "Other Handhelds",
     "This is where you can assign a core or external emulator to content": "여기서 코어 또는 외부 에뮬레이터를 콘텐츠에 할당함"
   },
   "muxbackup": {
@@ -3391,7 +3389,6 @@
     "Audio Reverse": "오디오 리버스",
     "Audio Subsystem Wait": "오디오 서브시스템 대기",
     "Audio Suspend": "오디오 절전",
-    "Bluetooth Scan Timeout": "블루투스 스캔 시간 제한",
     "Box Art Padding Divisor": "박스 아트 여백 나누기",
     "Box Art Padding in Customisation is a percentage, and this decides how much actual space each percent is worth.\n\nA smaller number here makes every percent count for more, so the same padding setting pushes the artwork further from the edge. A larger number makes each percent count for less, so the padding becomes finer to adjust.\n\nLeave it alone unless the padding steps feel too coarse or too gentle.": "맞춤화의 박스 아트 여백은 백분율이며, 이 값은 각 1%가 실제로 얼마만큼의 공간을 의미하는지 결정합니다.\n\n값이 작을수록 같은 백분율이 더 큰 여백이 되고, 값이 클수록 더 세밀하게 조정할 수 있습니다.\n\n여백 단계가 너무 크거나 작게 느껴질 때만 조정하세요.",
     "Brightness Increment": "밝기 증가",
@@ -3444,7 +3441,6 @@
     "Prepares part of RetroArch while the device starts so it opens faster the first time you use it.\n\nThis adds roughly three seconds to boot in exchange for a quicker first launch. Worth it if you play through RetroArch often, less so if you rarely do.": "기기 시작 중 RetroArch 일부를 미리 준비해 첫 실행을 빠르게 합니다.\n\n부팅 시간이 약 3초 늘어나지만 첫 실행이 빨라집니다. RetroArch를 자주 사용한다면 유용합니다.",
     "R Stick Only": "R Stick 만",
     "Raises the volume ceiling from 100% to 200%, for headphones or speakers that are simply too quiet.\n\nAnything above 100% is pushing the output past what it was built for, so expect distortion and go up gently.": "최대 음량을 100%에서 200%로 높입니다. 기본 출력이 너무 작은 헤드폰이나 스피커에서 사용할 수 있습니다.\n\n100%를 넘으면 원래 설계 범위를 초과하므로 왜곡이 발생할 수 있습니다. 천천히 올리세요.",
-    "Raw Bluetooth Devices": "원시 블루투스 장치",
     "Rebooting and shutting down normally ask you to confirm first. With this on they happen straight away.\n\nQuicker, but there is then nothing between a mistaken press and the device going down.": "일반적으로 재부팅과 시스템 종료 전에 확인을 요청하지만, 이 옵션을 켜면 즉시 실행됩니다.\n\n빠르지만 실수로 눌렀을 때 막아주는 확인 단계가 없어집니다.",
     "Records how long you play each item and how often you open it, which is what the Activity Tracker reads.\n\nTurning it off stops anything new being recorded. Whatever has already been tracked is kept.": "각 항목의 플레이 시간과 실행 횟수를 기록하며 활동 추적기에서 이 정보를 사용합니다.\n\n끄면 새 기록만 중단되고 기존 기록은 유지됩니다.",
     "Remember Section": "섹션 기억",
@@ -3700,7 +3696,6 @@
     "Enter a port from 1 to 65535": "1에서 65535 사이의 포트를 입력하세요",
     "Enter both login fields or leave both blank": "로그인 항목을 둘 다 입력하거나 둘 다 비워 두세요",
     "File transfer and a browser based file manager.\n\nSelect this to open its settings.": "파일 전송과 브라우저 기반 파일 관리 기능입니다.\n\n선택하면 설정을 엽니다.",
-    "How often the Web Dashboard may take a picture of the screen for Remote View.\n\nRemote View needs Authentication and the code from Web Dashboard Code. Pictures are only taken while someone is watching, and never while a private screen such as Web Dashboard Code is open. Disabled hides Remote View from the dashboard.": "원격 보기에서 웹 대시보드가 화면을 캡처하는 간격입니다.\n\n원격 보기를 사용하려면 인증과 웹 대시보드 코드가 필요합니다. 누군가 화면을 보고 있을 때만 캡처하며, 웹 대시보드 코드 같은 비공개 화면은 캡처하지 않습니다. 끄면 대시보드에서 원격 보기를 숨깁니다.",
     "Joins the device to a private Tailscale network, so it can be reached from elsewhere.\n\nSelect this to open its settings.": "기기를 비공개 Tailscale 네트워크에 연결해 외부에서도 접근할 수 있게 합니다.\n\n선택하면 설정을 엽니다.",
     "Keeps folders in step with another machine over the network.\n\nSelect this to open its settings.": "네트워크를 통해 다른 기기와 폴더 내용을 동기화합니다.\n\n선택하면 설정을 엽니다.",
     "Local DNS Resolver": "로컬 DNS 리졸버",

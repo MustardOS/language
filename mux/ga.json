@@ -691,8 +691,6 @@
     "Core Downloader": "Íoslódálaí Croí",
     "Core Incorrectly Configured": "Croí Cumraithe go Mícheart",
     "No Cores Found...": "Níor aimsíodh aon chroíleacáin...",
-    "Other Consoles": "Other Consoles",
-    "Other Handhelds": "Other Handhelds",
     "This is where you can assign a core or external emulator to content": "Is é seo an áit ar féidir leat aithriseoir lárnach nó seachtrach a shannadh d'ábhar"
   },
   "muxbackup": {
@@ -3391,7 +3389,6 @@
     "Audio Reverse": "Aisiompú Fuaime",
     "Audio Subsystem Wait": "Fanacht Fochóras Fuaime",
     "Audio Suspend": "Fionraí Fuaime",
-    "Bluetooth Scan Timeout": "Am Teorannú Scanadh Bluetooth",
     "Box Art Padding Divisor": "Roinnteoir Ealaíne Bosca",
     "Box Art Padding in Customisation is a percentage, and this decides how much actual space each percent is worth.\n\nA smaller number here makes every percent count for more, so the same padding setting pushes the artwork further from the edge. A larger number makes each percent count for less, so the padding becomes finer to adjust.\n\nLeave it alone unless the padding steps feel too coarse or too gentle.": "Is céatadán é Líonadh Ealaíne Bosca i Saincheapadh, agus cinneann sé seo cé mhéad spáis iarbhír atá i ngach céatadán.\n\nMá bhíonn uimhir níos lú anseo, bíonn níos mó spáis i ngach céatadán, mar sin brúnn an socrú líonta céanna an saothar ealaíne níos faide ón imeall. Má bhíonn uimhir níos mó ann, bíonn níos lú spéise i ngach céatadán, mar sin bíonn an líonadh níos míne le coigeartú.\n\nFág leis féin é mura mbraitheann na céimeanna líonta ró-gharbh nó ró-mhín.",
     "Brightness Increment": "Méadú Gile",
@@ -3444,7 +3441,6 @@
     "Prepares part of RetroArch while the device starts so it opens faster the first time you use it.\n\nThis adds roughly three seconds to boot in exchange for a quicker first launch. Worth it if you play through RetroArch often, less so if you rarely do.": "Ullmhaíonn sé cuid de RetroArch agus an gléas ag tosú ionas go n-osclaítear níos tapúla an chéad uair a úsáideann tú é.\n\nCuireann sé seo thart ar thrí shoicind leis an tosaithe mar mhalairt ar an gcéad lainseáil níos tapúla. Is fiú é má imríonn tú trí RetroArch go minic, agus is lú fiú é mura ndéanann tú amhlaidh go minic.",
     "R Stick Only": "Bata R Amháin",
     "Raises the volume ceiling from 100% to 200%, for headphones or speakers that are simply too quiet.\n\nAnything above 100% is pushing the output past what it was built for, so expect distortion and go up gently.": "Ardaíonn sé seo an uasteorainn toirte ó 100% go 200%, i gcás cluasán nó cainteoirí atá róchiúin.\n\nAon rud os cionn 100%, tá an t-aschur ag brú thar an méid a ceapadh dó, mar sin bí ag súil le saobhadh agus téigh suas go réidh.",
-    "Raw Bluetooth Devices": "Raw Bluetooth Devices",
     "Rebooting and shutting down normally ask you to confirm first. With this on they happen straight away.\n\nQuicker, but there is then nothing between a mistaken press and the device going down.": "De ghnáth iarrtar ort deimhniú a thabhairt ar dtús nuair a atosaítear agus nuair a mhúchtar síos é. Tarlaíonn siad láithreach nuair a bhíonn sé seo ar siúl.\n\nNíos tapúla, ach níl aon rud idir brú mícheart agus an gléas ag dul síos.",
     "Records how long you play each item and how often you open it, which is what the Activity Tracker reads.\n\nTurning it off stops anything new being recorded. Whatever has already been tracked is kept.": "Taifeadann sé cé chomh fada agus a imríonn tú gach mír agus cé chomh minic a osclaíonn tú í, agus sin a léann an Rianaitheoir Gníomhaíochta.\n\nMá mhúchtar é, cuirtear cosc ar aon rud nua a thaifeadadh. Coinnítear cibé rud atá rianaithe cheana féin.",
     "Remember Section": "Cuimhnigh ar an Rannóg",
@@ -3700,7 +3696,6 @@
     "Enter a port from 1 to 65535": "Cuir isteach port ó 1 go 65535",
     "Enter both login fields or leave both blank": "Cuir isteach an dá réimse logála isteach nó fág an dá cheann bán",
     "File transfer and a browser based file manager.\n\nSelect this to open its settings.": "Aistriú comhad agus bainisteoir comhad bunaithe ar bhrabhsálaí.\n\nRoghnaigh seo chun a shocruithe a oscailt.",
-    "How often the Web Dashboard may take a picture of the screen for Remote View.\n\nRemote View needs Authentication and the code from Web Dashboard Code. Pictures are only taken while someone is watching, and never while a private screen such as Web Dashboard Code is open. Disabled hides Remote View from the dashboard.": "How often the Web Dashboard may take a picture of the screen for Remote View.\n\nRemote View needs Authentication and the code from Web Dashboard Code. Pictures are only taken while someone is watching, and never while a private screen such as Web Dashboard Code is open. Disabled hides Remote View from the dashboard.",
     "Joins the device to a private Tailscale network, so it can be reached from elsewhere.\n\nSelect this to open its settings.": "Ceanglaíonn sé an gléas le líonra príobháideach Tailscale, ionas gur féidir teacht air ó áit eile.\n\nRoghnaigh é seo chun a shocruithe a oscailt.",
     "Keeps folders in step with another machine over the network.\n\nSelect this to open its settings.": "Coinníonn sé seo fillteáin i gcomhréir le meaisín eile thar an líonra.\n\nRoghnaigh é seo chun a shocruithe a oscailt.",
     "Local DNS Resolver": "Réiteoir DNS Áitiúil",

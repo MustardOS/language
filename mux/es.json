@@ -691,8 +691,6 @@
     "Core Downloader": "Descargador de núcleos",
     "Core Incorrectly Configured": "Núcleo configurado incorrectamente",
     "No Cores Found...": "No se encontraron núcleos...",
-    "Other Consoles": "Otras consolas",
-    "Other Handhelds": "Otras portátiles",
     "This is where you can assign a core or external emulator to content": "Aquí es donde puedes asignar un núcleo o emulador externo al contenido"
   },
   "muxbackup": {
@@ -3391,7 +3389,6 @@
     "Audio Reverse": "Audio inverso",
     "Audio Subsystem Wait": "Subsistema de Audio en Espera",
     "Audio Suspend": "Suspender audio",
-    "Bluetooth Scan Timeout": "Tiempo de espera de escaneo de Bluetooth",
     "Box Art Padding Divisor": "Divisor de relleno de la carátula",
     "Box Art Padding in Customisation is a percentage, and this decides how much actual space each percent is worth.\n\nA smaller number here makes every percent count for more, so the same padding setting pushes the artwork further from the edge. A larger number makes each percent count for less, so the padding becomes finer to adjust.\n\nLeave it alone unless the padding steps feel too coarse or too gentle.": "El espaciado de la carátula (Box Art Padding) en Personalización es un porcentaje, y esto decide cuánto espacio real vale cada porcentaje.\n\nUn número menor aquí hace que cada porcentaje cuente más, por lo que el mismo ajuste de espaciado empuja la carátula más lejos del borde. Un número mayor hace que cada porcentaje cuente menos, por lo que el espaciado se vuelve más fino de ajustar.\n\nDéjalo como está a menos que los pasos de espaciado se sientan demasiado bruscos o demasiado suaves.",
     "Brightness Increment": "Incremento de brillo",
@@ -3444,7 +3441,6 @@
     "Prepares part of RetroArch while the device starts so it opens faster the first time you use it.\n\nThis adds roughly three seconds to boot in exchange for a quicker first launch. Worth it if you play through RetroArch often, less so if you rarely do.": "Prepara parte de RetroArch mientras el dispositivo se inicia para que se abra más rápido la primera vez que lo usas.\n\nEsto añade aproximadamente tres segundos al arranque a cambio de un primer lanzamiento más rápido. Vale la pena si juegas a través de RetroArch a menudo, menos si rara vez lo haces.",
     "R Stick Only": "Solo joystick derecho",
     "Raises the volume ceiling from 100% to 200%, for headphones or speakers that are simply too quiet.\n\nAnything above 100% is pushing the output past what it was built for, so expect distortion and go up gently.": "Eleva el límite de volumen del 100% al 200%, para auriculares o altavoces que son simplemente demasiado silenciosos.\n\nCualquier cosa por encima del 100% es forzar la salida más allá de aquello para lo que fue construida, así que espera distorsión y sube con cuidado.",
-    "Raw Bluetooth Devices": "Dispositivos Bluetooth sin procesar",
     "Rebooting and shutting down normally ask you to confirm first. With this on they happen straight away.\n\nQuicker, but there is then nothing between a mistaken press and the device going down.": "El reinicio y el apagado normalmente te piden confirmación primero. Con esto activado, ocurren de inmediato.\n\nMás rápido, pero entonces no hay nada entre una pulsación accidental y el apagado del dispositivo.",
     "Records how long you play each item and how often you open it, which is what the Activity Tracker reads.\n\nTurning it off stops anything new being recorded. Whatever has already been tracked is kept.": "Registra cuánto tiempo juegas a cada elemento y con qué frecuencia lo abres, que es lo que lee el Seguimiento de actividad.\n\nDesactivarlo evita que se registre nada nuevo. Se conserva lo que ya se haya registrado.",
     "Remember Section": "Recordar sección",
@@ -3700,7 +3696,6 @@
     "Enter a port from 1 to 65535": "Introduce un puerto del 1 al 65535",
     "Enter both login fields or leave both blank": "Introduce ambos campos de inicio de sesión o deja ambos en blanco",
     "File transfer and a browser based file manager.\n\nSelect this to open its settings.": "Transferencia de archivos y un administrador de archivos basado en navegador.\n\nSelecciona esto para abrir sus ajustes.",
-    "How often the Web Dashboard may take a picture of the screen for Remote View.\n\nRemote View needs Authentication and the code from Web Dashboard Code. Pictures are only taken while someone is watching, and never while a private screen such as Web Dashboard Code is open. Disabled hides Remote View from the dashboard.": "Con qué frecuencia el panel de control web puede tomar una captura de la pantalla para la vista remota.\n\nLa vista remota necesita Autenticación y el código de Código del panel de control web. Las imágenes solo se toman mientras alguien está mirando, y nunca mientras una pantalla privada como Código del panel de control web esté abierta. Desactivado oculta la vista remota del panel de control.",
     "Joins the device to a private Tailscale network, so it can be reached from elsewhere.\n\nSelect this to open its settings.": "Une el dispositivo a una red privada de Tailscale, para que se pueda acceder a él desde otro lugar.\n\nSelecciona esto para abrir sus ajustes.",
     "Keeps folders in step with another machine over the network.\n\nSelect this to open its settings.": "Mantiene las carpetas sincronizadas con otra máquina a través de la red.\n\nSelecciona esto para abrir sus ajustes.",
     "Local DNS Resolver": "Resolutor DNS local",

@@ -691,8 +691,6 @@
     "Core Downloader": "核心下载器",
     "Core Incorrectly Configured": "核心配置错误",
     "No Cores Found...": "未找到核心...",
-    "Other Consoles": "Other Consoles",
-    "Other Handhelds": "Other Handhelds",
     "This is where you can assign a core or external emulator to content": "在此为游戏内容分配核心或独立模拟器"
   },
   "muxbackup": {
@@ -3391,7 +3389,6 @@
     "Audio Reverse": "音频反转",
     "Audio Subsystem Wait": "音频子系统等待",
     "Audio Suspend": "音频挂起",
-    "Bluetooth Scan Timeout": "蓝牙扫描超时",
     "Box Art Padding Divisor": "盒面填充除数",
     "Box Art Padding in Customisation is a percentage, and this decides how much actual space each percent is worth.\n\nA smaller number here makes every percent count for more, so the same padding setting pushes the artwork further from the edge. A larger number makes each percent count for less, so the padding becomes finer to adjust.\n\nLeave it alone unless the padding steps feel too coarse or too gentle.": "自定义中的封面图间距是百分比形式，此设置决定每个百分比对应的实际空间大小。\n\n此处数值越小，每个百分比代表的间距越大，相同的间距设置会将封面图推得离边缘更远。数值越大，每个百分比代表的间距越小，间距调整更精细。\n\n除非间距步进感觉太粗或太细，否则无需更改。",
     "Brightness Increment": "亮度增量",
@@ -3444,7 +3441,6 @@
     "Prepares part of RetroArch while the device starts so it opens faster the first time you use it.\n\nThis adds roughly three seconds to boot in exchange for a quicker first launch. Worth it if you play through RetroArch often, less so if you rarely do.": "设备启动时预先加载 RetroArch 的部分内容，使首次使用时打开更快。\n\n这会增加约三秒的启动时间，以换取更快的首次启动。如果经常使用 RetroArch 则值得开启，否则不必。",
     "R Stick Only": "仅限右摇杆",
     "Raises the volume ceiling from 100% to 200%, for headphones or speakers that are simply too quiet.\n\nAnything above 100% is pushing the output past what it was built for, so expect distortion and go up gently.": "将音量上限从 100% 提高到 200%，适用于音量过小的耳机或扬声器。\n\n超过 100% 的输出超出了设计范围，可能会出现失真，请缓慢调高。",
-    "Raw Bluetooth Devices": "Raw Bluetooth Devices",
     "Rebooting and shutting down normally ask you to confirm first. With this on they happen straight away.\n\nQuicker, but there is then nothing between a mistaken press and the device going down.": "重启和关机通常需要先确认。开启后将立即执行。\n\n速度更快，但误按后设备会直接关机，没有确认的机会。",
     "Records how long you play each item and how often you open it, which is what the Activity Tracker reads.\n\nTurning it off stops anything new being recorded. Whatever has already been tracked is kept.": "记录您游玩每项内容的时长和频率，活动追踪器会读取这些数据。\n\n关闭后不会记录新数据，已记录的数据会保留。",
     "Remember Section": "记住位置",
@@ -3700,7 +3696,6 @@
     "Enter a port from 1 to 65535": "输入1到65535之间的端口",
     "Enter both login fields or leave both blank": "同时填写两个登录字段或都留空",
     "File transfer and a browser based file manager.\n\nSelect this to open its settings.": "文件传输和基于浏览器的文件管理器。\n\n选择此项以打开其设置。",
-    "How often the Web Dashboard may take a picture of the screen for Remote View.\n\nRemote View needs Authentication and the code from Web Dashboard Code. Pictures are only taken while someone is watching, and never while a private screen such as Web Dashboard Code is open. Disabled hides Remote View from the dashboard.": "How often the Web Dashboard may take a picture of the screen for Remote View.\n\nRemote View needs Authentication and the code from Web Dashboard Code. Pictures are only taken while someone is watching, and never while a private screen such as Web Dashboard Code is open. Disabled hides Remote View from the dashboard.",
     "Joins the device to a private Tailscale network, so it can be reached from elsewhere.\n\nSelect this to open its settings.": "将设备加入私有的Tailscale网络，以便从其他地方访问。\n\n选择此项以打开其设置。",
     "Keeps folders in step with another machine over the network.\n\nSelect this to open its settings.": "通过网络与另一台机器保持文件夹同步。\n\n选择此项以打开其设置。",
     "Local DNS Resolver": "Local DNS Resolver",

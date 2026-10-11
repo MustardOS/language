@@ -691,8 +691,6 @@
     "Core Downloader": "コアダウンローダー",
     "Core Incorrectly Configured": "Core Incorrectly Configured",
     "No Cores Found...": "No Cores Found...",
-    "Other Consoles": "Other Consoles",
-    "Other Handhelds": "Other Handhelds",
     "This is where you can assign a core or external emulator to content": "コアまたは個別エミュレータをコンテンツに関連づけます"
   },
   "muxbackup": {
@@ -3391,7 +3389,6 @@
     "Audio Reverse": "音声 入れ替え",
     "Audio Subsystem Wait": "オーディオサブシステムの待機",
     "Audio Suspend": "Audio Suspend",
-    "Bluetooth Scan Timeout": "Bluetooth Scan Timeout",
     "Box Art Padding Divisor": "Box Art Padding Divisor",
     "Box Art Padding in Customisation is a percentage, and this decides how much actual space each percent is worth.\n\nA smaller number here makes every percent count for more, so the same padding setting pushes the artwork further from the edge. A larger number makes each percent count for less, so the padding becomes finer to adjust.\n\nLeave it alone unless the padding steps feel too coarse or too gentle.": "Box Art Padding in Customisation is a percentage, and this decides how much actual space each percent is worth.\n\nA smaller number here makes every percent count for more, so the same padding setting pushes the artwork further from the edge. A larger number makes each percent count for less, so the padding becomes finer to adjust.\n\nLeave it alone unless the padding steps feel too coarse or too gentle.",
     "Brightness Increment": "明るさ 変動量",
@@ -3444,7 +3441,6 @@
     "Prepares part of RetroArch while the device starts so it opens faster the first time you use it.\n\nThis adds roughly three seconds to boot in exchange for a quicker first launch. Worth it if you play through RetroArch often, less so if you rarely do.": "Prepares part of RetroArch while the device starts so it opens faster the first time you use it.\n\nThis adds roughly three seconds to boot in exchange for a quicker first launch. Worth it if you play through RetroArch often, less so if you rarely do.",
     "R Stick Only": "R Stick Only",
     "Raises the volume ceiling from 100% to 200%, for headphones or speakers that are simply too quiet.\n\nAnything above 100% is pushing the output past what it was built for, so expect distortion and go up gently.": "Raises the volume ceiling from 100% to 200%, for headphones or speakers that are simply too quiet.\n\nAnything above 100% is pushing the output past what it was built for, so expect distortion and go up gently.",
-    "Raw Bluetooth Devices": "Raw Bluetooth Devices",
     "Rebooting and shutting down normally ask you to confirm first. With this on they happen straight away.\n\nQuicker, but there is then nothing between a mistaken press and the device going down.": "Rebooting and shutting down normally ask you to confirm first. With this on they happen straight away.\n\nQuicker, but there is then nothing between a mistaken press and the device going down.",
     "Records how long you play each item and how often you open it, which is what the Activity Tracker reads.\n\nTurning it off stops anything new being recorded. Whatever has already been tracked is kept.": "Records how long you play each item and how often you open it, which is what the Activity Tracker reads.\n\nTurning it off stops anything new being recorded. Whatever has already been tracked is kept.",
     "Remember Section": "Remember Section",
@@ -3700,7 +3696,6 @@
     "Enter a port from 1 to 65535": "Enter a port from 1 to 65535",
     "Enter both login fields or leave both blank": "Enter both login fields or leave both blank",
     "File transfer and a browser based file manager.\n\nSelect this to open its settings.": "File transfer and a browser based file manager.\n\nSelect this to open its settings.",
-    "How often the Web Dashboard may take a picture of the screen for Remote View.\n\nRemote View needs Authentication and the code from Web Dashboard Code. Pictures are only taken while someone is watching, and never while a private screen such as Web Dashboard Code is open. Disabled hides Remote View from the dashboard.": "How often the Web Dashboard may take a picture of the screen for Remote View.\n\nRemote View needs Authentication and the code from Web Dashboard Code. Pictures are only taken while someone is watching, and never while a private screen such as Web Dashboard Code is open. Disabled hides Remote View from the dashboard.",
     "Joins the device to a private Tailscale network, so it can be reached from elsewhere.\n\nSelect this to open its settings.": "Joins the device to a private Tailscale network, so it can be reached from elsewhere.\n\nSelect this to open its settings.",
     "Keeps folders in step with another machine over the network.\n\nSelect this to open its settings.": "Keeps folders in step with another machine over the network.\n\nSelect this to open its settings.",
     "Local DNS Resolver": "Local DNS Resolver",
