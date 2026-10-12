@@ -479,7 +479,7 @@
     "Play": "Odtwórz",
     "Play Style": "Styl gry",
     "Play style": "Styl gry",
-    "Play the sound from the device": "Play the sound from the device",
+    "Play the sound from the device": "Odtwarzaj dźwięk z urządzenia",
     "Play time": "Czas gry",
     "Playback volume": "Głośność odtwarzania",
     "Played for %s": "Grano przez %s",
@@ -570,7 +570,7 @@
     "Started": "Rozpoczęto",
     "Status": "Stan",
     "Stop playback": "Zatrzymaj odtwarzanie",
-    "Stop the sound from the device": "Stop the sound from the device",
+    "Stop the sound from the device": "Zatrzymaj dźwięk z urządzenia",
     "Storage": "Pamięć",
     "Summary": "Podsumowanie",
     "Sunday": "Niedziela",
@@ -598,13 +598,13 @@
     "The controls are off while Remote View is paused.": "Sterowanie jest wyłączone, dopóki Zdalny widok jest spauzowany.",
     "The dashboard is running read only": "Panel online działa w trybie tylko do odczytu",
     "The device did not answer.": "Urządzenie nie odpowiedziało.",
-    "The device did not send any sound.": "The device did not send any sound.",
+    "The device did not send any sound.": "Urządzenie nie przesłało żadnych dźwięków.",
     "The device input service is not running.": "Usługa wejścia na urządzeniu nie jest uruchomiona.",
     "The last capture failed.": "Ostatnie przechwycenie nie powiodło się.",
     "Theme": "Motyw",
     "Themes": "Motywy",
     "There is no file at that path": "Nie ma pliku na tej ścieżce",
-    "This browser cannot play the sound from the device.": "This browser cannot play the sound from the device.",
+    "This browser cannot play the sound from the device.": "Ta przeglądarka nie może odtwarzać dźwięków z urządzenia.",
     "This browser cannot pop out Remote View.": "Ta przeglądarka nie może utworzyć wyskakującego okienka Zdalnego widoku.",
     "This browser could not show the live stream, so pictures are used instead.": "Ta przeglądarka nie może pokazać strumienia na żywo, więc użyto obrazów.",
     "Thursday": "Czwartek",
@@ -644,7 +644,7 @@
     "Updates every %s while this page is open.": "Odświeża co %s dopóki otwarta jest ta strona.",
     "Uptime": "Czas działania",
     "Use this": "Użyj tego",
-    "Using %s.": "Using %s.",
+    "Using %s.": "Używanie %s.",
     "Version": "Wersja",
     "Voltage": "Napięcie",
     "Volume": "Głośność",
@@ -662,7 +662,7 @@
     "Weekend Warrior": "Weekendowy wojownik",
     "Where %s lives now. The file must already exist on the device.": "Gdzie teraz znajduje się %s. Plik musi już znajdować się na urządzeniu.",
     "Window Shopper": "Przeglądający tytuły",
-    "a game controller": "a game controller",
+    "a game controller": "kontroler",
     "playing": "odtwarzane",
     "this content": "ta zawartość",
     "this game": "ta gra"
@@ -1638,11 +1638,11 @@
   },
   "muxlink": {
     "Cable Not Connected": "Kabel niepodłączony",
-    "Connect two devices with a network adapter cable, or a USB-C cable, and they will find each other on their own.": "Connect two devices with a network adapter cable, or a USB-C cable, and they will find each other on their own.",
+    "Connect two devices with a network adapter cable, or a USB-C cable, and they will find each other on their own.": "Połącz dwa urządzenia za pomocą kabla i adapterów sieciowych, lub kabla USB-C, a znajdą siebie samodzielnie.",
     "Connected": "Połączono",
     "Connection": "Połączenie",
     "Direct Link": "Bezpośrednie połączenie",
-    "Link two devices with a USB-C data cable instead of network adapters.\n\nEnable it on both devices, then connect the charging port of one device to the other USB-C port of the second device. The second device powers the link and charges the first, so connect a charger to its own charging port for longer sessions.\n\nWhile it is enabled, USB Function is paused, and it returns when this is disabled.": "Link two devices with a USB-C data cable instead of network adapters.\n\nEnable it on both devices, then connect the charging port of one device to the other USB-C port of the second device. The second device powers the link and charges the first, so connect a charger to its own charging port for longer sessions.\n\nWhile it is enabled, USB Function is paused, and it returns when this is disabled.",
+    "Link two devices with a USB-C data cable instead of network adapters.\n\nEnable it on both devices, then connect the charging port of one device to the other USB-C port of the second device. The second device powers the link and charges the first, so connect a charger to its own charging port for longer sessions.\n\nWhile it is enabled, USB Function is paused, and it returns when this is disabled.": "Połącz ze sobą dwa urządzenia przy pomocy kabla USB-C zamiast adapterów sieciowych.\n\nWłącz to na obu urządzeniach, a potem połącz kablem USB-C jedno urządzenie z drugim. Drugie urządzenie zasila połączenie oraz ładuje pierwsze urządzenie, więc podłącz ładowarkę do osobnego wejścia ładowania dla dłuższych sesji.\n\nKiedy jest włączone, Funkcje USB są wstrzymane i wracają do normy, kiedy jest wyłączone.",
     "Looking For Other Device": "Szukanie innego urządzenia",
     "No Supported Adapter Found": "Nie znaleziono wspieranego adaptera",
     "None": "Brak",
@@ -1656,10 +1656,10 @@
     "The network adapter the cable is plugged into.": "Adapter sieciowy, do którego wpięto kabel.",
     "This Device": "To urządzenie",
     "This Device ID": "ID tego urządzenia",
-    "USB Cable": "USB Cable",
-    "Unavailable": "Unavailable",
-    "Waiting For Cable": "Waiting For Cable",
-    "Where things are up to.\n\nA supported wired network adapter and cable, or the USB cable, need to be connected at both ends. Direct Link will then set itself up automatically.": "Where things are up to.\n\nA supported wired network adapter and cable, or the USB cable, need to be connected at both ends. Direct Link will then set itself up automatically."
+    "USB Cable": "Kabel USB",
+    "Unavailable": "Niedostępny",
+    "Waiting For Cable": "Oczekiwanie na kabel",
+    "Where things are up to.\n\nA supported wired network adapter and cable, or the USB cable, need to be connected at both ends. Direct Link will then set itself up automatically.": "Gdzie dzieją się rzeczy.\n\nWspierany adapter sieciowy i kabel sieciowy, lub kabel USB, muszą być połączone na obu końcach. Bezpośrednie połączenie ustawi się potem automatycznie."
   },
   "muxlogo": {
     "Add images to the MUOS/logo folder on your current storage to choose from them here.": "Dodaj obrazy do folderu MUOS/logo w bieżącej pamięci, by je stąd wybrać.",
@@ -1925,7 +1925,7 @@
   },
   "muxnetwork": {
     "Auto": "Auto",
-    "Configure the wired Ethernet connection. DHCP obtains the network details automatically, while Static lets you set the device address, subnet, gateway and DNS server yourself.": "Configure the wired Ethernet connection. DHCP obtains the network details automatically, while Static lets you set the device address, subnet, gateway and DNS server yourself.",
+    "Configure the wired Ethernet connection. DHCP obtains the network details automatically, while Static lets you set the device address, subnet, gateway and DNS server yourself.": "Skonfiguruj połączenie Ethernet. DHCP otrzymuje szczegóły sieci automatycznie, a Statyczny pozwala ci określić adres urządzenia, podsieć, bramę oraz serwer DNS.",
     "Joined to Wi-Fi": "Połączono z Wi-Fi",
     "Lists the Wi-Fi networks you have saved. Join or leave them here, choose which one joins automatically and forget any you no longer need.\n\nJoined means connected to the Wi-Fi network. It does not by itself confirm Internet access.": "Listuje zapisane sieci Wi-Fi. Połącz się lub rozłącz tutaj, wybierz, które mają łączyć się automatycznie i zapomnij o tych, których już nie potrzebujesz.\n\nPołączony oznacza, że połączono się z siecią Wi-Fi. Nie potwierdza to dostępu do Internetu.",
     "Manage saved Wi-Fi networks and automatic joining. Joined describes the local Wi-Fi link, not Internet availability.": "Zarządzaj sieciami Wi-Fi oraz automatycznym dołączaniem. Połączony opisuje lokalne połączenie Wi-Fi, a nie dostępność Internetu.",
@@ -1933,7 +1933,7 @@
     "No Saved Networks Found": "Nie znaleziono zapisanych sieci",
     "Scan for a nearby network and enter its password to save a profile.": "Skanuj w poszukiwaniu sieci i wpisz jej hasło, by zapisać profil.",
     "Wi-Fi Network": "Sieć Wi-Fi",
-    "Wired Ethernet Connection": "Wired Ethernet Connection"
+    "Wired Ethernet Connection": "Połączenie Ethernet przez kabel"
   },
   "muxnews": {
     "Community News": "Wiadomości społeczności",
@@ -3836,7 +3836,7 @@
     "Web Services": "Usługi sieciowe",
     "Whether Remote View protects what is on the screen.\n\nEnabled, Remote View needs the code from Web Dashboard Code and never captures private screens such as Web Dashboard Code, passcodes and passwords. Disabled, anyone on your network can open Remote View without unlocking and every screen is captured, including the Web Dashboard Code, which lets them unlock the dashboard too.": "Czy Zdalny widok chroni to, co jest na ekranie.\n\nWłączony, Zdalny widok potrzebuje kodu z Kodu panelu online i nigdy nie robi zrzutów prywatnych ekranów, jak Kod panelu online oraz hasła. Wyłączony, każdy w sieci może otworzyć zdalny widok bez odblokowywania, a każdy ekran może zostać zrzucony, w tym Kod panelu online, co pozwala im odblokować panel.",
     "Whether Remote View shows buttons, volume and brightness controls that work the device from the browser. Enabled with Sticks also adds the analogue sticks, on devices that have them, and lets a game controller connected to the browser move them.\n\nThey need Authentication and the code from Web Dashboard Code, because anyone using them can do anything you can do with the device in your hands. With Authentication and Remote View Privacy both disabled, they are open to anyone on your network, but only while Remote View is set to Live.": "Czy Zdalny widok pokazuje przyciski, głośność oraz jasność, które sterują urządzeniem z przeglądarki. Włączony z drążkami dodaje analogowe drążki na urządzeniach, które je posiadają oraz pozwalają sterować przy użyciu kontrolera podłączonego do przeglądarki.\n\nWymaga to Uwierzytelnienia i Kodu panelu online, bo każdy, kto z tego korzysta może zrobić cokolwiek z twoim urządzeniem. Z wyłączonymi Uwierzytelnieniem oraz Prywatnością widoku zdalnego będą otwarte dla każdego w sieci, ale tylko wtedy, gdy Zdalny widok ustawiony jest na Na żywo.",
-    "Whether changes made through the Web Dashboard need a code.\n\nDisabled, the dashboard can browse and download, and anyone on your network can change History and Collections and control Wasabi and Pickles without a code. The Editors and Tools cannot save to the device. Enabled, saving from the Editors and Tools, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Whether changes made through the Web Dashboard need a code.\n\nDisabled, the dashboard can browse and download, and anyone on your network can change History and Collections and control Wasabi and Pickles without a code. The Editors and Tools cannot save to the device. Enabled, saving from the Editors and Tools, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.",
+    "Whether changes made through the Web Dashboard need a code.\n\nDisabled, the dashboard can browse and download, and anyone on your network can change History and Collections and control Wasabi and Pickles without a code. The Editors and Tools cannot save to the device. Enabled, saving from the Editors and Tools, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Czy zmiany w Panelu online wymagają kodu.\n\nWyłączone, panel może przeglądać i pobierać, a każdy w twojej sieci może zmieniać Historię i Kolekcje oraz kontrolować Wasabi i Pickles bez kodu. Edytory oraz Narzędzia nie mogą zapisywać do urządzenia. Włączone, zapisywanie z Edytorów i Narzędzi, wgrywanie oraz usuwanie są odblokowane, a każda zmiana pyta o Kod panelu online.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "Czy ta usługa działa.\n\nKażda z nich zwiększa użycie energii oraz pamięci, kiedy jest uruchomiona, więc wyłącz te, których nie używasz."
   }
 }
