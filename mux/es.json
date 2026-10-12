@@ -479,6 +479,7 @@
     "Play": "Reproducir",
     "Play Style": "Estilo de juego",
     "Play style": "Estilo de juego",
+    "Play the sound from the device": "Play the sound from the device",
     "Play time": "Tiempo de juego",
     "Playback volume": "Volumen de reproducción",
     "Played for %s": "Jugado durante %s",
@@ -569,6 +570,7 @@
     "Started": "Iniciado",
     "Status": "Estado",
     "Stop playback": "Detener reproducción",
+    "Stop the sound from the device": "Stop the sound from the device",
     "Storage": "Almacenamiento",
     "Summary": "Resumen",
     "Sunday": "Domingo",
@@ -596,11 +598,13 @@
     "The controls are off while Remote View is paused.": "Los controles están desactivados mientras la vista remota está en pausa.",
     "The dashboard is running read only": "El panel de control se está ejecutando en solo lectura",
     "The device did not answer.": "El dispositivo no respondió.",
+    "The device did not send any sound.": "The device did not send any sound.",
     "The device input service is not running.": "El servicio de entrada del dispositivo no se está ejecutando.",
     "The last capture failed.": "La última captura falló.",
     "Theme": "Tema",
     "Themes": "Temas",
     "There is no file at that path": "No hay ningún archivo en esa ruta",
+    "This browser cannot play the sound from the device.": "This browser cannot play the sound from the device.",
     "This browser cannot pop out Remote View.": "Este navegador no puede desacoplar la vista remota.",
     "This browser could not show the live stream, so pictures are used instead.": "Este navegador no pudo mostrar la transmisión en directo, por lo que se utilizan imágenes en su lugar.",
     "Thursday": "Jueves",
@@ -640,6 +644,7 @@
     "Updates every %s while this page is open.": "Se actualiza cada %s mientras esta página está abierta.",
     "Uptime": "Tiempo de actividad",
     "Use this": "Usar esto",
+    "Using %s.": "Using %s.",
     "Version": "Versión",
     "Voltage": "Voltaje",
     "Volume": "Volumen",
@@ -657,6 +662,7 @@
     "Weekend Warrior": "Guerrero de fin de semana",
     "Where %s lives now. The file must already exist on the device.": "Dónde se encuentra %s ahora. El archivo ya debe existir en el dispositivo.",
     "Window Shopper": "Curioso de catálogo",
+    "a game controller": "a game controller",
     "playing": "jugando",
     "this content": "este contenido",
     "this game": "este juego"
@@ -1632,9 +1638,11 @@
   },
   "muxlink": {
     "Cable Not Connected": "Cable no conectado",
+    "Connect two devices with a network adapter cable, or a USB-C cable, and they will find each other on their own.": "Connect two devices with a network adapter cable, or a USB-C cable, and they will find each other on their own.",
     "Connected": "Conectado",
     "Connection": "Conexión",
     "Direct Link": "Enlace directo",
+    "Link two devices with a USB-C data cable instead of network adapters.\n\nEnable it on both devices, then connect the charging port of one device to the other USB-C port of the second device. The second device powers the link and charges the first, so connect a charger to its own charging port for longer sessions.\n\nWhile it is enabled, USB Function is paused, and it returns when this is disabled.": "Link two devices with a USB-C data cable instead of network adapters.\n\nEnable it on both devices, then connect the charging port of one device to the other USB-C port of the second device. The second device powers the link and charges the first, so connect a charger to its own charging port for longer sessions.\n\nWhile it is enabled, USB Function is paused, and it returns when this is disabled.",
     "Looking For Other Device": "Buscando otro dispositivo",
     "No Supported Adapter Found": "No se encontró ningún adaptador compatible",
     "None": "Ninguno",
@@ -1647,7 +1655,11 @@
     "The hardware identifier of this device's adapter, handy for comparing it with the device at the other end.": "El identificador de hardware del adaptador de este dispositivo, útil para compararlo con el dispositivo en el otro extremo.",
     "The network adapter the cable is plugged into.": "El adaptador de red en el que está enchufado el cable.",
     "This Device": "Este dispositivo",
-    "This Device ID": "ID de este dispositivo"
+    "This Device ID": "ID de este dispositivo",
+    "USB Cable": "USB Cable",
+    "Unavailable": "Unavailable",
+    "Waiting For Cable": "Waiting For Cable",
+    "Where things are up to.\n\nA supported wired network adapter and cable, or the USB cable, need to be connected at both ends. Direct Link will then set itself up automatically.": "Where things are up to.\n\nA supported wired network adapter and cable, or the USB cable, need to be connected at both ends. Direct Link will then set itself up automatically."
   },
   "muxlogo": {
     "Add images to the MUOS/logo folder on your current storage to choose from them here.": "Añade imágenes a la carpeta MUOS/logo en tu almacenamiento actual para elegir entre ellas aquí.",
@@ -1913,13 +1925,15 @@
   },
   "muxnetwork": {
     "Auto": "Automático",
+    "Configure the wired Ethernet connection. DHCP obtains the network details automatically, while Static lets you set the device address, subnet, gateway and DNS server yourself.": "Configure the wired Ethernet connection. DHCP obtains the network details automatically, while Static lets you set the device address, subnet, gateway and DNS server yourself.",
     "Joined to Wi-Fi": "Conectado a Wi-Fi",
     "Lists the Wi-Fi networks you have saved. Join or leave them here, choose which one joins automatically and forget any you no longer need.\n\nJoined means connected to the Wi-Fi network. It does not by itself confirm Internet access.": "Muestra las redes Wi-Fi que tienes guardadas. Conéctate o desconéctate de ellas aquí, elige cuál se conecta automáticamente y olvida las que ya no necesites.\n\nConectado significa conectado a la red Wi-Fi. Por sí solo no confirma el acceso a Internet.",
     "Manage saved Wi-Fi networks and automatic joining. Joined describes the local Wi-Fi link, not Internet availability.": "Gestiona las redes Wi-Fi guardadas y la conexión automática. Conectado describe el enlace Wi-Fi local, no la disponibilidad de Internet.",
     "Manual": "Manual",
     "No Saved Networks Found": "No se han encontrado redes guardadas",
     "Scan for a nearby network and enter its password to save a profile.": "Busca una red cercana e introduce su contraseña para guardar un perfil.",
-    "Wi-Fi Network": "Red Wi-Fi"
+    "Wi-Fi Network": "Red Wi-Fi",
+    "Wired Ethernet Connection": "Wired Ethernet Connection"
   },
   "muxnews": {
     "Community News": "Noticias de la comunidad",
@@ -3822,6 +3836,7 @@
     "Web Services": "Servicios web",
     "Whether Remote View protects what is on the screen.\n\nEnabled, Remote View needs the code from Web Dashboard Code and never captures private screens such as Web Dashboard Code, passcodes and passwords. Disabled, anyone on your network can open Remote View without unlocking and every screen is captured, including the Web Dashboard Code, which lets them unlock the dashboard too.": "Si la vista remota protege lo que hay en la pantalla.\n\nActivado, la vista remota necesita el código de Código del panel de control web y nunca captura pantallas privadas como Código del panel de control web, códigos de acceso y contraseñas. Desactivado, cualquier persona en tu red puede abrir la vista remota sin desbloquear y se captura cada pantalla, incluyendo el Código del panel de control web, lo que les permite desbloquear el panel de control también.",
     "Whether Remote View shows buttons, volume and brightness controls that work the device from the browser. Enabled with Sticks also adds the analogue sticks, on devices that have them, and lets a game controller connected to the browser move them.\n\nThey need Authentication and the code from Web Dashboard Code, because anyone using them can do anything you can do with the device in your hands. With Authentication and Remote View Privacy both disabled, they are open to anyone on your network, but only while Remote View is set to Live.": "Si la vista remota muestra botones y controles de volumen y brillo que manejan el dispositivo desde el navegador. Habilitado con joysticks también añade los sticks analógicos, en los dispositivos que los tengan, y permite que un mando conectado al navegador los mueva.\n\nNecesitan Autenticación y el código de Código del panel de control web, porque cualquiera que los use puede hacer todo lo que tú puedes hacer con el dispositivo en tus manos. Con la Autenticación y la Privacidad de la vista remota desactivadas, están abiertos a cualquiera en tu red, pero solo mientras la vista remota esté configurada en En directo.",
+    "Whether changes made through the Web Dashboard need a code.\n\nDisabled, the dashboard can browse and download, and anyone on your network can change History and Collections and control Wasabi and Pickles without a code. The Editors and Tools cannot save to the device. Enabled, saving from the Editors and Tools, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Whether changes made through the Web Dashboard need a code.\n\nDisabled, the dashboard can browse and download, and anyone on your network can change History and Collections and control Wasabi and Pickles without a code. The Editors and Tools cannot save to the device. Enabled, saving from the Editors and Tools, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "Si este servicio se ejecuta.\n\nCada uno consume un poco de batería y memoria mientras está activado, así que deja desactivados los que no uses."
   }
 }
