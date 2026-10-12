@@ -479,6 +479,7 @@
     "Play": "재생",
     "Play Style": "플레이 스타일",
     "Play style": "플레이 스타일",
+    "Play the sound from the device": "Play the sound from the device",
     "Play time": "플레이 시간",
     "Playback volume": "재생 음량",
     "Played for %s": "%s 동안 플레이함",
@@ -569,6 +570,7 @@
     "Started": "시작됨",
     "Status": "상태",
     "Stop playback": "재생 중지",
+    "Stop the sound from the device": "Stop the sound from the device",
     "Storage": "저장 공간",
     "Summary": "요약",
     "Sunday": "일요일",
@@ -596,11 +598,13 @@
     "The controls are off while Remote View is paused.": "원격 보기가 일시정지된 동안에는 조작할 수 없습니다.",
     "The dashboard is running read only": "대시보드가 읽기 전용으로 실행 중입니다",
     "The device did not answer.": "기기가 응답하지 않았습니다.",
+    "The device did not send any sound.": "The device did not send any sound.",
     "The device input service is not running.": "기기 입력 서비스가 실행 중이지 않습니다.",
     "The last capture failed.": "마지막 캡처에 실패했습니다.",
     "Theme": "테마",
     "Themes": "테마",
     "There is no file at that path": "해당 경로에 파일이 없습니다",
+    "This browser cannot play the sound from the device.": "This browser cannot play the sound from the device.",
     "This browser cannot pop out Remote View.": "이 브라우저에서는 원격 보기를 별도 창으로 열 수 없습니다.",
     "This browser could not show the live stream, so pictures are used instead.": "이 브라우저에서 실시간 스트림을 표시할 수 없어 대신 정지 화면을 사용합니다.",
     "Thursday": "목요일",
@@ -640,6 +644,7 @@
     "Updates every %s while this page is open.": "이 페이지가 열려 있는 동안 %s마다 업데이트합니다.",
     "Uptime": "가동 시간",
     "Use this": "이 항목 사용",
+    "Using %s.": "Using %s.",
     "Version": "버전",
     "Voltage": "전압",
     "Volume": "음량",
@@ -657,6 +662,7 @@
     "Weekend Warrior": "주말 플레이어",
     "Where %s lives now. The file must already exist on the device.": "현재 %s 항목이 있는 위치입니다. 파일이 기기에 이미 있어야 합니다.",
     "Window Shopper": "구경꾼형 플레이어",
+    "a game controller": "a game controller",
     "playing": "플레이 중",
     "this content": "이 콘텐츠",
     "this game": "이 게임"
@@ -1632,9 +1638,11 @@
   },
   "muxlink": {
     "Cable Not Connected": "케이블이 연결되지 않음",
+    "Connect two devices with a network adapter cable, or a USB-C cable, and they will find each other on their own.": "Connect two devices with a network adapter cable, or a USB-C cable, and they will find each other on their own.",
     "Connected": "연결됨",
     "Connection": "연결",
     "Direct Link": "직접 연결",
+    "Link two devices with a USB-C data cable instead of network adapters.\n\nEnable it on both devices, then connect the charging port of one device to the other USB-C port of the second device. The second device powers the link and charges the first, so connect a charger to its own charging port for longer sessions.\n\nWhile it is enabled, USB Function is paused, and it returns when this is disabled.": "Link two devices with a USB-C data cable instead of network adapters.\n\nEnable it on both devices, then connect the charging port of one device to the other USB-C port of the second device. The second device powers the link and charges the first, so connect a charger to its own charging port for longer sessions.\n\nWhile it is enabled, USB Function is paused, and it returns when this is disabled.",
     "Looking For Other Device": "다른 기기 검색 중",
     "No Supported Adapter Found": "지원되는 어댑터를 찾을 수 없음",
     "None": "없음",
@@ -1647,7 +1655,11 @@
     "The hardware identifier of this device's adapter, handy for comparing it with the device at the other end.": "이 기기 어댑터의 하드웨어 식별자입니다. 반대쪽 기기와 비교할 때 유용합니다.",
     "The network adapter the cable is plugged into.": "케이블이 연결된 네트워크 어댑터입니다.",
     "This Device": "이 기기",
-    "This Device ID": "이 기기 ID"
+    "This Device ID": "이 기기 ID",
+    "USB Cable": "USB Cable",
+    "Unavailable": "Unavailable",
+    "Waiting For Cable": "Waiting For Cable",
+    "Where things are up to.\n\nA supported wired network adapter and cable, or the USB cable, need to be connected at both ends. Direct Link will then set itself up automatically.": "Where things are up to.\n\nA supported wired network adapter and cable, or the USB cable, need to be connected at both ends. Direct Link will then set itself up automatically."
   },
   "muxlogo": {
     "Add images to the MUOS/logo folder on your current storage to choose from them here.": "현재 저장소의 MUOS/logo 폴더에 이미지를 추가하면 여기에서 선택할 수 있습니다.",
@@ -1913,13 +1925,15 @@
   },
   "muxnetwork": {
     "Auto": "자동",
+    "Configure the wired Ethernet connection. DHCP obtains the network details automatically, while Static lets you set the device address, subnet, gateway and DNS server yourself.": "Configure the wired Ethernet connection. DHCP obtains the network details automatically, while Static lets you set the device address, subnet, gateway and DNS server yourself.",
     "Joined to Wi-Fi": "Wi-Fi에 연결됨",
     "Lists the Wi-Fi networks you have saved. Join or leave them here, choose which one joins automatically and forget any you no longer need.\n\nJoined means connected to the Wi-Fi network. It does not by itself confirm Internet access.": "저장된 Wi-Fi 네트워크 목록을 표시합니다. 여기서 연결하거나 연결 해제하고, 자동 연결할 네트워크를 선택하거나 더 이상 필요 없는 프로필을 삭제할 수 있습니다.\n\n연결됨은 Wi-Fi 네트워크에 연결된 상태를 뜻하며 인터넷 연결 가능 여부를 의미하지는 않습니다.",
     "Manage saved Wi-Fi networks and automatic joining. Joined describes the local Wi-Fi link, not Internet availability.": "저장된 Wi-Fi 네트워크와 자동 연결을 관리합니다. 연결됨은 로컬 Wi-Fi 연결 상태를 뜻하며 인터넷 사용 가능 여부와는 별개입니다.",
     "Manual": "수동",
     "No Saved Networks Found": "저장된 네트워크를 찾을 수 없음",
     "Scan for a nearby network and enter its password to save a profile.": "주변 네트워크를 검색하고 비밀번호를 입력해 프로필로 저장합니다.",
-    "Wi-Fi Network": "Wi-Fi 네트워크"
+    "Wi-Fi Network": "Wi-Fi 네트워크",
+    "Wired Ethernet Connection": "Wired Ethernet Connection"
   },
   "muxnews": {
     "Community News": "커뮤니티 뉴스",
@@ -3822,6 +3836,7 @@
     "Web Services": "웹 서비스",
     "Whether Remote View protects what is on the screen.\n\nEnabled, Remote View needs the code from Web Dashboard Code and never captures private screens such as Web Dashboard Code, passcodes and passwords. Disabled, anyone on your network can open Remote View without unlocking and every screen is captured, including the Web Dashboard Code, which lets them unlock the dashboard too.": "원격 보기에서 화면 내용을 보호할지 설정합니다.\n\n켜면 웹 대시보드 코드가 있어야 원격 보기를 사용할 수 있으며, 웹 대시보드 코드, 암호, 비밀번호 같은 비공개 화면은 캡처하지 않습니다. 끄면 네트워크에 연결된 누구나 잠금 해제 없이 원격 보기를 열 수 있고, 웹 대시보드 코드를 포함한 모든 화면을 캡처합니다. 따라서 대시보드 잠금 해제 코드도 노출될 수 있습니다.",
     "Whether Remote View shows buttons, volume and brightness controls that work the device from the browser. Enabled with Sticks also adds the analogue sticks, on devices that have them, and lets a game controller connected to the browser move them.\n\nThey need Authentication and the code from Web Dashboard Code, because anyone using them can do anything you can do with the device in your hands. With Authentication and Remote View Privacy both disabled, they are open to anyone on your network, but only while Remote View is set to Live.": "원격 보기에서 브라우저로 기기의 버튼, 음량, 밝기를 조작할 수 있는지 설정합니다. 스틱 포함 활성화를 선택하면 지원 기기의 아날로그 스틱도 추가되며, 브라우저에 연결된 게임 컨트롤러로 스틱을 움직일 수도 있습니다.\n\n이 기능을 사용하려면 인증과 웹 대시보드 코드가 필요합니다. 조작 권한이 있는 사람은 기기를 직접 잡고 있는 것처럼 모든 작업을 할 수 있기 때문입니다. 인증과 원격 보기 개인정보 보호를 모두 끄면 네트워크에 연결된 누구나 조작할 수 있지만, 원격 보기가 실시간으로 설정된 동안에만 가능합니다.",
+    "Whether changes made through the Web Dashboard need a code.\n\nDisabled, the dashboard can browse and download, and anyone on your network can change History and Collections and control Wasabi and Pickles without a code. The Editors and Tools cannot save to the device. Enabled, saving from the Editors and Tools, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Whether changes made through the Web Dashboard need a code.\n\nDisabled, the dashboard can browse and download, and anyone on your network can change History and Collections and control Wasabi and Pickles without a code. The Editors and Tools cannot save to the device. Enabled, saving from the Editors and Tools, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "이 서비스를 실행할지 설정합니다.\n\n활성화된 서비스는 약간의 배터리와 메모리를 사용하므로 사용하지 않는 것은 꺼두세요."
   }
 }
