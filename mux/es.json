@@ -1632,7 +1632,6 @@
   },
   "muxlink": {
     "Cable Not Connected": "Cable no conectado",
-    "Connect two devices with a network cable and they will find each other on their own.": "Conecta dos dispositivos con un cable de red y se encontrarán entre sí por su cuenta.",
     "Connected": "Conectado",
     "Connection": "Conexión",
     "Direct Link": "Enlace directo",
@@ -1648,8 +1647,7 @@
     "The hardware identifier of this device's adapter, handy for comparing it with the device at the other end.": "El identificador de hardware del adaptador de este dispositivo, útil para compararlo con el dispositivo en el otro extremo.",
     "The network adapter the cable is plugged into.": "El adaptador de red en el que está enchufado el cable.",
     "This Device": "Este dispositivo",
-    "This Device ID": "ID de este dispositivo",
-    "Where things are up to.\n\nA supported wired network adapter and cable need to be connected at both ends. Direct Link will then set itself up automatically.": "El estado del proceso.\n\nSe debe conectar un adaptador de red por cable compatible y un cable en ambos extremos. El Enlace directo se configurará automáticamente."
+    "This Device ID": "ID de este dispositivo"
   },
   "muxlogo": {
     "Add images to the MUOS/logo folder on your current storage to choose from them here.": "Añade imágenes a la carpeta MUOS/logo en tu almacenamiento actual para elegir entre ellas aquí.",
@@ -3824,7 +3822,6 @@
     "Web Services": "Servicios web",
     "Whether Remote View protects what is on the screen.\n\nEnabled, Remote View needs the code from Web Dashboard Code and never captures private screens such as Web Dashboard Code, passcodes and passwords. Disabled, anyone on your network can open Remote View without unlocking and every screen is captured, including the Web Dashboard Code, which lets them unlock the dashboard too.": "Si la vista remota protege lo que hay en la pantalla.\n\nActivado, la vista remota necesita el código de Código del panel de control web y nunca captura pantallas privadas como Código del panel de control web, códigos de acceso y contraseñas. Desactivado, cualquier persona en tu red puede abrir la vista remota sin desbloquear y se captura cada pantalla, incluyendo el Código del panel de control web, lo que les permite desbloquear el panel de control también.",
     "Whether Remote View shows buttons, volume and brightness controls that work the device from the browser. Enabled with Sticks also adds the analogue sticks, on devices that have them, and lets a game controller connected to the browser move them.\n\nThey need Authentication and the code from Web Dashboard Code, because anyone using them can do anything you can do with the device in your hands. With Authentication and Remote View Privacy both disabled, they are open to anyone on your network, but only while Remote View is set to Live.": "Si la vista remota muestra botones y controles de volumen y brillo que manejan el dispositivo desde el navegador. Habilitado con joysticks también añade los sticks analógicos, en los dispositivos que los tengan, y permite que un mando conectado al navegador los mueva.\n\nNecesitan Autenticación y el código de Código del panel de control web, porque cualquiera que los use puede hacer todo lo que tú puedes hacer con el dispositivo en tus manos. Con la Autenticación y la Privacidad de la vista remota desactivadas, están abiertos a cualquiera en tu red, pero solo mientras la vista remota esté configurada en En directo.",
-    "Whether changes made through the Web Dashboard need a code.\n\nDisabled, it can browse and download, and anyone on your network can change History and Collections without a code. Enabled, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Si los cambios realizados a través del panel de control web necesitan un código.\n\nDesactivado, puede explorar y descargar, y cualquier persona en tu red puede cambiar el Historial y las Colecciones sin un código. Activado, se desbloquean la subida y eliminación, y cada cambio solicita el código de Código del panel de control web.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "Si este servicio se ejecuta.\n\nCada uno consume un poco de batería y memoria mientras está activado, así que deja desactivados los que no uses."
   }
 }

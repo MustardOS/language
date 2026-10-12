@@ -1632,7 +1632,6 @@
   },
   "muxlink": {
     "Cable Not Connected": "Cábla Gan Ceangail",
-    "Connect two devices with a network cable and they will find each other on their own.": "Ceangail dhá fheiste le cábla líonra agus gheobhaidh siad a chéile leo féin.",
     "Connected": "Ceangailte",
     "Connection": "Ceangal",
     "Direct Link": "Nasc Díreach",
@@ -1648,8 +1647,7 @@
     "The hardware identifier of this device's adapter, handy for comparing it with the device at the other end.": "Aitheantóir crua-earraí oiriúnaitheoir na feiste seo, rud atá úsáideach chun é a chur i gcomparáid leis an bhfeiste ag an gceann eile.",
     "The network adapter the cable is plugged into.": "An oiriúntóir líonra a bhfuil an cábla breiseáilte isteach ann.",
     "This Device": "An Gléas seo",
-    "This Device ID": "Aitheantóir na feiste seo",
-    "Where things are up to.\n\nA supported wired network adapter and cable need to be connected at both ends. Direct Link will then set itself up automatically.": "An staid reatha.\n\nNí mór cuibheoir líonra sreangaithe agus cábla a fhaigheann tacaíocht a nascadh ag an dá cheann. Socróidh Direct Link é féin go huathoibríoch ansin."
+    "This Device ID": "Aitheantóir na feiste seo"
   },
   "muxlogo": {
     "Add images to the MUOS/logo folder on your current storage to choose from them here.": "Cuir íomhánna leis an bhfillteán MUOS/lógó ar do stóráil reatha le roghnú astu anseo.",
@@ -3824,7 +3822,6 @@
     "Web Services": "Seirbhísí Gréasáin",
     "Whether Remote View protects what is on the screen.\n\nEnabled, Remote View needs the code from Web Dashboard Code and never captures private screens such as Web Dashboard Code, passcodes and passwords. Disabled, anyone on your network can open Remote View without unlocking and every screen is captured, including the Web Dashboard Code, which lets them unlock the dashboard too.": "Whether Remote View protects what is on the screen.\n\nEnabled, Remote View needs the code from Web Dashboard Code and never captures private screens such as Web Dashboard Code, passcodes and passwords. Disabled, anyone on your network can open Remote View without unlocking and every screen is captured, including the Web Dashboard Code, which lets them unlock the dashboard too.",
     "Whether Remote View shows buttons, volume and brightness controls that work the device from the browser. Enabled with Sticks also adds the analogue sticks, on devices that have them, and lets a game controller connected to the browser move them.\n\nThey need Authentication and the code from Web Dashboard Code, because anyone using them can do anything you can do with the device in your hands. With Authentication and Remote View Privacy both disabled, they are open to anyone on your network, but only while Remote View is set to Live.": "Whether Remote View shows buttons, volume and brightness controls that work the device from the browser. Enabled with Sticks also adds the analogue sticks, on devices that have them, and lets a game controller connected to the browser move them.\n\nThey need Authentication and the code from Web Dashboard Code, because anyone using them can do anything you can do with the device in your hands. With Authentication and Remote View Privacy both disabled, they are open to anyone on your network, but only while Remote View is set to Live.",
-    "Whether changes made through the Web Dashboard need a code.\n\nDisabled, it can browse and download, and anyone on your network can change History and Collections without a code. Enabled, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Whether changes made through the Web Dashboard need a code.\n\nDisabled, it can browse and download, and anyone on your network can change History and Collections without a code. Enabled, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "An bhfuil an tseirbhís seo ag rith?\n\nCosnaíonn gach ceann acu beagán ceallraí agus cuimhne agus é ar siúl, mar sin fág ar lár an rud nach n-úsáideann tú."
   }
 }
