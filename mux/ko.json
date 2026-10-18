@@ -771,6 +771,7 @@
     "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.": "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.",
     "This update does not contain a valid manifest, so its files cannot be checked for damage. Installing it anyway may leave MustardOS unusable. Continue?": "이 업데이트에는 유효한 매니페스트가 없어 파일 손상 여부를 확인할 수 없습니다. 그래도 설치하면 MustardOS를 사용할 수 없게 될 수 있습니다. 계속할까요?",
     "UPDATE MANIFEST WARNING": "업데이트 매니페스트 경고",
+    "Version": "Version",
     "file": "file",
     "files": "files"
   },
@@ -3144,8 +3145,10 @@
     "Auto": "자동",
     "Backend": "백엔드",
     "Brightness": "밝기",
+    "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.\n\nExternal hands the lights over to another application, such as a community lighting tool. MustardOS then sends nothing to the lights at all, not even to turn them off, until you choose another mode.": "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.\n\nExternal hands the lights over to another application, such as a community lighting tool. MustardOS then sends nothing to the lights at all, not even to turn them off, until you choose another mode.",
     "Colour": "색상",
     "Controls the lighting on devices that have it, covering the mode it uses, the colours it shows and how bright it runs. Individual zones can be set separately where the hardware supports it.": "조명을 지원하는 기기의 조명 모드, 색상 및 밝기를 설정합니다. 하드웨어가 지원하면 각 영역을 별도로 설정할 수 있습니다.",
+    "External": "External",
     "Feeling Lucky!": "무작위 선택!",
     "Front Left": "전면 왼쪽",
     "Front Right": "전면 오른쪽",
@@ -3827,6 +3830,7 @@
     "Web Dashboard Code": "웹 대시보드 코드"
   },
   "muxwebserv": {
+    "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.": "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.",
     "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.": "컴퓨터에서 기기에 연결하기 위한 보안 셸입니다.\n\n선택하면 설정을 엽니다.",
     "Authentication": "인증",
     "Enabled with Sticks": "스틱 포함 활성화",
