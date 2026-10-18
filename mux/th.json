@@ -771,6 +771,7 @@
     "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.": "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.",
     "This update does not contain a valid manifest, so its files cannot be checked for damage. Installing it anyway may leave MustardOS unusable. Continue?": "This update does not contain a valid manifest, so its files cannot be checked for damage. Installing it anyway may leave MustardOS unusable. Continue?",
     "UPDATE MANIFEST WARNING": "UPDATE MANIFEST WARNING",
+    "Version": "Version",
     "file": "file",
     "files": "files"
   },
@@ -3144,8 +3145,10 @@
     "Auto": "อัตโนมัติ",
     "Backend": "ส่วนหลัง",
     "Brightness": "ความสว่าง",
+    "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.\n\nExternal hands the lights over to another application, such as a community lighting tool. MustardOS then sends nothing to the lights at all, not even to turn them off, until you choose another mode.": "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.\n\nExternal hands the lights over to another application, such as a community lighting tool. MustardOS then sends nothing to the lights at all, not even to turn them off, until you choose another mode.",
     "Colour": "Colour",
     "Controls the lighting on devices that have it, covering the mode it uses, the colours it shows and how bright it runs. Individual zones can be set separately where the hardware supports it.": "Controls the lighting on devices that have it, covering the mode it uses, the colours it shows and how bright it runs. Individual zones can be set separately where the hardware supports it.",
+    "External": "External",
     "Feeling Lucky!": "Feeling Lucky!",
     "Front Left": "Front Left",
     "Front Right": "Front Right",
@@ -3827,6 +3830,7 @@
     "Web Dashboard Code": "Web Dashboard Code"
   },
   "muxwebserv": {
+    "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.": "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.",
     "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.": "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.",
     "Authentication": "Authentication",
     "Enabled with Sticks": "Enabled with Sticks",
