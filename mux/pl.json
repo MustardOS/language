@@ -771,7 +771,7 @@
     "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.": "Ta kopia zapasowa nie posiada prawidłowego manifestu, więc nie można zobaczyć jej szczegółów. Nie zostanie przywrócona, dopóki nie zostanie zastąpiona pełną kopią zapasową.",
     "This update does not contain a valid manifest, so its files cannot be checked for damage. Installing it anyway may leave MustardOS unusable. Continue?": "Ta aktualizacja nie zawiera poprawnego manifestu, więc nie można sprawdzić plików pod kątem uszkodzeń. Instalacja pomimo tego może sprawić, że MustardOS będzie nie do użytku. Kontynuować?",
     "UPDATE MANIFEST WARNING": "Ostrzeżenie manifestu aktualizacji",
-    "Version": "Version",
+    "Version": "Wersja",
     "file": "plik",
     "files": "plików"
   },
@@ -3145,10 +3145,10 @@
     "Auto": "Auto",
     "Backend": "Backend",
     "Brightness": "Jasność",
-    "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.\n\nExternal hands the lights over to another application, such as a community lighting tool. MustardOS then sends nothing to the lights at all, not even to turn them off, until you choose another mode.": "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.\n\nExternal hands the lights over to another application, such as a community lighting tool. MustardOS then sends nothing to the lights at all, not even to turn them off, until you choose another mode.",
+    "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.\n\nExternal hands the lights over to another application, such as a community lighting tool. MustardOS then sends nothing to the lights at all, not even to turn them off, until you choose another mode.": "Wybiera, jak kontrolowane są światła.\n\nWyłączony wyłącza każdą strefę i ukrywa resztę tego ekranu. Strefa listuje każdą strefę oświetlenia, które posiada urządzenie, pozwalając wybrać kolor i jasność niezależnie. Motyw chowa listę stref i koloruje każdą strefę, by dopasować się do palety, której używa bieżący motyw, pozostawiając tylko jasność do ustawienia.\n\nZewnętrzny pozwala innej aplikacji przejąć kontrolę nad światłami, jak narzędziu oświetlenia od społeczności. MustardOS nie wysyła niczego do świateł, nawet, by je włączyć, dopóki nie wybierzesz innego trybu.",
     "Colour": "Kolor",
     "Controls the lighting on devices that have it, covering the mode it uses, the colours it shows and how bright it runs. Individual zones can be set separately where the hardware supports it.": "Steruje światłami w urządzeniach, które je mają, w tym tryb, którego używają, kolory, które pokazują oraz jak jasno świecą. Indywidualne strefy można ustawić osobno, jeśli wspiera to sprzęt.",
-    "External": "External",
+    "External": "Zewnętrzny",
     "Feeling Lucky!": "Mam szczęście!",
     "Front Left": "Przedni lewy",
     "Front Right": "Przedni prawy",
@@ -3830,7 +3830,7 @@
     "Web Dashboard Code": "Kod panelu online"
   },
   "muxwebserv": {
-    "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.": "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.",
+    "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.": "Strona główna w przeglądarce, która pokazuje, co robi urządzenie, aktywność, informacje systemowe, zdalny widok, kontrolowanie gry oraz narzędzia urządzenia.\n\nWybierz to, by otworzyć ustawienia.",
     "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.": "Bezpieczny terminal do łączenia się z urządzeniem z komputera.\n\nWybierz to, by otworzyć ustawienia.",
     "Authentication": "Uwierzytelnienie",
     "Enabled with Sticks": "Włączone z drążkami",
