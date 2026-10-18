@@ -766,7 +766,6 @@
     "INSTALLED": "已安装",
     "Install Anyway": "仍然安装",
     "Installs archives placed on your storage, covering system updates, applications, themes, save data and configuration packages.\n\nSelect an archive to install it. The device works through it and reports what changed once it has finished.": "安装存储上的归档文件，包括系统更新、应用程序、主题、存档数据和配置包。\n\n选择一个归档文件进行安装。设备会自动处理并报告更改内容。",
-    "MustardOS": "MustardOS",
     "No Archives Found": "未找到压缩文档",
     "Size": "Size",
     "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.": "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.",
@@ -3145,7 +3144,6 @@
     "Auto": "自动",
     "Backend": "后端",
     "Brightness": "亮度",
-    "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.": "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.",
     "Colour": "颜色",
     "Controls the lighting on devices that have it, covering the mode it uses, the colours it shows and how bright it runs. Individual zones can be set separately where the hardware supports it.": "控制支持灯光设备的照明，包括使用的模式、显示的颜色和亮度。在硬件支持的情况下，可以单独设置各个区域。",
     "Feeling Lucky!": "手气不错！",
@@ -3829,7 +3827,6 @@
     "Web Dashboard Code": "Web Dashboard Code"
   },
   "muxwebserv": {
-    "A home page in the browser showing what the device is doing, and letting you manage catalogue artwork and Pickles saves.\n\nSelect this to open its settings.": "A home page in the browser showing what the device is doing, and letting you manage catalogue artwork and Pickles saves.\n\nSelect this to open its settings.",
     "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.": "用于从电脑连接到设备的安全外壳。\n\n选择此项以打开其设置。",
     "Authentication": "Authentication",
     "Enabled with Sticks": "Enabled with Sticks",

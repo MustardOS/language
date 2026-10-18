@@ -766,7 +766,6 @@
     "INSTALLED": "ZAINSTALOWANO",
     "Install Anyway": "Zainstaluj pomimo tego",
     "Installs archives placed on your storage, covering system updates, applications, themes, save data and configuration packages.\n\nSelect an archive to install it. The device works through it and reports what changed once it has finished.": "Instaluje archiwa umieszczone w pamięci: aktualizacje systemowe, aplikacje, motywy, dane zapisu oraz paczki konfiguracji.\n\nWybierz archiwum, by je zainstalować. Urządzenie przetwarza je i raportuje, co się zmieniło, gdy skończy.",
-    "MustardOS": "MustardOS",
     "No Archives Found": "Nie znaleziono archiwów",
     "Size": "Rozmiar",
     "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.": "Ta kopia zapasowa nie posiada prawidłowego manifestu, więc nie można zobaczyć jej szczegółów. Nie zostanie przywrócona, dopóki nie zostanie zastąpiona pełną kopią zapasową.",
@@ -3145,7 +3144,6 @@
     "Auto": "Auto",
     "Backend": "Backend",
     "Brightness": "Jasność",
-    "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.": "Wybiera sposób, w jaki sterowane są światła.\n\nWyłączony wyłącza każdą strefę i ukrywa resztę tego ekranu. Strefa listuje każdą strefę, którą posiada urządzenie, pozwalając ustawić jej kolor oraz jasność niezależnie. Motyw ukrywa listę stref i zmienia kolor każdej strefy tak, by pasowała do palety bieżącego motywu, pozostawiając do ustawienia tylko jasność.",
     "Colour": "Kolor",
     "Controls the lighting on devices that have it, covering the mode it uses, the colours it shows and how bright it runs. Individual zones can be set separately where the hardware supports it.": "Steruje światłami w urządzeniach, które je mają, w tym tryb, którego używają, kolory, które pokazują oraz jak jasno świecą. Indywidualne strefy można ustawić osobno, jeśli wspiera to sprzęt.",
     "Feeling Lucky!": "Mam szczęście!",
@@ -3829,7 +3827,6 @@
     "Web Dashboard Code": "Kod panelu online"
   },
   "muxwebserv": {
-    "A home page in the browser showing what the device is doing, and letting you manage catalogue artwork and Pickles saves.\n\nSelect this to open its settings.": "Strona główna w przeglądarce, która pokazuje stan urządzenia oraz pozwala na zarządzanie okładkami oraz zapisami z Pickles.\n\nWybierz to, by otworzyć ustawienia.",
     "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.": "Bezpieczny terminal do łączenia się z urządzeniem z komputera.\n\nWybierz to, by otworzyć ustawienia.",
     "Authentication": "Uwierzytelnienie",
     "Enabled with Sticks": "Włączone z drążkami",

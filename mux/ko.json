@@ -766,7 +766,6 @@
     "INSTALLED": "설치됨",
     "Install Anyway": "그래도 설치",
     "Installs archives placed on your storage, covering system updates, applications, themes, save data and configuration packages.\n\nSelect an archive to install it. The device works through it and reports what changed once it has finished.": "저장소에 있는 아카이브를 설치합니다. 시스템 업데이트, 어플리케이션, 테마, 세이브 데이터 및 구성 패키지가 포함됩니다.\n\n설치할 아카이브를 선택하면 기기가 설치를 진행하고 완료 후 변경 사항을 알려줍니다.",
-    "MustardOS": "MustardOS",
     "No Archives Found": "아카이브 없음",
     "Size": "Size",
     "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.": "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.",
@@ -3145,7 +3144,6 @@
     "Auto": "자동",
     "Backend": "백엔드",
     "Brightness": "밝기",
-    "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.": "조명 제어 방식을 선택합니다.\n\n끄기는 모든 영역을 끄고 나머지 설정을 숨깁니다. 영역은 기기의 각 조명 영역을 표시해 색상과 밝기를 개별 설정할 수 있게 합니다. 테마는 영역 목록을 숨기고 현재 테마의 팔레트에 맞춰 모든 영역의 색을 지정하며 전체 밝기만 조정할 수 있게 합니다.",
     "Colour": "색상",
     "Controls the lighting on devices that have it, covering the mode it uses, the colours it shows and how bright it runs. Individual zones can be set separately where the hardware supports it.": "조명을 지원하는 기기의 조명 모드, 색상 및 밝기를 설정합니다. 하드웨어가 지원하면 각 영역을 별도로 설정할 수 있습니다.",
     "Feeling Lucky!": "무작위 선택!",
@@ -3829,7 +3827,6 @@
     "Web Dashboard Code": "웹 대시보드 코드"
   },
   "muxwebserv": {
-    "A home page in the browser showing what the device is doing, and letting you manage catalogue artwork and Pickles saves.\n\nSelect this to open its settings.": "브라우저에서 기기 상태를 확인하고 카탈로그 아트워크와 Pickles 세이브를 관리할 수 있는 홈 페이지입니다.\n\n선택하면 설정을 엽니다.",
     "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.": "컴퓨터에서 기기에 연결하기 위한 보안 셸입니다.\n\n선택하면 설정을 엽니다.",
     "Authentication": "인증",
     "Enabled with Sticks": "스틱 포함 활성화",
