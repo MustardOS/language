@@ -3624,6 +3624,7 @@
     "Verbose Messages": "메시지 출력",
     "Volume Increment": "볼륨 증가",
     "Volume On Boot": "부팅시 볼륨",
+    "Waits for the audio system to finish starting before showing the frontend.\n\nEnable it if the first sound of the session is missed or cut short. Leaving it disabled provides the quickest boot.": "Waits for the audio system to finish starting before showing the frontend.\n\nEnable it if the first sound of the session is missed or cut short. Leaving it disabled provides the quickest boot.",
     "What the device offers when you plug it into a computer.\n\nMTP lets you browse your files from the computer, which is what most people want. ADB is a developer connection and is only worth choosing if you know you need it.": "기기를 컴퓨터에 연결했을 때 제공할 연결 방식을 설정합니다.\n\nMTP는 컴퓨터에서 파일을 탐색할 수 있게 하며 일반적인 사용에 적합합니다. ADB는 개발자용 연결 방식입니다.",
     "Whether closing the lid puts the device to sleep, on the devices that have one.\n\nTurn it off if you would rather the lid did nothing at all.": "덮개가 있는 기기에서 덮개를 닫았을 때 절전 모드로 전환할지 설정합니다.\n\n덮개 동작을 사용하지 않으려면 끄세요.",
     "Whether the device gives a short buzz when it starts up, goes to sleep and shuts down.\n\nThis covers those three moments only. Content manages its own rumble separately.": "기기가 시작, 절전 진입, 시스템 종료 시 짧게 진동할지 설정합니다.\n\n이 세 상황에만 적용되며 콘텐츠의 진동은 별도로 관리됩니다.",
