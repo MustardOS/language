@@ -771,6 +771,7 @@
     "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.": "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.",
     "This update does not contain a valid manifest, so its files cannot be checked for damage. Installing it anyway may leave MustardOS unusable. Continue?": "Níl aon léiriú bailí sa nuashonrú seo, mar sin ní féidir a chuid comhad a sheiceáil le haghaidh damáiste. Má shuiteálann tú é ar aon nós, d'fhéadfadh sé nach mbeidh MustardOS inúsáidte. Ar aghaidh?",
     "UPDATE MANIFEST WARNING": "RABHADH NUASHONRÚ FOLLASACH",
+    "Version": "Version",
     "file": "file",
     "files": "files"
   },
@@ -3144,8 +3145,10 @@
     "Auto": "Uath",
     "Backend": "Cúlchríoch",
     "Brightness": "Gile",
+    "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.\n\nExternal hands the lights over to another application, such as a community lighting tool. MustardOS then sends nothing to the lights at all, not even to turn them off, until you choose another mode.": "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.\n\nExternal hands the lights over to another application, such as a community lighting tool. MustardOS then sends nothing to the lights at all, not even to turn them off, until you choose another mode.",
     "Colour": "Dath",
     "Controls the lighting on devices that have it, covering the mode it uses, the colours it shows and how bright it runs. Individual zones can be set separately where the hardware supports it.": "Rialaíonn sé an soilsiú ar fheistí a bhfuil sé acu, ag clúdach an mhodha a úsáideann sé, na dathanna a thaispeánann sé agus cé chomh geal agus a ritheann sé. Is féidir criosanna aonair a shocrú ar leithligh i gcás ina dtacaíonn an crua-earraí leis.",
+    "External": "External",
     "Feeling Lucky!": "Mothú ádhúil!",
     "Front Left": "Tosaigh ar Chlé",
     "Front Right": "Tosaigh ar Dheis",
@@ -3827,6 +3830,7 @@
     "Web Dashboard Code": "Cód an Deais Ghréasáin"
   },
   "muxwebserv": {
+    "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.": "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.",
     "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.": "Blaosc slán chun ceangal leis an ngléas ó ríomhaire.\n\nRoghnaigh é seo chun a shocruithe a oscailt.",
     "Authentication": "Fíordheimhniú",
     "Enabled with Sticks": "Enabled with Sticks",
