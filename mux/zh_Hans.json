@@ -3551,7 +3551,6 @@
     "GPU Performance Mode": "GPU性能模式",
     "High": "高",
     "Holds RetroArch back until the device has joined a network.\n\nOnly worth having on if you rely on netplay or other online features the moment content opens. It adds a wait to every launch, so leave it off otherwise.": "让 RetroArch 等待设备加入网络后再启动。\n\n仅在内容启动时依赖联机对战或其他在线功能时才值得开启。它会在每次启动时增加等待时间，其他情况下请关闭。",
-    "Holds the boot until the audio system has finished starting.\n\nThis adds a moment to startup but stops the first sound of the session being missed or cut short. Turn it off only if you want the quickest boot you can get.": "在音频系统完成启动前保持等待。\n\n这会增加启动时间，但可防止会话的第一个声音被丢失或截断。仅在追求最快启动速度时才关闭。",
     "Holds the graphics chip at its top speed rather than letting it settle down when there is little to do.\n\nIt can smooth out the occasional stutter, at the cost of battery and a warmer device. Leave it off unless you have something that needs it.": "使图形芯片保持最高速度，而非在低负载时降速。\n\n可消除偶尔的卡顿，但会消耗更多电量并使设备发热。除非有需要，否则请关闭。",
     "How far the brightness moves with each press.\n\nA smaller step gives you finer control over the level, a larger one gets you from dim to bright in fewer presses.": "每次按键时亮度变化的幅度。\n\n步进越小控制越精细，步进越大则更少的按键即可从暗到亮。",
     "How far the volume moves with each press.\n\nA smaller step gives you finer control over the level, a larger one gets you from quiet to loud in fewer presses.": "每次按键时音量变化的幅度。\n\n步进越小控制越精细，步进越大则更少的按键即可从静音到大声。",
