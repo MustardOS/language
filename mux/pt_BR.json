@@ -771,6 +771,7 @@
     "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.": "Este backup não possui um manifesto legível, por isso não é possível exibir seus detalhes. Ele não poderá ser restaurado até ser substituído por um backup completo.",
     "This update does not contain a valid manifest, so its files cannot be checked for damage. Installing it anyway may leave MustardOS unusable. Continue?": "Esta atualização não contém um manifesto válido, portanto não é possível verificar se seus arquivos estão danificados. Instalar mesmo assim pode deixar o MustardOS inutilizável. Continuar?",
     "UPDATE MANIFEST WARNING": "AVISO DE MANIFESTO DA ATUALIZAÇÃO",
+    "Version": "Version",
     "file": "arquivo",
     "files": "arquivos"
   },
@@ -3144,8 +3145,10 @@
     "Auto": "Automático",
     "Backend": "Backend",
     "Brightness": "Brilho",
+    "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.\n\nExternal hands the lights over to another application, such as a community lighting tool. MustardOS then sends nothing to the lights at all, not even to turn them off, until you choose another mode.": "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.\n\nExternal hands the lights over to another application, such as a community lighting tool. MustardOS then sends nothing to the lights at all, not even to turn them off, until you choose another mode.",
     "Colour": "Cor",
     "Controls the lighting on devices that have it, covering the mode it uses, the colours it shows and how bright it runs. Individual zones can be set separately where the hardware supports it.": "Controla a iluminação em dispositivos que possuem esse recurso, incluindo o modo utilizado, as cores exibidas e o brilho. As zonas individuais podem ser configuradas separadamente quando o hardware oferece suporte.",
+    "External": "External",
     "Feeling Lucky!": "Estou com sorte!",
     "Front Left": "Frontal esquerda",
     "Front Right": "Frontal direita",
@@ -3827,6 +3830,7 @@
     "Web Dashboard Code": "Código do Web Dashboard"
   },
   "muxwebserv": {
+    "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.": "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.",
     "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.": "Um shell seguro para conectar-se ao dispositivo a partir de um computador.\n\nSelecione para abrir suas configurações.",
     "Authentication": "Autenticação",
     "Enabled with Sticks": "Ativado com analógicos",
