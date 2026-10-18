@@ -766,7 +766,6 @@
     "INSTALLED": "SUITEÁILTE",
     "Install Anyway": "Suiteáil ar aon nós",
     "Installs archives placed on your storage, covering system updates, applications, themes, save data and configuration packages.\n\nSelect an archive to install it. The device works through it and reports what changed once it has finished.": "Suiteálann sé cartlanna atá curtha ar do stóras, lena n-áirítear nuashonruithe córais, feidhmchláir, téamaí, sonraí sábhála agus pacáistí cumraíochta.\n\nRoghnaigh cartlann le suiteáil. Oibríonn an gléas tríd agus tuairiscíonn sé cad a d'athraigh nuair a bheidh sé críochnaithe.",
-    "MustardOS": "MustardOS",
     "No Archives Found": "Níor aimsíodh aon chartlann",
     "Size": "Size",
     "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.": "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.",
@@ -3145,7 +3144,6 @@
     "Auto": "Uath",
     "Backend": "Cúlchríoch",
     "Brightness": "Gile",
-    "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.": "Roghnaíonn sé seo conas a rialaítear na soilse.\n\nMúchann As gach crios agus folaíonn sé an chuid eile den scáileán seo. Liostaíonn Crios gach crios soilsithe atá ag do ghléas, rud a ligeann duit a dhath agus a ghile a shocrú go neamhspleách. Folaíonn Téama an liosta criosanna agus ina ionad sin dathaíonn sé gach crios chun meaitseáil le cibé pailéad atá á úsáid ag do théama gníomhach faoi láthair, rud a fhágann nach bhfuil ach gile fhoriomlán agat le socrú.",
     "Colour": "Dath",
     "Controls the lighting on devices that have it, covering the mode it uses, the colours it shows and how bright it runs. Individual zones can be set separately where the hardware supports it.": "Rialaíonn sé an soilsiú ar fheistí a bhfuil sé acu, ag clúdach an mhodha a úsáideann sé, na dathanna a thaispeánann sé agus cé chomh geal agus a ritheann sé. Is féidir criosanna aonair a shocrú ar leithligh i gcás ina dtacaíonn an crua-earraí leis.",
     "Feeling Lucky!": "Mothú ádhúil!",
@@ -3829,7 +3827,6 @@
     "Web Dashboard Code": "Cód an Deais Ghréasáin"
   },
   "muxwebserv": {
-    "A home page in the browser showing what the device is doing, and letting you manage catalogue artwork and Pickles saves.\n\nSelect this to open its settings.": "Leathanach baile sa bhrabhsálaí a thaispeánann cad atá an gléas á dhéanamh, agus a ligeann duit saothar ealaíne an chatalóga agus comhaid sábhála Pickles a bhainistiú.\n\nRoghnaigh é seo chun a chuid socruithe a oscailt.",
     "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.": "Blaosc slán chun ceangal leis an ngléas ó ríomhaire.\n\nRoghnaigh é seo chun a shocruithe a oscailt.",
     "Authentication": "Fíordheimhniú",
     "Enabled with Sticks": "Enabled with Sticks",

@@ -766,7 +766,6 @@
     "INSTALLED": "已安裝",
     "Install Anyway": "Install Anyway",
     "Installs archives placed on your storage, covering system updates, applications, themes, save data and configuration packages.\n\nSelect an archive to install it. The device works through it and reports what changed once it has finished.": "Installs archives placed on your storage, covering system updates, applications, themes, save data and configuration packages.\n\nSelect an archive to install it. The device works through it and reports what changed once it has finished.",
-    "MustardOS": "MustardOS",
     "No Archives Found": "找不到封裝檔",
     "Size": "Size",
     "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.": "This backup has no readable manifest, so its details cannot be shown. It will not restore until it is replaced with a complete backup.",
@@ -3145,7 +3144,6 @@
     "Auto": "自動",
     "Backend": "後端",
     "Brightness": "亮度",
-    "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.": "Chooses how the lights are controlled.\n\nOff turns every zone off and hides the rest of this screen. Zone lists each lighting zone your device has, letting you set its colour and brightness independently. Theme hides the zone list and instead colours every zone to match whichever palette your currently active theme is using, leaving you with just an overall brightness to set.",
     "Colour": "Colour",
     "Controls the lighting on devices that have it, covering the mode it uses, the colours it shows and how bright it runs. Individual zones can be set separately where the hardware supports it.": "Controls the lighting on devices that have it, covering the mode it uses, the colours it shows and how bright it runs. Individual zones can be set separately where the hardware supports it.",
     "Feeling Lucky!": "Feeling Lucky!",
@@ -3829,7 +3827,6 @@
     "Web Dashboard Code": "Web Dashboard Code"
   },
   "muxwebserv": {
-    "A home page in the browser showing what the device is doing, and letting you manage catalogue artwork and Pickles saves.\n\nSelect this to open its settings.": "A home page in the browser showing what the device is doing, and letting you manage catalogue artwork and Pickles saves.\n\nSelect this to open its settings.",
     "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.": "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.",
     "Authentication": "Authentication",
     "Enabled with Sticks": "Enabled with Sticks",
