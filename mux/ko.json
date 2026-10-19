@@ -549,11 +549,9 @@
     "Save": "저장",
     "Save as image": "이미지로 저장",
     "Save image": "이미지 저장",
-    "Saves": "세이브",
     "Saving…": "저장 중…",
     "Screen": "화면",
     "Search": "검색",
-    "Secure Shell": "보안 셸",
     "Select": "선택",
     "Serial Number": "일련번호",
     "Services": "서비스",
@@ -3656,12 +3654,10 @@
     "History": "최근 실행",
     "Input Remap": "입력 리맵",
     "Language": "언어",
-    "Last Game": "마지막 실행 게임",
     "Main Menu": "메인 메뉴",
     "Options": "옵션",
     "Passcode Settings": "패스코드 설정",
     "Resolution, scaling and audio for when the device is plugged into a TV.": "기기를 TV에 연결했을 때의 해상도, 스케일링 및 오디오를 설정합니다.",
-    "Resume Game": "게임 재개",
     "Screenshot Hotkey": "스크린샷 핫키",
     "Select your preferred language\n\nTranslations supported by Weblate": "선호하는 언어를 선택\n\nWeblate에서 지원하는 번역",
     "Sets a code that must be entered at boot, before launching content, or before changing settings.\n\nUseful for keeping small hands out of your settings.": "부팅 시, 콘텐츠 실행 전 또는 설정 변경 전에 입력해야 하는 코드를 설정합니다.\n\n다른 사람이 설정을 함부로 바꾸지 못하게 할 때 유용합니다.",
@@ -3678,8 +3674,7 @@
     "Warm the screen colours on a sunrise and sunset schedule, which is easier on the eyes at night": "일출과 일몰 시간에 맞춰 화면 색을 따뜻하게 조정해 야간에 눈의 부담을 줄입니다",
     "Where sound is sent, whether that is the built in speakers, headphones, or something connected over Bluetooth.\n\nThis follows along on its own as you plug headphones in and take them out again.": "사운드를 내장 스피커, 헤드폰 또는 블루투스 연결 장치 중 어디로 출력할지 설정합니다.\n\n헤드폰을 연결하거나 분리하면 자동으로 따라 전환됩니다.",
     "Which button combination switches the DPAD between behaving normally and standing in for the sticks.": "DPAD를 일반 방향키와 스틱 대체 입력 사이에서 전환할 버튼 조합을 설정합니다.",
-    "Which button combination takes a screenshot.": "스크린샷을 촬영할 버튼 조합을 설정합니다.",
-    "Which screen the device opens on when it starts.\n\nSet it to Explore or a collection to land on your content without going through the menu first.": "기기 시작 시 처음 열 화면을 설정합니다.\n\n탐색 또는 컬렉션으로 설정하면 메뉴를 거치지 않고 바로 콘텐츠 화면으로 이동합니다."
+    "Which button combination takes a screenshot.": "스크린샷을 촬영할 버튼 조합을 설정합니다."
   },
   "muxvisual": {
     "A soft shadow behind list text and glyphs, which helps them stand off a busy wallpaper.": "목록 텍스트와 글리프 뒤에 부드러운 그림자를 표시해 복잡한 배경에서도 잘 보이게 합니다.",
@@ -3819,7 +3814,6 @@
     "Which artwork is preferred when a piece of content has more than one image to choose from.\n\nThe first kind that exists for an item is the one you will see.": "콘텐츠에 여러 이미지가 있을 때 우선 사용할 아트워크 종류를 설정합니다.\n\n해당 항목에 존재하는 첫 번째 종류가 표시됩니다."
   },
   "muxwebcode": {
-    "Authentication is turned off, so the Web Dashboard cannot change anything and needs no code.": "인증이 꺼져 있어 웹 대시보드에서 아무것도 변경할 수 없으며 코드도 필요하지 않습니다.",
     "Changes in %d seconds": "%d초 후 변경됨",
     "IP Address": "IP 주소",
     "Local Address": "로컬 주소",
@@ -3831,12 +3825,10 @@
   },
   "muxwebserv": {
     "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.": "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.",
-    "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.": "컴퓨터에서 기기에 연결하기 위한 보안 셸입니다.\n\n선택하면 설정을 엽니다.",
     "Authentication": "인증",
     "Enabled with Sticks": "스틱 포함 활성화",
     "Enter a port from 1 to 65535": "1에서 65535 사이의 포트를 입력하세요",
     "Enter both login fields or leave both blank": "로그인 항목을 둘 다 입력하거나 둘 다 비워 두세요",
-    "File transfer and a browser based file manager.\n\nSelect this to open its settings.": "파일 전송과 브라우저 기반 파일 관리 기능입니다.\n\n선택하면 설정을 엽니다.",
     "How Live Remote View plays the sound from the device in the browser.\n\nLow uses the least network and waits longest before playing, so it suits a weak connection. High sounds best and plays soonest, but needs a strong connection. Medium sits between them.\n\nSound follows the same rules as the picture, so anyone who can watch Live Remote View can also hear it. It only works while Remote View is set to Live.": "브라우저에서 실시간 원격 보기의 기기 소리를 재생하는 방식입니다.\n\n낮음은 네트워크 사용량이 가장 적지만 재생까지 가장 오래 기다리므로 연결 상태가 약할 때 적합합니다. 높음은 음질이 가장 좋고 재생도 가장 빠르지만 연결 상태가 좋아야 합니다. 중간은 그 사이입니다.\n\n소리는 화면과 같은 접근 규칙을 따르므로 실시간 원격 보기를 볼 수 있는 사람은 소리도 들을 수 있습니다. 원격 보기가 실시간으로 설정된 동안에만 작동합니다.",
     "How many pictures a second Live Remote View sends, from 5 to 60 in steps of 5.\n\nHigher is smoother but uses more processing on the device and more of your network, and the device may not reach the rate it is asked for. 15 is the default.": "실시간 원격 보기에서 초당 전송할 화면 수입니다. 5부터 60까지 5단위로 설정합니다.\n\n값이 높을수록 움직임이 부드럽지만 기기의 처리 능력과 네트워크를 더 많이 사용하며, 기기가 요청한 속도에 도달하지 못할 수도 있습니다. 기본값은 15입니다.",
     "How often the Web Dashboard may take a picture of the screen for Remote View. Live streams the screen as it changes, at the rate set by Live View FPS. Manual only takes a picture when you press Refresh now in the dashboard, so the picture never changes while you are looking at it.\n\nRemote View needs Authentication and the code from Web Dashboard Code. The screen is only captured while someone is watching, and never while a private screen such as Web Dashboard Code is open. Live uses more processing and network while it is open. Disabled hides Remote View from the dashboard.": "원격 보기용으로 웹 대시보드가 화면을 캡처하는 방식입니다. 실시간은 화면이 바뀔 때 실시간 보기 FPS에 설정한 속도로 전송합니다. 수동은 대시보드에서 지금 새로고침을 누를 때만 화면을 캡처하므로 보고 있는 동안 화면이 바뀌지 않습니다.\n\n원격 보기를 사용하려면 인증과 웹 대시보드 코드가 필요합니다. 누군가 화면을 보고 있을 때만 캡처하며, 웹 대시보드 코드 같은 비공개 화면은 캡처하지 않습니다. 실시간은 열려 있는 동안 기기 처리 능력과 네트워크를 더 많이 사용합니다. 끄면 대시보드에서 원격 보기를 숨깁니다.",
@@ -3860,9 +3852,6 @@
     "Remote Controls": "원격 조작",
     "Remote View": "원격 보기",
     "Remote View Privacy": "원격 보기 개인정보 보호",
-    "SFTP + Filebrowser": "SFTP + 파일브라우저",
-    "SFTP Port": "SFTP 포트",
-    "Secure Shell": "시큐어 셸",
     "Service": "서비스",
     "Set an optional Virtual Terminal login name. Leave both login fields blank for direct access.": "선택 사항인 가상 터미널 로그인 이름을 설정합니다. 직접 접속하려면 로그인 항목 둘 다 비워 두세요.",
     "Set an optional Virtual Terminal password. Leave both login fields blank for direct access.": "선택 사항인 가상 터미널 비밀번호를 설정합니다. 직접 접속하려면 로그인 항목 둘 다 비워 두세요.",
@@ -3870,7 +3859,6 @@
     "Tailscale": "테일스케일",
     "The address used before .local in a browser.\n\nFor example, muos becomes muos.local. This does not alter the device hostname.": "브라우저에서 .local 앞에 사용할 주소입니다.\n\n예를 들어 muos를 입력하면 muos.local이 됩니다. 기기의 호스트 이름은 변경되지 않습니다.",
     "The network port this service listens on.\n\nThe default suits almost everyone. Change it only if something else is already using that port.": "이 서비스가 수신 대기할 네트워크 포트입니다.\n\n대부분은 기본값으로 충분합니다. 다른 프로그램이 이미 같은 포트를 사용하는 경우에만 변경하세요.",
-    "The port used for SFTP file transfers.\n\nChange it only if something else is already using that port.": "SFTP 파일 전송에 사용할 포트입니다.\n\n다른 프로그램이 이미 같은 포트를 사용하는 경우에만 변경하세요.",
     "The port used to reach this service from a web browser.\n\nChange it only if something else is already using that port.": "웹 브라우저에서 이 서비스에 접속할 때 사용할 포트입니다.\n\n다른 프로그램이 이미 같은 포트를 사용하는 경우에만 변경하세요.",
     "Use 1 to 63 letters, numbers, or hyphens": "1~63자의 영문자, 숫자 또는 하이픈을 사용하세요",
     "Username": "사용자 이름",
@@ -3880,7 +3868,6 @@
     "Web Services": "웹 서비스",
     "Whether Remote View protects what is on the screen.\n\nEnabled, Remote View needs the code from Web Dashboard Code and never captures private screens such as Web Dashboard Code, passcodes and passwords. Disabled, anyone on your network can open Remote View without unlocking and every screen is captured, including the Web Dashboard Code, which lets them unlock the dashboard too.": "원격 보기에서 화면 내용을 보호할지 설정합니다.\n\n켜면 웹 대시보드 코드가 있어야 원격 보기를 사용할 수 있으며, 웹 대시보드 코드, 암호, 비밀번호 같은 비공개 화면은 캡처하지 않습니다. 끄면 네트워크에 연결된 누구나 잠금 해제 없이 원격 보기를 열 수 있고, 웹 대시보드 코드를 포함한 모든 화면을 캡처합니다. 따라서 대시보드 잠금 해제 코드도 노출될 수 있습니다.",
     "Whether Remote View shows buttons, volume and brightness controls that work the device from the browser. Enabled with Sticks also adds the analogue sticks, on devices that have them, and lets a game controller connected to the browser move them.\n\nThey need Authentication and the code from Web Dashboard Code, because anyone using them can do anything you can do with the device in your hands. With Authentication and Remote View Privacy both disabled, they are open to anyone on your network, but only while Remote View is set to Live.": "원격 보기에서 브라우저로 기기의 버튼, 음량, 밝기를 조작할 수 있는지 설정합니다. 스틱 포함 활성화를 선택하면 지원 기기의 아날로그 스틱도 추가되며, 브라우저에 연결된 게임 컨트롤러로 스틱을 움직일 수도 있습니다.\n\n이 기능을 사용하려면 인증과 웹 대시보드 코드가 필요합니다. 조작 권한이 있는 사람은 기기를 직접 잡고 있는 것처럼 모든 작업을 할 수 있기 때문입니다. 인증과 원격 보기 개인정보 보호를 모두 끄면 네트워크에 연결된 누구나 조작할 수 있지만, 원격 보기가 실시간으로 설정된 동안에만 가능합니다.",
-    "Whether changes made through the Web Dashboard need a code.\n\nDisabled, the dashboard can browse and download, and anyone on your network can change History and Collections and control Wasabi and Pickles without a code. The Editors and Tools cannot save to the device. Enabled, saving from the Editors and Tools, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Whether changes made through the Web Dashboard need a code.\n\nDisabled, the dashboard can browse and download, and anyone on your network can change History and Collections and control Wasabi and Pickles without a code. The Editors and Tools cannot save to the device. Enabled, saving from the Editors and Tools, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "이 서비스를 실행할지 설정합니다.\n\n활성화된 서비스는 약간의 배터리와 메모리를 사용하므로 사용하지 않는 것은 꺼두세요."
   }
 }

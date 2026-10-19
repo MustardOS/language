@@ -549,11 +549,9 @@
     "Save": "Save",
     "Save as image": "Save as image",
     "Save image": "Save image",
-    "Saves": "Saves",
     "Saving…": "Saving…",
     "Screen": "Screen",
     "Search": "Search",
-    "Secure Shell": "Secure Shell",
     "Select": "Select",
     "Serial Number": "Serial Number",
     "Services": "Services",
@@ -3656,12 +3654,10 @@
     "History": "Historik",
     "Input Remap": "Input Remap",
     "Language": "Language",
-    "Last Game": "Senaste Spelet",
     "Main Menu": "Huvudmeny",
     "Options": "Options",
     "Passcode Settings": "Passcode Settings",
     "Resolution, scaling and audio for when the device is plugged into a TV.": "Resolution, scaling and audio for when the device is plugged into a TV.",
-    "Resume Game": "Återuppta Spel",
     "Screenshot Hotkey": "Screenshot Hotkey",
     "Select your preferred language\n\nTranslations supported by Weblate": "Select your preferred language\n\nTranslations supported by Weblate",
     "Sets a code that must be entered at boot, before launching content, or before changing settings.\n\nUseful for keeping small hands out of your settings.": "Sets a code that must be entered at boot, before launching content, or before changing settings.\n\nUseful for keeping small hands out of your settings.",
@@ -3678,8 +3674,7 @@
     "Warm the screen colours on a sunrise and sunset schedule, which is easier on the eyes at night": "Warm the screen colours on a sunrise and sunset schedule, which is easier on the eyes at night",
     "Where sound is sent, whether that is the built in speakers, headphones, or something connected over Bluetooth.\n\nThis follows along on its own as you plug headphones in and take them out again.": "Where sound is sent, whether that is the built in speakers, headphones, or something connected over Bluetooth.\n\nThis follows along on its own as you plug headphones in and take them out again.",
     "Which button combination switches the DPAD between behaving normally and standing in for the sticks.": "Which button combination switches the DPAD between behaving normally and standing in for the sticks.",
-    "Which button combination takes a screenshot.": "Which button combination takes a screenshot.",
-    "Which screen the device opens on when it starts.\n\nSet it to Explore or a collection to land on your content without going through the menu first.": "Which screen the device opens on when it starts.\n\nSet it to Explore or a collection to land on your content without going through the menu first."
+    "Which button combination takes a screenshot.": "Which button combination takes a screenshot."
   },
   "muxvisual": {
     "A soft shadow behind list text and glyphs, which helps them stand off a busy wallpaper.": "A soft shadow behind list text and glyphs, which helps them stand off a busy wallpaper.",
@@ -3819,7 +3814,6 @@
     "Which artwork is preferred when a piece of content has more than one image to choose from.\n\nThe first kind that exists for an item is the one you will see.": "Which artwork is preferred when a piece of content has more than one image to choose from.\n\nThe first kind that exists for an item is the one you will see."
   },
   "muxwebcode": {
-    "Authentication is turned off, so the Web Dashboard cannot change anything and needs no code.": "Authentication is turned off, so the Web Dashboard cannot change anything and needs no code.",
     "Changes in %d seconds": "Changes in %d seconds",
     "IP Address": "IP Address",
     "Local Address": "Local Address",
@@ -3831,12 +3825,10 @@
   },
   "muxwebserv": {
     "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.": "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.",
-    "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.": "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.",
     "Authentication": "Authentication",
     "Enabled with Sticks": "Enabled with Sticks",
     "Enter a port from 1 to 65535": "Enter a port from 1 to 65535",
     "Enter both login fields or leave both blank": "Enter both login fields or leave both blank",
-    "File transfer and a browser based file manager.\n\nSelect this to open its settings.": "File transfer and a browser based file manager.\n\nSelect this to open its settings.",
     "How Live Remote View plays the sound from the device in the browser.\n\nLow uses the least network and waits longest before playing, so it suits a weak connection. High sounds best and plays soonest, but needs a strong connection. Medium sits between them.\n\nSound follows the same rules as the picture, so anyone who can watch Live Remote View can also hear it. It only works while Remote View is set to Live.": "How Live Remote View plays the sound from the device in the browser.\n\nLow uses the least network and waits longest before playing, so it suits a weak connection. High sounds best and plays soonest, but needs a strong connection. Medium sits between them.\n\nSound follows the same rules as the picture, so anyone who can watch Live Remote View can also hear it. It only works while Remote View is set to Live.",
     "How many pictures a second Live Remote View sends, from 5 to 60 in steps of 5.\n\nHigher is smoother but uses more processing on the device and more of your network, and the device may not reach the rate it is asked for. 15 is the default.": "How many pictures a second Live Remote View sends, from 5 to 60 in steps of 5.\n\nHigher is smoother but uses more processing on the device and more of your network, and the device may not reach the rate it is asked for. 15 is the default.",
     "How often the Web Dashboard may take a picture of the screen for Remote View. Live streams the screen as it changes, at the rate set by Live View FPS. Manual only takes a picture when you press Refresh now in the dashboard, so the picture never changes while you are looking at it.\n\nRemote View needs Authentication and the code from Web Dashboard Code. The screen is only captured while someone is watching, and never while a private screen such as Web Dashboard Code is open. Live uses more processing and network while it is open. Disabled hides Remote View from the dashboard.": "How often the Web Dashboard may take a picture of the screen for Remote View. Live streams the screen as it changes, at the rate set by Live View FPS. Manual only takes a picture when you press Refresh now in the dashboard, so the picture never changes while you are looking at it.\n\nRemote View needs Authentication and the code from Web Dashboard Code. The screen is only captured while someone is watching, and never while a private screen such as Web Dashboard Code is open. Live uses more processing and network while it is open. Disabled hides Remote View from the dashboard.",
@@ -3860,9 +3852,6 @@
     "Remote Controls": "Remote Controls",
     "Remote View": "Remote View",
     "Remote View Privacy": "Remote View Privacy",
-    "SFTP + Filebrowser": "SFTP + Filbläddrare",
-    "SFTP Port": "SFTP Port",
-    "Secure Shell": "Secure Shell",
     "Service": "Service",
     "Set an optional Virtual Terminal login name. Leave both login fields blank for direct access.": "Set an optional Virtual Terminal login name. Leave both login fields blank for direct access.",
     "Set an optional Virtual Terminal password. Leave both login fields blank for direct access.": "Set an optional Virtual Terminal password. Leave both login fields blank for direct access.",
@@ -3870,7 +3859,6 @@
     "Tailscale": "Tailscale",
     "The address used before .local in a browser.\n\nFor example, muos becomes muos.local. This does not alter the device hostname.": "The address used before .local in a browser.\n\nFor example, muos becomes muos.local. This does not alter the device hostname.",
     "The network port this service listens on.\n\nThe default suits almost everyone. Change it only if something else is already using that port.": "The network port this service listens on.\n\nThe default suits almost everyone. Change it only if something else is already using that port.",
-    "The port used for SFTP file transfers.\n\nChange it only if something else is already using that port.": "The port used for SFTP file transfers.\n\nChange it only if something else is already using that port.",
     "The port used to reach this service from a web browser.\n\nChange it only if something else is already using that port.": "The port used to reach this service from a web browser.\n\nChange it only if something else is already using that port.",
     "Use 1 to 63 letters, numbers, or hyphens": "Use 1 to 63 letters, numbers, or hyphens",
     "Username": "Username",
@@ -3880,7 +3868,6 @@
     "Web Services": "Web Services",
     "Whether Remote View protects what is on the screen.\n\nEnabled, Remote View needs the code from Web Dashboard Code and never captures private screens such as Web Dashboard Code, passcodes and passwords. Disabled, anyone on your network can open Remote View without unlocking and every screen is captured, including the Web Dashboard Code, which lets them unlock the dashboard too.": "Whether Remote View protects what is on the screen.\n\nEnabled, Remote View needs the code from Web Dashboard Code and never captures private screens such as Web Dashboard Code, passcodes and passwords. Disabled, anyone on your network can open Remote View without unlocking and every screen is captured, including the Web Dashboard Code, which lets them unlock the dashboard too.",
     "Whether Remote View shows buttons, volume and brightness controls that work the device from the browser. Enabled with Sticks also adds the analogue sticks, on devices that have them, and lets a game controller connected to the browser move them.\n\nThey need Authentication and the code from Web Dashboard Code, because anyone using them can do anything you can do with the device in your hands. With Authentication and Remote View Privacy both disabled, they are open to anyone on your network, but only while Remote View is set to Live.": "Whether Remote View shows buttons, volume and brightness controls that work the device from the browser. Enabled with Sticks also adds the analogue sticks, on devices that have them, and lets a game controller connected to the browser move them.\n\nThey need Authentication and the code from Web Dashboard Code, because anyone using them can do anything you can do with the device in your hands. With Authentication and Remote View Privacy both disabled, they are open to anyone on your network, but only while Remote View is set to Live.",
-    "Whether changes made through the Web Dashboard need a code.\n\nDisabled, the dashboard can browse and download, and anyone on your network can change History and Collections and control Wasabi and Pickles without a code. The Editors and Tools cannot save to the device. Enabled, saving from the Editors and Tools, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Whether changes made through the Web Dashboard need a code.\n\nDisabled, the dashboard can browse and download, and anyone on your network can change History and Collections and control Wasabi and Pickles without a code. The Editors and Tools cannot save to the device. Enabled, saving from the Editors and Tools, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use."
   }
 }

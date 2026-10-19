@@ -549,11 +549,9 @@
     "Save": "Zapisz",
     "Save as image": "Zapisz jako obraz",
     "Save image": "Zapisz obraz",
-    "Saves": "Zapisy",
     "Saving…": "Zapisywanie…",
     "Screen": "Ekran",
     "Search": "Szukaj",
-    "Secure Shell": "Bezpieczna powłoka",
     "Select": "Select",
     "Serial Number": "Numer seryjny",
     "Services": "Usługi",
@@ -3656,12 +3654,10 @@
     "History": "Historia",
     "Input Remap": "Przypisanie klawiszy",
     "Language": "Język",
-    "Last Game": "Ostatnia gra",
     "Main Menu": "Menu główne",
     "Options": "Opcje",
     "Passcode Settings": "Ustawienia kodów blokady",
     "Resolution, scaling and audio for when the device is plugged into a TV.": "Rozdzielczość, skalowanie i dźwięk, kiedy urządzenie jest podłączone do telewizora.",
-    "Resume Game": "Wznów grę",
     "Screenshot Hotkey": "Skrót zrzutu ekranu",
     "Select your preferred language\n\nTranslations supported by Weblate": "Wybierz preferowany język\n\nTłumaczenia są wspierane przez Weblate",
     "Sets a code that must be entered at boot, before launching content, or before changing settings.\n\nUseful for keeping small hands out of your settings.": "Ustawia hasło, które trzeba podać przy starcie urządzenia, przed uruchomieniem zawartości oraz przed zmianą ustawień.\n\nPrzydatne do trzymania małych rączek z dala od ustawień.",
@@ -3678,8 +3674,7 @@
     "Warm the screen colours on a sunrise and sunset schedule, which is easier on the eyes at night": "Ociepla kolory ekranu według harmonogramu dziennego i nocnego, co jest lepsze dla oczu w nocy",
     "Where sound is sent, whether that is the built in speakers, headphones, or something connected over Bluetooth.\n\nThis follows along on its own as you plug headphones in and take them out again.": "Dokąd wysyłany jest dźwięk, czy to do wbudowanych głośników, słuchawek lub do czegoś podłączonego przez Bluetooth.\n\nDziała to samodzielnie w momencie wpięcia słuchawek lub ich odpięcia.",
     "Which button combination switches the DPAD between behaving normally and standing in for the sticks.": "Która kombinacja przycisków zamienia tryb DPADa ze zwykłego na zastąpienie drążków.",
-    "Which button combination takes a screenshot.": "Która kombinacja przycisków robi zrzut ekranu.",
-    "Which screen the device opens on when it starts.\n\nSet it to Explore or a collection to land on your content without going through the menu first.": "Który widok ma być widoczny, kiedy urządzenie uruchamia się.\n\nUstaw na Przeglądaj lub kolekcję, by startować w menu zawartości, zamiast w głównym menu."
+    "Which button combination takes a screenshot.": "Która kombinacja przycisków robi zrzut ekranu."
   },
   "muxvisual": {
     "A soft shadow behind list text and glyphs, which helps them stand off a busy wallpaper.": "Miękki cień za tekstami na liście i ikonami, który pozwala się im wyróżnić.",
@@ -3819,7 +3814,6 @@
     "Which artwork is preferred when a piece of content has more than one image to choose from.\n\nThe first kind that exists for an item is the one you will see.": "Która okładka jest preferowana, kiedy zawartość ma więcej, niż jeden obraz to wyboru.\n\nPierwszy, który istnieje, jest tym, który się pokaże."
   },
   "muxwebcode": {
-    "Authentication is turned off, so the Web Dashboard cannot change anything and needs no code.": "Uwierzytelnienie jest wyłączone, więc Panel online nie może niczego zmienić oraz nie potrzebuje kodu.",
     "Changes in %d seconds": "Zmienia się za %d sekundy",
     "IP Address": "Adres IP",
     "Local Address": "Adres lokalny",
@@ -3831,12 +3825,10 @@
   },
   "muxwebserv": {
     "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.": "Strona główna w przeglądarce, która pokazuje, co robi urządzenie, aktywność, informacje systemowe, zdalny widok, kontrolowanie gry oraz narzędzia urządzenia.\n\nWybierz to, by otworzyć ustawienia.",
-    "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.": "Bezpieczny terminal do łączenia się z urządzeniem z komputera.\n\nWybierz to, by otworzyć ustawienia.",
     "Authentication": "Uwierzytelnienie",
     "Enabled with Sticks": "Włączone z drążkami",
     "Enter a port from 1 to 65535": "Wpisz port od 1 do 65535",
     "Enter both login fields or leave both blank": "Uzupełnij oba pola logowania lub pozostaw je puste",
-    "File transfer and a browser based file manager.\n\nSelect this to open its settings.": "Transfer plików i przeglądarkowy menedżer plików.\n\nWybierz to, by zobaczyć jego ustawienia.",
     "How Live Remote View plays the sound from the device in the browser.\n\nLow uses the least network and waits longest before playing, so it suits a weak connection. High sounds best and plays soonest, but needs a strong connection. Medium sits between them.\n\nSound follows the same rules as the picture, so anyone who can watch Live Remote View can also hear it. It only works while Remote View is set to Live.": "Jak Widok zdalny na żywo odgrywa dźwięki z urządzenia w przeglądarce.\n\nNiski używa najmniej sieci oraz czeka dłużej przed odegraniem, więc pasuje do słabych połączeń. Wysoki brzmi najlepiej i gra najwcześniej, ale wymaga szybkiego połączenia. Średni to coś pomiędzy.\n\nDźwięk kieruje się tymi zasadami, co obraz, więc każdy, kto widzi Widok zdalny na żywo, będzie też słyszał dźwięk. Działą tylko, kiedy Zdalny widok jest na żywo.",
     "How many pictures a second Live Remote View sends, from 5 to 60 in steps of 5.\n\nHigher is smoother but uses more processing on the device and more of your network, and the device may not reach the rate it is asked for. 15 is the default.": "Ile obrazów na sekundę wysyła Zdalny widok na żywo, od 5 do 60, w krokach po 5.\n\nWyższe jest płynniejsze, ale wykorzystuje więcej mocy przetwarzania urządzenia oraz więcej z twojej sieci, ponadto urządzenie może nie osiągnąć oczekiwanej wartości. 15 to wartość domyślna.",
     "How often the Web Dashboard may take a picture of the screen for Remote View. Live streams the screen as it changes, at the rate set by Live View FPS. Manual only takes a picture when you press Refresh now in the dashboard, so the picture never changes while you are looking at it.\n\nRemote View needs Authentication and the code from Web Dashboard Code. The screen is only captured while someone is watching, and never while a private screen such as Web Dashboard Code is open. Live uses more processing and network while it is open. Disabled hides Remote View from the dashboard.": "Jak często Panel online ma robić zdjęcie ekranu dla Zdalnego widoku. Na żywo strumieniuje ekran, kiedy się zmienia, zgodnie z częstotliwością ustawioną w FPS trybu na żywo. Ręcznie robi zdjęcie tylko wtedy, gdy wciśniesz Odśwież w panelu, więc obraz nigdy nie zmieni się, kiedy na niego patrzysz.\n\nZdalny widok wymaga Uwierzytelnienia oraz Kodu panelu online. Ekran jest przesyłany tylko wtedy, gdy ktoś ogląda, nigdy na ekranie prywatnym, jak w Kodzie panleu online. Na zywo używa więcej mocy obliczeniowej oraz sieci. Wyłączony ukrywa Zdalny widok z panelu.",
@@ -3860,9 +3852,6 @@
     "Remote Controls": "Zdalne sterowanie",
     "Remote View": "Widok zdalny",
     "Remote View Privacy": "Prywatność widoku zdalnego",
-    "SFTP + Filebrowser": "SFTP + Przeglądarka plików",
-    "SFTP Port": "Port SFTP",
-    "Secure Shell": "Secure Shell (SSH)",
     "Service": "Usługa",
     "Set an optional Virtual Terminal login name. Leave both login fields blank for direct access.": "Ustaw opcjonalną nazwę logowania dla Wirtualnego terminala. Pozostaw oba pola puste dla bezpośredniego dostępu.",
     "Set an optional Virtual Terminal password. Leave both login fields blank for direct access.": "Ustaw hasło Wirtualnego terminala. Pozostaw dana logowania puste dla bezpośredniego dostępu.",
@@ -3870,7 +3859,6 @@
     "Tailscale": "Tailscale",
     "The address used before .local in a browser.\n\nFor example, muos becomes muos.local. This does not alter the device hostname.": "Adres używany przed .local w przeglądarce.\n\nNa przykład muos staje się muos.local. Nie zmienia to nazwy hosta urządzenia.",
     "The network port this service listens on.\n\nThe default suits almost everyone. Change it only if something else is already using that port.": "Port sieciowy, na którym nasłuchuje ta usługa.\n\nDomyślna wartość pasuje praktycznie każdemu. Zmień ją tylko wtedy, gdy coś innego zajmuje ten port.",
-    "The port used for SFTP file transfers.\n\nChange it only if something else is already using that port.": "Port używany dla transferu plików przez SFTP.\n\nZmień tylko wtedy, gdy coś innego korzysta z tego portu.",
     "The port used to reach this service from a web browser.\n\nChange it only if something else is already using that port.": "Port używany do łączenia się z tą usługą z przeglądarki.\n\nZmień tylko, jeśli coś innego korzysta już z tego portu.",
     "Use 1 to 63 letters, numbers, or hyphens": "Użyj od 1 do 63 liter, cyfr lub myślników",
     "Username": "Nazwa użytkownika",
@@ -3880,7 +3868,6 @@
     "Web Services": "Usługi sieciowe",
     "Whether Remote View protects what is on the screen.\n\nEnabled, Remote View needs the code from Web Dashboard Code and never captures private screens such as Web Dashboard Code, passcodes and passwords. Disabled, anyone on your network can open Remote View without unlocking and every screen is captured, including the Web Dashboard Code, which lets them unlock the dashboard too.": "Czy Zdalny widok chroni to, co jest na ekranie.\n\nWłączony, Zdalny widok potrzebuje kodu z Kodu panelu online i nigdy nie robi zrzutów prywatnych ekranów, jak Kod panelu online oraz hasła. Wyłączony, każdy w sieci może otworzyć zdalny widok bez odblokowywania, a każdy ekran może zostać zrzucony, w tym Kod panelu online, co pozwala im odblokować panel.",
     "Whether Remote View shows buttons, volume and brightness controls that work the device from the browser. Enabled with Sticks also adds the analogue sticks, on devices that have them, and lets a game controller connected to the browser move them.\n\nThey need Authentication and the code from Web Dashboard Code, because anyone using them can do anything you can do with the device in your hands. With Authentication and Remote View Privacy both disabled, they are open to anyone on your network, but only while Remote View is set to Live.": "Czy Zdalny widok pokazuje przyciski, głośność oraz jasność, które sterują urządzeniem z przeglądarki. Włączony z drążkami dodaje analogowe drążki na urządzeniach, które je posiadają oraz pozwalają sterować przy użyciu kontrolera podłączonego do przeglądarki.\n\nWymaga to Uwierzytelnienia i Kodu panelu online, bo każdy, kto z tego korzysta może zrobić cokolwiek z twoim urządzeniem. Z wyłączonymi Uwierzytelnieniem oraz Prywatnością widoku zdalnego będą otwarte dla każdego w sieci, ale tylko wtedy, gdy Zdalny widok ustawiony jest na Na żywo.",
-    "Whether changes made through the Web Dashboard need a code.\n\nDisabled, the dashboard can browse and download, and anyone on your network can change History and Collections and control Wasabi and Pickles without a code. The Editors and Tools cannot save to the device. Enabled, saving from the Editors and Tools, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Czy zmiany w Panelu online wymagają kodu.\n\nWyłączone, panel może przeglądać i pobierać, a każdy w twojej sieci może zmieniać Historię i Kolekcje oraz kontrolować Wasabi i Pickles bez kodu. Edytory oraz Narzędzia nie mogą zapisywać do urządzenia. Włączone, zapisywanie z Edytorów i Narzędzi, wgrywanie oraz usuwanie są odblokowane, a każda zmiana pyta o Kod panelu online.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "Czy ta usługa działa.\n\nKażda z nich zwiększa użycie energii oraz pamięci, kiedy jest uruchomiona, więc wyłącz te, których nie używasz."
   }
 }

@@ -549,11 +549,9 @@
     "Save": "Guardar",
     "Save as image": "Guardar como imagen",
     "Save image": "Guardar imagen",
-    "Saves": "Guardados",
     "Saving…": "Guardando…",
     "Screen": "Pantalla",
     "Search": "Buscar",
-    "Secure Shell": "Consola segura",
     "Select": "Seleccionar",
     "Serial Number": "Número de serie",
     "Services": "Servicios",
@@ -3656,12 +3654,10 @@
     "History": "Historial",
     "Input Remap": "Reasignación de entrada",
     "Language": "Idioma",
-    "Last Game": "Último juego",
     "Main Menu": "Menú principal",
     "Options": "Opciones",
     "Passcode Settings": "Configuración de código de acceso",
     "Resolution, scaling and audio for when the device is plugged into a TV.": "Resolución, escalado y audio para cuando el dispositivo está conectado a un televisor.",
-    "Resume Game": "Reanudar juego",
     "Screenshot Hotkey": "Tecla de acceso rápido para captura de pantalla",
     "Select your preferred language\n\nTranslations supported by Weblate": "Selecciona tu idioma preferido\n\nTraducciones soportadas por Weblate",
     "Sets a code that must be entered at boot, before launching content, or before changing settings.\n\nUseful for keeping small hands out of your settings.": "Establece un código que debe introducirse al arrancar, antes de iniciar contenido o antes de cambiar los ajustes.\n\nÚtil para mantener las manos de los pequeños alejadas de tus ajustes.",
@@ -3678,8 +3674,7 @@
     "Warm the screen colours on a sunrise and sunset schedule, which is easier on the eyes at night": "Hace más cálidos los colores de la pantalla según el horario de amanecer y atardecer, lo que resulta más agradable para la vista por la noche",
     "Where sound is sent, whether that is the built in speakers, headphones, or something connected over Bluetooth.\n\nThis follows along on its own as you plug headphones in and take them out again.": "A dónde se envía el sonido, ya sea a los altavoces integrados, a los auriculares o a algo conectado por Bluetooth.\n\nEsto cambia automáticamente a medida que conectas y desconectas los auriculares.",
     "Which button combination switches the DPAD between behaving normally and standing in for the sticks.": "Qué combinación de botones cambia la cruceta (DPAD) entre comportarse normalmente y sustituir a los joysticks.",
-    "Which button combination takes a screenshot.": "Qué combinación de botones toma una captura de pantalla.",
-    "Which screen the device opens on when it starts.\n\nSet it to Explore or a collection to land on your content without going through the menu first.": "En qué pantalla se abre el dispositivo cuando se inicia.\n\nConfigúralo en Explorar (Explore) o en una colección para ir directamente a tu contenido sin pasar primero por el menú."
+    "Which button combination takes a screenshot.": "Qué combinación de botones toma una captura de pantalla."
   },
   "muxvisual": {
     "A soft shadow behind list text and glyphs, which helps them stand off a busy wallpaper.": "Una sombra suave detrás del texto de la lista y los iconos, lo que ayuda a que resalten sobre un fondo de pantalla cargado.",
@@ -3819,7 +3814,6 @@
     "Which artwork is preferred when a piece of content has more than one image to choose from.\n\nThe first kind that exists for an item is the one you will see.": "Qué carátula se prefiere cuando un elemento de contenido tiene más de una imagen para elegir.\n\nLa primera que exista para el elemento será la que verás."
   },
   "muxwebcode": {
-    "Authentication is turned off, so the Web Dashboard cannot change anything and needs no code.": "La autenticación está desactivada, por lo que el panel de control web no puede cambiar nada y no necesita código.",
     "Changes in %d seconds": "Cambia en %d segundos",
     "IP Address": "Dirección IP",
     "Local Address": "Dirección local",
@@ -3831,12 +3825,10 @@
   },
   "muxwebserv": {
     "A home page in the browser showing what the device is doing, with activity, system information, remote viewing, playback controls, and device tools.\n\nSelect this to open its settings.": "Una página de inicio en el navegador que muestra lo que está haciendo el dispositivo, con actividad, información del sistema, visualización remota, controles de reproducción y herramientas del dispositivo.\n\nSelecciona esto para abrir sus ajustes.",
-    "A secure shell for connecting to the device from a computer.\n\nSelect this to open its settings.": "Una consola segura para conectarse al dispositivo desde un ordenador.\n\nSelecciona esto para abrir sus ajustes.",
     "Authentication": "Autenticación",
     "Enabled with Sticks": "Habilitado con joysticks",
     "Enter a port from 1 to 65535": "Introduce un puerto del 1 al 65535",
     "Enter both login fields or leave both blank": "Introduce ambos campos de inicio de sesión o deja ambos en blanco",
-    "File transfer and a browser based file manager.\n\nSelect this to open its settings.": "Transferencia de archivos y un administrador de archivos basado en navegador.\n\nSelecciona esto para abrir sus ajustes.",
     "How Live Remote View plays the sound from the device in the browser.\n\nLow uses the least network and waits longest before playing, so it suits a weak connection. High sounds best and plays soonest, but needs a strong connection. Medium sits between them.\n\nSound follows the same rules as the picture, so anyone who can watch Live Remote View can also hear it. It only works while Remote View is set to Live.": "Cómo reproduce en el navegador el sonido del dispositivo la vista remota en directo.\n\nBajo utiliza la menor cantidad de red y espera más tiempo antes de reproducir, por lo que es adecuado para una conexión débil. Alto suena mejor y se reproduce antes, pero necesita una conexión fuerte. Medio se sitúa entre ambos.\n\nEl sonido sigue las mismas reglas que la imagen, por lo que cualquiera que pueda ver la vista remota en directo también puede escucharla. Solo funciona mientras la vista remota esté configurada en En directo.",
     "How many pictures a second Live Remote View sends, from 5 to 60 in steps of 5.\n\nHigher is smoother but uses more processing on the device and more of your network, and the device may not reach the rate it is asked for. 15 is the default.": "Cuántas imágenes por segundo envía la vista remota en directo, de 5 a 60 en pasos de 5.\n\nUn valor más alto es más fluido pero consume más procesamiento en el dispositivo y más ancho de banda en tu red, y es posible que el dispositivo no alcance la tasa solicitada. 15 es el valor por defecto.",
     "How often the Web Dashboard may take a picture of the screen for Remote View. Live streams the screen as it changes, at the rate set by Live View FPS. Manual only takes a picture when you press Refresh now in the dashboard, so the picture never changes while you are looking at it.\n\nRemote View needs Authentication and the code from Web Dashboard Code. The screen is only captured while someone is watching, and never while a private screen such as Web Dashboard Code is open. Live uses more processing and network while it is open. Disabled hides Remote View from the dashboard.": "Con qué frecuencia el panel de control web puede tomar una imagen de la pantalla para la vista remota. En directo transmite la pantalla a medida que cambia, a la velocidad establecida por FPS de vista en directo. Manual solo toma una imagen cuando pulsas Actualizar ahora en el panel de control, por lo que la imagen nunca cambia mientras la estás mirando.\n\nLa vista remota necesita Autenticación y el código de Código del panel de control web. La pantalla solo se captura mientras alguien la está viendo, y nunca mientras esté abierta una pantalla privada como Código del panel de control web. En directo utiliza más procesamiento y red mientras está abierta. Desactivado oculta la vista remota del panel de control.",
@@ -3860,9 +3852,6 @@
     "Remote Controls": "Controles remotos",
     "Remote View": "Vista remota",
     "Remote View Privacy": "Privacidad de la vista remota",
-    "SFTP + Filebrowser": "SFTP + Explorador de archivos",
-    "SFTP Port": "Puerto SFTP",
-    "Secure Shell": "Terminal seguro",
     "Service": "Servicio",
     "Set an optional Virtual Terminal login name. Leave both login fields blank for direct access.": "Establece un nombre de usuario opcional para la Terminal Virtual. Deja ambos campos en blanco para acceso directo.",
     "Set an optional Virtual Terminal password. Leave both login fields blank for direct access.": "Establece una contraseña opcional para la Terminal Virtual. Deja ambos campos en blanco para acceso directo.",
@@ -3870,7 +3859,6 @@
     "Tailscale": "Tailscale",
     "The address used before .local in a browser.\n\nFor example, muos becomes muos.local. This does not alter the device hostname.": "La dirección utilizada antes de .local en un navegador.\n\nPor ejemplo, muos se convierte en muos.local. Esto no altera el nombre de host del dispositivo.",
     "The network port this service listens on.\n\nThe default suits almost everyone. Change it only if something else is already using that port.": "El puerto de red en el que escucha este servicio.\n\nEl predeterminado se adapta a casi todos. Cámbialo solo si otro servicio ya está usando ese puerto.",
-    "The port used for SFTP file transfers.\n\nChange it only if something else is already using that port.": "El puerto utilizado para las transferencias de archivos SFTP.\n\nCámbialo solo si otro servicio ya está usando ese puerto.",
     "The port used to reach this service from a web browser.\n\nChange it only if something else is already using that port.": "El puerto utilizado para acceder a este servicio desde un navegador web.\n\nCámbialo solo si otro servicio ya está usando ese puerto.",
     "Use 1 to 63 letters, numbers, or hyphens": "Usa de 1 a 63 letras, números o guiones",
     "Username": "Nombre de usuario",
@@ -3880,7 +3868,6 @@
     "Web Services": "Servicios web",
     "Whether Remote View protects what is on the screen.\n\nEnabled, Remote View needs the code from Web Dashboard Code and never captures private screens such as Web Dashboard Code, passcodes and passwords. Disabled, anyone on your network can open Remote View without unlocking and every screen is captured, including the Web Dashboard Code, which lets them unlock the dashboard too.": "Si la vista remota protege lo que hay en la pantalla.\n\nActivado, la vista remota necesita el código de Código del panel de control web y nunca captura pantallas privadas como Código del panel de control web, códigos de acceso y contraseñas. Desactivado, cualquier persona en tu red puede abrir la vista remota sin desbloquear y se captura cada pantalla, incluyendo el Código del panel de control web, lo que les permite desbloquear el panel de control también.",
     "Whether Remote View shows buttons, volume and brightness controls that work the device from the browser. Enabled with Sticks also adds the analogue sticks, on devices that have them, and lets a game controller connected to the browser move them.\n\nThey need Authentication and the code from Web Dashboard Code, because anyone using them can do anything you can do with the device in your hands. With Authentication and Remote View Privacy both disabled, they are open to anyone on your network, but only while Remote View is set to Live.": "Si la vista remota muestra botones y controles de volumen y brillo que manejan el dispositivo desde el navegador. Habilitado con joysticks también añade los sticks analógicos, en los dispositivos que los tengan, y permite que un mando conectado al navegador los mueva.\n\nNecesitan Autenticación y el código de Código del panel de control web, porque cualquiera que los use puede hacer todo lo que tú puedes hacer con el dispositivo en tus manos. Con la Autenticación y la Privacidad de la vista remota desactivadas, están abiertos a cualquiera en tu red, pero solo mientras la vista remota esté configurada en En directo.",
-    "Whether changes made through the Web Dashboard need a code.\n\nDisabled, the dashboard can browse and download, and anyone on your network can change History and Collections and control Wasabi and Pickles without a code. The Editors and Tools cannot save to the device. Enabled, saving from the Editors and Tools, uploading and deleting are unlocked, and each change asks for the code from Web Dashboard Code.": "Si los cambios realizados a través del panel de control web necesitan un código.\n\nDesactivado, el panel de control puede explorar y descargar, y cualquier persona en tu red puede cambiar el Historial y las Colecciones y controlar Wasabi y Pickles sin un código. Los Editores y las Herramientas no pueden guardar en el dispositivo. Activado, se desbloquean el guardado desde los Editores y las Herramientas, la subida y la eliminación, y cada cambio solicita el código de Código del panel de control web.",
     "Whether this service runs.\n\nEach one costs a little battery and memory while it is on, so leave off what you do not use.": "Si este servicio se ejecuta.\n\nCada uno consume un poco de batería y memoria mientras está activado, así que deja desactivados los que no uses."
   }
 }
