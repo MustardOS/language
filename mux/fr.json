@@ -1010,20 +1010,20 @@
     "Shows the details of one paired Bluetooth device and what you can do with it, including connecting, disconnecting and forgetting it entirely.": "Affiche les détails d'un appareil Bluetooth associé et les actions possibles : le connecter, le déconnecter ou l'oublier définitivement.",
     "Speaker": "Enceinte",
     "Status": "Statut",
-    "The charge this device reports, where it reports one at all.\n\nPlenty of them never do for whatever reason.": "The charge this device reports, where it reports one at all.\n\nPlenty of them never do for whatever reason.",
-    "The name this device shows under.\n\nIt comes from the device itself, so it is whatever its maker chose to call it.": "The name this device shows under.\n\nIt comes from the device itself, so it is whatever its maker chose to call it.",
-    "The unique hardware address of this device.\n\nHandy for telling apart two devices sharing the same name.": "The unique hardware address of this device.\n\nHandy for telling apart two devices sharing the same name.",
+    "The charge this device reports, where it reports one at all.\n\nPlenty of them never do for whatever reason.": "La charge indiquée par cet appareil, s’il en indique une.\n\nBeaucoup ne le font jamais, pour une raison ou une autre.",
+    "The name this device shows under.\n\nIt comes from the device itself, so it is whatever its maker chose to call it.": "Le nom sous lequel cet appareil apparaît.\n\nIl est fourni par l’appareil lui-même, c’est donc celui choisi par son fabricant.",
+    "The unique hardware address of this device.\n\nHandy for telling apart two devices sharing the same name.": "L’adresse matérielle unique de cet appareil.\n\nPratique pour distinguer deux appareils portant le même nom.",
     "Unknown": "Inconnu",
     "What sort of device this is, such as a controller, a headset or a speaker.": "Type d’appareil, comme une manette, un casque ou une enceinte."
   },
   "muxcharge": {
-    "Booting System - Please Wait...": "Booting System - Please Wait...",
+    "Booting System - Please Wait...": "Démarrage du système - Veuillez patienter...",
     "Capacity": "Capacité",
-    "Press START button to continue booting...": "Press START button to continue booting...",
+    "Press START button to continue booting...": "Appuyez sur START pour poursuivre le démarrage...",
     "Voltage": "Tension"
   },
   "muxcolfilter": {
-    "Applies a colour filter to the content you selected, which shifts how colours are drawn on screen. Useful for matching the look of the original display.": "Applies a colour filter to the content you selected, which shifts how colours are drawn on screen. Useful for matching the look of the original display.",
+    "Applies a colour filter to the content you selected, which shifts how colours are drawn on screen. Useful for matching the look of the original display.": "Applique un filtre de couleur au contenu sélectionné, ce qui modifie le rendu des couleurs à l’écran. Pratique pour retrouver l’aspect de l’écran d’origine.",
     "Change the colour filter of your current selected content": "Modifiez le filtre de couleur du contenu sélectionné",
     "Colour Filter": "Filtre de couleur",
     "No Colour Filters Found...": "Aucun filtre de couleur trouvé…"
@@ -1034,8 +1034,8 @@
     "Error loading content file": "Erreur lors du chargement du fichier",
     "Error removing from Collections": "Erreur lors de la suppression des collections",
     "Highlight anything in Explore Content or History and choose Collect to start building a collection.": "Sélectionnez un élément dans l’Explorateur ou l’Historique, puis choisissez Collectionner pour commencer votre collection.",
-    "Nothing Saved Yet...": "Nothing Saved Yet...",
-    "Your own area for the things you come back to. Group them however you like, by theme, by system, or by nothing in particular.\n\nAnything can go in a collection without moving from where it lives.\n\nL1 and R1 jump a page at a time, and R2 picks something at random. Fun!": "Your own area for the things you come back to. Group them however you like, by theme, by system, or by nothing in particular.\n\nAnything can go in a collection without moving from where it lives.\n\nL1 and R1 jump a page at a time, and R2 picks something at random. Fun!"
+    "Nothing Saved Yet...": "Aucune sauvegarde pour l’instant...",
+    "Your own area for the things you come back to. Group them however you like, by theme, by system, or by nothing in particular.\n\nAnything can go in a collection without moving from where it lives.\n\nL1 and R1 jump a page at a time, and R2 picks something at random. Fun!": "Votre espace à vous pour ce que vous aimez retrouver. Regroupez vos contenus comme vous le souhaitez : par thème, par système, ou sans logique particulière.\n\nN’importe quoi peut être ajouté à une collection sans être déplacé de son emplacement d’origine.\nL1 et R1 font défiler page par page, et R2 choisit quelque chose au hasard. Sympa!"
   },
   "muxconfig": {
     "Apply a group of settings in one step, including ready-made accessibility profiles for easier reading and calmer movement.\n\nYou can also save your own settings as a profile to keep or share.": "Apply a group of settings in one step, including ready-made accessibility profiles for easier reading and calmer movement.\n\nYou can also save your own settings as a profile to keep or share.",
