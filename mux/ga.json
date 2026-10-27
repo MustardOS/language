@@ -1247,10 +1247,8 @@
     "Overrides the height of the footer bar, in pixels.\n\nLeave it on Default to use whatever the theme asks for.": "Sáraíonn sé airde an bharra bunús, i bpicteilíní.\n\nFág ar Réamhshocrú é chun cibé rud a iarrann an téama a úsáid.",
     "Overrides the height of the header bar, in pixels.\n\nLeave it on Default to use whatever the theme asks for.": "Sáraíonn sé airde an bharra ceanntásca, i bpicteilíní.\n\nFág ar Réamhshocrú é chun cibé rud a iarrann an téama a úsáid.",
     "Packages": "Pacáistí",
-    "Pickles Startup Messages": "Teachtaireachtaí Tosaithe Pickles",
     "Picks a different theme each time the device starts, chosen from the ones you have installed.\n\nLeave it off if you would rather the theme you chose stayed put.": "Roghnaíonn sé téama difriúil gach uair a thosaíonn an gléas, á roghnú as na cinn atá suiteáilte agat.\n\nFág múchta é má b’fhearr leat go bhfanfadh an téama a roghnaigh tú i bhfeidhm.",
     "Plays the theme's video wallpaper behind the menus, where the theme provides one.\n\nIt costs a little battery, so turn it off if you would rather keep that.": "Seinneann sé páipéar balla físe an téama taobh thiar de na roghchláir, áit a soláthraíonn an téama ceann.\n\nCosnaíonn sé beagán ceallraí, mar sin múch é más fearr leat é sin a choinneáil.",
-    "Power Off Effect": "Power Off Effect",
     "Press A": "Brúigh A",
     "Random Theme on Boot": "Téama Randamach ar Thosú",
     "RetroArch Configurations": "Cumraíochtaí RetroArch",
@@ -1571,8 +1569,6 @@
   "muxinfo": {
     "Activity Tracker": "Rianaitheoir Gníomhaíochta",
     "Checks that every button and stick reports correctly.\n\nThe place to start if a control feels unresponsive.": "Seiceálann sé go dtugann gach cnaipe agus bata tuairisc i gceart.\n\nAn áit le tosú mura bhfuil rialú ag freagairt.",
-    "Community News": "Nuacht Pobail",
-    "Community news and announcements, fetched while you are online.": "Nuacht agus fógraí pobail, a fhaightear agus tú ar líne.",
     "Device Details": "Sonraí an Ghléis",
     "Every screenshot taken on this device, with the option to remove ones you no longer want.": "Gach scáileán a tógadh ar an ngléas seo, leis an rogha cinn nach dteastaíonn uait a thuilleadh a bhaint.",
     "Everything about the device itself, its battery and its network connection, grouped into sections.": "Gach rud faoin bhfeiste féin, a ceallraí agus a nasc líonra, grúpáilte i rannóga.",
@@ -1582,7 +1578,6 @@
     "Input Tester": "Tástálaí Ionchurtha",
     "Reload Frontend": "Athlódáil an Tosaigh",
     "Reloading Frontend...": "Ag athlódáil an Tosaigh...",
-    "Reports what your device is doing, covering system and battery details, network status, storage use, play activity and the community news feed.": "Tuairiscíonn sé cad atá á dhéanamh ag do ghléas, ag clúdach sonraí an chórais agus na ceallraí, stádas an líonra, úsáid stórála, gníomhaíocht súgartha agus fotha nuachta an phobail.",
     "Restarts the frontend so it picks up any configuration or theme changes.\n\nQuicker than a full reboot, and your content is left alone.": "Atosaíonn sé an taobh tosaigh ionas go nglacfaidh sé le haon athruithe ar chumraíocht nó téama.\n\nNíos tapúla ná atosú iomlán, agus fágtar d’ábhar ina aonar.",
     "Screenshots": "Seatanna scáileáin",
     "Storage Space": "Spás Stórála",
@@ -2062,14 +2057,6 @@
     "Scan for a nearby network and enter its password to save a profile.": "Déan scanadh le haghaidh líonra in aice láimhe agus cuir isteach a phasfhocal chun próifíl a shábháil.",
     "Wi-Fi Network": "Líonra Wi-Fi",
     "Wired Ethernet Connection": "Wired Ethernet Connection"
-  },
-  "muxnews": {
-    "Community News": "Nuacht Pobail",
-    "Downloading Community News...": "Ag íoslódáil Nuacht Pobail...",
-    "Downloading Post...": "Ag íoslódáil an Phoist...",
-    "Error Obtaining Community News": "Earráid agus Nuacht Pobail á Fháil",
-    "No News Found...": "Níor aimsíodh aon nuacht...",
-    "Shows announcements from the MustardOS crew, covering releases, changes and anything worth knowing about your device. Select an entry to read it in full and scroll with the D-pad.": "Taispeánann sé fógraí ó chriú MustardOS, ag clúdach eisiúintí, athruithe agus aon rud is fiú a bheith ar eolas agat faoi do ghléas. Roghnaigh iontráil chun í a léamh ina hiomláine agus scrollaigh leis an D-pad."
   },
   "muxoption": {
     "A tag for this content, which changes the glyph shown beside it in lists.": "Clib don ábhar seo, a athraíonn an glifín a thaispeántar in aice leis i liostaí.",
@@ -3816,7 +3803,6 @@
     "Choose whether the shoulder buttons move a page at a time or jump to the next starting letter\n\nLetter jumping needs an alphabetical sort order, so any other sort falls back to moving a page at a time": "Roghnaigh an mbogann na cnaipí gualainne leathanach amháin ag an am nó an léimfidh siad go dtí an chéad litir tosaigh eile\n\nTeastaíonn ord sórtála aibítre chun litreacha a léim, mar sin ní mór leathanach amháin a bhogadh ag an am le haghaidh aon sórtála eile",
     "Chooses what appears on screen, from the clock and battery through to folder counts, scrolling labels and which hints are shown.": "Roghnaíonn sé seo cad a thaispeántar ar an scáileán, ón gclog agus an ceallraí go comhaireamh na bhfillteán, lipéid scrollaigh agus cé na leideanna a thaispeántar.",
     "Clock": "Clog",
-    "Collapse the content picture like an old television when leaving Pickles or Wasabi. Reduce Motion disables this effect.": "Collapse the content picture like an old television when leaving Pickles or Wasabi. Reduce Motion disables this effect.",
     "Collection In Content": "Bailiúchán in Ábhar",
     "Content": "Ábhar",
     "Continuous": "Leanúnach",
@@ -3895,7 +3881,6 @@
     "Show Hidden Content": "Taispeáin Ábhar Hidden",
     "Show a colon instead of a dash in content names, which often reads a little cleaner": "Taispeáin idirstad in ionad fleasc in ainmneacha ábhair, rud a léann beagán níos glaine go minic",
     "Show or hide Pickles content start-up and RetroAchievements connection messages": "Taispeáin nó folaigh teachtaireachtaí tosaithe ábhair Pickles agus nasc RetroAchievements",
-    "Shows content artwork while Pickles prepares the game. Splash catalogues can use still images, animated GIF or APNG images, and MP4 video.": "Shows content artwork while Pickles prepares the game. Splash catalogues can use still images, animated GIF or APNG images, and MP4 video.",
     "Shows the theme's stand in image when an item has no artwork of its own.\n\nTurn it off if you would rather have empty space than a placeholder.": "Taispeánann sé seasamh an téama san íomhá nuair nach bhfuil saothar ealaíne ag mír dá chuid féin.\n\nMúch é más fearr leat spás folamh seachas áitchoinneálaí.",
     "Shows your most recent save picture in place of the box art for anything played through Pickles.\n\nItems you have not saved yet keep their usual artwork.": "Taispeántar an íomhá shábháilte is déanaí agat in áit ealaín an bhosca d’aon rud a imrítear trí Pickles.\n\nCoinníonn míreanna nár shábháil tú go fóill a ngnáth-ealaín.",
     "Single Group": "Grúpa Aonair",

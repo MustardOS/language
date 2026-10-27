@@ -1247,10 +1247,8 @@
     "Overrides the height of the footer bar, in pixels.\n\nLeave it on Default to use whatever the theme asks for.": "フッターバーの高さをピクセルで上書きします。\n\nデフォルトのままにすると、テーマの指定に従います。",
     "Overrides the height of the header bar, in pixels.\n\nLeave it on Default to use whatever the theme asks for.": "ヘッダーバーの高さをピクセルで上書きします。\n\nデフォルトのままにすると、テーマの指定に従います。",
     "Packages": "パッケージ",
-    "Pickles Startup Messages": "Pickles 起動メッセージ",
     "Picks a different theme each time the device starts, chosen from the ones you have installed.\n\nLeave it off if you would rather the theme you chose stayed put.": "デバイスを起動するたびに、インストール済みのテーマからランダムに 1 つ選びます。\n\n選んだテーマをそのままにしたい場合は、オフにしてください。",
     "Plays the theme's video wallpaper behind the menus, where the theme provides one.\n\nIt costs a little battery, so turn it off if you would rather keep that.": "テーマが動画壁紙を提供している場合、メニューの背後で再生します。\n\n少しバッテリーを消費するため、節約したい場合はオフにしてください。",
-    "Power Off Effect": "電源オフ時の演出",
     "Press A": "A ボタンを押す",
     "Random Theme on Boot": "起動時にランダムなテーマ",
     "RetroArch Configurations": "RetroArch 設定集",
@@ -1571,8 +1569,6 @@
   "muxinfo": {
     "Activity Tracker": "アクティビティトラッカー",
     "Checks that every button and stick reports correctly.\n\nThe place to start if a control feels unresponsive.": "すべてのボタンとスティックが正しく入力されているか確認します。\n\n操作が反応しないと感じたら、まずここから確認してください。",
-    "Community News": "コミュニティニュース",
-    "Community news and announcements, fetched while you are online.": "オンライン時に取得される、コミュニティのニュースやお知らせ。",
     "Device Details": "デバイスの詳細",
     "Every screenshot taken on this device, with the option to remove ones you no longer want.": "このデバイスで撮影したすべてのスクリーンショット。不要なものは削除できます。",
     "Everything about the device itself, its battery and its network connection, grouped into sections.": "デバイス自体、バッテリー、ネットワーク接続に関するすべての情報を、セクションごとにまとめています。",
@@ -1582,7 +1578,6 @@
     "Input Tester": "入力テスト",
     "Reload Frontend": "フロントエンドを再読み込み",
     "Reloading Frontend...": "フロントエンドを再読み込みしています...",
-    "Reports what your device is doing, covering system and battery details, network status, storage use, play activity and the community news feed.": "デバイスの状況（システムとバッテリーの詳細、ネットワーク状態、ストレージ使用量、プレイ状況、コミュニティニュースフィード）を表示します。",
     "Restarts the frontend so it picks up any configuration or theme changes.\n\nQuicker than a full reboot, and your content is left alone.": "フロントエンドを再起動し、設定やテーマの変更を反映します。\n\n完全な再起動より速く、コンテンツには影響しません。",
     "Screenshots": "スクリーンショット",
     "Storage Space": "ストレージ容量",
@@ -2062,14 +2057,6 @@
     "Scan for a nearby network and enter its password to save a profile.": "近くのネットワークをスキャンし、パスワードを入力してプロファイルを保存します。",
     "Wi-Fi Network": "Wi-Fi ネットワーク",
     "Wired Ethernet Connection": "有線イーサネット接続"
-  },
-  "muxnews": {
-    "Community News": "コミュニティニュース",
-    "Downloading Community News...": "コミュニティニュースをダウンロードしています...",
-    "Downloading Post...": "投稿をダウンロードしています...",
-    "Error Obtaining Community News": "コミュニティニュースの取得中にエラーが発生しました",
-    "No News Found...": "ニュースが見つかりません...",
-    "Shows announcements from the MustardOS crew, covering releases, changes and anything worth knowing about your device. Select an entry to read it in full and scroll with the D-pad.": "MustardOS クルーからのお知らせ（リリース、変更点、デバイスについて知っておくべきこと）を表示します。項目を選ぶと全文を読め、十字キーでスクロールできます。"
   },
   "muxoption": {
     "A tag for this content, which changes the glyph shown beside it in lists.": "このコンテンツのタグ。リストで横に表示されるアイコンが変わります。",
@@ -3816,7 +3803,6 @@
     "Choose whether the shoulder buttons move a page at a time or jump to the next starting letter\n\nLetter jumping needs an alphabetical sort order, so any other sort falls back to moving a page at a time": "ショルダーボタンで 1 ページずつ移動するか、次の頭文字へジャンプするかを選びます\n\n文字ジャンプにはアルファベット順の並べ替えが必要なため、それ以外の並べ替えでは、1 ページずつの移動になります",
     "Chooses what appears on screen, from the clock and battery through to folder counts, scrolling labels and which hints are shown.": "画面に表示する内容（時計とバッテリー、フォルダ数、スクロールするラベル、表示するヒントなど）を選びます。",
     "Clock": "時計",
-    "Collapse the content picture like an old television when leaving Pickles or Wasabi. Reduce Motion disables this effect.": "Pickles または Wasabi を終了するときに、古いテレビのようにコンテンツの映像を縮小します。「動きを減らす」を設定すると、この効果は無効になります。",
     "Collection In Content": "コンテンツ一覧のコレクション表示",
     "Content": "コンテンツ",
     "Continuous": "連続",
@@ -3895,7 +3881,6 @@
     "Show Hidden Content": "不可視コンテンツの表示",
     "Show a colon instead of a dash in content names, which often reads a little cleaner": "コンテンツ名のダッシュの代わりにコロンを表示します。多くの場合、少しすっきり読めます",
     "Show or hide Pickles content start-up and RetroAchievements connection messages": "Pickles のコンテンツ起動メッセージと RetroAchievements の接続メッセージを表示・非表示にします",
-    "Shows content artwork while Pickles prepares the game. Splash catalogues can use still images, animated GIF or APNG images, and MP4 video.": "Pickles がゲームを準備している間、コンテンツのアートワークを表示します。スプラッシュカタログには、静止画像、アニメーション GIF または APNG 画像、MP4 動画が使えます。",
     "Shows the theme's stand in image when an item has no artwork of its own.\n\nTurn it off if you would rather have empty space than a placeholder.": "項目に独自のアートワークがない場合、テーマの代替画像を表示します。\n\n代替より空白のほうが良い場合は、オフにしてください。",
     "Shows your most recent save picture in place of the box art for anything played through Pickles.\n\nItems you have not saved yet keep their usual artwork.": "Pickles でプレイしたものについて、ボックスアートの代わりに直近のセーブ画像を表示します。\n\nまだセーブしていない項目は、通常のアートワークのままです。",
     "Single Group": "単一グループ",
