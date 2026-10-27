@@ -1247,10 +1247,8 @@
     "Overrides the height of the footer bar, in pixels.\n\nLeave it on Default to use whatever the theme asks for.": "푸터 바 높이를 픽셀 단위로 재정의합니다.\n\n테마 설정을 사용하려면 기본값으로 두세요.",
     "Overrides the height of the header bar, in pixels.\n\nLeave it on Default to use whatever the theme asks for.": "헤더 바 높이를 픽셀 단위로 재정의합니다.\n\n테마 설정을 사용하려면 기본값으로 두세요.",
     "Packages": "패키지",
-    "Pickles Startup Messages": "Pickles 시작 메시지",
     "Picks a different theme each time the device starts, chosen from the ones you have installed.\n\nLeave it off if you would rather the theme you chose stayed put.": "기기를 시작할 때마다 설치된 테마 중 하나를 무작위로 선택합니다.\n\n선택한 테마를 계속 유지하려면 끄세요.",
     "Plays the theme's video wallpaper behind the menus, where the theme provides one.\n\nIt costs a little battery, so turn it off if you would rather keep that.": "테마가 비디오 배경을 제공하는 경우 메뉴 뒤에서 재생합니다.\n\n배터리를 조금 더 사용하므로 절약하려면 끄세요.",
-    "Power Off Effect": "전원 끄기 효과",
     "Press A": "A 누르기",
     "Random Theme on Boot": "부팅시 랜덤 테마",
     "RetroArch Configurations": "레트로아크 구성",
@@ -1571,8 +1569,6 @@
   "muxinfo": {
     "Activity Tracker": "활동 추적기",
     "Checks that every button and stick reports correctly.\n\nThe place to start if a control feels unresponsive.": "모든 버튼과 스틱이 올바르게 입력되는지 확인합니다.\n\n조작이 제대로 반응하지 않을 때 먼저 확인할 곳입니다.",
-    "Community News": "커뮤니티 뉴스",
-    "Community news and announcements, fetched while you are online.": "온라인 상태에서 가져오는 커뮤니티 뉴스와 공지입니다.",
     "Device Details": "기기 상세 정보",
     "Every screenshot taken on this device, with the option to remove ones you no longer want.": "이 기기에서 촬영한 모든 스크린샷을 표시하며 필요 없는 항목을 삭제할 수 있습니다.",
     "Everything about the device itself, its battery and its network connection, grouped into sections.": "기기 자체, 배터리 및 네트워크 연결 정보를 섹션별로 표시합니다.",
@@ -1582,7 +1578,6 @@
     "Input Tester": "인풋 테스트기",
     "Reload Frontend": "프런트엔드 리로드",
     "Reloading Frontend...": "프런트엔드 다시 불러오는 중...",
-    "Reports what your device is doing, covering system and battery details, network status, storage use, play activity and the community news feed.": "시스템 및 배터리 정보, 네트워크 상태, 저장소 사용량, 플레이 활동 및 커뮤니티 뉴스 피드를 포함해 기기의 현재 상태를 보여줍니다.",
     "Restarts the frontend so it picks up any configuration or theme changes.\n\nQuicker than a full reboot, and your content is left alone.": "프런트엔드를 다시 시작해 구성이나 테마 변경 사항을 적용합니다.\n\n전체 재부팅보다 빠르며 콘텐츠에는 영향을 주지 않습니다.",
     "Screenshots": "스크린샷",
     "Storage Space": "저장 공간",
@@ -2062,14 +2057,6 @@
     "Scan for a nearby network and enter its password to save a profile.": "주변 네트워크를 검색하고 비밀번호를 입력해 프로필로 저장합니다.",
     "Wi-Fi Network": "Wi-Fi 네트워크",
     "Wired Ethernet Connection": "유선 이더넷 연결"
-  },
-  "muxnews": {
-    "Community News": "커뮤니티 뉴스",
-    "Downloading Community News...": "커뮤니티 뉴스 다운로드 중...",
-    "Downloading Post...": "게시물 다운로드 중...",
-    "Error Obtaining Community News": "커뮤니티 뉴스 가져오기 오류",
-    "No News Found...": "뉴스를 찾을 수 없음...",
-    "Shows announcements from the MustardOS crew, covering releases, changes and anything worth knowing about your device. Select an entry to read it in full and scroll with the D-pad.": "MustardOS 팀의 릴리스, 변경 사항 및 기기 관련 공지를 표시합니다. 항목을 선택해 전체 내용을 읽고 DPAD로 스크롤할 수 있습니다."
   },
   "muxoption": {
     "A tag for this content, which changes the glyph shown beside it in lists.": "이 콘텐츠의 태그입니다. 목록에서 옆에 표시되는 글리프가 바뀝니다.",
@@ -3816,7 +3803,6 @@
     "Choose whether the shoulder buttons move a page at a time or jump to the next starting letter\n\nLetter jumping needs an alphabetical sort order, so any other sort falls back to moving a page at a time": "숄더 버튼이 한 페이지씩 이동할지 다음 시작 글자로 이동할지 선택합니다\n\n글자 이동은 알파벳 정렬이 필요하며 다른 정렬 방식에서는 페이지 단위 이동으로 동작합니다",
     "Chooses what appears on screen, from the clock and battery through to folder counts, scrolling labels and which hints are shown.": "시계, 배터리, 폴더 항목 수, 스크롤 라벨 및 안내 표시 등 화면에 나타날 요소를 선택합니다.",
     "Clock": "시계",
-    "Collapse the content picture like an old television when leaving Pickles or Wasabi. Reduce Motion disables this effect.": "Pickles 또는 와사비를 종료할 때 옛날 텔레비전처럼 콘텐츠 화면이 중앙으로 접히는 효과를 표시합니다. 움직임 줄이기를 켜면 이 효과가 비활성화됩니다.",
     "Collection In Content": "콘텐츠 내 컬렉션",
     "Content": "콘텐츠",
     "Continuous": "연속",
@@ -3895,7 +3881,6 @@
     "Show Hidden Content": "숨긴 콘텐츠 보기",
     "Show a colon instead of a dash in content names, which often reads a little cleaner": "콘텐츠 이름에서 대시 대신 콜론을 표시해 더 깔끔하게 보이도록 합니다",
     "Show or hide Pickles content start-up and RetroAchievements connection messages": "Pickles 콘텐츠 시작 메시지와 RetroAchievements 연결 메시지를 표시하거나 숨깁니다",
-    "Shows content artwork while Pickles prepares the game. Splash catalogues can use still images, animated GIF or APNG images, and MP4 video.": "Pickles가 게임을 준비하는 동안 콘텐츠 아트워크를 표시합니다. 스플래시 카탈로그는 정지 이미지, 움직이는 GIF나 APNG 이미지, MP4 동영상을 사용할 수 있습니다.",
     "Shows the theme's stand in image when an item has no artwork of its own.\n\nTurn it off if you would rather have empty space than a placeholder.": "항목에 자체 아트워크가 없을 때 테마의 대체 이미지를 표시합니다.\n\n대체 이미지 대신 빈 공간을 원하면 끄세요.",
     "Shows your most recent save picture in place of the box art for anything played through Pickles.\n\nItems you have not saved yet keep their usual artwork.": "Pickles로 실행한 콘텐츠에서 가장 최근 저장 이미지를 박스 아트 대신 표시합니다.\n\n아직 저장하지 않은 항목은 기존 아트워크를 사용합니다.",
     "Single Group": "단일 그룹",

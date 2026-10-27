@@ -1247,10 +1247,8 @@
     "Overrides the height of the footer bar, in pixels.\n\nLeave it on Default to use whatever the theme asks for.": "覆盖底部栏的高度，以像素为单位。\n\n设为默认则使用主题设定的值。",
     "Overrides the height of the header bar, in pixels.\n\nLeave it on Default to use whatever the theme asks for.": "覆盖顶部栏的高度，以像素为单位。\n\n设为默认则使用主题设定的值。",
     "Packages": "扩展包",
-    "Pickles Startup Messages": "Pickles 启动消息",
     "Picks a different theme each time the device starts, chosen from the ones you have installed.\n\nLeave it off if you would rather the theme you chose stayed put.": "Picks a different theme each time the device starts, chosen from the ones you have installed.\n\nLeave it off if you would rather the theme you chose stayed put.",
     "Plays the theme's video wallpaper behind the menus, where the theme provides one.\n\nIt costs a little battery, so turn it off if you would rather keep that.": "在主题提供视频壁纸的情况下，在菜单后方播放主题的视频壁纸。\n\n这会消耗少量电量，如果您想节省电量，请关闭此选项。",
-    "Power Off Effect": "Power Off Effect",
     "Press A": "短按A键",
     "Random Theme on Boot": "Random Theme on Boot",
     "RetroArch Configurations": "RetroArch配置文件",
@@ -1571,8 +1569,6 @@
   "muxinfo": {
     "Activity Tracker": "活动追踪器",
     "Checks that every button and stick reports correctly.\n\nThe place to start if a control feels unresponsive.": "检查每个按键和摇杆是否正常响应。\n\n如果某个控制感觉不灵敏，请从这里开始排查。",
-    "Community News": "社区新闻",
-    "Community news and announcements, fetched while you are online.": "社区新闻和公告，在联网时获取。",
     "Device Details": "设备详情",
     "Every screenshot taken on this device, with the option to remove ones you no longer want.": "此设备上截取的所有屏幕截图，可以选择删除不再需要的截图。",
     "Everything about the device itself, its battery and its network connection, grouped into sections.": "关于设备本身、电池和网络连接的所有信息，按分组显示。",
@@ -1582,7 +1578,6 @@
     "Input Tester": "输入测试",
     "Reload Frontend": "重新加载前端",
     "Reloading Frontend...": "正在重新加载前端...",
-    "Reports what your device is doing, covering system and battery details, network status, storage use, play activity and the community news feed.": "报告设备的状态，涵盖系统和电池详情、网络状态、存储使用情况、游玩活动以及社区新闻动态。",
     "Restarts the frontend so it picks up any configuration or theme changes.\n\nQuicker than a full reboot, and your content is left alone.": "重启前端以应用配置或主题更改。\n\n比完整重启更快，且不会影响您的游戏内容。",
     "Screenshots": "截图",
     "Storage Space": "存储空间",
@@ -2062,14 +2057,6 @@
     "Scan for a nearby network and enter its password to save a profile.": "扫描附近的网络并输入其密码以保存配置文件。",
     "Wi-Fi Network": "Wi-Fi 网络",
     "Wired Ethernet Connection": "Wired Ethernet Connection"
-  },
-  "muxnews": {
-    "Community News": "社区新闻",
-    "Downloading Community News...": "正在下载社区新闻...",
-    "Downloading Post...": "正在下载文章...",
-    "Error Obtaining Community News": "获取社区新闻时出错",
-    "No News Found...": "未找到新闻...",
-    "Shows announcements from the MustardOS crew, covering releases, changes and anything worth knowing about your device. Select an entry to read it in full and scroll with the D-pad.": "显示来自 MustardOS 团队的公告，涵盖发布、变更以及关于您设备的值得了解的信息。选择一个条目以阅读全文，并使用方向键滚动。"
   },
   "muxoption": {
     "A tag for this content, which changes the glyph shown beside it in lists.": "此内容的标签，用于更改列表中旁边显示的图标。",
@@ -3816,7 +3803,6 @@
     "Choose whether the shoulder buttons move a page at a time or jump to the next starting letter\n\nLetter jumping needs an alphabetical sort order, so any other sort falls back to moving a page at a time": "选择肩键是一次翻一页还是跳转到下一个首字母\n\n字母跳转需要按字母顺序排序，其他排序方式将回退到一次翻一页",
     "Chooses what appears on screen, from the clock and battery through to folder counts, scrolling labels and which hints are shown.": "选择屏幕上显示的内容，从时钟和电量到文件夹计数、滚动标签和显示的提示。",
     "Clock": "时钟",
-    "Collapse the content picture like an old television when leaving Pickles or Wasabi. Reduce Motion disables this effect.": "Collapse the content picture like an old television when leaving Pickles or Wasabi. Reduce Motion disables this effect.",
     "Collection In Content": "内容收藏",
     "Content": "内容",
     "Continuous": "连续",
@@ -3895,7 +3881,6 @@
     "Show Hidden Content": "显示隐藏内容",
     "Show a colon instead of a dash in content names, which often reads a little cleaner": "在内容名称中使用冒号代替连字符，通常看起来更清晰",
     "Show or hide Pickles content start-up and RetroAchievements connection messages": "显示或隐藏Pickles内容启动和RetroAchievements连接消息",
-    "Shows content artwork while Pickles prepares the game. Splash catalogues can use still images, animated GIF or APNG images, and MP4 video.": "Shows content artwork while Pickles prepares the game. Splash catalogues can use still images, animated GIF or APNG images, and MP4 video.",
     "Shows the theme's stand in image when an item has no artwork of its own.\n\nTurn it off if you would rather have empty space than a placeholder.": "当项目没有自己的封面图时显示主题的占位图。\n\n如果您希望留空而不是占位符，请关闭。",
     "Shows your most recent save picture in place of the box art for anything played through Pickles.\n\nItems you have not saved yet keep their usual artwork.": "Shows your most recent save picture in place of the box art for anything played through Pickles.\n\nItems you have not saved yet keep their usual artwork.",
     "Single Group": "单组",
