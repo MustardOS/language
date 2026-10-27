@@ -1247,10 +1247,8 @@
     "Overrides the height of the footer bar, in pixels.\n\nLeave it on Default to use whatever the theme asks for.": "Anstataŭigas la altecon de la piedlinio, en pikseloj.\n\nLasu ĝin Defaŭlte por uzi kion ajn la temo petas.",
     "Overrides the height of the header bar, in pixels.\n\nLeave it on Default to use whatever the theme asks for.": "Anstataŭigas la altecon de la kaplinio, en pikseloj.\n\nLasu ĝin Defaŭlte por uzi kion ajn la temo petas.",
     "Packages": "Pakoj",
-    "Pickles Startup Messages": "Pickles Komencaj Mesaĝoj",
     "Picks a different theme each time the device starts, chosen from the ones you have installed.\n\nLeave it off if you would rather the theme you chose stayed put.": "Elektas alian instalitan temon ĉiufoje kiam la aparato startas.\n\nMalŝaltu ĉi tion, se vi volas ĉiam uzi la elektitan temon.",
     "Plays the theme's video wallpaper behind the menus, where the theme provides one.\n\nIt costs a little battery, so turn it off if you would rather keep that.": "Ludas la videotapeton de la temo malantaŭ la menuoj, kie la temo disponigas unu.\n\nĜi kostas iom da baterio, do malŝaltu ĝin se vi preferas konservi tion.",
-    "Power Off Effect": "Power Off Effect",
     "Press A": "Premu A",
     "Random Theme on Boot": "Hazarda temo ĉe startigo",
     "RetroArch Configurations": "Agordoj de RetroArch",
@@ -1571,8 +1569,6 @@
   "muxinfo": {
     "Activity Tracker": "Spurilo de aktiveco",
     "Checks that every button and stick reports correctly.\n\nThe place to start if a control feels unresponsive.": "Kontrolas, ke ĉiu butono kaj bastono raportas ĝuste.\n\nLa loko por komenci se kontrolo sentiĝas neresponda.",
-    "Community News": "Komunumaj novaĵoj",
-    "Community news and announcements, fetched while you are online.": "Komunumaj novaĵoj kaj anoncoj, alportitaj dum vi estas enreta.",
     "Device Details": "Detaloj pri Aparato",
     "Every screenshot taken on this device, with the option to remove ones you no longer want.": "Ĉiu ekrankopio farita sur ĉi tiu aparato, kun la eblo forigi tiujn, kiujn vi ne plu volas.",
     "Everything about the device itself, its battery and its network connection, grouped into sections.": "Ĉio pri la aparato mem, ĝia kuirilaro kaj ĝia reto-konekto, grupigita en sekciojn.",
@@ -1582,7 +1578,6 @@
     "Input Tester": "Enigo-testilo",
     "Reload Frontend": "Reŝargi la fasadon",
     "Reloading Frontend...": "Reŝargado de la fasado...",
-    "Reports what your device is doing, covering system and battery details, network status, storage use, play activity and the community news feed.": "Raportas, kion faras via aparato, kovrante detalojn pri sistemo kaj kuirilaro, retan staton, konservadon, ludadon kaj la komunuman novaĵfluon.",
     "Restarts the frontend so it picks up any configuration or theme changes.\n\nQuicker than a full reboot, and your content is left alone.": "Rekomencas la fasadon, por ke ĝi reprenu ajnajn agordojn aŭ temoŝanĝojn.\n\nPli rapide ol plena rekomenco, kaj via enhavo restas sola.",
     "Screenshots": "Ekrankopioj",
     "Storage Space": "Memora spaco",
@@ -2062,14 +2057,6 @@
     "Scan for a nearby network and enter its password to save a profile.": "Skanu por proksima reto kaj enigu ĝian pasvorton por konservi profilon.",
     "Wi-Fi Network": "Wi-Fi-reto",
     "Wired Ethernet Connection": "Kablita Ethernet-Konekto"
-  },
-  "muxnews": {
-    "Community News": "Komunumaj novaĵoj",
-    "Downloading Community News...": "Elŝutante Komunumajn Novaĵojn...",
-    "Downloading Post...": "Elŝutante afiŝon...",
-    "Error Obtaining Community News": "Eraro ricevante komunumajn novaĵojn",
-    "No News Found...": "Neniu novaĵo trovita...",
-    "Shows announcements from the MustardOS crew, covering releases, changes and anything worth knowing about your device. Select an entry to read it in full and scroll with the D-pad.": "Montras anoncojn de la MustardOS-skipo, kovrante eldonojn, ŝanĝojn kaj ion sciindajn pri via aparato. Elektu eniron por legi ĝin tute kaj rulu per la D-pad."
   },
   "muxoption": {
     "A tag for this content, which changes the glyph shown beside it in lists.": "Etikedo por ĉi tiu enhavo, kiu ŝanĝas la apudmontratan piktogramon en listoj.",
@@ -3816,7 +3803,6 @@
     "Choose whether the shoulder buttons move a page at a time or jump to the next starting letter\n\nLetter jumping needs an alphabetical sort order, so any other sort falls back to moving a page at a time": "Elektu ĉu la ŝultrobutonoj movu la liston paĝon post paĝo aŭ saltu al la sekva litero.\n\nSaltado laŭ literoj bezonas alfabetan ordigon; kun aliaj ordigoj la butonoj movas la liston paĝon post paĝo",
     "Chooses what appears on screen, from the clock and battery through to folder counts, scrolling labels and which hints are shown.": "Elektas kio aperas sur la ekrano: horloĝo, baterio, nombro da eroj en dosierujoj, moviĝantaj etikedoj kaj helpindikoj.",
     "Clock": "Horloĝo",
-    "Collapse the content picture like an old television when leaving Pickles or Wasabi. Reduce Motion disables this effect.": "Collapse the content picture like an old television when leaving Pickles or Wasabi. Reduce Motion disables this effect.",
     "Collection In Content": "Kolekto en enhavo",
     "Content": "Enhavo",
     "Continuous": "Kontinua",
@@ -3895,7 +3881,6 @@
     "Show Hidden Content": "Montri kaŝitan enhavon",
     "Show a colon instead of a dash in content names, which often reads a little cleaner": "Montras dupunkton anstataŭ streketon en enhavnomoj, por pli klara aspekto",
     "Show or hide Pickles content start-up and RetroAchievements connection messages": "Montras aŭ kaŝas la startmesaĝojn de enhavo en Pickles kaj la konektomesaĝojn de RetroAchievements",
-    "Shows content artwork while Pickles prepares the game. Splash catalogues can use still images, animated GIF or APNG images, and MP4 video.": "Shows content artwork while Pickles prepares the game. Splash catalogues can use still images, animated GIF or APNG images, and MP4 video.",
     "Shows the theme's stand in image when an item has no artwork of its own.\n\nTurn it off if you would rather have empty space than a placeholder.": "Montras la defaŭltan bildon de la temo kiam ero ne havas propran kovrilbildon.\n\nMalŝaltu ĉi tion se vi preferas malplenan spacon ol provizoran bildon.",
     "Shows your most recent save picture in place of the box art for anything played through Pickles.\n\nItems you have not saved yet keep their usual artwork.": "Montras la plej lastatempan konservitan bildon anstataŭ la kovrilbildon por enhavo ludita per Pickles.\n\nEroj sen konservita stato plu montras sian kutiman kovrilbildon.",
     "Single Group": "Unuopa grupo",

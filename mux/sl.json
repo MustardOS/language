@@ -1247,10 +1247,8 @@
     "Overrides the height of the footer bar, in pixels.\n\nLeave it on Default to use whatever the theme asks for.": "Overrides the height of the footer bar, in pixels.\n\nLeave it on Default to use whatever the theme asks for.",
     "Overrides the height of the header bar, in pixels.\n\nLeave it on Default to use whatever the theme asks for.": "Overrides the height of the header bar, in pixels.\n\nLeave it on Default to use whatever the theme asks for.",
     "Packages": "Packages",
-    "Pickles Startup Messages": "Pickles Startup Messages",
     "Picks a different theme each time the device starts, chosen from the ones you have installed.\n\nLeave it off if you would rather the theme you chose stayed put.": "Picks a different theme each time the device starts, chosen from the ones you have installed.\n\nLeave it off if you would rather the theme you chose stayed put.",
     "Plays the theme's video wallpaper behind the menus, where the theme provides one.\n\nIt costs a little battery, so turn it off if you would rather keep that.": "Plays the theme's video wallpaper behind the menus, where the theme provides one.\n\nIt costs a little battery, so turn it off if you would rather keep that.",
-    "Power Off Effect": "Power Off Effect",
     "Press A": "Press A",
     "Random Theme on Boot": "Random Theme on Boot",
     "RetroArch Configurations": "Konfiguracije RetroArch",
@@ -1571,8 +1569,6 @@
   "muxinfo": {
     "Activity Tracker": "Activity Tracker",
     "Checks that every button and stick reports correctly.\n\nThe place to start if a control feels unresponsive.": "Checks that every button and stick reports correctly.\n\nThe place to start if a control feels unresponsive.",
-    "Community News": "Community News",
-    "Community news and announcements, fetched while you are online.": "Community news and announcements, fetched while you are online.",
     "Device Details": "Device Details",
     "Every screenshot taken on this device, with the option to remove ones you no longer want.": "Every screenshot taken on this device, with the option to remove ones you no longer want.",
     "Everything about the device itself, its battery and its network connection, grouped into sections.": "Everything about the device itself, its battery and its network connection, grouped into sections.",
@@ -1582,7 +1578,6 @@
     "Input Tester": "Preizkuševalnik vhodnih naprav",
     "Reload Frontend": "Reload Frontend",
     "Reloading Frontend...": "Reloading Frontend...",
-    "Reports what your device is doing, covering system and battery details, network status, storage use, play activity and the community news feed.": "Reports what your device is doing, covering system and battery details, network status, storage use, play activity and the community news feed.",
     "Restarts the frontend so it picks up any configuration or theme changes.\n\nQuicker than a full reboot, and your content is left alone.": "Restarts the frontend so it picks up any configuration or theme changes.\n\nQuicker than a full reboot, and your content is left alone.",
     "Screenshots": "Screenshots",
     "Storage Space": "Storage Space",
@@ -2062,14 +2057,6 @@
     "Scan for a nearby network and enter its password to save a profile.": "Scan for a nearby network and enter its password to save a profile.",
     "Wi-Fi Network": "Wi-Fi Network",
     "Wired Ethernet Connection": "Wired Ethernet Connection"
-  },
-  "muxnews": {
-    "Community News": "Community News",
-    "Downloading Community News...": "Downloading Community News...",
-    "Downloading Post...": "Downloading Post...",
-    "Error Obtaining Community News": "Error Obtaining Community News",
-    "No News Found...": "No News Found...",
-    "Shows announcements from the MustardOS crew, covering releases, changes and anything worth knowing about your device. Select an entry to read it in full and scroll with the D-pad.": "Shows announcements from the MustardOS crew, covering releases, changes and anything worth knowing about your device. Select an entry to read it in full and scroll with the D-pad."
   },
   "muxoption": {
     "A tag for this content, which changes the glyph shown beside it in lists.": "A tag for this content, which changes the glyph shown beside it in lists.",
@@ -3816,7 +3803,6 @@
     "Choose whether the shoulder buttons move a page at a time or jump to the next starting letter\n\nLetter jumping needs an alphabetical sort order, so any other sort falls back to moving a page at a time": "Choose whether the shoulder buttons move a page at a time or jump to the next starting letter\n\nLetter jumping needs an alphabetical sort order, so any other sort falls back to moving a page at a time",
     "Chooses what appears on screen, from the clock and battery through to folder counts, scrolling labels and which hints are shown.": "Chooses what appears on screen, from the clock and battery through to folder counts, scrolling labels and which hints are shown.",
     "Clock": "Čas",
-    "Collapse the content picture like an old television when leaving Pickles or Wasabi. Reduce Motion disables this effect.": "Collapse the content picture like an old television when leaving Pickles or Wasabi. Reduce Motion disables this effect.",
     "Collection In Content": "Collection In Content",
     "Content": "Content",
     "Continuous": "Continuous",
@@ -3895,7 +3881,6 @@
     "Show Hidden Content": "Show Hidden Content",
     "Show a colon instead of a dash in content names, which often reads a little cleaner": "Show a colon instead of a dash in content names, which often reads a little cleaner",
     "Show or hide Pickles content start-up and RetroAchievements connection messages": "Show or hide Pickles content start-up and RetroAchievements connection messages",
-    "Shows content artwork while Pickles prepares the game. Splash catalogues can use still images, animated GIF or APNG images, and MP4 video.": "Shows content artwork while Pickles prepares the game. Splash catalogues can use still images, animated GIF or APNG images, and MP4 video.",
     "Shows the theme's stand in image when an item has no artwork of its own.\n\nTurn it off if you would rather have empty space than a placeholder.": "Shows the theme's stand in image when an item has no artwork of its own.\n\nTurn it off if you would rather have empty space than a placeholder.",
     "Shows your most recent save picture in place of the box art for anything played through Pickles.\n\nItems you have not saved yet keep their usual artwork.": "Shows your most recent save picture in place of the box art for anything played through Pickles.\n\nItems you have not saved yet keep their usual artwork.",
     "Single Group": "Single Group",
