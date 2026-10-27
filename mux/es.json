@@ -1247,10 +1247,8 @@
     "Overrides the height of the footer bar, in pixels.\n\nLeave it on Default to use whatever the theme asks for.": "Anula la altura de la barra de pie de página, en píxeles.\n\nDéjalo en Predeterminado (Default) para usar lo que pida el tema.",
     "Overrides the height of the header bar, in pixels.\n\nLeave it on Default to use whatever the theme asks for.": "Anula la altura de la barra de cabecera, en píxeles.\n\nDéjalo en Predeterminado (Default) para usar lo que pida el tema.",
     "Packages": "Paquetes",
-    "Pickles Startup Messages": "Mensajes de inicio de Pickles",
     "Picks a different theme each time the device starts, chosen from the ones you have installed.\n\nLeave it off if you would rather the theme you chose stayed put.": "Elige un tema diferente cada vez que se inicia el dispositivo, seleccionado de entre los que tienes instalados.\n\nDéjalo desactivado si prefieres que el tema que elegiste se mantenga fijo.",
     "Plays the theme's video wallpaper behind the menus, where the theme provides one.\n\nIt costs a little battery, so turn it off if you would rather keep that.": "Reproduce el fondo de pantalla de vídeo del tema detrás de los menús, si el tema proporciona uno.\n\nCuesta un poco de batería, así que desactívalo si prefieres conservarla.",
-    "Power Off Effect": "Power Off Effect",
     "Press A": "Pulsar A",
     "Random Theme on Boot": "Tema aleatorio al iniciar",
     "RetroArch Configurations": "Configuraciones de RetroArch",
@@ -1571,8 +1569,6 @@
   "muxinfo": {
     "Activity Tracker": "Monitor de actividad",
     "Checks that every button and stick reports correctly.\n\nThe place to start if a control feels unresponsive.": "Comprueba que cada botón y joystick responda correctamente.\n\nEl lugar para empezar si un control no responde bien.",
-    "Community News": "Noticias de la comunidad",
-    "Community news and announcements, fetched while you are online.": "Noticias y anuncios de la comunidad, obtenidos mientras estás conectado.",
     "Device Details": "Detalles del dispositivo",
     "Every screenshot taken on this device, with the option to remove ones you no longer want.": "Todas las capturas de pantalla tomadas en este dispositivo, con la opción de eliminar las que ya no quieras.",
     "Everything about the device itself, its battery and its network connection, grouped into sections.": "Todo sobre el propio dispositivo, su batería y su conexión de red, agrupado en secciones.",
@@ -1582,7 +1578,6 @@
     "Input Tester": "Probador de entrada",
     "Reload Frontend": "Recargar interfaz",
     "Reloading Frontend...": "Recargando la interfaz...",
-    "Reports what your device is doing, covering system and battery details, network status, storage use, play activity and the community news feed.": "Informa de lo que está haciendo tu dispositivo, abarcando detalles del sistema y de la batería, estado de la red, uso del almacenamiento, actividad de juego y el canal de noticias de la comunidad.",
     "Restarts the frontend so it picks up any configuration or theme changes.\n\nQuicker than a full reboot, and your content is left alone.": "Reinicia la interfaz para que aplique cualquier cambio de configuración o tema.\n\nMás rápido que un reinicio completo, y tu contenido no se ve afectado.",
     "Screenshots": "Capturas de pantalla",
     "Storage Space": "Espacio de almacenamiento",
@@ -2062,14 +2057,6 @@
     "Scan for a nearby network and enter its password to save a profile.": "Busca una red cercana e introduce su contraseña para guardar un perfil.",
     "Wi-Fi Network": "Red Wi-Fi",
     "Wired Ethernet Connection": "Conexión Ethernet cableada"
-  },
-  "muxnews": {
-    "Community News": "Noticias de la comunidad",
-    "Downloading Community News...": "Descargando noticias de la comunidad...",
-    "Downloading Post...": "Descargando publicación...",
-    "Error Obtaining Community News": "Error al obtener noticias de la comunidad",
-    "No News Found...": "No se encontraron noticias...",
-    "Shows announcements from the MustardOS crew, covering releases, changes and anything worth knowing about your device. Select an entry to read it in full and scroll with the D-pad.": "Muestra anuncios del equipo de MustardOS, que abarcan lanzamientos, cambios y cualquier cosa que valga la pena saber sobre tu dispositivo. Selecciona una entrada para leerla al completo y desplázate con la cruceta."
   },
   "muxoption": {
     "A tag for this content, which changes the glyph shown beside it in lists.": "Una etiqueta para este contenido, que cambia el icono que se muestra a su lado en las listas.",
@@ -3816,7 +3803,6 @@
     "Choose whether the shoulder buttons move a page at a time or jump to the next starting letter\n\nLetter jumping needs an alphabetical sort order, so any other sort falls back to moving a page at a time": "Elige si los botones del hombro avanzan una página a la vez o saltan a la siguiente letra inicial.\n\nEl salto por letra necesita un orden de clasificación alfabético, por lo que cualquier otra clasificación vuelve a mover una página a la vez",
     "Chooses what appears on screen, from the clock and battery through to folder counts, scrolling labels and which hints are shown.": "Elige qué aparece en pantalla, desde el reloj y la batería hasta el recuento de carpetas, etiquetas con desplazamiento y qué consejos se muestran.",
     "Clock": "Reloj",
-    "Collapse the content picture like an old television when leaving Pickles or Wasabi. Reduce Motion disables this effect.": "Collapse the content picture like an old television when leaving Pickles or Wasabi. Reduce Motion disables this effect.",
     "Collection In Content": "Colección en contenido",
     "Content": "Contenido",
     "Continuous": "Continuo",
@@ -3895,7 +3881,6 @@
     "Show Hidden Content": "Mostrar contenido oculto",
     "Show a colon instead of a dash in content names, which often reads a little cleaner": "Muestra dos puntos en lugar de un guión en los nombres de contenido, lo que a menudo se lee un poco más limpio",
     "Show or hide Pickles content start-up and RetroAchievements connection messages": "Muestra u oculta los mensajes de inicio de contenido de Pickles y de conexión a RetroAchievements",
-    "Shows content artwork while Pickles prepares the game. Splash catalogues can use still images, animated GIF or APNG images, and MP4 video.": "Shows content artwork while Pickles prepares the game. Splash catalogues can use still images, animated GIF or APNG images, and MP4 video.",
     "Shows the theme's stand in image when an item has no artwork of its own.\n\nTurn it off if you would rather have empty space than a placeholder.": "Muestra la imagen de sustitución del tema cuando un elemento no tiene carátula propia.\n\nDesactívalo si prefieres tener un espacio vacío en lugar de un marcador de posición.",
     "Shows your most recent save picture in place of the box art for anything played through Pickles.\n\nItems you have not saved yet keep their usual artwork.": "Muestra la imagen de guardado más reciente en lugar de la carátula para cualquier contenido jugado a través de Pickles.\n\nLos elementos que aún no hayas guardado conservan su diseño habitual.",
     "Single Group": "Grupo único",
