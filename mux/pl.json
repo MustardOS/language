@@ -1260,7 +1260,7 @@
     "Packages": "Paczki",
     "Picks a different theme each time the device starts, chosen from the ones you have installed.\n\nLeave it off if you would rather the theme you chose stayed put.": "Wybiera inny motyw za każdym razem, gdy urządzenie uruchamia się, wybrany z tych, które zainstalowano.\n\nPozostaw wyłączone, jeśli wolisz, żeby motyw był stały.",
     "Plays the theme's video wallpaper behind the menus, where the theme provides one.\n\nIt costs a little battery, so turn it off if you would rather keep that.": "Odgrywa tapetę wideo pod menu, o ile motyw ją dostarcza.\n\nZużywa odrobinę baterii, więc wyłącz to, jeśli oszczędzasz baterię.",
-    "Power Effects": "Efekty zasilania",
+    "Power Effects": "Efekty uruchamiania",
     "Press A": "Wciśnij A",
     "Random Theme on Boot": "Losowy motyw przy starcie",
     "RetroArch Configurations": "Konfiguracje RetroArch",
