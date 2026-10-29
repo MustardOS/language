@@ -879,11 +879,8 @@
   "muxappcon": {
     "Application Option": "Application Option",
     "Control Scheme": "Схема управления",
-    "Governor": "Регулятор",
     "Name": "Название",
-    "Set the CPU governor for the selected application": "Выбор регулятора ЦП для выбранного приложение",
-    "Set the control scheme for the selected application": "Выбор схемы управления для выбранного приложение",
-    "Sets how one application behaves, covering the core it runs on, its governor and its control scheme. Changes here apply only to the application you opened this from.": "Sets how one application behaves, covering the core it runs on, its governor and its control scheme. Changes here apply only to the application you opened this from."
+    "Set the control scheme for the selected application": "Выбор схемы управления для выбранного приложение"
   },
   "muxarchive": {
     "Archive Manager": "Archive Manager",
@@ -1092,10 +1089,8 @@
   "muxconnect": {
     "Bluetooth": "Bluetooth",
     "Connectivity": "Connectivity",
-    "Direct Link": "Direct Link",
     "Gathers everything to do with getting your device online or paired with other hardware, covering networks, Bluetooth, proxies and the services that run over them.": "Gathers everything to do with getting your device online or paired with other hardware, covering networks, Bluetooth, proxies and the services that run over them.",
     "Join a Wi-Fi network, either by choosing one nearby or from a profile you have saved.": "Join a Wi-Fi network, either by choosing one nearby or from a profile you have saved.",
-    "Join two devices together with a network cable between them for playing together.\n\nWi-Fi carries on as normal for everything else.": "Join two devices together with a network cable between them for playing together.\n\nWi-Fi carries on as normal for everything else.",
     "Network Settings": "Настройки сети",
     "Pair, connect and manage Bluetooth devices such as controllers and headphones.": "Pair, connect and manage Bluetooth devices such as controllers and headphones.",
     "Proxy Settings": "Прокси",
@@ -1550,11 +1545,6 @@
     "Use the italic axis provided by the selected variable font.": "Use the italic axis provided by the selected variable font.",
     "Which style to use when a font file holds more than one, counted from 0.\n\nLeave it at 0 unless the font calls for another style.": "Which style to use when a font file holds more than one, counted from 0.\n\nLeave it at 0 unless the font calls for another style."
   },
-  "muxgov": {
-    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Настройка регулятор ЦП для динамической регулировки частоты ЦП и обеспечения сбалансированного энергопотребления и производительности",
-    "Governor": "Governor",
-    "No Governors Found...": "No Governors Found..."
-  },
   "muxhdmi": {
     "Colour Depth": "Глубина цвета",
     "Colour Range": "Цветовой диапазон",
@@ -1644,7 +1634,6 @@
     "Content Control Scheme": "Схема управления игрой",
     "Content Core": "Ядро игр",
     "Content Explorer": "Библиотека",
-    "Content Governor": "Регулятор игр",
     "Content Options": "Настройка игр",
     "Content Search": "Поиск игр",
     "Content Shader": "Content Shader",
@@ -1732,7 +1721,6 @@
     "Whether the interface options can be changed, such as what appears in the header.": "Whether the interface options can be changed, such as what appears in the header.",
     "Whether the network proxy settings can be changed.": "Whether the network proxy settings can be changed.",
     "Whether the passcode settings can be changed, including turning the passcode off.": "Whether the passcode settings can be changed, including turning the passcode off.",
-    "Whether the processor governor can be changed for content.": "Whether the processor governor can be changed for content.",
     "Whether the soundfont used for MIDI music can be changed.": "Whether the soundfont used for MIDI music can be changed.",
     "Whether the system language can be changed.": "Whether the system language can be changed.",
     "Whether the system theme can be changed.": "Whether the system theme can be changed.",
@@ -1779,10 +1767,8 @@
   },
   "muxlink": {
     "Cable Not Connected": "Cable Not Connected",
-    "Connect two devices with a network adapter cable, or a USB-C cable, and they will find each other on their own.": "Connect two devices with a network adapter cable, or a USB-C cable, and they will find each other on their own.",
     "Connected": "Connected",
     "Connection": "Connection",
-    "Direct Link": "Direct Link",
     "Link two devices with a USB-C data cable instead of network adapters.\n\nEnable it on both devices, then connect the charging port of one device to the other USB-C port of the second device. The second device powers the link and charges the first, so connect a charger to its own charging port for longer sessions.\n\nWhile it is enabled, USB Function is paused, and it returns when this is disabled.": "Link two devices with a USB-C data cable instead of network adapters.\n\nEnable it on both devices, then connect the charging port of one device to the other USB-C port of the second device. The second device powers the link and charges the first, so connect a charger to its own charging port for longer sessions.\n\nWhile it is enabled, USB Function is paused, and it returns when this is disabled.",
     "Looking For Other Device": "Looking For Other Device",
     "No Supported Adapter Found": "No Supported Adapter Found",
@@ -1799,8 +1785,7 @@
     "This Device ID": "This Device ID",
     "USB Cable": "USB Cable",
     "Unavailable": "Unavailable",
-    "Waiting For Cable": "Waiting For Cable",
-    "Where things are up to.\n\nA supported wired network adapter and cable, or the USB cable, need to be connected at both ends. Direct Link will then set itself up automatically.": "Where things are up to.\n\nA supported wired network adapter and cable, or the USB cable, need to be connected at both ends. Direct Link will then set itself up automatically."
+    "Waiting For Cable": "Waiting For Cable"
   },
   "muxlogo": {
     "Add images to the MUOS/logo folder on your current storage to choose from them here.": "Add images to the MUOS/logo folder on your current storage to choose from them here.",
@@ -2088,7 +2073,6 @@
     "Display": "Display",
     "External Storage": "Внешняя память",
     "Folder Path": "Путь",
-    "How hard the processor works while this content is running.\n\nWorth raising only for something that struggles, as it costs battery.": "How hard the processor works while this content is running.\n\nWorth raising only for something that struggles, as it costs battery.",
     "How long you have played this in total.": "How long you have played this in total.",
     "How many times you have opened this.": "How many times you have opened this.",
     "Information": "Information",
@@ -2109,7 +2093,6 @@
     "Sets how one piece of content behaves, covering its core, control scheme and any overrides. Changes here apply only to the item you opened this from.": "Sets how one piece of content behaves, covering its core, control scheme and any overrides. Changes here apply only to the item you opened this from.",
     "Shader": "Шейдер",
     "Storage": "Память",
-    "System Governor": "Системный регулятор",
     "The folder this content lives in.": "The folder this content lives in.",
     "The name shown for this content, once any friendly name has been applied.": "The name shown for this content, once any friendly name has been applied.",
     "The overlay drawn around this content, along with how solid, how large and where it sits.": "The overlay drawn around this content, along with how solid, how large and where it sits.",
@@ -2266,20 +2249,16 @@
     "Cruise": "Средняя",
     "DVD Bounce": "DVD анимация",
     "Date and Time": "Дата и время",
-    "Default Governor": "Стандартный регулятор",
     "Digital Rain": "Цифровой дождь",
     "Endless Hallway": "Endless Hallway",
     "Fast": "Быстрая",
     "Fireflies": "Светлячки",
     "Flying Box Art": "Летающая обложка",
     "Gravity Glitch": "Gravity Glitch",
-    "How hard the processor works during normal use.\n\nThe default suits nearly everything. Pushing it harder costs battery, easing it off may leave heavier content struggling.": "How hard the processor works during normal use.\n\nThe default suits nearly everything. Pushing it harder costs battery, easing it off may leave heavier content struggling.",
-    "How hard the processor works once the device has gone idle.\n\nA gentler setting saves battery while nothing is happening. Leave it alone unless you are chasing battery life.": "How hard the processor works once the device has gone idle.\n\nA gentler setting saves battery while nothing is happening. Leave it alone unless you are chasing battery life.",
     "How long the device sits without any input before dimming the screen.\n\nDimming saves battery without interrupting anything, and any press brings it straight back.": "How long the device sits without any input before dimming the screen.\n\nDimming saves battery without interrupting anything, and any press brings it straight back.",
     "How long the device sits without any input before going to sleep.\n\nSleep saves battery and picks up where you left off. Set it longer if it drops off while you are reading something.": "How long the device sits without any input before going to sleep.\n\nSleep saves battery and picks up where you left off. Set it longer if it drops off while you are reading something.",
     "How quickly the screensaver moves about.\n\nEntirely a matter of taste.\n\nHow ludicrous!": "How quickly the screensaver moves about.\n\nEntirely a matter of taste.\n\nHow ludicrous!",
     "Idle Display must be less than Idle Sleep": "Затемнение экрана должно происходить раньше чем переход в режим сна",
-    "Idle Governor": "Регулятор в режиме ожидания",
     "Idle Input Display Timeout": "Затемнение экрана через",
     "Idle Input Sleep Timeout": "Переход устройства в режим сна через",
     "Image Slideshow": "Слайдшоу",
@@ -2587,7 +2566,6 @@
     "Diagonal Lines (2px)": "Диагонали (2 пкс)",
     "Diagonal Lines (4px)": "Диагонали (4 пкс)",
     "Direct": "Прямой",
-    "Direct Link": "Direct Link",
     "Disc %d": "Диск %d",
     "Disc Control": "Управление дисками",
     "Disc Count": "Количество дисков",
@@ -3115,7 +3093,6 @@
     "That is not a valid address": "That is not a valid address",
     "That moment could not be restored": "That moment could not be restored",
     "That save state could not be brought back": "That save state could not be brought back",
-    "The Direct Link connection received invalid data": "The Direct Link connection received invalid data",
     "The Network Play address or port is invalid": "The Network Play address or port is invalid",
     "The Network Play connection received invalid data": "The Network Play connection received invalid data",
     "The Network Play connection timed out": "The Network Play connection timed out",

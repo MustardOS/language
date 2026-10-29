@@ -879,11 +879,8 @@
   "muxappcon": {
     "Application Option": "应用程序选项",
     "Control Scheme": "控制方案",
-    "Governor": "性能调节器",
     "Name": "名称",
-    "Set the CPU governor for the selected application": "为所选应用程序设置CPU性能调节器",
-    "Set the control scheme for the selected application": "为所选应用程序设置控制方案",
-    "Sets how one application behaves, covering the core it runs on, its governor and its control scheme. Changes here apply only to the application you opened this from.": "设置单个应用程序的行为，包括运行所用的核心、调度器和控制方案。此处的更改仅适用于您打开此设置时的应用程序。"
+    "Set the control scheme for the selected application": "为所选应用程序设置控制方案"
   },
   "muxarchive": {
     "Archive Manager": "归档管理器",
@@ -1092,10 +1089,8 @@
   "muxconnect": {
     "Bluetooth": "蓝牙",
     "Connectivity": "连接性",
-    "Direct Link": "Direct Link",
     "Gathers everything to do with getting your device online or paired with other hardware, covering networks, Bluetooth, proxies and the services that run over them.": "汇集与设备联网或与其他硬件配对相关的所有功能，涵盖网络、蓝牙、代理以及运行在其上的服务。",
     "Join a Wi-Fi network, either by choosing one nearby or from a profile you have saved.": "加入 Wi-Fi 网络，可以选择附近的网络或从已保存的配置文件中选择。",
-    "Join two devices together with a network cable between them for playing together.\n\nWi-Fi carries on as normal for everything else.": "Join two devices together with a network cable between them for playing together.\n\nWi-Fi carries on as normal for everything else.",
     "Network Settings": "网络设置",
     "Pair, connect and manage Bluetooth devices such as controllers and headphones.": "配对、连接和管理蓝牙设备，如手柄和耳机。",
     "Proxy Settings": "代理设置",
@@ -1550,11 +1545,6 @@
     "Use the italic axis provided by the selected variable font.": "Use the italic axis provided by the selected variable font.",
     "Which style to use when a font file holds more than one, counted from 0.\n\nLeave it at 0 unless the font calls for another style.": "Which style to use when a font file holds more than one, counted from 0.\n\nLeave it at 0 unless the font calls for another style."
   },
-  "muxgov": {
-    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "配置CPU性能调节器，动态调整CPU频率，帮助平衡功耗与性能",
-    "Governor": "调速器",
-    "No Governors Found...": "未找到调度器。"
-  },
   "muxhdmi": {
     "Colour Depth": "色彩深度",
     "Colour Range": "色彩范围",
@@ -1644,7 +1634,6 @@
     "Content Control Scheme": "内容控制方案",
     "Content Core": "内容核心",
     "Content Explorer": "内容浏览器",
-    "Content Governor": "内容性能调节器",
     "Content Options": "内容选项",
     "Content Search": "内容搜索",
     "Content Shader": "内容着色器",
@@ -1732,7 +1721,6 @@
     "Whether the interface options can be changed, such as what appears in the header.": "是否可以更改界面选项，例如标题栏中显示的内容。",
     "Whether the network proxy settings can be changed.": "Whether the network proxy settings can be changed.",
     "Whether the passcode settings can be changed, including turning the passcode off.": "Whether the passcode settings can be changed, including turning the passcode off.",
-    "Whether the processor governor can be changed for content.": "是否可以为内容更改处理器调速器。",
     "Whether the soundfont used for MIDI music can be changed.": "Whether the soundfont used for MIDI music can be changed.",
     "Whether the system language can be changed.": "是否可以更改系统语言。",
     "Whether the system theme can be changed.": "是否可以更改系统主题。",
@@ -1779,10 +1767,8 @@
   },
   "muxlink": {
     "Cable Not Connected": "Cable Not Connected",
-    "Connect two devices with a network adapter cable, or a USB-C cable, and they will find each other on their own.": "Connect two devices with a network adapter cable, or a USB-C cable, and they will find each other on their own.",
     "Connected": "Connected",
     "Connection": "Connection",
-    "Direct Link": "Direct Link",
     "Link two devices with a USB-C data cable instead of network adapters.\n\nEnable it on both devices, then connect the charging port of one device to the other USB-C port of the second device. The second device powers the link and charges the first, so connect a charger to its own charging port for longer sessions.\n\nWhile it is enabled, USB Function is paused, and it returns when this is disabled.": "Link two devices with a USB-C data cable instead of network adapters.\n\nEnable it on both devices, then connect the charging port of one device to the other USB-C port of the second device. The second device powers the link and charges the first, so connect a charger to its own charging port for longer sessions.\n\nWhile it is enabled, USB Function is paused, and it returns when this is disabled.",
     "Looking For Other Device": "Looking For Other Device",
     "No Supported Adapter Found": "No Supported Adapter Found",
@@ -1799,8 +1785,7 @@
     "This Device ID": "This Device ID",
     "USB Cable": "USB Cable",
     "Unavailable": "Unavailable",
-    "Waiting For Cable": "Waiting For Cable",
-    "Where things are up to.\n\nA supported wired network adapter and cable, or the USB cable, need to be connected at both ends. Direct Link will then set itself up automatically.": "Where things are up to.\n\nA supported wired network adapter and cable, or the USB cable, need to be connected at both ends. Direct Link will then set itself up automatically."
+    "Waiting For Cable": "Waiting For Cable"
   },
   "muxlogo": {
     "Add images to the MUOS/logo folder on your current storage to choose from them here.": "将图片添加到当前存储的 MUOS/logo 文件夹中，即可在此处选择。",
@@ -2088,7 +2073,6 @@
     "Display": "Display",
     "External Storage": "外部存储",
     "Folder Path": "文件夹路径",
-    "How hard the processor works while this content is running.\n\nWorth raising only for something that struggles, as it costs battery.": "运行此内容时处理器的工作强度。\n\n仅对运行困难的内容才值得提高，因为这会消耗电池。",
     "How long you have played this in total.": "您总共游玩了多长时间。",
     "How many times you have opened this.": "您打开此内容的次数。",
     "Information": "Information",
@@ -2109,7 +2093,6 @@
     "Sets how one piece of content behaves, covering its core, control scheme and any overrides. Changes here apply only to the item you opened this from.": "设置单个内容的行为方式，包括其核心、控制方案和任何覆盖设置。此处的更改仅适用于您从中打开此项的项目。",
     "Shader": "着色器",
     "Storage": "存储",
-    "System Governor": "系统调速器",
     "The folder this content lives in.": "此内容所在的文件夹。",
     "The name shown for this content, once any friendly name has been applied.": "应用友好名称后，此内容显示的名称。",
     "The overlay drawn around this content, along with how solid, how large and where it sits.": "围绕此内容绘制的覆盖层，包括其透明度、大小和位置。",
@@ -2266,20 +2249,16 @@
     "Cruise": "巡航",
     "DVD Bounce": "DVD标志反弹",
     "Date and Time": "日期和时间",
-    "Default Governor": "默认管理器",
     "Digital Rain": "数码雨点",
     "Endless Hallway": "Endless Hallway",
     "Fast": "快速",
     "Fireflies": "萤火虫",
     "Flying Box Art": "浮动封面图",
     "Gravity Glitch": "Gravity Glitch",
-    "How hard the processor works during normal use.\n\nThe default suits nearly everything. Pushing it harder costs battery, easing it off may leave heavier content struggling.": "正常使用时处理器的工作强度。\n\n默认设置适用于几乎所有情况。提高强度会消耗电池，降低强度可能导致较重的内容运行困难。",
-    "How hard the processor works once the device has gone idle.\n\nA gentler setting saves battery while nothing is happening. Leave it alone unless you are chasing battery life.": "设备闲置后处理器的工作强度。\n\n较低的设置可以在无操作时节省电池。除非您想延长电池续航，否则无需更改。",
     "How long the device sits without any input before dimming the screen.\n\nDimming saves battery without interrupting anything, and any press brings it straight back.": "设备在无操作状态下等待多久后调暗屏幕。\n\n调暗屏幕可以节省电池而不会中断任何操作，按任意键即可立即恢复。",
     "How long the device sits without any input before going to sleep.\n\nSleep saves battery and picks up where you left off. Set it longer if it drops off while you are reading something.": "设备在无操作状态下等待多久后进入休眠。\n\n休眠可以节省电池，并从您上次中断的地方继续。如果您在阅读时设备经常休眠，请设置更长的时间。",
     "How quickly the screensaver moves about.\n\nEntirely a matter of taste.\n\nHow ludicrous!": "屏幕保护程序的移动速度。\n\n完全取决于个人喜好。\n\n太离谱了！",
     "Idle Display must be less than Idle Sleep": "屏幕变暗时间必须短于睡眠等待时间",
-    "Idle Governor": "空闲管理器",
     "Idle Input Display Timeout": "无操作屏幕超时时间",
     "Idle Input Sleep Timeout": "无操作睡眠超时时间",
     "Image Slideshow": "图片幻灯片",
@@ -2587,7 +2566,6 @@
     "Diagonal Lines (2px)": "对角线 (2px)",
     "Diagonal Lines (4px)": "对角线 (4px)",
     "Direct": "直接",
-    "Direct Link": "Direct Link",
     "Disc %d": "光盘 %d",
     "Disc Control": "光盘控制",
     "Disc Count": "光盘数量",
@@ -3115,7 +3093,6 @@
     "That is not a valid address": "该地址无效",
     "That moment could not be restored": "That moment could not be restored",
     "That save state could not be brought back": "That save state could not be brought back",
-    "The Direct Link connection received invalid data": "The Direct Link connection received invalid data",
     "The Network Play address or port is invalid": "网络联机地址或端口无效",
     "The Network Play connection received invalid data": "网络联机连接收到无效数据",
     "The Network Play connection timed out": "网络联机连接超时",
