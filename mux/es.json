@@ -879,11 +879,8 @@
   "muxappcon": {
     "Application Option": "Opción de aplicación",
     "Control Scheme": "Esquema de control",
-    "Governor": "Gobernador",
     "Name": "Nombre",
-    "Set the CPU governor for the selected application": "Configurar el gobernador de la CPU para la aplicación seleccionada",
-    "Set the control scheme for the selected application": "Configurar el esquema de control para la aplicación seleccionada",
-    "Sets how one application behaves, covering the core it runs on, its governor and its control scheme. Changes here apply only to the application you opened this from.": "Establece cómo se comporta una aplicación, abarcando el núcleo en el que se ejecuta, su gobernador y su esquema de control. Los cambios aquí se aplican solo a la aplicación desde la que abriste esto."
+    "Set the control scheme for the selected application": "Configurar el esquema de control para la aplicación seleccionada"
   },
   "muxarchive": {
     "Archive Manager": "Administrador de archivos",
@@ -1092,10 +1089,8 @@
   "muxconnect": {
     "Bluetooth": "Bluetooth",
     "Connectivity": "Conectividad",
-    "Direct Link": "Enlace directo",
     "Gathers everything to do with getting your device online or paired with other hardware, covering networks, Bluetooth, proxies and the services that run over them.": "Reúne todo lo relacionado con conectar tu dispositivo a internet o emparejarlo con otro hardware, abarcando redes, Bluetooth, proxies y los servicios que se ejecutan a través de ellos.",
     "Join a Wi-Fi network, either by choosing one nearby or from a profile you have saved.": "Únete a una red Wi-Fi, ya sea eligiendo una cercana o desde un perfil que hayas guardado.",
-    "Join two devices together with a network cable between them for playing together.\n\nWi-Fi carries on as normal for everything else.": "Une dos dispositivos con un cable de red entre ellos para jugar juntos.\n\nEl Wi-Fi continúa de forma normal para todo lo demás.",
     "Network Settings": "Configuración de red",
     "Pair, connect and manage Bluetooth devices such as controllers and headphones.": "Empareja, conecta y gestiona dispositivos Bluetooth como mandos y auriculares.",
     "Proxy Settings": "Configuración del proxy",
@@ -1550,11 +1545,6 @@
     "Use the italic axis provided by the selected variable font.": "Usa el eje de cursiva proporcionado por la fuente variable seleccionada.",
     "Which style to use when a font file holds more than one, counted from 0.\n\nLeave it at 0 unless the font calls for another style.": "Qué estilo usar cuando un archivo de fuente contiene más de uno, contados a partir de 0.\n\nDéjalo en 0 a menos que la fuente requiera otro estilo."
   },
-  "muxgov": {
-    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Configura los gobernadores de la CPU para ajustar dinámicamente la frecuencia de la CPU y ayudar a equilibrar el consumo de energía y el rendimiento",
-    "Governor": "Gobernador",
-    "No Governors Found...": "No se encontraron gobernadores..."
-  },
   "muxhdmi": {
     "Colour Depth": "Profundidad de color",
     "Colour Range": "Gama de colores",
@@ -1644,7 +1634,6 @@
     "Content Control Scheme": "Esquema de control de contenidos",
     "Content Core": "Núcleo de contenido",
     "Content Explorer": "Explorador de contenidos",
-    "Content Governor": "Gobernador de contenidos",
     "Content Options": "Opciones de contenido",
     "Content Search": "Búsqueda de contenidos",
     "Content Shader": "Sombreador (shader) de contenido",
@@ -1732,7 +1721,6 @@
     "Whether the interface options can be changed, such as what appears in the header.": "Si se pueden cambiar las opciones de la interfaz, como lo que aparece en la cabecera.",
     "Whether the network proxy settings can be changed.": "Si se pueden cambiar los ajustes de proxy de red.",
     "Whether the passcode settings can be changed, including turning the passcode off.": "Si se pueden cambiar los ajustes de código de acceso, incluyendo la desactivación del código de acceso.",
-    "Whether the processor governor can be changed for content.": "Si se puede cambiar el gobernador del procesador para el contenido.",
     "Whether the soundfont used for MIDI music can be changed.": "Si se puede cambiar la fuente de sonido utilizada para la música MIDI.",
     "Whether the system language can be changed.": "Si se puede cambiar el idioma del sistema.",
     "Whether the system theme can be changed.": "Si se puede cambiar el tema del sistema.",
@@ -1779,10 +1767,8 @@
   },
   "muxlink": {
     "Cable Not Connected": "Cable no conectado",
-    "Connect two devices with a network adapter cable, or a USB-C cable, and they will find each other on their own.": "Conecta dos dispositivos con un cable adaptador de red o un cable USB-C, y se encontrarán entre sí automáticamente.",
     "Connected": "Conectado",
     "Connection": "Conexión",
-    "Direct Link": "Enlace directo",
     "Link two devices with a USB-C data cable instead of network adapters.\n\nEnable it on both devices, then connect the charging port of one device to the other USB-C port of the second device. The second device powers the link and charges the first, so connect a charger to its own charging port for longer sessions.\n\nWhile it is enabled, USB Function is paused, and it returns when this is disabled.": "Enlaza dos dispositivos con un cable de datos USB-C en lugar de adaptadores de red.\n\nActívalo en ambos dispositivos, luego conecta el puerto de carga de un dispositivo al otro puerto USB-C del segundo dispositivo. El segundo dispositivo alimenta el enlace y carga el primero, así que conecta un cargador a su propio puerto de carga para sesiones más largas.\n\nMientras está activado, la Función USB se pausa y vuelve cuando esto se desactiva.",
     "Looking For Other Device": "Buscando otro dispositivo",
     "No Supported Adapter Found": "No se encontró ningún adaptador compatible",
@@ -1799,8 +1785,7 @@
     "This Device ID": "ID de este dispositivo",
     "USB Cable": "Cable USB",
     "Unavailable": "No disponible",
-    "Waiting For Cable": "Esperando el cable",
-    "Where things are up to.\n\nA supported wired network adapter and cable, or the USB cable, need to be connected at both ends. Direct Link will then set itself up automatically.": "Estado actual.\n\nUn cable y adaptador de red cableada compatible, o el cable USB, deben estar conectados en ambos extremos. A continuación, Enlace directo se configurará automáticamente."
+    "Waiting For Cable": "Esperando el cable"
   },
   "muxlogo": {
     "Add images to the MUOS/logo folder on your current storage to choose from them here.": "Añade imágenes a la carpeta MUOS/logo en tu almacenamiento actual para elegir entre ellas aquí.",
@@ -2088,7 +2073,6 @@
     "Display": "Pantalla",
     "External Storage": "Almacenamiento externo",
     "Folder Path": "Ruta de la carpeta",
-    "How hard the processor works while this content is running.\n\nWorth raising only for something that struggles, as it costs battery.": "Qué tan duro trabaja el procesador mientras se ejecuta este contenido.\n\nSolo vale la pena aumentarlo para algo que tenga dificultades, ya que cuesta batería.",
     "How long you have played this in total.": "Cuánto tiempo has jugado a esto en total.",
     "How many times you have opened this.": "Cuántas veces has abierto esto.",
     "Information": "Información",
@@ -2109,7 +2093,6 @@
     "Sets how one piece of content behaves, covering its core, control scheme and any overrides. Changes here apply only to the item you opened this from.": "Establece cómo se comporta un elemento de contenido, abarcando su núcleo, esquema de control y cualquier anulación. Los cambios aquí se aplican solo al elemento desde el que abriste esto.",
     "Shader": "Sombreador",
     "Storage": "Almacenamiento",
-    "System Governor": "Gobernador del sistema",
     "The folder this content lives in.": "La carpeta en la que vive este contenido.",
     "The name shown for this content, once any friendly name has been applied.": "El nombre que se muestra para este contenido, una vez que se ha aplicado cualquier nombre descriptivo.",
     "The overlay drawn around this content, along with how solid, how large and where it sits.": "La superposición dibujada alrededor de este contenido, junto con su opacidad, tamaño y dónde se sitúa.",
@@ -2266,20 +2249,16 @@
     "Cruise": "Crucero",
     "DVD Bounce": "Rebotar DVD",
     "Date and Time": "Fecha y hora",
-    "Default Governor": "Gobernador predeterminado",
     "Digital Rain": "Lluvia digital",
     "Endless Hallway": "Pasillo sin fin",
     "Fast": "Rápido",
     "Fireflies": "Luciérnagas",
     "Flying Box Art": "Carátulas voladoras",
     "Gravity Glitch": "Fallo gravitatorio",
-    "How hard the processor works during normal use.\n\nThe default suits nearly everything. Pushing it harder costs battery, easing it off may leave heavier content struggling.": "Qué tan duro trabaja el procesador durante el uso normal.\n\nEl valor predeterminado se adapta a casi todo. Exigirle más cuesta batería, y relajarlo puede hacer que el contenido más pesado tenga dificultades.",
-    "How hard the processor works once the device has gone idle.\n\nA gentler setting saves battery while nothing is happening. Leave it alone unless you are chasing battery life.": "Qué tan duro trabaja el procesador una vez que el dispositivo se queda inactivo.\n\nUn ajuste más suave ahorra batería mientras no ocurre nada. Déjalo como está a menos que busques maximizar la duración de la batería.",
     "How long the device sits without any input before dimming the screen.\n\nDimming saves battery without interrupting anything, and any press brings it straight back.": "Cuánto tiempo permanece el dispositivo sin ninguna entrada antes de atenuar la pantalla.\n\nLa atenuación ahorra batería sin interrumpir nada, y cualquier pulsación la devuelve directamente al estado original.",
     "How long the device sits without any input before going to sleep.\n\nSleep saves battery and picks up where you left off. Set it longer if it drops off while you are reading something.": "Cuánto tiempo permanece el dispositivo sin ninguna entrada antes de suspenderse.\n\nLa suspensión ahorra batería y retoma la actividad donde la dejaste. Configúralo para más tiempo si se suspende mientras estás leyendo algo.",
     "How quickly the screensaver moves about.\n\nEntirely a matter of taste.\n\nHow ludicrous!": "Qué tan rápido se mueve el salvapantallas.\n\nEs totalmente una cuestión de gustos.\n\n¡Qué absurdo!",
     "Idle Display must be less than Idle Sleep": "La pantalla inactiva debe ser menor que la suspensión por inactividad",
-    "Idle Governor": "Gobernador inactivo",
     "Idle Input Display Timeout": "Tiempo de inactividad para apagar pantalla",
     "Idle Input Sleep Timeout": "Tiempo de inactividad para suspender",
     "Image Slideshow": "Presentación de imágenes",
@@ -2587,7 +2566,6 @@
     "Diagonal Lines (2px)": "Líneas diagonales (2 píxeles)",
     "Diagonal Lines (4px)": "Líneas diagonales (4 píxeles)",
     "Direct": "Directo",
-    "Direct Link": "Enlace directo",
     "Disc %d": "Disco %d",
     "Disc Control": "Control de disco",
     "Disc Count": "Número de discos",
@@ -3115,7 +3093,6 @@
     "That is not a valid address": "Esa no es una dirección válida",
     "That moment could not be restored": "No se pudo restaurar ese momento",
     "That save state could not be brought back": "No se pudo recuperar ese estado guardado",
-    "The Direct Link connection received invalid data": "La conexión de Enlace directo recibió datos no válidos",
     "The Network Play address or port is invalid": "La dirección o el puerto de juego en red no son válidos",
     "The Network Play connection received invalid data": "La conexión de juego en red recibió datos no válidos",
     "The Network Play connection timed out": "La conexión de juego en red agotó el tiempo de espera",

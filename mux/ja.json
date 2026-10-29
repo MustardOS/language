@@ -879,11 +879,8 @@
   "muxappcon": {
     "Application Option": "アプリケーションオプション",
     "Control Scheme": "コントロール法",
-    "Governor": "ガバナー",
     "Name": "名前",
-    "Set the CPU governor for the selected application": "選択したアプリケーションのCPUガバナーを設定する",
-    "Set the control scheme for the selected application": "選択したアプリケーションのコントロール法を設定",
-    "Sets how one application behaves, covering the core it runs on, its governor and its control scheme. Changes here apply only to the application you opened this from.": "アプリケーション単体の動作（実行するコア、ガバナー、コントロール法）を設定します。ここでの変更は、開いたアプリケーションにのみ適用されます。"
+    "Set the control scheme for the selected application": "選択したアプリケーションのコントロール法を設定"
   },
   "muxarchive": {
     "Archive Manager": "アーカイブマネージャー",
@@ -1092,10 +1089,8 @@
   "muxconnect": {
     "Bluetooth": "Bluetooth",
     "Connectivity": "接続",
-    "Direct Link": "ダイレクトリンク",
     "Gathers everything to do with getting your device online or paired with other hardware, covering networks, Bluetooth, proxies and the services that run over them.": "デバイスのオンライン接続や他のハードウェアとのペアリングに関わるすべて（ネットワーク、Bluetooth、プロキシ、それらの上で動くサービス）をまとめています。",
     "Join a Wi-Fi network, either by choosing one nearby or from a profile you have saved.": "近くの Wi-Fi ネットワークを選ぶか、保存したプロファイルを使って接続します。",
-    "Join two devices together with a network cable between them for playing together.\n\nWi-Fi carries on as normal for everything else.": "2台のデバイスをネットワークケーブルでつなぎ、一緒にプレイできるようにします。\n\nそれ以外の通信では、Wi-Fi が通常どおり使えます。",
     "Network Settings": "ネットワーク設定",
     "Pair, connect and manage Bluetooth devices such as controllers and headphones.": "コントローラーやヘッドホンなどの Bluetooth デバイスをペアリング、接続、管理します。",
     "Proxy Settings": "プロキシ設定",
@@ -1550,11 +1545,6 @@
     "Use the italic axis provided by the selected variable font.": "選択したバリアブルフォントが提供するイタリックの軸を使用します。",
     "Which style to use when a font file holds more than one, counted from 0.\n\nLeave it at 0 unless the font calls for another style.": "フォントファイルに複数のスタイルが含まれる場合に使用するスタイル（0 から数えます）。\n\nフォントが別のスタイルを必要としない限り、0 のままにしてください。"
   },
-  "muxgov": {
-    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPUガバナーを設定して、CPU周波数を動的に調整し、消費電力とパフォーマンスのバランスを最適化します",
-    "Governor": "ガバナー",
-    "No Governors Found...": "ガバナーが見つかりません..."
-  },
   "muxhdmi": {
     "Colour Depth": "色深度",
     "Colour Range": "色域",
@@ -1644,7 +1634,6 @@
     "Content Control Scheme": "コンテンツのコントロール法",
     "Content Core": "コンテンツのコア",
     "Content Explorer": "コンテンツ一覧",
-    "Content Governor": "コンテンツガバナー",
     "Content Options": "コンテンツオプション",
     "Content Search": "コンテンツ検索",
     "Content Shader": "コンテンツシェーダー",
@@ -1732,7 +1721,6 @@
     "Whether the interface options can be changed, such as what appears in the header.": "ヘッダーに表示する内容などのインターフェースオプションを変更できるかどうか。",
     "Whether the network proxy settings can be changed.": "ネットワークのプロキシ設定を変更できるかどうか。",
     "Whether the passcode settings can be changed, including turning the passcode off.": "パスコードのオフを含め、パスコード設定を変更できるかどうか。",
-    "Whether the processor governor can be changed for content.": "コンテンツのプロセッサガバナーを変更できるかどうか。",
     "Whether the soundfont used for MIDI music can be changed.": "MIDI 音楽に使用するサウンドフォントを変更できるかどうか。",
     "Whether the system language can be changed.": "システムの言語を変更できるかどうか。",
     "Whether the system theme can be changed.": "システムのテーマを変更できるかどうか。",
@@ -1779,10 +1767,8 @@
   },
   "muxlink": {
     "Cable Not Connected": "ケーブル未接続",
-    "Connect two devices with a network adapter cable, or a USB-C cable, and they will find each other on their own.": "ネットワークアダプターケーブルまたは USB-C ケーブルで 2 台のデバイスを接続すると、互いに自動的に見つけ合います。",
     "Connected": "接続済み",
     "Connection": "接続",
-    "Direct Link": "ダイレクトリンク",
     "Link two devices with a USB-C data cable instead of network adapters.\n\nEnable it on both devices, then connect the charging port of one device to the other USB-C port of the second device. The second device powers the link and charges the first, so connect a charger to its own charging port for longer sessions.\n\nWhile it is enabled, USB Function is paused, and it returns when this is disabled.": "ネットワークアダプターの代わりに USB-C データケーブルで 2 台のデバイスをつなぎます。\n\n両方のデバイスで有効にし、一方のデバイスの充電ポートを、もう一方のデバイスの別の USB-C ポートに接続してください。2 台目のデバイスが接続に給電して 1 台目を充電するため、長時間使うときは、2 台目の充電ポートに充電器をつないでください。\n\n有効にしている間は USB 機能が一時停止し、無効にすると元に戻ります。",
     "Looking For Other Device": "相手のデバイスを探しています",
     "No Supported Adapter Found": "対応するアダプターが見つかりません",
@@ -1799,8 +1785,7 @@
     "This Device ID": "このデバイス ID",
     "USB Cable": "USB ケーブル",
     "Unavailable": "利用不可",
-    "Waiting For Cable": "ケーブルを待っています",
-    "Where things are up to.\n\nA supported wired network adapter and cable, or the USB cable, need to be connected at both ends. Direct Link will then set itself up automatically.": "現在の状況。\n\n対応する有線ネットワークアダプターとケーブル、または USB ケーブルを、両端に接続する必要があります。接続すると、ダイレクトリンクが自動的に設定されます。"
+    "Waiting For Cable": "ケーブルを待っています"
   },
   "muxlogo": {
     "Add images to the MUOS/logo folder on your current storage to choose from them here.": "現在のストレージの MUOS/logo フォルダに画像を追加すると、ここから選べます。",
@@ -2088,7 +2073,6 @@
     "Display": "ディスプレイ",
     "External Storage": "外部ストレージ",
     "Folder Path": "フォルダパス",
-    "How hard the processor works while this content is running.\n\nWorth raising only for something that struggles, as it costs battery.": "このコンテンツの実行中にプロセッサがどれだけ頑張るか。\n\nバッテリーを消費するため、動作が重いものにのみ上げることをおすすめします。",
     "How long you have played this in total.": "このコンテンツの合計プレイ時間。",
     "How many times you have opened this.": "このコンテンツを開いた回数。",
     "Information": "情報",
@@ -2109,7 +2093,6 @@
     "Sets how one piece of content behaves, covering its core, control scheme and any overrides. Changes here apply only to the item you opened this from.": "コンテンツ 1 件の動作（コア、コントロール法、上書き設定）を設定します。ここでの変更は、開いた項目にのみ適用されます。",
     "Shader": "シェーダー",
     "Storage": "ストレージ",
-    "System Governor": "通常時のガバナー",
     "The folder this content lives in.": "このコンテンツがあるフォルダ。",
     "The name shown for this content, once any friendly name has been applied.": "フレンドリーネームを適用した後の、このコンテンツの表示名。",
     "The overlay drawn around this content, along with how solid, how large and where it sits.": "このコンテンツの周囲に描画されるオーバーレイと、その濃さ、大きさ、位置。",
@@ -2266,20 +2249,16 @@
     "Cruise": "ふつう",
     "DVD Bounce": "DVD バウンス",
     "Date and Time": "日付と時刻",
-    "Default Governor": "通常時のガバナー",
     "Digital Rain": "デジタルレイン",
     "Endless Hallway": "終わりのない廊下",
     "Fast": "はやい",
     "Fireflies": "ファイアフライ",
     "Flying Box Art": "フライングボックスアート",
     "Gravity Glitch": "グラビティグリッチ",
-    "How hard the processor works during normal use.\n\nThe default suits nearly everything. Pushing it harder costs battery, easing it off may leave heavier content struggling.": "通常使用時にプロセッサがどれだけ働くかの設定。\n\nデフォルトでほぼすべてに対応できます。強くするとバッテリーを消費し、弱めると重いコンテンツで動作が厳しくなる場合があります。",
-    "How hard the processor works once the device has gone idle.\n\nA gentler setting saves battery while nothing is happening. Leave it alone unless you are chasing battery life.": "デバイスがアイドル状態になった後の、プロセッサがどれだけ働くかの設定。\n\n穏やかな設定にすると、何も起きていない間のバッテリーを節約できます。バッテリー持ちを重視する場合以外は、そのままにしてください。",
     "How long the device sits without any input before dimming the screen.\n\nDimming saves battery without interrupting anything, and any press brings it straight back.": "何も入力がない状態から、画面を暗くするまでの時間。\n\n減光は、動作を中断せずにバッテリーを節約します。何かボタンを押せばすぐに戻ります。",
     "How long the device sits without any input before going to sleep.\n\nSleep saves battery and picks up where you left off. Set it longer if it drops off while you are reading something.": "何も入力がない状態から、スリープするまでの時間。\n\nスリープはバッテリーを節約し、中断した状態から再開できます。何かを読んでいる最中にスリープしてしまう場合は、長めに設定してください。",
     "How quickly the screensaver moves about.\n\nEntirely a matter of taste.\n\nHow ludicrous!": "スクリーンセーバーの動く速さ。\n\nそれぞれの好みの問題です。\n\n超はやい！",
     "Idle Display must be less than Idle Sleep": "自動ディスプレイ消灯時間は自動スリープより短くしてください",
-    "Idle Governor": "アイドル時のガバナー",
     "Idle Input Display Timeout": "自動ディスプレイ消灯",
     "Idle Input Sleep Timeout": "自動スリープ",
     "Image Slideshow": "画像スライドショー",
@@ -2587,7 +2566,6 @@
     "Diagonal Lines (2px)": "斜線 (2px)",
     "Diagonal Lines (4px)": "斜線 (4px)",
     "Direct": "ダイレクト",
-    "Direct Link": "ダイレクトリンク",
     "Disc %d": "ディスク %d",
     "Disc Control": "ディスクコントロール",
     "Disc Count": "ディスク枚数",
@@ -3115,7 +3093,6 @@
     "That is not a valid address": "有効なアドレスではありません",
     "That moment could not be restored": "その瞬間を復元できませんでした",
     "That save state could not be brought back": "その中断セーブを復元できませんでした",
-    "The Direct Link connection received invalid data": "ダイレクトリンク接続で無効なデータを受信しました",
     "The Network Play address or port is invalid": "ネットプレイのアドレスまたはポートが無効です",
     "The Network Play connection received invalid data": "ネットプレイ接続で無効なデータを受信しました",
     "The Network Play connection timed out": "ネットプレイ接続がタイムアウトしました",

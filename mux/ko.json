@@ -879,11 +879,8 @@
   "muxappcon": {
     "Application Option": "어플리케이션 옵션",
     "Control Scheme": "제어 방식",
-    "Governor": "거버너",
     "Name": "이름",
-    "Set the CPU governor for the selected application": "선택한 어플리케이션에 대한 CPU 거버너를 설정",
-    "Set the control scheme for the selected application": "선택한 어플리케이션에 대한 제어 체계를 설정",
-    "Sets how one application behaves, covering the core it runs on, its governor and its control scheme. Changes here apply only to the application you opened this from.": "한 어플리케이션의 동작 방식을 설정합니다. 실행 코어, 거버너, 제어 방식이 포함됩니다. 여기서 변경한 설정은 이 화면을 연 해당 어플리케이션에만 적용됩니다."
+    "Set the control scheme for the selected application": "선택한 어플리케이션에 대한 제어 체계를 설정"
   },
   "muxarchive": {
     "Archive Manager": "아카이브 매니저",
@@ -1092,10 +1089,8 @@
   "muxconnect": {
     "Bluetooth": "블루투스",
     "Connectivity": "연결",
-    "Direct Link": "직접 연결",
     "Gathers everything to do with getting your device online or paired with other hardware, covering networks, Bluetooth, proxies and the services that run over them.": "기기를 온라인에 연결하거나 다른 하드웨어와 페어링하는 데 필요한 설정을 모아둡니다. 네트워크, 블루투스, 프록시 및 관련 서비스가 포함됩니다.",
     "Join a Wi-Fi network, either by choosing one nearby or from a profile you have saved.": "주변 네트워크를 선택하거나 저장된 프로필을 사용해 Wi-Fi 네트워크에 연결합니다.",
-    "Join two devices together with a network cable between them for playing together.\n\nWi-Fi carries on as normal for everything else.": "두 기기를 네트워크 케이블로 직접 연결해 함께 플레이합니다.\n\n그 외 기능에서는 Wi-Fi를 평소처럼 계속 사용할 수 있습니다.",
     "Network Settings": "네트워크 설정",
     "Pair, connect and manage Bluetooth devices such as controllers and headphones.": "컨트롤러나 헤드폰 같은 블루투스 기기를 페어링, 연결 및 관리합니다.",
     "Proxy Settings": "프록시 설정",
@@ -1550,11 +1545,6 @@
     "Use the italic axis provided by the selected variable font.": "선택한 가변 글꼴의 기울임 축을 사용합니다.",
     "Which style to use when a font file holds more than one, counted from 0.\n\nLeave it at 0 unless the font calls for another style.": "폰트 파일에 여러 스타일이 들어 있을 때 사용할 스타일 번호입니다. 0부터 셉니다.\n\n폰트에 다른 스타일이 지정되어 있지 않다면 0으로 두세요."
   },
-  "muxgov": {
-    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "CPU 주파수를 동적으로 조정하고 전력 소비와 성능의 균형을 유지하도록 CPU 거버너를 구성",
-    "Governor": "거버너",
-    "No Governors Found...": "거버너가 없음..."
-  },
   "muxhdmi": {
     "Colour Depth": "색상 심도",
     "Colour Range": "색상 범위",
@@ -1644,7 +1634,6 @@
     "Content Control Scheme": "콘텐츠 제어 방식",
     "Content Core": "콘텐츠 코어",
     "Content Explorer": "콘텐츠 탐색기",
-    "Content Governor": "콘텐츠 거버너",
     "Content Options": "콘텐츠 옵션",
     "Content Search": "콘텐츠 검색",
     "Content Shader": "콘텐츠 셰이더",
@@ -1732,7 +1721,6 @@
     "Whether the interface options can be changed, such as what appears in the header.": "헤더 표시 항목 같은 인터페이스 옵션을 변경할 수 있는지 설정합니다.",
     "Whether the network proxy settings can be changed.": "네트워크 프록시 설정을 변경할 수 있는지 설정합니다.",
     "Whether the passcode settings can be changed, including turning the passcode off.": "암호를 끄는 것을 포함해 암호 설정을 변경할 수 있는지 설정합니다.",
-    "Whether the processor governor can be changed for content.": "콘텐츠의 프로세서 거버너를 변경할 수 있는지 설정합니다.",
     "Whether the soundfont used for MIDI music can be changed.": "MIDI 음악에 사용할 사운드폰트를 변경할 수 있는지 설정합니다.",
     "Whether the system language can be changed.": "시스템 언어를 변경할 수 있는지 설정합니다.",
     "Whether the system theme can be changed.": "시스템 테마를 변경할 수 있는지 설정합니다.",
@@ -1779,10 +1767,8 @@
   },
   "muxlink": {
     "Cable Not Connected": "케이블이 연결되지 않음",
-    "Connect two devices with a network adapter cable, or a USB-C cable, and they will find each other on their own.": "네트워크 어댑터 케이블이나 USB-C 케이블로 두 기기를 연결하면 서로 자동으로 찾습니다.",
     "Connected": "연결됨",
     "Connection": "연결",
-    "Direct Link": "직접 연결",
     "Link two devices with a USB-C data cable instead of network adapters.\n\nEnable it on both devices, then connect the charging port of one device to the other USB-C port of the second device. The second device powers the link and charges the first, so connect a charger to its own charging port for longer sessions.\n\nWhile it is enabled, USB Function is paused, and it returns when this is disabled.": "네트워크 어댑터 대신 USB-C 데이터 케이블로 두 기기를 연결합니다.\n\n두 기기에서 모두 켠 다음, 첫 번째 기기의 충전 포트를 두 번째 기기의 다른 USB-C 포트에 연결하세요. 두 번째 기기가 연결에 전원을 공급하고 첫 번째 기기를 충전하므로 오래 사용하려면 두 번째 기기의 충전 포트에 충전기를 연결하세요.\n\n이 기능을 켜면 USB 기능이 일시정지되고, 끄면 다시 사용할 수 있습니다.",
     "Looking For Other Device": "다른 기기 검색 중",
     "No Supported Adapter Found": "지원되는 어댑터를 찾을 수 없음",
@@ -1799,8 +1785,7 @@
     "This Device ID": "이 기기 ID",
     "USB Cable": "USB 케이블",
     "Unavailable": "사용할 수 없음",
-    "Waiting For Cable": "케이블 연결 대기 중",
-    "Where things are up to.\n\nA supported wired network adapter and cable, or the USB cable, need to be connected at both ends. Direct Link will then set itself up automatically.": "현재 연결 진행 상태입니다.\n\n양쪽 기기에 지원되는 유선 네트워크 어댑터와 케이블 또는 USB 케이블이 연결되어 있어야 합니다. 그러면 직접 연결이 자동으로 설정됩니다."
+    "Waiting For Cable": "케이블 연결 대기 중"
   },
   "muxlogo": {
     "Add images to the MUOS/logo folder on your current storage to choose from them here.": "현재 저장소의 MUOS/logo 폴더에 이미지를 추가하면 여기에서 선택할 수 있습니다.",
@@ -2088,7 +2073,6 @@
     "Display": "화면",
     "External Storage": "외부 저장소",
     "Folder Path": "폴더 경로",
-    "How hard the processor works while this content is running.\n\nWorth raising only for something that struggles, as it costs battery.": "이 콘텐츠 실행 중 프로세서가 얼마나 적극적으로 동작할지 설정합니다.\n\n성능이 부족한 콘텐츠에서만 높이는 것이 좋으며 배터리 사용량이 늘어납니다.",
     "How long you have played this in total.": "이 콘텐츠의 총 플레이 시간입니다.",
     "How many times you have opened this.": "이 콘텐츠를 실행한 횟수입니다.",
     "Information": "정보",
@@ -2109,7 +2093,6 @@
     "Sets how one piece of content behaves, covering its core, control scheme and any overrides. Changes here apply only to the item you opened this from.": "한 콘텐츠의 동작 방식을 설정합니다. 코어, 제어 방식 및 오버라이드가 포함됩니다. 여기서 변경한 설정은 이 화면을 연 해당 항목에만 적용됩니다.",
     "Shader": "셰이더",
     "Storage": "저장소",
-    "System Governor": "시스템 거버너",
     "The folder this content lives in.": "이 콘텐츠가 들어 있는 폴더입니다.",
     "The name shown for this content, once any friendly name has been applied.": "사용자 친화적 이름이 적용된 뒤 이 콘텐츠에 표시되는 이름입니다.",
     "The overlay drawn around this content, along with how solid, how large and where it sits.": "이 콘텐츠 주변에 표시할 오버레이와 불투명도, 크기 및 위치를 설정합니다.",
@@ -2266,20 +2249,16 @@
     "Cruise": "보통 성능",
     "DVD Bounce": "DVD 바운스",
     "Date and Time": "날짜와 시간",
-    "Default Governor": "기본 거버너",
     "Digital Rain": "디지털 레인",
     "Endless Hallway": "끝없는 복도",
     "Fast": "고성능",
     "Fireflies": "파이어플라이",
     "Flying Box Art": "날아다니는 박스 아트",
     "Gravity Glitch": "중력 오류",
-    "How hard the processor works during normal use.\n\nThe default suits nearly everything. Pushing it harder costs battery, easing it off may leave heavier content struggling.": "일반 사용 중 프로세서가 얼마나 적극적으로 동작할지 설정합니다.\n\n기본값은 대부분의 경우에 적합합니다. 더 높이면 배터리 사용량이 늘고 낮추면 무거운 콘텐츠에서 성능이 부족할 수 있습니다.",
-    "How hard the processor works once the device has gone idle.\n\nA gentler setting saves battery while nothing is happening. Leave it alone unless you are chasing battery life.": "기기가 유휴 상태가 된 뒤 프로세서가 얼마나 적극적으로 동작할지 설정합니다.\n\n낮게 설정하면 아무 작업이 없을 때 배터리를 절약할 수 있습니다. 배터리 절약이 목적이 아니라면 기본값을 유지하세요.",
     "How long the device sits without any input before dimming the screen.\n\nDimming saves battery without interrupting anything, and any press brings it straight back.": "입력이 없을 때 화면이 어두워지기까지의 시간을 설정합니다.\n\n화면을 어둡게 하면 작업을 중단하지 않고 배터리를 절약할 수 있으며 아무 버튼이나 누르면 즉시 원래 밝기로 돌아옵니다.",
     "How long the device sits without any input before going to sleep.\n\nSleep saves battery and picks up where you left off. Set it longer if it drops off while you are reading something.": "입력이 없을 때 절전 모드로 전환되기까지의 시간을 설정합니다.\n\n절전은 배터리를 절약하고 이전 상태에서 이어집니다. 내용을 읽는 중 자주 절전된다면 시간을 늘리세요.",
     "How quickly the screensaver moves about.\n\nEntirely a matter of taste.\n\nHow ludicrous!": "화면 보호기가 움직이는 속도를 설정합니다.\n\n취향에 따라 선택하세요.\n\n정말 빠르군요!",
     "Idle Display must be less than Idle Sleep": "화면 보호 대기 시간은 슬립 모드 대기 시간보다 작아야 함",
-    "Idle Governor": "유휴 거버너",
     "Idle Input Display Timeout": "화면 보호기 대기 시간",
     "Idle Input Sleep Timeout": "슬립 모드 대기 시간",
     "Image Slideshow": "이미지 슬라이드쇼",
@@ -2587,7 +2566,6 @@
     "Diagonal Lines (2px)": "대각선 (2px)",
     "Diagonal Lines (4px)": "대각선 (4px)",
     "Direct": "직접",
-    "Direct Link": "직접 연결",
     "Disc %d": "디스크 %d",
     "Disc Control": "디스크 제어",
     "Disc Count": "디스크 수",
@@ -3115,7 +3093,6 @@
     "That is not a valid address": "유효한 주소가 아닙니다",
     "That moment could not be restored": "해당 시점을 복원할 수 없음",
     "That save state could not be brought back": "해당 상태 저장을 복원할 수 없음",
-    "The Direct Link connection received invalid data": "직접 연결에서 잘못된 데이터를 받았습니다",
     "The Network Play address or port is invalid": "네트워크 플레이 주소 또는 포트가 잘못됨",
     "The Network Play connection received invalid data": "네트워크 플레이 연결에서 잘못된 데이터를 받음",
     "The Network Play connection timed out": "네트워크 플레이 연결 시간 초과",

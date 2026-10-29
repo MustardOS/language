@@ -879,11 +879,8 @@
   "muxappcon": {
     "Application Option": "Možnost aplikace",
     "Control Scheme": "Kontrolní schéma",
-    "Governor": "Regulátor",
     "Name": "Jméno",
-    "Set the CPU governor for the selected application": "Nastavení regulátoru CPU pro vybranou aplikaci",
-    "Set the control scheme for the selected application": "Nastavení schématu ovládání pro vybranou aplikaci",
-    "Sets how one application behaves, covering the core it runs on, its governor and its control scheme. Changes here apply only to the application you opened this from.": "Nastavuje chování aplikace, včetně jádra, na kterém běží, jejího regulátoru a schématu ovládání. Změny se vztahují pouze na aplikaci, ze které jste toto otevřeli."
+    "Set the control scheme for the selected application": "Nastavení schématu ovládání pro vybranou aplikaci"
   },
   "muxarchive": {
     "Archive Manager": "Správce archivů",
@@ -1092,10 +1089,8 @@
   "muxconnect": {
     "Bluetooth": "Bluetooth",
     "Connectivity": "Konektivita",
-    "Direct Link": "Přímé propojení",
     "Gathers everything to do with getting your device online or paired with other hardware, covering networks, Bluetooth, proxies and the services that run over them.": "Shromažďuje vše, co souvisí s připojením zařízení k internetu nebo spárováním s jiným hardwarem, zahrnující sítě, Bluetooth, proxy a služby, které přes ně běží.",
     "Join a Wi-Fi network, either by choosing one nearby or from a profile you have saved.": "Připojte se k síti Wi-Fi, buď výběrem blízké sítě, nebo z profilu, který jste si uložili.",
-    "Join two devices together with a network cable between them for playing together.\n\nWi-Fi carries on as normal for everything else.": "Propojte dvě zařízení síťovým kabelem pro společné hraní.\n\nWi-Fi pokračuje jako obvykle pro vše ostatní.",
     "Network Settings": "Nastavení sítě",
     "Pair, connect and manage Bluetooth devices such as controllers and headphones.": "Spárujte, připojte a spravujte zařízení Bluetooth, jako jsou ovladače a sluchátka.",
     "Proxy Settings": "Nastavení proxy",
@@ -1550,11 +1545,6 @@
     "Use the italic axis provided by the selected variable font.": "Použijte osu kurzívy poskytovanou vybraným variabilním písmem.",
     "Which style to use when a font file holds more than one, counted from 0.\n\nLeave it at 0 unless the font calls for another style.": "Který styl použít, pokud soubor písma obsahuje více než jeden, počítáno od 0.\n\nNechte na 0, pokud písmo nevyžaduje jiný styl."
   },
-  "muxgov": {
-    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Nakonfigurujte regulátory CPU tak, aby dynamicky upravovaly frekvenci CPU a pomáhaly vyvážit spotřebu energie a výkon",
-    "Governor": "Regulátor (Governor)",
-    "No Governors Found...": "Nebyly nalezeny žádné regulátory..."
-  },
   "muxhdmi": {
     "Colour Depth": "Barevná hloubka",
     "Colour Range": "Barevný rozsah",
@@ -1644,7 +1634,6 @@
     "Content Control Scheme": "Schéma ovládání obsahu",
     "Content Core": "Jádro obsahu",
     "Content Explorer": "Průzkumník obsahu",
-    "Content Governor": "Správce obsahu",
     "Content Options": "Možnosti obsahu",
     "Content Search": "Vyhledávání obsahu",
     "Content Shader": "Shader obsahu",
@@ -1732,7 +1721,6 @@
     "Whether the interface options can be changed, such as what appears in the header.": "Zda lze měnit možnosti rozhraní, například to, co se zobrazuje v záhlaví.",
     "Whether the network proxy settings can be changed.": "Zda lze měnit nastavení síťového proxy.",
     "Whether the passcode settings can be changed, including turning the passcode off.": "Zda lze měnit nastavení přístupového kódu, včetně jeho vypnutí.",
-    "Whether the processor governor can be changed for content.": "Zda lze měnit regulátor procesoru pro obsah.",
     "Whether the soundfont used for MIDI music can be changed.": "Zda lze měnit zvukovou banku (soundfont) používanou pro MIDI hudbu.",
     "Whether the system language can be changed.": "Zda lze měnit systémový jazyk.",
     "Whether the system theme can be changed.": "Zda lze měnit systémový motiv.",
@@ -1779,10 +1767,8 @@
   },
   "muxlink": {
     "Cable Not Connected": "Kabel není připojen",
-    "Connect two devices with a network adapter cable, or a USB-C cable, and they will find each other on their own.": "Propojte dvě zařízení síťovým adaptérovým kabelem nebo kabelem USB-C a sama se najdou.",
     "Connected": "Připojeno",
     "Connection": "Připojení",
-    "Direct Link": "Přímé propojení",
     "Link two devices with a USB-C data cable instead of network adapters.\n\nEnable it on both devices, then connect the charging port of one device to the other USB-C port of the second device. The second device powers the link and charges the first, so connect a charger to its own charging port for longer sessions.\n\nWhile it is enabled, USB Function is paused, and it returns when this is disabled.": "Propojte dvě zařízení datovým kabelem USB-C místo síťových adaptérů.\n\nPovolte jej na obou zařízeních, poté připojte nabíjecí port jednoho zařízení k druhému portu USB-C druhého zařízení. Druhé zařízení napájí propojení a nabíjí první, takže pro delší relace připojte nabíječku k jeho vlastnímu nabíjecímu portu.\n\nZatímco je povoleno, funkce USB je pozastavena a vrátí se, jakmile bude tato funkce zakázána.",
     "Looking For Other Device": "Hledání druhého zařízení",
     "No Supported Adapter Found": "Nebyl nalezen žádný podporovaný adaptér",
@@ -1799,8 +1785,7 @@
     "This Device ID": "ID tohoto zařízení",
     "USB Cable": "USB kabel",
     "Unavailable": "Nedostupné",
-    "Waiting For Cable": "Čekání na kabel",
-    "Where things are up to.\n\nA supported wired network adapter and cable, or the USB cable, need to be connected at both ends. Direct Link will then set itself up automatically.": "Stav připojení.\n\nNa obou koncích musí být připojen podporovaný kabelový síťový adaptér a kabel, nebo USB kabel. Přímé propojení se poté nastaví automaticky."
+    "Waiting For Cable": "Čekání na kabel"
   },
   "muxlogo": {
     "Add images to the MUOS/logo folder on your current storage to choose from them here.": "Přidejte obrázky do složky MUOS/logo na vašem aktuálním úložišti, abyste si je zde mohli vybrat.",
@@ -2088,7 +2073,6 @@
     "Display": "Displej",
     "External Storage": "Externí úložiště",
     "Folder Path": "Cesta ke složce",
-    "How hard the processor works while this content is running.\n\nWorth raising only for something that struggles, as it costs battery.": "Jak moc procesor pracuje, když je tento obsah spuštěn.\n\nStojí za to zvyšovat pouze u obsahu, který běží pomalu, protože to zvyšuje spotřebu baterie.",
     "How long you have played this in total.": "Celková doba hraní tohoto obsahu.",
     "How many times you have opened this.": "Kolikrát jste tento obsah otevřeli.",
     "Information": "Informace",
@@ -2109,7 +2093,6 @@
     "Sets how one piece of content behaves, covering its core, control scheme and any overrides. Changes here apply only to the item you opened this from.": "Nastavuje chování konkrétního obsahu, včetně jeho jádra, kontrolního schématu a všech přepisů. Změny se zde aplikují pouze na položku, ze které jste toto otevřeli.",
     "Shader": "Shader",
     "Storage": "Úložiště",
-    "System Governor": "Řídicí jednotka systému",
     "The folder this content lives in.": "Složka, ve které se tento obsah nachází.",
     "The name shown for this content, once any friendly name has been applied.": "Název zobrazený pro tento obsah po aplikaci uživatelského názvu.",
     "The overlay drawn around this content, along with how solid, how large and where it sits.": "Překryvná vrstva vykreslená kolem tohoto obsahu, včetně její neprůhlednosti, velikosti a umístění.",
@@ -2266,20 +2249,16 @@
     "Cruise": "Plavba",
     "DVD Bounce": "DVD Bounce",
     "Date and Time": "Datum a čas",
-    "Default Governor": "Hlavní Regulátor",
     "Digital Rain": "Digitální déšť",
     "Endless Hallway": "Nekonečná chodba",
     "Fast": "Rychle",
     "Fireflies": "Světlušky",
     "Flying Box Art": "Létající obaly her",
     "Gravity Glitch": "Gravity Glitch",
-    "How hard the processor works during normal use.\n\nThe default suits nearly everything. Pushing it harder costs battery, easing it off may leave heavier content struggling.": "Jak tvrdě procesor pracuje při běžném používání.\n\nVýchozí nastavení vyhovuje téměř všemu. Vyšší výkon stojí baterii, nižší výkon může způsobit problémy u náročnějšího obsahu.",
-    "How hard the processor works once the device has gone idle.\n\nA gentler setting saves battery while nothing is happening. Leave it alone unless you are chasing battery life.": "Jak tvrdě procesor pracuje, když je zařízení nečinné.\n\nŠetrnější nastavení šetří baterii, když se nic neděje. Neměňte, pokud se nesnažíte maximalizovat výdrž baterie.",
     "How long the device sits without any input before dimming the screen.\n\nDimming saves battery without interrupting anything, and any press brings it straight back.": "Jak dlouho je zařízení bez vstupu, než ztlumí obrazovku.\n\nZtlumení šetří baterii bez přerušení čehokoli a jakékoli stisknutí jej okamžitě vrátí zpět.",
     "How long the device sits without any input before going to sleep.\n\nSleep saves battery and picks up where you left off. Set it longer if it drops off while you are reading something.": "Jak dlouho je zařízení bez vstupu, než přejde do režimu spánku.\n\nSpánek šetří baterii a pokračuje tam, kde jste přestali. Nastavte delší dobu, pokud se vypíná, zatímco něco čtete.",
     "How quickly the screensaver moves about.\n\nEntirely a matter of taste.\n\nHow ludicrous!": "Jak rychle se spořič obrazovky pohybuje.\n\nZáleží čistě na vkusu.\n\nJak směšné!",
     "Idle Display must be less than Idle Sleep": "Doba nečinnosti displeje musí být menší než doba nečinnosti a spánku",
-    "Idle Governor": "Nečinný Regulátor",
     "Idle Input Display Timeout": "Časový limit nečinného displeje",
     "Idle Input Sleep Timeout": "Časový limit spánku",
     "Image Slideshow": "Prezentace obrázků",
@@ -2587,7 +2566,6 @@
     "Diagonal Lines (2px)": "Diagonální čáry (2px)",
     "Diagonal Lines (4px)": "Diagonální čáry (4px)",
     "Direct": "Přímé",
-    "Direct Link": "Přímý odkaz",
     "Disc %d": "Disk %d",
     "Disc Control": "Ovládání disku",
     "Disc Count": "Počet disků",
@@ -3115,7 +3093,6 @@
     "That is not a valid address": "To není platná adresa",
     "That moment could not be restored": "Tento okamžik nebylo možné obnovit",
     "That save state could not be brought back": "Tento stav uložení nebylo možné obnovit",
-    "The Direct Link connection received invalid data": "Připojení Direct Link přijalo neplatná data",
     "The Network Play address or port is invalid": "Adresa nebo port pro síťové hraní je neplatný",
     "The Network Play connection received invalid data": "Připojení pro síťové hraní přijalo neplatná data",
     "The Network Play connection timed out": "Připojení pro síťové hraní vypršelo",
