@@ -879,11 +879,8 @@
   "muxappcon": {
     "Application Option": "Aplika Opcio",
     "Control Scheme": "Kontrola skemo",
-    "Governor": "Regulilo",
     "Name": "Nomo",
-    "Set the CPU governor for the selected application": "Agordu la regulilon de CPU por la elektita aplikaĵo",
-    "Set the control scheme for the selected application": "Agordu la kontrolan skemon por la elektita aplikaĵo",
-    "Sets how one application behaves, covering the core it runs on, its governor and its control scheme. Changes here apply only to the application you opened this from.": "Agordas kiel kondutas unu aplikaĵo, kovrante la kernon sur kiu ĝi funkcias, ĝian reganton kaj ĝian kontrolskemon. Ŝanĝoj ĉi tie validas nur por la aplikaĵo de kiu vi malfermis ĉi tion."
+    "Set the control scheme for the selected application": "Agordu la kontrolan skemon por la elektita aplikaĵo"
   },
   "muxarchive": {
     "Archive Manager": "Administrilo de arkivoj",
@@ -1092,10 +1089,8 @@
   "muxconnect": {
     "Bluetooth": "Bluetooth",
     "Connectivity": "Konekteco",
-    "Direct Link": "Rekta Ligo",
     "Gathers everything to do with getting your device online or paired with other hardware, covering networks, Bluetooth, proxies and the services that run over them.": "Kunigas ĉion rilatan al konektado de via aparato al la reto aŭ parigo kun alia aparataro: retojn, Bluetooth, prokurservilojn kaj la servojn, kiuj uzas ilin.",
     "Join a Wi-Fi network, either by choosing one nearby or from a profile you have saved.": "Aliĝu al Wi-Fi-reto, aŭ elektante unu proksiman aŭ el profilo, kiun vi konservis.",
-    "Join two devices together with a network cable between them for playing together.\n\nWi-Fi carries on as normal for everything else.": "Konektu du aparatojn per retkablo por ludi kune.\n\nWi-Fi daŭre funkcios normale por ĉio alia.",
     "Network Settings": "Retaj agordoj",
     "Pair, connect and manage Bluetooth devices such as controllers and headphones.": "Parigu, konektu kaj administru Bluetooth-aparatojn, ekzemple regilojn kaj aŭdilojn.",
     "Proxy Settings": "Prokuraj Agordoj",
@@ -1550,11 +1545,6 @@
     "Use the italic axis provided by the selected variable font.": "Uzu la kursivan akson provizitan de la elektita varia tiparo.",
     "Which style to use when a font file holds more than one, counted from 0.\n\nLeave it at 0 unless the font calls for another style.": "Kiun stilon uzi kiam tiparo dosiero enhavas pli ol unu, nombrite de 0.\n\nLasu ĝin ĉe 0 krom se la tiparo postulas alian stilon."
   },
-  "muxgov": {
-    "Configure CPU governors to dynamically adjust the CPU frequency and help balance power consumption and performance": "Konfiguru CPU-regulilojn por dinamike alĝustigi CPU-frekvencon kaj helpi balanci potenco-konsumon kaj rendimenton",
-    "Governor": "Regulilo",
-    "No Governors Found...": "Neniuj Guberniestroj Trovitaj..."
-  },
   "muxhdmi": {
     "Colour Depth": "Kolora profundo",
     "Colour Range": "Kolora gamo",
@@ -1644,7 +1634,6 @@
     "Content Control Scheme": "Enhava kontrola skemo",
     "Content Core": "Enhava kerno",
     "Content Explorer": "Esplorilo de enhavo",
-    "Content Governor": "Enhava regulilo",
     "Content Options": "Enhavaj opcioj",
     "Content Search": "Enhava serĉo",
     "Content Shader": "Ombrigilo de enhavo",
@@ -1732,7 +1721,6 @@
     "Whether the interface options can be changed, such as what appears in the header.": "Ĉu la interfacaj opcioj povas esti ŝanĝitaj, kiel tio, kio aperas en la kaplinio.",
     "Whether the network proxy settings can be changed.": "Ĉu la retaj prokuraj agordoj povas esti ŝanĝitaj.",
     "Whether the passcode settings can be changed, including turning the passcode off.": "Ĉu la paskodaj agordoj povas esti ŝanĝitaj, inkluzive de malŝalto de la paskodo.",
-    "Whether the processor governor can be changed for content.": "Ĉu la procesoro-guberniestro povas esti ŝanĝita por enhavo.",
     "Whether the soundfont used for MIDI music can be changed.": "Ĉu la sonofonto uzata por MIDI-muziko povas esti ŝanĝita.",
     "Whether the system language can be changed.": "Ĉu la sistemlingvo povas esti ŝanĝita.",
     "Whether the system theme can be changed.": "Ĉu la sistema temo povas esti ŝanĝita.",
@@ -1779,10 +1767,8 @@
   },
   "muxlink": {
     "Cable Not Connected": "Kablo Ne Konektita",
-    "Connect two devices with a network adapter cable, or a USB-C cable, and they will find each other on their own.": "Konektu du aparatojn per retadaptila kablo, aŭ kablo USB-C, kaj ili trovos unu la alian memstare.",
     "Connected": "Konektita",
     "Connection": "Konekto",
-    "Direct Link": "Rekta Ligo",
     "Link two devices with a USB-C data cable instead of network adapters.\n\nEnable it on both devices, then connect the charging port of one device to the other USB-C port of the second device. The second device powers the link and charges the first, so connect a charger to its own charging port for longer sessions.\n\nWhile it is enabled, USB Function is paused, and it returns when this is disabled.": "Ligu du aparatojn per USB-C-datumkablo anstataŭ retadaptiloj.\n\nEbligu tion ĉe ambaŭ aparatoj, poste konektu la ŝargkonektilon de unu aparato al USB-C-konektilo de la alia. La dua aparato provizas elektron por la konekto kaj ŝargas la unuan; por pli longaj sesioj, konektu ŝargilon al ĝia aparta ŝargkonektilo.\n\nDum ĉi tiu opcio estas ebligita, USB-funkcio estas paŭzigita kaj rekomenciĝas kiam ĝi estas malŝaltita.",
     "Looking For Other Device": "Serĉado de alia aparato",
     "No Supported Adapter Found": "Neniu subtenata adaptilo trovita",
@@ -1799,8 +1785,7 @@
     "This Device ID": "Ĉi tiu Aparato ID",
     "USB Cable": "USB Kablo",
     "Unavailable": "Nedisponebla",
-    "Waiting For Cable": "Atendante Kablon",
-    "Where things are up to.\n\nA supported wired network adapter and cable, or the USB cable, need to be connected at both ends. Direct Link will then set itself up automatically.": "Nuna stato.\n\nSubtenata kablita retadaptilo kaj kablo aŭ USB-kablo devas esti konektitaj ĉe ambaŭ finoj. Rekta konekto tiam estos agordita aŭtomate."
+    "Waiting For Cable": "Atendante Kablon"
   },
   "muxlogo": {
     "Add images to the MUOS/logo folder on your current storage to choose from them here.": "Aldonu bildojn al la dosierujo MUOS/logo en via nuna stokilo, por elekti ilin ĉi tie.",
@@ -2088,7 +2073,6 @@
     "Display": "Ekrano",
     "External Storage": "Ekstera memoro",
     "Folder Path": "Dosieruja vojo",
-    "How hard the processor works while this content is running.\n\nWorth raising only for something that struggles, as it costs battery.": "Kiom malfacile funkcias la procesoro dum ĉi tiu enhavo funkcias.\n\nValoras levi nur por io kiu luktas, ĉar ĝi kostas kuirilaron.",
     "How long you have played this in total.": "Kiom longe vi ludis ĉi tion entute.",
     "How many times you have opened this.": "Kiom da fojoj vi malfermis ĉi tion.",
     "Information": "Informoj",
@@ -2109,7 +2093,6 @@
     "Sets how one piece of content behaves, covering its core, control scheme and any overrides. Changes here apply only to the item you opened this from.": "Agordas kiel kondutas unu enhavo, kovrante sian kernon, kontrolskemon kaj iujn ajn anstataŭojn. Ŝanĝoj ĉi tie validas nur por la objekto de kiu vi malfermis ĉi tion.",
     "Shader": "Ombrigilo",
     "Storage": "Stokado",
-    "System Governor": "Sistema regulilo",
     "The folder this content lives in.": "La dosierujo en kiu ĉi tiu enhavo loĝas.",
     "The name shown for this content, once any friendly name has been applied.": "La nomo montrita por ĉi tiu enhavo, post kiam iu ajn amika nomo estis aplikita.",
     "The overlay drawn around this content, along with how solid, how large and where it sits.": "La superkovro desegnita ĉirkaŭ ĉi tiu enhavo, kune kun kiom solida, kiom granda kaj kie ĝi sidas.",
@@ -2266,20 +2249,16 @@
     "Cruise": "Kruizu",
     "DVD Bounce": "DVD-resalto",
     "Date and Time": "Dato kaj Tempo",
-    "Default Governor": "Defaŭlta regulilo",
     "Digital Rain": "Cifereca Pluvo",
     "Endless Hallway": "Senfina Koridoro",
     "Fast": "Rapida",
     "Fireflies": "Fulgoroj",
     "Flying Box Art": "Flugantaj kovrilbildoj",
     "Gravity Glitch": "Gravita misfunkcio",
-    "How hard the processor works during normal use.\n\nThe default suits nearly everything. Pushing it harder costs battery, easing it off may leave heavier content struggling.": "Kiom malfacile funkcias la procesoro dum normala uzo.\n\nLa defaŭlta konvenas preskaŭ ĉion. Pli forte puŝi ĝin kostas kuirilaron, malstreĉi ĝin povas lasi pli pezan enhavon luktanta.",
-    "How hard the processor works once the device has gone idle.\n\nA gentler setting saves battery while nothing is happening. Leave it alone unless you are chasing battery life.": "Kiom intense la procesoro funkcias kiam la aparato estas neaktiva.\n\nPli modera agordo ŝparas baterion dum nenio okazas. Ŝanĝu ĝin nur se vi volas plilongigi la baterian daŭron.",
     "How long the device sits without any input before dimming the screen.\n\nDimming saves battery without interrupting anything, and any press brings it straight back.": "Kiom longe la aparato devas resti sen enigo antaŭ ol la ekrano malheliĝas.\n\nMalheligo ŝparas baterion sen interrompi ion ajn, kaj ĉiu premo tuj restarigas la ekranon.",
     "How long the device sits without any input before going to sleep.\n\nSleep saves battery and picks up where you left off. Set it longer if it drops off while you are reading something.": "Kiom longe la aparato devas resti sen enigo antaŭ ol ĝi eniras dormreĝimon.\n\nDormreĝimo ŝparas baterion kaj ebligas rekomenci tie, kie vi ĉesis. Plilongigu la tempon, se la aparato endormiĝas dum vi legas.",
     "How quickly the screensaver moves about.\n\nEntirely a matter of taste.\n\nHow ludicrous!": "La rapideco de moviĝo de la ekranŝirmilo.\n\nTute laŭplaĉe.\n\nKiel absurde!",
     "Idle Display must be less than Idle Sleep": "Senokupa ekrano devas esti malpli ol senokupa dormo",
-    "Idle Governor": "Senokupa regulilo",
     "Idle Input Display Timeout": "Senokupa eniga ekrana tempolimo",
     "Idle Input Sleep Timeout": "Senokupa eniga dorma tempolimo",
     "Image Slideshow": "Bilda prezento",
@@ -2587,7 +2566,6 @@
     "Diagonal Lines (2px)": "Diagonaj linioj (2px)",
     "Diagonal Lines (4px)": "Diagonaj linioj (4px)",
     "Direct": "Rekta",
-    "Direct Link": "Rekta Ligo",
     "Disc %d": "Disko %d",
     "Disc Control": "Disko-Kontrolo",
     "Disc Count": "Diskokalkulo",
@@ -3115,7 +3093,6 @@
     "That is not a valid address": "Tio ne estas valida adreso",
     "That moment could not be restored": "Tiu momento ne povis esti restarigita",
     "That save state could not be brought back": "Ne eblis restarigi tiun konservitan staton",
-    "The Direct Link connection received invalid data": "La konekto Direct Link ricevis nevalidajn datumojn",
     "The Network Play address or port is invalid": "La adreso aŭ pordo de retludado ne validas",
     "The Network Play connection received invalid data": "La retluda konekto ricevis nevalidajn datumojn",
     "The Network Play connection timed out": "La retluda konekto eltempiĝis",
