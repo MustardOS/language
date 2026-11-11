@@ -4449,7 +4449,7 @@
   },
   "muxwebcode": {
     "Authentication is turned off, so the Web Dashboard can make changes without a code.": "Uwierzytelnienie jest wyłączone, Panel online może dokonywać zmian bez kodu.",
-    "Changes in %d seconds": "Zmienia się za %d sekundy",
+    "Changes in %d seconds": "Zmieni się za %d sekundy",
     "IP Address": "Adres IP",
     "Local Address": "Adres lokalny",
     "No network address yet": "Brak adresu sieciowego",
