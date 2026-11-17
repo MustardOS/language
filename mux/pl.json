@@ -1016,7 +1016,7 @@
   },
   "muxarchive": {
     "Archive Manager": "Menedżer archiwów",
-    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Archiwalne elementy można znaleźć i zainstalować tutaj – zapisy gier i stanów, aktualizacje, motywy itp",
+    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Archiwalne elementy można znaleźć i zainstalować tutaj - Zapisy gier i stanów, aktualizacje, motywy itp",
     "Archives placed on your current storage will appear here.": "Archiwa umieszczone w bieżącej pamięci zostaną pokazane tutaj.",
     "Contents": "Zawartość",
     "Created": "Utworzono",
@@ -1863,7 +1863,7 @@
     "Reports what your device is doing, covering system and battery details, network status, storage use and play activity.": "Zgłasza, co robi urządzenie, w tym szczegóły systemu, baterii, sieci, pamięci oraz aktywność.",
     "Restarts the frontend so it picks up any configuration or theme changes.\n\nQuicker than a full reboot, and your content is left alone.": "Uruchamia ponownie frontend, aby zastosować wszelkie zmiany w konfiguracji lub motywie.\n\nSzybsze, niż pełne ponowne uruchomienie, bez ruszania zawartości.",
     "Screenshots": "Zrzuty ekranu",
-    "Storage Space": "Przestrzeń dyskowa",
+    "Storage Space": "Przestrzeń pamięci",
     "Supporters and Credits": "Wspierający i twórcy",
     "The people who support MustardOS and everyone who has helped along the way.": "Ludzie, którzy wspierają MustardOS i wszyscy, którzy pomogli po drodze.",
     "The third party libraries built into this release, with the version of each one.": "Zewnętrzne biblioteki wbudowane w to wydanie, z wersją każdej z nich.",
@@ -1899,7 +1899,7 @@
     "Backup": "Kopia zapasowa",
     "Bluetooth": "Bluetooth",
     "Collection Access": "Dostęp do kolekcji",
-    "Collection Adding Content": "Dodawanie treści do kolekcji",
+    "Collection Adding Content": "Dodawanie zawartości do kolekcji",
     "Collection Folder Creation": "Tworzenie folderów kolekcji",
     "Collection Removal": "Usuwanie kolekcji",
     "Collection Viewing": "Przeglądanie kolekcji",
@@ -3083,7 +3083,7 @@
     "How loud the game is, from silent up to 200%, in steps of 10%.\n\nAnything above 100% boosts quiet games, though the loudest parts may distort. This is not connected to the global system volume.": "Jak głośna jest gra, od braku dźwięku, po 200%, w krokach po 10%.\n\nWszystko ponad 100% podbija ciche gry, ale głośniejsze fragmenty mogą przesterowywać. Nie jest to powiązane z globalną głośnością systemu.",
     "How many deleted save states to keep hold of before they are gone for good.\n\nDisabled deletes them straight away, and anything waiting in the trash still takes up room on the card.": "Ile zatrzymać usuniętych zapisów stanu, zanim znikną na zawsze.\n\nWyłączony usuwa je od razu, a wszystko, co czeka w koszu dalej zajmuje miejsce na karcie.",
     "How many other players you are willing to let in.\n\nThe ceiling depends on how many ports the game itself supports.": "Ilu innym graczom pozwolisz się podłączyć.\n\nGórna granica zależy od tego, ile portów obsługuje sama gra.",
-    "How many past moments to remember, so you can step back to where you were before loading a save state.\n\nDisabled turns it off, and they are held in memory only, so they are gone once you close the game.": "Ile poprzednich momentów zapamiętać, by móc cofnąć się do miejsca przed wczytaniem zapisu stanu.\n\nWyłączony wyłącza tę funkcję, a stany zapisu są jedynie w pamięci, więc znikają w momencie zamknięcia gry.",
+    "How many past moments to remember, so you can step back to where you were before loading a save state.\n\nDisabled turns it off, and they are held in memory only, so they are gone once you close the game.": "Ile poprzednich momentów zapamiętać, by móc cofnąć się do miejsca przed wczytaniem zapisu stanu.\n\nWyłączony wyłącza tę funkcję, a zapisy stanu są jedynie w pamięci, więc znikają w momencie zamknięcia gry.",
     "How many rolling timeline slots to keep, from 2 to 10.\n\nOnce that many exist, capturing a new one overwrites the oldest.": "Ile zapisów linii czasu zachować, od 2 do 10.\n\nKiedy istnieje tyle zapisów, nowy nadpisze najstarszy.",
     "How much detail appears on screen when you unlock something.\n\nBasic is a small announcement, Detailed shows more about what you just earned.": "Jak dużo szczegółów pojawia się na ekranie, gdy coś się odblokuje.\n\nPodstawowy to małe ogłoszenie, Szczegółowy pokazuje więcej informacji o osiągnięciu.",
     "How much quicker things run while fast forward is active, from a gentle 2x up to a brisk 8x.": "Jak szybko chodzi zawartość, kiedy włączony jest tryb szybki, od delikatnego 2x do szybkiego 8x.",
@@ -3991,7 +3991,7 @@
     "Pickles Data": "Dane Pickles",
     "Purge Everything": "Usuń wszystko",
     "Save Data": "Dane zapisów",
-    "Save states and in-game saves for your content.\n\nThe one thing worth backing up regularly, as it is the only data you cannot simply download again.": "Stany zapisu i pliki zapisów dla zawartości.\n\nJedyna rzecz warta regularnego kopiowania, gdyż to jedyne dane, których nie da się pobrać jeszcze raz.",
+    "Save states and in-game saves for your content.\n\nThe one thing worth backing up regularly, as it is the only data you cannot simply download again.": "Zapisy stanu i pliki zapisów dla zawartości.\n\nJedyna rzecz warta regularnego kopiowania, gdyż to jedyne dane, których nie da się pobrać ponownie.",
     "Saves and Activity": "Zapisy i aktywność",
     "Screenshots": "Zrzuty ekranu",
     "Settings Profiles": "Profile ustawień",
@@ -4074,7 +4074,7 @@
   "muxtester": {
     "Input Tester": "Testowanie klawiszy",
     "Press DOWN + A to finish testing": "Wciśnij DÓŁ + A, aby zakończyć testowanie",
-    "Press DOWN + B to finish testing": "Naciśnij DOWN + B, aby zakończyć testowanie"
+    "Press DOWN + B to finish testing": "Wciśnij DOWN + B, aby zakończyć testowanie"
   },
   "muxtheme": {
     "Incompatible Theme Resolution Detected": "Wykryto niekompatybilną rozdzielczość motywu",
